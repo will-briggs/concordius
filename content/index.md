@@ -37,7 +37,7 @@ It is the method the Concordius Papers use when they leave the domain of formal 
 
 ## Structural Readings
 
-The method applied. If the Concordius framework is correct, it should be able to read texts it did not produce — to find, in independent sources from across the world's traditions, the same structural content the framework derives from first principles. The Structural Readings are that test.
+The model applied. If the Concordius framework is correct, it should be able to read texts it did not produce — to find, in independent sources from across the world's traditions, the same structural content the framework derives from first principles. The Structural Readings are that test.
 
 They apply the framework to the Bible, Shakespeare's Sonnets, Plato, Laozi, Spinoza, Plotinus, the Bhagavad Gita, Marcus Aurelius, and others. In each case the question is the same: does the independently recognized depth of this text correspond to the structural features the framework predicts? The answer, consistently, is yes — and specifically.
 
