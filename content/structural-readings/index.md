@@ -41,6 +41,12 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ---
 
+## Memes
+
+[Structural Reading of Memes →](/structural-readings/structural-reading-of-memes/)
+
+---
+
 ## Appendix: Thematic Readings
 
 [[Appendix/01 — The Principle and the Identity of the Logos|I — The Principle and the Identity of the Logos]]
