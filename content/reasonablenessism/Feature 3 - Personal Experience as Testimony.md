@@ -1,3 +1,5 @@
+*← [[Feature 2 - The Steelman Is the Test|Feature 2 — The Steelman Is the Test]] · [[Feature 4 - The Stance Applies to Itself|Feature 4 — The Stance Applies to Itself]] →*
+
 # Feature 3 — Personal Experience as Testimony
 
 *Discipline the Passive — features that train the evaluating mind to receive properly.*
@@ -23,3 +25,7 @@ Personal experience is τ_r evidence: the phenomenological signature of τ_r(D, 
 ---
 
 *(Part of Reasonablenessism — the method. See [[Overview]] for the full feature index.)*
+
+---
+
+*← [[Feature 2 - The Steelman Is the Test|Feature 2 — The Steelman Is the Test]] · [[Feature 4 - The Stance Applies to Itself|Feature 4 — The Stance Applies to Itself]] →*

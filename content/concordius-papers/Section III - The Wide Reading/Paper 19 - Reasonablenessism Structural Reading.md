@@ -1,3 +1,5 @@
+*← [[Paper 18 - Augustine Confessions Case Study|Paper 18 — Augustine's Confessions: Case Study]] · [[Paper 20 - The Family as Spectral Structure|Paper 20 — The Family as Spectral Structure]] →*
+
 # Paper 19 — The Method Reading Itself: A Structural Reading of Reasonablenessism
 
 **Status:** Complete  
@@ -251,3 +253,7 @@ That is Reasonablenessism. It is how the material is approached. It is how a lif
 ---
 
 *Cross-references: Paper 9 (Gödel — every sufficiently rich formal system contains truths it cannot prove; the Si-Do gap of every epistemological system, including this one); Paper 15 (Φ ⊂ H as the Method/Model relation; Third Man dissolution applied to the method-as-not-one-more-claim); Paper 17 (the Reasonable Person as phronesis — recognitional, not definitional; Aristotle's practical wisdom and the Φ-proximate attractor); Paper 18 (Feature 8 correction as the ascending career at the epistemological scale; the Adjuster's retrospective signature and Feature 4 as its epistemic analog); Paper 20 (the Trogoautoegocrat and the structural collapse of false signals — the Initiated Manifesto's account of pragmatism's failure)*
+
+---
+
+*← [[Paper 18 - Augustine Confessions Case Study|Paper 18 — Augustine's Confessions: Case Study]] · [[Paper 20 - The Family as Spectral Structure|Paper 20 — The Family as Spectral Structure]] →*

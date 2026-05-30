@@ -1,3 +1,5 @@
+*← [[Feature 3 - Personal Experience as Testimony|Feature 3 — Personal Experience as Testimony]] · [[Feature 5 - Provenance Is Irrelevant to Truth-Value|Feature 5 — Provenance Is Irrelevant to Truth-Value]] →*
+
 # Feature 4 — The Stance Applies to Itself
 
 *Discipline the Passive — features that train the evaluating mind to receive properly.*
@@ -25,3 +27,7 @@ Feature 4 is the epistemic analog of the Thought Adjuster: the component that or
 ---
 
 *(Part of Reasonablenessism — the method. See [[Overview]] for the full feature index.)*
+
+---
+
+*← [[Feature 3 - Personal Experience as Testimony|Feature 3 — Personal Experience as Testimony]] · [[Feature 5 - Provenance Is Irrelevant to Truth-Value|Feature 5 — Provenance Is Irrelevant to Truth-Value]] →*

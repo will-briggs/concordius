@@ -1,3 +1,5 @@
+*← [[Paper 25 - Man No. 4|Paper 25 — Man No. 4]] · [[Paper 27 - Man No. 6|Paper 27 — Man No. 6]] →*
+
 # Paper 26 — Man No. 5
 
 *Concordius Structural Series — Section IV: The Seven Men*
@@ -114,3 +116,7 @@ The crystallized soul's persistence through H₄₈ dissolution changes the stru
 ---
 
 *Paper 26 of the Concordius series. Section IV continues with Paper 27: Man No. 6.*
+
+---
+
+*← [[Paper 25 - Man No. 4|Paper 25 — Man No. 4]] · [[Paper 27 - Man No. 6|Paper 27 — Man No. 6]] →*

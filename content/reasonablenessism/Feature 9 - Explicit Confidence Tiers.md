@@ -1,3 +1,5 @@
+*← [[Feature 8 - Universal Subjective Convergence Implies Objectivity|Feature 8 — Universal Subjective Convergence Implies Objectivity]] · [[Feature 10 - Logic Where It Reaches; Concordance Where It Doesn't|Feature 10 — Logic Where It Reaches; Concordance Where It Doesn't]] →*
+
 # Feature 9 — Explicit Confidence Tiers
 
 *Constitute the Reconciling operation — the specific mechanisms that mediate between reality and the evaluating mind.*
@@ -23,3 +25,7 @@ In Concordius, confidence tiers map onto the constraint hierarchy. Tier 1: logic
 ---
 
 *(Part of Reasonablenessism — the method. See [[Overview]] for the full feature index.)*
+
+---
+
+*← [[Feature 8 - Universal Subjective Convergence Implies Objectivity|Feature 8 — Universal Subjective Convergence Implies Objectivity]] · [[Feature 10 - Logic Where It Reaches; Concordance Where It Doesn't|Feature 10 — Logic Where It Reaches; Concordance Where It Doesn't]] →*

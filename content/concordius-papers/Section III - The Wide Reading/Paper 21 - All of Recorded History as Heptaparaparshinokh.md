@@ -1,3 +1,5 @@
+*← [[Paper 20 - The Family as Spectral Structure|Paper 20 — The Family as Spectral Structure]] · [[Paper 22 - Man No. 1|Paper 22 — Man No. 1]] →*
+
 # Paper 21 — All of Recorded History as Heptaparaparshinokh
 
 *Concordius Structural Series*
@@ -180,3 +182,7 @@ This paper asserts fractal mirroring without fully deriving it. Paper 22 and tho
 ---
 
 *Paper 21 of the Concordius series. This paper completes Section III (Papers 15–21). The series continues with Paper 22: Man No. 1.*
+
+---
+
+*← [[Paper 20 - The Family as Spectral Structure|Paper 20 — The Family as Spectral Structure]] · [[Paper 22 - Man No. 1|Paper 22 — Man No. 1]] →*

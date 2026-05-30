@@ -1,3 +1,5 @@
+*← [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6 — Gravitational Eigenvalue Sifting]] · [[Paper 8 - The Maximum Downward Entry|Paper 8 — The Maximum Downward Entry]] →*
+
 # The Trogoautoegocrat: The Reciprocal Maintenance of the Created Order
 
 *Seventh paper in the Concordius series. Companion to Papers 1–6.*
@@ -239,3 +241,7 @@ The Trogoautoegocrat is the universe maintaining itself in the image of the choi
 ---
 
 *Cross-reference: [[Paper 1 - Modeling Reality as a Gelfand Triple]]; [[Paper 2 - From the Cogito to the Logos]]; [[Paper 3 - The First Free Act]]; [[Paper 4 - Descent as Densification]]; [[Physics Concordance]] — Trogoautoegocrat, Heptaparaparshinokh, Heropass entries; [[The Structural Reading]]; [[Appendix I - Structural Reading of the Concordius Series]]*
+
+---
+
+*← [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6 — Gravitational Eigenvalue Sifting]] · [[Paper 8 - The Maximum Downward Entry|Paper 8 — The Maximum Downward Entry]] →*

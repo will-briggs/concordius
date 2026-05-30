@@ -1,3 +1,5 @@
+*← [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17 — The Nicomachean Ethics: Case Study]] · [[Paper 19 - Reasonablenessism Structural Reading|Paper 19 — Reasonablenessism: Structural Reading]] →*
+
 # Paper 18 — The Ascending Career as Autobiography: A Structural Reading of Augustine's *Confessions*
 
 **Status:** Complete  
@@ -248,3 +250,7 @@ The *City of God* extends the ascending career analysis across historical time: 
 ---
 
 *Cross-references: Paper 3 (eigenvalue attraction — the attractor as constitutive feature of the Adjuster-bearing being); Paper 11 (Matthew 18:20 mechanism — the vision at Ostia as joint catching; the pear theft as inverted Matthew 18:20); Paper 14 (constraint compatibility — the neo-Platonic half-ascent as maximum intellectual ascent without the kenotic bridge); Paper 8 (kenotic entry — the Incarnation as the downward movement the neo-Platonic books lack); Paper 15 (active intellect as Thought Adjuster; 'Thou wert with me' as Adjuster retrospective presence; memory as H₂₄ deposit); Paper 16 (Republic case study — Si-Do gap reaching to eschatology; five-regime cascade at civilizational scale in De Civitate Dei); Paper 17 (NE case study — akrasia as eigenvalue instability; consuetudo as the Augustinian equivalent; virtue-friendship and the vision at Ostia)*
+
+---
+
+*← [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17 — The Nicomachean Ethics: Case Study]] · [[Paper 19 - Reasonablenessism Structural Reading|Paper 19 — Reasonablenessism: Structural Reading]] →*

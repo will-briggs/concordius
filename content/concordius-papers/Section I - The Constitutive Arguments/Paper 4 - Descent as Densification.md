@@ -1,3 +1,5 @@
+*← [[Paper 3 - The First Free Act|Paper 3 — The First Free Act]] · [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5 — H₄₈: The Higgs Mechanism Arrives]] →*
+
 # Descent as Densification: The Archetype of the Heptaparaparshinokh
 
 *Fourth paper in the Concordius series. Companion to "Modeling Reality as a Gelfand Triple," "From the Cogito to the Logos," and "The First Free Act."*
@@ -329,3 +331,7 @@ Gurdjieff's Table of Hydrogens assigns to each grade of matter a number represen
 The differences are equally important. First, the H in Gurdjieff's notation stands for *hydrogen* — used as a generic term for matter at a given level of refinement, by analogy with the lightest element — while in the series' notation H designates the Hilbert space of quantum mechanics, a specific mathematical object. The notational resemblance is coincidental; the definitions are not related. Second, Gurdjieff's hydrogen system extends in both directions beyond the series' cascade. Finer than H3, Gurdjieff recognizes H1 (Absolute); denser than H96, his system continues through H192, H384, and H768. These denser hydrogens describe degrees of refinement *within* the H₄₈ level — the three foods of man (physical food at H768, air at H192, impressions entering at H48) are transformations occurring inside a single cascade level, not transitions between cascade levels. The series' Hₙ notation describes only between-level structure; it does not attempt to name the within-level refinements Gurdjieff's system tracks. Third, Gurdjieff's numbers are assigned from cosmological observation; the series' subscripts are derived from the mathematics of eigenstate selection. The derivation supplies the structural reason for what Gurdjieff established empirically.
 
 *Cross-reference: [[Paper 1 - Modeling Reality as a Gelfand Triple]]; [[Paper 2 - From the Cogito to the Logos]]; [[Paper 3 - The First Free Act]]; [[Physics Concordance]] — Ray of Creation and Trogoautoegocrat entries; [[The Structural Reading]]; [[Episodes/Season 1/S1E4 - Clifford Algebra in Time: The Seven Bestowal Missions]]*
+
+---
+
+*← [[Paper 3 - The First Free Act|Paper 3 — The First Free Act]] · [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5 — H₄₈: The Higgs Mechanism Arrives]] →*

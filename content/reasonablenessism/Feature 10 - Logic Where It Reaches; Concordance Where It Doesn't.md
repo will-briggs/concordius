@@ -1,3 +1,5 @@
+*← [[Feature 9 - Explicit Confidence Tiers|Feature 9 — Explicit Confidence Tiers]] · [[Feature 11 - Minimum Necessary Miracles|Feature 11 — Minimum Necessary Miracles]] →*
+
 # Feature 10 — Logic Where It Reaches; Concordance Where It Doesn't
 
 *Constitute the Reconciling operation — the specific mechanisms that mediate between reality and the evaluating mind.*
@@ -21,3 +23,7 @@ The Logic/Concordance boundary is named precisely in the series: derivation runs
 ---
 
 *(Part of Reasonablenessism — the method. See [[Overview]] for the full feature index.)*
+
+---
+
+*← [[Feature 9 - Explicit Confidence Tiers|Feature 9 — Explicit Confidence Tiers]] · [[Feature 11 - Minimum Necessary Miracles|Feature 11 — Minimum Necessary Miracles]] →*

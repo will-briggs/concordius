@@ -1,3 +1,5 @@
+*← [[Paper 11 - The Holographic Content Principle|Paper 11 — The Holographic Content Principle]] · [[Paper 13 - Bach Art of Fugue Case Study|Paper 13 — Bach Case Study: The Art of Fugue]] →*
+
 # Paper 12 — The Structural Reading in Practice: Hopkins's "My own heart let me more have pity on"
 
 *Case Study 1 in a series on structural reading of non-theological texts*
@@ -168,3 +170,7 @@ This paper is the first of a projected series of structural readings of non-theo
 ---
 
 *Cross-references: Paper 10 (τ(D) defined); Paper 9 (incompleteness as structural confirmation); Paper 11 (Holographic Content Principle; interval positions; fidelity gradient); Structural Readings 03 (noise floor reduction; 1 Kings 19; Gethsemane); Structural Readings 05 (Nigredo; solve et coagula); Structural Readings 01 (Matthew 6:25-32; eigenvalue attraction mechanism)*
+
+---
+
+*← [[Paper 11 - The Holographic Content Principle|Paper 11 — The Holographic Content Principle]] · [[Paper 13 - Bach Art of Fugue Case Study|Paper 13 — Bach Case Study: The Art of Fugue]] →*

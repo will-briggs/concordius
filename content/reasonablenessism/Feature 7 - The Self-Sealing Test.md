@@ -1,3 +1,5 @@
+*← [[Feature 6 - Convergence of Independent Witnesses|Feature 6 — Convergence of Independent Witnesses]] · [[Feature 8 - Universal Subjective Convergence Implies Objectivity|Feature 8 — Universal Subjective Convergence Implies Objectivity]] →*
+
 # Feature 7 — The Self-Sealing Test
 
 *Protect the Active — features that ensure genuine signal reaches through Passive distortion.*
@@ -23,3 +25,7 @@ Feature 7 identifies claims whose τ(D) approaches 1 — not by derivation but b
 ---
 
 *(Part of Reasonablenessism — the method. See [[Overview]] for the full feature index.)*
+
+---
+
+*← [[Feature 6 - Convergence of Independent Witnesses|Feature 6 — Convergence of Independent Witnesses]] · [[Feature 8 - Universal Subjective Convergence Implies Objectivity|Feature 8 — Universal Subjective Convergence Implies Objectivity]] →*

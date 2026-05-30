@@ -1,3 +1,5 @@
+*← [[Paper 26 - Man No. 5|Paper 26 — Man No. 5]] · [[Paper 28 - Man No. 7|Paper 28 — Man No. 7]] →*
+
 # Paper 27 — Man No. 6
 
 *Concordius Structural Series — Section IV: The Seven Men*
@@ -114,3 +116,7 @@ This paper has described Man 6 as the state in which both higher centers are sub
 ---
 
 *Paper 27 of the Concordius series. Section IV pauses here. Paper 28 (Man No. 7) follows after reflection.*
+
+---
+
+*← [[Paper 26 - Man No. 5|Paper 26 — Man No. 5]] · [[Paper 28 - Man No. 7|Paper 28 — Man No. 7]] →*

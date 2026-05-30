@@ -1,3 +1,5 @@
+*← [[Paper 7 - The Trogoautoegocrat|Paper 7 — The Trogoautoegocrat]] · [[Paper 9 - Incompleteness Derived|Paper 9 — Incompleteness Derived]] →*
+
 # Paper 8 — The Maximum Downward Entry: Kenosis, the Miracles, and the Resurrection Body
 
 **Status:** Complete  
@@ -200,3 +202,7 @@ The post-Ascension destination further amplifies this: Section 9 establishes the
 ## Reviewer Notes
 
 **RN1 — Cross-term notation (Section 4).** The miracle mechanism uses ⟨Φ_expressed, ψ_H48⟩ to describe the cross-term between the expressed Φ content and the local H₄₈ eigenstate. This notation risks conflating two structurally distinct operations: the constitutive ⟨·,·⟩ (which generates the space and is prior to any elements in it) and a Hamiltonian coupling term between elements at different constraint levels within H. The constitutive inner product is not an interaction term between states — it constitutes the states. The cross-term being invoked in Section 4 is better understood as an off-diagonal coupling between the H₂₄ subspace and the H₄₈ subspace: a standard quantum mechanical perturbation term in which the partially-lifted kenotic constraint modulates the coupling amplitude between the two subspaces. The miracles are then controlled coupling events, with coupling strength determined by how much of the kenotic constraint is lifted in the given context. The paper should clarify which inner product the cross-term notation invokes and adopt the Hamiltonian coupling register explicitly where the miracles' mechanism is described. *(Reviewer: Adam Atomman)*
+
+---
+
+*← [[Paper 7 - The Trogoautoegocrat|Paper 7 — The Trogoautoegocrat]] · [[Paper 9 - Incompleteness Derived|Paper 9 — Incompleteness Derived]] →*

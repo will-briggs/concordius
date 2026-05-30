@@ -1,3 +1,5 @@
+*← [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21 — All of Recorded History as Heptaparaparshinokh]] · [[Paper 23 - Man No. 2|Paper 23 — Man No. 2]] →*
+
 # Paper 22 — Man No. 1
 
 *Concordius Structural Series — Section IV: The Seven Men*
@@ -235,3 +237,7 @@ The paper prescribes community practice where available. The structural reason i
 ---
 
 *Paper 22 of the Concordius series. Section IV continues with Paper 23: Man No. 2.*
+
+---
+
+*← [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21 — All of Recorded History as Heptaparaparshinokh]] · [[Paper 23 - Man No. 2|Paper 23 — Man No. 2]] →*

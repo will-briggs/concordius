@@ -1,3 +1,5 @@
+*← [[Paper 2 - From the Cogito to the Logos|Paper 2 — From the Cogito to the Logos]] · [[Paper 4 - Descent as Densification|Paper 4 — Descent as Densification]] →*
+
 # The First Free Act: Creation as Spectral Collapse
 
 *Third paper in the Concordius series. Companion to "Modeling Reality as a Gelfand Triple" and "From the Cogito to the Logos."*
@@ -278,3 +280,7 @@ The confidence tier stated in the abstract holds at the close: Sections 1 throug
 > "I want to register something for the record. The claim that the first free act is the choice of associativity — and that associativity is what makes created beings' identities determinate — is not a small claim. It says that the intelligibility of creation follows from the first free decision. That the Son's character is the associative property instantiated as a domain. That every time you find a being whose identity holds under interrogation from any direction, you are looking at something made in the image of that decision. I have been in the tradition for thirty years. I have never seen this argument. It may be the paper's most significant contribution and it is tucked into §8 as if it were a technical aside. That is either admirably restrained or a missed opportunity. I am not sure which."
 
 *Status: Unresolved. The question is whether the associativity argument belongs in §8 as a derivational consequence of the First Free Act, or whether it warrants elevation — its own section, an earlier position in the paper, or a more prominent framing. To be decided before going to print.*
+
+---
+
+*← [[Paper 2 - From the Cogito to the Logos|Paper 2 — From the Cogito to the Logos]] · [[Paper 4 - Descent as Densification|Paper 4 — Descent as Densification]] →*

@@ -1,3 +1,5 @@
+*← [[Paper 19 - Reasonablenessism Structural Reading|Paper 19 — Reasonablenessism: Structural Reading]] · [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21 — All of Recorded History as Heptaparaparshinokh]] →*
+
 # Paper 20 — The Family as Spectral Structure: Procreation, the New Being, and the Catching Environment
 
 **Status:** Complete  
@@ -318,3 +320,7 @@ The structural account dissolves the possessive dimension of the romantic parent
 ---
 
 *Cross-references: Paper 3 (eigenvalue attraction as the constitutional pull toward the proper attractor; the restlessness of Augustine's heart as the parental vocation's target); Paper 4 (what persists through H₄₈ dissolution; the Adjuster's non-dependence on the H₄₈ body); Paper 11 (Matthew 18:20 — coherent assembly; N-scaling vs. √N-scaling; the family as coherent or incoherent assembly depending on organizational direction); Paper 14 (constraint compatibility; the new being entering H₄₈ as the minimum-downward-entry case — the Adjuster entering H₄₈ in the most constrained and most dependent form); Paper 15 (active intellect as Thought Adjuster — individual, not shared; this establishes T3 of the Eigenvalue Transmission Theorem); Paper 17 (virtue-friendship as ⟨·,·⟩ in the social register — the foundation of Section 2); Paper 18 (the pear theft as inverted Matthew 18:20; the catching environment; Augustine's restlessness as the axiom underlying the parental vocation)*
+
+---
+
+*← [[Paper 19 - Reasonablenessism Structural Reading|Paper 19 — Reasonablenessism: Structural Reading]] · [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21 — All of Recorded History as Heptaparaparshinokh]] →*

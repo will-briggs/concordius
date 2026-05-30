@@ -1,3 +1,5 @@
+*← [[Paper 27 - Man No. 6|Paper 27 — Man No. 6]]*
+
 # Paper 28 — Man No. 7
 
 *Concordius Structural Series — Section IV: The Seven Men*
@@ -190,3 +192,7 @@ The structural interpretation of the preceding selection is left to the reader.
 ---
 
 *Paper 28 of the Concordius series. Section IV: The Seven Men, complete.*
+
+---
+
+*← [[Paper 27 - Man No. 6|Paper 27 — Man No. 6]]*

@@ -1,3 +1,5 @@
+*← [[Paper 16 - The Republic Case Study|Paper 16 — The Republic: Case Study]] · [[Paper 18 - Augustine Confessions Case Study|Paper 18 — Augustine's Confessions: Case Study]] →*
+
 # Paper 17 — The Nicomachean Ethics as Ascending Career: A Structural Reading
 
 **Status:** Complete  
@@ -202,3 +204,7 @@ Aristotle's claim that the vicious person is worse off than the incontinent — 
 ---
 
 *Cross-references: Paper 9 (Gödel and the Si-Do gap — the NE as an instance of incompleteness); Paper 11 (Matthew 18:20 mechanism — virtue-friendship as ⟨·,·⟩ in the social register); Paper 12 (Hopkins case study — Case Study 1 — interval analysis); Paper 13 (Bach case study — Case Study 2 — self-enacting form); Paper 15 (Plato/Aristotle resolution — virtue as stable H₂₄ eigenvalue orientation; the active intellect as Thought Adjuster; eudaimonia as eigenvalue orientation; the four causes); Paper 16 (Republic case study — Case Study 3 — comparative Si-Do gap analysis; OQ5 connection)*
+
+---
+
+*← [[Paper 16 - The Republic Case Study|Paper 16 — The Republic: Case Study]] · [[Paper 18 - Augustine Confessions Case Study|Paper 18 — Augustine's Confessions: Case Study]] →*

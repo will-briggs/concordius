@@ -1,3 +1,5 @@
+*[[Paper 2 - From the Cogito to the Logos|Paper 2 — From the Cogito to the Logos]] →*
+
 # Modeling Reality as a Gelfand Triple: Two Complementary Projections of Complete Structure
 
 ---
@@ -273,3 +275,7 @@ von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer
 ---
 
 [^1]: The objection that purely relational identity is incoherent — that identity requires something non-relational underneath — is pre-empted by the structure itself. The inner product has two faces: the bilinear face ⟨ψ,φ⟩, which is relational, and the quadratic face ⟨ψ,ψ⟩ = ‖ψ‖², which is not. The norm is not a relation between two states; it is what each state is absolutely — its magnitude, its position relative to the geometric center. The "non-relational ground" the objector demands is present in the structure as III (§5.3). The norm is the inner product applied reflexively — ψ in relation to itself. This is not a hidden haecceity. It is the inner product's own structure operating in the limit case of a single argument. The non-relational and relational faces are not two separate entities but one structure in two modes — as the polarization identity confirms: II and III fully determine each other. The objection assumes these are mutually exclusive. The mathematics shows they are not.
+
+---
+
+*[[Paper 2 - From the Cogito to the Logos|Paper 2 — From the Cogito to the Logos]] →*

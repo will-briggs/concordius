@@ -1,3 +1,5 @@
+*← [[Paper 22 - Man No. 1|Paper 22 — Man No. 1]] · [[Paper 24 - Man No. 3|Paper 24 — Man No. 3]] →*
+
 # Paper 23 — Man No. 2
 
 *Concordius Structural Series — Section IV: The Seven Men*
@@ -260,3 +262,7 @@ Gurdjieff describes a higher emotional center whose function is categorically di
 ---
 
 *Paper 23 of the Concordius series. Section IV continues with Paper 24: Man No. 3.*
+
+---
+
+*← [[Paper 22 - Man No. 1|Paper 22 — Man No. 1]] · [[Paper 24 - Man No. 3|Paper 24 — Man No. 3]] →*

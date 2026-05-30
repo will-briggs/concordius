@@ -1,3 +1,5 @@
+*← [[Paper 8 - The Maximum Downward Entry|Paper 8 — The Maximum Downward Entry]] · [[Paper 10 - The Truth Measure|Paper 10 — The Truth Measure]] →*
+
 # What Cannot Be Proved: Gödel's Incompleteness Theorems as a Structural Consequence of the Constraint Hierarchy
 
 *Ninth paper in the Concordius series. Companion to Papers 1–8. Depends on Papers 1–3 (constitutional structure; truth as Φ-proximity) and Paper 8 (the downward entry analysis). The truth measure τ(D) developed in Paper 10 formalizes the Φ-proximity concept this paper uses; Paper 10 follows as the quantitative elaboration of the graded distance this paper requires.*
@@ -266,3 +268,7 @@ The paper cannot prove its own consistency. Neither could Gödel's. Neither can 
 ---
 
 *(Cross-reference: [[Concordance/PC3 — External Sources and Language]] — Gödel/Tarski/Russell entry; Language, LLMs, and Structural Conditions for Consciousness. Paper 10 — The Truth Measure (τ(D) definition, Tarski correspondence, the Logos as limit). Papers 1–3 — Constitutional structure, Φ and the Gelfand triple. [[Signal and Noise]] — Free Will and Catching.)*
+
+---
+
+*← [[Paper 8 - The Maximum Downward Entry|Paper 8 — The Maximum Downward Entry]] · [[Paper 10 - The Truth Measure|Paper 10 — The Truth Measure]] →*

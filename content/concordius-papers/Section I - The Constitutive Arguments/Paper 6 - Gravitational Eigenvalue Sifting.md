@@ -1,3 +1,5 @@
+*← [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5 — H₄₈: The Higgs Mechanism Arrives]] · [[Paper 7 - The Trogoautoegocrat|Paper 7 — The Trogoautoegocrat]] →*
+
 # Gravitational Eigenvalue Sifting: A Structural Interlude on Gurdjieff's Most Controversial Claim
 
 *Sixth paper in the Concordius series. Companion to Papers 1–5.*
@@ -284,3 +286,7 @@ The astrologer, the mystic, the eschatologist, and the mathematician are describ
 ---
 
 *Cross-reference: [[Paper 1 - Modeling Reality as a Gelfand Triple]]; [[Paper 2 - From the Cogito to the Logos]]; [[Paper 3 - The First Free Act]]; [[Paper 4 - Descent as Densification]] — Section 2 (norm as gravity); [[Paper 7 - The Trogoautoegocrat]] — Section 3 (Master Spirits as cosmic instantiation), Open Question 4 (grade structure of planetary sequence); [[Episodes/Season 1/S1E3 - The Superuniverse: Seven from Three]]; [[Episodes/Season 1/S1E4 - Clifford Algebra in Time: The Seven Bestowal Missions]]; [[The Structural Reading]] — norm and Isle of Paradise entries; [[Physics Concordance]] — Isle of Paradise, norm, eigenvalue spectrum entries*
+
+---
+
+*← [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5 — H₄₈: The Higgs Mechanism Arrives]] · [[Paper 7 - The Trogoautoegocrat|Paper 7 — The Trogoautoegocrat]] →*

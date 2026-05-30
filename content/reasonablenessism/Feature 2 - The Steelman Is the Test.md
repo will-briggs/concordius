@@ -1,3 +1,5 @@
+*← [[Feature 1 - No Source Is Axiom|Feature 1 — No Source Is Axiom]] · [[Feature 3 - Personal Experience as Testimony|Feature 3 — Personal Experience as Testimony]] →*
+
 # Feature 2 — The Steelman Is the Test
 
 *Discipline the Passive — features that train the evaluating mind to receive properly.*
@@ -23,3 +25,7 @@ The steelman requirement is the epistemic discipline of noise-floor reduction: b
 ---
 
 *(Part of Reasonablenessism — the method. See [[Overview]] for the full feature index.)*
+
+---
+
+*← [[Feature 1 - No Source Is Axiom|Feature 1 — No Source Is Axiom]] · [[Feature 3 - Personal Experience as Testimony|Feature 3 — Personal Experience as Testimony]] →*

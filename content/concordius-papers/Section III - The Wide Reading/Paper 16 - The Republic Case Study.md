@@ -1,3 +1,5 @@
+*← [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15 — Plato, Aristotle, and the Gelfand Triple]] · [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17 — The Nicomachean Ethics: Case Study]] →*
+
 # Paper 16 — The Republic as Ascending Career: A Structural Reading
 
 **Status:** Complete  
@@ -195,3 +197,7 @@ Glaucon's objection to the city of pigs at 372c — "if you were founding a city
 ---
 
 *Cross-references: Paper 9 (Gödel and the Si-Do gap); Paper 11 (Holographic Content Principle — Law of Three operating at all scales); Paper 12 (Hopkins case study — Case Study 1 — interval positions); Paper 8 (kenotic descent — the philosopher's return to the cave); Paper 13 (Bach case study — Case Study 2 — self-enacting form); Paper 15 (Plato/Aristotle resolution — the Forms as eigenstates; the Form of the Good as ⟨·,·⟩; the Cave Allegory as ascending career map)*
+
+---
+
+*← [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15 — Plato, Aristotle, and the Gelfand Triple]] · [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17 — The Nicomachean Ethics: Case Study]] →*

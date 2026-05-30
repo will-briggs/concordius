@@ -1,3 +1,5 @@
+*← [[Paper 10 - The Truth Measure|Paper 10 — The Truth Measure]] · [[Paper 12 - Hopkins Case Study|Paper 12 — Hopkins Case Study]] →*
+
 # The Whole in Every Part: The Holographic Content Principle
 
 *Eleventh paper in the Concordius series. Companion to Papers 1–10. Depends directly on Paper 10 (the truth measure τ(D)), Paper 3 (the First Free Act and catching), and the Law of Seven as developed in Papers 5 and 2.*
@@ -336,3 +338,7 @@ This explains the tradition's consistent testimony that the greatest works are r
 ## Reviewer Notes
 
 **RN1 — Bekenstein-Hawking connection.** The Holographic Content Principle describes higher-constraint (lower-dimensional eigenvalue) content encoded in lower-constraint H₄₈ form — the higher subspace's structure present in the lower encoding. This is structurally analogous to the Bekenstein-Hawking holographic principle in general relativity, where the information content of a three-dimensional region is encoded in its two-dimensional boundary (area, not volume). The paper should address whether this connection is rigorous or analogical. Two candidate answers: (1) the HCP and Bekenstein-Hawking are the same theorem in different physical registers — derivable from a common structure in the constraint hierarchy, with the gravitational holographic bound as the specific expression of the HCP at the H₄₈ → H₂₄ boundary; or (2) the HCP is a structural generalization of which the Bekenstein-Hawking bound is a special case. Either answer strengthens the paper significantly. If the connection is merely analogical — similar structure but different derivation — this too should be stated explicitly. The current silence on the question is a gap; a connection to one of the most important results in modern theoretical physics warrants direct engagement. *(Reviewer: Adam Atomman)*
+
+---
+
+*← [[Paper 10 - The Truth Measure|Paper 10 — The Truth Measure]] · [[Paper 12 - Hopkins Case Study|Paper 12 — Hopkins Case Study]] →*

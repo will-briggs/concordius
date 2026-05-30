@@ -1,3 +1,5 @@
+*← [[Paper 12 - Hopkins Case Study|Paper 12 — Hopkins Case Study]] · [[Paper 14 - The Constraint Compatibility Condition|Paper 14 — The Constraint Compatibility Condition]] →*
+
 # Paper 13 — The Structural Reading in Practice: Bach's *Art of Fugue*
 
 *Case Study 2: The Fugal Form, Invertible Counterpoint, and the Permanent Si-Do Gap*
@@ -214,3 +216,7 @@ Second: the permanent Si-Do gap of *Contrapunctus XIV* introduces a structural c
 ---
 
 *Cross-references: Paper 10 (τ(D) defined; inexhaustibility as high-τ(D) evidence); Paper 9 (Gödel incompleteness; the truth set is not r.e.; the system cannot prove its own consistency); Paper 11 (Holographic Content Principle; interval positions; cross-scale self-similarity); Paper 12 (Hopkins case study; form enacting content; the case study method); Paper 14 (the cross-term mechanism; ⟨·,·⟩-symmetry; valence); Paper 5 (I-duality; Clifford algebra inversion); Structural Readings 03 (Matthew 18:20; coherent assembly and cross-terms)*
+
+---
+
+*← [[Paper 12 - Hopkins Case Study|Paper 12 — Hopkins Case Study]] · [[Paper 14 - The Constraint Compatibility Condition|Paper 14 — The Constraint Compatibility Condition]] →*

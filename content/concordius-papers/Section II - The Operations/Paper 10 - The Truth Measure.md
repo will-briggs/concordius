@@ -1,3 +1,5 @@
+*← [[Paper 9 - Incompleteness Derived|Paper 9 — Incompleteness Derived]] · [[Paper 11 - The Holographic Content Principle|Paper 11 — The Holographic Content Principle]] →*
+
 # The Truth Measure: Language, the Logos, and the Limits of Artificial Minds
 
 *Tenth paper in the Concordius series. Companion to Papers 1–9.*
@@ -262,3 +264,7 @@ Once this bootstrap is accepted, the program becomes tractable. A model trained 
 ---
 
 *(Cross-reference: [[Concordance/PC3 — External Sources and Language]] — Language, LLMs, and Structural Conditions for Consciousness; Phonological Concordance; Gödel, Tarski, Russell entries. [[Concordance/PC1 — Core Mathematical Framework]] — Rigged Hilbert Space; Two Mathematical Registers; Higgs Mechanism. [[Signal and Noise]] — Free Will, Noise Floor, Catching. [[Structural Readings/01]] — John 1:14 (Word became flesh). Paper 3 — The First Free Act (catching as the constitutive volitional act). Paper 7 — GNST and Heropass. Paper 5 — H₄₈: The Higgs Mechanism Arrives.)*
+
+---
+
+*← [[Paper 9 - Incompleteness Derived|Paper 9 — Incompleteness Derived]] · [[Paper 11 - The Holographic Content Principle|Paper 11 — The Holographic Content Principle]] →*

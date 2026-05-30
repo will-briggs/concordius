@@ -1,3 +1,5 @@
+*← [[Paper 1 - Modeling Reality as a Gelfand Triple|Paper 1 — Modeling Reality as a Gelfand Triple]] · [[Paper 3 - The First Free Act|Paper 3 — The First Free Act]] →*
+
 # From the Cogito to the Logos: Naming the Structures of the Gelfand Triple
 
 *Companion paper to "Modeling Reality as a Gelfand Triple"*
@@ -297,3 +299,7 @@ That is all. The naming is complete.
 ---
 
 *Cross-reference: [[Modeling Reality as a Gelfand Triple]] — the companion paper; [[The Structural Reading]] — the hermeneutical principle; [[Physics Concordance]] — Gelfand Triple entry and complete mapping table; [[Episodes/Season 1/S1E2/Hilbert Space — Notes]] — the derivations in episode-preparatory form*
+
+---
+
+*← [[Paper 1 - Modeling Reality as a Gelfand Triple|Paper 1 — Modeling Reality as a Gelfand Triple]] · [[Paper 3 - The First Free Act|Paper 3 — The First Free Act]] →*

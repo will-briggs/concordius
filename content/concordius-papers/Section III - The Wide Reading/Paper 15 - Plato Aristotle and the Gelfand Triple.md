@@ -1,3 +1,5 @@
+*← [[Paper 14 - The Constraint Compatibility Condition|Paper 14 — The Constraint Compatibility Condition]] · [[Paper 16 - The Republic Case Study|Paper 16 — The Republic: Case Study]] →*
+
 # Paper 15 — Plato, Aristotle, and the Gelfand Triple: A Structural Resolution
 
 **Status:** Complete  
@@ -269,3 +271,7 @@ Neither Plato nor Aristotle was wrong about what they perceived. Both were wrong
 ---
 
 *Cross-references: Paper 1 (Gelfand triple as reality model); Paper 4 (higher being bodies; what persists through death); Paper 5 (Φ as nuclear space; the Logos as organizing structure); Paper 10 (τ(D); truth as Φ-proximity); Paper 9 (mathematical Platonism confirmed; incompleteness as structural consequence); Paper 11 (Holographic Content Principle; imprint of ⟨·,·⟩ in organized structures); Paper 14 (constraint compatibility condition; eigenvalue orientation); Paper 8 (the active intellect as Thought Adjuster; downward entry and kenosis); Structural Readings 01 (John 1:1 — Φ precedes all H-states; the Form of the Good as ⟨·,·⟩)*
+
+---
+
+*← [[Paper 14 - The Constraint Compatibility Condition|Paper 14 — The Constraint Compatibility Condition]] · [[Paper 16 - The Republic Case Study|Paper 16 — The Republic: Case Study]] →*

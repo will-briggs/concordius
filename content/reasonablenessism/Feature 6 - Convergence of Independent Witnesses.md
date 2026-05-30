@@ -1,3 +1,5 @@
+*← [[Feature 5 - Provenance Is Irrelevant to Truth-Value|Feature 5 — Provenance Is Irrelevant to Truth-Value]] · [[Feature 7 - The Self-Sealing Test|Feature 7 — The Self-Sealing Test]] →*
+
 # Feature 6 — Convergence of Independent Witnesses
 
 *Protect the Active — features that ensure genuine signal reaches through Passive distortion.*
@@ -21,3 +23,7 @@ Feature 6 is the methodological foundation of the entire concordance program. Th
 ---
 
 *(Part of Reasonablenessism — the method. See [[Overview]] for the full feature index.)*
+
+---
+
+*← [[Feature 5 - Provenance Is Irrelevant to Truth-Value|Feature 5 — Provenance Is Irrelevant to Truth-Value]] · [[Feature 7 - The Self-Sealing Test|Feature 7 — The Self-Sealing Test]] →*

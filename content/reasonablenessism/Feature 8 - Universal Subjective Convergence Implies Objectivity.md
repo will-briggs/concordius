@@ -1,3 +1,5 @@
+*← [[Feature 7 - The Self-Sealing Test|Feature 7 — The Self-Sealing Test]] · [[Feature 9 - Explicit Confidence Tiers|Feature 9 — Explicit Confidence Tiers]] →*
+
 # Feature 8 — Universal Subjective Convergence Implies Objectivity
 
 *Protect the Active — features that ensure genuine signal reaches through Passive distortion.*
@@ -25,3 +27,7 @@ Feature 8 is the epistemological complement of Papers 1-2. Papers 1-2 develop th
 ---
 
 *(Part of Reasonablenessism — the method. See [[Overview]] for the full feature index.)*
+
+---
+
+*← [[Feature 7 - The Self-Sealing Test|Feature 7 — The Self-Sealing Test]] · [[Feature 9 - Explicit Confidence Tiers|Feature 9 — Explicit Confidence Tiers]] →*

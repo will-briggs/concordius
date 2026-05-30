@@ -1,3 +1,5 @@
+*← [[Paper 4 - Descent as Densification|Paper 4 — Descent as Densification]] · [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6 — Gravitational Eigenvalue Sifting]] →*
+
 # H₄₈: The Higgs Mechanism Arrives
 
 *Fifth paper in the Concordius series. Companion to Papers 1–4.*
@@ -343,3 +345,7 @@ The Spirit was brooding because the Higgs field was at the symmetric maximum. Go
 ---
 
 *(Cross-reference: [[Concordance/PC1 — Core Mathematical Framework]] — The Higgs Mechanism; The Derivation of the Fundamental Forces; Coupling Constants. [[Structural Readings/01 — The Principle and the Identity of the Logos]] — Genesis 1:1-3. Paper 7 — Section 0 (Heropass/GNST clarification). Paper 6 — The sifting operator formalism.)*
+
+---
+
+*← [[Paper 4 - Descent as Densification|Paper 4 — Descent as Densification]] · [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6 — Gravitational Eigenvalue Sifting]] →*
