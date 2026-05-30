@@ -1,5 +1,7 @@
 ---
 title: Section I — The Constitutive Arguments
+tags:
+  - nav-order::2
 ---
 
 # Section I — The Constitutive Arguments

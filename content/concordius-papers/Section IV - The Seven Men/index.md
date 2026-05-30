@@ -1,5 +1,7 @@
 ---
 title: Section IV — The Seven Men
+tags:
+  - nav-order::5
 ---
 
 # Section IV — The Seven Men

@@ -1,3 +1,9 @@
+---
+title: The Framework and Method
+tags:
+  - nav-order::1
+---
+
 # The Framework and Method
 
 *How these structural readings are produced, what frameworks they use, and what they claim.*

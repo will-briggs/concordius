@@ -1,5 +1,7 @@
 ---
 title: A Structural Reading of the Bible
+tags:
+  - nav-order::2
 ---
 
 # A Structural Reading of the Bible

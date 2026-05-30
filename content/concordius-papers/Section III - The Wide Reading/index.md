@@ -1,5 +1,7 @@
 ---
 title: Section III — The Wide Reading
+tags:
+  - nav-order::4
 ---
 
 # Section III — The Wide Reading
