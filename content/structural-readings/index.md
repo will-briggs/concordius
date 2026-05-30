@@ -43,7 +43,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ## Memes
 
-[Structural Reading of Memes →](/structural-readings/structural-reading-of-memes/)
+[A Structural Reading of Memes →](/structural-readings/a-structural-reading-of-memes/)
 
 ---
 
