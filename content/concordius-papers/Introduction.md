@@ -73,4 +73,4 @@ Wittgenstein was right. Not how the world is, but that it is: this is the beginn
 
 ---
 
-*The series begins with Paper 1.*
+*The series begins with [[Paper 1 - Modeling Reality as a Gelfand Triple|Paper 1 — Modeling Reality as a Gelfand Triple]].*
