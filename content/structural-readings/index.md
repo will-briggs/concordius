@@ -12,7 +12,7 @@ The Concordius framework applied to texts it did not produce. Each reading asks 
 
 ## The Bible
 
-[[A Structural Reading of the Bible/index|A Structural Reading of the Bible →]]
+[A Structural Reading of the Bible →](/structural-readings/a-structural-reading-of-the-bible/)
 
 Readings across both testaments, organized by book. The full biblical corpus (31,102 verses) scanned for structural density; high-priority passages analyzed in detail.
 
