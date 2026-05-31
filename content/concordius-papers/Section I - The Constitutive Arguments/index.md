@@ -21,7 +21,7 @@ tags:
 3. [[Paper 3 - The First Free Act|Paper 3 — The First Free Act]]
    The creation of finite being derived from the first free act of the inner product; the origin of the constraint cascade.
 
-4. [[Paper 4 - Descent as Densification|Paper 4 — Descent as Densification]]
+4. [[Paper 4 - The Constraint Cascade|Paper 4 — The Constraint Cascade: Descent as Densification]]
    The constraint cascade in full; kenosis as the taking-on of density; the structure of higher being bodies; the coherence threshold.
 
 5. [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5 — H₄₈: The Higgs Mechanism Arrives]]

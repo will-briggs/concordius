@@ -1,6 +1,6 @@
 *← [[Paper 3 - The First Free Act|Paper 3 — The First Free Act]] · [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5 — H₄₈: The Higgs Mechanism Arrives]] →*
 
-# Descent as Densification: The Archetype of the Heptaparaparshinokh
+# The Constraint Cascade: Descent as Densification
 
 *Fourth paper in the Concordius series. Companion to "Modeling Reality as a Gelfand Triple," "From the Cogito to the Logos," and "The First Free Act."*
 

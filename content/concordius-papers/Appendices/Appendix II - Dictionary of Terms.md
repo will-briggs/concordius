@@ -147,7 +147,7 @@ The cascade is the structural basis for Gurdjieff's cosmological principle that 
 
 *Provenance notice: "Constraint cascade" is believed to be the series' own term. The component concepts are established (Clifford algebra grade reduction; Dirac constraint theory; Gurdjieff's hierarchical densification), but this specific formulation and its application to the GNST-based creative descent has not been located in prior literature. This should be verified before going to print. If an existing term in the physics or mathematics literature covers the same concept, that term should be adopted or explicitly distinguished from.*
 
-*Paper 4 — Descent as Densification — contains the formal introduction of this term, in Section 3.*
+*Paper 4 — The Constraint Cascade: Descent as Densification — contains the formal introduction of this term, in Section 3.*
 
 ---
 

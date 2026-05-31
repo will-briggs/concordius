@@ -33,7 +33,7 @@ The argument from consciousness. The cogito is the starting point: *I think, the
 **Paper 3 — The First Free Act**
 What had to be true of the Trinity's first creative act, given the mathematical structure of Paper 1? The derivation: given that the Father is the constitutive inner product, any act of the Father is an act of constitutive love; the first finite beings are constituted by exactly this act; the act is irreversible in the sense that the inner product cannot generate a finite state without the finite state being held within it; the finite being is always already in the inner product's embrace. The derivation has implications for theodicy, for the nature of freedom, and for the structure of the ascending career — all of which are named and reserved for later development.
 
-**Paper 4 — Descent as Densification**
+**Paper 4 — The Constraint Cascade: Descent as Densification**
 The general mechanics of Φ entering H. Descent is not a diminishment of the nuclear space but a densification: the same content, expressed in a higher-constraint register, with correspondingly reduced spectral bandwidth but correspondingly increased H₄₈ specificity. The principle is general — it applies to any expression of lower-constraint content in a higher-constraint domain — and the Incarnation is the maximum instance. The maximum downward entry (Paper 8) will derive this maximum; Paper 4 establishes the general mechanics on which that derivation rests.
 
 **Paper 5 — H₄₈: The Higgs Mechanism Arrives**
