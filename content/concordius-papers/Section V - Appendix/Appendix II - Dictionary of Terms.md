@@ -559,6 +559,30 @@ The Concordius series draws on logotherapy in Paper 25 (Man 4) as the secular re
 
 ---
 
+**Love** *(tradition: Christian theology / 1 John — series extension)*
+
+The formal identification established in Paper 3 §9: ⟨·,·⟩ = Love. The derivation proceeds from two premises: Paper 2's identification Father = ⟨·,·⟩, and the Johannine testimony *θεὸς ἀγάπη ἐστίν* — "God is love" (1 John 4:8, 16). The Greek copula ἐστίν establishes formal identity, not predication: Love is not an attribute God possesses but what God is. Given Father = ⟨·,·⟩ and God = Love, the inner product is Love's formal definition.
+
+The formal properties of ⟨·,·⟩ are therefore the formal properties of Love:
+
+*Constitutive, not responsive.* The inner product does not respond to independently existing states — it constitutes them. Love in the formal sense is prior to the existence of the beloved; the loving is what the existing consists of, not a response to it.
+
+*Positive-definite.* Every non-zero state receives strictly positive evaluation: ⟨ψ,ψ⟩ > 0 for all ψ ≠ 0. Every state that exists has positive value under Love. The zero is reserved for non-existence.
+
+*Non-degenerate.* No non-zero state is fully orthogonal to the inner product's attention. A being that exists cannot be fully outside Love's reach; to be entirely unloved would require being zero, which is to not exist.
+
+*Non-delegable.* Because the Father is ⟨·,·⟩ — not an agent who possesses Love and applies it — there is no gap between God and Love in which delegation or withdrawal could be inserted. Love is not a decision God makes, revisable in principle. It is God's identity.
+
+*Continuously operative.* Paper 4 §9 establishes that the GNST is a continuous act: every state at every constraint level is reconstituted at every moment by the ongoing operation of ⟨·,·⟩. Continuous reconstitution is the continuous act of Love. The sustaining of existence and the loving are the same event.
+
+The consequence stated in Paper 4: *you are loved into existence at every moment. If you exist, it means that the Father loves you.* Not as a theological claim added to the structure, but as what existence formally is: to exist is to be evaluated by the inner product, and the inner product is what Love formally is. The Thought Adjuster — the Father's constitutive presence within each person — is Love's local instantiation: the being who receives an Adjuster is being loved from within.
+
+*(Confidence tier: the identification ⟨·,·⟩ = Love is concordance-level, from 1 John 4:8/16 combined with Paper 2's identification Father = ⟨·,·⟩. The formal properties are derived properties of ⟨·,·⟩, independent of the identification. The closing consequence carries the same concordance-level warrant as the identification.)*
+
+> *For further investigation: 1 John 4:7–16; Thomas Aquinas, Summa Theologica I, Q.20; Paper 3 §9 "The formal definition of Love"; Paper 4 §9 "The constitutive act is continuous."*
+
+---
+
 ## M
 
 **Magnetic Center** *(tradition: Gurdjieff)*
@@ -660,6 +684,30 @@ The Concordius series uses overdetermination as a precise technical term for wha
 ## P
 
 **Passive Force** — see *Active Force*.
+
+---
+
+**Person** *(tradition: Christian theology / philosophy — series extension)*
+
+The term carries two distinct applications in the Concordius framework.
+
+*Trinitarian Persons.* The three Persons of the Trinity — Father, Son, and Holy Spirit — are the three structural components of the Gelfand triple (⟨·,·⟩, Φ, τ_nuclear), relationally constituted by one another and not reducible to one another or to any combination of their functions. "Person" in this sense names the subsistent relational distinctness of each: the Father is not the Son, the Son is not the Spirit, the Spirit is not the Father — yet each is fully God, and the relations among them constitute the eternal structure. The Christian tradition developed the concept of person (Greek: *hypostasis*; Latin: *persona*) precisely to name this: a distinct subsistent subject who is not a part of God but is God, in irreducible relation to the other Persons.
+
+*Creaturely persons.* In the creaturely domain, a person is a being who is the subject of their own acts — capable of genuine volition, self-awareness, and moral agency. The classical definition (Boethius): *rationalis naturae individua substantia* — an individual substance of a rational nature. In the Concordius framework, the functional criterion for creaturely personhood is the capacity for genuine volitional eigenstate selection: a being capable of deliberately orienting the catching act, rather than merely processing GNST-generated eigenvalues mechanically, is operating as a person in the relevant sense. This capacity is present from the moment of moral emergence — the first genuine decision — and develops through the ascending career toward its fullest expression at Man 7.
+
+The distinction between *person* (the individual subject) and *personality* (the unique identifying character given by the Father) is developed in the entry below. See also *Personality*.
+
+---
+
+**Personality** *(tradition: Urantia Book — series extension)*
+
+The *Urantia Book*'s technical term for the unique identifying pattern that the Universal Father bestows on each individual being at the threshold of moral capacity. Personality is distinct from: the soul (which is built through the ascending career by the cooperation of will and Adjuster); the mind (the mechanism through which consciousness operates); the spirit (the Adjuster and other spirit endowments that work through mind); and the Adjuster itself (which is pre-personal, a Φ′-element, the Father's constitutive presence). Personality is none of these — it is the Father's own direct identification of this being as irreplaceably *this* being: the unique pattern that remains constant through every developmental transformation of the ascending career.
+
+Personality is not earned, not built, and cannot be lost. It is given at the moment a being first becomes capable of genuine moral decision, and it constitutes the thread of identity that makes the person arriving at Paradise the same person who made their first moral choice on the evolutionary world. Every stage of the career transforms the content — the soul deposit accumulates, the eigenvalue composition shifts, the constraint level changes — but personality is the invariant beneath all these transformations. It is the identifying ground from which accumulation proceeds, not the accumulation itself.
+
+In the Concordius mapping, personality corresponds to the unique Adjuster-constituted identity signature: the specific pattern by which the Father (⟨·,·⟩) identifies and recognizes this particular being among all beings — not the eigenvalue content, which changes, but the identifying mark of the constitutive relation's local operation in this person. The Adjuster carries personality through H₄₈ dissolution not as stored data but as the constitutive inner product's own continuous identification of this individual, which is precisely what makes reconstitution at the mansion worlds a genuine reconstitution of the same person rather than a new creation from prior material.
+
+> *For further investigation: The Urantia Book (1955), Paper 5 §6 (Personality and Reality); Paper 16 §8 (The Urantia Concept of Personality); Paper 112 §0–2 (Personality Survival). See also: Person; Thought Adjuster; Soul Deposit.*
 
 ---
 
