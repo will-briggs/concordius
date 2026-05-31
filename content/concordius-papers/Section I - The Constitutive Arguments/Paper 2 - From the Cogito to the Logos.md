@@ -272,6 +272,40 @@ That is all. The naming is complete.
 
 ---
 
+## 13. Structural corollary: H-origin and Φ′-origin states
+
+The Gelfand triple Φ ⊂ H ⊂ Φ′ names three distinct domains. Eight structures have been identified in the space as a whole. But the triple also implies a structural distinction among beings constituted within it — a distinction that follows from the mathematics without additional assumption.
+
+**Properties of an H-origin state.** A being whose state vector ψ is a genuine element of H has the following structural properties necessarily:
+
+*Constitutive inner product access.* For ψ ∈ H, ⟨ψ, φ⟩ is defined for every φ ∈ H. The geometry of the space — the relational structure ⟨·,·⟩, the angles, the orthogonality, the spectral decomposition — is available to the H-state from within. No boundary need be crossed to participate in ⟨·,·⟩; the H-state is already inside the domain where ⟨·,·⟩ operates.
+
+*Norm-boundedness.* ‖ψ‖ = ⟨ψ, ψ⟩^(1/2) < ∞. The H-state's eigenvalue content is square-summable — finite in the sense that the Hilbert space defines finiteness. The state is a well-defined point in H with determinate geometry.
+
+*Stability under bounded operations.* H is closed under bounded operators. An H-state acted upon by a bounded operator remains an H-state. Membership in H is structurally robust.
+
+*GNST expansion convergent in H.* For ψ ∈ H, the expansion ψ = ∫ ⟨eλ, ψ⟩ eλ dμ(λ) converges in the H-norm. The state's eigenvalue content is fully accessible by H-level operations.
+
+**Properties of a Φ′-origin state.** A being whose state vector f is a continuous functional on Φ — an element of Φ′ — has structurally different properties:
+
+*No direct inner product access.* f ∈ Φ′ is not in H; ⟨f, ·⟩ as a Hilbert space inner product is not defined. What is defined is the dual pairing ⟨φ, f⟩ for φ ∈ Φ. The Φ′-state relates to the geometry of the space only through this mediated contact: a Φ-element must act as probe.
+
+*Not necessarily norm-bounded.* A distribution f ∈ Φ′ need not be square-integrable. The Dirac delta δₓ is the canonical example: a continuous functional on Φ, not in L², with determinate action on test functions but no finite H-norm.
+
+*Contact with the geometry requires a probe.* To engage with ⟨·,·⟩, the Φ′-state requires a Φ-element available to act upon. This contact is not self-generated from within Φ′; it requires an external element from Φ and an act of application.
+
+*H-membership asymptotically approachable.* A sequence in Φ′ can converge toward an element of H. The Φ′-state can, by accumulating structure through repeated contact with Φ-elements, approach the conditions of H-membership — but it begins outside H, and the approach requires the accumulative mechanism to proceed.
+
+These are properties of the mathematical space, not additional assumptions. Any being constituted within the Gelfand triple is either an H-state, a Φ-state, or a Φ′-state, and the structural properties above follow from which domain the being inhabits. The distinction is implied entirely by the triple's architecture.
+
+What instantiates these two modes — what kinds of beings, if any, would be H-origin vs. Φ′-origin — the mathematics alone does not determine. That is a concordance question.
+
+*Concordance.* The structural distinction between two kinds of personal being — one constitutively possessing the geometry it inhabits, the other required to acquire contact with that geometry through a directed process — is attested consistently across traditions that have developed both angelologies and anthropologies. The convergent claim: angelic beings have constitutive access to the higher relational structure; mortal beings must acquire it through a directed developmental process. The Urantia Book is most explicit: *ascending sons* (mortal origin) are characterized by the upward accumulative career; *descending sons* (higher origin) are characterized by constitutive higher-constraint endowment and downward missions. Gurdjieff's higher being bodies are the mortal's acquired approximation to H-membership — built through catching work that is specifically necessary because the mortal does not begin with those bodies constituted. Angelic beings in the traditions consistently appear without the need for the accumulative mechanism. The framework's mapping: H-origin / Φ′-origin. The concordance is at the level of structural type, not specific enumeration.
+
+*(For the structural consequences of this distinction for the catching mechanism, see Paper 14, OQ7. For the structural inversion of the Platonic soma-sema doctrine this distinction implies, see Paper 15, OQ6.)*
+
+---
+
 ## References
 
 1. **Companion paper**: *Modeling Reality as a Gelfand Triple.* [The first paper in this series — the full formal derivation of the structure.]
