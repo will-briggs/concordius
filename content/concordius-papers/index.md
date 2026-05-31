@@ -65,11 +65,11 @@ The series cannot make that happen for the reader. It can only be what it is and
 
 ---
 
-The reasonable reader is precisely the reader this series is for. Not the credulous reader, who brings faith and confirmation rather than attention. Not the skeptical reader, who brings refusal rather than engagement. The reasonable reader: the person who is honest about what she does not know, willing to follow an argument wherever it leads, capable of holding a commitment with appropriate confidence rather than either dogmatism or paralysis, and alert to the possibility that the most important things are not always the most immediately familiar ones.
+The reasonable reader is precisely the reader this series is for. Not the credulous reader, who brings faith and confirmation rather than attention. Not the skeptical reader, who brings refusal rather than engagement. The reasonable reader: the person who is honest about what you do not know, willing to follow an argument wherever it leads, capable of holding a commitment with appropriate confidence rather than either dogmatism or paralysis, and alert to the possibility that the most important things are not always the most immediately familiar ones.
 
-The reasonable reader is the only kind of reader who can receive what the series is attempting to transmit. She is not asked to agree in advance. She is not asked to suspend critical judgment. She is asked only to read — honestly, attentively, with the same willingness to follow the argument that she would bring to any serious claim about a serious subject.
+You are the only kind of reader who can receive what the series is attempting to transmit. You are not asked to agree in advance. You are not asked to suspend critical judgment. You are asked only to read — honestly, attentively, with the same willingness to follow the argument that you would bring to any serious claim about a serious subject.
 
-Wittgenstein was right. Not how the world is, but that it is: this is the beginning. Everything that follows is an attempt to think carefully about the structure of what is — and about what a being embedded in that structure might do about the fact that she is, briefly, here.
+Wittgenstein was right. Not how the world is, but that it is: this is the beginning. Everything that follows is an attempt to think carefully about the structure of what is — and about what you, embedded in that structure, might do about the fact that you are, briefly, here.
 
 ---
 
