@@ -1,5 +1,15 @@
 @use "./variables.scss" as *;
 
+// Base font size
+html {
+  font-size: 18px;
+}
+
+// Blockquote left border — gold
+blockquote {
+  border-left-color: #D4AF37 !important;
+}
+
 // Heading and title color
 h1, h2, h3, h4, h5, h6 {
   color: #7851A9 !important;
