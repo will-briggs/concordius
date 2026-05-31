@@ -13,7 +13,7 @@ Twenty-eight papers building a single argument from first principles: that reali
 ## Sections
 
 ### [Section I — The Constitutive Arguments](/concordius-papers/section-i---the-constitutive-arguments/)
-*Papers 1–7.* The foundational derivation: from the bare fact of self-awareness to the Gelfand triple, the Trinity, the constraint cascade, and the organizational structure of physical reality.
+*Papers 1–7.* The foundational derivation: from two starting assumptions — the Gelfand triple as a model of reality, and the bare fact of self-awareness — to the Trinity, the constraint cascade, and the organizational structure of physical reality.
 
 ### [Section II — The Operations](/concordius-papers/section-ii---the-operations/)
 *Papers 8–14.* The framework put to work: kenosis, incompleteness, the truth measure, the holographic content principle, two case studies, and the ascending career.
