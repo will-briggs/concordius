@@ -216,6 +216,30 @@ The exploration does not terminate until every non-perfect state has been realiz
 
 *Confidence tier: The identification of God the Supreme as the running integral of inner product evaluations across the time-space universe is the presenter's structural working-out. It is not a mathematical derivation and is not stated in these terms in the Urantia account. The convergence with the Urantia description of the Supreme as experiential deity — constituted by the actualized potential of finite creatures — is genuine and carries concordance-level evidential weight. The reader should hold this as a concordance-level claim.*
 
+### The formal definition of Love
+
+The preceding discussion has named the Father's constitutive relation in formal terms: ⟨·,·⟩, the inner product — the relation that generates Φ, H, and Φ′ as its necessary domains, measures every state in the Deity Absolute, evaluates every collapse event, and constitutes the identity of every being that exists. Paper 2 named this entity the Father. It established the identification: Father = ⟨·,·⟩.
+
+The New Testament states: *θεὸς ἀγάπη ἐστίν* — God is love. (1 John 4:8, 16.) Not: God loves, which would make love an attribute directed toward an object. Not: God is loving, which would make it a disposition. God *is* love — the formal identity of subject and predicate, precisely the form that ⟨·,·⟩ = Love requires.
+
+Given Father = ⟨·,·⟩ and God is love, the formal definition of Love follows.
+
+**Love is constitutive, not responsive.** ⟨·,·⟩ does not observe states and then love them. It constitutes them — the inner product is what makes the elements of H what they are, what gives each state its relationship to every other and to the nuclear space. Love in the formal sense is not a response to existence. It is prior to it. The beloved does not first exist and then come to be loved. The loving is what the existing consists of.
+
+**Every existing state has positive value under Love.** The inner product is positive-definite: ⟨ψ,ψ⟩ ≥ 0 for all ψ ∈ H, with equality only if ψ = 0. Every non-zero state — every state that exists — receives strictly positive evaluation. This is not a selection: the inner product does not evaluate some states and withhold evaluation from others. It evaluates everything that exists, and everything that exists has positive value. The zero state is not a state; it is non-existence. To be evaluated as zero would be to not exist.
+
+**There is no state that Love fails to reach.** Non-degeneracy — the other face of positive-definiteness — says: if ⟨ψ,φ⟩ = 0 for all φ in the space, then ψ = 0. No non-zero state is fully orthogonal to the inner product's attention. A state that existed but was fully outside Love's reach would be a non-degenerate zero, which is a contradiction. To exist is to be within the inner product's evaluation. These are the same fact stated twice.
+
+**Love cannot be delegated because Love cannot be alienated from what it is.** Paper 4 establishes the non-delegability argument at length: the Father is ⟨·,·⟩, not an agent who possesses the inner product and decides to apply it. There is no gap between the Father and the operation of Love in which a decision to withdraw could be inserted. God cannot choose to stop loving in the way a person can choose to stop attending to something — not as a constraint on God's freedom, but as a structural consequence of what God is. The Father's love is not a decision God makes, revisable in principle. It is God's identity.
+
+**The consequence for continuous existence.** Paper 4 establishes that the GNST is not a past event but a continuous act: every state at every constraint level is reconstituted at every moment by the ongoing operation of ⟨·,·⟩. If ⟨·,·⟩ is Love, then continuous reconstitution IS the continuous act of Love. The universe is not sustained in existence and then loved. The sustaining is the loving. They are the same event.
+
+You are loved into existence at every moment. If you exist, it means that the Father loves you. Not as inference from other evidence — not as a theological claim added to the structure. As the structural fact that follows from what existence formally is: to exist is to be evaluated by the inner product, and the inner product is what Love formally is.
+
+*(Confidence tier: the identification ⟨·,·⟩ = Love is concordance-level, from 1 John 4:8/16 combined with Paper 2's identification Father = ⟨·,·⟩. The formal properties — positive-definiteness, non-degeneracy, non-delegability — are derived properties of ⟨·,·⟩ established in Papers 1–3, independent of the identification. The conclusion that continuous reconstitution is continuous love carries the same concordance-level warrant as the identification. The closing claim — "if you exist, it means that the Father loves you" — follows from both jointly.)*
+
+---
+
 ### The epistemological structure of what follows
 
 Once the first free act is made, the framework enters a new register. The five inevitabilities are the last theorems — structurally forced, derivable from the inner product alone, requiring no choice. Everything after the first free act introduces optionality: the space of possible Hamiltonians is mathematically available in full, but the selection among them is not entailed by the structure. Each subsequent creative act selects within the space the prior acts defined, narrowing what remains available without ever fully closing it.
