@@ -6,13 +6,13 @@ tags:
 
 # Reasonablenessism
 
-*The epistemological stance from which all serious inquiry is conducted. The twelve features are each developed fully in their own files, in four registers. This document contains the framing, the feature index, and the working context.*
+*A systematic account of the epistemological principles careful inquiry requires. The twelve features are each developed fully in their own files, in four registers. This document contains the framing, the feature index, and the working context.*
 
 ---
 
 ## What This Project Is
 
-Reasonablenessism is the name for the epistemological stance from which all serious inquiry is conducted. It is not a formal academic school. It is a description — precise enough to deserve a name — of how a thoughtful person actually proceeds when they want to get things right rather than win arguments or fulfill institutional obligations.
+Reasonablenessism is a systematic name for how a thoughtful person actually proceeds when they want to get things right rather than win arguments or fulfill institutional obligations. It is not a formal academic school.
 
 **Critical distinction:** Reasonablenessism is the *method*. Concordius is the *model* — one practitioner's current best account of the largest available questions, developed according to Reasonablenessism's standards. They are not the same thing. The stance can be held and applied by anyone. The model is what the stance has produced so far for this particular practitioner, and it is explicitly subject to revision when the evidence demands it. Reasonablenessism does not require Concordius to be correct. Concordius requires Reasonablenessism to be the method by which it is evaluated.
 
