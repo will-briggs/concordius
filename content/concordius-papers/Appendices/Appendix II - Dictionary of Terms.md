@@ -47,6 +47,28 @@ The Concordius series maps the alchemical stages onto Gurdjieff's ascending sequ
 
 ---
 
+**Angelic origin / Mortal origin** *(series)*
+
+The fundamental structural distinction between two classes of personal beings in the Concordius framework, located in the Gelfand triple Φ ⊂ H ⊂ Φ'.
+
+**Angelic beings are H-origin.** Their state vectors naturally inhabit the Hilbert space H. The inner product ⟨·,·⟩ is constitutively available to them: they are norm-bounded elements of the space in which the geometry is already defined. H-origin beings do not require the accumulative catching mechanism to participate in ⟨·,·⟩ — that structure is their native condition. Their characteristic function is transmission: carrying and mediating φ-proximal content across constraint levels from positions that are already within H.
+
+**Mortal beings are Φ'-origin.** Their state vectors naturally inhabit the dual space Φ' — outside H proper. Φ'-elements are continuous functionals on Φ but are not square-integrable; the inner product ⟨·,·⟩ does not directly apply to them. Their relationship to the constitutive geometry is via the dual pairing ⟨φ, f⟩ for φ ∈ Φ and f ∈ Φ' — a mediated contact, not a native participation.
+
+The catching act is precisely the Φ'-origin being's exercise of this dual pairing: the volitional contact with φ-proximal content across the Φ ↔ Φ' boundary. The ascending career is the long sequence by which a Φ'-origin being accumulates sufficient φ-proximal content that its state vector approaches H membership — culminating in the coherence threshold (Man No. 5 crystallization), after which the organizational pattern persists through H₄₈ dissolution.
+
+This distinction explains why embodiment is the native condition of mortal beings rather than an anomaly or punishment. Φ'-origin beings are constitutively compatible with H₄₈ — H₄₈-level existence is where Φ' and Φ are in contact through the dual pairing, and the material body is the structural occasion for that pairing. H-origin beings operating in H₄₈-proximate domains require structural accommodation (see CCC, Paper 14); Φ'-origin beings require no such accommodation because H₄₈ is constitutively their home domain.
+
+The Thought Adjuster functions as the primary bridge: a being of H₁ origin operating at H₆, presenting Φ-level content to the Φ'-origin being across the Φ ↔ Φ' boundary at each moment of genuine catching orientation.
+
+The Incarnation (Paper 13) is structurally distinct from both: neither the H-origin angelic mode (operating within H at lower constraint levels) nor the Φ'-origin mortal mode (constitutive H₄₈ embodiment). It is the entry of Φ itself — the nuclear test space — into H₄₈ constraint: the maximum downward entry Paper 13 derives as the structural limit of the inner product's constitutive reach.
+
+*(Confidence tier: structural inference from the Gelfand triple's architecture. The H-origin / Φ'-origin distinction is derivable from the triple's constitution; the application to angelic and mortal beings is concordance-level, mapping the distinction onto convergent traditional accounts of the difference between these two kinds of personal being.)*
+
+> *Cross-references: Paper 4 (descent and densification; embodiment as constitutive); Paper 7 (catching as volitional dual pairing across the Φ ↔ Φ' boundary); Paper 13 (maximum downward entry — Incarnation as Φ → H₄₈); Paper 14 (CCC — constraint compatibility for H-origin beings at lower levels); Appendix II: Dual Space (Φ'), Hilbert Space (H), Gelfand Triple, Thought Adjuster, Catching.*
+
+---
+
 **Apophatic Theology** *(tradition: Christian mysticism)*
 
 Also called *negative theology* or the *via negativa*. The approach to describing God by stating what God is not, rather than what God is, on the grounds that no positive predication adequately captures what exceeds all finite categories. Pseudo-Dionysius the Areopagite is its most systematic exponent in the Western tradition; it is also central to the Eastern Christian hesychast tradition and has parallels in Islamic, Jewish, and Hindu mysticism.
