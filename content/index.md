@@ -21,7 +21,7 @@ The foundational series. Twenty-eight papers, beginning from two assumptions —
 
 The argument is rigorous. The mathematics can be checked by those with the background to check it. Those without that background can follow the structural intuitions the papers work hard to make available. What is asked of the reader is only what Wittgenstein found himself holding at the edge of his most rigorous work: a genuine pause at the fact that anything exists at all.
 
-[[concordius-papers/Introduction|Begin with the Introduction →]]
+[[concordius-papers/index|Begin with the Introduction →]]
 
 ---
 
@@ -31,7 +31,7 @@ The method. Formal proof can only go so far — at some point every serious inqu
 
 It is the method the Concordius Papers use when they leave the domain of formal necessity. It is also, the papers argue, the method any careful person implicitly uses — or should use — when thinking honestly about anything that matters.
 
-[[reasonablenessism/Overview|Read the Overview →]]
+[[reasonablenessism/index|Read the Overview →]]
 
 ---
 
@@ -41,4 +41,4 @@ The model applied. If the Concordius framework is correct, it should be able to 
 
 They apply the framework to the Bible, Shakespeare's Sonnets, Plato, Laozi, Spinoza, Plotinus, the Bhagavad Gita, Marcus Aurelius, and others. In each case the question is the same: does the independently recognized depth of this text correspond to the structural features the framework predicts? The answer, consistently, is yes — and specifically.
 
-[[structural-readings/The Framework and Method|Read the Framework and Method →]]
+[[structural-readings/index|Read the Framework and Method →]]
