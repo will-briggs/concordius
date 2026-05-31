@@ -1,8 +1,12 @@
 @use "./variables.scss" as *;
 
-// Base font size
+// Base font size and letter spacing
 html {
   font-size: 18px;
+}
+
+body {
+  letter-spacing: 0.03em;
 }
 
 // Blockquote left border — gold
