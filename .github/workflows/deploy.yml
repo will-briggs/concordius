@@ -48,6 +48,28 @@ jobs:
       - name: Install Quartz plugins
         run: npx quartz plugin install
 
+      - name: Patch reader-mode plugin to default on
+        run: |
+          python3 - <<'EOF'
+          path = '.quartz/plugins/reader-mode/dist/components/index.js'
+          with open(path, 'r') as f:
+              content = f.read()
+          # 1. Default isReaderMode to true (from localStorage, falling back to on)
+          #    and set the attribute immediately at prescript time
+          content = content.replace(
+              'var n=!1,o=t=>',
+              'var n=localStorage.getItem("reader-mode")!=="off";document.documentElement.setAttribute("reader-mode",n?"on":"off");var o=t=>'
+          )
+          # 2. Persist the user's toggle choice to localStorage
+          content = content.replace(
+              'setAttribute("reader-mode",e),o(e)',
+              'setAttribute("reader-mode",e),localStorage.setItem("reader-mode",e),o(e)'
+          )
+          with open(path, 'w') as f:
+              f.write(content)
+          print('reader-mode patch applied')
+          EOF
+
       - name: Build site
         run: npx quartz build
 
