@@ -50,6 +50,11 @@ a {
   }
 }
 
+// Hide the date from content-meta — show reading time only
+.content-meta time {
+  display: none !important;
+}
+
 // Sidebar explorer arrows — match link color
 .explorer svg > polyline {
   stroke: #A08955 !important;
