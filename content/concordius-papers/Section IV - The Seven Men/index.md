@@ -28,6 +28,22 @@ Everything that has been built has been built toward this.
 
 ---
 
+## Structural Note: The Cascade in Reverse
+
+The constraint cascade descends: H₁ → H₃ → H₆ → H₁₂ → H₂₄ → H₄₈. Each level doubles the constraints of the level above. The ontological structure of the universe is a descent into increasing constraint, receding from φ.
+
+The Seven Men ascend through the same structure in reverse.
+
+Man 1 is fully constituted at H₄₈: the densest constraint level, noise floor at maximum, Adjuster contact effectively zero. Man 7 has integrated back to the pseudoscalar — the grade-3 Clifford element that contains all grades, whose centrality corresponds to H₁'s organizational character — instantiated as H₂₄-organized soul content at the maximum level compatible with continued H₄₈ existence. The Clifford grade correspondence is exact: Men 1-3 are grade-1 single generators; Men 4-6 are grade-2 bivectors; Man 7 is the grade-3 pseudoscalar. The grades map the constraint levels. The ascending career is the cascade traversed in reverse.
+
+Section IV does not merely describe the ascending career. It performs the cascade reversal at the human developmental scale. This is the Holographic Content Principle (Paper 11) operating in the series' own structure: the whole present in every part; the cascade's full architecture legible within the seven developmental positions.
+
+**The octaves within octaves.** If the Seven Men constitutes one octave of development within H₄₈, the Heptaparaparshinokh requires corresponding octaves at each ascending subspace: an octave at H₂₄, at H₁₂, at H₆, at H₃ — each containing, at its constraint level, the same seven-stage ascending structure that Section IV maps at H₄₈. The ascending career is not a single octave. It is an octave of octaves, the cascade present at every scale.
+
+The structural implication for the earthly octave: the mansion worlds are H₂₄-organized H₄₈ matter — still within the H₄₈ subspace. The H₄₈ octave therefore spans from the first moral decision in H₄₈-primary existence through the last mansion world transition into H₂₄-primary existence. The entire earthly developmental arc — Man 1 through Man 7 in H₄₈-primary form — is the Do note of that H₄₈ octave. Man 7 on earth is not the octave's completion; it is the completion of the Do position. What Section IV maps in full detail is the first note of the H₄₈ octave, itself a complete sub-octave in miniature: the whole in every part. Paper 28 develops the structural consequence.
+
+---
+
 ## Summary of Contents
 
 **Paper 22 — Man No. 1**

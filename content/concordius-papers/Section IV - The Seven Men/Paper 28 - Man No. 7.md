@@ -135,6 +135,14 @@ The seven Men are the Law of Seven applied to the ascending career itself.
 
 Man 7 is not the end. Man 7 is the completion of the H₄₈ phase — the Do that begins the next octave. The series ends here because it has reached the limit of what can be structurally described from within H₄₈. What the ascending career looks like beyond Man 7 — the morontia worlds, the superuniverse career, the approach to the Isle of Paradise — is territory that the Concordius framework points toward but cannot map. The framework was built from within H₄₈, using the apparatus of H₄₈-available mathematics and the evidence of H₄₈-available independent witnesses. What lies beyond H₄₈ is described in the tradition's most advanced sources, organized in the Urantia cosmology, and pointed toward by the Gelfand triple's Φ' as the horizon toward which the whole structure is oriented. It cannot be further derived from here. It is the territory to which Man 7 is aimed. It is the territory Man 7 is ready for.
 
+**The octave within the octave.** The table above maps the seven Men onto the H₄₈-primary developmental arc — one complete sub-octave. But the Heptaparaparshinokh operates at every scale.
+
+The mansion worlds are H₂₄-organized H₄₈ matter: physical reconstitution in the same spacetime using H₄₈ atoms organized by the H₂₄ pattern the Adjuster carries. The H₄₈ subspace does not terminate at physical death. It continues through the morontia career. The H₄₈ octave therefore spans the full career within H₄₈ subspace: from the first moral decision in H₄₈-primary existence through the last mansion world transition into H₂₄-primary existence. Within that octave, the entire earthly developmental arc — Man 1 through Man 7 in H₄₈-primary form — is the Do note. Man 7's physical death is not the completion of the H₄₈ octave. It is the completion of the Do position.
+
+The Re through Si of the H₄₈ octave are the mansion world career; the Do of the H₂₄ octave is what the completed H₄₈ arc delivers the soul to. There are corresponding octaves at H₂₄, H₁₂, H₆, H₃ — the ascending career is an octave of octaves, the constraint cascade present at every scale of the ascent.
+
+The implication for Section IV: what the papers above have mapped in complete structural detail is the first note of the H₄₈ octave — itself a complete octave in miniature, the seven developmental positions fully articulated within the Do position. This is the Holographic Content Principle operating in the ascending career's own structure: the whole present in every part; the full cascade legible within the Do.
+
 ---
 
 ## Open Questions
