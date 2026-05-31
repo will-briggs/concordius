@@ -286,6 +286,30 @@ The scalar (grade 0) is Havona — the eternal ground Do that precedes the creat
 
 This moves the cascade endpoint from the physical-observation tier to the derived tier. The termination at 96 is mathematical, not empirical. *(Cross-reference: S1E3 — Clifford grade structure; Paper 7 — cascade termination as the completion of the Heptaparaparshinokh octave.)*
 
+**Open question — cascade timing and the GUT prediction.** The constraint cascade table in Section 3 identifies the five content-producing GNST levels from H₃ to H₄₈. The timing of the cascade — when each level transition occurred in cosmological history — is derivable from two structural inputs established in this paper and Paper 6.
+
+The first: eigenspace-proportional GNST rates. Content production per eigenstate per unit time is constant — this is the Father's non-preferential evaluation principle: the inner product ⟨·,·⟩ couples to all eigenstates equally, so total production rate scales with eigenspace size. H₃ (eigenspace size 16, in units where H₄₈ = 1) produces at rate 16; H₆ at 8; H₁₂ at 4; H₂₄ at 2; H₄₈ at 1.
+
+The second: the halving function. Subalgebra dimension halves at each grade transition in Cl(3,0), setting cascade efficiency at ½ per step.
+
+These inputs set the log-time duration of each cascade epoch proportional to 1/rate. Two cosmological anchor points fix the calculation: the first H₃ GNST application at the Planck epoch (~10⁻⁴³ s) and the H₄₈ completion at electroweak symmetry breaking (~10⁻¹² s), identified in Paper 5. Total span: 31 orders of magnitude. The cascade log-time fractions from the inverse eigenspace ratios are 1:2:4:8:16, and these numerators sum to 31 — the same as the total span. The fractions therefore produce exact integer orders per epoch:
+
+| Level | Log-time (orders) | Transition ends at |
+|---|---|---|
+| H₃ | 1 | ~10⁻⁴² s |
+| H₆ | 2 | ~10⁻⁴⁰ s |
+| H₁₂ | 4 | **~10⁻³⁶ s** |
+| H₂₄ | 8 | ~10⁻²⁸ s |
+| H₄₈ | 16 | ~10⁻¹² s ✓ |
+
+The H₁₂→H₂₄ transition at ~10⁻³⁶ s corresponds to the GUT (Grand Unified Theory) symmetry breaking scale — the moment the strong nuclear force separates from the electroweak force. This is one of the most robustly identified events in early-universe cosmology, and the framework predicts it without having been aimed at that result.
+
+The H₂₄→H₄₈ transition at ~10⁻²⁸ s falls in the "electroweak desert," the span between GUT and electroweak scales at which the standard model predicts no symmetry breaking events. The framework predicts something structurally significant at this boundary. Leptogenesis — the generation of the matter-antimatter asymmetry — is theorized by some models to occur in this range. This is a falsifiable structural prediction.
+
+*Note on the "31 = 31" near-coincidence:* the Planck time is more precisely 5.4 × 10⁻⁴⁴ s = 10⁻⁴³·²⁷ s, making the actual span 31.27 orders rather than exactly 31. The match is close but approximate. Whether the framework's "first H₃ application" corresponds precisely to the Planck time, or to a slightly later moment when the H₃ eigenspace first becomes operationally specified, requires structural analysis.
+
+What requires further development: the log-time-proportional-to-1/rate assumption needs a formal bridge connecting the GNST actualization rate to the cosmological expansion rate governed by the Friedmann equations. Whether this bridge is derivable from the framework's identification of the GNST as the time operator and Havona as the topological ground of spacetime is an open derivation. *(Cross-reference: Paper 6, OQ7.)*
+
 ---
 
 ## 10. Conclusion
