@@ -11,7 +11,7 @@ body {
 
 // Blockquote left border — gold
 blockquote {
-  border-left-color: #B8922E !important;
+  border-left-color: #A08955 !important;
 }
 
 // Heading and title color
@@ -25,18 +25,18 @@ h1, h2, h3, h4, h5, h6 {
 
 // Link color overrides
 a {
-  color: #B8922E !important; // gold — unvisited
+  color: #A08955 !important; // gold — unvisited
 
   &:visited {
     color: var(--dark) !important; // body text color — dark in light mode, light in dark mode
   }
 
   &:active {
-    color: #B8922E !important;
+    color: #A08955 !important;
   }
 
   &:hover {
-    color: #B8922E !important;
+    color: #A08955 !important;
   }
 
   &.internal {
@@ -47,5 +47,41 @@ a {
     &:visited {
       color: var(--dark) !important;
     }
+  }
+}
+
+// Sidebar explorer arrows — match link color
+.explorer svg > polyline {
+  stroke: #A08955 !important;
+}
+
+// Dark mode: softer gold and purple so they don't dominate against dark backgrounds
+:root[saved-theme="dark"] {
+  blockquote {
+    border-left-color: #786540 !important;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #8A6FA8 !important;
+
+    a {
+      color: #8A6FA8 !important;
+    }
+  }
+
+  a {
+    color: #786540 !important;
+
+    &:active {
+      color: #786540 !important;
+    }
+
+    &:hover {
+      color: #786540 !important;
+    }
+  }
+
+  .explorer svg > polyline {
+    stroke: #786540 !important;
   }
 }
