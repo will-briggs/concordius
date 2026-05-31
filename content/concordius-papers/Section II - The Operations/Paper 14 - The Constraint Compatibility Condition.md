@@ -162,6 +162,22 @@ The central result of this paper follows from Sections 3 and 5 together.
 
 This is the **constraint compatibility condition**: an entity can stably occupy a constraint level if and only if its dominant eigenvalue population is organized by the same principles that organize that level's geometry. At H₂₄, the organizing principle is ⟨·,·⟩; only eigenvalue content organized by ⟨·,·⟩ is compatible with the H₂₄ environment. H₄₈ eigenvalue content is not compatible. Its presence is geometrically disruptive.
 
+**The mathematical asymmetry.** The CCC states that a being cannot stably occupy a constraint level whose geometry is organized by incompatible principles. Two structural theorems provide the formal basis for the asymmetry between what the Father can do and what the being can do at this boundary.
+
+**Theorem 1 (Si-Do closure).** In the Gelfand triple Φ ⊂ H ⊂ Φ′, for any nonzero ψ ∈ H, there exists φ ∈ Φ such that ⟨φ, ψ⟩ ≠ 0.
+
+*Proof.* Φ is dense in H by definition of the nuclear triple. The orthogonal complement of a dense subspace in a Hilbert space is {0}. If ⟨φ, ψ⟩ = 0 for all φ ∈ Φ, then ψ = 0. ∎
+
+The Father (⟨·,·⟩) always detects nonzero overlap between any actual being and the Φ-level eigenstates. No nonzero being is invisible to the Logos domain. The crossing is always available from the Father's side.
+
+**Theorem 2 (Subspace crossing requires the full inner product).** The constraint subspaces of the cascade are nested: H₉₆ ⊂ H₄₈ ⊂ H₂₄ ⊂ ···. A being whose dynamics are governed by the H₄₈ eigenspectrum can produce only H₄₈ eigenstates by its own operations — the H₄₈ GNST decomposes ψ over H₄₈ eigenstates alone. Actualization of an H₂₄ eigenstate for that being requires evaluating ⟨e_λ^(H₂₄), ψ⟩ for eigenstates e_λ^(H₂₄) that lie outside the H₄₈ eigenspectrum. This evaluation is not accessible to the being's H₄₈ dynamics. It requires the full inner product of the triple, which ranges over the entire cascade.
+
+*Consequence.* A being in H₄₈ cannot initiate its own transition to an H₂₄ eigenstate. The crossing requires the Father to evaluate ⟨e_λ^(H₂₄), ψ⟩ using the full inner product — an evaluation outside the being's own spectral resources by construction. No amount of effort within H₄₈ can generate an H₂₄ eigenvalue, because H₄₈ dynamics are closed on H₄₈.
+
+Theorem 1 establishes that the crossing is always available from the Father's side. Theorem 2 establishes that it is not available from the being's side. The CCC therefore has two faces: the structural disruption that results when incompatible eigenvalue populations attempt to cohabit a constraint level, and the formal impossibility of a being self-initiating the transition to a level governed by a spectral family outside its own dynamics. The asymmetry is mathematical, not merely theological.
+
+*(Confidence tier: derived. Both theorems follow directly from the definition of the Gelfand triple and the closure of constraint-level dynamics on their eigenspectrum.)*
+
 ---
 
 ## 7. The Ascending Career as Eigenvalue Replacement
