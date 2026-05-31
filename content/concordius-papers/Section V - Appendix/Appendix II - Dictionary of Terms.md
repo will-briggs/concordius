@@ -27,7 +27,9 @@ The series treats all inherited terms structurally: a term is used because it mo
 
 ---
 
-**Active Force** *(tradition: Gurdjieff / Fourth Way)*
+### Active Force
+
+*(tradition: Gurdjieff / Fourth Way)*
 
 In Gurdjieff's Law of Three, the Active force is the first of three forces whose interaction is required for any genuine process to occur. It is the force that initiates, pushes, or presses toward resolution. It cannot produce a result alone — the Passive force's resistance and the Reconciling force's mediation are equally necessary. Gurdjieff insisted that ordinary thinking recognizes only two forces (a thing and what it acts on) and therefore systematically misunderstands causation: the third force, which holds Active and Passive in productive tension, is almost always invisible to ordinary observation.
 
@@ -37,7 +39,9 @@ In the Concordius series, the Active/Passive/Reconciling triad is applied analyt
 
 ---
 
-**Alchemical Stages** *(tradition: Western alchemy — series extension)*
+### Alchemical Stages
+
+*(tradition: Western alchemy — series extension)*
 
 Western alchemy described a sequence of operations performed on base material with the goal of producing the Philosopher's Stone — a substance capable of transmuting other materials into gold and conferring immortality. The sequence was described in terms of color stages: Nigredo (blackening — the initial dissolution of the base material), Albedo (whitening — the purification of what remains after dissolution), Citrinitas (yellowing — an intermediate brightening stage, sometimes omitted), and Rubedo (reddening — the final stage, the production of the Stone itself). Jung identified the alchemical sequence as a projection of the individuation process.
 
@@ -47,7 +51,9 @@ The Concordius series maps the alchemical stages onto Gurdjieff's ascending sequ
 
 ---
 
-**Angelic origin / Mortal origin** *(series)*
+### Angelic origin / Mortal origin
+
+*(series)*
 
 The fundamental structural distinction between two classes of personal beings in the Concordius framework, located in the Gelfand triple Φ ⊂ H ⊂ Φ'.
 
@@ -69,7 +75,9 @@ The Incarnation (Paper 13) is structurally distinct from both: neither the H-ori
 
 ---
 
-**Apophatic Theology** *(tradition: Christian mysticism)*
+### Apophatic Theology
+
+*(tradition: Christian mysticism)*
 
 Also called *negative theology* or the *via negativa*. The approach to describing God by stating what God is not, rather than what God is, on the grounds that no positive predication adequately captures what exceeds all finite categories. Pseudo-Dionysius the Areopagite is its most systematic exponent in the Western tradition; it is also central to the Eastern Christian hesychast tradition and has parallels in Islamic, Jewish, and Hindu mysticism.
 
@@ -79,7 +87,9 @@ The Concordius series relates apophatic theology to the mathematical structure o
 
 ---
 
-**Ascending Career** *(tradition: Urantia Book — series extension)*
+### Ascending Career
+
+*(tradition: Urantia Book — series extension)*
 
 The *Urantia Book*'s term for the post-mortem journey of the surviving soul through progressively higher domains of reality, moving from the material world through the morontia worlds toward eventual union with God on the Isle of Paradise. The Urantia Book describes this as a vast educational journey across multiple levels of existence, spanning what it terms the "grand universe."
 
@@ -89,7 +99,9 @@ The Concordius series uses the term more broadly to mean the full arc of develop
 
 ---
 
-**Axial Age** *(tradition: philosophy of history)*
+### Axial Age
+
+*(tradition: philosophy of history)*
 
 The historian Karl Jaspers' term for the period approximately 800-200 BCE, during which — apparently independently and in parallel — major spiritual and philosophical traditions emerged across multiple civilizations: Buddhism and Jainism in India; Confucianism and Taoism in China; the Hebrew prophets (Isaiah, Jeremiah, Ezekiel) in the Levant; and the Greek philosophical tradition from Thales through Plato. Jaspers noted the simultaneity without being able to explain it causally.
 
@@ -101,7 +113,9 @@ The Concordius series maps the Axial Age onto the Mi stage of the historical Hep
 
 ## B
 
-**Beatific Vision** *(tradition: Catholic theology)*
+### Beatific Vision
+
+*(tradition: Catholic theology)*
 
 The direct, unmediated apprehension of God — the final state of the blessed in heaven, in which the veil between finite and infinite is lifted and the soul perceives God as God is, not through the mediation of concepts or images. Aquinas treats it as the intellect's participation in God's own self-knowledge, made possible by the *lumen gloriae* (light of glory) that elevates the finite intellect beyond its natural capacity.
 
@@ -113,7 +127,9 @@ In the Concordius structural account, the Beatific Vision corresponds to the ter
 
 ## C
 
-**Catching** *(series)*
+### Catching
+
+*(series)*
 
 The primary novel technical term of the Concordius series. In the series' usage, catching is the volitional act by which a being retains, in its soul deposit, the H₂₄-constraint eigenvalue content generated by the GNST's continuous operation. It is contrasted with the purely mechanical processing of GNST-generated eigenvalues that occurs at the H₄₈ level, which does not build the soul deposit.
 
@@ -125,7 +141,9 @@ The opposite of catching is not sin or moral failure — it is mechanical proces
 
 ---
 
-**Centers** *(tradition: Gurdjieff / Fourth Way)*
+### Centers
+
+*(tradition: Gurdjieff / Fourth Way)*
 
 Gurdjieff's term for the distinct functional systems within the human being, each of which processes a different type of experience and operates according to its own logic and speed. The lower centers are: the moving center (physical movement, habit, skill), the instinctive center (bodily functions, survival responses), the emotional center (feeling, aesthetic response, relational experience), and the intellectual center (thought, language, conceptual analysis). These four lower centers are present in all ordinary human beings.
 
@@ -137,7 +155,9 @@ The four lower centers have characteristic pathologies: wrong-center functioning
 
 ---
 
-**Cl(3,0)** *(mathematics)*
+### Cl(3,0)
+
+*(mathematics)*
 
 The Clifford algebra generated by three basis vectors with positive-definite signature — meaning all three basis vectors square to +1 rather than -1. Clifford algebras generalize complex numbers and quaternions; Cl(3,0) is the Clifford algebra of ordinary three-dimensional Euclidean space. It has dimension 2³ = 8 as a vector space over the real numbers, with basis elements: 1 (scalar), e₁, e₂, e₃ (vectors), e₁e₂, e₁e₃, e₂e₃ (bivectors), and e₁e₂e₃ (pseudoscalar).
 
@@ -149,7 +169,9 @@ A reader without technical algebra background can hold the following intuition: 
 
 ---
 
-**Coherence Threshold** *(series)*
+### Coherence Threshold
+
+*(series)*
 
 The minimum accumulated H₂₄ soul deposit required for that deposit to maintain its structural integrity through H₄₈ dissolution (physical death). Below the coherence threshold, the soul deposit does not constitute a sufficiently organized H₂₄ structure to persist without the H₄₈ substrate that has been generating and partially organizing it. Above the threshold, the H₂₄ structure is self-sustaining and survives the H₄₈ substrate's dissolution.
 
@@ -159,7 +181,9 @@ The coherence threshold is not a moral criterion. It is a structural one. What b
 
 ---
 
-**Community of believers** *(series / theological)*
+### Community of believers
+
+*(series / theological)*
 
 The aggregate of Φ′-origin beings in active volitional alignment toward Φ; the actual transmission carrier of φ-proximal content across generations. Structurally distinct from the institutional Church, which is the formal structure organized around the community but is neither identical to it nor constitutive of it.
 
@@ -175,7 +199,9 @@ The community of believers is ontologically prior to any institution. All saints
 
 ---
 
-**Constraint Cascade** *(series — provenance unverified)*
+### Constraint Cascade
+
+*(series — provenance unverified)*
 
 The nested sequence of increasingly constrained domains produced by successive applications of the Gelfand Nuclear Spectral Theorem (GNST) after the First Free Act. Each stage of the cascade inherits all the constraints of the stage above it and adds its own, producing a monotonic reduction of freedom through the created order. The first application of the GNST produces 3D-spacetime. Subsequent applications produce a nested sequence of progressively denser Hilbert subspaces — named and traced in Paper 4 — terminating in the physical matter of the observable universe. The Big Bang is a late event in the cascade, not its beginning.
 
@@ -189,7 +215,9 @@ The cascade is the structural basis for Gurdjieff's cosmological principle that 
 
 ---
 
-**Consuetudo** *(tradition: Augustine)*
+### Consuetudo
+
+*(tradition: Augustine)*
 
 Latin for "habit" or "custom," used by Augustine in the *Confessions* (Book VIII) to describe the grip that ingrained habit maintained on his will even after his intellectual conversion was complete. Augustine understood intellectually that Christianity was true. He willed to commit himself fully to it. The commitment did not come. *Consuetudo* — the accumulated weight of years of habit, especially sexual habit — held him in place against his own explicit will. The will was divided: the new will (toward conversion) and the old will (toward the familiar pleasures) were both his, and neither could simply override the other.
 
@@ -199,7 +227,9 @@ The *Confessions*' account of *consuetudo* is one of the most precise phenomenol
 
 ---
 
-**Convergent Witness Principle** *(tradition: Reasonablenessism — series)*
+### Convergent Witness Principle
+
+*(tradition: Reasonablenessism — series)*
 
 The epistemological principle, developed in Paper 19 as a feature of the Reasonablenessism method, that independent sources which could not have cross-contaminated each other, arriving at the same structural identification, constitute evidential weight that neither source alone provides. The evidential weight is proportional to: the independence of the sources (sources that could not have influenced each other carry more weight than sources in the same tradition), the specificity of the convergence (agreement on detailed structural features carries more weight than agreement on general direction), and the number of independent sources converging.
 
@@ -207,7 +237,9 @@ The convergent witness principle is the series' primary evidential tool for clai
 
 ---
 
-**Cross-Term** *(mathematics — series extension)*
+### Cross-Term
+
+*(mathematics — series extension)*
 
 In linear algebra and quantum mechanics, the inner product of two vectors ψ_a and ψ_b from the same Hilbert space — written ⟨ψ_a, ψ_b⟩. In standard quantum mechanics, this is the probability amplitude for state a to be found in state b upon measurement. In the Concordius series, the cross-term ⟨ψ_a, ψ_b⟩₂₄ between two persons' H₂₄ state vectors is the structural basis for the transmitting field — the influence that one person's soul deposit exerts on another person's catching capacity without direct informational content or intentional action.
 
@@ -217,7 +249,9 @@ The series' claim is that persons with substantial H₂₄ soul deposits (Men 5-
 
 ## D
 
-**Dark Night of the Senses** *(tradition: Christian mysticism — series extension)*
+### Dark Night of the Senses
+
+*(tradition: Christian mysticism — series extension)*
 
 John of the Cross's term for the first of two major transitional crises in the contemplative ascent. The dark night of the senses occurs when the spiritual consolations that have sustained the person's prayer and practice — the felt sense of God's presence, the emotional warmth of devotion, the satisfying quality of contemplative states — are withdrawn. The person is left in apparent spiritual aridity: prayer feels empty, devotion feels mechanical, the previous consolations are inaccessible. This is experienced as abandonment or failure but is, in John of the Cross's account, the necessary precondition for a more mature relationship to God — one that does not depend on consolation for its continuity.
 
@@ -229,7 +263,9 @@ The dark night of the senses must be distinguished from clinical depression, spi
 
 ---
 
-**Dark Night of the Spirit** *(tradition: Christian mysticism — series extension)*
+### Dark Night of the Spirit
+
+*(tradition: Christian mysticism — series extension)*
 
 John of the Cross's term for the second and more complete transitional crisis — the more total dissolution that follows the approach of the crystallization event (Man 5) and constitutes the Si/Do interval of the Man 4 ascending arc. Where the dark night of the senses involves the withdrawal of consolation, the dark night of the spirit involves the dissolution of the deliberate catching effort itself: the practices, frameworks, and methods that Man 4 has developed through sustained work suddenly appear empty, inadequate, or actively obstructing. The person is left without the instruments that have defined the work.
 
@@ -241,7 +277,9 @@ The prescription for both dark nights is the same: do not modify practice; do no
 
 ---
 
-**Densification** *(series)*
+### Densification
+
+*(series)*
 
 The series' term for the process by which content from a higher-constraint domain (H₂₄) is encoded in a lower-constraint domain (H₄₈), necessarily at the cost of some content. Every H₄₈ object that encodes φ-proximal content is a densification: the art work, the ritual, the scripture, the sacred architecture, the hagiographic text. All are H₄₈ forms that carry φ-proximal content in compressed, partially recoverable form.
 
@@ -251,7 +289,9 @@ This is why, on the series' account, the same sacred text produces radically dif
 
 ---
 
-**Do-Re-Mi-Fa-Sol-La-Si** *(tradition: Gurdjieff / Fourth Way — series extension)*
+### Do-Re-Mi-Fa-Sol-La-Si
+
+*(tradition: Gurdjieff / Fourth Way — series extension)*
 
 The notes of the Western musical scale, used by Gurdjieff as the labels for the seven stages of any genuine developmental process according to the Law of Seven (Heptaparaparshinokh). The sequence Do-Re-Mi-[interval]-Fa-Sol-La-Si-[interval]-Do maps onto the characteristic shape of any octave: three notes of natural development (Do-Re-Mi), an interval requiring external input (Mi-Fa gap), four more notes of natural development (Fa-Sol-La-Si), a second interval requiring external input (Si-Do gap), and the arrival at the next Do — which is simultaneously the completion of the previous octave and the initiation of the next.
 
@@ -261,7 +301,9 @@ The scale notation is Gurdjieff's teaching device, not a claim about music theor
 
 ---
 
-**Dual Space (Φ')** *(mathematics)*
+### Dual Space
+
+*(mathematics)*
 
 In functional analysis, the dual of a topological vector space is the space of all continuous linear functionals on that space — maps from the space to the real (or complex) numbers that preserve the relevant structure. For the nuclear space Φ in the Gelfand triple, the dual Φ' is strictly larger than Φ: it contains objects (generalized functions, distributions) that cannot be represented as ordinary functions in Φ but can be "tested" against elements of Φ.
 
@@ -275,7 +317,9 @@ In the Concordius mapping, Φ' is identified with the Unqualified Absolute — t
 
 ## E
 
-**Eigenstate / Eigenvalue / Eigenfunction** *(mathematics)*
+### Eigenstate
+
+*(mathematics)*
 
 In quantum mechanics and linear algebra, an eigenstate (or eigenvector) of an operator is a state that the operator sends to a scalar multiple of itself. The scalar multiple is the eigenvalue. Formally: if A is an operator and ψ is an eigenstate of A with eigenvalue λ, then Aψ = λψ. The eigenvalue represents the definite, measurable value of the physical quantity associated with A when the system is in state ψ.
 
@@ -287,7 +331,9 @@ The Concordius series uses eigenvalues and eigenstates to characterize the conte
 
 ---
 
-**Eudaimonia** *(tradition: Aristotle)*
+### Eudaimonia
+
+*(tradition: Aristotle)*
 
 Aristotle's term for the highest human good — often translated "happiness" but better rendered "flourishing" or "living well and doing well." Eudaimonia is not a subjective feeling but an objective condition: the excellent activity of the soul in accordance with virtue over a complete life. For Aristotle, eudaimonia is the proper end (*telos*) of human existence — what a human being most fundamentally is aimed at.
 
@@ -299,7 +345,9 @@ The Concordius series reads eudaimonia through the Gelfand triple: eudaimonia is
 
 ## F
 
-**Father** *(tradition: Urantia Book / Christian theology — series extension)*
+### Father
+
+*(tradition: Urantia Book / Christian theology — series extension)*
 
 The first person of the Trinity. In the *Urantia Book*, the Universal Father is described as the First Source and Center of all reality — the origin of all things, the source of all personality, and the ultimate reality from which all finite existence derives. In Christian theology, the Father is the first person of the Trinity, unbegotten and the source of the Son and Spirit.
 
@@ -309,7 +357,9 @@ The Concordius series maps the Father onto the inner product ⟨·,·⟩ — the
 
 ---
 
-**Formal Distinction** *(tradition: Duns Scotus)*
+### Formal Distinction
+
+*(tradition: Duns Scotus)*
 
 A distinction introduced by John Duns Scotus (c. 1266-1308) intermediate between a real distinction (in which two things are genuinely separate) and a merely logical or conceptual distinction (in which the same thing is considered under two different descriptions). A formal distinction holds between two aspects of the same thing that are not merely conceptually different but have some basis in reality — they are formally different without being really separate.
 
@@ -319,7 +369,9 @@ Paper 15 of the Concordius series argues that the formal distinction is the corr
 
 ---
 
-**Fourth Way** *(tradition: Gurdjieff)*
+### Fourth Way
+
+*(tradition: Gurdjieff)*
 
 Gurdjieff's term for the path of development that does not require withdrawal from ordinary life — distinguished from what he called the first way (the way of the fakir, through mastery of the physical body), the second way (the way of the monk, through emotional and devotional development), and the third way (the way of the yogi, through intellectual and contemplative development). The Fourth Way works on all three lower centers simultaneously, in the context of ordinary daily life, using the frictions of worldly existence as the primary material for intentional development.
 
@@ -331,7 +383,9 @@ The Concordius series draws on the Fourth Way framework throughout Section IV (P
 
 ## G
 
-**Gelassenheit** *(tradition: Meister Eckhart / German mysticism)*
+### Gelassenheit
+
+*(tradition: Meister Eckhart / German mysticism)*
 
 A Middle High German term used by Meister Eckhart and later by Jakob Böhme, meaning "letting go," "release," "yieldedness," or "releasement." In Eckhart's mystical theology, Gelassenheit describes the disposition of complete interior detachment — the releasing of all attachment to particular things, outcomes, and even to spiritual consolations — that creates the receptive condition in which God can act within the soul without obstruction. It is not passivity or indifference; it is the positive act of releasing the will's grip on particular objects in order to remain open to what is given.
 
@@ -341,7 +395,9 @@ The Concordius series identifies Gelassenheit as the Man 5-6 version of what the
 
 ---
 
-**Gelfand Triple** *(mathematics)*
+### Gelfand Triple
+
+*(mathematics)*
 
 Also called a *rigged Hilbert space* or *equipped Hilbert space*. A mathematical structure consisting of three nested spaces: a nuclear space Φ (dense in H), embedded in a Hilbert space H, embedded in the dual space Φ'. Written Φ ⊂ H ⊂ Φ'. Developed by the Soviet mathematician Israel Gelfand and his collaborators in the 1950s-60s to provide a rigorous foundation for Dirac's bra-ket notation in quantum mechanics — specifically, to give a mathematically precise home for objects like the Dirac delta function and the eigenfunctions of operators with continuous spectrum.
 
@@ -355,7 +411,9 @@ The Concordius series' foundational claim (Paper 1) is that reality has the stru
 
 ---
 
-**Gödel Incompleteness** *(mathematics)*
+### Gödel Incompleteness
+
+*(mathematics)*
 
 Kurt Gödel's incompleteness theorems (1931): the first theorem states that any consistent formal system powerful enough to express basic arithmetic contains true statements that cannot be proven within the system. The second theorem states that no such system can prove its own consistency. These theorems established a fundamental limitation on formal systems: no sufficiently powerful formal system can be both consistent (never proving false statements) and complete (proving all true statements).
 
@@ -369,7 +427,9 @@ This reading rehabilitates incompleteness as evidence for the Gelfand triple's c
 
 ## H
 
-**H₂₄** *(series)*
+### H₂₄
+
+*(series)*
 
 The Concordius series' notation for the higher-constraint domain — the domain above the physical universe's constraint level, in which eigenvalues are less tightly localized, states are more stable, and content is less subject to the Heropass's continuous dissolution. The notation is derived from Gurdjieff's hydrogen table, in which each level of substance or vibration is assigned a number (with lower numbers representing finer, more H₂₄-proximate substances), and "24" designates the constraint level of what Gurdjieff called "hydrogen 24" — the substance associated with the higher emotional center.
 
@@ -379,7 +439,9 @@ See also *H₄₈*, *Densification*, *Catching*, *Hydrogens*.
 
 ---
 
-**H₄₈** *(series)*
+### H₄₈
+
+*(series)*
 
 The series' notation for the physical-constraint domain — the domain of ordinary spacetime, in which eigenvalues are tightly localized, states are highly definite, and content is subject to the most intensive Heropass rate in the ascending sequence. The "48" is from Gurdjieff's hydrogen table, designating the constraint level of ordinary physical matter and the ordinary moving/instinctive/emotional/intellectual centers' operation.
 
@@ -387,7 +449,9 @@ H₄₈ is the domain within which human beings in their ordinary condition oper
 
 ---
 
-**Heptaparaparshinokh** *(tradition: Gurdjieff — series extension)*
+### Heptaparaparshinokh
+
+*(tradition: Gurdjieff — series extension)*
 
 Gurdjieff's term for what the Concordius series calls the Law of Seven — the universal law governing the structure of all developmental processes. The term is from Gurdjieff's invented philosophical language in *Beelzebub's Tales to His Grandson* and is deliberately opaque, intended to prevent the lazy mental shortcut of assimilating a new idea to a familiar one. The law states that every genuine process proceeds according to the seven-stage octave structure (Do-Re-Mi-[interval]-Fa-Sol-La-Si-[interval]-Do), with two inherent intervals at which the process cannot continue from its own momentum and requires an external shock to maintain its original direction.
 
@@ -399,7 +463,9 @@ The critical structural point: the intervals are not failures or defects in the 
 
 ---
 
-**Heropass** *(tradition: Gurdjieff — series extension)*
+### Heropass
+
+*(tradition: Gurdjieff — series extension)*
 
 Gurdjieff's term, from *Beelzebub's Tales to His Grandson*, for time as the irreversible dissolution force — the "unique property of time" by which everything that exists in formed existence is continuously subjected to dissolution, change, and decay. The Heropass does not build; it only un-builds. Every formation at every constraint level is continuously subject to its action.
 
@@ -417,7 +483,9 @@ The Heropass is not evil or hostile. It is the structural mechanism of time — 
 
 ---
 
-**Hesychasm / Hesychast Tradition** *(tradition: Eastern Christian mysticism)*
+### Hesychasm
+
+*(tradition: Eastern Christian mysticism)*
 
 From the Greek *hesychia* (silence, stillness, rest). A tradition of contemplative prayer in Eastern Christianity, centered on the practice of the Jesus Prayer ("Lord Jesus Christ, Son of God, have mercy on me, a sinner") as the vehicle for attaining the stillness in which the direct experience of God — specifically the "uncreated light" or divine energies — becomes possible. The hesychast tradition was systematized by Gregory Palamas (1296-1359) in his distinction between God's essence (unknowable, inaccessible even in the beatific vision) and God's energies (the divine life in which creatures genuinely participate through prayer and theosis).
 
@@ -427,7 +495,9 @@ The Concordius series draws on the hesychast tradition primarily in Paper 25 (Ma
 
 ---
 
-**Higher Being Body** *(tradition: Gurdjieff — series extension)*
+### Higher Being Body
+
+*(tradition: Gurdjieff — series extension)*
 
 Gurdjieff's term for the soul as a built structure — not something human beings have automatically, but something that must be constructed through deliberate catching work. In Gurdjieff's account, ordinary human beings have the capacity to build a higher being body but do not do so automatically. The "astral body" (approximately Gurdjieff's second body, corresponding to the Man 4-5 development) is the first level of built structure; the "mental body" (third body) and "causal body" (fourth body) correspond to higher development levels.
 
@@ -437,7 +507,9 @@ The Concordius series treats the higher being body as the soul deposit above the
 
 ---
 
-**Hilbert Space (H)** *(mathematics)*
+### Hilbert Space
+
+*(mathematics)*
 
 A complete inner product space — a vector space equipped with an inner product (a way of measuring angles and lengths between vectors) that is complete in the sense that all Cauchy sequences (sequences of vectors that get progressively closer together) converge to a limit within the space. Hilbert spaces may be finite or infinite-dimensional. Infinite-dimensional Hilbert spaces are the natural setting for quantum mechanics.
 
@@ -449,7 +521,9 @@ In the Concordius mapping, finite beings (persons, in the relevant application) 
 
 ---
 
-**Holographic Content Principle** *(series)*
+### Holographic Content Principle
+
+*(series)*
 
 The series' term (Paper 11) for the principle that φ-proximal content can be encoded in H₄₈ forms in compressed, partially recoverable fashion — and that a receiver with sufficient catching capacity can recover more of the φ-proximal content from the same H₄₈ form than a receiver with less catching capacity. The principle explains why great sacred art, scripture, and ritual appear to have inexhaustible depth — they do not; they have a determinate φ-proximal content; but the depth accessible to any particular reader is determined by that reader's H₂₄ catching capacity, not by the text's finite H₄₈ encoding. The same text yields different content to different receivers, not because the text changes but because the receiver changes.
 
@@ -457,7 +531,9 @@ The name is borrowed from, but not identical to, the holographic principle in ph
 
 ---
 
-**Hydrogens** *(tradition: Gurdjieff — series extension)*
+### Hydrogens
+
+*(tradition: Gurdjieff — series extension)*
 
 Gurdjieff's term for the levels of "matter" or "substance" in his cosmological scheme, each characterized by a specific constraint level or fineness. The hydrogen table assigns numbers to each level (H768, H384, H192, H96, H48, H24, H12, H6, H3, H1 in various formulations), with lower numbers representing finer, less constrained, more H₂₄-proximate substances. Ordinary food, air, and impressions are H768, H192, and H96 respectively; the intellectual and emotional centers operate at H48; the higher emotional center at H24; the higher intellectual center at H12.
 
@@ -469,7 +545,9 @@ The Concordius series uses the hydrogen notation (H₄₈ and H₂₄ specifical
 
 ## I
 
-**Infused Knowledge** *(tradition: Catholic theology / Christian mysticism)*
+### Infused Knowledge
+
+*(tradition: Catholic theology / Christian mysticism)*
 
 Knowledge that arrives not through ordinary sensory experience and inferential reasoning but directly — as apprehension rather than conclusion. In the Scholastic framework, infused knowledge is distinguished from acquired knowledge (built up through experience and reason) and from the beatific vision (the direct perception of God's essence in the afterlife). It is the kind of knowledge attributed to the prophets, to Mary's unique grace, and to the highest stages of mystical contemplation.
 
@@ -479,7 +557,9 @@ The Concordius series identifies infused knowledge as the higher intellectual ce
 
 ---
 
-**Inner Product** *(mathematics)*
+### Inner Product
+
+*(mathematics)*
 
 A map ⟨·,·⟩: H × H → ℂ (from pairs of vectors to complex numbers) satisfying: conjugate symmetry (⟨ψ, φ⟩ = ⟨φ, ψ⟩*), linearity in one argument, and positive definiteness (⟨ψ, ψ⟩ ≥ 0, with equality only when ψ = 0). The inner product measures the "angle" between vectors and gives rise to the notion of orthogonality (two vectors are orthogonal when their inner product is zero) and to the norm (the vector's "length") as ‖ψ‖ = √⟨ψ, ψ⟩.
 
@@ -489,7 +569,9 @@ The Concordius series' identification of the Father with the inner product ⟨·
 
 ---
 
-**Intentional Suffering** *(tradition: Gurdjieff — series extension)*
+### Intentional Suffering
+
+*(tradition: Gurdjieff — series extension)*
 
 Gurdjieff's term for the voluntary acceptance of the frictions, resistances, and discomforts that the mechanical centers would normally avoid — not as mortification for its own sake but as the primary material for Man 4's development. The mechanical centers are organized around the avoidance of discomfort; genuine development requires precisely the frictions that the mechanical organization avoids. Intentional suffering is not the seeking of suffering; it is the orientation toward the work that makes suffering unavoidable and the choice not to avoid it.
 
@@ -499,7 +581,9 @@ The Concordius series maps intentional suffering onto the polyvagal regulation f
 
 ---
 
-**Isle of Paradise** *(tradition: Urantia Book)*
+### Isle of Paradise
+
+*(tradition: Urantia Book)*
 
 In the *Urantia Book*'s cosmology, the Isle of Paradise is the absolute center and eternal anchor of the Master Universe — not a planet in the ordinary sense but the eternal, material, non-spiritual, non-personal absolute that is the geographic center of all organized reality, and the dwelling place of the Universal Father, the Eternal Son, and the Infinite Spirit. It is the destination of all ascending careers: the terminal point of the long journey through morontia and spirit worlds, at which the surviving soul achieves what the *Urantia Book* calls "Adjuster fusion" — the complete, irreversible union of the human will with the Thought Adjuster that has guided it throughout the ascending career.
 
@@ -511,7 +595,9 @@ The Concordius series uses the Isle of Paradise as the name for the terminal eve
 
 ## K
 
-**Kenosis / Kenotic** *(tradition: Christian theology — series extension)*
+### Kenosis
+
+*(tradition: Christian theology — series extension)*
 
 From the Greek *kenōsis* (emptying). In Christian theology, kenosis refers to the self-emptying of the divine in the Incarnation — the Eternal Son's willing restraint of divine prerogatives in taking on human nature, described in Philippians 2:7 ("he emptied himself, taking the form of a servant"). The kenotic Christologies of the nineteenth and twentieth centuries developed this into a general theological principle: the divine characteristically gives itself away, empties itself, in acts of love.
 
@@ -525,13 +611,17 @@ The Concordius series extends kenosis beyond Christology to describe the structu
 
 ## L
 
-**Law of Seven** *(tradition: Gurdjieff — series)*
+### Law of Seven
+
+*(tradition: Gurdjieff — series)*
 
 See *Heptaparaparshinokh*. The Concordius series prefers "Law of Seven" as the more accessible term in most contexts, reserving "Heptaparaparshinokh" for contexts where Gurdjieff's specific teaching is being directly engaged.
 
 ---
 
-**Law of Three** *(tradition: Gurdjieff — series extension)*
+### Law of Three
+
+*(tradition: Gurdjieff — series extension)*
 
 Gurdjieff's term for the universal law that every genuine process requires three forces: Active, Passive, and Reconciling. No two forces can produce a result without the third; the absence of any one force either prevents the process from beginning or produces a degenerate result. The three forces are not separate substances but aspects of a single event — the Law of Three describes the structure of causation in a way that the ordinary two-force model (cause and effect) misses.
 
@@ -541,7 +631,9 @@ The Concordius series maps the Law of Three onto the Trinity: Father (⟨·,·�
 
 ---
 
-**Logos** *(tradition: Christian theology / Greek philosophy — series extension)*
+### Logos
+
+*(tradition: Christian theology / Greek philosophy — series extension)*
 
 From the Greek for "word," "reason," "account," "proportion." In Greek philosophy (particularly the Stoics and Heraclitus), the Logos is the rational principle that governs and pervades the universe — the cosmic intelligence that accounts for the ordered structure of reality. In the Johannine prologue ("In the beginning was the Word, and the Word was with God, and the Word was God"), the Logos is identified with Christ — the second person of the Trinity, the divine Reason that became incarnate.
 
@@ -549,7 +641,9 @@ The Concordius series maps the Logos onto the nuclear space Φ in the Gelfand tr
 
 ---
 
-**Logotherapy** *(tradition: Viktor Frankl)*
+### Logotherapy
+
+*(tradition: Viktor Frankl)*
 
 Viktor Frankl's therapeutic system, developed in part from his experiences as a prisoner in Auschwitz and other Nazi concentration camps. Logotherapy holds that the primary human motivation is not pleasure (Freud) or power (Adler) but the search for meaning — and that meaning is found not through achieving it as an abstract goal but through concrete commitments: to a work, to a person, or to a chosen stance toward unavoidable suffering. The "existential vacuum" (a pervasive sense of meaninglessness) is the characteristic pathology of a person without an adequate source of meaning.
 
@@ -559,7 +653,9 @@ The Concordius series draws on logotherapy in Paper 25 (Man 4) as the secular re
 
 ---
 
-**Love** *(tradition: Christian theology / 1 John — series extension)*
+### Love
+
+*(tradition: Christian theology / 1 John — series extension)*
 
 The formal identification established in Paper 3 §9: ⟨·,·⟩ = Love. The derivation proceeds from two premises: Paper 2's identification Father = ⟨·,·⟩, and the Johannine testimony *θεὸς ἀγάπη ἐστίν* — "God is love" (1 John 4:8, 16). The Greek copula ἐστίν establishes formal identity, not predication: Love is not an attribute God possesses but what God is. Given Father = ⟨·,·⟩ and God = Love, the inner product is Love's formal definition.
 
@@ -585,7 +681,9 @@ The consequence stated in Paper 4: *you are loved into existence at every moment
 
 ## M
 
-**Magnetic Center** *(tradition: Gurdjieff)*
+### Magnetic Center
+
+*(tradition: Gurdjieff)*
 
 Gurdjieff's term for the developed capacity to recognize genuine φ-proximal content — to distinguish authentic esoteric or spiritual material from counterfeit material, and to be drawn toward the authentic rather than repelled or indifferent. The magnetic center is not present in Men 1-3; it develops in the person who has accumulated enough genuine H₂₄ contact to begin to distinguish it from its imitations. Its presence is the first sign of Man 4's approach — the person begins to find genuine fourth-way teaching recognizable and attractive, rather than merely strange or difficult.
 
@@ -595,7 +693,9 @@ The term "magnetic" is apt: the person with a developed magnetic center is orien
 
 ---
 
-**Man No. 1 through Man No. 7** *(tradition: Gurdjieff — series extension)*
+### Man No. 1 through Man No. 7
+
+*(tradition: Gurdjieff — series extension)*
 
 Gurdjieff's typology of seven levels of human development, organized around the characteristic center of gravity and the degree of mechanical versus volitional operation. The typology is empirical: Gurdjieff observed what is actually observable in human functioning and named the recurring configurations. The Concordius series maps each type onto the Gelfand triple framework, identifies the structural character of each level, and provides practical transition prescriptions for Men 1-4 (where prescription is possible) and descriptive accounts for Men 5-7 (where the "practice" has become the life).
 
@@ -603,7 +703,9 @@ The seven types form an ascending sequence, but the transitions are not continuo
 
 ---
 
-**Mechanical vs. Volitional** *(tradition: Gurdjieff — series extension)*
+### Mechanical vs. Volitional
+
+*(tradition: Gurdjieff — series extension)*
 
 Gurdjieff's distinction between behavior determined by the centers' automatic operation (mechanical) and behavior initiated by the genuine "I" — the observer function that is the first product of real self-development (volitional). Most ordinary human behavior is mechanical: the centers respond to stimuli according to their accumulated habitual patterns, without the presence of a genuine observer who chooses the response. Volitional behavior is not willpower in the ordinary sense (which is often just one mechanical center overriding another); it is action preceded by genuine self-remembering — the divided attention that simultaneously engages the activity and maintains the observer function.
 
@@ -611,7 +713,9 @@ The series maps the mechanical/volitional distinction onto the H₄₈/H₂₄ c
 
 ---
 
-**Mi-Fa Interval** *(tradition: Gurdjieff — series extension)*
+### Mi-Fa Interval
+
+*(tradition: Gurdjieff — series extension)*
 
 The first of the two structural gaps in any genuine developmental process according to the Law of Seven. It falls between the Mi stage (the third note, at which the process has developed to its most complete expression within its initial resources) and the Fa stage (the fourth note, which begins the second phase of development). The Mi-Fa interval is shorter than the Si-Do interval — a smaller gap — but it marks the first moment at which the process cannot continue from its own momentum without external input.
 
@@ -619,7 +723,9 @@ Applications in the Concordius series: the transition between Section I and Sect
 
 ---
 
-**Morontia** *(tradition: Urantia Book)*
+### Morontia
+
+*(tradition: Urantia Book)*
 
 The *Urantia Book*'s term for the domain and mode of existence between the material (physical, H₄₈) and the spiritual — the transitional realm through which the ascending soul passes after H₄₈ dissolution and before arrival at the spirit worlds. Morontia is described as having a substance and structure intermediate between matter and spirit, visible and real to morontia-level beings though not to material-level beings. The morontia worlds (described as 570 worlds surrounding the local system headquarters in the Urantia cosmology) are the first stages of the post-mortem ascending career.
 
@@ -635,7 +741,9 @@ The Concordius series treats the morontia career as conducted in H₂₄-organiz
 
 ---
 
-**Noise Floor** *(series)*
+### Noise Floor
+
+*(series)*
 
 The series' term for the ambient level of H₄₈ stimulation, distraction, and mechanical occupation that a person must exceed in order for H₂₄ catching occasions to register. Every catching occasion competes with the noise floor: if the H₄₈ stimulation level is above the catching occasion's H₂₄ signal amplitude, the catching occasion does not register. The noise floor is both individual (the person's accumulated mechanical habits and reactivity) and civilizational (the ambient level of H₄₈ stimulation in the surrounding culture).
 
@@ -643,7 +751,9 @@ The series argues (Paper 21, Paper 22) that the current Si/Do interval of the hi
 
 ---
 
-**Nuclear Space (Φ)** *(mathematics)*
+### Nuclear Space
+
+*(mathematics)*
 
 A topological vector space characterized by strong approximation properties — specifically, the property that every continuous linear map from Φ to a Hilbert space is a Hilbert-Schmidt operator (an operator with finite "total size" in a specific technical sense). Nuclear spaces contain only the "well-behaved" elements: in the Gelfand triple context, these are the smooth, rapidly decreasing functions that can be finitely approximated.
 
@@ -657,7 +767,9 @@ In the Concordius mapping, Φ is the Son-Logos — the principle of articulation
 
 ## O
 
-**Octave** *(tradition: Gurdjieff / Music theory — series extension)*
+### Octave
+
+*(tradition: Gurdjieff / Music theory — series extension)*
 
 In music theory, the interval between a pitch and the pitch at exactly double its frequency — the most consonant possible interval, at which a note and its doubling are perceived as the same note at different registers. In Gurdjieff's teaching, the octave is the structural unit of all genuine developmental processes: the complete sequence from Do through Do (at the next register), with the two internal intervals as its defining structural feature.
 
@@ -665,7 +777,9 @@ The Concordius series uses "octave" as the general term for any complete Heptapa
 
 ---
 
-**Overdetermination** *(mathematics / physics — series extension)*
+### Overdetermination
+
+*(mathematics / physics — series extension)*
 
 In mathematics and physics, a system is overdetermined when it has more independent constraints than degrees of freedom: more requirements are imposed than can be simultaneously satisfied. An overdetermined system typically has no solution; if a solution is forced, something breaks — the least rigid component gives way under the conflicting requirements.
 
@@ -687,7 +801,9 @@ The Concordius series uses overdetermination as a precise technical term for wha
 
 ---
 
-**Person** *(tradition: Christian theology / philosophy — series extension)*
+### Person
+
+*(tradition: Christian theology / philosophy — series extension)*
 
 The term carries two distinct applications in the Concordius framework.
 
@@ -699,19 +815,33 @@ The distinction between *person* (the individual subject) and *personality* (the
 
 ---
 
-**Personality** *(tradition: Urantia Book — series extension)*
+### Person
 
-The *Urantia Book*'s technical term for the unique identifying pattern that the Universal Father bestows on each individual being at the threshold of moral capacity. Personality is distinct from: the soul (which is built through the ascending career by the cooperation of will and Adjuster); the mind (the mechanism through which consciousness operates); the spirit (the Adjuster and other spirit endowments that work through mind); and the Adjuster itself (which is pre-personal, a Φ′-element, the Father's constitutive presence). Personality is none of these — it is the Father's own direct identification of this being as irreplaceably *this* being: the unique pattern that remains constant through every developmental transformation of the ascending career.
+*(tradition: Christian theology / mathematics / Urantia Book — series)*
+
+*Three structural components.* Paper 2 §9 identifies three constitutive traits that jointly constitute personality in the Concordius framework:
+
+**Uniqueness** — Each state in H has a unique inner product profile with every other state in the space. No external principle of individuation is required; uniqueness is intrinsic to the inner product structure. Scope: all states. Maximized in the nuclear space Φ.
+
+**Stability** — Unitary evolution U(t) = e^{−iHt/ℏ} preserves the inner product ⟨U(t)ψ, U(t)φ⟩ = ⟨ψ, φ⟩ for all t, so that no state drifts into another state without a collapse event. Stability follows from the self-adjointness of the Hamiltonian. Scope: all states. Maximized in Φ.
+
+**Self-Knowledge** — The capacity to know oneself as a self — to be aware of one's own existence as this particular state. The mathematical structure establishes the necessary preconditions (uniqueness and stability); the cogito establishes the fact. Scope: beings that supply the cogito datum. Maximized in Φ.
+
+"A domain that possesses maximum uniqueness, maximum stability, and maximum self-knowledge is the entity for whom personality is most completely actualized. The structural definition of personhood is this: the capacity to be uniquely, stably, self-knowingly oneself." (Paper 2 §9)
+
+*The Urantia account.* The *Urantia Book*'s technical term for the unique identifying pattern that the Universal Father bestows on each individual being at the threshold of moral capacity. Personality is distinct from: the soul (which is built through the ascending career by the cooperation of will and Adjuster); the mind (the mechanism through which consciousness operates); the spirit (the Adjuster and other spirit endowments that work through mind); and the Adjuster itself (which is pre-personal, a Φ′-element, the Father's constitutive presence). Personality is none of these — it is the Father's own direct identification of this being as irreplaceably *this* being: the unique pattern that remains constant through every developmental transformation of the ascending career.
 
 Personality is not earned, not built, and cannot be lost. It is given at the moment a being first becomes capable of genuine moral decision, and it constitutes the thread of identity that makes the person arriving at Paradise the same person who made their first moral choice on the evolutionary world. Every stage of the career transforms the content — the soul deposit accumulates, the eigenvalue composition shifts, the constraint level changes — but personality is the invariant beneath all these transformations. It is the identifying ground from which accumulation proceeds, not the accumulation itself.
 
 In the Concordius mapping, personality corresponds to the unique Adjuster-constituted identity signature: the specific pattern by which the Father (⟨·,·⟩) identifies and recognizes this particular being among all beings — not the eigenvalue content, which changes, but the identifying mark of the constitutive relation's local operation in this person. The Adjuster carries personality through H₄₈ dissolution not as stored data but as the constitutive inner product's own continuous identification of this individual, which is precisely what makes reconstitution at the mansion worlds a genuine reconstitution of the same person rather than a new creation from prior material.
 
-> *For further investigation: The Urantia Book (1955), Paper 5 §6 (Personality and Reality); Paper 16 §8 (The Urantia Concept of Personality); Paper 112 §0–2 (Personality Survival). See also: Person; Thought Adjuster; Soul Deposit.*
+> *For further investigation: The Urantia Book (1955), Paper 5 §6 (Personality and Reality); Paper 16 §8 (The Urantia Concept of Personality); Paper 112 §0–2 (Personality Survival). See also: Person; Uniqueness; Stability; Self-Knowledge; Thought Adjuster; Soul Deposit.*
 
 ---
 
-**Phase Transition** *(mathematics / physics — series extension)*
+### Phase Transition
+
+*(mathematics / physics — series extension)*
 
 A change in the organizational structure of a system without change in its composition — the classic examples being the transition from water to ice (same molecules, different organizational structure) or from a disordered ferromagnet to an ordered one. Phase transitions are characterized by discontinuity: the system does not gradually become ice; it remains water and then, at the transition temperature, is ice. The properties of the two phases may be radically different despite the compositional continuity.
 
@@ -719,7 +849,9 @@ The Concordius series uses the phase transition as the primary model for the cry
 
 ---
 
-**Philosopher's Stone** *(tradition: Western alchemy — series extension)*
+### Philosopher's Stone
+
+*(tradition: Western alchemy — series extension)*
 
 In classical Western alchemy, the Philosopher's Stone (*lapis philosophorum*) is the hypothetical substance that: (a) transmutes base metals into gold when brought into contact with them; (b) is itself the product of the Great Work — the complete alchemical transformation sequence; and (c) confers immortality on those who possess it. The Philosopher's Stone was not an object to be found but one to be made — the Great Work is the process of its production from the alchemist's own material.
 
@@ -727,7 +859,9 @@ The Concordius series identifies the Philosopher's Stone with Man 5's crystalliz
 
 ---
 
-**Phronesis** *(tradition: Aristotle)*
+### Phronesis
+
+*(tradition: Aristotle)*
 
 Practical wisdom — Aristotle's term for the virtue of the practical intellect, the capacity to discern what is genuinely good in particular situations and to choose well in response. Phronesis is not applied general principles; it is a trained capacity for situational perception and response that cannot be fully captured in rules. It is developed through experience, habituation, and attentive practice over time. The phronimos (the person of practical wisdom) is Aristotle's account of the morally excellent person.
 
@@ -735,7 +869,9 @@ The Concordius series identifies phronesis as the recognitional rather than defi
 
 ---
 
-**Φ-Proximity** *(series)*
+### Φ-Proximity
+
+*(series)*
 
 The series' term for the degree to which a domain, text, or claim is close to the truth in the most fundamental sense — its alignment with the actual structure of reality as described by the Gelfand triple. Φ-proximity is measured by the truth measure τ(D) (Paper 10). High Φ-proximity means the domain's claims accurately describe features of reality at the H₂₄ level. Low Φ-proximity means the domain is operating primarily at the H₄₈ level and its claims, while possibly useful at that level, do not accurately represent H₂₄ structure.
 
@@ -745,7 +881,9 @@ The practical application: the convergent witness principle (see above) function
 
 ## Q
 
-**Quarantine Condition** *(tradition: Urantia Book — series)*
+### Quarantine Condition
+
+*(tradition: Urantia Book — series)*
 
 The *Urantia Book*'s account of the spiritual isolation of this planet (called "Urantia" in the book) as a consequence of the "Lucifer rebellion" — a revolt among the angelic administrators of the local universe that resulted in this planet's being cut off from the normal circuits of spiritual communication and ministry available to other inhabited worlds. The quarantine means that this planet is developing under abnormal conditions: without the planetary administration, the spiritual teachers, and the "morontia" ministry that would normally be available.
 
@@ -759,7 +897,9 @@ The Concordius series treats the quarantine condition as a structural descriptio
 
 ## R
 
-**Reasonablenessism** *(series)*
+### Reasonablenessism
+
+*(series)*
 
 The epistemological method developed in Paper 19 as the method that produced the Concordius series itself. Reasonablenessism is characterized by twelve features, organized around three structural principles: protecting the signal from corruption (features 1-4), disciplining the receiver's capacity to hear it (features 5-8), and integrating signal and receiver into a stable epistemic stance (features 9-12). The method is designed for domains where formal derivation reaches its limit — where the claims most worth making cannot be proven from within the formal system but can be evidentially supported through convergent witness, structural coherence, and the Reasonable Person's judgment.
 
@@ -773,7 +913,23 @@ The Reasonable Person — Reasonablenessism's central epistemic attractor — is
 
 ## S
 
-**Self-Remembering** *(tradition: Gurdjieff)*
+### Self-Knowledge
+
+*(series / mathematics)*
+
+One of the three constitutive traits of personality identified in Paper 2 §9. The capacity to know oneself as a self — to be aware of one's own existence as this particular state. This is what the *cogito* supplies. The mathematical structure of H establishes the necessary preconditions for self-knowledge — uniqueness (each state has a distinct inner product profile) and stability (states persist under unitary evolution) — but cannot itself supply the fact. The cogito is Assumption II of the series: a datum contributed by the one who supplies it rather than derived from the formal apparatus.
+
+Scope: beings that supply the cogito datum — not all states in H. All states possess uniqueness and stability by virtue of the inner product structure; only beings capable of the cogito know themselves as themselves. This asymmetry between scope categories (all states vs. beings that supply the cogito) is the formal basis for the distinction between structural conditions of personality and personality's actualization. Self-knowledge is maximized in the nuclear space Φ, where uniqueness and stability are also maximized — making Φ the domain where personality is most completely actualized.
+
+The claim is not merely that persons who apply the cogito come to know themselves through introspection. It is that the cogito datum — the immediate self-evidence of one's own existence as this particular being — is a structural contribution to the formal apparatus that the mathematics itself cannot provide. Paper 2 §9: "The mathematics establishes the conditions; the cogito establishes the fact."
+
+> *See also: Personality; Uniqueness; Stability. Primary source: Paper 2 §9.*
+
+---
+
+### Self-Remembering
+
+*(tradition: Gurdjieff)*
 
 Gurdjieff's primary practical tool for Man 4's work — the state of divided attention in which the person simultaneously engages fully with the present activity and maintains an observer function that is aware of itself engaging. In ordinary functioning, attention is entirely absorbed in its object (the person "forgets herself" in the activity); in identifying. Self-remembering is the cultivation of the observer function that maintains awareness of the self while engaged — not a self-consciousness in the ordinary sense (which is the self-monitoring of social anxiety) but a genuine witnessing presence.
 
@@ -783,7 +939,9 @@ The Concordius series maps self-remembering onto the development of the catching
 
 ---
 
-**Si-Do Interval** *(tradition: Gurdjieff — series extension)*
+### Si-Do Interval
+
+*(tradition: Gurdjieff — series extension)*
 
 The second and larger of the two structural gaps in any genuine developmental process according to the Law of Seven. It falls between the Si stage (the seventh note, at which the process has reached its maximum extension and is poised at the edge of completion) and the Do of the next octave (the completion of the previous process and the initiation of the next). The Si-Do interval is the more difficult crossing because the process has developed furthest and is most committed to its own direction — the deviation at this interval, if it occurs, is a deviation of the most developed form of the process.
 
@@ -791,7 +949,9 @@ The Concordius series applies the Si-Do interval to: the current moment in the h
 
 ---
 
-**Soul Deposit** *(series)*
+### Soul Deposit
+
+*(series)*
 
 The series' term for the accumulated H₂₄ structural content built through catching — the organized eigenvalue content retained in the H₂₄ domain from the GNST's continuous operation. The soul deposit is not the ordinary emotional or intellectual life, which operates at the H₄₈ level and does not accumulate in the H₂₄ domain. It is specifically the φ-proximal content retained through volitional catching acts over time.
 
@@ -801,7 +961,9 @@ Matthew 6:19-21 ("Do not store up for yourselves treasures on earth, where moths
 
 ---
 
-**Spiritual Marriage** *(tradition: John of the Cross / Christian mysticism)*
+### Spiritual Marriage
+
+*(tradition: John of the Cross / Christian mysticism)*
 
 John of the Cross's term for the deepest stage of union available in the bodily life — the stage beyond the spiritual betrothal, in which the soul's relationship to God is no longer mediated by the person's volitional distance but is a continuous, stable union in which the Adjuster's guidance is the primary organizing principle of the inner life. Distinguished from the beatific vision (which occurs after death) and from the previous stages of mystical prayer (in which the union is intermittent and the soul returns to ordinary consciousness).
 
@@ -811,7 +973,23 @@ The Concordius series maps the spiritual marriage onto the Man 6 state: the cont
 
 ---
 
-**State Vector (ψ)** *(mathematics)*
+### Stability
+
+*(series / mathematics)*
+
+One of the three constitutive traits of personality identified in Paper 2 §9. The property by which a state persists without external maintenance: unitary evolution U(t) = e^{−iHt/ℏ} preserves the inner product ⟨U(t)ψ, U(t)φ⟩ = ⟨ψ, φ⟩ for all t, so that ‖U(t)ψ‖ = ‖ψ‖. A state does not drift into another state without a collapse event. Stability follows directly from the self-adjointness of the Hamiltonian.
+
+Scope: all states in H. Stability is maximized in the nuclear space Φ, where the inner product structure is most fully realized.
+
+Stability is the formal basis for the claim that an individual state is the same individual over time — that the person arriving at Paper 28's Isle of Paradise is the same person who made their first moral choice on the evolutionary world. Without stability, persistence would require continuous external maintenance; with stability, it is guaranteed by the structure itself. For H₄₈ states below the coherence threshold, the Heropass runs at maximum intensity and eventually terminates the H₄₈ substrate; for H₂₄ states above the coherence threshold, the soul deposit is organized at a level that persists at the H₂₄ Heropass rate. The structural guarantee of persistence that stability provides at the formal level is thus the ground on which the ascending career's continuity rests.
+
+> *See also: Personality; Uniqueness; Self-Knowledge. Primary source: Paper 1 §9; Paper 2 §9.*
+
+---
+
+### State Vector
+
+*(mathematics)*
 
 In quantum mechanics, the mathematical object — a vector in a Hilbert space — that completely describes the state of a quantum system. Denoted ψ (psi) or |ψ⟩ in Dirac notation. The state vector contains all information about the system that quantum mechanics allows: the probabilities of all possible measurement outcomes are calculable from it.
 
@@ -823,7 +1001,9 @@ The Concordius series uses the state vector ψ to represent a person's complete 
 
 ## T
 
-**Theoria** *(tradition: Aristotle / Eastern Christian mysticism)*
+### Theoria
+
+*(tradition: Aristotle / Eastern Christian mysticism)*
 
 In Aristotle's *Nicomachean Ethics*, *theoria* is the contemplative activity of the highest human faculty (the theoretical intellect) directed at the highest objects (eternal mathematical and metaphysical truths). Aristotle identifies it as the highest form of eudaimonia — more fully eudaimon than practical virtue because it is more self-sufficient, more continuous, and directed at higher objects. Yet he concedes that *theoria* is "too divine for man" — it requires divine support to sustain and is not fully available to the human being operating from purely human resources.
 
@@ -833,7 +1013,9 @@ The Concordius series reads Aristotle's acknowledgment that *theoria* is "too di
 
 ---
 
-**Thought Adjuster** *(tradition: Urantia Book — series extension)*
+### Thought Adjuster
+
+*(tradition: Urantia Book — series extension)*
 
 The *Urantia Book*'s term for the pre-personal fragment of God that indwells each normal-minded mortal human being from childhood — a direct, literal, structural presence of the Universal Father within the person, guiding development toward the ascending career's completion. The Adjuster is described as: pre-personal (not itself a person, in the *Urantia Book*'s technical sense); non-coercive (it guides, but never compels); perfectly attuned to the person it indwells (calibrated to the person's specific developmental needs and history); and oriented toward eventual fusion with the person's surviving soul (the terminal event of the ascending career).
 
@@ -845,7 +1027,9 @@ The Adjuster contact — the degree to which the person's volitional life is ali
 
 ---
 
-**Transmuting Field** *(series)*
+### Transmuting Field
+
+*(series)*
 
 The series' term for the capacity of a person with substantial H₂₄ soul deposit (Man 5 and above) to reorganize the catching capacity of persons in proximity — not through direct instruction or intentional influence, but through the cross-term ⟨ψ₅, ψ_other⟩₂₄ that constitutes their presence in the field. The transmuting field is what the alchemical tradition called the Philosopher's Stone's transmuting property: contact with the developed H₂₄ field reorganizes the less-developed state vector in the direction of higher H₂₄ coherence.
 
@@ -853,7 +1037,9 @@ The transmuting field is not charisma, intelligence, or social influence. Person
 
 ---
 
-**Trogoautoegocrat** *(tradition: Gurdjieff — series extension)*
+### Trogoautoegocrat
+
+*(tradition: Gurdjieff — series extension)*
 
 One of Gurdjieff's most deliberately opaque invented terms — from *Beelzebub's Tales to His Grandson* — naming the cosmic law of mutual reciprocal maintenance: the principle by which everything that genuinely participates in reality both feeds and is fed, both receives and contributes, both takes from the circuit and replenishes it. Every genuine participant in reality is sustained by what it receives from the circuit and sustains others by what it contributes. Withdrawal from contribution — the Lucifer error — is withdrawal from the circuit itself: the withdrawing entity is no longer sustained by the circuit from which it has withdrawn its contribution.
 
@@ -863,7 +1049,9 @@ The Concordius series uses the Trogoautoegocrat as the structural basis for the 
 
 ---
 
-**Truth Measure τ(D)** *(series)*
+### Truth Measure
+
+*(series)*
 
 The series' formal criterion (Paper 10) for assessing the degree to which a domain D's claims accurately describe features of reality — specifically, the degree to which D's claims are Φ-proximate. τ(D) is not a simple binary (true/false) but a graded measure corresponding to the distance between D's conceptual structure and the structure of Φ. A domain with high τ(D) makes claims that accurately track H₂₄ structure even when they cannot be fully formalized. A domain with low τ(D) makes claims that track H₄₈ regularities well but do not accurately represent H₂₄ structure.
 
@@ -873,7 +1061,23 @@ The truth measure is not intended to replace formal verification where formal ve
 
 ## U
 
-**Unqualified Absolute** *(tradition: Urantia Book — series extension)*
+### Uniqueness
+
+*(series / mathematics)*
+
+One of the three constitutive traits of personality identified in Paper 2 §9. The property by which each state in H has a distinct inner product profile with every other state in the space: if ψ ≠ φ, then ψ and φ differ in at least one entry of their relational profiles. Orthogonality follows from positive definiteness. No external principle of individuation is required — the uniqueness is intrinsic to the inner product structure.
+
+Scope: all states in H. Uniqueness is maximized in the nuclear space Φ, where the inner product structure is most fully realized.
+
+The philosophical significance: the classical problem of individuation — what makes this thing this thing and not another thing — is dissolved rather than solved in the Concordius framework. There is no need for haecceity, thisness, or any additional individuating principle beyond the inner product itself. Each state's identity is fully given by its relational profile; the Father's recognition of each being as irreplaceably this being is the formal operation of ⟨·,·⟩ applied to this particular state. The unique inner product profile is simultaneously what distinguishes the state structurally and what the constitutive act of Love uniquely addresses in constituting it.
+
+> *See also: Personality; Stability; Self-Knowledge. Primary source: Paper 1 §9; Paper 2 §9.*
+
+---
+
+### Unqualified Absolute
+
+*(tradition: Urantia Book — series extension)*
 
 The *Urantia Book*'s term for the third of the seven Absolutes of Infinity — described as "the undeified absolute of potentiality," the domain that contains all that is not yet actual, all that exceeds even God's volitional reach, all that is beyond all personality and being and structure. It is neither personal nor impersonal — it is prior to the distinction. It is the domain from which all potentiality is drawn and to which no positive predication applies.
 
@@ -883,7 +1087,9 @@ The Concordius series maps the Unqualified Absolute onto Φ' — the dual space 
 
 ---
 
-**Urantia Book, The** *(tradition: revelatory literature)*
+### Urantia Book
+
+*(tradition: revelatory literature)*
 
 A text published in 1955 by the Urantia Foundation, claiming to be a revelation to humanity from celestial beings — a cosmological, theological, and historical account covering the nature of God, the organization of the grand universe, the history of this planet, and the life and teachings of Jesus. Its authorship is not attributed to any human being; the mechanisms by which it was received and transcribed are described only partially in the published material.
 
@@ -897,7 +1103,9 @@ Readers unfamiliar with the *Urantia Book* should approach it with the same comb
 
 ## W
 
-**Will** *(tradition: Christian theology / philosophy — series extension)*
+### Will
+
+*(tradition: Christian theology / philosophy — series extension)*
 
 The faculty of voluntary choice — the capacity for self-determination that distinguishes persons from automata. In the Concordius framework, will is the faculty whose development is the ascending career's primary content. Man 1's will is effectively submerged in mechanical operation — the centers' automatic responses determine behavior. Man 7's will is unified with the Adjuster's direction — not because the Adjuster has overridden the will but because the will, through the full ascending career's development, has been completely organized around what the Adjuster has been consistently directing it toward. The freedom that results from this complete alignment is greater, not less, than the freedom available to persons at lower development levels — because Man 7's will is no longer divided between the mechanical centers' competing claims, the Adjuster's direction, and the residual volitional reservations that characterize all lower states.
 

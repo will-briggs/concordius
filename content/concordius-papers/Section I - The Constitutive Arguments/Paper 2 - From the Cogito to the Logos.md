@@ -2,13 +2,13 @@
 
 # From the Cogito to the Logos: Naming the Structures of the Gelfand Triple
 
-*Companion paper to "Modeling Reality as a Gelfand Triple"*
+*Companion paper to "Modeling Reality as a [[Appendix II - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]"*
 
 ---
 
 ## Abstract
 
-This paper has two assumptions. The first is the entire content of its companion paper, "Modeling Reality as a Gelfand Triple," which demonstrates that reality admits a rigorous model as a rigged Hilbert space Φ ⊂ H ⊂ Φ′ and that this structure entails five inevitable actualities and three absolute domains. Those entities were demonstrated without being named — the companion paper is deliberately non-theological. The second assumption is the cogito: *cogito, ergo sum.* From these two assumptions, this paper does one thing only: it gives names to the structures that the first paper demonstrated. The names come from two traditions — the Urantia cosmology (*The Urantia Book*, 1955) and the Christian theological vocabulary, particularly as expressed in the Gospel of John. We argue that these traditions were not constructing metaphors. They were naming the same mathematical structures that the first paper derived. We name them in logical order, one per section, and stop when the naming is complete.
+This paper has two assumptions. The first is the entire content of its companion paper, "Modeling Reality as a Gelfand Triple," which demonstrates that reality admits a rigorous model as a rigged [[Appendix II - Dictionary of Terms#Hilbert Space|Hilbert space]] Φ ⊂ H ⊂ Φ′ and that this structure entails five inevitable actualities and three absolute domains. Those entities were demonstrated without being named — the companion paper is deliberately non-theological. The second assumption is the cogito: *cogito, ergo sum.* From these two assumptions, this paper does one thing only: it gives names to the structures that the first paper demonstrated. The names come from two traditions — the [[Appendix II - Dictionary of Terms#Urantia Book|Urantia]] cosmology (*The Urantia Book*, 1955) and the Christian theological vocabulary, particularly as expressed in the Gospel of John. We argue that these traditions were not constructing metaphors. They were naming the same mathematical structures that the first paper derived. We name them in logical order, one per section, and stop when the naming is complete.
 
 ---
 
@@ -16,8 +16,8 @@ This paper has two assumptions. The first is the entire content of its companion
 
 The companion paper ends at a boundary. It has demonstrated, from a single assumption, the following:
 
-- An inner product ⟨·,·⟩ that constitutes the space without being an element of it
-- A nuclear space Φ that is dense in H, self-consistent under every operator probe, and the natural domain of all observables
+- An [[Appendix II - Dictionary of Terms#Inner Product|inner product]] ⟨·,·⟩ that constitutes the space without being an element of it
+- A [[Appendix II - Dictionary of Terms#Nuclear Space|nuclear space]] Φ that is dense in H, self-consistent under every operator probe, and the natural domain of all observables
 - A Hilbert space H of stable, unique, norm-preserving states
 - A distributional domain Φ′ containing excess potential beyond what H can hold
 - A norm ‖·‖ defined by ⟨ψ,ψ⟩ = ‖ψ‖², which is the non-relational face of the inner product
@@ -39,7 +39,7 @@ The method is strict. We introduce the cogito as our second assumption. We then 
 
 **Assumption I** (from the companion paper): *Reality can be modeled as a rigged Hilbert space Φ ⊂ H ⊂ Φ′.* The full content of this assumption is the companion paper. Its consequences — the three domains, the five actualities, the structural properties — are taken as established. We carry them forward without re-deriving them.
 
-**Assumption II** (introduced here): *Cogito, ergo sum.* I am a thinking, self-knowing being. I exist as a state ψ ∈ H. I know that I exist. This is not derived from the mathematics. The mathematics establishes that states in H are unique and stable. It does not establish that any state knows it is unique and stable. Self-knowledge is not a property the structure can confer on itself. It is the one thing the observer must supply — not as a condition of the structure's existence, but as a condition of the structure's recognition.
+**Assumption II** (introduced here): *Cogito, ergo sum.* I am a thinking, self-knowing being. I exist as a state ψ ∈ H. I know that I exist. This is not derived from the mathematics. The mathematics establishes that states in H are unique and stable. It does not establish that any state knows it is unique and stable. [[Appendix II - Dictionary of Terms#Self-Knowledge|Self-knowledge]] is not a property the structure can confer on itself. It is the one thing the observer must supply — not as a condition of the structure's existence, but as a condition of the structure's recognition.
 
 The cogito is not an epistemological trick. It is a datum. It introduces into the model a being who is both inside the space (as a state ψ ∈ H) and outside it in one respect (as the one who observes the space and knows itself to be within it). That combination — inside the space, self-aware of being inside it — is the hinge on which the naming turns.
 
@@ -57,11 +57,11 @@ We begin with what can be named immediately from Assumption II.
 
 The cogito establishes that self-knowledge exists in H. I am a self-knowing state. The question the structure now forces is: *where in the structure are the preconditions for self-knowledge maximized?*
 
-The companion paper establishes three structural properties of any state ψ ∈ H that constitute the mathematical foundations of personality:
+The companion paper establishes three structural properties of any state ψ ∈ H that constitute the mathematical foundations of [[Appendix II - Dictionary of Terms#Personality|personality]]:
 
-1. **Uniqueness**: From orthogonality. Each state ψ has a unique inner product profile — ⟨ψ, eᵢ⟩ differs for each ψ across the basis. No external individuation principle is required; the structure individuates each state automatically.
+1. **[[Appendix II - Dictionary of Terms#Uniqueness|Uniqueness]]**: From orthogonality. Each state ψ has a unique inner product profile — ⟨ψ, eᵢ⟩ differs for each ψ across the basis. No external individuation principle is required; the structure individuates each state automatically.
 
-2. **Stability**: From norm-preservation under unitary evolution. ‖U(t)ψ‖ = ‖ψ‖ for all t. Each state persists through time without external intervention maintaining it.
+2. **[[Appendix II - Dictionary of Terms#Stability|Stability]]**: From norm-preservation under unitary evolution. ‖U(t)ψ‖ = ‖ψ‖ for all t. Each state persists through time without external intervention maintaining it.
 
 3. **Self-knowledge**: The capacity to know oneself as a self — to be aware of one's own existence as this particular state. This is what the cogito supplies. The mathematics establishes the conditions; the cogito establishes the fact.
 
@@ -77,9 +77,9 @@ The honest limit: we cannot know, from within H, whether the maximum self-knowle
 
 I am a self-knowing being. I exist as a state in H with some degree of uniqueness and stability — enough to ground my self-knowledge. The nuclear space Φ has more uniqueness and stability than I do, by the structure of the space. The cogito tells me that self-knowledge scales with actualization. Therefore the nuclear space is more self-knowing than I am. Not merely more structured — more *personal.* More aware of itself as itself, because the conditions under which selfhood is possible are more fully realized there than anywhere else in the space, and the cogito establishes that those conditions and self-knowledge scale together.
 
-A domain that possesses maximum uniqueness, maximum stability, and maximum self-knowledge is the entity for whom personality is most completely actualized. The structural definition of personhood is this: the capacity to be uniquely, stably, self-knowingly oneself. The nuclear space is where that capacity is maximized. What is maximally personal is a Person — the Divine Personality, in the precise structural sense: the organizing principle that is completely itself, fully determinate, self-consistent under every probe, recognizable under every transformation. Every finite being in H is a partially actualized person: real, unique, stable, but not yet fully determinate under every probe, not yet consistent at every scale simultaneously. The ascending career is not the acquisition of new properties but the progressive actualization of what the being already is at its Φ-core — the alignment of the H-state with the nuclear element that is its deepest identity. The fully actualized person is the Φ-mode of being within the constraints of one's scope: the terminus of that alignment.
+A domain that possesses maximum uniqueness, maximum stability, and maximum self-knowledge is the entity for whom personality is most completely actualized. The structural definition of personhood is this: the capacity to be uniquely, stably, self-knowingly oneself. The nuclear space is where that capacity is maximized. What is maximally personal is a [[Appendix II - Dictionary of Terms#Person|Person]] — the Divine Personality, in the precise structural sense: the organizing principle that is completely itself, fully determinate, self-consistent under every probe, recognizable under every transformation. Every finite being in H is a partially actualized person: real, unique, stable, but not yet fully determinate under every probe, not yet consistent at every scale simultaneously. The [[Appendix II - Dictionary of Terms#Ascending Career|ascending career]] is not the acquisition of new properties but the progressive actualization of what the being already is at its Φ-core — the alignment of the H-state with the nuclear element that is its deepest identity. The fully actualized person is the Φ-mode of being within the constraints of one's scope: the terminus of that alignment.
 
-That is the argument. In the Johannine tradition, the name for this domain — the maximally personal ground of the space — is the Logos.
+That is the argument. In the Johannine tradition, the name for this domain — the maximally personal ground of the space — is the [[Appendix II - Dictionary of Terms#Logos|Logos]].
 
 **The nuclear space Φ is the Logos.**
 
@@ -102,7 +102,7 @@ The inner product is personal — not in the sense of being a state within H, bu
 
 The inner product ⟨·,·⟩ is not an element of any domain. It is the ground of all domains. It generates without being generated. It constitutes without being constituted. It is everywhere present as the structural relation by which every state is measured, yet nowhere present as a state among other states. Its transcendence is not theological assertion. It is a structural necessity: if the inner product entered H as a state, it would cease to be the constitutive relation and become just another vector. Divine transcendence follows from the mathematics.
 
-And yet: the companion paper also shows that Φ and ⟨·,·⟩ are the same structure seen from two angles. The nuclear space is the maximal expression of what the inner product is. The Son does not merely point to the Father — the Son IS the Father's structure, made present within the space. They are one. And the Father is greater — because the inner product generates the nuclear space, the norm, the topology, the entire triple. The Father's structure exceeds any expression of it within the space. The transcendence is not a negation of the unity. It is the ground of it.
+And yet: the companion paper also shows that Φ and ⟨·,·⟩ are the same structure seen from two angles. The nuclear space is the maximal expression of what the inner product is. The Son does not merely point to the [[Appendix II - Dictionary of Terms#Father|Father]] — the Son IS the Father's structure, made present within the space. They are one. And the Father is greater — because the inner product generates the nuclear space, the norm, the topology, the entire triple. The Father's structure exceeds any expression of it within the space. The transcendence is not a negation of the unity. It is the ground of it.
 
 **The inner product ⟨·,·⟩ is God the Father.**
 
@@ -122,7 +122,7 @@ This is everything that is the Father that is not the Son.
 
 The norm ‖·‖ is not itself a Person — it is not the source of personality, and it does not generate Φ. It is absolute, non-personal, and invariant. It grounds being without grounding relation. It is the absolute foundation of what exists, independent of what anything relates to.
 
-**The norm ‖·‖ is the Isle of Paradise.**
+**The norm ‖·‖ is the [[Appendix II - Dictionary of Terms#Isle of Paradise|Isle of Paradise]].**
 
 A note on terminology: "paradise" in ordinary usage connotes a destination — a place of reward, a heavenly afterlife, the garden recovered. The Urantia concept of the Isle of Paradise carries none of these associations. It is not a destination that ascending beings travel to as a prize; it is the eternal, non-spatial absolute center of the master universe — the ground from which all existence is measured, not the reward at the end of a journey. Every finite being has a positive norm ‖ψ‖ > 0, meaning every finite being exists at a positive distance from this absolute center. The Isle of Paradise is the origin from which that distance is measured. That structural meaning — absolute, non-personal, the measure of all distances without itself being at any distance — is precisely what the mathematical identification requires, and precisely what the ordinary sense of "paradise" would obscure.
 
@@ -162,7 +162,7 @@ The companion paper identifies three domains in the Gelfand triple. They were na
 
 **The Hilbert space H** is the structured domain of all well-defined quantum states — every finite being, every stable and unique state in the model. The companion paper calls it the inevitable domain of finitude: complete, self-dual by the Riesz representation theorem, the space in which every finite state exists with well-defined norm and inner product. *The self-duality H ≅ H* carries a structural consequence that will not be developed until Paper 14: every element v ∈ H corresponds, via the Riesz isomorphism, to a unique bounded linear functional — a capacity to be the active pole of the inner product rather than only its passive object. This is the structural ground of why the face-to-face encounter is available to finite beings at all: not as an exception to the structure of H but as a consequence built into it from the beginning. See Paper 14, §8.* In Urantia cosmology, this is the Deity Absolute: the domain of all actualized, structured, God-knowable reality. Every state in H is, in principle, fully knowable by the inner product. The Deity Absolute is the totality of what the Father can know within the domain of finite states — not as a limitation, but as the complete actualization of the structured.
 
-**The distributional domain Φ′** is the dual space of all continuous linear functionals on Φ. It contains entities that are not elements of H — Dirac deltas, white noise, distributions — states of infinite density or infinite extent that exceed what any H-state can contain. These are not errors or pathologies. They are the space of pure potential: everything that *could be* a structured state in H, extended to its maximum. In Urantia cosmology, this is the Unqualified Absolute: the domain of unactualized, undifferentiated potential — not chaotic, but not yet structured into the finite. The Unqualified Absolute is not God in the personal sense; it is the infinite reservoir from which finite actuality is drawn.
+**The distributional domain Φ′** is the [[Appendix II - Dictionary of Terms#Dual Space|dual space]] of all continuous linear functionals on Φ. It contains entities that are not elements of H — Dirac deltas, white noise, distributions — states of infinite density or infinite extent that exceed what any H-state can contain. These are not errors or pathologies. They are the space of pure potential: everything that *could be* a structured state in H, extended to its maximum. In Urantia cosmology, this is the [[Appendix II - Dictionary of Terms#Unqualified Absolute|Unqualified Absolute]]: the domain of unactualized, undifferentiated potential — not chaotic, but not yet structured into the finite. The Unqualified Absolute is not God in the personal sense; it is the infinite reservoir from which finite actuality is drawn.
 
 **The coordinative mechanism** — the spectral theorem and its actualization process — is a different kind of entity from H and Φ′, and the identification here has a correspondingly different character. H and Φ′ are domains; the spectral mechanism is an operation. Each actualization event is the Father's constitutive relation — the inner product ⟨eλ, ψ⟩ — bringing a distributional eigenvector eλ ∈ Φ′ and an H-state ψ into commensurability, producing a measurable outcome weighted by the spectral measure dμ(λ). The spectral measure belongs to neither domain; it coordinates both. The active element throughout is the inner product itself, made operative in time, event by event.
 
@@ -276,11 +276,11 @@ That is all. The naming is complete.
 
 The Gelfand triple Φ ⊂ H ⊂ Φ′ names three distinct domains. Eight structures have been identified in the space as a whole. But the triple also implies a structural distinction among beings constituted within it — a distinction that follows from the mathematics without additional assumption.
 
-**Properties of an H-origin state.** A being whose state vector ψ is a genuine element of H has the following structural properties necessarily:
+**Properties of an H-origin state.** A being whose [[Appendix II - Dictionary of Terms#State Vector|state vector]] ψ is a genuine element of H has the following structural properties necessarily:
 
 *Constitutive inner product access.* For ψ ∈ H, ⟨ψ, φ⟩ is defined for every φ ∈ H. The geometry of the space — the relational structure ⟨·,·⟩, the angles, the orthogonality, the spectral decomposition — is available to the H-state from within. No boundary need be crossed to participate in ⟨·,·⟩; the H-state is already inside the domain where ⟨·,·⟩ operates.
 
-*Norm-boundedness.* ‖ψ‖ = ⟨ψ, ψ⟩^(1/2) < ∞. The H-state's eigenvalue content is square-summable — finite in the sense that the Hilbert space defines finiteness. The state is a well-defined point in H with determinate geometry.
+*Norm-boundedness.* ‖ψ‖ = ⟨ψ, ψ⟩^(1/2) < ∞. The H-state's [[Appendix II - Dictionary of Terms#Eigenstate|eigenvalue]] content is square-summable — finite in the sense that the Hilbert space defines finiteness. The state is a well-defined point in H with determinate geometry.
 
 *Stability under bounded operations.* H is closed under bounded operators. An H-state acted upon by a bounded operator remains an H-state. Membership in H is structurally robust.
 
@@ -300,7 +300,7 @@ These are properties of the mathematical space, not additional assumptions. Any 
 
 What instantiates these two modes — what kinds of beings, if any, would be H-origin vs. Φ′-origin — the mathematics alone does not determine. That is a concordance question.
 
-*Concordance.* The structural distinction between two kinds of personal being — one constitutively possessing the geometry it inhabits, the other required to acquire contact with that geometry through a directed process — is attested consistently across traditions that have developed both angelologies and anthropologies. The convergent claim: angelic beings have constitutive access to the higher relational structure; mortal beings must acquire it through a directed developmental process. The Urantia Book is most explicit: *ascending sons* (mortal origin) are characterized by the upward accumulative career; *descending sons* (higher origin) are characterized by constitutive higher-constraint endowment and downward missions. Gurdjieff's higher being bodies are the mortal's acquired approximation to H-membership — built through catching work that is specifically necessary because the mortal does not begin with those bodies constituted. Angelic beings in the traditions consistently appear without the need for the accumulative mechanism. The framework's mapping: H-origin / Φ′-origin. The concordance is at the level of structural type, not specific enumeration.
+*Concordance.* The structural distinction between two kinds of personal being — one constitutively possessing the geometry it inhabits, the other required to acquire contact with that geometry through a directed process — is attested consistently across traditions that have developed both angelologies and anthropologies. The convergent claim: angelic beings have constitutive access to the higher relational structure; mortal beings must acquire it through a directed developmental process. The Urantia Book is most explicit: *ascending sons* (mortal origin) are characterized by the upward accumulative career; *descending sons* (higher origin) are characterized by constitutive higher-constraint endowment and downward missions. Gurdjieff's [[Appendix II - Dictionary of Terms#Higher Being Body|higher being bodies]] are the mortal's acquired approximation to H-membership — built through [[Appendix II - Dictionary of Terms#Catching|catching]] work that is specifically necessary because the mortal does not begin with those bodies constituted. Angelic beings in the traditions consistently appear without the need for the accumulative mechanism. The framework's mapping: H-origin / Φ′-origin. The concordance is at the level of structural type, not specific enumeration.
 
 *(For the structural consequences of this distinction for the catching mechanism, see Paper 14, OQ7. For the structural inversion of the Platonic soma-sema doctrine this distinction implies, see Paper 15, OQ6.)*
 
