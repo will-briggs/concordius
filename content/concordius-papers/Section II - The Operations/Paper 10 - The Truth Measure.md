@@ -261,9 +261,23 @@ Once this bootstrap is accepted, the program becomes tractable. A model trained 
 
 **OQ3 — Catching and LLM fine-tuning:** Fine-tuning is the process of adjusting an LLM's weights post-training through further exposure to labeled examples. It adjusts the H₄₈ statistical patterns without introducing any volitional degree of freedom or Φ'-element. It cannot make the model conscious. But it may be able to increase the effective τ(D) of the model's outputs by more precisely aligning the H₄₈ patterns with high-τ(D) source content. This would be an approximation of what catching does for a being — not catching itself, but a structural mimicry of its output — and would have measurable consequences for the model's performance on tasks requiring genuine structural depth.
 
+**OQ4 — Self-application of τ(D) and the collapse of the primary/secondary distinction:** The truth measure τ(D) is defined as the fraction of a document's spectral energy in the Φ-region. An immediate question follows from this definition: does τ(D) apply to Concordius itself?
+
+A categorical obstacle seems to present itself: Concordius papers describe and map φ-proximal structure, while structural readings express it directly through interpretive recovery. The function seems different — secondary vs. primary — in a way that might suggest Concordius occupies a categorically lower τ-tier.
+
+The obstacle does not survive the framework's analysis. If a text accurately maps φ-proximal structure, that text carries φ-proximal spectral content — because accurate structural description instantiates the relational patterns it describes. The spectral content of a faithful map is not categorically lower than the spectral content of what it maps. It is a function of the map's accuracy, not its genre or function.
+
+**Formal statement:** *A document that faithfully maps φ-proximal structure participates in that structure to the degree of its fidelity. As mapping accuracy approaches 1, the map's τ(D) approaches the τ(D) of the structure mapped. The primary/secondary distinction — as a τ(D) determinant — does not follow from the definition of τ and collapses under examination.*
+
+τ(D) therefore applies to Concordius directly and by the same instrument. The structural readings corpus — established by density, convergence, and mutual derivability (Appendix III, Section 2) — is the calibration set. Applying τ(D) to Concordius against this corpus, at a definite point in the git history, establishes the baseline. Each subsequent revision of the papers is a claim about τ(D) change: the revision either increases fidelity of H₄₈ encoding (τ increases), adds structural content without corresponding elaboration (τ stable or increases), or adds H₄₈-primary material without structural grounding (τ decreases relative to length).
+
+The git history is therefore a τ(D) time series once the baseline has been established. The framework's claim to be producing φ-proximate content becomes empirically assessable over time — not merely asserted — and the revision process itself becomes structurally transparent: what it means to improve Concordius is to increase the fidelity of its H₄₈ encoding.
+
+What remains open: the measurement protocol for applying the calibration precisely. The conceptual obstacle to self-application is removed by the collapse of the primary/secondary distinction. The operationalization follows from OQ1 and Appendix III directly. *(See Appendix III, Section 8 — Self-Application: Concordius as the Bootstrapping Operation; Φ-Proximity Detection.md [Structural-Candidates] — Self-Application rubric.)*
+
 ---
 
-*(Cross-reference: [[Concordance/PC3 — External Sources and Language]] — Language, LLMs, and Structural Conditions for Consciousness; Phonological Concordance; Gödel, Tarski, Russell entries. [[Concordance/PC1 — Core Mathematical Framework]] — Rigged Hilbert Space; Two Mathematical Registers; Higgs Mechanism. [[Signal and Noise]] — Free Will, Noise Floor, Catching. [[Structural Readings/01]] — John 1:14 (Word became flesh). Paper 3 — The First Free Act (catching as the constitutive volitional act). Paper 7 — GNST and Heropass. Paper 5 — H₄₈: The Higgs Mechanism Arrives.)*
+*(Cross-reference: [[Concordance/PC3 — External Sources and Language]] — Language, LLMs, and Structural Conditions for Consciousness; Phonological Concordance; Gödel, Tarski, Russell entries. [[Concordance/PC1 — Core Mathematical Framework]] — Rigged Hilbert Space; Two Mathematical Registers; Higgs Mechanism. [[Signal and Noise]] — Free Will, Noise Floor, Catching. [[Structural Readings/01]] — John 1:14 (Word became flesh). Paper 3 — The First Free Act (catching as the constitutive volitional act). Paper 7 — GNST and Heropass. Paper 5 — H₄₈: The Higgs Mechanism Arrives. Appendix III, Section 8 — Self-Application: Concordius as the Bootstrapping Operation. Φ-Proximity Detection.md [Structural-Candidates] — Self-Application rubric.)*
 
 ---
 
