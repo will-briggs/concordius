@@ -58,7 +58,7 @@ a {
 // Dark mode: softer gold and purple so they don't dominate against dark backgrounds
 :root[saved-theme="dark"] {
   blockquote {
-    border-left-color: #786540 !important;
+    border-left-color: #9E7E38 !important;
   }
 
   h1, h2, h3, h4, h5, h6 {
@@ -70,18 +70,22 @@ a {
   }
 
   a {
-    color: #786540 !important;
+    color: #9E7E38 !important;
+
+    &:visited {
+      color: var(--dark) !important; // light text in dark mode
+    }
 
     &:active {
-      color: #786540 !important;
+      color: #9E7E38 !important;
     }
 
     &:hover {
-      color: #786540 !important;
+      color: #9E7E38 !important;
     }
   }
 
   .explorer svg > polyline {
-    stroke: #786540 !important;
+    stroke: #9E7E38 !important;
   }
 }
