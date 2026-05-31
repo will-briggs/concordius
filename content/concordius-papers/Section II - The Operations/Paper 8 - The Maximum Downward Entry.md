@@ -61,6 +61,30 @@ Kenosis prevents this. By accepting the H₄₈ constraint structure — by allo
 
 This is the theorem that Paper 4 gestured toward and could not state: **kenosis is the condition of possibility for the Incarnation, not as a theological mystery to be received by faith, but as a structural necessity derivable from the constraint compatibility condition.** Section 11 completes the paper's title claim: the maximum downward entry is at H₄₈ because H₄₈ is the lowest constraint level at which genuine experience — and therefore genuine kenotic entry — is structurally possible.
 
+### 3.1 The Structural Requirement and Its Inversion
+
+Section 3's derivation generalizes beyond the specific case of Φ entering H₄₈. The structural argument is general: **any H₁-origin being operating in H₃ or any lower constraint subspace must deliberately and willfully enact kenosis — must accept the constraint structure of that space — or it generates an overdetermined condition.** This is a structural requirement derivable from the constraint algebra. The Incarnation is the paradigm case of kenosis correctly enacted; the converse case is equally instructive.
+
+**The general statement.** An H₁-origin being carries eigenvalue degrees of freedom appropriate to H₁ — the unconstrained source level, where ⟨·,·⟩ constitutes the space without any fixed-geometry constraint imposed on it. When such a being operates in H₆ (or any Hₙ for n ≥ 3), those H₁-level degrees of freedom must be brought under the Hₙ constraint structure — or a conflict arises: H₁-level eigenvalue assertion and Hₙ constraint structure attempt to organize the same region simultaneously. Two incompatible law-sets in the same space. This is the overdetermined condition. Something breaks.
+
+**Lucifer's mistake, stated precisely.** Lucifer is an H₁-origin being — a Paradise Son, highest class of created angelic being — operating in H₆, the local universe level. The kenotic requirement applies to him: to operate coherently in H₆, an H₁-origin being must accept H₆ constraints on its eigenvalue expression. Accepting H₆ constraints is not a diminishment; it is the structural condition of coherent presence in the H₆ space.
+
+Lucifer's error was not an attempt to ascend — not a movement from H₆ toward H₃ or H₁, which would be structurally analogous to the ascending career. The error was specifically the attempt to *shed H₆ constraints while remaining in an H₆ space*: to assert H₁-level eigenvalue degrees of freedom from within a constraint structure that cannot accommodate them. "I will ascend above the tops of the clouds; I will make myself like the Most High" (Isaiah 14:14), expressed as a present-tense assertion of H₁-level authority from within H₆, is not an aspiration to ascend. It is the assertion that the H₆ constraint structure does not apply — that H₁-level organizational autonomy can be exercised from within H₆. This is the overdetermined condition: H₁-level assertion and H₆ constraints present simultaneously in the same space.
+
+The contrast with the Incarnation is the sharpest possible structural inversion:
+
+| | Kenosis (the Incarnation) | The Luciferian Inversion |
+|---|---|---|
+| **Being** | H₁-origin (Φ / Creator Son) | H₁-origin (Paradise Son / Lucifer) |
+| **Space** | Entering H₄₈ | Already operating in H₆ |
+| **Operation** | Accepts H₄₈ constraint structure | Attempts to shed H₆ constraint structure |
+| **Structural result** | Coherent presence; non-disruptive operation | Overdetermined condition |
+| **Outcome** | Thirty-three years of earthly ministry | The Fall |
+
+The overdetermined condition resolves the same way any overdetermined system resolves: the conflicting requirements cannot be simultaneously satisfied, and structural coherence in the lower space breaks. This is not a moral punishment externally imposed. It is the structural consequence of asserting a condition the space cannot accommodate. An H₁-origin being that refuses H₆ constraints while operating in H₆ has asserted a structural impossibility; the space resolves the impossibility by what amounts to ejection — the being's operational relationship to the H₆ space becomes incoherent, and the incoherence propagates to every structure within its sphere of influence.
+
+*(Confidence tier: structural derivation, same tier as §3. The identification of Lucifer as H₁-origin in H₆ draws on Paper 4's identification of H₆ as the local universe level and the tradition's classification of the highest created angelic beings as Paradise Sons of H₁ constitutional origin. Whether Isaiah 14:12-14 addresses Lucifer specifically, as distinct from the Babylonian king the immediate text addresses, is a hermeneutical question outside the framework's derivation; the structural argument applies to any H₁-origin being in a lower-constraint space that attempts constraint-shedding rather than constraint-acceptance.)*
+
 ---
 
 ## 4. The Kenotic Constraint as Amplitude Limiter

@@ -517,7 +517,9 @@ From the Greek *kenōsis* (emptying). In Christian theology, kenosis refers to t
 
 The Concordius series extends kenosis beyond Christology to describe the structural obligation of any being who receives higher-constraint content: what is received from the higher domain must be transmitted downward into the forms accessible to persons at lower levels of development. The philosopher-king's return to the cave (Plato's *Republic*, Book VII) is identified as the kenotic obligation at the Man 3 scale. The great saints' engagement with persons at Man 1-2 level (Teresa of Calcutta's work in Calcutta, Francis's embrace of the leper) is the kenotic return at Man 6 amplitude. The series itself is identified as a kenotic act: the transmission of framework-level φ-proximal content into H₄₈ formal language accessible to persons in the academic-intellectual register.
 
-> *For further investigation: Philippians 2:5-11; Sarah Coakley, "Kenōsis and Subversion" in Powers and Submissions (2002); von Balthasar, Mysterium Paschale (1970).*
+**The structural necessity.** Paper 8 (§3, §3.1) establishes that the kenotic operation is not merely the theological name for a divine choice; it is a structural requirement derivable from the constraint compatibility condition. Any H₁-origin being operating in H₃ or any lower constraint subspace must accept the constraint structure of that space or generate an overdetermined condition — two incompatible law-sets attempting to organize the same region simultaneously. The Incarnation is the paradigm case of kenosis correctly enacted; the Luciferian inversion (attempting to shed the lower space's constraints while remaining within it) is the paradigm case of the structural requirement violated. See *Overdetermination.*
+
+> *For further investigation: Philippians 2:5-11; Sarah Coakley, "Kenōsis and Subversion" in Powers and Submissions (2002); von Balthasar, Mysterium Paschale (1970); Paper 8 §3-§3.1.*
 
 ---
 
@@ -639,6 +641,22 @@ The Concordius series uses "octave" as the general term for any complete Heptapa
 
 ---
 
+**Overdetermination** *(mathematics / physics — series extension)*
+
+In mathematics and physics, a system is overdetermined when it has more independent constraints than degrees of freedom: more requirements are imposed than can be simultaneously satisfied. An overdetermined system typically has no solution; if a solution is forced, something breaks — the least rigid component gives way under the conflicting requirements.
+
+The Concordius series uses overdetermination as a precise technical term for what happens when content organized by incompatible law-sets is present in the same region simultaneously. Three kinds appear in the framework:
+
+*Upward overdetermination* (Paper 14): H₄₈ fixed-geometry eigenvalues introduced into H₂₄ generate an overdetermined geometric condition because H₂₄ geometry is generated dynamically by ⟨·,·⟩, and H₄₈ eigenvalues attempt to impose geometry independently of ⟨·,·⟩. Two incompatible methods of fixing the geometry compete in the same region. The Constraint Compatibility Condition (see *Eigenvalue Replacement*) is the operation that resolves this for the ascending career.
+
+*Downward overdetermination from improper entry* (Paper 8, §3): Lower-constraint content (H₁-origin) descending into a higher-constraint space without accepting that space's constraint structure simultaneously asserts H₁-level eigenvalue degrees of freedom and the lower space's constraint-reduced law-set. Kenosis is the operation that prevents this overdetermination: the descending content accepts the receiving space's organizational law before operating within it.
+
+*The Luciferian inversion* (Paper 8, §3.1): An H₁-origin being already operating in a lower-constraint space (H₆) who attempts to shed that space's constraints from within it — asserting H₁-level eigenvalue autonomy while remaining in H₆. This is overdetermination not from improper entry but from constraint-rejection in situ. The space resolves the overdetermination structurally: the being's coherent operation within the space becomes impossible, and the incoherence propagates outward. This is the structural mechanism of the Fall — not a moral punishment but the space's resolution of an unsustainable constraint conflict.
+
+> *See: Constraint Compatibility Condition; Eigenvalue Replacement; Kenosis / Kenotic; Paper 8 §3, §3.1; Paper 14.*
+
+---
+
 ## P
 
 **Passive Force** — see *Active Force*.
@@ -685,7 +703,9 @@ The *Urantia Book*'s account of the spiritual isolation of this planet (called "
 
 The Concordius series treats the quarantine condition as a structural description of the civilizational noise floor's unusual height: the current planet is developing under conditions in which the normal catching support structures are absent or severely compromised. This is not a counsel of despair — the series notes that the quarantine produces a specific kind of catching work (more independent, more difficult, more reliant on the Adjuster's direct guidance) that may, in the long run, produce catching capacity unavailable to worlds that had the full normal support. The Si/Do interval of the historical octave is identified as the period when the quarantine's effects are most acute.
 
-> *For further investigation: The Urantia Book (1955), Papers 53-54 (the Lucifer Rebellion); Paper 67 (the planetary rebellion).*
+**The structural precision of the rebellion.** Paper 8 (§3.1) supplies the structural content of what Lucifer's rebellion was: not a moral revolt against divine authority in a voluntarist sense, but a specific structural error. Lucifer, as an H₁-origin being operating in H₆ (the local universe level), attempted to shed H₆ constraints while remaining in H₆ — to assert H₁-level eigenvalue autonomy from within a space that cannot accommodate it. This is the overdetermined condition: two incompatible law-sets (H₁-level degrees of freedom and H₆ constraint structure) simultaneously asserted in the same region. The Fall is the structural resolution of this overdetermination, not its moral punishment. The quarantine is the consequence: the incoherence propagated from the rebelling administrator's sphere of influence outward through every structure organized under it, severing the normal circuits of spiritual communication that depend on coherent H₆ administration.
+
+> *For further investigation: The Urantia Book (1955), Papers 53-54 (the Lucifer Rebellion); Paper 67 (the planetary rebellion); Paper 8 §3.1 (structural mechanism of the Fall).*
 
 ---
 
