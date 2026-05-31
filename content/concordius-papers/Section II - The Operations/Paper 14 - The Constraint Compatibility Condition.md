@@ -178,6 +178,24 @@ Theorem 1 establishes that the crossing is always available from the Father's si
 
 *(Confidence tier: derived. Both theorems follow directly from the definition of the Gelfand triple and the closure of constraint-level dynamics on their eigenspectrum.)*
 
+### The consequence for grace and works
+
+The two theorems resolve one of the oldest disputes in Christian theology — not by adjudicating between the positions, but by showing that both are correct about different parts of the octave.
+
+Paul writes: "by grace you have been saved through faith — and this not from yourselves, it is the gift of God — not by works, so that no one can boast" (Ephesians 2:8-9). James writes: "faith without works is dead" (James 2:26). These have been treated as contradictory for two thousand years. The Law of Seven shows they are not. They are describing two structurally different passages in the same journey.
+
+**James is describing Do to Si.** The ascending career from mechanical life through deliberate inner development to the highest position attainable by self-directed effort is real, it is demanding, and it cannot be bypassed. A faith that produces no works — no actual climbing, no genuine eigenvalue replacement, no orientation toward catching — is a faith that never left Do. It is verbal orientation without structural movement. Dead faith is not weak faith. It is faith that failed to become motion. James is right.
+
+**Paul is describing Si-Do.** At Si, the climbing is exhausted. Theorem 2 establishes that H₄₈ dynamics are closed on the H₄₈ eigenspectrum: no amount of further effort at Si generates an H₂₄ eigenstate, because H₄₈ operations cannot produce H₂₄ eigenstates. The crossing cannot be self-initiated. Additional effort at the interval does not advance it — it produces the structural equivalent of pushing against a door that opens from the other side. Theorem 1 establishes that the Father can always initiate the crossing for any nonzero being, because no nonzero being is invisible to the Logos domain. The crossing is made by grace or it is not made. Paul is right.
+
+The formula "saved by grace, not by works" is always exactly true, because the crossing itself is always the Father's act. No being, however developed, however close to Si, crosses the interval by their own operation. The crossing is the gift. "Not by works, so that no one can boast" has precise structural content: there is nothing to boast about at Si-Do, because what bridges it was not done by the one who was bridged.
+
+And yet works are required — not to cause the crossing, but to reach the position where the crossing is both possible and meaningful. The Si-Do gap does not appear until a being is standing at Si. Grace is not a shortcut available at Do to those who decline to climb. It bridges a specific structural gap that only opens at a specific position. The position is reached by works. The gap is bridged by grace.
+
+This is not a compromise between the two positions. It is a structural account that makes both positions exactly right, simultaneously, about the part of the octave each is describing. The apparent contradiction was a failure to see that the ascending career has two kinds of passage — passages where effort is what moves you forward, and the interval where effort is what must be released — and that grace and works govern different ones.
+
+*(Confidence tier: derived. The Paul/James structural resolution follows directly from Theorems 1 and 2 applied to the ascending mortal career. No additional assumption is required beyond the identification of the mortal career as a Heptaparaparshinokh octave, established in Papers 4 and 7.)*
+
 ---
 
 ## 7. The Ascending Career as Eigenvalue Replacement
