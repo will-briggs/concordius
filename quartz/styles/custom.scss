@@ -1,3 +1,24 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Link color overrides
+a {
+  color: #D4AF37 !important; // gold — unvisited
+
+  &:visited {
+    color: #C0C0C0 !important; // silver — visited
+  }
+
+  &:hover {
+    color: #D4AF37 !important;
+  }
+
+  &.internal {
+    background-color: transparent !important;
+    padding: 0 !important;
+    border-radius: 0 !important;
+
+    &:visited {
+      color: #C0C0C0 !important;
+    }
+  }
+}
