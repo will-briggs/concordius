@@ -4,7 +4,7 @@ title: Concordius Papers
 
 # Concordius Papers
 
-Twenty-eight papers building a single argument from first principles: that reality has the structure of a specific mathematical object, and that this structure maps with remarkable precision onto what the major theological and mystical traditions have been describing for twenty-five centuries.
+Twenty-eight papers building a single argument from first principles: that reality has the structure of a specific mathematical object, and that this structure maps with remarkable precision onto what the major theological and mystical traditions have been describing for four thousand years.
 
 [[Introduction|Read the Introduction →]]
 

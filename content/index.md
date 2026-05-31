@@ -17,7 +17,7 @@ Concordius is a three-part project that pursues that question from first princip
 
 ## Concordius Papers
 
-The foundational series. Twenty-eight papers, beginning from two assumptions — that reality has the structure of a specific mathematical object (the Gelfand triple), and the bare fact that you are aware of your own existence — and building step by step toward a framework that maps with remarkable precision onto what the major theological and mystical traditions have been describing, in their various vocabularies, for twenty-five centuries.
+The foundational series. Twenty-eight papers, beginning from two assumptions — that reality has the structure of a specific mathematical object (the Gelfand triple), and the bare fact that you are aware of your own existence — and building step by step toward a framework that maps with remarkable precision onto what the major theological and mystical traditions have been describing, in their various vocabularies, for four thousand years.
 
 The argument is rigorous. The mathematics can be checked by those with the background to check it. Those without that background can follow the structural intuitions the papers work hard to make available. What is asked of the reader is only what Wittgenstein found himself holding at the edge of his most rigorous work: a genuine pause at the fact that anything exists at all.
 
