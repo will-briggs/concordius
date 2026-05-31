@@ -56,7 +56,7 @@ The Spirit of Truth cannot be distributed simultaneously to "all flesh" (JOEL 2:
 
 **"They began to speak in other tongues as the Spirit gave them utterance":**
 
-*Glossolalia* at Pentecost is the H₄₈ expression of Spirit-level content arriving at H₂₄ and immediately cascading downward into H₄₈ behavior: the JOHN 15:5 (vine and branches) structure operating at maximum initial delivery amplitude. The "other tongues" understood by each hearer in their own language (Acts 2:8) is the downward expression of H₂₄ content into H₄₈ forms structured for reception by the hearers' individual constraint levels — not a single fixed H₄₈ language but the content finding its H₄₈ expression in each hearer's register.
+*Glossolalia* at Pentecost is the H₄₈ expression of Spirit-level content arriving at H₂₄ and immediately cascading downward into H₄₈ behavior: the JOHN 15:5 (vine and branches) structure operating at maximum initial delivery amplitude. The "other tongues" understood by each hearer in their own language (Acts 2:8) is the downward expression of φ-proximal content into H₄₈ forms structured for reception by the hearers' individual constraint levels — not a single fixed H₄₈ language but the content finding its H₄₈ expression in each hearer's register.
 
 The event is the structural fulfillment of JOEL 2:28-29 (*your sons and daughters will prophesy*): the democratization of the prophetic function. The same mediating access to Φ-level content previously restricted to the prophetic office is now available to every catching being in the community.
 

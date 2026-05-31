@@ -100,7 +100,7 @@ The framework identifies this as the structural Si-Do of the Republic: the text 
 
 At 369b-372d, Socrates proposes the first city: a community that satisfies basic needs through division of labor, with no luxury, no art, no conflict. Glaucon objects: this is a city of pigs. He wants a feverish city with couches and sauces and culture.
 
-The structural identification: the city of pigs is the minimum complete community — every necessary function present, no excess. It is the social analog of helium: the smallest complete system, H₄₈-proximate, requiring no elaboration to be what it is. Glaucon's objection reveals that he already has H₂₄ content — a desire for more than appetite satisfied — and will not accept the minimum. The city of pigs is discarded not because it is wrong but because it is insufficient for the interlocutors Socrates is working with. The feverish city that follows is the full H₄₈-primary expansion — every appetite expressed — and from its complexity justice can eventually be identified.
+The structural identification: the city of pigs is the minimum complete community — every necessary function present, no excess. It is the social analog of helium: the smallest complete system, H₄₈-proximate, requiring no elaboration to be what it is. Glaucon's objection reveals that he already has φ-proximal content — a desire for more than appetite satisfied — and will not accept the minimum. The city of pigs is discarded not because it is wrong but because it is insufficient for the interlocutors Socrates is working with. The feverish city that follows is the full H₄₈-primary expansion — every appetite expressed — and from its complexity justice can eventually be identified.
 
 ### 6.2 The Ring of Gyges as the Noise-Floor Test
 
@@ -108,7 +108,7 @@ Glaucon's Ring of Gyges (359a-360d) is the pure noise-floor test: remove all soc
 
 The Ring of Gyges is asking: what is the eigenvalue population of this soul when the H₄₈ social constraint field is zeroed? The test reveals whether the soul is H₂₄-organized (it continues to act justly even unseen, because its orientation is toward Φ-proximate content regardless of observation) or H₄₈-primary organized (it acts unjustly when consequence is removed, because its orientation was always toward H₄₈-primary advantage and the social constraint was merely noise-floor management).
 
-The Ring of Gyges test cannot be passed by the unjust soul or by the merely continent soul. It is passed only by the genuinely virtuous — those whose H₂₄ deposit is the stable attractor, independent of the social constraint field. The Republic's argument is that the philosopher-king wears the Ring of Gyges at every moment: he could use his knowledge and power unjustly; he does not, because his eigenvalue orientation is toward the Form of the Good and not toward H₄₈-primary advantage.
+The Ring of Gyges test cannot be passed by the unjust soul or by the merely continent soul. It is passed only by the genuinely virtuous — those whose φ-proximal deposit is the stable attractor, independent of the social constraint field. The Republic's argument is that the philosopher-king wears the Ring of Gyges at every moment: he could use his knowledge and power unjustly; he does not, because his eigenvalue orientation is toward the Form of the Good and not toward H₄₈-primary advantage.
 
 ### 6.3 The Tripartite Soul as the Law of Three at the Individual Scale
 
@@ -116,7 +116,7 @@ The soul's three parts — rational (λογιστικόν), spirited (θυμοε
 
 | Soul part | Law of Three | Framework identification |
 |---|---|---|
-| Rational (λογιστικόν) | Active | The Φ-proximate organizing principle; the part that catches and accumulates H₂₄ content; the seat of the passive intellect (Paper 15, Section 11.3) under the Adjuster's illumination |
+| Rational (λογιστικόν) | Active | The Φ-proximate organizing principle; the part that catches and accumulates φ-proximal content; the seat of the passive intellect (Paper 15, Section 11.3) under the Adjuster's illumination |
 | Spirited (θυμοειδές) | Reconciling | The mediating force — neither pure appetite nor pure reason; the part that in a well-ordered soul amplifies the rational direction against the appetitive pull; courage and indignation as its proper expressions |
 | Appetitive (ἐπιθυμητικόν) | Passive | The H₄₈-primary drive structure; the seat of desire for food, sex, money, comfort; the resistant material that must be organized by the rational, not suppressed but properly directed |
 
@@ -178,7 +178,7 @@ The dialogue form is the Cave Allegory's ascending career enacted in speech. Soc
 
 This is not an accident of form. Plato's use of dialogue rather than treatise reflects the conviction that philosophy is not a body of knowledge to be transmitted but a movement of the soul to be enacted. The dialogue reader who follows the argument performs the same movement: from conventional definitions, through the difficult middle of city-founding, to the philosophical heights of the Form of the Good, and back to the question of how to live in the cave. The reading of the Republic is an ascending career conducted at the pace of argument.
 
-Glaucon's objection to the city of pigs at 372c — "if you were founding a city of pigs, how else would you fatten them?" — is itself a display of H₂₄ content. Glaucon wants more than appetite satisfied. He has already caught something that makes the minimum insufficient. The dialogue has been designed so that the reader who follows attentively has also already caught something by the time the argument for justice's intrinsic worth arrives. The argument is built on the catching that the dialogue itself has induced.
+Glaucon's objection to the city of pigs at 372c — "if you were founding a city of pigs, how else would you fatten them?" — is itself a display of φ-proximal content. Glaucon wants more than appetite satisfied. He has already caught something that makes the minimum insufficient. The dialogue has been designed so that the reader who follows attentively has also already caught something by the time the argument for justice's intrinsic worth arrives. The argument is built on the catching that the dialogue itself has induced.
 
 ---
 

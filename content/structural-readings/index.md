@@ -55,3 +55,4 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 [[Appendix/04 — The Revelation of the Structure|IV — The Revelation of the Structure]]
 [[Appendix/05 — The Alchemical Tradition|V — The Alchemical Tradition]]
 [[Appendix/06 — The Eucharist: Transubstantiation|VI — The Eucharist: Transubstantiation]]
+[[Appendix/07 — The Magisterium|VII — The Magisterium]]

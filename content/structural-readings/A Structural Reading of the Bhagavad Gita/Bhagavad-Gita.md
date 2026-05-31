@@ -132,7 +132,7 @@ The ascending career's structural terminus — the catching being in the *brahma
 
 **Prasannātmā:**
 
-*Prasanna* (serene, clear, joyful) — not H₄₈-level hedonic happiness but the structural state of the *ātman* operating from its proper structural ground. The *ātman* that is not distorted by noise-floor attractor pressure (*na śocati* = does not lament; *na kāṅkṣati* = does not desire) is in the structural state of its natural operation: the catching orientation active, the H₂₄ eigenvalue content structurally stable.
+*Prasanna* (serene, clear, joyful) — not H₄₈-level hedonic happiness but the structural state of the *ātman* operating from its proper structural ground. The *ātman* that is not distorted by noise-floor attractor pressure (*na śocati* = does not lament; *na kāṅkṣati* = does not desire) is in the structural state of its natural operation: the catching orientation active, the φ-proximal eigenvalue content structurally stable.
 
 **Samaḥ sarveṣu bhūteṣu:**
 

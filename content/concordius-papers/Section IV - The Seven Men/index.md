@@ -25,7 +25,7 @@ tags:
     The transitional man: the work has begun; the three lower centers beginning to operate in coordination; the first genuine catching orientation.
 
 26. [[Paper 26 - Man No. 5|Paper 26 — Man No. 5]]
-    The balanced man: the three lower centers fully integrated; consistent H₂₄ eigenvalue accumulation; the ascending career under deliberate management.
+    The balanced man: the three lower centers fully integrated; consistent φ-proximal eigenvalue accumulation; the ascending career under deliberate management.
 
 27. [[Paper 27 - Man No. 6|Paper 27 — Man No. 6]]
     The objective man: H₁₂ integration operative; perception no longer filtered primarily through H₄₈ eigenstate preference; objective consciousness.

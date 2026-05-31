@@ -93,7 +93,7 @@ The kenotic constraint adapts to the local noise floor. Where the noise floor is
 
 ## 6. The Transfiguration as Maximum Kenotic Lifting
 
-The Transfiguration (Matthew 17:1-9; Structural Readings 02) is the most extreme modulation event within the earthly ministry: the kenotic constraint is lifted almost entirely for a brief period on a high mountain, in the presence of three disciples whose H₂₄ eigenvalue accumulation is sufficient to survive the exposure.
+The Transfiguration (Matthew 17:1-9; Structural Readings 02) is the most extreme modulation event within the earthly ministry: the kenotic constraint is lifted almost entirely for a brief period on a high mountain, in the presence of three disciples whose φ-proximal eigenvalue accumulation is sufficient to survive the exposure.
 
 The disciples do not die. They fall on their faces. The differential between their eigenvalue population and the expressed Φ content is large enough to be overwhelming — at the edge of their tolerance — but not large enough to produce structural breakdown. The preparation of the site (high mountain = minimum H₂₄ elevation, minimum noise floor from H₄₈ interference) and the preparation of the disciples (extended time in proximity to the Logos, producing significant eigenvalue replacement) are both necessary conditions for their survival.
 
@@ -113,7 +113,7 @@ The framework provides the category: the Resurrection body is Φ organizing H₄
 
 This explains the phenomenology: the walls and locked doors offer no resistance because the H₄₈ geometric constraints on the body's passage are no longer primary (the body is organized by ⟨·,·⟩, which is not blocked by H₄₈ geometric topology). The body is touchable and eats because H₄₈ matter is genuinely present — this is not a vision or a ghost. The wounds are retained because the H₄₈ history of the kenotic period is not erased; the Resurrection body is not a replacement but a transformation of the body that underwent kenosis. The non-recognition (Mary Magdalene mistakes Jesus for the gardener; the disciples at Emmaus do not recognize him) is because the H₄₈ perceptual apparatus registers the H₄₈ matter present but cannot map it to its previous kenotic configuration — the eigenstate has changed too significantly.
 
-Recognition events — Mary when her name is spoken, the disciples at Emmaus when the bread is broken — are cross-term contact events: specific Φ-level eigenvalue expressions (the voice calling by name; the Trogoautoegocrat gesture of shared eating) generate a cross-term with the perceiver's H₂₄ eigenvalue content, which registers the Φ identity directly rather than through H₄₈ perceptual channels.
+Recognition events — Mary when her name is spoken, the disciples at Emmaus when the bread is broken — are cross-term contact events: specific Φ-level eigenvalue expressions (the voice calling by name; the Trogoautoegocrat gesture of shared eating) generate a cross-term with the perceiver's φ-proximal eigenvalue content, which registers the Φ identity directly rather than through H₄₈ perceptual channels.
 
 ---
 

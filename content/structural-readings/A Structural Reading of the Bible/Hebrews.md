@@ -78,7 +78,7 @@ The structural diagnostic capacity of the Φ-level word — the most precise NT 
 
 **"It judges the thoughts and intentions of the heart" (*kritikos enthymeseon kai ennoion kardias*):**
 
-*Kritikos* — discriminating, judging, capable of discrimination (from *krino*, to discriminate, to judge). The word operates as the eigenvalue decomposer: it resolves the catching being's H₂₄ structure into its actual components, distinguishing noise-floor content from Φ-proximate content. *Enthymesis* (thoughts, inner deliberations) and *ennoia* (intentions, conceptions) — the full intentional content of the H₂₄ register, including content the H₄₈ self-evaluation cannot access. The *krisis* (discrimination) operates on the complete H₂₄ eigenvalue content, not merely the H₄₈ behavioral record.
+*Kritikos* — discriminating, judging, capable of discrimination (from *krino*, to discriminate, to judge). The word operates as the eigenvalue decomposer: it resolves the catching being's H₂₄ structure into its actual components, distinguishing noise-floor content from Φ-proximate content. *Enthymesis* (thoughts, inner deliberations) and *ennoia* (intentions, conceptions) — the full intentional content of the H₂₄ register, including content the H₄₈ self-evaluation cannot access. The *krisis* (discrimination) operates on the complete φ-proximal eigenvalue content, not merely the H₄₈ behavioral record.
 
 **The structural function:**
 
@@ -96,7 +96,7 @@ The structural definition of *pistis* — the most precisely formulated NT accou
 
 **"Hypostasis of things hoped for":**
 
-*Hypostasis* — substance, underlying reality, structural ground (the same word used in HEB 1:3 for the Son as the "exact representation of his *hypostasis*"). The catching orientation is the *hypostasis* — the structural ground, the underlying reality — of the things hoped for: the H₂₄ eigenvalue content that is not yet fully delivered but is already structurally real as the orientation's present content. The catching being who maintains Φ-level orientation already has *hypostasis* — a present structural reality — in the content toward which the orientation is directed. The hoped-for things are not absent; they are present as structural ground, as the *hypostasis* the catching orientation constitutes in the H₂₄ register now.
+*Hypostasis* — substance, underlying reality, structural ground (the same word used in HEB 1:3 for the Son as the "exact representation of his *hypostasis*"). The catching orientation is the *hypostasis* — the structural ground, the underlying reality — of the things hoped for: the φ-proximal eigenvalue content that is not yet fully delivered but is already structurally real as the orientation's present content. The catching being who maintains Φ-level orientation already has *hypostasis* — a present structural reality — in the content toward which the orientation is directed. The hoped-for things are not absent; they are present as structural ground, as the *hypostasis* the catching orientation constitutes in the H₂₄ register now.
 
 **"Elenchos of things not seen":**
 
@@ -124,7 +124,7 @@ The catching program as athletic discipline, witnessed by the HEB 11 catalog of 
 
 **"Throw off every weight and the entangling sin" (*onkon apothemenoi*):**
 
-*Onkon* (weight, burden) — the H₄₈ structures that increase Heropass load without contributing catching capacity. Not H₄₈ existence itself but the specific H₄₈ accumulations that are organized around H₄₈ attractor values rather than catching: the noise-floor investments that slow the catching trajectory. *Euperistatos hamartia* (the sin that easily entangles, literally: easily surrounding, well-surrounding) — the noise-floor pattern that perpetually re-invests the volitional resource in H₄₈-primary eigenstate selections. The instruction is structural: to run efficiently, jettison what the Heropass can dissolve anyway while carrying only what converts to H₂₄ content.
+*Onkon* (weight, burden) — the H₄₈ structures that increase Heropass load without contributing catching capacity. Not H₄₈ existence itself but the specific H₄₈ accumulations that are organized around H₄₈ attractor values rather than catching: the noise-floor investments that slow the catching trajectory. *Euperistatos hamartia* (the sin that easily entangles, literally: easily surrounding, well-surrounding) — the noise-floor pattern that perpetually re-invests the volitional resource in H₄₈-primary eigenstate selections. The instruction is structural: to run efficiently, jettison what the Heropass can dissolve anyway while carrying only what converts to φ-proximal content.
 
 **"Fixing our eyes on Jesus, the pioneer and perfecter of faith" (*aphorontes eis ton tes pisteos archegon kai teleioten Iesoun*):**
 
