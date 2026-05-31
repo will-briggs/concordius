@@ -93,6 +93,6 @@ Wittgenstein was right. Not how the world is, but that it is: this is the beginn
 
 ---
 
-## Appendices
+## Section V — Appendix
 
-[Appendices →](/concordius-papers/appendices/)
+[Section V — Appendix →](/concordius-papers/section-v---appendix/)
