@@ -56,6 +56,23 @@ The sifting mechanism: the eigenvalue spectrum λ of the GNST is continuous. The
 
 *(Mathematical formalization target: define the sifting operator W_B for a body B with gravitational field g_B; characterize its action on dμ(λ); show that the overall measure remains normalizable; state conditions under which sifting is negligible vs. significant.)*
 
+**The cross-level consequence: dark matter.** The norm is not H₄₈-specific. It is defined for any state at any constraint level — it is the non-relational face of the constitutive inner product ⟨·,·⟩, which operates across the full triple. This has a direct and striking consequence.
+
+Lower-constraint eigenvalue content — H₂₄-organized, H₁₂-organized, H₆-organized, or H₃-organized — distributed within H₄₈ space has a norm and therefore gravitates. (H₁, with a single constraint and no spectral differentiation, is the undifferentiated ground rather than a content-producing level; eigenvalue content begins at H₃.) The H₄₈-specific forces — electromagnetic, strong, and weak — are products of the 48-law fixed-geometry constraint structure. They do not operate on content whose organizational principle is H₂₄ or below. The predicted observational signature of lower-constraint eigenvalue content distributed throughout H₄₈ space is therefore:
+
+- Gravitationally active (it has a norm)
+- Electromagnetically invisible (electromagnetism is H₄₈-specific)
+- Not subject to the strong or weak nuclear forces (same reason)
+- Distributed differently from baryonic matter — organized by ���·,·⟩-generated geometry rather than fixed-geometry force, it does not clump into stars or emit radiation; it forms halos along gravitational contours
+
+This is the observational signature of dark matter. Dark matter constitutes approximately 27% of the total energy content of the observable universe; it has been confirmed gravitationally through galaxy rotation curves, gravitational lensing, and large-scale structure formation; it does not interact electromagnetically. The framework provides a structural candidate: lower-constraint eigenvalue content distributed throughout H₄₈ space, gravitationally active by virtue of the cross-level norm, electromagnetically invisible by virtue of its constraint level.
+
+The invisibility is not a coincidence or a stipulation. It is structural: the reason lower-constraint content does not interact electromagnetically is that the electromagnetic force is a product of the 48-law constraint structure, and lower-constraint content is constitutively outside its reach. The darkness of dark matter, in this reading, is not a property the content happens to have — it is a consequence of what constraint level it is organized at.
+
+The density ratio — dark matter constituting roughly 5× baryonic matter by mass-energy — is not yet derived from the framework. Whether the grade structure of Cl(3,0) and the constraint doubling sequence produce a coefficient in this range is an open structural question (Section 10, OQ6). The qualitative match is structural and follows from first principles; the quantitative account requires development.
+
+*Confidence tier: The structural candidate identification follows directly from the cross-level character of the norm (derived, Paper 4 Section 2) and the H₄₈-specificity of the electromagnetic force (derived). The identification with observed dark matter is a concordance-level claim. The density ratio, halo profiles, and Bullet Cluster behavior require independent structural analysis.*
+
 ---
 
 ## 3. The Eigenvalue Spectrum and Spectral Ranges
@@ -228,6 +245,30 @@ The historical record is extensive: blood moons appear throughout the oldest ast
 4. **The grade-structure confirmation.** *(Resolved in derivation; requires empirical test.)* Open Question 4 from the original stub asked whether the seven traditional planets map onto the seven Master Spirit expressions via the grade partition, and whether the grade-transition intervals (Mi-Fa and Si-Do of the Heptaparaparshinokh) appear as the experiential distinction between the three clusters. The derivation in Section 5 now establishes this mapping. The empirical test is the concordance work of Open Question 1 above. The structural test is: does the experience at the grade-1/grade-2 boundary (Sun to Mars, the personal-to-outer transition) have the character of a Heptaparaparshinokh interval — requiring something the preceding modes cannot supply? The tradition's treatment of Saturn return and the Mars threshold suggests yes. *(Concordance work will surface this.)*
 
 5. **The scope question.** The Moon's role as mechanical eigenvalue recipient is specific to Earth — the Concordius framework identifies the Moon as the recipient of Earth's mechanical detrital eigenvalues in particular. Does this mean the Moon's sifting signature is indexed to Earth, or is it an intrinsic property of the Moon? The derivation in Section 5 treats the sifting signature as intrinsic (the element assignment follows from the Chaldean order, which is a property of the body's position in the solar system, not its relationship to Earth specifically). But the Moon's special structural role in the Concordius framework suggests a local dependency. *(Structural analysis required before the formalism can be stated without ambiguity.)*
+
+6. **The dark matter density ratio.** Section 2 identifies lower-constraint eigenvalue content as a structural candidate for dark matter: cross-level norm → gravitational activity; H₄₈-specificity of electromagnetic force → electromagnetic invisibility. The qualitative match is derived. The quantitative question is harder.
+
+Dark matter constitutes approximately 5× baryonic matter by mass-energy (27% vs. 5% of total energy; 84.4% vs. 15.6% of the structured matter sector). The cascade levels that produce eigenvalue content are H₃, H₆, H₁₂, H₂₄, and H₄₈ — four lower-constraint content-producing levels and one H₄₈ level. H₁ is excluded: with a single constraint there is no spectral differentiation, no degrees of freedom to range over. H₁ is the undifferentiated ground — norm, inner product, substrate — not a content generator. Content production begins at H₃, where the Trinitarian three-fold structure of Cl(3,0) grade 1 first yields a genuine spectral measure. 
+
+*GNST production rate scales with eigenspace size:* The content produced per eigenstate per unit time is constant — the GNST couples to each available eigenstate equally. But the total content produced per level per unit time is therefore proportional to the number of available eigenstates, i.e., to the eigenspace size. This is the density-of-states principle: more available final states → higher total actualization rate. H₃ (eigenspace size 16, in units where H₄₈ = 1) produces 16 units of content per unit time; H₆ produces 8; H₁₂ produces 4; H₂₄ produces 2; H₄₈ produces 1. 
+
+*Cascade efficiency from the halving function:* The halving function — subalgebra dimension halves at each grade transition in Cl(3,0) — sets the cascade efficiency at ½ per step. Of the total content at each level, half satisfies the next level's additional constraints and descends; half does not satisfy them and remains as dark matter at that level. This produces the following cascade:
+
+| Level | Own production | Cascade in | Total | Dark (stays) | Cascades to next |
+|---|---|---|---|---|---|
+| H₃ | 16 | 0 | 16 | 8 | 8 |
+| H₆ | 8 | 8 | 16 | 8 | 8 |
+| H₁₂ | 4 | 8 | 12 | 6 | 6 |
+| H₂₄ | 2 | 6 | 8 | 4 | 4 |
+| H₄₈ | 1 | 4 | 5 | — | 5 (baryonic) |
+
+Total dark matter: 8+8+6+4 = **26 units**. Total baryonic: **5 units**. Predicted ratio: **5.2:1**.
+
+The observed ratio is 5.4:1 -- a 3.7% discrepancy.
+
+*The Trogoautoegocrat correction (candidate for the residual gap):* The 0.2:1 gap between the structural prediction (5.2:1) and the observed ratio (5.4:1) is a natural candidate for the Trogoautoegocrat correction. The material circuit (Paper 7) continuously moves undeveloped H₄₈ content back into lower-constraint levels at physical death. Over cosmic time this shifts the equilibrium ratio slightly above the structural baseline. Whether the circuit's throughput accounts for exactly the residual 0.2:1 remains to be examined, but the direction is correct and the magnitude is small — consistent with the Trogoautoegocrat as a secondary correction rather than the primary explanatory mechanism.
+
+A three-sector picture is also structurally available: baryonic matter (H₄₈), dark matter (H₁ through H₂₄ dropout populations), and dark energy as Φ′-level content — the distributional domain above H, constitutively outside the constraint cascade. The observed 68%/27%/5% energy distribution maps onto Φ′/lower-constraint-dropout/H₄₈ content without additional stipulation. Whether Φ′-level content carries sufficient energy density to account for the cosmological constant remains to be examined. *(Mathematical development required for all three effects and their interaction.)*
 
 ---
 
