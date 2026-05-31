@@ -54,3 +54,4 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 [[Appendix/03 — Affliction, Practice, and the Creation Groaning|III — Affliction, Practice, and the Creation Groaning]]
 [[Appendix/04 — The Revelation of the Structure|IV — The Revelation of the Structure]]
 [[Appendix/05 — The Alchemical Tradition|V — The Alchemical Tradition]]
+[[Appendix/06 — The Eucharist: Transubstantiation|VI — The Eucharist: Transubstantiation]]
