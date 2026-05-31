@@ -96,9 +96,9 @@ export default (() => {
         <meta name="generator" content="Quartz" />
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
-        {/* Default to light mode: pre-populate localStorage before prescript.js runs,
-            so the darkmode plugin reads "light" when no user preference is saved yet. */}
-        <script dangerouslySetInnerHTML={{ __html: `(function(){if(!localStorage.getItem("saved-theme")){document.documentElement.setAttribute("saved-theme","light");localStorage.setItem("saved-theme","light");}})();` }} />
+        {/* Default to light mode: pre-populate localStorage before prescript.js runs.
+            The darkmode plugin reads localStorage key "theme" (not "saved-theme"). */}
+        <script dangerouslySetInnerHTML={{ __html: `(function(){if(!localStorage.getItem("theme")){document.documentElement.setAttribute("saved-theme","light");localStorage.setItem("theme","light");}})();` }} />
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
