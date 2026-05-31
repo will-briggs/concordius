@@ -6,12 +6,12 @@ html {
 }
 
 body {
-  letter-spacing: 0.03em;
+  letter-spacing: 0.02em;
 }
 
 // Blockquote left border — gold
 blockquote {
-  border-left-color: #D4AF37 !important;
+  border-left-color: #B8922E !important;
 }
 
 // Heading and title color
@@ -25,14 +25,18 @@ h1, h2, h3, h4, h5, h6 {
 
 // Link color overrides
 a {
-  color: #D4AF37 !important; // gold — unvisited
+  color: #B8922E !important; // gold — unvisited
 
   &:visited {
-    color: #C0C0C0 !important; // silver — visited
+    color: var(--dark) !important; // body text color — dark in light mode, light in dark mode
+  }
+
+  &:active {
+    color: #B8922E !important;
   }
 
   &:hover {
-    color: #D4AF37 !important;
+    color: #B8922E !important;
   }
 
   &.internal {
@@ -41,7 +45,7 @@ a {
     border-radius: 0 !important;
 
     &:visited {
-      color: #C0C0C0 !important;
+      color: var(--dark) !important;
     }
   }
 }
