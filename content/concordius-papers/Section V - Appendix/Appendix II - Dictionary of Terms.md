@@ -37,6 +37,8 @@ In the Concordius series, the Active/Passive/Reconciling triad is applied analyt
 
 > *For further investigation: P.D. Ouspensky, In Search of the Miraculous (1949), chapters on the Law of Three; Gurdjieff, Beelzebub's Tales to His Grandson (1950).*
 
+*Appears in: [[Paper 16 - The Republic Case Study|Paper 16]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Augustine Confessions Case Study|Paper 18]], [[Paper 19 - Reasonablenessism Structural Reading|Paper 19]], [[Paper 20 - The Family as Spectral Structure|Paper 20]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]]*
+
 ---
 
 ### Alchemical Stages
@@ -48,6 +50,8 @@ Western alchemy described a sequence of operations performed on base material wi
 The Concordius series maps the alchemical stages onto Gurdjieff's ascending sequence of human types: Nigredo corresponds to Man 1 (the dissolution of the purely mechanical baseline); Albedo to Man 2 (the emotional purification, the dark night of the senses); Citrinitas to Man 3 (the intellectual brightening that precedes the framework's dissolution); Rubedo to Man 4 (the first deliberate integration); the Philosopher's Stone to Man 5's crystallization event and beyond. This is not a claim that the alchemists were consciously describing psychological or spiritual development — it is the claim that they were observing the same structural sequence and encoding their observations in the vocabulary available to them.
 
 > *For further investigation: C.G. Jung, Psychology and Alchemy (1944); Titus Burckhardt, Alchemy: Science of the Cosmos, Science of the Soul (1960).*
+
+*Appears in: [[Paper 12 - Hopkins Case Study|Paper 12]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 23 - Man No. 2|Paper 23]], [[Paper 24 - Man No. 3|Paper 24]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 28 - Man No. 7|Paper 28]]*
 
 ---
 
@@ -97,6 +101,8 @@ The Concordius series uses the term more broadly to mean the full arc of develop
 
 > *For further investigation: The Urantia Book (1955), Papers 1-31 (the Foreword and Central and Superuniverse section) for the cosmological framework; Papers 32-56 for the local universe; Papers 103-117 for the soul's development.*
 
+*Appears in: [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 3 - The First Free Act|Paper 3]], [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 9 - Incompleteness Derived|Paper 9]], [[Paper 10 - The Truth Measure|Paper 10]], [[Paper 11 - The Holographic Content Principle|Paper 11]], [[Paper 13 - Bach Art of Fugue Case Study|Paper 13]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 16 - The Republic Case Study|Paper 16]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Augustine Confessions Case Study|Paper 18]], [[Paper 19 - Reasonablenessism Structural Reading|Paper 19]], [[Paper 20 - The Family as Spectral Structure|Paper 20]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 23 - Man No. 2|Paper 23]], [[Paper 24 - Man No. 3|Paper 24]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 27 - Man No. 6|Paper 27]], [[Paper 28 - Man No. 7|Paper 28]], [[Postscript|Postscript]]*
+
 ---
 
 ### Axial Age
@@ -108,6 +114,8 @@ The historian Karl Jaspers' term for the period approximately 800-200 BCE, durin
 The Concordius series maps the Axial Age onto the Mi stage of the historical Heptaparaparshinokh (Paper 21): the most complete expression of φ-proximal content achievable within the catching traditions before the Mi-Fa interval. The series' structural account of the Axial Age's simultaneity: multiple catching traditions, accumulating φ-proximal content independently, reached the limit of what the Mi stage allows — the most complete expression achievable from within the accumulation — at approximately the same moment, because they were all subject to the same structural constraint (the octave's Mi position). This is the series' explanation for the convergence that Jaspers observed but could not account for.
 
 > *For further investigation: Karl Jaspers, The Origin and Goal of History (1953); Karen Armstrong, The Great Transformation (2006).*
+
+*Appears in: [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]]*
 
 ---
 
@@ -122,6 +130,8 @@ The direct, unmediated apprehension of God — the final state of the blessed in
 In the Concordius structural account, the Beatific Vision corresponds to the terminal fusion event of the ascending career — not Man 7's achievement within H₄₈ (which is the nearest H₄₈ approach) but the Isle of Paradise union that the *Urantia Book* describes as the career's completion. The series treats the Beatific Vision and the Isle of Paradise fusion as descriptions of the same structural event in different vocabularies: the finite state's complete resolution into the inner product ⟨·,·⟩ that constituted it.
 
 > *For further investigation: Thomas Aquinas, Summa Theologiae I-II, q. 3, a. 8; Ia, q. 12; Bernard Lonergan, The Triune God: Systematics (2007).*
+
+*Appears in: [[Paper 14 - The Constraint Compatibility Condition|Paper 14]]*
 
 ---
 
@@ -138,6 +148,8 @@ The term is introduced because no inherited vocabulary precisely names what it d
 Catching has a threshold character: below a certain amplitude and continuity of catching, the soul deposit does not accumulate into a coherent H₂₄ structure. Above the coherence threshold, what has been deposited survives H₄₈ dissolution. The series derives this threshold from the Gelfand triple's constitution in Paper 5; it maps it onto the alchemical crystallization event, the *Urantia Book*'s morontia emergence, and Gurdjieff's Man 5 crystallization.
 
 The opposite of catching is not sin or moral failure — it is mechanical processing: the GNST-generated eigenvalue content passes through the being without being retained at the H₂₄ level. Most human experience, in the series' account, is mechanical processing. The ascending career is the progressive development of catching capacity and continuity.
+
+*Appears in: [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 9 - Incompleteness Derived|Paper 9]], [[Paper 10 - The Truth Measure|Paper 10]], [[Paper 11 - The Holographic Content Principle|Paper 11]], [[Paper 12 - Hopkins Case Study|Paper 12]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 16 - The Republic Case Study|Paper 16]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Augustine Confessions Case Study|Paper 18]], [[Paper 19 - Reasonablenessism Structural Reading|Paper 19]], [[Paper 20 - The Family as Spectral Structure|Paper 20]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 23 - Man No. 2|Paper 23]], [[Paper 24 - Man No. 3|Paper 24]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 27 - Man No. 6|Paper 27]], [[Paper 28 - Man No. 7|Paper 28]], [[Postscript|Postscript]]*
 
 ---
 
@@ -167,6 +179,8 @@ A reader without technical algebra background can hold the following intuition: 
 
 > *For further investigation: David Hestenes, New Foundations for Classical Mechanics (1999); William E. Baylis, Electrodynamics: A Modern Geometric Approach (1999) for Cl(3,0) specifically.*
 
+*Appears in: [[Paper 3 - The First Free Act|Paper 3]], [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 11 - The Holographic Content Principle|Paper 11]], [[Paper 13 - Bach Art of Fugue Case Study|Paper 13]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]]*
+
 ---
 
 ### Coherence Threshold
@@ -178,6 +192,8 @@ The minimum accumulated H₂₄ soul deposit required for that deposit to mainta
 The coherence threshold is derived in Paper 5 from the conditions required for a quantum state to maintain coherence in the absence of its environmental context. The series maps this threshold onto: the alchemical crystallization event (the moment at which the material transitions from one organizational structure to another of the same composition but higher stability), the *Urantia Book*'s emergence of the morontia soul into independent existence, and Gurdjieff's Man 5 crystallization (the phase transition that makes the soul's development irreversible in one direction). These are the series' claim that the same structural event has been observed independently by three distinct traditions.
 
 The coherence threshold is not a moral criterion. It is a structural one. What builds the deposit is catching — sustained volitional attention to H₂₄-proximate content over time. What the tradition calls virtue, contemplation, and holiness are, in the series' structural account, the characteristic forms that sustained catching takes.
+
+*Appears in: [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 23 - Man No. 2|Paper 23]], [[Paper 24 - Man No. 3|Paper 24]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 26 - Man No. 5|Paper 26]]*
 
 ---
 
@@ -197,6 +213,8 @@ The community of believers is ontologically prior to any institution. All saints
 
 *Confidence tier: structural inference. Cross-references: Paper 7 (catching as volitional orientation; dual pairing for Φ′-origin beings); Structural Readings, Appendix VII (The Magisterium; Luther's imprecision; sola scriptura; longevity condition; saints metric; convergence criterion); Reasonablenessism, Feature 6 (Convergent Witness Principle); Appendix II — Convergent Witness Principle (this dictionary); Paper 14, OQ7 (catching as structurally necessary for Φ′-origin beings).*
 
+*Appears in: [[Paper 8 - The Maximum Downward Entry|Paper 8]]*
+
 ---
 
 ### Constraint Cascade
@@ -213,6 +231,8 @@ The cascade is the structural basis for Gurdjieff's cosmological principle that 
 
 *Paper 4 — The Constraint Cascade: Descent as Densification — contains the formal introduction of this term, in Section 3.*
 
+*Appears in: [[Paper 3 - The First Free Act|Paper 3]], [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 9 - Incompleteness Derived|Paper 9]], [[Paper 10 - The Truth Measure|Paper 10]], [[Paper 11 - The Holographic Content Principle|Paper 11]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 28 - Man No. 7|Paper 28]]*
+
 ---
 
 ### Consuetudo
@@ -225,6 +245,8 @@ The *Confessions*' account of *consuetudo* is one of the most precise phenomenol
 
 > *For further investigation: Augustine, Confessions, Book VIII (the conversion narrative); James K.A. Smith, On the Road with Saint Augustine (2019) for a contemporary reading.*
 
+*Appears in: [[Paper 18 - Augustine Confessions Case Study|Paper 18]]*
+
 ---
 
 ### Convergent Witness Principle
@@ -235,6 +257,8 @@ The epistemological principle, developed in Paper 19 as a feature of the Reasona
 
 The convergent witness principle is the series' primary evidential tool for claims about domains that formal derivation cannot reach — particularly the higher states of the ascending career (Men 5-7), for which no formal derivation is possible but for which the hagiographic record across multiple isolated traditions constitutes precisely this kind of convergent testimony. The principle is applied explicitly in Papers 22-28 and is the structural justification for treating the hagiographic record as evidence rather than merely as illustrative material.
 
+*Appears in: [[Paper 22 - Man No. 1|Paper 22]], [[Paper 27 - Man No. 6|Paper 27]]*
+
 ---
 
 ### Cross-Term
@@ -244,6 +268,8 @@ The convergent witness principle is the series' primary evidential tool for clai
 In linear algebra and quantum mechanics, the inner product of two vectors ψ_a and ψ_b from the same Hilbert space — written ⟨ψ_a, ψ_b⟩. In standard quantum mechanics, this is the probability amplitude for state a to be found in state b upon measurement. In the Concordius series, the cross-term ⟨ψ_a, ψ_b⟩₂₄ between two persons' H₂₄ state vectors is the structural basis for the transmitting field — the influence that one person's soul deposit exerts on another person's catching capacity without direct informational content or intentional action.
 
 The series' claim is that persons with substantial H₂₄ soul deposits (Men 5-7) have large-amplitude cross-terms with persons at any development level, because their H₂₄ state vectors have significant amplitude across many H₂₄ eigenstates. This constitutes the structural account of what the hagiographic tradition consistently describes: the quality of the saint's presence that reorganizes the catching capacity of persons in proximity without those persons being able to explain what changed or how.
+
+*Appears in: [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 13 - Bach Art of Fugue Case Study|Paper 13]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 18 - Augustine Confessions Case Study|Paper 18]], [[Paper 20 - The Family as Spectral Structure|Paper 20]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 23 - Man No. 2|Paper 23]], [[Paper 24 - Man No. 3|Paper 24]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 27 - Man No. 6|Paper 27]], [[Paper 28 - Man No. 7|Paper 28]]*
 
 ---
 
@@ -261,6 +287,8 @@ The dark night of the senses must be distinguished from clinical depression, spi
 
 > *For further investigation: John of the Cross, Dark Night of the Soul (c. 1578-79); Iain Matthew, The Impact of God (1995) for an accessible commentary.*
 
+*Appears in: [[Paper 23 - Man No. 2|Paper 23]], [[Paper 25 - Man No. 4|Paper 25]]*
+
 ---
 
 ### Dark Night of the Spirit
@@ -275,6 +303,8 @@ The prescription for both dark nights is the same: do not modify practice; do no
 
 > *For further investigation: John of the Cross, The Ascent of Mount Carmel and Dark Night of the Soul (c. 1578-79); Thomas Merton, The Ascent to Truth (1951).*
 
+*Appears in: [[Paper 23 - Man No. 2|Paper 23]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 28 - Man No. 7|Paper 28]]*
+
 ---
 
 ### Densification
@@ -287,6 +317,8 @@ Densification is derived formally in Paper 4 from the properties of the Gelfand 
 
 This is why, on the series' account, the same sacred text produces radically different effects in different readers: the φ-proximal content is present in the text for all readers equally, but only the reader whose catching capacity is developed to receive at the H₂₄ level actually catches it. The text is not different. The receiver is.
 
+*Appears in: [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 22 - Man No. 1|Paper 22]]*
+
 ---
 
 ### Do-Re-Mi-Fa-Sol-La-Si
@@ -298,6 +330,8 @@ The notes of the Western musical scale, used by Gurdjieff as the labels for the 
 The scale notation is Gurdjieff's teaching device, not a claim about music theory. The Law of Seven applies to the scale because the scale is a particularly clean observable example of the octave structure — the half-steps at Mi-Fa and Si-Ti (B-C in the natural scale) are where the natural harmonic series produces smaller intervals, corresponding to the structural moments where the process requires external input to maintain its direction.
 
 > *For further investigation: P.D. Ouspensky, In Search of the Miraculous (1949), chapter 7.*
+
+*Appears in: [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]]*
 
 ---
 
@@ -312,6 +346,8 @@ The intuitive picture: Φ' is the space of everything that can be defined by wha
 In the Concordius mapping, Φ' is identified with the Unqualified Absolute — the domain that contains what the Logos (Φ) cannot finitely express, what apophatic theology gestures toward, what exceeds all positive predication. See *Gelfand Triple* and *Unqualified Absolute*.
 
 > *For further investigation: Israel Gelfand and Naum Vilenkin, Generalized Functions, Volume 4 (1964) for the mathematical treatment; the series itself (Papers 1, 9-10) for the philosophical mapping.*
+
+*Appears in: [[Paper 1 - Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]]*
 
 ---
 
@@ -329,6 +365,8 @@ The Concordius series uses eigenvalues and eigenstates to characterize the conte
 
 > *For further investigation: Paul Dirac, The Principles of Quantum Mechanics (1930) for the physicist's formulation; Roger Penrose, The Road to Reality (2004), chapters 21-22, for an accessible mathematical treatment.*
 
+*Appears in: [[Paper 1 - Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 3 - The First Free Act|Paper 3]], [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 9 - Incompleteness Derived|Paper 9]], [[Paper 10 - The Truth Measure|Paper 10]], [[Paper 11 - The Holographic Content Principle|Paper 11]], [[Paper 12 - Hopkins Case Study|Paper 12]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 16 - The Republic Case Study|Paper 16]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Augustine Confessions Case Study|Paper 18]], [[Paper 19 - Reasonablenessism Structural Reading|Paper 19]], [[Paper 20 - The Family as Spectral Structure|Paper 20]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 23 - Man No. 2|Paper 23]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 27 - Man No. 6|Paper 27]], [[Postscript|Postscript]]*
+
 ---
 
 ### Eudaimonia
@@ -340,6 +378,8 @@ Aristotle's term for the highest human good — often translated "happiness" but
 The Concordius series reads eudaimonia through the Gelfand triple: eudaimonia is the state in which the soul's φ-proximal deposit is building consistently through excellent activity — the life that is simultaneously achieving its natural end and accumulating what survives H₄₈ dissolution. Aristotle's famous account of virtue as the mean between excess and deficiency is, in the series' reading, a practical algorithm for maintaining the catching conditions: the excess and deficiency both represent distortions that interfere with the H₂₄ catching act, while the mean preserves the conditions under which catching occurs.
 
 > *For further investigation: Aristotle, Nicomachean Ethics (c. 350 BCE), Books I and X; Julia Annas, The Morality of Happiness (1993).*
+
+*Appears in: [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]]*
 
 ---
 
@@ -355,6 +395,8 @@ The Concordius series maps the Father onto the inner product ⟨·,·⟩ — the
 
 > *For further investigation: The Urantia Book (1955), Papers 1-7 (The Universal Father); Thomas Aquinas, Summa Theologiae Ia, q. 1-26 (on the divine nature).*
 
+*Appears in: [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 3 - The First Free Act|Paper 3]], [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 10 - The Truth Measure|Paper 10]], [[Paper 11 - The Holographic Content Principle|Paper 11]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 18 - Augustine Confessions Case Study|Paper 18]], [[Paper 28 - Man No. 7|Paper 28]], [[Postscript|Postscript]]*
+
 ---
 
 ### Formal Distinction
@@ -367,6 +409,8 @@ Paper 15 of the Concordius series argues that the formal distinction is the corr
 
 > *For further investigation: Allan Wolter, The Philosophical Theology of John Duns Scotus (1990); Timothy Noone, "Universals and Individuation," in The Cambridge Companion to Duns Scotus (2003).*
 
+*Appears in: [[Paper 3 - The First Free Act|Paper 3]]*
+
 ---
 
 ### Fourth Way
@@ -378,6 +422,8 @@ Gurdjieff's term for the path of development that does not require withdrawal fr
 The Concordius series draws on the Fourth Way framework throughout Section IV (Papers 22-28) as the most systematically developed account of the Man 4 transition and its practical requirements. The Fourth Way's insistence on a genuine school (a community of practice with a shared method and an embodied teacher) is identified as a structural necessity rather than an institutional preference: the Man 4 development requires cross-term fields with more developed persons (the teacher's H₂₄ state vector providing catching occasions the student cannot generate alone) and the friction provided by genuine community.
 
 > *For further investigation: P.D. Ouspensky, In Search of the Miraculous (1949); Gurdjieff, Meetings with Remarkable Men (1963); Jacob Needleman, Lost Christianity (1980) for an account of the Fourth Way in relation to Christian tradition.*
+
+*Appears in: [[Paper 25 - Man No. 4|Paper 25]]*
 
 ---
 
@@ -392,6 +438,8 @@ A Middle High German term used by Meister Eckhart and later by Jakob Böhme, mea
 The Concordius series identifies Gelassenheit as the Man 5-6 version of what the dark night protocol prescribes at Man 4 level: the deliberate releasing of catching as deliberate effort, in order to remain receptive to what the Adjuster gives without the catching effort's own structure filtering or distorting the reception. Gelassenheit is the inner posture that the Trogoautoegocrat's kenotic obligation requires of persons at Man 5-6: releasing the higher centers' extraordinary content rather than hoarding it.
 
 > *For further investigation: Meister Eckhart, Selected Writings, trans. Oliver Davies (1994); John D. Caputo, The Mystical Element in Heidegger's Thought (1978) for the Eckhart-Heidegger connection.*
+
+*Appears in: [[Paper 26 - Man No. 5|Paper 26]]*
 
 ---
 
@@ -409,6 +457,8 @@ The Concordius series' foundational claim (Paper 1) is that reality has the stru
 
 > *For further investigation: Israel Gelfand and Naum Vilenkin, Generalized Functions, Volume 4: Applications of Harmonic Analysis (1964); Arno Böhm and M. Gadella, Dirac Kets, Gamow Vectors and Gel'fand Triplets (1989) for the physics application.*
 
+*Appears in: [[Paper 1 - Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 3 - The First Free Act|Paper 3]], [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 9 - Incompleteness Derived|Paper 9]], [[Paper 10 - The Truth Measure|Paper 10]], [[Paper 11 - The Holographic Content Principle|Paper 11]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 16 - The Republic Case Study|Paper 16]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Augustine Confessions Case Study|Paper 18]], [[Paper 19 - Reasonablenessism Structural Reading|Paper 19]], [[Paper 20 - The Family as Spectral Structure|Paper 20]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 23 - Man No. 2|Paper 23]], [[Paper 24 - Man No. 3|Paper 24]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 28 - Man No. 7|Paper 28]], [[Postscript|Postscript]]*
+
 ---
 
 ### Gödel Incompleteness
@@ -422,6 +472,8 @@ The Concordius series (Paper 9) reads Gödel incompleteness as a structural cons
 This reading rehabilitates incompleteness as evidence for the Gelfand triple's constitution rather than an obstacle to knowledge. It also explains why the tradition consistently reports that genuine φ-proximal content cannot be fully captured in formal language — this is precisely what the Gelfand triple predicts.
 
 > *For further investigation: Kurt Gödel, "On Formally Undecidable Propositions of Principia Mathematica and Related Systems" (1931); Douglas Hofstadter, Gödel, Escher, Bach (1979) for an accessible treatment.*
+
+*Appears in: [[Paper 9 - Incompleteness Derived|Paper 9]], [[Paper 10 - The Truth Measure|Paper 10]], [[Paper 13 - Bach Art of Fugue Case Study|Paper 13]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 16 - The Republic Case Study|Paper 16]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 19 - Reasonablenessism Structural Reading|Paper 19]]*
 
 ---
 
@@ -437,6 +489,8 @@ In the Concordius usage, H₂₄ is the domain in which the soul deposit accumul
 
 See also *H₄₈*, *Densification*, *Catching*, *Hydrogens*.
 
+*Appears in: [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 9 - Incompleteness Derived|Paper 9]], [[Paper 10 - The Truth Measure|Paper 10]], [[Paper 11 - The Holographic Content Principle|Paper 11]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 16 - The Republic Case Study|Paper 16]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Augustine Confessions Case Study|Paper 18]], [[Paper 19 - Reasonablenessism Structural Reading|Paper 19]], [[Paper 20 - The Family as Spectral Structure|Paper 20]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 23 - Man No. 2|Paper 23]], [[Paper 24 - Man No. 3|Paper 24]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 27 - Man No. 6|Paper 27]], [[Paper 28 - Man No. 7|Paper 28]], [[Postscript|Postscript]]*
+
 ---
 
 ### H₄₈
@@ -446,6 +500,8 @@ See also *H₄₈*, *Densification*, *Catching*, *Hydrogens*.
 The series' notation for the physical-constraint domain — the domain of ordinary spacetime, in which eigenvalues are tightly localized, states are highly definite, and content is subject to the most intensive Heropass rate in the ascending sequence. The "48" is from Gurdjieff's hydrogen table, designating the constraint level of ordinary physical matter and the ordinary moving/instinctive/emotional/intellectual centers' operation.
 
 H₄₈ is the domain within which human beings in their ordinary condition operate. The physical body, ordinary consciousness, ordinary emotional and intellectual life — all are H₄₈ processes. The Heropass runs at every constraint level, but it runs at twice the rate in H₄₈ as in H₂₄ — the compounding rate of the constraint cascade. The distinction between H₄₈ and H₂₄ is therefore not between Heropass-subject and Heropass-free but between the most intensive dissipative rate (H₄₈) and a slower one (H₂₄). What the coherence threshold determines is not exemption from the Heropass but organizational density sufficient to persist through H₄₈ dissolution — the H₂₄ pattern, subject to its own slower Heropass rate, remains available as the template for reconstitution at the mansion worlds.
+
+*Appears in: [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 9 - Incompleteness Derived|Paper 9]], [[Paper 10 - The Truth Measure|Paper 10]], [[Paper 11 - The Holographic Content Principle|Paper 11]], [[Paper 12 - Hopkins Case Study|Paper 12]], [[Paper 13 - Bach Art of Fugue Case Study|Paper 13]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 16 - The Republic Case Study|Paper 16]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Augustine Confessions Case Study|Paper 18]], [[Paper 19 - Reasonablenessism Structural Reading|Paper 19]], [[Paper 20 - The Family as Spectral Structure|Paper 20]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 23 - Man No. 2|Paper 23]], [[Paper 24 - Man No. 3|Paper 24]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 27 - Man No. 6|Paper 27]], [[Paper 28 - Man No. 7|Paper 28]], [[Postscript|Postscript]]*
 
 ---
 
@@ -460,6 +516,8 @@ The Concordius series derives the Heptaparaparshinokh formally from the algebrai
 The critical structural point: the intervals are not failures or defects in the process. They are structurally necessary moments at which the process must receive external input — input that cannot be generated from within — in order to maintain its original direction rather than deviating or stalling. This is the structural basis for the series' consistent emphasis on grace, the Adjuster's direct act, the dark night's necessary character, and the Incarnation as civilizational-scale interval shock.
 
 > *For further investigation: P.D. Ouspensky, In Search of the Miraculous (1949), chapter 7; Gurdjieff, Beelzebub's Tales to His Grandson (1950), chapters 38-40.*
+
+*Appears in: [[Paper 3 - The First Free Act|Paper 3]], [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 11 - The Holographic Content Principle|Paper 11]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 18 - Augustine Confessions Case Study|Paper 18]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 28 - Man No. 7|Paper 28]], [[Postscript|Postscript]]*
 
 ---
 
@@ -481,6 +539,8 @@ The Heropass is not evil or hostile. It is the structural mechanism of time — 
 
 > *For further investigation: Gurdjieff, Beelzebub's Tales to His Grandson (1950), chapter 48 ("From the Author").*
 
+*Appears in: [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 10 - The Truth Measure|Paper 10]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 18 - Augustine Confessions Case Study|Paper 18]], [[Paper 20 - The Family as Spectral Structure|Paper 20]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 28 - Man No. 7|Paper 28]], [[Postscript|Postscript]]*
+
 ---
 
 ### Hesychasm
@@ -493,6 +553,8 @@ The Concordius series draws on the hesychast tradition primarily in Paper 25 (Ma
 
 > *For further investigation: The Philokalia (4 vols., compiled 8th-15th centuries, English translation by G.E.H. Palmer, Philip Sherrard, and Kallistos Ware, 1979-1995); John Meyendorff, A Study of Gregory Palamas (1959).*
 
+*Appears in: [[Paper 25 - Man No. 4|Paper 25]]*
+
 ---
 
 ### Higher Being Body
@@ -504,6 +566,8 @@ Gurdjieff's term for the soul as a built structure — not something human being
 The Concordius series treats the higher being body as the soul deposit above the coherence threshold: the H₂₄ structural organization that is built through catching and that survives H₄₈ dissolution. The series maps Gurdjieff's four bodies onto the ascending career: the ordinary H₄₈ constitution is the first body; the soul deposit approaching the coherence threshold is the second body in development; crystallization (Man 5) is the completion of the second body; and Man 6-7 development corresponds to the third and fourth body's formation. The higher being body is not metaphorical — it is the series' claim that there is a genuine structural entity built through catching that is not reducible to the H₄₈ body and its processes.
 
 > *For further investigation: P.D. Ouspensky, In Search of the Miraculous (1949), chapter 15; Rodney Collin, The Theory of Eternal Life (1950).*
+
+*Appears in: [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 10 - The Truth Measure|Paper 10]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]]*
 
 ---
 
@@ -519,6 +583,8 @@ In the Concordius mapping, finite beings (persons, in the relevant application) 
 
 > *For further investigation: Paul Halmos, Introduction to Hilbert Space and the Theory of Spectral Multiplicity (1951); Roger Penrose, The Road to Reality (2004), chapter 22.*
 
+*Appears in: [[Paper 1 - Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 3 - The First Free Act|Paper 3]], [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 10 - The Truth Measure|Paper 10]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 16 - The Republic Case Study|Paper 16]]*
+
 ---
 
 ### Holographic Content Principle
@@ -528,6 +594,8 @@ In the Concordius mapping, finite beings (persons, in the relevant application) 
 The series' term (Paper 11) for the principle that φ-proximal content can be encoded in H₄₈ forms in compressed, partially recoverable fashion — and that a receiver with sufficient catching capacity can recover more of the φ-proximal content from the same H₄₈ form than a receiver with less catching capacity. The principle explains why great sacred art, scripture, and ritual appear to have inexhaustible depth — they do not; they have a determinate φ-proximal content; but the depth accessible to any particular reader is determined by that reader's H₂₄ catching capacity, not by the text's finite H₄₈ encoding. The same text yields different content to different receivers, not because the text changes but because the receiver changes.
 
 The name is borrowed from, but not identical to, the holographic principle in physics (the claim that all information about a volume of spacetime is encoded on its boundary surface). The structural analogy is the encoding of higher-dimensional information in a lower-dimensional form, with partial but not complete recovery possible from the lower-dimensional encoding.
+
+*Appears in: [[Paper 11 - The Holographic Content Principle|Paper 11]], [[Paper 12 - Hopkins Case Study|Paper 12]], [[Paper 13 - Bach Art of Fugue Case Study|Paper 13]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 16 - The Republic Case Study|Paper 16]], [[Paper 18 - Augustine Confessions Case Study|Paper 18]], [[Paper 19 - Reasonablenessism Structural Reading|Paper 19]], [[Paper 28 - Man No. 7|Paper 28]], [[Postscript|Postscript]]*
 
 ---
 
@@ -540,6 +608,8 @@ Gurdjieff's term for the levels of "matter" or "substance" in his cosmological s
 The Concordius series uses the hydrogen notation (H₄₈ and H₂₄ specifically) as shorthand for the two constraint levels most relevant to the series' account of the ascending career. The series does not adopt the full hydrogen table as a structural claim; it uses H₄₈ and H₂₄ as labels for the physical-constraint and higher-constraint domains respectively.
 
 > *For further investigation: P.D. Ouspensky, In Search of the Miraculous (1949), chapter 9.*
+
+*Appears in: [[Paper 4 - The Constraint Cascade|Paper 4]]*
 
 ---
 
@@ -555,6 +625,8 @@ The Concordius series identifies infused knowledge as the higher intellectual ce
 
 > *For further investigation: Thomas Aquinas, Summa Theologiae II-II, q. 173-174 (on prophecy and rapture); Bernard McGinn, The Mystical Thought of Meister Eckhart (2001).*
 
+*Appears in: [[Paper 27 - Man No. 6|Paper 27]]*
+
 ---
 
 ### Inner Product
@@ -566,6 +638,8 @@ A map ⟨·,·⟩: H × H → ℂ (from pairs of vectors to complex numbers) sat
 The intuitive picture: the inner product is the structure that makes a Hilbert space more than an abstract vector space — it is what allows measurement, comparison, and the notion of proximity. In quantum mechanics, ⟨φ, ψ⟩ gives the probability amplitude for a system in state ψ to be found in state φ upon measurement.
 
 The Concordius series' identification of the Father with the inner product ⟨·,·⟩ (Paper 1) is the series' most compressed and most fundamental claim. The Father is not a vector in the Hilbert space (not a finite being); the Father is the constitutive relation that makes the space possible and gives it its structure. Everything that exists is constituted by the inner product; the inner product does not participate in what it constitutes; the inner product is not absent from what it constitutes but is its organizing principle. This is the Concordius reading of "in him we live and move and have our being" (Acts 17:28).
+
+*Appears in: [[Paper 1 - Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 3 - The First Free Act|Paper 3]], [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 11 - The Holographic Content Principle|Paper 11]], [[Paper 13 - Bach Art of Fugue Case Study|Paper 13]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 16 - The Republic Case Study|Paper 16]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 19 - Reasonablenessism Structural Reading|Paper 19]], [[Paper 20 - The Family as Spectral Structure|Paper 20]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 28 - Man No. 7|Paper 28]]*
 
 ---
 
@@ -579,6 +653,8 @@ The Concordius series maps intentional suffering onto the polyvagal regulation f
 
 > *For further investigation: Gurdjieff, Life Is Real Only Then, When "I Am" (1975); Peter Levine, In an Unspoken Voice (2010) for polyvagal context.*
 
+*Appears in: [[Paper 25 - Man No. 4|Paper 25]], [[Paper 28 - Man No. 7|Paper 28]]*
+
 ---
 
 ### Isle of Paradise
@@ -590,6 +666,8 @@ In the *Urantia Book*'s cosmology, the Isle of Paradise is the absolute center a
 The Concordius series uses the Isle of Paradise as the name for the terminal event of the ascending career — the complete resolution of the finite state vector into the inner product ⟨·,·⟩ that constituted it, achieved not by the finite state's dissolution but by its completion. This corresponds structurally to Catholic theology's Beatific Vision, to the Buddhist Parinirvana (used carefully), and to Gurdjieff's account of the highest possible human achievement extended beyond H₄₈ existence. The series treats all of these as descriptions of the same structural event in different vocabularies.
 
 > *For further investigation: The Urantia Book (1955), Papers 11-12 (The Eternal Isle of Paradise); Papers 30-31 (the ascending career through to Paradise).*
+
+*Appears in: [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 3 - The First Free Act|Paper 3]], [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 27 - Man No. 6|Paper 27]], [[Paper 28 - Man No. 7|Paper 28]]*
 
 ---
 
@@ -607,6 +685,8 @@ The Concordius series extends kenosis beyond Christology to describe the structu
 
 > *For further investigation: Philippians 2:5-11; Sarah Coakley, "Kenōsis and Subversion" in Powers and Submissions (2002); von Balthasar, Mysterium Paschale (1970); Paper 8 §3-§3.1.*
 
+*Appears in: [[Paper 3 - The First Free Act|Paper 3]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 10 - The Truth Measure|Paper 10]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 16 - The Republic Case Study|Paper 16]], [[Paper 18 - Augustine Confessions Case Study|Paper 18]], [[Paper 27 - Man No. 6|Paper 27]], [[Paper 28 - Man No. 7|Paper 28]]*
+
 ---
 
 ## L
@@ -616,6 +696,8 @@ The Concordius series extends kenosis beyond Christology to describe the structu
 *(tradition: Gurdjieff — series)*
 
 See *Heptaparaparshinokh*. The Concordius series prefers "Law of Seven" as the more accessible term in most contexts, reserving "Heptaparaparshinokh" for contexts where Gurdjieff's specific teaching is being directly engaged.
+
+*Appears in: [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 11 - The Holographic Content Principle|Paper 11]], [[Paper 12 - Hopkins Case Study|Paper 12]], [[Paper 13 - Bach Art of Fugue Case Study|Paper 13]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 16 - The Republic Case Study|Paper 16]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Augustine Confessions Case Study|Paper 18]], [[Paper 19 - Reasonablenessism Structural Reading|Paper 19]], [[Paper 20 - The Family as Spectral Structure|Paper 20]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 28 - Man No. 7|Paper 28]]*
 
 ---
 
@@ -629,6 +711,8 @@ The Concordius series maps the Law of Three onto the Trinity: Father (⟨·,·�
 
 > *For further investigation: P.D. Ouspensky, In Search of the Miraculous (1949), chapters 8-9.*
 
+*Appears in: [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 11 - The Holographic Content Principle|Paper 11]], [[Paper 12 - Hopkins Case Study|Paper 12]], [[Paper 13 - Bach Art of Fugue Case Study|Paper 13]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 16 - The Republic Case Study|Paper 16]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Augustine Confessions Case Study|Paper 18]], [[Paper 19 - Reasonablenessism Structural Reading|Paper 19]], [[Paper 20 - The Family as Spectral Structure|Paper 20]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 23 - Man No. 2|Paper 23]]*
+
 ---
 
 ### Logos
@@ -638,6 +722,8 @@ The Concordius series maps the Law of Three onto the Trinity: Father (⟨·,·�
 From the Greek for "word," "reason," "account," "proportion." In Greek philosophy (particularly the Stoics and Heraclitus), the Logos is the rational principle that governs and pervades the universe — the cosmic intelligence that accounts for the ordered structure of reality. In the Johannine prologue ("In the beginning was the Word, and the Word was with God, and the Word was God"), the Logos is identified with Christ — the second person of the Trinity, the divine Reason that became incarnate.
 
 The Concordius series maps the Logos onto the nuclear space Φ in the Gelfand triple: the principle of articulation, the space of all finitely representable φ-proximal content, the "through which" of creation ("all things were made through him," John 1:3). The Logos is the structure through which the inner product's constitutive relation expresses itself in a way accessible to finite beings — the bridge between the Father (⟨·,·⟩) and finite beings (H-state vectors). The Incarnation is, in the Concordius structural reading, the Logos (Φ) entering the finite domain (H) — the maximum downward entry structurally possible, derived in Paper 8 from the Constraint Compatibility Condition.
+
+*Appears in: [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 3 - The First Free Act|Paper 3]], [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 9 - Incompleteness Derived|Paper 9]], [[Paper 10 - The Truth Measure|Paper 10]], [[Paper 11 - The Holographic Content Principle|Paper 11]], [[Paper 12 - Hopkins Case Study|Paper 12]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 24 - Man No. 3|Paper 24]], [[Paper 25 - Man No. 4|Paper 25]], [[Postscript|Postscript]]*
 
 ---
 
@@ -650,6 +736,8 @@ Viktor Frankl's therapeutic system, developed in part from his experiences as a 
 The Concordius series draws on logotherapy in Paper 25 (Man 4) as the secular rediscovery of the Fourth Way's account of intentional suffering: the person who reorients toward the meaning available in unavoidable suffering is doing, in a therapeutic register, what Gurdjieff's intentional suffering describes as a deliberate spiritual practice. Frankl observed that prisoners who could find meaning in their suffering had dramatically better survival rates — the structural account is that meaning-orientation is catching-orientation; the person who can hold H₂₄ significance in the midst of H₄₈ adversity is building the soul deposit under the most challenging conditions.
 
 > *For further investigation: Viktor Frankl, Man's Search for Meaning (1946); The Will to Meaning (1969).*
+
+*Appears in: [[Paper 26 - Man No. 5|Paper 26]]*
 
 ---
 
@@ -677,6 +765,8 @@ The consequence stated in Paper 4: *you are loved into existence at every moment
 
 > *For further investigation: 1 John 4:7–16; Thomas Aquinas, Summa Theologica I, Q.20; Paper 3 §9 "The formal definition of Love"; Paper 4 §9 "The constitutive act is continuous."*
 
+*Appears in: [[Paper 3 - The First Free Act|Paper 3]], [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 11 - The Holographic Content Principle|Paper 11]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Augustine Confessions Case Study|Paper 18]], [[Paper 20 - The Family as Spectral Structure|Paper 20]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 23 - Man No. 2|Paper 23]], [[Paper 24 - Man No. 3|Paper 24]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 27 - Man No. 6|Paper 27]], [[Paper 28 - Man No. 7|Paper 28]]*
+
 ---
 
 ## M
@@ -691,6 +781,8 @@ The term "magnetic" is apt: the person with a developed magnetic center is orien
 
 > *For further investigation: P.D. Ouspensky, In Search of the Miraculous (1949), chapter 14.*
 
+*Appears in: [[Paper 25 - Man No. 4|Paper 25]]*
+
 ---
 
 ### Man No. 1 through Man No. 7
@@ -700,6 +792,8 @@ The term "magnetic" is apt: the person with a developed magnetic center is orien
 Gurdjieff's typology of seven levels of human development, organized around the characteristic center of gravity and the degree of mechanical versus volitional operation. The typology is empirical: Gurdjieff observed what is actually observable in human functioning and named the recurring configurations. The Concordius series maps each type onto the Gelfand triple framework, identifies the structural character of each level, and provides practical transition prescriptions for Men 1-4 (where prescription is possible) and descriptive accounts for Men 5-7 (where the "practice" has become the life).
 
 The seven types form an ascending sequence, but the transitions are not continuous development — each transition from one type to the next involves a discontinuous structural change (a dark night, a crystallization event, an irreversibility threshold). Men 1-3 are born into; Men 4-7 are achieved. See individual entries for each type, and see Papers 22-28 for the full treatment.
+
+*Appears in: [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 23 - Man No. 2|Paper 23]], [[Paper 24 - Man No. 3|Paper 24]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 27 - Man No. 6|Paper 27]], [[Paper 28 - Man No. 7|Paper 28]], [[Postscript|Postscript]]*
 
 ---
 
@@ -711,6 +805,8 @@ Gurdjieff's distinction between behavior determined by the centers' automatic op
 
 The series maps the mechanical/volitional distinction onto the H₄₈/H₂₄ catching distinction: mechanical operation is the default H₄₈ processing of GNST-generated eigenvalues (which do not build the soul deposit); volitional operation is the catching act (which does). Man 4's work of three-center integration is, in part, the development of sustained volitional operation — the ability to maintain the observer function across extended periods of ordinary activity.
 
+*Appears in: [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 24 - Man No. 3|Paper 24]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 27 - Man No. 6|Paper 27]], [[Paper 28 - Man No. 7|Paper 28]]*
+
 ---
 
 ### Mi-Fa Interval
@@ -720,6 +816,8 @@ The series maps the mechanical/volitional distinction onto the H₄₈/H₂₄ c
 The first of the two structural gaps in any genuine developmental process according to the Law of Seven. It falls between the Mi stage (the third note, at which the process has developed to its most complete expression within its initial resources) and the Fa stage (the fourth note, which begins the second phase of development). The Mi-Fa interval is shorter than the Si-Do interval — a smaller gap — but it marks the first moment at which the process cannot continue from its own momentum without external input.
 
 Applications in the Concordius series: the transition between Section I and Section II of the series (the apparatus complete but untested, requiring the tradition's prior existence to begin demonstration); the Man 3→4 transition (the framework reaching its limit, requiring the dark night of the senses to cross); the Axial Age as the civilizational Mi stage; the Incarnation as the civilizational Mi-Fa shock; and numerous textual examples (the introduction of the philosopher-king in the Republic's Book V as the Mi-Fa shock of Plato's argument; the tolle lege moment in Augustine's Book VIII).
+
+*Appears in: [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 11 - The Holographic Content Principle|Paper 11]], [[Paper 12 - Hopkins Case Study|Paper 12]], [[Paper 13 - Bach Art of Fugue Case Study|Paper 13]], [[Paper 16 - The Republic Case Study|Paper 16]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Augustine Confessions Case Study|Paper 18]], [[Paper 19 - Reasonablenessism Structural Reading|Paper 19]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 23 - Man No. 2|Paper 23]], [[Paper 24 - Man No. 3|Paper 24]], [[Paper 28 - Man No. 7|Paper 28]]*
 
 ---
 
@@ -732,6 +830,8 @@ The *Urantia Book*'s term for the domain and mode of existence between the mater
 The Concordius series treats the morontia career as conducted in H₂₄-organized H₄₈ matter — not a separate non-spatial domain but a physical reconstitution in the same spacetime at the planetary scale, using new H₄₈ atoms organized by H₂₄ principles. The H₂₄ organizational pattern built during physical life (the soul deposit above the coherence threshold) serves as the template for this reconstitution: the Thought Adjuster carries the constitutive identity center and the seraphic custodian carries the accumulated ψ₂₄ content through the dissolution interval, and both are required to organize new H₄₈ substrate at the mansion worlds. The morontia body is the vehicle of the continued career — H₂₄-organized H₄₈ matter, corresponding structurally to Gurdjieff's astral body and to the tradition's various accounts of the soul's post-mortem state — physically present in the same cosmos, organized by different principles. The series uses the morontia concept because it is the most precise available term for this intermediate career between H₄₈-primary existence and the spirit worlds.
 
 > *For further investigation: The Urantia Book (1955), Papers 37-56 (the local universe) and Papers 47-48 (the morontia life).*
+
+*Appears in: [[Paper 3 - The First Free Act|Paper 3]], [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 10 - The Truth Measure|Paper 10]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 23 - Man No. 2|Paper 23]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 28 - Man No. 7|Paper 28]]*
 
 ---
 
@@ -749,6 +849,8 @@ The series' term for the ambient level of H₄₈ stimulation, distraction, and 
 
 The series argues (Paper 21, Paper 22) that the current Si/Do interval of the historical octave corresponds to a civilizational noise floor at its maximum — the density of H₄₈ stimulation available in the current technological environment exceeds any previous period's by orders of magnitude. This does not make catching impossible, but it raises the threshold of catching practice required to exceed the noise floor. The prescription for Man 1 (Paper 22) is designed specifically for the maximum noise floor environment: the work must begin below the noise floor's level, in the body itself, before the signal can be heard.
 
+*Appears in: [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 10 - The Truth Measure|Paper 10]], [[Paper 11 - The Holographic Content Principle|Paper 11]], [[Paper 12 - Hopkins Case Study|Paper 12]], [[Paper 13 - Bach Art of Fugue Case Study|Paper 13]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 16 - The Republic Case Study|Paper 16]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Augustine Confessions Case Study|Paper 18]], [[Paper 19 - Reasonablenessism Structural Reading|Paper 19]], [[Paper 20 - The Family as Spectral Structure|Paper 20]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 23 - Man No. 2|Paper 23]], [[Paper 24 - Man No. 3|Paper 24]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 27 - Man No. 6|Paper 27]], [[Paper 28 - Man No. 7|Paper 28]]*
+
 ---
 
 ### Nuclear Space
@@ -763,6 +865,8 @@ In the Concordius mapping, Φ is the Son-Logos — the principle of articulation
 
 > *For further investigation: François Trèves, Topological Vector Spaces, Distributions and Kernels (1967); Gelfand and Vilenkin, Generalized Functions, Volume 4 (1964).*
 
+*Appears in: [[Paper 1 - Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 3 - The First Free Act|Paper 3]], [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 9 - Incompleteness Derived|Paper 9]], [[Paper 10 - The Truth Measure|Paper 10]], [[Paper 11 - The Holographic Content Principle|Paper 11]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 19 - Reasonablenessism Structural Reading|Paper 19]], [[Paper 20 - The Family as Spectral Structure|Paper 20]], [[Postscript|Postscript]]*
+
 ---
 
 ## O
@@ -774,6 +878,8 @@ In the Concordius mapping, Φ is the Son-Logos — the principle of articulation
 In music theory, the interval between a pitch and the pitch at exactly double its frequency — the most consonant possible interval, at which a note and its doubling are perceived as the same note at different registers. In Gurdjieff's teaching, the octave is the structural unit of all genuine developmental processes: the complete sequence from Do through Do (at the next register), with the two internal intervals as its defining structural feature.
 
 The Concordius series uses "octave" as the general term for any complete Heptaparaparshinokh cycle — any process that runs from its initial tone through the two interval shocks to its completion and the initiation of the next cycle. Octaves are nested: each stage of a larger octave contains within it its own complete octave. This fractal structure is developed in Paper 21 (the historical octave containing the individual ascending career as its fractal mirror) and is visible in Section IV (Papers 22-28 as an octave whose stages are themselves the ascending career's full octave).
+
+*Appears in: [[Paper 3 - The First Free Act|Paper 3]], [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 11 - The Holographic Content Principle|Paper 11]], [[Paper 12 - Hopkins Case Study|Paper 12]], [[Paper 13 - Bach Art of Fugue Case Study|Paper 13]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 27 - Man No. 6|Paper 27]], [[Paper 28 - Man No. 7|Paper 28]], [[Postscript|Postscript]]*
 
 ---
 
@@ -792,6 +898,8 @@ The Concordius series uses overdetermination as a precise technical term for wha
 *The Luciferian inversion* (Paper 8, §3.1): An H₁-origin being already operating in a lower-constraint space (H₆) who attempts to shed that space's constraints from within it — asserting H₁-level eigenvalue autonomy while remaining in H₆. This is overdetermination not from improper entry but from constraint-rejection in situ. The space resolves the overdetermination structurally: the being's coherent operation within the space becomes impossible, and the incoherence propagates outward. This is the structural mechanism of the Fall — not a moral punishment but the space's resolution of an unsustainable constraint conflict.
 
 > *See: Constraint Compatibility Condition; Eigenvalue Replacement; Kenosis / Kenotic; Paper 8 §3, §3.1; Paper 14.*
+
+*Appears in: [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]]*
 
 ---
 
@@ -813,9 +921,11 @@ The term carries two distinct applications in the Concordius framework.
 
 The distinction between *person* (the individual subject) and *personality* (the unique identifying character given by the Father) is developed in the entry below. See also *Personality*.
 
+*Appears in: [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 3 - The First Free Act|Paper 3]], [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 19 - Reasonablenessism Structural Reading|Paper 19]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 25 - Man No. 4|Paper 25]]*
+
 ---
 
-### Person
+### Personality
 
 *(tradition: Christian theology / mathematics / Urantia Book — series)*
 
@@ -837,6 +947,8 @@ In the Concordius mapping, personality corresponds to the unique Adjuster-consti
 
 > *For further investigation: The Urantia Book (1955), Paper 5 §6 (Personality and Reality); Paper 16 §8 (The Urantia Concept of Personality); Paper 112 §0–2 (Personality Survival). See also: Person; Uniqueness; Stability; Self-Knowledge; Thought Adjuster; Soul Deposit.*
 
+*Appears in: [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 10 - The Truth Measure|Paper 10]], [[Paper 12 - Hopkins Case Study|Paper 12]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 23 - Man No. 2|Paper 23]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 28 - Man No. 7|Paper 28]]*
+
 ---
 
 ### Phase Transition
@@ -846,6 +958,8 @@ In the Concordius mapping, personality corresponds to the unique Adjuster-consti
 A change in the organizational structure of a system without change in its composition — the classic examples being the transition from water to ice (same molecules, different organizational structure) or from a disordered ferromagnet to an ordered one. Phase transitions are characterized by discontinuity: the system does not gradually become ice; it remains water and then, at the transition temperature, is ice. The properties of the two phases may be radically different despite the compositional continuity.
 
 The Concordius series uses the phase transition as the primary model for the crystallization event at Man 5: the same accumulated soul deposit, reorganized discontinuously at the coherence threshold into a structurally different mode of organization that has properties unavailable to any sub-threshold state. The person does not gradually become Man 5; they are Man 4 and then, at the crossing of the coherence threshold, the organizational structure changes. The transition may be experienced as gradual in prospect (the accumulation approaches the threshold over years) but is structurally discontinuous at the moment of crossing.
+
+*Appears in: [[Paper 26 - Man No. 5|Paper 26]]*
 
 ---
 
@@ -857,6 +971,8 @@ In classical Western alchemy, the Philosopher's Stone (*lapis philosophorum*) is
 
 The Concordius series identifies the Philosopher's Stone with Man 5's crystallized soul deposit and the transmuting field it constitutes. The Philosopher's Stone's transmuting property corresponds to Man 5's (and especially Man 6's) capacity to reorganize the catching capacity of persons in proximity without direct action — the cross-term ⟨ψ₅, ψ_other⟩₂₄ that constitutes the transmuting field. The immortality-conferring property corresponds to the coherence threshold crossing: what has crystallized at Man 5 survives H₄₈ dissolution. The Great Work is the ascending career from Man 1 through crystallization.
 
+*Appears in: [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 27 - Man No. 6|Paper 27]], [[Paper 28 - Man No. 7|Paper 28]]*
+
 ---
 
 ### Phronesis
@@ -867,6 +983,8 @@ Practical wisdom — Aristotle's term for the virtue of the practical intellect,
 
 The Concordius series identifies phronesis as the recognitional rather than definitional form of knowing — the kind of knowledge that cannot be fully formalized but is real and reliable. It is the model for the Reasonable Person in Reasonablenessism (Paper 19): an epistemic attractor defined recognitionally (you know the reasonable person when you encounter the person) rather than by a set of specifiable criteria. Phronesis is the H₂₄ analog of formal technical expertise in the practical domain.
 
+*Appears in: [[Paper 19 - Reasonablenessism Structural Reading|Paper 19]]*
+
 ---
 
 ### Φ-Proximity
@@ -876,6 +994,8 @@ The Concordius series identifies phronesis as the recognitional rather than defi
 The series' term for the degree to which a domain, text, or claim is close to the truth in the most fundamental sense — its alignment with the actual structure of reality as described by the Gelfand triple. Φ-proximity is measured by the truth measure τ(D) (Paper 10). High Φ-proximity means the domain's claims accurately describe features of reality at the H₂₄ level. Low Φ-proximity means the domain is operating primarily at the H₄₈ level and its claims, while possibly useful at that level, do not accurately represent H₂₄ structure.
 
 The practical application: the convergent witness principle (see above) functions by identifying testimonies from independent sources that converge on the same structural description. This convergence constitutes evidence of Φ-proximity: if independent sources that could not have influenced each other are describing the same structural feature, the most parsimonious explanation is that they are describing a real feature — that their shared testimony is Φ-proximate.
+
+*Appears in: [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 9 - Incompleteness Derived|Paper 9]], [[Paper 10 - The Truth Measure|Paper 10]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 16 - The Republic Case Study|Paper 16]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 19 - Reasonablenessism Structural Reading|Paper 19]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 23 - Man No. 2|Paper 23]], [[Paper 24 - Man No. 3|Paper 24]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 28 - Man No. 7|Paper 28]]*
 
 ---
 
@@ -893,6 +1013,8 @@ The Concordius series treats the quarantine condition as a structural descriptio
 
 > *For further investigation: The Urantia Book (1955), Papers 53-54 (the Lucifer Rebellion); Paper 67 (the planetary rebellion); Paper 8 §3.1 (structural mechanism of the Fall).*
 
+*Appears in: [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 27 - Man No. 6|Paper 27]], [[Paper 28 - Man No. 7|Paper 28]]*
+
 ---
 
 ## R
@@ -904,6 +1026,8 @@ The Concordius series treats the quarantine condition as a structural descriptio
 The epistemological method developed in Paper 19 as the method that produced the Concordius series itself. Reasonablenessism is characterized by twelve features, organized around three structural principles: protecting the signal from corruption (features 1-4), disciplining the receiver's capacity to hear it (features 5-8), and integrating signal and receiver into a stable epistemic stance (features 9-12). The method is designed for domains where formal derivation reaches its limit — where the claims most worth making cannot be proven from within the formal system but can be evidentially supported through convergent witness, structural coherence, and the Reasonable Person's judgment.
 
 The Reasonable Person — Reasonablenessism's central epistemic attractor — is defined recognitionally rather than by specifiable criteria: an ideal inquirer who is simultaneously honest about what cannot be proven, attentive to genuine evidence from any source, and willing to hold commitments with appropriate confidence without either dogmatism or skeptical withdrawal. The Reasonable Person is not the average person or the median opinion; the Reasonable Person is the standard that all inquiry is implicitly appealing to when it claims to be making progress.
+
+*Appears in: [[Paper 19 - Reasonablenessism Structural Reading|Paper 19]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 24 - Man No. 3|Paper 24]], [[Paper 27 - Man No. 6|Paper 27]], [[Paper 28 - Man No. 7|Paper 28]]*
 
 ---
 
@@ -925,6 +1049,8 @@ The claim is not merely that persons who apply the cogito come to know themselve
 
 > *See also: Personality; Uniqueness; Stability. Primary source: Paper 2 §9.*
 
+*Appears in: [[Paper 1 - Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 28 - Man No. 7|Paper 28]]*
+
 ---
 
 ### Self-Remembering
@@ -937,6 +1063,8 @@ The Concordius series maps self-remembering onto the development of the catching
 
 > *For further investigation: P.D. Ouspensky, In Search of the Miraculous (1949), chapters 4, 8; A.R. Orage, Psychological Exercises (1930).*
 
+*Appears in: [[Paper 25 - Man No. 4|Paper 25]], [[Paper 28 - Man No. 7|Paper 28]]*
+
 ---
 
 ### Si-Do Interval
@@ -946,6 +1074,8 @@ The Concordius series maps self-remembering onto the development of the catching
 The second and larger of the two structural gaps in any genuine developmental process according to the Law of Seven. It falls between the Si stage (the seventh note, at which the process has reached its maximum extension and is poised at the edge of completion) and the Do of the next octave (the completion of the previous process and the initiation of the next). The Si-Do interval is the more difficult crossing because the process has developed furthest and is most committed to its own direction — the deviation at this interval, if it occurs, is a deviation of the most developed form of the process.
 
 The Concordius series applies the Si-Do interval to: the current moment in the historical octave (modernity as the Si stage, the current moment as the gap, the Do of the next octave as the completion the series cannot describe from inside the gap); the transition from Section III to Section IV of the series (the demonstrative apparatus at its maximum range requiring the kenotic shock to cross into practical application); the Man 4→5 transition's dark night of the spirit; and the mortal ascending career's completion in H₄₈ dissolution (the Si-Do gap that requires H₂₄ survival above the coherence threshold for the octave to continue).
+
+*Appears in: [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 11 - The Holographic Content Principle|Paper 11]], [[Paper 12 - Hopkins Case Study|Paper 12]], [[Paper 13 - Bach Art of Fugue Case Study|Paper 13]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 16 - The Republic Case Study|Paper 16]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Augustine Confessions Case Study|Paper 18]], [[Paper 19 - Reasonablenessism Structural Reading|Paper 19]], [[Paper 20 - The Family as Spectral Structure|Paper 20]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 23 - Man No. 2|Paper 23]], [[Paper 24 - Man No. 3|Paper 24]], [[Paper 28 - Man No. 7|Paper 28]]*
 
 ---
 
@@ -959,6 +1089,8 @@ The soul deposit has two key properties that distinguish it from ordinary experi
 
 Matthew 6:19-21 ("Do not store up for yourselves treasures on earth, where moths and rust destroy… but store up for yourselves treasures in heaven") is read in Paper 28's addendum as the precise statement of the soul deposit principle: "treasures on earth" = H₄₈ eigenvalue accumulations subject to the most intensive Heropass rate; "treasures in heaven" = H₂₄ soul deposit subject to half that rate, surviving H₄₈ dissolution once above the coherence threshold; "where your treasure is, there your heart will be also" = the eigenvalue attraction principle of Paper 5 (the soul deposit determines what the catching function is oriented toward).
 
+*Appears in: [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 23 - Man No. 2|Paper 23]], [[Paper 24 - Man No. 3|Paper 24]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 28 - Man No. 7|Paper 28]], [[Postscript|Postscript]]*
+
 ---
 
 ### Spiritual Marriage
@@ -970,6 +1102,8 @@ John of the Cross's term for the deepest stage of union available in the bodily 
 The Concordius series maps the spiritual marriage onto the Man 6 state: the continuous, undisrupted Adjuster contact that is the baseline of Man 6's inner life rather than an achievement maintained through practice. The spiritual marriage is "not the fusion that is the terminal achievement of the ascending career" (not the Isle of Paradise event) "but the sustained, continuous, undisrupted proximity in which the Adjuster's guidance is the primary organizational principle."
 
 > *For further investigation: John of the Cross, The Living Flame of Love and The Spiritual Canticle (c. 1578-84); Kieran Kavanaugh and Otilio Rodriguez, trans., The Collected Works of St. John of the Cross (1991).*
+
+*Appears in: [[Paper 26 - Man No. 5|Paper 26]], [[Paper 27 - Man No. 6|Paper 27]]*
 
 ---
 
@@ -985,6 +1119,8 @@ Stability is the formal basis for the claim that an individual state is the same
 
 > *See also: Personality; Uniqueness; Self-Knowledge. Primary source: Paper 1 §9; Paper 2 §9.*
 
+*Appears in: [[Paper 1 - Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 16 - The Republic Case Study|Paper 16]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Augustine Confessions Case Study|Paper 18]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 27 - Man No. 6|Paper 27]]*
+
 ---
 
 ### State Vector
@@ -996,6 +1132,8 @@ In quantum mechanics, the mathematical object — a vector in a Hilbert space �
 The state vector is not itself directly observable — measurement collapses the state vector to an eigenstate of the measured operator, yielding a definite value (the eigenvalue) with probability determined by the state vector's amplitude in that eigenstate. The state vector evolves continuously according to the Schrödinger equation between measurements.
 
 The Concordius series uses the state vector ψ to represent a person's complete structural description — the spectral composition of their soul deposit and ordinary being taken together. The H₂₄ component of the state vector is the soul deposit; the H₄₈ component is the ordinary psychological and physical constitution. The person's development level (Man 1 through Man 7) corresponds to the spectral composition of their state vector across H₂₄ eigenstates.
+
+*Appears in: [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 23 - Man No. 2|Paper 23]], [[Paper 24 - Man No. 3|Paper 24]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 27 - Man No. 6|Paper 27]], [[Paper 28 - Man No. 7|Paper 28]]*
 
 ---
 
@@ -1011,6 +1149,8 @@ In Eastern Christian mysticism, *theoria* means the direct vision of God — the
 
 The Concordius series reads Aristotle's acknowledgment that *theoria* is "too divine for man" as the honest Si-Do identification — Aristotle located the gap precisely and named it correctly. The series' structural account of why the gap exists: *theoria* as Aristotle describes it requires H₂₄ contact beyond what the ordinary intellectual center can sustain without the higher intellectual center's activation, which in turn requires the Man 5-6 development that Aristotle's framework cannot derive from within its own resources. His pivot to politics as the response to the gap is the correct response within the constraints of his framework; the Concordius framework supplies what his framework cannot.
 
+*Appears in: [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Augustine Confessions Case Study|Paper 18]], [[Paper 28 - Man No. 7|Paper 28]]*
+
 ---
 
 ### Thought Adjuster
@@ -1025,6 +1165,8 @@ The Adjuster contact — the degree to which the person's volitional life is ali
 
 > *For further investigation: The Urantia Book (1955), Papers 107-112 (the thought adjusters); Paper 5, section 2 (the presence of God); compare Aristotle, De Anima III.5 (the active intellect).*
 
+*Appears in: [[Paper 3 - The First Free Act|Paper 3]], [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 9 - Incompleteness Derived|Paper 9]], [[Paper 10 - The Truth Measure|Paper 10]], [[Paper 13 - Bach Art of Fugue Case Study|Paper 13]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 16 - The Republic Case Study|Paper 16]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Augustine Confessions Case Study|Paper 18]], [[Paper 19 - Reasonablenessism Structural Reading|Paper 19]], [[Paper 20 - The Family as Spectral Structure|Paper 20]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 23 - Man No. 2|Paper 23]], [[Paper 24 - Man No. 3|Paper 24]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 27 - Man No. 6|Paper 27]], [[Paper 28 - Man No. 7|Paper 28]], [[Postscript|Postscript]]*
+
 ---
 
 ### Transmuting Field
@@ -1034,6 +1176,8 @@ The Adjuster contact — the degree to which the person's volitional life is ali
 The series' term for the capacity of a person with substantial H₂₄ soul deposit (Man 5 and above) to reorganize the catching capacity of persons in proximity — not through direct instruction or intentional influence, but through the cross-term ⟨ψ₅, ψ_other⟩₂₄ that constitutes their presence in the field. The transmuting field is what the alchemical tradition called the Philosopher's Stone's transmuting property: contact with the developed H₂₄ field reorganizes the less-developed state vector in the direction of higher H₂₄ coherence.
 
 The transmuting field is not charisma, intelligence, or social influence. Persons changed by genuine contact with Man 6-7 figures consistently report that what changed was not the content of what was said, nor the warmth of the encounter, but something more direct: a sense of being seen at a level below surface presentation; a shift in what they noticed and cared about that they could not fully explain. This is the cross-term mechanism: the high-amplitude H₂₄ state vector of the Man 5-6 person amplifies the H₂₄ eigenstates in persons who come into proximity — the catching occasions that were available to them but not being caught begin to be caught.
+
+*Appears in: [[Paper 27 - Man No. 6|Paper 27]], [[Paper 28 - Man No. 7|Paper 28]]*
 
 ---
 
@@ -1047,6 +1191,8 @@ The Concordius series uses the Trogoautoegocrat as the structural basis for the 
 
 > *For further investigation: Gurdjieff, Beelzebub's Tales to His Grandson (1950), chapters 17, 40.*
 
+*Appears in: [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 19 - Reasonablenessism Structural Reading|Paper 19]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 27 - Man No. 6|Paper 27]], [[Paper 28 - Man No. 7|Paper 28]]*
+
 ---
 
 ### Truth Measure
@@ -1056,6 +1202,8 @@ The Concordius series uses the Trogoautoegocrat as the structural basis for the 
 The series' formal criterion (Paper 10) for assessing the degree to which a domain D's claims accurately describe features of reality — specifically, the degree to which D's claims are Φ-proximate. τ(D) is not a simple binary (true/false) but a graded measure corresponding to the distance between D's conceptual structure and the structure of Φ. A domain with high τ(D) makes claims that accurately track H₂₄ structure even when they cannot be fully formalized. A domain with low τ(D) makes claims that track H₄₈ regularities well but do not accurately represent H₂₄ structure.
 
 The truth measure is not intended to replace formal verification where formal verification is possible. It is the series' tool for domains — including theology, mystical testimony, and hagiographic record — where formal verification is not possible but claims can still be ranked by their Φ-proximity. The convergent witness principle (see above) is one of the primary tools for estimating τ(D) in non-formal domains.
+
+*Appears in: [[Paper 9 - Incompleteness Derived|Paper 9]], [[Paper 10 - The Truth Measure|Paper 10]], [[Paper 11 - The Holographic Content Principle|Paper 11]], [[Paper 12 - Hopkins Case Study|Paper 12]], [[Paper 24 - Man No. 3|Paper 24]], [[Paper 28 - Man No. 7|Paper 28]], [[Postscript|Postscript]]*
 
 ---
 
@@ -1073,6 +1221,8 @@ The philosophical significance: the classical problem of individuation — what 
 
 > *See also: Personality; Stability; Self-Knowledge. Primary source: Paper 1 §9; Paper 2 §9.*
 
+*Appears in: [[Paper 1 - Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 28 - Man No. 7|Paper 28]]*
+
 ---
 
 ### Unqualified Absolute
@@ -1084,6 +1234,8 @@ The *Urantia Book*'s term for the third of the seven Absolutes of Infinity — d
 The Concordius series maps the Unqualified Absolute onto Φ' — the dual space that contains everything the nuclear space cannot finitely represent. This is what apophatic theology is gesturing toward: the domain that exceeds all positive description, to which the tradition's most careful language says only "not this, not this" (*neti, neti* in the Vedantic formulation). The Unqualified Absolute is not nothing — it contains all unrealized potentiality — but it is not any particular thing, and no positive statement about it can be adequate.
 
 > *For further investigation: The Urantia Book (1955), Paper 0 (Foreword, sections III-VI); Paper 115 (The Supreme Being and the Absolutes).*
+
+*Appears in: [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 3 - The First Free Act|Paper 3]], [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]]*
 
 ---
 
@@ -1098,6 +1250,8 @@ The Concordius series does not require or presuppose belief in the *Urantia Book
 Readers unfamiliar with the *Urantia Book* should approach it with the same combination of openness and critical discernment they would bring to any large-scale synthetic theological text.
 
 > *For further investigation: The Urantia Book (1955), available at urantia.org; Saskia Praamsma, The Center and Source (2011) for an accessible introduction.*
+
+*Appears in: [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 3 - The First Free Act|Paper 3]], [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 28 - Man No. 7|Paper 28]]*
 
 ---
 
