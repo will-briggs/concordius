@@ -159,6 +159,22 @@ The coherence threshold is not a moral criterion. It is a structural one. What b
 
 ---
 
+**Community of believers** *(series / theological)*
+
+The aggregate of Φ′-origin beings in active volitional alignment toward Φ; the actual transmission carrier of φ-proximal content across generations. Structurally distinct from the institutional Church, which is the formal structure organized around the community but is neither identical to it nor constitutive of it.
+
+The community is identified not by external institutional boundary but by the convergence criterion: Φ is universal — the same source for all catching beings. Independent catching beings orienting toward the same source from different H₄₈ starting points converge on the same φ-proximal content, not because they coordinate with each other but because the source is the same. The community is those whose independent catching outcomes converge on the independently established φ-proximal calibration corpus. This is Feature 6 (Reasonablenessism: Convergence of Independent Witnesses) applied inward — not external traditions converging on structural identifications, but catching beings independently arriving at the same φ-proximal content because they draw from the same source.
+
+The convergence criterion resolves the privatization problem — the risk that "community of believers" without a structural determinator collapses into an aggregate of individual Spirit-claims. A claimed catching that produces outcomes systematically diverging from the φ-proximal calibration corpus has a convergence-weight of zero. The community cannot coalesce around non-convergent claimed catchings, because the criterion requires independent confirmation. The tradition's discernment of spirits is the H₄₈ practice corresponding to this structural principle.
+
+The institution's proper function is to maintain the φ-proximal deposit in catchable form across generations — to preserve the content in accessible H₄₈ encoding so that catching beings encounter it and produce convergent outcomes. The institution's authority derives from the authenticity of what it contains, not from its formal claims alone. An institution that performs this function draws the convergent catching of its generation; an institution whose deposit has been diluted by H₄₈-primary accretions provides form without content, and the community's convergence weakens inside its formal boundaries while possibly persisting outside them.
+
+The community of believers is ontologically prior to any institution. All saints in any tradition — wherever independent catching outcomes converge on the same φ-proximal content above the coherence threshold — are community members by this criterion, regardless of institutional affiliation.
+
+*Confidence tier: structural inference. Cross-references: Paper 7 (catching as volitional orientation; dual pairing for Φ′-origin beings); Structural Readings, Appendix VII (The Magisterium; Luther's imprecision; sola scriptura; longevity condition; saints metric; convergence criterion); Reasonablenessism, Feature 6 (Convergent Witness Principle); Appendix II — Convergent Witness Principle (this dictionary); Paper 14, OQ7 (catching as structurally necessary for Φ′-origin beings).*
+
+---
+
 **Constraint Cascade** *(series — provenance unverified)*
 
 The nested sequence of increasingly constrained domains produced by successive applications of the Gelfand Nuclear Spectral Theorem (GNST) after the First Free Act. Each stage of the cascade inherits all the constraints of the stage above it and adds its own, producing a monotonic reduction of freedom through the created order. The first application of the GNST produces 3D-spacetime. Subsequent applications produce a nested sequence of progressively denser Hilbert subspaces — named and traced in Paper 4 — terminating in the physical matter of the observable universe. The Big Bang is a late event in the cascade, not its beginning.
