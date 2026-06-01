@@ -56,7 +56,7 @@ This is MATT 5:43-48 in demonstrative form rather than imperative: the Father sa
 
 The *ara* reaches back over chapter 7's entire analysis of the noise-floor/Φ-orientation conflict within the catching being (*I do what I do not want to do*) and concludes: given all of that — the intrinsic structural tension, the Heropass, the noise-floor's continuous counter-pressure — there is *ouden* (nothing) of condemnation for those in the catching orientation.
 
-*Katakrima* — not the discriminative function of ⟨·,·⟩ itself (which is always operative) but the adverse verdict of that discrimination: the judgment that finds the φ-proximal eigenvalue content insufficient at the constraint boundary. The claim: for the being in Φ-level orientation, the discrimination at the constraint boundary registers catching content, not the noise-floor record.
+*Katakrima* — not the discriminative function of ⟨·,·⟩ itself (which is always operative) but the adverse verdict of that discrimination: the judgment that finds the Φ-proximal eigenvalue content insufficient at the constraint boundary. The claim: for the being in Φ-level orientation, the discrimination at the constraint boundary registers catching content, not the noise-floor record.
 
 **"In Christ Jesus" (*en Christo Iesou*):**
 
@@ -80,7 +80,7 @@ The condition specifies the structural state of the ones for whom the claim hold
 
 **"All things work together" (*panta synergei*):**
 
-*Panta* — everything without exception: the H₄₈ circumstances, the resistances, the suffering, the apparent structural setbacks. *Synergei* — co-works, works together with the catching orientation. The structural account: the catching being's orientation toward Φ allows the GNST to operate as a coherent trajectory-organizer rather than a random sequence of eigenstate selections. Under the catching orientation, each GNST application follows the same attractor; even adverse H₄₈ circumstances function as constraint inputs that produce φ-proximal eigenvalue content (2 COR 4:17 — light momentary troubles achieving an eternal weight of glory).
+*Panta* — everything without exception: the H₄₈ circumstances, the resistances, the suffering, the apparent structural setbacks. *Synergei* — co-works, works together with the catching orientation. The structural account: the catching being's orientation toward Φ allows the GNST to operate as a coherent trajectory-organizer rather than a random sequence of eigenstate selections. Under the catching orientation, each GNST application follows the same attractor; even adverse H₄₈ circumstances function as constraint inputs that produce Φ-proximal eigenvalue content (2 COR 4:17 — light momentary troubles achieving an eternal weight of glory).
 
 **"For the good" (*eis agathon*):**
 
@@ -132,7 +132,7 @@ Corruption — φθορά, decay, dissolution — is the dissipative tendency: t
 
 **"The freedom of the glory of the children of God"**
 
-The children of God are the ascending beings who have caught sufficient φ-proximal content to survive the H₄₈ constraint boundary. Their freedom is the framework's specific freedom: the widened volitional scope that characterizes lower constraint levels (1 free degree within an increasingly smaller constraint manifold as the ascending career advances toward H₃ and H₁, where freedom and nature converge).
+The children of God are the ascending beings who have caught sufficient Φ-proximal content to survive the H₄₈ constraint boundary. Their freedom is the framework's specific freedom: the widened volitional scope that characterizes lower constraint levels (1 free degree within an increasingly smaller constraint manifold as the ascending career advances toward H₃ and H₁, where freedom and nature converge).
 
 The creation is set free "when" the children of God are free — and the structural connection between these two events is not coincidental. When ascending beings within the H₄₈ substrate are catching at sufficient density to constitute the Trogoautoegocrat return flow, the circuit is functioning. The substrate's bondage to futility is the condition of the circuit's deficit; the children's freedom is the condition of the circuit's health. They are not two separate events connected by divine decree. They are the same structural event described from two angles: the circuit's return flow running or not running, described from the side of the ascending beings (freedom) and from the side of the substrate they inhabit (liberation from bondage).
 

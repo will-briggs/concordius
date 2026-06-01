@@ -122,7 +122,7 @@ After the Higgs VEV, the GNST operates on a Hamiltonian with a structured mass s
 
 Before breaking: the GNST generates eigenstate succession, but all eigenstates are at the same constraint depth. There is nothing to catch into — no distinct H₂₄ subspace, no lower-constraint content distinguishable from the baseline. The Heropass flows but produces no hierarchy.
 
-After breaking: the GNST generates eigenstate succession in a structured space. Lower-constraint eigenstates (φ-proximal content) are physically distinguishable from higher-constraint eigenstates (H₄₈ content) by their mass-gap thresholds. The Heropass continuously generates both. The volitional degree of freedom can orient toward the lower-constraint content — can catch — because there is something to catch: a physically distinct eigenstate regime below the H₄₈ mass threshold.
+After breaking: the GNST generates eigenstate succession in a structured space. Lower-constraint eigenstates (Φ-proximal content) are physically distinguishable from higher-constraint eigenstates (H₄₈ content) by their mass-gap thresholds. The Heropass continuously generates both. The volitional degree of freedom can orient toward the lower-constraint content — can catch — because there is something to catch: a physically distinct eigenstate regime below the H₄₈ mass threshold.
 
 **Catching is the volitional retention of the lower-constraint eigenvalue content the structured GNST continuously generates.** The structure is the Higgs mechanism's gift. The retention is free will's work.
 

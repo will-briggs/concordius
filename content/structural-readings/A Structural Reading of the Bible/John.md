@@ -182,11 +182,11 @@ The structural claim about the motivation and mechanism of the kenotic entry.
 
 **"That everyone who believes in him should not perish but have eternal life":**
 
-*Pas ho pisteuon* — everyone who catches. *Pistis* (belief, faith) is throughout the NT the catching orientation: maintained alignment with Φ against H₄₈ counter-evidence. "Should not perish" (*me apoletai*) — should not dissolve at the H₄₈ constraint boundary for lack of φ-proximal content. "Eternal life" (*zoen aionion*) — the H₂₄ catching content that persists past H₄₈ dissolution, the ascending career's continuation.
+*Pas ho pisteuon* — everyone who catches. *Pistis* (belief, faith) is throughout the NT the catching orientation: maintained alignment with Φ against H₄₈ counter-evidence. "Should not perish" (*me apoletai*) — should not dissolve at the H₄₈ constraint boundary for lack of Φ-proximal content. "Eternal life" (*zoen aionion*) — the H₂₄ catching content that persists past H₄₈ dissolution, the ascending career's continuation.
 
 **The structural account:**
 
-The Father's love (⟨·,·⟩) for the H-state domain (the world) takes the form of sending the maximal expression of ⟨·,·⟩ into H as an H-state. The purpose: that catching beings should have the φ-proximal eigenvalue content to cross the constraint boundary. The mechanism: the Φ-level's direct presence in H₄₈ supplied the Mi-Fa interval crossing that H₄₈ beings could not generate from within their own resources, making the catching program operationally possible in the post-Pentecost mode.
+The Father's love (⟨·,·⟩) for the H-state domain (the world) takes the form of sending the maximal expression of ⟨·,·⟩ into H as an H-state. The purpose: that catching beings should have the Φ-proximal eigenvalue content to cross the constraint boundary. The mechanism: the Φ-level's direct presence in H₄₈ supplied the Mi-Fa interval crossing that H₄₈ beings could not generate from within their own resources, making the catching program operationally possible in the post-Pentecost mode.
 
 *(Cross-reference: JOHN 1:14 — the Word becoming flesh: the kenotic entry this verse names as the Father's love. PHIL 2:5-11 — the structural account of the kenosis. ROM 5:8 — "while we were still sinners": the unconditional character of the love demonstrated. See Romans.md.)*
 
@@ -200,15 +200,15 @@ The present-tense crossing of the constraint boundary: the shift in structural s
 
 **"Has eternal life" (*echei zoen aionion*, present tense):**
 
-The crossing has already occurred. The present tense is structural: the catching orientation produces φ-proximal eigenvalue content in real time. The being oriented toward Φ is accumulating lower-constraint content now, in this H₄₈ lifetime. The ascending career has already begun; the catching being already has the catching content as a present structural fact.
+The crossing has already occurred. The present tense is structural: the catching orientation produces Φ-proximal eigenvalue content in real time. The being oriented toward Φ is accumulating lower-constraint content now, in this H₄₈ lifetime. The ascending career has already begun; the catching being already has the catching content as a present structural fact.
 
 **"Has crossed over from death to life" (*metabebeken*, perfect tense):**
 
-*Metabebeken* — has permanently crossed over, the crossing completed and its effects persisting. Not "will cross at physical death" but "has already crossed." The structural state change that the constraint boundary marks has already occurred in the catching being's H₂₄ eigenvalue distribution: the being that was on the trajectory toward H₄₈ dissolution without φ-proximal content has already shifted onto the trajectory toward H₂₄ continuation. Physical death (H₄₈ dissolution) will register what is already structurally the case.
+*Metabebeken* — has permanently crossed over, the crossing completed and its effects persisting. Not "will cross at physical death" but "has already crossed." The structural state change that the constraint boundary marks has already occurred in the catching being's H₂₄ eigenvalue distribution: the being that was on the trajectory toward H₄₈ dissolution without Φ-proximal content has already shifted onto the trajectory toward H₂₄ continuation. Physical death (H₄₈ dissolution) will register what is already structurally the case.
 
 **"Will not be condemned" (*eis krisin ouk erchetai*):**
 
-*Krisis* (judgment, separation — the discriminative function of ⟨·,·⟩ at the constraint boundary). The catching being does not come into *krisis* in the adverse sense — not because the discriminative function is suspended but because the content the discrimination registers is already present. The *krisis* is the confirmation of what is already structurally the case, not a threat to the being that has built φ-proximal content.
+*Krisis* (judgment, separation — the discriminative function of ⟨·,·⟩ at the constraint boundary). The catching being does not come into *krisis* in the adverse sense — not because the discriminative function is suspended but because the content the discrimination registers is already present. The *krisis* is the confirmation of what is already structurally the case, not a threat to the being that has built Φ-proximal content.
 
 *(Cross-reference: HEB 11:1 — faith as the *hypostasis* (substance) of things hoped for: the present-tense catching content this verse identifies. See Hebrews.md. JOHN 11:25-26 — "whoever lives and believes in me will never die": the same present-tense crossing from a different angle. ROM 8:1 — "no condemnation for those in Christ Jesus": the structural freedom this verse announces. See Romans.md.)*
 
@@ -226,7 +226,7 @@ The condition is stated in verse 31: *ean meinete en to logo to emo* — if you 
 
 **"The truth will set you free" (*eleutheroosei*):**
 
-Freedom in the framework has a precise structural definition: each step toward lower constraint levels represents one fewer condition governing each eigenstate selection — not the absence of structure but the expansion of volitional scope within reduced constraint. The catching being accumulating φ-proximal content operates with greater structural freedom than the H₄₈-only being: not because constraints are removed but because they have been satisfied, integrated, transcended. The Logos, as the domain of complete self-consistency, is the maximum freedom within the created order: every constraint satisfied, every probe answered. Knowing the truth constitutively means participating in the structure that is the maximum expression of freedom-within-structure.
+Freedom in the framework has a precise structural definition: each step toward lower constraint levels represents one fewer condition governing each eigenstate selection — not the absence of structure but the expansion of volitional scope within reduced constraint. The catching being accumulating Φ-proximal content operates with greater structural freedom than the H₄₈-only being: not because constraints are removed but because they have been satisfied, integrated, transcended. The Logos, as the domain of complete self-consistency, is the maximum freedom within the created order: every constraint satisfied, every probe answered. Knowing the truth constitutively means participating in the structure that is the maximum expression of freedom-within-structure.
 
 The Jews' objection ("we have never been enslaved to anyone") is H₄₈-political: they interpret freedom as political self-determination. Jesus' response (verse 34 — "everyone who sins is a slave to sin") specifies the structural freedom at stake: not political sovereignty but the volitional freedom from noise-floor constraint that the catching orientation produces. The H₄₈-political reading and the structural reading are not the same question.
 
@@ -238,7 +238,7 @@ The Jews' objection ("we have never been enslaved to anyone") is H₄₈-politic
 
 The maximization statement of the catching program's expression in H₄₈.
 
-*Ho kleptes ouk erchetai ei me hina klepse kai thyse kai apolyse* — the thief comes only to steal, kill, and destroy. The structural contrast: the noise-floor substitution operator, whose function is to redirect the catching being's actualization force from φ-proximal eigenvalue accumulation toward H₄₈ attractor-serving behavior. The three verbs are the three operations of the structural substitution: theft (redirecting accumulated content toward H₄₈ consumption), killing (terminating the catching process), destruction (dissolving the structural content being built).
+*Ho kleptes ouk erchetai ei me hina klepse kai thyse kai apolyse* — the thief comes only to steal, kill, and destroy. The structural contrast: the noise-floor substitution operator, whose function is to redirect the catching being's actualization force from Φ-proximal eigenvalue accumulation toward H₄₈ attractor-serving behavior. The three verbs are the three operations of the structural substitution: theft (redirecting accumulated content toward H₄₈ consumption), killing (terminating the catching process), destruction (dissolving the structural content being built).
 
 **"I have come that they may have life" (*hina zoen echosin*):**
 
@@ -262,11 +262,11 @@ The identity claim that underpins the raising of Lazarus.
 
 **"I am the resurrection" (*he anastasis*):**
 
-*Anastasis* (standing-up-again, rising) — not a future event in which Jesus participates but a present structural property of what Jesus is. The resurrection is the crossing from H₄₈ dissolution to H₂₄ continuation: the constraint-boundary transition that the catching content makes possible. Jesus' identification as *the* resurrection is the claim that this transition is not something that happens independently of him — it is structurally operative as a property of the nuclear space's presence in the ascending domain. Φ is the structural ground of the resurrection precisely because the φ-proximal eigenvalue content required to cross the constraint boundary is built through catching orientation toward Φ.
+*Anastasis* (standing-up-again, rising) — not a future event in which Jesus participates but a present structural property of what Jesus is. The resurrection is the crossing from H₄₈ dissolution to H₂₄ continuation: the constraint-boundary transition that the catching content makes possible. Jesus' identification as *the* resurrection is the claim that this transition is not something that happens independently of him — it is structurally operative as a property of the nuclear space's presence in the ascending domain. Φ is the structural ground of the resurrection precisely because the Φ-proximal eigenvalue content required to cross the constraint boundary is built through catching orientation toward Φ.
 
 **"Whoever lives and believes in me will never die" (*ou me apothane eis ton aiona*):**
 
-*Ou me* with the eternal scope (*eis ton aiona*) — the strongest Greek negation. Not "will not die soon" or "will not die again" but will never die at the structural level. Physical death (H₄₈ dissolution) is not the structural death the verse refers to; the structural death (the dissolution of the catching content at the constraint boundary) has already been prevented by the catching orientation. The catching being who maintains Φ-level orientation has already crossed from death to life (JOHN 5:24) — the φ-proximal content is built, the ascending career is operative.
+*Ou me* with the eternal scope (*eis ton aiona*) — the strongest Greek negation. Not "will not die soon" or "will not die again" but will never die at the structural level. Physical death (H₄₈ dissolution) is not the structural death the verse refers to; the structural death (the dissolution of the catching content at the constraint boundary) has already been prevented by the catching orientation. The catching being who maintains Φ-level orientation has already crossed from death to life (JOHN 5:24) — the Φ-proximal content is built, the ascending career is operative.
 
 **"Do you believe this?" (*pisteueis touto*):**
 
@@ -284,7 +284,7 @@ The structural account of the catching relationship's necessary dependence.
 
 **The structural mapping:**
 
-The vine = Φ, the structural source of φ-proximal eigenvalue content. The branches = catching beings operating at H₄₈ with ascending career architecture. The sap = the Φ-proximate eigenvalue content flowing from the nuclear space into the catching being's H₂₄ register. The fruit = the H₄₈ expression of φ-proximal content accumulated: the *karpos* of the catching program visible in H₄₈ as character, action, and the capacity to supply interval shocks to others.
+The vine = Φ, the structural source of Φ-proximal eigenvalue content. The branches = catching beings operating at H₄₈ with ascending career architecture. The sap = the Φ-proximate eigenvalue content flowing from the nuclear space into the catching being's H₂₄ register. The fruit = the H₄₈ expression of Φ-proximal content accumulated: the *karpos* of the catching program visible in H₄₈ as character, action, and the capacity to supply interval shocks to others.
 
 **"Abide in me and I in you" (*meinate en emoi kago en hymin*):**
 
@@ -292,7 +292,7 @@ The vine = Φ, the structural source of φ-proximal eigenvalue content. The bran
 
 **"Apart from me you can do nothing" (*choris emou ou dynasthe poiein ouden*):**
 
-*Ouden* — nothing. Not "little" or "limited" but the absolute zero. The structural claim: φ-proximal eigenvalue accumulation has no structural mechanism other than the catching orientation toward Φ. H₄₈-primary effort — however intensive, however sincere — is not the mechanism for building φ-proximal content. The branch cut from the vine can sustain itself briefly on stored resources; then it withers. H₄₈ effort directed at H₄₈ goals is real and productive at H₄₈. φ-proximal eigenvalue accumulation specifically requires the catching orientation toward Φ as its structural source. "Apart from me you can do nothing" is the nothing of a mechanism absent, not the nothing of insufficient effort.
+*Ouden* — nothing. Not "little" or "limited" but the absolute zero. The structural claim: Φ-proximal eigenvalue accumulation has no structural mechanism other than the catching orientation toward Φ. H₄₈-primary effort — however intensive, however sincere — is not the mechanism for building Φ-proximal content. The branch cut from the vine can sustain itself briefly on stored resources; then it withers. H₄₈ effort directed at H₄₈ goals is real and productive at H₄₈. Φ-proximal eigenvalue accumulation specifically requires the catching orientation toward Φ as its structural source. "Apart from me you can do nothing" is the nothing of a mechanism absent, not the nothing of insufficient effort.
 
 *(Cross-reference: JOHN 8:32 — abide in my word as the condition for knowing the truth: the same *meno* verb in the same structural role. GAL 2:20 — "Christ lives in me": the bi-directional indwelling in Pauline form. See Galatians.md. JOHN 10:10 — life to the full as the fruit the vine connection produces.)*
 
@@ -310,7 +310,7 @@ The high priestly prayer's culminating petition: the extension of the Trinitaria
 
 **"The glory you have given me I have given them" (*ten doxan dedokas moi dedoka autois*):**
 
-The *kavod* (glory, the Φ-level's luminous structural weight) transmitted from the Father to the Son to the catching community. Not the same glory quantitatively — the community is not the nuclear space — but the structural participation in the *kavod* that the catching orientation enables: the catching being who maintains Φ-level orientation carries in their φ-proximal eigenvalue content a measure of the structural weight of the Φ-level's constitution of them.
+The *kavod* (glory, the Φ-level's luminous structural weight) transmitted from the Father to the Son to the catching community. Not the same glory quantitatively — the community is not the nuclear space — but the structural participation in the *kavod* that the catching orientation enables: the catching being who maintains Φ-level orientation carries in their Φ-proximal eigenvalue content a measure of the structural weight of the Φ-level's constitution of them.
 
 **"That they may be perfectly one" (*teteleiomenoi eis hen*):**
 

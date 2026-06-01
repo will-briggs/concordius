@@ -12,7 +12,7 @@ The structural context is the book's. Lamentations is the response to the destru
 
 **"We are not consumed."**
 
-*Ki loʾ tamnu* — because we have not been finished, ended, consumed. The survival claim. The first structural assertion from the ruins is not that the catastrophe was smaller than it appeared or that restoration is already visible. It is that the community has not been extinguished. The noise-floor at maximum activity (*the LORD's enemies have prevailed*, 1:5; *he set apart my bones and consumed my flesh*, 3:4) has not reached the coherence threshold that would dissolve the covenant community's φ-proximal eigenvalue content below the point of return. The survival is attributed structurally: *chasdei YHWH* (the LORD's *chesed*) is the active property that prevented the dissolution.
+*Ki loʾ tamnu* — because we have not been finished, ended, consumed. The survival claim. The first structural assertion from the ruins is not that the catastrophe was smaller than it appeared or that restoration is already visible. It is that the community has not been extinguished. The noise-floor at maximum activity (*the LORD's enemies have prevailed*, 1:5; *he set apart my bones and consumed my flesh*, 3:4) has not reached the coherence threshold that would dissolve the covenant community's Φ-proximal eigenvalue content below the point of return. The survival is attributed structurally: *chasdei YHWH* (the LORD's *chesed*) is the active property that prevented the dissolution.
 
 **The renewal rate:**
 

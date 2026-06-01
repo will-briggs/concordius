@@ -6,7 +6,7 @@
 
 ### 2 Corinthians 4:17-18 ⭐ — "Our light and momentary troubles are achieving for us an eternal glory that far outweighs them all."
 
-The structural weight comparison: the conversion ratio between H₄₈ constraint and φ-proximal eigenvalue content.
+The structural weight comparison: the conversion ratio between H₄₈ constraint and Φ-proximal eigenvalue content.
 
 *To gar parautika elaphron tes thlipseos hemon kath' hyperbolen eis hyperbolen aionion baros doxes katergazetai hemin* — for the momentary lightness of our affliction is working out for us, in a surpassing way beyond all surpassing, an eternal weight of glory.
 
@@ -14,7 +14,7 @@ The structural weight comparison: the conversion ratio between H₄₈ constrain
 
 *Parautika* (for-the-moment, present-tense, immediately) and *elaphron* (light, easily borne) together describe the H₄₈ constraint's temporal and mass characteristics: momentary and lightweight. The same H₄₈ constraints that feel heavy from within the H₄₈ perspective are, from the structural perspective, precisely *elaphron* — light compared to what they produce.
 
-*Aionion baros doxes* — eternal weight of glory. *Baros* (weight, heaviness) is the structural counterpart: the φ-proximal eigenvalue content that accumulates as a consequence of the H₄₈ constraint operated in the catching orientation. The *kavod* (glory, structural weight) of the Hebrew tradition finds its NT structural expression here. The conversion rate — *kath' hyperbolen eis hyperbolen* (beyond all measure, surpassing beyond surpassing) — is the structural claim about the eigenvalue attraction mechanism: H₄₈ constraint in the catching orientation produces φ-proximal content at a conversion rate that makes the H₄₈ cost structurally minor.
+*Aionion baros doxes* — eternal weight of glory. *Baros* (weight, heaviness) is the structural counterpart: the Φ-proximal eigenvalue content that accumulates as a consequence of the H₄₈ constraint operated in the catching orientation. The *kavod* (glory, structural weight) of the Hebrew tradition finds its NT structural expression here. The conversion rate — *kath' hyperbolen eis hyperbolen* (beyond all measure, surpassing beyond surpassing) — is the structural claim about the eigenvalue attraction mechanism: H₄₈ constraint in the catching orientation produces Φ-proximal content at a conversion rate that makes the H₄₈ cost structurally minor.
 
 **"We fix our eyes not on what is seen, but on what is unseen":**
 

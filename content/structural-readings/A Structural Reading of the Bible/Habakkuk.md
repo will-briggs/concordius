@@ -18,7 +18,7 @@ The *tsaddiq* (righteous, structurally aligned) being — aligned with the Φ-le
 
 **The structural claim:**
 
-The *yiḥyeh* (will live) — the continued catching program, the φ-proximal eigenvalue accumulation — is maintained by the *ʾemunah*, not by the H₄₈ evidence of the outcome. The context is maximum H₄₈ counter-evidence: Babylon is ascendant, the just are suffering, the structural accounting the prophet demands is not visible at the H₄₈ level. The structural axiom makes the claim that matters: the catching being that maintains the Φ-level orientation against this evidence *continues to live structurally* regardless of the H₄₈ evidence's apparent verdict.
+The *yiḥyeh* (will live) — the continued catching program, the Φ-proximal eigenvalue accumulation — is maintained by the *ʾemunah*, not by the H₄₈ evidence of the outcome. The context is maximum H₄₈ counter-evidence: Babylon is ascendant, the just are suffering, the structural accounting the prophet demands is not visible at the H₄₈ level. The structural axiom makes the claim that matters: the catching being that maintains the Φ-level orientation against this evidence *continues to live structurally* regardless of the H₄₈ evidence's apparent verdict.
 
 The three NT citations of this verse are the structural ground of Paul's theology of faith:
 - ROM 1:17: "For in the gospel the righteousness of God is revealed — a righteousness that is by faith from first to last, just as it is written: 'The righteous will live by faith.'"
