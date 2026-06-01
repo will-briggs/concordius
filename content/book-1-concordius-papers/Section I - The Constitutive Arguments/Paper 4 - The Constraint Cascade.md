@@ -10,7 +10,7 @@
 
 The first three papers in this series established the eternal structure (Paper 1), named its entities (Paper 2), and identified the first event that was not structurally necessary: the volitional act of creation (Paper 3). This paper describes what follows from that act — not the history of creation, which belongs to a different order of inquiry, but the structural logic of descent: why the created order has the constraint hierarchy it has, why that hierarchy is dimensional rather than geographical, and what follows from the dimensional structure for perception, actualization, and the final disposition of matter. The [[Appendix I - Dictionary of Terms#Constraint Cascade|constraint cascade]] — the full sequence from 1 to 3 to 6 to 12 to 24 to 48 to 96 constraints — is identified in Section 3 as the archetypal [[Appendix I - Dictionary of Terms#Heptaparaparshinokh|Heptaparaparshinokh]]: the primary instance of the universal [[Appendix I - Dictionary of Terms#Law of Seven|Law of Seven]], from which every subsequent seven-fold process in the created order derives its form.
 
-**Confidence tier notice:** Sections 2 through 5 carry the same mathematical warrant as Papers 1 through 3, deriving from the Gelfand triple structure and the spectral theorem. Section 6 marks a shift: the perceptual access and dimensional coexistence arguments are derived from the framework but with less formal rigor than Sections 2–5. Section 7 proceeds on testimony — Gurdjieff's cosmological account and the [[Appendix I - Dictionary of Terms#Urantia Book|Urantia]] revelation — treated as independent witnesses whose convergence with the mathematical framework is evidential weight, not proof. Section 8 is mixed: the bifurcation at death, the [[Appendix I - Dictionary of Terms#Coherence Threshold|coherence threshold]], and the [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]] identification carry derived or concordance-tier warrant and follow from the Gelfand triple framework; the specific claims about Guardian Seraphim and the Urantia account of non-survival are testimony. The reader should hold each section in the hand appropriate to its tier.
+**Confidence tier notice:** Sections 2 through 5 carry the same mathematical warrant as Papers 1 through 3, deriving from the Gelfand triple structure and the spectral theorem. Section 6 presents the series' theoretical model of the dual origin of space and time — the derivation of the Lorentzian signature and the E=mc² chain from the cascade structure — at the derived-pending-formal-argument tier; the full formal requirements are stated at the end of Section 6. Section 7 marks a shift to less formal rigor: the perceptual access and dimensional coexistence arguments are derived from the framework but with less mathematical precision than Sections 2–5. Section 8 proceeds on testimony — Gurdjieff's cosmological account and the [[Appendix I - Dictionary of Terms#Urantia Book|Urantia]] revelation — treated as independent witnesses whose convergence with the mathematical framework is evidential weight, not proof. Section 9 is mixed: the bifurcation at death, the [[Appendix I - Dictionary of Terms#Coherence Threshold|coherence threshold]], and the [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]] identification carry derived or concordance-tier warrant and follow from the Gelfand triple framework; the specific claims about Guardian Seraphim and the Urantia account of non-survival are testimony. The reader should hold each section in the hand appropriate to its tier.
 
 ---
 
@@ -152,7 +152,91 @@ The witnesses are reporting accurately. They saw a being who was genuinely prese
 
 ---
 
-## 6. Perceptual Access and the Moon-Stuff Argument
+## 6. Space, Time, and the Cascade Intervals
+
+*Confidence tier: the identification of the interval positions is derived from the Clifford algebra grade structure established in Section 3. The dual-origin model of space and time — deriving the Lorentzian signature from the cascade structure — is the series' theoretical proposal, at the derived-pending-formal-argument tier; the full formal requirements are stated at the end of this section. The E=mc² derivation chain is conditionally derived, contingent on the formal establishment of Cl(3,1) at H₂₄.*
+
+The constraint cascade is a descending Heptaparaparshinokh. Section 3 established the seven levels (H₁ → H₃ → H₆ → H₁₂ → H₂₄ → H₄₈ → H₉₆), the doubling of constraints at each step, and the identification of the seven levels with the seven non-null elements of Cl(3,0). The Heptaparaparshinokh has two qualitative intervals — points where the descent cannot continue by internal momentum alone and an external provision is required. The grade structure of Cl(3,0) places them exactly.
+
+### The Two Intervals of the Descending Cascade
+
+**Si-Do at H₁/H₃ — the First Free Act as interval crossing.** H₁ is the top Do: the atemporal, unconstituted ground — ⟨·,·⟩ alone, before any created structure exists. H₃ is the first constrained level: the three-Person constitutional algebra, the superuniverses, the first moment anything exists. The Si-Do interval is the gap between what is structurally necessary (the eternal structure) and what is not (the created order). Nothing inside H₁ structurally generates H₃. The descent from H₁ to H₃ requires what the ascending direction also requires: in the ascending direction, this crossing requires the Father's completion — the Adjuster fusion, the reconstituting presence of ⟨·,·⟩ at the top of the career. In the descending direction, it IS the Father's creative act: volitional, free, the provision from Do that initiates the entire cascade. The First Free Act of Paper 3, read as an interval crossing, is the Si-Do provision — top to bottom.
+
+**Mi-Fa at H₁₂/H₂₄ — where space and time meet.** The three levels of the cascade below H₁ — H₃, H₆, H₁₂ — are derivable from within the spatial Clifford algebra Cl(3,0). H₃ supplies the three grade-1 generators e₁, e₂, e₃; H₆ adds the three grade-2 bivectors e₁e₂, e₂e₃, e₁e₃; H₁₂ is exhausted by the grade-3 pseudoscalar I = e₁e₂e₃, which completes the entire spatial structure available. H₂₄ cannot be generated from within Cl(3,0) by any further grade extension — the algebra is complete at H₁₂. A new generator must enter from outside the spatial structure. This is the structural definition of a Heptaparaparshinokh interval: the descent stalls because the current resources are exhausted, and a provision from outside the current regime is required to cross.
+
+The provision that crosses the Mi-Fa is the temporal generator.
+
+### The Dual Origin of Space and Time
+
+The cascade runs in both directions simultaneously. The descent of space and the ascent of time converge at H₁₂/H₂₄.
+
+**Space descends from H₁.** The constitutional algebra Cl(3,0) is the direct expression of the First Free Act: three symmetric generators, each squaring to +1, reflecting the constitutive, positive-definite character of ⟨·,·⟩. The spatial structure is positive-definite because it inherits its character from the inner product that generates it — the Father's constitutive relation, symmetric, unconditional, and normatively equal in every direction. Space is what the constitutive principle looks like when it descends into constraint. The grades of Cl(3,0) produce the spatial hierarchy: grade-1 vectors (H₃), grade-2 bivectors (H₆), grade-3 pseudoscalar (H₁₂). Each grade adds a new degree of spatial organization. At H₁₂, the spatial potential of the First Free Act is fully deployed.
+
+**Time rises from H₉₆.** The bottom Do of the cascade is H₉₆: the most constrained, most mechanical, most dissipative level of the created order. The character of H₉₆ is the character of time itself: directional, irreversible, lossy. Every GNST application is irreversible — each eigenstate selection cannot be undone from within the level that produced it. This is the Heropass: not a force imposed on the cascade from outside, but the intrinsic character of the temporal principle animating the entire cascade from its bottom Do.
+
+Time rises from H₉₆ not as content but as character: the dissipative, asymmetric, directional principle that the Heropass names. Space extends symmetrically — a spatial generator eᵢ applied twice returns to the start (eᵢ² = +1). Time does not: each GNST application advances without return. Its squared value cannot be +1 as the spatial generators are.
+
+**The character of the temporal generator follows from its source.** The spatial generators square to +1 because they are constitutive, symmetric, and positive-definite — they derive from ⟨·,·⟩, the inner product, which satisfies ⟨ψ, ψ⟩ ≥ 0. The temporal generator squares to −1 because it is dissipative, asymmetric, and directional — it derives from the Heropass operating from H₉₆, which is not the constitutive inner product but its continuous irreversible application: the running of the GNST that cannot be unwound. This gives e₀² = −1 not as a stipulation but as a structural consequence of the temporal principle's ontological source.
+
+At H₁₂/H₂₄, the descending spatial structure (Cl(3,0), fully deployed through all three grades) meets the ascending temporal principle (e₀ with e₀² = −1). The algebra that results from joining e₀ to the three spatial generators is Cl(3,1): the Lorentzian spacetime algebra. The signature (+,+,+,−) is not stipulated. It is derived from the ontological character of the two principles' sources: constitutive (positive) descending from H₁, dissipative (negative) ascending from H₉₆.
+
+### What the Mi-Fa Crossing Derives
+
+**Lorentzian spacetime structure.** Cl(3,1), established at H₂₄ by the meeting of the spatial and temporal principles, is the geometric algebra of Minkowski spacetime. Its multivectors encode the full structure of special relativity: the metric g_μν with signature (+,+,+,−), 4-vectors, the electromagnetic field, and spinors. This structure does not enter H₂₄ by assumption. It emerges from the cascade as the algebraic consequence of two principles meeting at the Mi-Fa crossing with their respective ontological characters.
+
+**The Dirac equation.** From Cl(3,1) the Dirac equation follows directly. Hestenes' Spacetime Algebra (STA) is precisely this construction: the Dirac equation rewritten in Cl(3,1) without additional postulate, revealing it as a statement about the geometric algebra of spacetime rather than an independent axiom of quantum theory. The cascade framework supplies a derivation of why Cl(3,1) specifically — signature set by the dual-origin model — rather than Cl(4,0) or Cl(1,3).
+
+**The relativistic dispersion relation and E=mc².** From the Dirac equation the relativistic dispersion relation follows: E² = (pc)² + (mc²)². For a particle at rest (p = 0): E = mc². The speed of light c enters as the ratio between the spatial and temporal generators in Cl(3,1) — the natural coupling set by the algebra that combines the constitutive spatial structure (generators eᵢ, squaring to +1) with the dissipative temporal generator (e₀, squaring to −1). It is not a free parameter but the structural ratio between the two principles. Its specific value in H₄₈ metric units is an open derivation (parallel to the challenge of deriving G for the Friedmann bridge: a cascade-intrinsic quantity requiring translation to SI units), but its existence and algebraic role follow from the cascade structure.
+
+**Matter as energy at maximum specificity.** E = mc² says that mass is concentrated energy. The cascade supplies the structural account of what "concentrated" means. Energy at the H₁ level is distributional — full potential, no actualization. Each level of descent concentrates it: eigenstate selection narrows the accessible potential, constraint doubling forces more precise localization. By H₄₈, the content is at maximum specificity — mass in the ordinary physical sense. c² is the conversion factor between the concentrated and unconcentrated forms, set by the ratio of the spatial and temporal generators at the Mi-Fa crossing. Matter is not a different thing from energy. It is the same spectral content at maximum localization — what energy becomes when the cascade has fully constrained it.
+
+### Light: The Daughter of the Crossing
+
+Section 3 noted that the pseudoscalar I = e₁e₂e₃ plays a distinctive role in Cl(3,0): as the grade-3 element, it commutes with every element of the algebra — it is central, traversing the full spatial structure without preferred orientation within it. Paper 5 identifies the photon as the particle immune to the Higgs mechanism, because the Higgs couples to the oriented, localized degrees of freedom of H₄₈ matter, and the pseudoscalar has none to couple to.
+
+The dual-origin model extends this identification. I = e₁e₂e₃ is the final grade of the spatial descent — the element that completes the spatial structure at H₁₂, just before the Mi-Fa interval. It is exactly what the spatial principle generates at its exhaustion point. The temporal principle, arriving from H₉₆, brings e₀. In Cl(3,1), the electromagnetic field is expressed through the bivectors {e₀eᵢ} — precisely the products of the spatial generators with the temporal generator. Light is constituted by the meeting of the two principles: what the spatial structure generates (the oscillating field) in response to the temporal structure (the propagation), and what the temporal structure generates (the propagation) in response to the spatial structure (the field configuration). Each requires the other. Light is their joint expression.
+
+The photon's nullness has a precise structural reading. In Cl(3,1), the photon's 4-momentum satisfies p² = E²/c² − |**p**|² = 0: the spatial and temporal contributions to the Lorentzian norm exactly cancel. This is the condition of being at the crossing itself: not dominated by space (+), not dominated by time (−), but their exact meeting point. The photon has zero mass because it is the crossing point instantiated as a particle — and the crossing point has Lorentzian norm zero by definition. Masslessness is not an independent property of the photon; it is the structural signature of what lives precisely at the Mi-Fa interval.
+
+Light is what happens when space and time meet.
+
+### The Ascending Symmetry
+
+The Mi-Fa crossing has a corresponding structure in the ascending direction. The two crossings from both directions illuminate each other:
+
+| Direction | Interval | What crosses | Who provides it |
+|---|---|---|---|
+| Descending | Do/Si (H₁/H₃) | Spatial structure begins | Father's volitional creative act |
+| Descending | Fa/Mi (H₁₂/H₂₄) | Temporal principle meets spatial exhaustion | Heropass rising from H₉₆ |
+| Ascending | Mi/Fa (H₁₂/H₂₄) | Creature crosses into morontial range | Creature's volition — the catching |
+| Ascending | Si/Do (H₁/H₃) | Creature completes the return | Father's grace — Adjuster fusion |
+
+The descending Fa/Mi and the ascending Mi/Fa are the same crossing, traversed in opposite directions. On the way down, the temporal principle arrives as the external provision that generates Lorentzian spacetime — the Heropass, rising from H₉₆, meets the spatial structure at its exhaustion point and introduces e₀ with e₀² = −1. On the way up, the creature's volitional catching is the external provision required at the same crossing — the one point in the ascending career where the current constraint level's internal resources are exhausted before the next is reached, and deliberate orientation toward lower-constraint content is structurally required to cross.
+
+That both crossings occur at H₁₂/H₂₄ is not coincidence. The Mi-Fa interval is the single qualitative gap in the middle of the created cascade — the one place where exhaustion is mutual: the spatial structure is complete and cannot generate more, the ascending creature is at the limit of what the physical lifetime builds without deliberate will. The Heropass that introduces time is the same Heropass against which catching must work. Section 9 develops the consequence that the physical life's friction has structural value at exactly this point.
+
+### What This Section Derives and What It Does Not
+
+**Derived from the cascade structure:**
+- The existence and location of the two qualitative intervals: Si-Do at H₁/H₃, Mi-Fa at H₁₂/H₂₄
+- The necessity of a new generator at H₂₄ that cannot be produced from within Cl(3,0)
+- The Lorentzian signature (+,+,+,−) of spacetime, from the constitutive character of space (H₁ descent) and the dissipative character of time (H₉₆ ascent)
+- The algebraic form Cl(3,1) at the Mi-Fa crossing
+- The Dirac equation's geometric form in Cl(3,1) — Hestenes' STA — as the natural algebra of the crossing
+- The relativistic dispersion relation E² = (pc)² + (mc²)² and E = mc² for particles at rest
+- The photon's masslessness and immunity to the Higgs mechanism as structural consequences of the Mi-Fa crossing
+- The nullness p² = 0 of the photon's 4-momentum as the Lorentzian signature of what lives at the meeting point
+
+**Not yet derived from the cascade structure:**
+- The specific numerical value of c in H₄₈ metric units (requires translating cascade-intrinsic generator ratios to SI — the same open derivation as G for the Friedmann bridge)
+- The fine structure constant α = e²/4πε₀ℏc (requires the full H₄₈ constraint structure of Paper 5)
+- The full particle content of the Standard Model (requires the representation theory of the H₄₈ symmetry group — Paper 5)
+
+**The open formal step.** The dual-origin model as stated is a theoretical proposal that structurally motivates the derivation of the Lorentzian signature. The formal derivation requires establishing the precise mechanism by which e₀ with e₀² = −1 enters at the Mi-Fa crossing from the H₉₆ direction: specifically, (1) a formal account of how the GNST's dissipative, asymmetric character at H₉₆ translates into the algebraic property e₀² = −1, rather than e₀² = +1; and (2) the derivation of c in cascade-intrinsic units and its translation to H₄₈ metric units. Both steps are structurally motivated by the dual-origin model and are the primary open derivations this section generates.
+
+---
+
+## 7. Perceptual Access and the Moon-Stuff Argument
 
 *Confidence tier: derived from the framework; strongly motivated but less formally established than Sections 2–5.*
 
@@ -174,7 +258,7 @@ The cosmology is therefore not geographical. It is dimensional. Each level of th
 
 ---
 
-## 7. The Fractal Trogoautoegocrat
+## 8. The Fractal Trogoautoegocrat
 
 *Confidence tier: this section proceeds on the testimony of Gurdjieff's cosmological account and the Urantia revelation, treated as independent witnesses. The structural convergence with the mathematical framework is evidential weight, not proof.*
 
@@ -196,7 +280,7 @@ Nothing is lost. Both circuits are expressions of the same fundamental lossiness
 
 ---
 
-## 8. The Bifurcation at Death
+## 9. The Bifurcation at Death
 
 The two circuits are not parallel tracks that a being occupies simultaneously. They are what the spectral content of a being sorts into at the dissolution of the physical structure.
 
@@ -244,7 +328,7 @@ This gives the inner development traditions of every culture a structural basis 
 
 ---
 
-## 9. Discussion
+## 10. Discussion
 
 ### One law, not two
 
@@ -300,7 +384,7 @@ You are loved into existence at every moment. If you exist, it means that the Fa
 
 The specific organizational structure of the seven bestowal missions — the Heptaparaparshinokh in time, the seven stages of Creator Son descent, the Clifford algebra grade transitions at the Mi-Fa and [[Appendix I - Dictionary of Terms#Si-Do Interval|Si-Do interval]]s — belongs to testimony rather than derivation and is treated in the episode notes for this series. A future paper, when the mathematical basis for the seven grades of creative descent has been established with the rigor appropriate to Papers 1–3, will bring that material into the formal framework.
 
-**The bestowal sequence and Paper 7.** The specific organizational structure of the seven bestowal missions — the Heptaparaparshinokh in time, the seven stages of Creator Son descent, the Clifford algebra grade transitions at the Mi-Fa and Si-Do intervals — belongs partly to testimony. Paper 7 takes up these questions directly: it develops the Trogoautoegocrat, the Heptaparaparshinokh traversed simultaneously in both directions — the bestowal sequence descending and the ascending mortal career ascending, coupled into a self-sustaining circuit. The formal identification of the Mi-Fa and Si-Do interval positions in the cosmic descent (as distinct from the mortal ascending career) remains an open derivation.
+**The bestowal sequence and Paper 7.** The specific organizational structure of the seven bestowal missions — the Heptaparaparshinokh in time, the seven stages of Creator Son descent, the Clifford algebra grade transitions at the Mi-Fa and Si-Do intervals — belongs partly to testimony. Paper 7 takes up these questions directly: it develops the Trogoautoegocrat, the Heptaparaparshinokh traversed simultaneously in both directions — the bestowal sequence descending and the ascending mortal career ascending, coupled into a self-sustaining circuit. Section 6 of this paper establishes the Mi-Fa interval position (H₁₂/H₂₄) and the Si-Do interval position (H₁/H₃) in the cosmic descent, via the dual-origin model of space and time; the formal derivation of the Lorentzian signature from the cascade's ontological characters is the remaining open step noted there.
 
 **Open question — hierarchical vs. gravitational time dilation.** The time dilation formula T_A/T_B = n_A/n_B, derived from the fractal temporal constraint structure, is consistent in direction with GR gravitational time dilation but is not the same effect. GR time dilation is a continuous function of distance and mass within a single level; the hierarchical dilation is a discrete step function that jumps by a factor of 2 at each level boundary. The paper notes that both point in the same direction — fewer constraints, slower time, consistent with deeper gravitational proximity to the Isle of Paradise — but stops short of claiming they are the same phenomenon or that they commute. What remains unresolved: whether the two effects are additive, whether there is a continuous limit in which the discrete hierarchical dilation recovers the GR formula, and what the correct description is of the regime in which each operates. This is live, unresolved work.
 
@@ -388,7 +472,7 @@ A precise question about the bridge's epistemological status: is H = GNST rate d
 
 ---
 
-## 10. Conclusion
+## 11. Conclusion
 
 The created universe is not organized spatially. It is organized dimensionally. Each level of the creative hierarchy occupies the same physical space as every other level, constituted by matter of a specific constraint density, with degrees of freedom proportional to the inverse of that density. The levels nest: each is a subspace of the level above it, fully contained within it, unable to contain it.
 
@@ -407,18 +491,6 @@ The eternal structure is necessary. The first free act is volitional. The create
 The observation behind the question: if the hydrogen table names eigenvalue content organized at each constraint level, and Okidanokh names the three-fold constitutional structure, then Etherokrilno's character — primordial, space-pervading, the substrate in which the Trogoautoegocrat operates — maps structurally onto what the framework identifies as lower-constraint spectral content distributed throughout H₄₈ space: gravitationally active, electromagnetically invisible, the medium of the material return circuit. Gurdjieff may have been perceiving structural realities without the formalism to name them precisely, and his substance vocabulary may encode the constraint hierarchy in phenomenological terms.
 
 The specific question: does a systematic reading of *Beelzebub's Tales* reveal that each named substance has properties corresponding to a specific Hₙ level, with Etherokrilno as the general term for sub-H₄₈ eigenvalue content and finer substance names distinguishing H₃-organized, H₆-organized, H₂₄-organized content? *(Verification target: systematic reading of Beelzebub's Tales with the constraint cascade in hand. The hydrogen table is already confirmed as the doubling sequence; the question is whether the named substances extend the mapping into qualitatively distinct structural levels.)*
-
-**OQ2 — The Heptaparaparshinokh structure of the descending cascade and the derivation of Lorentzian spacetime.** The constraint cascade H₁ → H₃ → H₆ → H₁₂ → H₂₄ → H₄₈ → H₉₆ is a descending Heptaparaparshinokh with H₁ as the highest Do and H₉₆ as the bottom Do. The two intervals fall at:
-
-- **Si-Do at H₁/H₃**: the creation itself — the jump from the atemporal constitutive ground (⟨·,·⟩ alone, H₁) to the first constrained physical level (the three-Person spatial structure, H₃). This is the First Free Act of Paper 3 read as an interval crossing. In ascending, the Si-Do requires the Father's completion; in descending, it IS the Father's creative act.
-
-- **Mi-Fa at H₁₂/H₂₄**: the qualitative gap mid-cascade. The three notes H₃, H₆, H₁₂ are derivable from within the purely spatial Clifford algebra Cl(3,0): H₃ supplies the three grade-1 generators, H₆ adds the three grade-2 bivectors, H₁₂ exhausts the spatial structure available. H₂₄ cannot be generated from within Cl(3,0). The Mi-Fa shock at this crossing is the introduction of a timelike generator — an element e₀ with e₀² = −1, changing the algebra's signature from Cl(3,0) [positive-definite, purely spatial] to Cl(3,1) [Lorentzian, spacetime]. This generator cannot be derived from the spatial algebra; it must enter as an external provision, which is the structural definition of a Heptaparaparshinokh interval.
-
-The structural consequence: the pre-Mi-Fa levels (H₃, H₆, H₁₂) have *time as succession* — the GNST is running, there is before/after ordering — but not *time as dimension*. There is no timelike generator, no Lorentzian metric, no c, no measurable temporal coordinate with a defined metric relationship to space. The post-Mi-Fa levels (H₂₄, H₄₈) have both: the GNST succession and the metrically coherent spacetime structure. H₂₄ is the first level at which space and time are both dimensionally operative. This is consistent with the Urantia description of spirit-level existence (H₁₂ and above) as not subject to physical time, while morontial existence (H₂₄) operates in metrically structured spacetime.
-
-The derivation target: once the Lorentzian algebra Cl(3,1) is established at H₂₄, the Dirac equation follows directly from the algebra (Hestenes' Spacetime Algebra is precisely this construction), the relativistic dispersion relation E² = (pc)² + (mc²)² follows from the Dirac equation, and E = mc² follows for particles at rest. The speed of light c enters as the ratio set by the spatial and temporal generators — not a free parameter but a structural consequence of the Lorentzian signature. *(Mathematical development required: formal derivation of why e₀² = −1 rather than +1, i.e., why the temporal generator has Lorentzian rather than Euclidean signature; this follows from the asymmetric character of the GNST — eigenstate succession is lossy and directional, unlike the symmetric spatial generators. The derivation of c in cascade-intrinsic units, and its translation to H₄₈ metric units, shares structure with the Friedmann bridge derivation in §9.)*
-
-**OQ3 — Time as succession versus time as dimension across the cascade.** OQ2 distinguishes two aspects of time that the cascade separates structurally. Time as succession (before/after ordering generated by the GNST's continuous operation) is present at every level from H₃ onward — the Heropass runs at all levels, at rates proportional to constraint density. Time as dimension (Lorentzian, metrically structured, with c as limiting propagation speed) enters only at H₂₄ via the Mi-Fa crossing. The open question is whether this distinction has further structural consequences: does the absence of dimensioned time at H₁₂ and above imply specific structural properties of spirit-level existence beyond the Urantia testimony? In particular, does the absence of the Lorentzian metric at H₁₂ imply that spirit-level beings cannot be localized in the same sense as H₄₈ beings — that position is defined by the spatial generators alone, without the spacetime metric that makes simultaneous localization in space and time well-defined? *(Structural analysis required; Urantia testimony on the nature of spirit existence is the concordance target.)*
 
 ---
 
