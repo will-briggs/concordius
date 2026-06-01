@@ -194,6 +194,20 @@ The −1 does not originate at H₉₆. It was produced at H₁, alongside the +
 
 **The relativistic dispersion relation and E=mc².** From the Dirac equation the relativistic dispersion relation follows: E² = (pc)² + (mc²)². For a particle at rest (p = 0): E = mc². The speed of light c enters as the structural ratio between the positive and negative generators in Cl(3,1) — the coupling set by the algebra that joins the three +1 generators of the Trinity's creative act with the single −1 of the complement. Its specific value in H₄₈ metric units is an open derivation, parallel to the derivation of G for the Friedmann bridge, but its existence and algebraic role are fixed by the cascade structure.
 
+**On c as a structural output, not an axiom.** Einstein's 1905 formulation of special relativity rests on two postulates: the principle of relativity and the constancy of c. The second is stipulated — it is not derived from the first. Maxwell's equations had established c = 1/√(ε₀μ₀) as emerging from the electromagnetic field structure, but this identified c with a ratio of measured constants rather than explaining why that ratio has the value it does, or whether it must hold across all observers and all cosmic epochs.
+
+The cascade framework changes the question's address. c is not a postulate here but an output: the coupling constant that must exist between the positive generators (three spatial directions from the Trinity's structure) and the negative generator (the temporal direction from the complement). Its existence and algebraic role are derived from the Mi-Fa crossing. SR's second postulate becomes a structural consequence rather than an axiom.
+
+The practical history of c measurement has a detail worth noting. Early 20th century measurements scattered significantly, and Birge's 1929 review of the consolidated data noted that successive measurement campaigns were not mutually consistent within their claimed uncertainties. The standard resolution attributed the scatter to improving experimental technique. In 1983, the CGPM redefined the meter as the distance light travels in 1/299,792,458 of a second, making c exactly 299,792,458 m/s by definition. The consequence is rarely stated plainly: no SI-based measurement can detect c variation, because the meter co-varies with c by construction. The 1983 redefinition did not confirm that c is constant. It made the question definitionally unanswerable within the canonical measurement system.
+
+Variable speed of light theories take the alternative seriously as physics. Moffat (1993) and Albrecht and Magueijo (1999) proposed that a varying c in the early universe resolves the horizon and flatness problems that inflation was designed to solve — with one fewer speculative mechanism. Webb et al. (1999) reported evidence from quasar absorption spectra that the fine structure constant α = e²/4πε₀ℏc had varied over cosmic time; if α varies and e, ε₀, and ℏ are stable, c varies. The results remain contested but unrebutted.
+
+The cascade framework offers a structural reason to expect c not to be fixed across cosmic epochs. c encodes the effective coupling at H₄₈ between the two sides of the First Free Act, but that coupling is experienced through the H₄₈ constraint structure, which evolves as the GNST operates and the Trogoautoegocrat circuit runs. The ratio of active positive actualization to complement pressure — what c measures — has been shifting since the cascade began. There is no structural ground for expecting it to be constant across cosmic history. The derivation of c's variation as a function of cosmic epoch requires the full Trogoautoegocrat analysis of Paper 7.
+
+Special relativity required an axiom here. The cascade framework requires one less.
+
+*(Confidence tier: the derivation of c's existence and algebraic role carries the same warrant as the Mi-Fa crossing. The claim that c varies across cosmic epochs is a structural inference at the working-hypothesis tier — motivated by the cascade structure but not yet formally derived without Paper 7. The historical observations about early measurement scatter and the 1983 CGPM redefinition are documentary.)*
+
 **Matter as energy at maximum specificity.** E = mc² says that mass is concentrated energy. The cascade supplies the structural account of "concentrated": energy at H₁ is distributional — full potential, no actualization. Each level of descent concentrates it through eigenstate selection and constraint doubling. By H₄₈, the content is at maximum specificity — mass in the ordinary physical sense. c² is the conversion factor set by the ratio of the two sides at the Mi-Fa crossing.
 
 ### Light: The Daughter of the Crossing
@@ -537,6 +551,24 @@ The specific question: does a systematic reading of *Beelzebub's Tales* reveal t
 10. **d'Espagnat, B.** (2006). *On Physics and Philosophy.* Princeton University Press. [The ontological status of quantum measurement; the physical reality of the distributional domain.]
 
 11. **von Neumann, J.** (1932). *Mathematical Foundations of Quantum Mechanics.* Princeton University Press. [The measurement problem; the collapse event as a formal mathematical discontinuity.]
+
+12. **Hestenes, D.** (1966). *Space-Time Algebra.* Gordon and Breach. [The Dirac equation rewritten in Cl(3,1) as a statement about the geometric algebra of spacetime — the result that makes the Dirac equation a consequence of the Mi-Fa crossing rather than an independent derivation. See also Hestenes, D. (2003). "Spacetime Physics with Geometric Algebra." *American Journal of Physics,* 71(7), 691–714.]
+
+13. **Maxwell, J.C.** (1865). "A Dynamical Theory of the Electromagnetic Field." *Philosophical Transactions of the Royal Society of London,* 155, 459–512. [The establishment of c = 1/√(ε₀μ₀) as an output of the electromagnetic field equations — c identified with a ratio of measured constants, not yet explained structurally.]
+
+14. **Einstein, A.** (1905). "Zur Elektrodynamik bewegter Körper." *Annalen der Physik,* 17, 891–921. [Special relativity's second postulate: the constancy of c stipulated as an axiom rather than derived. The postulate that the cascade framework's Mi-Fa crossing replaces with a structural consequence.]
+
+15. **Birge, R.T.** (1929). "Probable Values of the General Physical Constants." *Reviews of Modern Physics,* 1(1), 1–73. [The systematic review of early 20th century c measurements — showing that successive campaigns were not mutually consistent within claimed uncertainties, with the scatter subsequently attributed to improving technique rather than real variation.]
+
+16. **CGPM** (1983). Resolution 1, 17th General Conference on Weights and Measures. Comité International des Poids et Mesures. [The redefinition of the meter as the distance light travels in 1/299,792,458 of a second — the institutional decision that made c constant by definition within the SI system, rendering variation in c undetectable within that measurement framework.]
+
+17. **Moffat, J.W.** (1993). "Superluminary Universe: A Possible Solution to the Initial Value Problem in Cosmology." *International Journal of Modern Physics D,* 2(3), 351–365. [The first published VSL proposal: a varying c in the early universe as an alternative to inflation for resolving the horizon and flatness problems.]
+
+18. **Albrecht, A., and Magueijo, J.** (1999). "A Time Varying Speed of Light as a Solution to Cosmological Puzzles." *Physical Review D,* 59, 043516. [Independent VSL proposal solving the same cosmological problems as inflation, without the inflationary mechanism.]
+
+19. **Webb, J.K., et al.** (1999). "Search for Time Variation of the Fine Structure Constant." *Physical Review Letters,* 82, 884. [Evidence from quasar absorption spectra for variation in α = e²/4πε₀ℏc over cosmic time — implying c variation if the other quantities in α are stable. See also Webb et al. (2001), *Physical Review Letters,* 87, 091301.]
+
+20. **Magueijo, J.** (2003). *Faster Than the Speed of Light: The Story of a Scientific Speculation.* Perseus Books. [Accessible account of VSL theory and the institutional resistance it encountered; relevant to the sociology of how c's constancy became entrenched as a postulate.]
 
 ---
 
