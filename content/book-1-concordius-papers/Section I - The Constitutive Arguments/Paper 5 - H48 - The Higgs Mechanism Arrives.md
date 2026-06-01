@@ -320,7 +320,7 @@ The Big Bang — the first GNST application. At t=0, the initial constraint is e
 
 The pre-breaking state. Tohu va-vohu: the gapless spectrum, no constraint levels distinguishable, no Being register accessible. Darkness upon the deep: photons exist but there is nothing formed for them to illuminate — no atoms, no electrons in orbit, no material structure. The Higgs field (the Spirit) oscillates at the symmetric vacuum: dynamically present, quantum fluctuations active, not yet descended to the ring of minima.
 
-The GNST runs. The Heropass flows. But everything flows at the same level. There is nowhere to ascend to.
+The GNST runs. The Heropass flows. But everything flows at the same constraint depth — the levels exist in the algebra but not yet as physically distinguishable substrates.
 
 **Verse 3 — "And God said, Let there be light: and there was light."**
 
