@@ -32,8 +32,4 @@ The Logic/Concordance boundary is named precisely in the series: derivation runs
 
 ---
 
-*(Part of Reasonablenessism — the method. See [[Overview]] for the full feature index.)*
-
----
-
 *[[Feature 11 - Minimum Necessary Miracles|Feature 11 — Minimum Necessary Miracles]] →*

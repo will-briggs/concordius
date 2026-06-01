@@ -34,8 +34,4 @@ In the constraint cascade, H₄₈ substrate carries lower-constraint spectral c
 
 ---
 
-*(Part of Reasonablenessism — the method. See [[Overview]] for the full feature index.)*
-
----
-
 *[[Feature 6 - Convergence of Independent Witnesses|Feature 6 — Convergence of Independent Witnesses]] →*

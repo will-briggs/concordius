@@ -34,8 +34,4 @@ The steelman requirement is the epistemic discipline of noise-floor reduction: b
 
 ---
 
-*(Part of Reasonablenessism — the method. See [[Overview]] for the full feature index.)*
-
----
-
 *[[Feature 3 - Personal Experience as Testimony|Feature 3 — Personal Experience as Testimony]] →*

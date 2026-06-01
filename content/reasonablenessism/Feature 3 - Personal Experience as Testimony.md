@@ -34,8 +34,4 @@ Personal experience is τ_r evidence: the phenomenological signature of τ_r(D, 
 
 ---
 
-*(Part of Reasonablenessism — the method. See [[Overview]] for the full feature index.)*
-
----
-
 *[[Feature 4 - The Stance Applies to Itself|Feature 4 — The Stance Applies to Itself]] →*

@@ -36,8 +36,4 @@ Feature 4 is the epistemic analog of the Thought Adjuster: the component that or
 
 ---
 
-*(Part of Reasonablenessism — the method. See [[Overview]] for the full feature index.)*
-
----
-
 *[[Feature 5 - Provenance Is Irrelevant to Truth-Value|Feature 5 — Provenance Is Irrelevant to Truth-Value]] →*

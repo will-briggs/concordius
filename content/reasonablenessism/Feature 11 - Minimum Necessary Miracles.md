@@ -36,8 +36,4 @@ Both the materialist account and the consciousness-first account require a mirac
 
 ---
 
-*(Part of Reasonablenessism — the method. See [[Overview]] for the full feature index.)*
-
----
-
 *[[Feature 12 - Fruit, Not Lineage|Feature 12 — Fruit, Not Lineage]] →*

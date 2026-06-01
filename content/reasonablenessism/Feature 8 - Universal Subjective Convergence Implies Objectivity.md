@@ -36,8 +36,4 @@ Feature 8 is the epistemological complement of Papers 1-2. Papers 1-2 develop th
 
 ---
 
-*(Part of Reasonablenessism — the method. See [[Overview]] for the full feature index.)*
-
----
-
 *[[Feature 9 - Explicit Confidence Tiers|Feature 9 — Explicit Confidence Tiers]] →*

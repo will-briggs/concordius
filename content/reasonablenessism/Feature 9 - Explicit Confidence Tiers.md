@@ -34,8 +34,4 @@ In Concordius, confidence tiers map onto the constraint hierarchy. Tier 1: logic
 
 ---
 
-*(Part of Reasonablenessism — the method. See [[Overview]] for the full feature index.)*
-
----
-
 *[[Feature 10 - Logic Where It Reaches; Concordance Where It Doesn't|Feature 10 — Logic Where It Reaches; Concordance Where It Doesn't]] →*

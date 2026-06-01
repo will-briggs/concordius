@@ -32,8 +32,4 @@ Feature 6 is the methodological foundation of the entire concordance program. Th
 
 ---
 
-*(Part of Reasonablenessism — the method. See [[Overview]] for the full feature index.)*
-
----
-
 *[[Feature 7 - The Self-Sealing Test|Feature 7 — The Self-Sealing Test]] →*

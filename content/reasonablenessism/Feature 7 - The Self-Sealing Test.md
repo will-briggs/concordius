@@ -34,8 +34,4 @@ Feature 7 identifies claims whose τ(D) approaches 1 — not by derivation but b
 
 ---
 
-*(Part of Reasonablenessism — the method. See [[Overview]] for the full feature index.)*
-
----
-
 *[[Feature 8 - Universal Subjective Convergence Implies Objectivity|Feature 8 — Universal Subjective Convergence Implies Objectivity]] →*
