@@ -74,6 +74,8 @@ A consequence of Section 2 that warrants separate statement: time is not a featu
 
 Time enters with the first collapse event. A collapse event is a "now" — a definite, located outcome. A second collapse event is a later "now." The relation between them is temporal succession. Time is constituted by the ordered sequence of collapse events; it has no existence prior to or apart from that sequence.
 
+*(This is the structural content of "before and after" that Paper 2's definition of [[Appendix I - Dictionary of Terms#Eternal|eternity]] deferred: "before" is an earlier collapse event; "after" is a later one. The temporal order is the ordered sequence of collapse events, and this sequence has no existence prior to or apart from the mechanism introduced in Section 2 of this paper. The Trinity members — ⟨·,·⟩, Φ, τ_nuclear — are eternal in the sense established in Paper 2 precisely because they are preconditions of this collapse mechanism, not products of it.)*
+
 Space enters with the first localization. The Dirac delta δ(x − x₀) in Φ′ is pure spatial localization — a point at x₀. When the spectral measure selects x₀, a spatial location is created. The collection of all such selections constitutes the spatial structure of the physical universe. Space, like time, is a product of the collapse process, not a container waiting for it.
 
 This means the creation of the universe is not the creation of an empty space and time into which matter is then placed. It is the creation of space and time themselves, through the ongoing sequence of spectral collapse events coordinated by the Father-as-Universal-Absolute. The universe is not created once, in the past, and then left to run. It is created continuously, in the present, by the same sustained volitional act.
