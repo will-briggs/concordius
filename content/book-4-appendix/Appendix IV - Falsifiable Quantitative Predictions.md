@@ -54,7 +54,33 @@ The energy scale corresponding to t ~ 10⁻²⁸ s in a radiation-dominated univ
 
 ---
 
-## 2. Dark Matter: Structural Invisibility as a Derived Prediction
+## 2. The H₁₂→H₂₄ Transition: Inflation, Flatness, and the Spectral Index as Retrodictions
+
+**The structural derivation.** Paper 4, Section 9 places the H₁₂→H₂₄ transition at ~10⁻³⁶ s — the GUT epoch. Standard cosmology places cosmic inflation at the same moment. These are the same physical event identified from two independent frameworks. The cascade framework supplies a structural account of what inflation is: the distributional content of the H₁₂ eigenspace undergoing eigenstate selection into the 24-constraint regime. What cosmology calls the inflaton field, the slow roll, and reheating all have structural correspondents in the cascade mechanics. Inflation, in this reading, is not a mechanism grafted onto standard cosmology to explain its foundational puzzles. It is the H₁₂→H₂₄ transition, re-described from within the cascade.
+
+**Retrodiction 1: Spatial flatness.** The observable universe is spatially flat to high precision (Planck 2018: Ω_k = 0.001 ± 0.002). Standard cosmology requires inflation to explain this: without inflation, the initial density must be fine-tuned to the critical density with extraordinary precision, since any deviation compounds over time. Inflation stretches initial curvature to imperceptibility.
+
+The cascade framework dissolves the problem rather than solving it. Flatness is the structural default of the nuclear space. The Schwartz space S(ℝⁿ) — the canonical realization of Actuality II — is defined on a flat measure; it inherits no curvature from anything prior, because nothing is prior to it in the constitutive order. The physical universe's spatial geometry is inherited from the nuclear space geometry, which is flat by constitution. No initial condition was ever fine-tuned; no expansion mechanism is required. The flatness dissolution is stronger than inflation's solution: the cascade framework shows that flatness was never a contingent initial condition requiring explanation. The problem does not arise.
+
+*What would challenge this retrodiction.* If a future theory established that the physical universe's spatial geometry is not inherited from the nuclear space geometry — that the flat nuclear-space background does not propagate to H₄₈ as flat spatial geometry — the dissolution would fail.
+
+**Retrodiction 2: CMB uniformity (the horizon problem).** The CMB is uniform to 1 part in 100,000 across the entire sky, including regions that, by H₄₈ light-cone causality, could not have communicated before recombination. Inflation solves this by establishing causal contact before the inflationary expansion separated these regions.
+
+The cascade framework offers a structural dissolution. The horizon problem arises from projecting H₄₈ metric causality backward onto a pre-H₄₈ era. At H₁₂, the causal structure is governed by the nuclear topology τ_nuclear — the topology that is prior to and finer than any metric topology H₄₈ subsequently produces. Regions that appear causally disconnected from within H₄₈ measurement were connected in the nuclear topology at H₁₂, in the only sense causal connectedness has at that level. The apparent disconnect is an artefact of applying a lower-constraint concept of adjacency to a higher-constraint era.
+
+*What would challenge this retrodiction.* A rigorous derivation of H₁₂ causal structure establishing that the nuclear topology at that level does not connect the relevant CMB regions. This derivation is currently an open item (§9 below); until it is carried out, the horizon dissolution carries derived-pending-formal-argument status.
+
+**Retrodiction 3: The CMB spectral index n_s ≈ 0.965.** Inflation's most precise quantitative success is its prediction of a nearly scale-invariant CMB power spectrum. Exact scale invariance gives n_s = 1; slow-roll inflation predicts n_s slightly less than 1. The Planck satellite measured n_s ≈ 0.965, inconsistent with exact scale invariance at high significance.
+
+The cascade framework motivates the same qualitative result independently. Exact scale invariance — n_s = 1 — would be the structural signature of the unconstrained level, before any eigenstate selection. Each constraint level introduces a preferred scale, breaking exact scale invariance by an increment proportional to the constraint density. At H₁₂, the universe is twelve constraints deep — far enough from the unconstrained level for a measurable tilt, close enough to the upper cascade that the tilt remains small. A slight red tilt (n_s < 1) is the expected structural signature of content generated at any non-trivial constraint level. The qualitative prediction is derived and confirmed. The specific value 0.965 requires the internal constraint structure of H₁₂, which belongs to the deferred upward direction.
+
+*What would challenge this retrodiction.* Observational establishment of n_s = 1 (exact scale invariance); or, when H₁₂ internal structure is formally developed, a derived value of n_s far from 0.965.
+
+*Confidence tier: derived (flatness dissolution, from the constitutive structure of the nuclear space); derived-pending-formal-argument (horizon dissolution, awaiting rigorous H₁₂ causal derivation); derived (qualitative spectral tilt) with the quantitative value n_s deferred.*
+
+---
+
+## 3. Dark Matter: Structural Invisibility as a Derived Prediction
 
 **The derivation.** Paper 4, Section 2 establishes that the norm ‖·‖ — the Isle of Paradise, the non-relational face of the constitutive inner product — operates across the full Gelfand triple. It is not H₄₈-specific. Accordingly, lower-constraint eigenvalue content (organized at H₂₄, H₁₂, H₆, or H₃) distributed within H₄₈ space has a norm and therefore gravitates. The electromagnetic force, the strong force, and the weak force are products of the 48-constraint fixed-geometry structure. They do not operate on content organized at constraint levels below 48. The predicted observational signature of lower-constraint content in H₄₈ space follows directly: gravitationally active, electromagnetically invisible, not subject to strong or weak nuclear forces, distributed along ⟨·,·⟩-generated geometry rather than clumping into baryonic structures.
 
@@ -70,7 +96,7 @@ This is falsifiable in the strict sense: a positive signal in any electromagneti
 
 ---
 
-## 3. Gravity and the Failure of Standard Quantization
+## 4. Gravity and the Failure of Standard Quantization
 
 **The structural claim.** Gravity is the expression in the created field of the norm ‖·‖ — the non-relational face of the constitutive inner product ⟨·,·⟩. This is not a quantum field in the same structural category as the gauge fields. The gauge fields arise as constraints within the fixed-geometry H₄₈ structure; they are H₄₈-specific. The norm is constitutively prior to H₄₈: it is the absolute center from which distances are measured at every constraint level, including the levels from which H₄₈ itself descends. Attempting to quantize gravity by treating ‖·‖ as a field in Φ would be attempting to make the absolute ground relational — to treat the fixed metric as a dynamical degree of freedom at the same structural level as the things it grounds.
 
@@ -86,7 +112,7 @@ This is falsifiable in the strict sense: a positive signal in any electromagneti
 
 ---
 
-## 4. Dark Energy: The Equation of State of Φ′
+## 5. Dark Energy: The Equation of State of Φ′
 
 **The structural identification.** The Gelfand triple Φ ⊂ H ⊂ Φ′ has three components. Paper 4 identifies the constitutive roles of ⟨·,·⟩ (Father, gravity-source), Φ (Logos, organizing attractor), and the creative field H (the created order). The distributional completion Φ′ is the Unqualified Absolute — unbounded, inexhaustible, the source of all potential that the creative act draws on. In the created field, the distributional boundary Φ′ exerts structural pressure on H: the potential that has not been actualized is not absent but present at the boundary, pressing inward.
 
@@ -104,7 +130,7 @@ This is falsifiable in the strict sense: a positive signal in any electromagneti
 
 ---
 
-## 5. The Primordial Gravitational Wave Background from Cascade Transitions
+## 6. The Primordial Gravitational Wave Background from Cascade Transitions
 
 **The structural argument.** Each transition in the constraint cascade — H₃→H₆, H₆→H₁₂, H₁₂→H₂₄, H₂₄→H₄₈ — is a structural phase transition in the early universe: the moment at which the organizational principle governing matter shifts from one constraint regime to the next. First-order phase transitions generate stochastic gravitational wave backgrounds. If the cascade transitions are first-order (which the discontinuous character of subspace crossing implies, though this requires formal development), each one leaves a relic GW signal at a characteristic frequency determined by its epoch.
 
@@ -129,7 +155,7 @@ The four transition epochs and their approximate peak GW frequencies:
 
 ---
 
-## 6. Summary: Predictions, Their Current Status, and What Would Falsify Them
+## 7. Summary: Predictions, Their Current Status, and What Would Falsify Them
 
 | Prediction | Derivation basis | Current status | Falsified by |
 |---|---|---|---|
@@ -140,10 +166,14 @@ The four transition epochs and their approximate peak GW frequencies:
 | Dark energy w ≠ −1 (Φ′ boundary pressure) | Triple boundary structure | Consistent with current observations; open | Future surveys conclusively establishing w = −1 with no evolution |
 | Primordial GW background at cascade transition frequencies | Cascade timing + phase transition logic | Untestable at present | Future high-frequency GW detection inconsistent with predicted spectrum |
 | Leptogenesis epoch at ~10⁻²⁸ s (H₂₄→H₄₈ crossing) | Cascade timing + subspace crossing structure | No confirmed leptogenesis model; several candidate models in this range | Confirmed leptogenesis model at a very different scale |
+| Inflation identified with H₁₂→H₂₄ transition | Cascade timing (Paper 4 §9) | Consistent (inflation at ~10⁻³⁶ s is standard cosmology) | Inflation epoch established at a time inconsistent with cascade timing |
+| Spatial flatness as structural default | Nuclear space geometry as constitutive prior (Paper 4 §9, Paper 1 §5.2) | Confirmed: Ω_k = 0.001 ± 0.002 (Planck 2018) | Non-flat universe; or formal derivation showing nuclear space geometry does not propagate to H₄₈ |
+| CMB uniformity (horizon problem dissolves) | Nuclear topology precedes metric causality (Paper 4 §9, Paper 1 §5.4) | Consistent; formal H₁₂ causal derivation pending | Rigorous H₁₂ causal structure that fails to connect the relevant CMB regions |
+| Spectral index n_s < 1 (qualitative) | Constraint-level scale breaking at H₁₂ (Paper 4 §9) | Confirmed: n_s ≈ 0.965 (Planck 2018) | n_s = 1 established; or H₁₂ internal structure yields n_s far from 0.965 |
 
 ---
 
-## 7. An Epistemological Note
+## 8. An Epistemological Note
 
 The standard by which these predictions should be assessed is the same standard Paper 8 applies to truth-proximity generally: evidence from independent sources that converges without coordination constitutes more weight than the same evidence from a single source, and quantitative convergence is more weight than qualitative convergence.
 
@@ -166,6 +196,10 @@ The predictions are the bet. The physics is the table.
 4. **The Φ′ equation of state**: Formal derivation of the boundary pressure of Φ′ on H as a function of the triple's operator structure, yielding a specific predicted value or time evolution of w.
 
 5. **Phase transition order for cascade crossings**: Whether subspace crossings in the cascade are first-order (generating GW backgrounds) or higher-order (suppressing them). This determines whether the GW prediction is quantitatively viable.
+
+6. **H₁₂ causal structure**: Rigorous derivation of what connectedness conditions the nuclear topology τ_nuclear implies at the H₁₂ constraint level — establishing formally whether the horizon problem dissolves or requires a further account.
+
+7. **The spectral index from H₁₂ internal structure**: When the internal constraint structure of H₁₂ is formally developed (the deferred upward direction), deriving the specific value of n_s as a quantitative prediction. The current framework yields only the qualitative result n_s < 1.
 
 ---
 
