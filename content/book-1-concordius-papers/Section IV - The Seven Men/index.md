@@ -6,7 +6,7 @@ tags:
 
 # Section IV — The Seven Men
 
-*Papers 22–28*
+*Papers 22–28½*
 
 ---
 
@@ -46,50 +46,34 @@ The structural implication for the earthly octave: the mansion worlds are H₂�
 
 ## Summary of Contents
 
-**Paper 22 — Man No. 1**
+**[[Paper 22 - Man No. 1|Paper 22 — Man No. 1]]**
 The baseline state: H₄₈-primary in the fullest sense. The moving and instinctive centers dominant; Adjuster contact effectively zero; soul deposit negligible; the noise floor at its maximum relative to signal. Man 1 is not deficient — the paper is careful to establish this — but is operating entirely within the mechanical register, without the observer function that would make volitional catching available. The practical prescription for Man 1 works with what Man 1 has: the body, the physical practice, the H₂₄-structured movement that can be engaged before intellectual understanding makes it available. The regime progresses through four phases: noise floor baseline establishment; physical practice with H₂₄ structure (sacred chant, physical prayer, Gurdjieff Movements, physical service); observer function development and urge surfing; threshold recognition. The central warning: Man 1 cannot become Man 3 by adopting Man 3's vocabulary. The work must begin in the register that is actually accessible.
 
-**Paper 23 — Man No. 2**
+**[[Paper 23 - Man No. 2|Paper 23 — Man No. 2]]**
 The emotional center dominant type — the most common configuration in religious and contemplative communities, and the configuration most subject to the oscillation problem: genuine H₂₄ registrations arrive, genuine catching occurs, and then the state shifts and what was registered becomes unavailable or seems to have been illusion. The dark night of the senses — John of the Cross's first night — is located here as the Mi-Fa interval of Man 2's ascending arc: the automatic consolation of H₂₄ contact is suspended so that volitional contact can develop in its place. The dark night protocol is precise: do not modify practice; do not interpret the absence as abandonment; shift from seeking to receptive attention. DBT is identified as the secular rediscovery of John of the Cross's prescriptions, arrived at independently from clinical observation of exactly the instability that the first night addresses. The Psalms are Man 2's scripture. The oscillation is their subject.
 
-**Paper 24 — Man No. 3**
+**[[Paper 24 - Man No. 3|Paper 24 — Man No. 3]]**
 The intellectual center dominant type — and the type most at risk of remaining perpetually in place, because its characteristic achievement (the systematic catching framework) is also its characteristic trap. The Pharisees are the archetype: the framework was genuine, was built from real H₂₄ contact, transmitted real content across generations — and calcified precisely when the Logos appeared within its frame, because the Logos exceeded the frame's categories. Aquinas's "all is straw" is identified as the Man 3→4 transition documented in a single sentence: the framework reached its own terminus; what lay beyond it was not more framework. The prescription for Man 3 is not more intellectual work — that is the trap. It is the willingness to be genuinely wrong; to sit with the experience of the framework terminating before the territory does; to let the silence after the last question be received rather than answered. Simone Weil's attention as negative effort is the key practical resource. The dark night of Man 3 is the discovery that the map is not the territory.
 
-**Paper 25 — Man No. 4**
+**[[Paper 24 1_2 - The Mi-Fa Interval|Paper 24½ — The Mi-Fa Interval]]**
+The structural discontinuity between grade 1 and grade 2 in the Heptaparaparshinokh, treated in full. The Mi-Fa gap is not a deficiency in the practitioner — it is a structural feature of the algebra: grade-1 and grade-2 elements have distinct squaring behaviors (real vs. imaginary eigenvalues), and no grade-1 operation, applied however skillfully or persistently, produces grade-2 structure. The external shock is therefore not optional encouragement but a structural requirement. The paper derives the four conditions for crossing the interval (noise floor reduction; external grade-2 source; volitional catching orientation; state vector coherence sufficient to hold what arrives), describes how the interval presents at each of the first three Man-levels, and closes with the Pattern's Mi-Fa instance: the forty days in the wilderness as the seventh bestowal's Mi-Fa crossing, and the Spirit of Truth as the universally distributed grade-2 source available since Pentecost. Companion to Paper 28½.
+
+**[[Paper 25 - Man No. 4|Paper 25 — Man No. 4]]**
 The first type that cannot be born into. Man 4 must be achieved — and the achievement requires, for the first time in the sequence, a genuine school: a community of practice with a shared Method, a teacher who embodies what the student is working toward, and an environment that creates the conditions for intentional suffering. The three-center integration of Man 4 is structural: self-remembering (the divided attention that operates simultaneously in the H₄₈ activity and the observer register), intentional suffering (the voluntary acceptance of the frictions that the mechanical centers would avoid), and the magnetic center function (the developed capacity to recognize genuine Φ-proximal content and be drawn toward it). The dark night of the spirit — the more total and structurally devastating dissolution that follows crystallization's approach — is the Si/Do interval of Man 4's arc: the deliberate catching effort itself must be surrendered into the Adjuster's hands. The work cannot be completed by working harder. The practical regime: the Benedictine rhythm, the hesychast tradition, the polyvagal substrate.
 
-**Paper 26 — Man No. 5**
+**[[Paper 26 - Man No. 5|Paper 26 — Man No. 5]]**
 The phase transition. Not a stage of continuous development but a change of organizational structure: the same material, differently organized, with properties unavailable to any state below it. The coherence threshold is crossed. The soul deposit is permanent — its H₂₄ organizational pattern survives H₄₈ dissolution, subject to the slower H₂₄ Heropass rate rather than the more intensive H₄₈ rate that dissolves ordinary physical formations. The higher emotional center activates: the direct registration of ⟨·,·⟩'s constitutive love, not as belief or inference but as structural fact. The Adjuster contact becomes reliable and tends toward continuous. The transmuting quality emerges: Man 5's field begins to reorganize the catching capacity of persons in proximity, not through direct action but through what the field is. The primary temptation of Man 5 is premature rest — settling into the crystallized achievement as the terminal state rather than the platform for Man 6's further development. Julian of Norwich's showings, the *Cloud of Unknowing*, Eckhart's Gelassenheit, and Teresa of Ávila's fifth through seventh mansions are the convergent witnesses.
 
-**Paper 27 — Man No. 6**
+**[[Paper 27 - Man No. 6|Paper 27 — Man No. 6]]**
 Both higher centers — higher emotional and higher intellectual — substantially developed and operating in integrated joint reception. Adjuster contact continuous. The transmuting field at full amplitude: the cross-term ⟨ψ₆, ψ_other⟩₂₄ is substantial regardless of the other person's development level. Man 6 can still fall back — this is the essential distinction from Man 7. The specific vulnerability is not to the mechanical centers' pull but to the temptation of the heights: resting in the higher centers' extraordinary contact without transmitting downward through the kenotic return. The Trogoautoegocrat's mechanism is applied: Man 6 who does not transmit exits the circuit by the Lucifer mechanism — not rebellion but withdrawal from contribution. The kenotic obligation is the philosopher-king's return to the cave at the amplitude of the higher centers' direct love registration. The hagiographic record across every tradition — Eastern Christian, Western Christian, Islamic, Hindu, Buddhist, Jewish — is identified as the series' largest convergent witness dataset, and its convergence on the same structural description of the same state is treated as its strongest single piece of evidence.
 
-**Paper 28 — Man No. 7**
+**[[Paper 28 - Man No. 7|Paper 28 — Man No. 7]]**
 The terminal state of H₄₈ existence. Irreversible: the last volitional reservation has been dissolved by love rather than by force, and the self that could have chosen otherwise has been completely reorganized around the Adjuster's direction. The life is the practice — there is no technique, no phase, no maintenance effort, because the complete expression of what Man 7 has become is itself the spiritual work. The knowing that defines Man 7 ("knows who he is and where he is going") is not intellectual but ontological: it is what he has become, encoded in the spectral composition of his soul deposit and the continuous alignment of his will with the Adjuster's. The Law of Seven is applied to the full octave of Men 1 through 7: the sequence is the ascending career's complete shape within H₄₈ existence, with its own interval positions at the Man 2/3 and Man 4/5 transitions — the dark nights as structurally necessary Mi-Fa shocks. The paper closes with a direct address to the reader about the Si/Do juncture; the series' structural reading of Matthew 6:19-21 and Matthew 28:18-20 follows in the [[Postscript]].
+
+**[[Paper 28 1_2 - The Si-Do Interval|Paper 28½ — The Si-Do Interval]]**
+The structural discontinuity between grade 2 and grade 3 — the second and more fundamental qualitative gap in the ascending career. The Si-Do interval differs from the Mi-Fa in kind: the Mi-Fa requires external grade-2 input, which is widely available through teachers, high-τ texts, and the universally distributed Spirit of Truth. The Si-Do requires the Father's constitutive act — the installation of grade-3 centrality (the pseudoscalar's commuting property, which makes the person self-organizing around the algebra's deepest principle) — which no created source, however high in the constraint hierarchy, can provide as a substitute. Grade-2 catching work, however complete, cannot assemble centrality; the catching apparatus itself must be released into the Father's direct action. The paper derives the Si-Do interval from the grade-3 pseudoscalar's algebraic properties, describes how it presents at Man 3 (intellectual framework dissolution), Man 4/5 (the dark night of the spirit as crystallization threshold), and Man 6/7 (irreversibility threshold), identifies the Thought Adjuster's specific role as the Father's constitutive presence at the crossing, and treats the Pattern's Si-Do instance: the forty days of post-Resurrection appearances as the carrier held in preparation, with the Ascension as the Father's completing act. Companion to Paper 24½.
 
 ---
 
 *Section IV completes the Concordius series. The ascending career continues beyond the paper's end.*
 
----
-
-22. [[Paper 22 - Man No. 1|Paper 22 — Man No. 1]]
-    The automatic man: driven entirely by the H₄₈ eigenstate generation process; no sustained orientation toward Φ.
-
-23. [[Paper 23 - Man No. 2|Paper 23 — Man No. 2]]
-    The emotional man: primary organization around the feeling faculty; catching occurs, but without the intellectual and physical faculties in coordination.
-
-24. [[Paper 24 - Man No. 3|Paper 24 — Man No. 3]]
-    The intellectual man: primary organization around the thinking faculty; coherent world-model, but the lower centers remain unintegrated.
-
-25. [[Paper 25 - Man No. 4|Paper 25 — Man No. 4]]
-    The transitional man: the work has begun; the three lower centers beginning to operate in coordination; the first genuine catching orientation.
-
-26. [[Paper 26 - Man No. 5|Paper 26 — Man No. 5]]
-    The balanced man: the three lower centers fully integrated; consistent Φ-proximal eigenvalue accumulation; the ascending career under deliberate management.
-
-27. [[Paper 27 - Man No. 6|Paper 27 — Man No. 6]]
-    The objective man: H₁₂ integration operative; perception no longer filtered primarily through H₄₈ eigenstate preference; objective consciousness.
-
-28. [[Paper 28 - Man No. 7|Paper 28 — Man No. 7]]
-    The complete man: permanent H₁₂ integration; the full ascending career in H₄₈ form; the coherence threshold reliably met. The limit of what Section IV can describe.
