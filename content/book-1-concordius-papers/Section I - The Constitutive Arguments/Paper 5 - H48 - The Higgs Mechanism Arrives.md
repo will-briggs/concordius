@@ -26,9 +26,9 @@ A secondary result: the photon's masslessness is not an exception to this pictur
 
 ## 1. Introduction
 
-Paper 7 clarified the relationship between the GNST and the Heropass: the Heropass is not a separate force alongside the GNST but the GNST in continuous operation, viewed from the perspective of unretained lower-constraint eigenvalue content. The GNST runs; the lower-constraint eigenstates it continuously generates either accumulate (if caught) or return to Φ' (if not). The Heropass is what the continuous GNST looks like from the inside of the uncaught content.
+*(Forward note: Paper 7 establishes the relationship between the GNST and the Heropass more precisely than the present paper can, since the full Trogoautoegocrat derivation belongs there. The result: the Heropass is not a separate force alongside the GNST but the GNST in continuous operation, viewed from the perspective of unretained lower-constraint eigenvalue content. The GNST runs; the lower-constraint eigenstates it continuously generates either accumulate (if caught) or return to Φ' (if not). The Heropass is what the continuous GNST looks like from the inside of the uncaught content.)*
 
-This clarification resolved one question and raised another. Paper 7 established *that* the GNST runs continuously. It did not address *what the GNST is running on* — the specific spectral content of the operator whose eigenstates are being selected. The operator is the physical Hamiltonian. The physical Hamiltonian's spectrum determines whether the GNST's continuous eigenstate succession is structured or featureless.
+That structural clarification resolves one question and raises another. Paper 7 will establish *that* the GNST runs continuously. This paper addresses *what the GNST is running on* — the specific spectral content of the operator whose eigenstates are being selected. The operator is the physical Hamiltonian. The physical Hamiltonian's spectrum determines whether the GNST's continuous eigenstate succession is structured or featureless.
 
 The physical Hamiltonian's mass spectrum is determined by the Higgs mechanism.
 
