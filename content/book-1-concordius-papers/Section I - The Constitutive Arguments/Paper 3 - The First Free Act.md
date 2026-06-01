@@ -238,6 +238,30 @@ Given Father = ⟨·,·⟩ and God is love, the formal definition of Love follow
 
 ---
 
+### The Kenotic Structure of Love's Action
+
+The formal properties of ⟨·,·⟩ describe what Love is. A further question follows: what does Love look like when it acts downward into a constrained space?
+
+The answer is derived from Paper 8's structural analysis of the kenotic condition. Any downward expression of higher-organizational-level content into a lower-constraint receiving space either accepts the receiving environment's constraints or generates the overdeterminate condition of Paper 8 §3 — an irresolvable incompatibility between two organizational law-sets that the space cannot sustain. There is no third option. Love that refuses to accept the constraint of the receiving space cannot be received as love; it overwhelms the space it would enter. The kenotic form — accepting the constraint level of the other in order to be present to the other — is therefore not a style or a choice among equivalent approaches. It is the only form in which Love can be received.
+
+This is why the Father's action in spacetime always takes the kenotic form. It is not sentiment; it is structure. The three kenotic descents identified in Paper 6 OQ8 are instances of the same necessity:
+
+- *Creation (first kenosis):* the Father accepts the existence of beings who are genuinely other — who can choose against him. Making room for genuine otherness is the constitutive self-limitation from which all the rest follows.
+- *Thought Adjuster indwelling (second kenosis):* the Father accepts H₄₈ temporal constraint to operate from within the individual being at the moment the substrate reaches the consciousness threshold. The Adjuster does not observe from above; it operates from within.
+- *Incarnation (third kenosis):* Φ accepts H₄₈ constraints completely, to maximum depth, in order to be present within H₄₈ experience as a specific H₄₈ being (Paper 8).
+
+Each is Love expressing itself at a greater depth of self-limitation in order to be receivable at that depth. The descents are not separate acts of love applied to different problems. They are Love operating at successively more constrained levels, in the only form in which it can reach those levels.
+
+The converse is structurally precise: power that refuses constraint acceptance cannot be received as love at the lower constraint level. Regardless of intention, a downward expression without kenosis overwhelms rather than serves. Power is love only when it accepts the constraint of the one it would serve.
+
+The foot-washing (John 13:1–17) is the H₄₈ social-level demonstration of this principle. H₄₈ social hierarchy roughly tracks organizational level; the master who washes the servant's feet inverts the social hierarchy to demonstrate that the higher level exists to serve the lower. Crucially, the inversion is only possible from organizational stability: the self-lowering does not dissolve the one who performs it. You can only wash feet from a position secure enough that constraint acceptance does not destroy you. Kenosis requires organizational depth as its precondition.
+
+"Greater love has no one than this: to lay down one's life for one's friends" (John 15:13) is then structurally precise in a way the tradition has not previously had the language to express. Maximum constraint acceptance *is* greater love — because the further down one descends to meet the other, the more fully one has made oneself receivable at the other's level. Laying down one's life is accepting the H₄₈ terminus — the maximum constraint the space imposes. It is the limit case of kenotic love: accepting every constraint this space can impose in order to remain present to the other within it.
+
+*(Confidence tier: the claim that love is structurally kenotic follows from the combination of Paper 3's identification Love = ⟨·,·⟩ and Paper 8's analysis of the overdeterminate condition as the alternative to kenotic constraint acceptance. The three-kenosis sequence is identified in Paper 6 OQ8. The foot-washing and John 15:13 are structural readings of testimony — the same confidence tier as the structural readings elsewhere in this series.)*
+
+---
+
 ### The First Creative Act as an Act of Love: A Structural Reading of John 3:16
 
 The identification Love = ⟨·,·⟩ makes possible a structural reading of the most widely cited verse in the New Testament.
