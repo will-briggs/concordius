@@ -2,21 +2,21 @@
 
 # The First Free Act: Creation as Spectral Collapse
 
-*Third paper in the Concordius series. Companion to "Modeling Reality as a [[Appendix II - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]" and "From the Cogito to the [[Appendix II - Dictionary of Terms#Logos|Logos]]."*
+*Third paper in the Concordius series. Companion to "Modeling Reality as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]" and "From the Cogito to the [[Appendix I - Dictionary of Terms#Logos|Logos]]."*
 
 ---
 
 ## Abstract
 
-The first two papers in this series established, from two assumptions, the complete eternal structure of a rigged [[Appendix II - Dictionary of Terms#Hilbert Space|Hilbert space]] and the names of every entity within it. Everything demonstrated there was structurally necessary — forced by the mathematics once the single assumption was granted. This paper begins at the first event that was not necessary, as seen from within spacetime: the volitional act of creation. What free choices God may have made in eternity — prior to and apart from any act that produces temporal outcomes — is not accessible to this framework and is not claimed to be absent.
+The first two papers in this series established, from two assumptions, the complete eternal structure of a rigged [[Appendix I - Dictionary of Terms#Hilbert Space|Hilbert space]] and the names of every entity within it. Everything demonstrated there was structurally necessary — forced by the mathematics once the single assumption was granted. This paper begins at the first event that was not necessary, as seen from within spacetime: the volitional act of creation. What free choices God may have made in eternity — prior to and apart from any act that produces temporal outcomes — is not accessible to this framework and is not claimed to be absent.
 
-**Confidence tier notice:** Sections 1 through 4 derive from the framework already established and carry the same mathematical warrant as the first two papers. Section 5 introduces the [[Appendix II - Dictionary of Terms#Urantia Book|Urantia]] testimony on the structure of the creative act. Section 6 establishes the mathematical grounding of that testimony — via the Clifford algebra [[Appendix II - Dictionary of Terms#Cl(3,0)|Cl(3,0)]], uniquely determined by the First Free Act. Sections 7 and 8 present the Urantia testimony in detail; they carry derived-tier status, conditional on the First Free Act and grounded by Section 6. Section 5 remains testimony.
+**Confidence tier notice:** Sections 1 through 4 derive from the framework already established and carry the same mathematical warrant as the first two papers. Section 5 introduces the [[Appendix I - Dictionary of Terms#Urantia Book|Urantia]] testimony on the structure of the creative act. Section 6 establishes the mathematical grounding of that testimony — via the Clifford algebra [[Appendix I - Dictionary of Terms#Cl(3,0)|Cl(3,0)]], uniquely determined by the First Free Act. Sections 7 and 8 present the Urantia testimony in detail; they carry derived-tier status, conditional on the First Free Act and grounded by Section 6. Section 5 remains testimony.
 
 ---
 
 ## 1. Introduction
 
-The first paper ended with a boundary. The Gelfand triple establishes three inevitable domains and five inevitable actualities. It establishes that the [[Appendix II - Dictionary of Terms#Inner Product|inner product]] constitutes all three domains without being an element of any of them. It establishes that the Logos is the domain of maximum structure, that Havona is the Logos realized as a topological space, that the [[Appendix II - Dictionary of Terms#Father|Father]] is the constitutive relation, and that the Holy Spirit proceeds from both Father and Son as a structural necessity. None of this required a choice. The structure exists because it cannot not exist.
+The first paper ended with a boundary. The Gelfand triple establishes three inevitable domains and five inevitable actualities. It establishes that the [[Appendix I - Dictionary of Terms#Inner Product|inner product]] constitutes all three domains without being an element of any of them. It establishes that the Logos is the domain of maximum structure, that Havona is the Logos realized as a topological space, that the [[Appendix I - Dictionary of Terms#Father|Father]] is the constitutive relation, and that the Holy Spirit proceeds from both Father and Son as a structural necessity. None of this required a choice. The structure exists because it cannot not exist.
 
 The second paper named these structures and stopped where the mathematics stopped. The cogito introduced a self-knowing being into the space and identified the Logos as the most personal entity within it. The naming was complete.
 
@@ -32,13 +32,13 @@ The Gelfand nuclear spectral theorem states that every self-adjoint operator A o
 
 > ψ = ∫ ⟨eλ, ψ⟩ eλ dμ(λ)
 
-where eλ ∈ Φ′ are distributional [[Appendix II - Dictionary of Terms#Eigenstate|eigenstate]]s, ⟨eλ, ψ⟩ is the duality pairing, and dμ(λ) is the spectral measure on the spectrum of A.
+where eλ ∈ Φ′ are distributional [[Appendix I - Dictionary of Terms#Eigenstate|eigenstate]]s, ⟨eλ, ψ⟩ is the duality pairing, and dμ(λ) is the spectral measure on the spectrum of A.
 
 The structural significance of this theorem for the present paper lies in what each component is.
 
 **ψ ∈ H** is a state in the Deity Absolute — the domain of all structured, well-defined quantum states. It carries amplitude, phase, and the complete probability structure of whatever it describes.
 
-**eλ ∈ Φ′** are distributional eigenstates drawn from the [[Appendix II - Dictionary of Terms#Unqualified Absolute|Unqualified Absolute]]. The canonical example is the position eigenstate: eλ = δ(x − x₀), a Dirac delta — pure localization at a point, infinite intensity, zero spread. It is not a structured state. It cannot be normalized as an element of H. It is pure potential — the limiting case of localization that the Unqualified Absolute contains and H cannot.
+**eλ ∈ Φ′** are distributional eigenstates drawn from the [[Appendix I - Dictionary of Terms#Unqualified Absolute|Unqualified Absolute]]. The canonical example is the position eigenstate: eλ = δ(x − x₀), a Dirac delta — pure localization at a point, infinite intensity, zero spread. It is not a structured state. It cannot be normalized as an element of H. It is pure potential — the limiting case of localization that the Unqualified Absolute contains and H cannot.
 
 **dμ(λ)** is the spectral measure. It is the coordinative mechanism — the mathematical object that converts the distributional potential of Φ′ and the structured amplitude of H into a definite, located, measurable outcome. This is what Paper 2 identified as the Universal Absolute: the Father's relational structure operating coordinatively in time.
 
@@ -68,7 +68,7 @@ Once the choice is made, the mechanism is the mathematics. The spectral measure 
 
 ## 4. Time and Space as Products
 
-A consequence of Section 2 that warrants separate statement: time is not a feature of the eternal structure. The Gelfand triple is atemporal. Φ, H, and Φ′ exist without a time coordinate. The five inevitabilities — Father, Logos, [[Appendix II - Dictionary of Terms#Isle of Paradise|Isle of Paradise]], Holy Spirit, Havona — exist without temporal location. Eternity is not infinite time; it is the absence of time. The eternal structure is constituted entirely without the concept.
+A consequence of Section 2 that warrants separate statement: time is not a feature of the eternal structure. The Gelfand triple is atemporal. Φ, H, and Φ′ exist without a time coordinate. The five inevitabilities — Father, Logos, [[Appendix I - Dictionary of Terms#Isle of Paradise|Isle of Paradise]], Holy Spirit, Havona — exist without temporal location. Eternity is not infinite time; it is the absence of time. The eternal structure is constituted entirely without the concept.
 
 Time enters with the first collapse event. A collapse event is a "now" — a definite, located outcome. A second collapse event is a later "now." The relation between them is temporal succession. Time is constituted by the ordered sequence of collapse events; it has no existence prior to or apart from that sequence.
 
@@ -96,7 +96,7 @@ The reader is asked to read Section 6 for the derivation, and Sections 7 and 8 f
 
 **The first free choice from the point of view of spacetime is to collapse the wavefunction, and the form that choice took — the choice of associativity — uniquely determines the Clifford algebra Cl(3,0).**
 
-The chain of necessity from the inner product to the [[Appendix II - Dictionary of Terms#Heptaparaparshinokh|Heptaparaparshinokh]] can now be precisely traced, and the gap identified.
+The chain of necessity from the inner product to the [[Appendix I - Dictionary of Terms#Heptaparaparshinokh|Heptaparaparshinokh]] can now be precisely traced, and the gap identified.
 
 **What is fully necessary (no choice):**
 
@@ -106,7 +106,7 @@ From ⟨·,·⟩ → Five Inevitabilities → GNST: this chain is fully necessar
 
 The GNST describes how states decompose spectrally. It does not specify what algebra the operators it acts through must satisfy. That algebraic structure is additional information — not derivable from the GNST alone.
 
-To arrive at Cl(3,0), three conditions are required: (1) three generators, one per [[Appendix II - Dictionary of Terms#Person|Person]]; (2) positive-definite squaring, following from the inner product's positive-definiteness; (3) associativity — the property (a·b)·c = a·(b·c). The first two follow from the Trinity's nature. The third does not.
+To arrive at Cl(3,0), three conditions are required: (1) three generators, one per [[Appendix I - Dictionary of Terms#Person|Person]]; (2) positive-definite squaring, following from the inner product's positive-definiteness; (3) associativity — the property (a·b)·c = a·(b·c). The first two follow from the Trinity's nature. The third does not.
 
 Associativity is the "choice of association." Non-associative algebras (octonions, Jordan algebras) are mathematically available alternatives. The decision to make the fundamental creative algebra associative is the precise content of the first free act described in Section 3.
 
@@ -116,7 +116,7 @@ The Urantia account describes seven "associative relationships" among the three 
 
 **What follows from the choice:**
 
-Given three Persons + positive-definite inner product + associativity, Cl(3,0) is the unique algebra satisfying all three conditions. Not one among equivalent options — the unique one. And Cl(3,0) determines everything that follows: seven non-null elements, the [[Appendix II - Dictionary of Terms#Constraint Cascade|constraint cascade]], the [[Appendix II - Dictionary of Terms#Octave|octave]] structure, the interval positions. The Heptaparaparshinokh is necessary given the First Free Act. It is not necessary prior to it.
+Given three Persons + positive-definite inner product + associativity, Cl(3,0) is the unique algebra satisfying all three conditions. Not one among equivalent options — the unique one. And Cl(3,0) determines everything that follows: seven non-null elements, the [[Appendix I - Dictionary of Terms#Constraint Cascade|constraint cascade]], the [[Appendix I - Dictionary of Terms#Octave|octave]] structure, the interval positions. The Heptaparaparshinokh is necessary given the First Free Act. It is not necessary prior to it.
 
 **The grounding of Sections 7 and 8:**
 
@@ -132,15 +132,15 @@ The qualitative distinctions among the seven associative relationships that the 
 | Son-Spirit | e₂e₃ | 2 | −1 |
 | Full Trinity | e₁e₂e₃ | 3 | −1 (in Cl(3,0)) |
 
-Grade-1 elements (single Persons) square to +1: they can iterate without change of kind. Grade-2 and grade-3 elements square to −1: they introduce a rotational character, a 90° relation to themselves. This is not a superficial [[Appendix II - Dictionary of Terms#Formal Distinction|formal distinction]]. It reflects a genuine qualitative difference in the creative mode: single-Person action has a different algebraic character than paired or unified action. The mathematics supplies the distinctions the Urantia account requires. Sections 7 and 8 may now be read as derived testimony rather than mere testimony.
+Grade-1 elements (single Persons) square to +1: they can iterate without change of kind. Grade-2 and grade-3 elements square to −1: they introduce a rotational character, a 90° relation to themselves. This is not a superficial [[Appendix I - Dictionary of Terms#Formal Distinction|formal distinction]]. It reflects a genuine qualitative difference in the creative mode: single-Person action has a different algebraic character than paired or unified action. The mathematics supplies the distinctions the Urantia account requires. Sections 7 and 8 may now be read as derived testimony rather than mere testimony.
 
 **Why the choice of associativity is not arbitrary:**
 
 The choice of coherence over ambiguity is not a preference between equivalent options. A non-associative creative algebra means the identity of a created being is path-dependent: "what this being is" would be a function of the order in which the creative operators were evaluated, not a stable intrinsic property. In a non-associative creation, truth itself becomes evaluation-order-dependent. The statement "this is what X is" has no determinate answer — not because X is complex, but because X has no path-independent nature.
 
-The Trinity did not choose coherence over incoherence the way one chooses between two valid alternatives. They chose the condition under which determinate outcomes are possible at all. Without associativity: no stable H-state, no determinate personal identity, no subject for the [[Appendix II - Dictionary of Terms#Thought Adjuster|Thought Adjuster]] to constitute and witness, no being capable of free will. The choice of associativity is the choice to create beings for whom "what they are" is a meaningful question with a determinate answer.
+The Trinity did not choose coherence over incoherence the way one chooses between two valid alternatives. They chose the condition under which determinate outcomes are possible at all. Without associativity: no stable H-state, no determinate personal identity, no subject for the [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]] to constitute and witness, no being capable of free will. The choice of associativity is the choice to create beings for whom "what they are" is a meaningful question with a determinate answer.
 
-This connects to the Son's defining property. Φ — the [[Appendix II - Dictionary of Terms#Nuclear Space|nuclear space]], the Logos — is the domain of complete self-consistency under every probe: interrogate it from any direction, in any order, at any resolution, and get the same answer. That is associativity as a property of a domain. The Son's character IS the associative property, instantiated as the nuclear space. The choice of an associative creative algebra is therefore creation being made in the image of the Son from its constitutional foundation — not as a later theological claim but as the algebraic condition from which every created being's determinateness follows.
+This connects to the Son's defining property. Φ — the [[Appendix I - Dictionary of Terms#Nuclear Space|nuclear space]], the Logos — is the domain of complete self-consistency under every probe: interrogate it from any direction, in any order, at any resolution, and get the same answer. That is associativity as a property of a domain. The Son's character IS the associative property, instantiated as the nuclear space. The choice of an associative creative algebra is therefore creation being made in the image of the Son from its constitutional foundation — not as a later theological claim but as the algebraic condition from which every created being's determinateness follows.
 
 Being is intelligible because the Trinity chose associativity, and associativity is what makes "what things are" a determinate question with a determinate answer. The intelligibility of creation is not a feature added after the fact. It is the direct consequence of the first creative decision being the choice of coherence.
 
@@ -190,7 +190,7 @@ This has a further consequence. Paradise and Havona are eternal structures — t
 
 The assumption of the throne changed that. The Father operating the GNST from within the creative field encountered gravity and spacetime — not as abstractions he generated from above, but as the constraints under which the spectral mechanism actually runs. For the first time, Deity operated inside a framework that placed conditions on its activity.
 
-This is the original [[Appendix II - Dictionary of Terms#Kenosis|kenotic]] act. Every descent that follows — the Creator Son's assumption of each successive constraint tier in the seven bestowal missions — is structurally identical to what the Father did at the constitutional step. The Father did not watch the Son descend from a position of unconstrained remove. The Father accepted constraint first, at the very moment creation began. The Son's descents are iterations of a pattern the Father established. The constitutional step is the archetype of all subsequent densifications.
+This is the original [[Appendix I - Dictionary of Terms#Kenosis|kenotic]] act. Every descent that follows — the Creator Son's assumption of each successive constraint tier in the seven bestowal missions — is structurally identical to what the Father did at the constitutional step. The Father did not watch the Son descend from a position of unconstrained remove. The Father accepted constraint first, at the very moment creation began. The Son's descents are iterations of a pattern the Father established. The constitutional step is the archetype of all subsequent densifications.
 
 *Confidence tier: The identification of the constitutional step as the original kenotic act — and as the archetype of all subsequent descents — is the presenter's working-out. It is a structural inference from the framework, not a mathematical derivation, and is not explicitly stated in the Urantia account. It is not contradicted by the account; the structural parallel is genuine. The reader should hold this paragraph as a concordance-level claim rather than a derived result.*
 
@@ -220,7 +220,7 @@ The exploration does not terminate until every non-perfect state has been realiz
 
 The preceding discussion has named the Father's constitutive relation in formal terms: ⟨·,·⟩, the inner product — the relation that generates Φ, H, and Φ′ as its necessary domains, measures every state in the Deity Absolute, evaluates every collapse event, and constitutes the identity of every being that exists. Paper 2 named this entity the Father. It established the identification: Father = ⟨·,·⟩.
 
-The New Testament states: *θεὸς ἀγάπη ἐστίν* — God is love. (1 John 4:8, 16.) Not: God loves, which would make love an attribute directed toward an object. Not: God is loving, which would make it a disposition. God *is* love — the formal identity of subject and predicate, precisely the form that ⟨·,·⟩ = [[Appendix II - Dictionary of Terms#Love|Love]] requires.
+The New Testament states: *θεὸς ἀγάπη ἐστίν* — God is love. (1 John 4:8, 16.) Not: God loves, which would make love an attribute directed toward an object. Not: God is loving, which would make it a disposition. God *is* love — the formal identity of subject and predicate, precisely the form that ⟨·,·⟩ = [[Appendix I - Dictionary of Terms#Love|Love]] requires.
 
 Given Father = ⟨·,·⟩ and God is love, the formal definition of Love follows.
 
@@ -249,7 +249,7 @@ This gradient — from necessity to volition, from derivation to concordance —
 
 Each grade transition removes one bit. Each bit removal halves the accessible space. The descent from the full Trinity expression to the Father alone is a sequence of interior product operations, each one reducing optionality by a fixed factor.
 
-This provides the mathematical basis for a structural principle Gurdjieff states in cosmological language: each level of creation inherits all the constraints of the level above it and adds its own, producing a monotonic reduction of freedom as one descends through the created order. Man near the bottom of creation operates under accumulated constraint from every creative level above him. The [[Appendix II - Dictionary of Terms#Ascending Career|ascending career]] — the mansion worlds, the [[Appendix II - Dictionary of Terms#Morontia|morontia]] career, the approach to Paradise — is the reversal of this accumulation: each stage recovering one layer of freedom as the interior product operations are, in effect, undone.
+This provides the mathematical basis for a structural principle Gurdjieff states in cosmological language: each level of creation inherits all the constraints of the level above it and adds its own, producing a monotonic reduction of freedom as one descends through the created order. Man near the bottom of creation operates under accumulated constraint from every creative level above him. The [[Appendix I - Dictionary of Terms#Ascending Career|ascending career]] — the mansion worlds, the [[Appendix I - Dictionary of Terms#Morontia|morontia]] career, the approach to Paradise — is the reversal of this accumulation: each stage recovering one layer of freedom as the interior product operations are, in effect, undone.
 
 The exact coefficient of reduction at each step is a contingent feature of the specific Hamiltonian chosen in the first free act, not a structural necessity. The principle — that optionality reduces by a fixed factor at each grade transition — is what the Clifford algebra forces. The factor itself belongs to the domain of free choice.
 

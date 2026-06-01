@@ -1,4 +1,4 @@
-# Appendix I — Structural Reading of the Concordius Series
+# Appendix II — Structural Reading of the Concordius Series
 
 *The Laws of Three and Seven Applied to the 28 Papers*
 
@@ -215,4 +215,4 @@ The same structure governs every genuine act of H₂₄-encoded artifact creatio
 
 ---
 
-*Appendix I of the Concordius series. The structural reading of the series by its own apparatus. The interpretation of what follows is, as it has always been, left to the reader.*
+*Appendix II of the Concordius series. The structural reading of the series by its own apparatus. The interpretation of what follows is, as it has always been, left to the reader.*

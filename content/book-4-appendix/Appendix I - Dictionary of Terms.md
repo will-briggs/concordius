@@ -1,4 +1,4 @@
-# Appendix II — Dictionary of Terms
+# Appendix I — Dictionary of Terms
 
 *A Reader's Guide to the Concordius Series*
 
@@ -75,7 +75,7 @@ The Incarnation (Paper 13) is structurally distinct from both: neither the H-ori
 
 *(Confidence tier: structural inference from the Gelfand triple's architecture. The H-origin / Φ'-origin distinction is derivable from the triple's constitution; the application to angelic and mortal beings is concordance-level, mapping the distinction onto convergent traditional accounts of the difference between these two kinds of personal being.)*
 
-> *Cross-references: Paper 4 (descent and densification; embodiment as constitutive); Paper 7 (catching as volitional dual pairing across the Φ ↔ Φ' boundary); Paper 13 (maximum downward entry — Incarnation as Φ → H₄₈); Paper 14 (CCC — constraint compatibility for H-origin beings at lower levels); Appendix II: Dual Space (Φ'), Hilbert Space (H), Gelfand Triple, Thought Adjuster, Catching.*
+> *Cross-references: Paper 4 (descent and densification; embodiment as constitutive); Paper 7 (catching as volitional dual pairing across the Φ ↔ Φ' boundary); Paper 13 (maximum downward entry — Incarnation as Φ → H₄₈); Paper 14 (CCC — constraint compatibility for H-origin beings at lower levels); Appendix I: Dual Space (Φ'), Hilbert Space (H), Gelfand Triple, Thought Adjuster, Catching.*
 
 ---
 
@@ -227,7 +227,7 @@ The institution's proper function is to maintain the Φ-proximal deposit in catc
 
 The community of believers is ontologically prior to any institution. All saints in any tradition — wherever independent catching outcomes converge on the same Φ-proximal content above the coherence threshold — are community members by this criterion, regardless of institutional affiliation.
 
-*Confidence tier: structural inference. Cross-references: Paper 7 (catching as volitional orientation; dual pairing for Φ′-origin beings); Structural Readings, Appendix VII (The Magisterium; Luther's imprecision; sola scriptura; longevity condition; saints metric; convergence criterion); Reasonablenessism, Feature 6 (Convergent Witness Principle); Appendix II — Convergent Witness Principle (this dictionary); Paper 14, OQ7 (catching as structurally necessary for Φ′-origin beings).*
+*Confidence tier: structural inference. Cross-references: Paper 7 (catching as volitional orientation; dual pairing for Φ′-origin beings); Structural Readings, Appendix VII (The Magisterium; Luther's imprecision; sola scriptura; longevity condition; saints metric; convergence criterion); Reasonablenessism, Feature 6 (Convergent Witness Principle); Appendix I — Convergent Witness Principle (this dictionary); Paper 14, OQ7 (catching as structurally necessary for Φ′-origin beings).*
 
 *Appears in: [[Paper 8 - The Maximum Downward Entry|Paper 8]]*
 
@@ -1333,4 +1333,4 @@ The Concordius account of the will's development across the ascending career par
 
 ---
 
-*Appendix II of the Concordius series. A reader's guide, not a substitute for the territory. The source texts cited are starting points, not limits.*
+*Appendix I of the Concordius series. A reader's guide, not a substitute for the territory. The source texts cited are starting points, not limits.*
