@@ -1,5 +1,5 @@
 ---
-title: A Structural Reading of Memes
+title: Memes
 ---
 
 # A Structural Reading of Memes

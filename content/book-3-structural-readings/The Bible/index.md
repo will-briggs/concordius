@@ -1,5 +1,5 @@
 ---
-title: A Structural Reading of the Bible
+title: The Bible
 tags:
   - nav-order::2
 ---
