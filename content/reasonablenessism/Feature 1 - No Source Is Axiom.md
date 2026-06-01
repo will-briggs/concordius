@@ -16,6 +16,18 @@ The discipline is simpler and harder than either: evaluate the claim on its own 
 
 ---
 
+*In practice:*
+
+You're reading about whether a particular medication is safe. Your doctor recommends it. A study you found online raises concerns. A friend who took it had a bad experience. A different study says it's fine.
+
+The wrong move: pick the most authoritative source and defer to it. Your doctor has credentials; the online study might be fringe; your friend's experience is anecdotal. This looks careful but it's just authority selection.
+
+The right move: treat each source as a witness. Your doctor has clinical experience with patients like you. The concerning study: who funded it, how large was the sample, was it replicated? The favorable study: same questions. Your friend's experience: one data point, but real. Where do these converge? Where do they diverge? What would it take for the concerning findings to rise above noise?
+
+You don't have to become an expert. You have to treat each source as a witness rather than an oracle, and notice what the witnesses, weighed together, actually say.
+
+---
+
 *For those acquainted with the Concordius framework:*
 
 A source's truth-value is its τ(D) — the fraction of its spectral energy residing in the Φ-region of the ⟨·,·⟩-generated decomposition (Paper 10). This is a structural property of the content, independent of which H₄₈ substrate generated it, which institution preserved it, or which tradition attests it. No H₄₈ document can have τ = 1 (Paper 10, Section 6); every source is a partial incarnation, carrying whatever lower-constraint spectral weight its content actually contains. Treating any source as axiom is treating an H₄₈ encoding as having Φ-level warrant. The appropriate response to every source: evaluate its spectral weight through the Appendix III proxies — semantic coherence, cross-tradition convergence, predictive yield, generative centrality. These measure what actually matters: not the source's genealogy, but the structure it carries.

@@ -18,6 +18,16 @@ The fruit test is the positive version: does the framework, when applied serious
 
 ---
 
+*In practice:*
+
+You pick up a book on sleep. The author has views you find off-putting — on politics, on diet, on things unrelated to sleep. Your first instinct is to put it down.
+
+The discipline: finish the chapter. The question isn't who wrote it. The question is whether the claims about sleep are accurate. Does what they say about sleep architecture match what you can verify? Do the interventions they recommend produce the outcomes they claim? Have other researchers, arriving by different routes, confirmed the same findings?
+
+Those are the questions. The author's other views are genealogy. The book's accuracy is the fruit. You'd want someone evaluating your own work to separate the two. The discipline is to extend the same treatment to sources you'd rather dismiss.
+
+---
+
 *For those acquainted with the Concordius framework:*
 
 Concordius is presented as the best available current account of the available evidence — not because it comes from Urantia, not because Gurdjieff confirmed it, not because Paul arrived at parallel conclusions. The genealogy of these sources is irrelevant to the question of whether the convergence they exhibit reflects actual lower-constraint structure. The framework's warrant is its structural consistency, its predictive yield (the Yukawa coupling predictions, the three-generation structure, the grade-coverage coupling hierarchy), and the cross-tradition convergence of its core claims with independently Φ-proximate content (Gödel, Hopkins, Bach, Plato, Aristotle). These are the fruit. Appendix III describes the method for identifying this fruit systematically in other documents. Feature 12 is the principle that licenses that method: the tree is evaluated by what it produces, not by who planted it.

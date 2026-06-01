@@ -18,6 +18,16 @@ This is a rare category. Most claims do not qualify, and extending the self-seal
 
 ---
 
+*In practice:*
+
+Someone says: careful reasoning is overrated — it's all rationalization anyway, post-hoc justification of what you were going to do regardless.
+
+Notice what just happened. They used careful reasoning to argue that careful reasoning is overrated. They constructed an argument, employed evidence, reached a conclusion. The activity they're dismissing did the work of dismissing it.
+
+That's the test. But be careful with it — it applies rarely and deserves precise use. Most claims don't have this structure. Apply it only where every possible form of denial genuinely performs what it denies. Where it genuinely applies, it is decisive. Where it only sort-of applies, don't pretend otherwise.
+
+---
+
 *For those acquainted with the Concordius framework:*
 
 Feature 7 identifies claims whose τ(D) approaches 1 — not by derivation but by structural self-confirmation. In Concordius, the primary self-sealing claim is the Trinity: given Being at all, the structure of self-expression (Father/Son/Spirit; constituting relation/constituted object/constitutive act) follows necessarily. Every attempt to deny that Being has this structure uses the structure it is denying. The Trinity derivation (Papers 1-2) is the formal statement of this self-sealing property. The contingent claims of the series — the superuniverses, the ascension journey, the Lucifer rebellion — do not pass this test. They are well-evidenced contingent accounts. The Trinity alone is structurally necessary. Feature 7 is the boundary marker between Tier 1 claims (near-axiomatic; τ(D) approaches 1) and everything else, and it prevents the series from presenting contingent Urantia cosmology with the confidence appropriate only to necessary structural claims.

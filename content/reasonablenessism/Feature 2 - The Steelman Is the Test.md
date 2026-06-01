@@ -18,6 +18,16 @@ The steelman is also self-applying. Before defending your own position, apply th
 
 ---
 
+*In practice:*
+
+You and your partner are arguing about whether to move cities. You've been making the same points for thirty minutes and neither of you is listening.
+
+Stop. Before your next response, state their case in a way they would recognize as accurate — not as a rhetorical move, but as a genuine attempt to understand what they actually believe. Not "you think your career matters more than mine" — that's the uncharitable version. What do they actually think? What's the real concern?
+
+When you can state their position so well that they say *yes, that's it* — then respond. What you'll find, often, is that the argument you've been having isn't the real disagreement. The real disagreement is smaller, or different, or addressable in a way the surface argument wasn't. The steelman clears the underbrush.
+
+---
+
 *For those acquainted with the Concordius framework:*
 
 The steelman requirement is the epistemic discipline of noise-floor reduction: before receiving the content of a position, the receiving apparatus must be tuned well enough to detect it. A high-noise-floor evaluator cannot distinguish the content of the steelman from its surface features — they hear what they expect to hear, not what is there. Practiced seriously, the steelman is an act of catching: orienting toward the lower-constraint content of the opposing position rather than its H₄₈ surface. Concordius has been subjected to this discipline throughout: the consciousness-preeminence argument was steelmanned against the full materialist account before finalization; the Lucifer rebellion as Great Filter mechanism was steelmanned against the standard Fermi Paradox explanations. Where the steelman identified overclaiming, the claim was revised. The framework that remains is the one that survived.

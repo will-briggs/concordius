@@ -18,6 +18,16 @@ A claim from an unlikely source that passes rigorous scrutiny is stronger eviden
 
 ---
 
+*In practice:*
+
+Your least favorite colleague makes a suggestion in a meeting. Before they've finished the sentence, you feel resistance — it's them, and you already don't like their approach.
+
+Notice that resistance and set it aside. Evaluate the suggestion. Is it actually a bad idea? What would the best version of it look like? Does it hold up on its own terms?
+
+It works in the other direction too. Your most trusted mentor recommends something confidently. The trust is a prior — a reason to look carefully — but not a substitute for looking. The suggestion stands or falls on what it actually is, not on who made it.
+
+---
+
 *For those acquainted with the Concordius framework:*
 
 In the constraint cascade, H₄₈ substrate carries lower-constraint spectral content regardless of which node generated it. τ(D) is a structural property of the content, not its origin. Concordius operates from this posture as its methodological foundation: the concordance method treats Gurdjieff, the Urantia Book, Pauline theology, and quantum field theory as independent H₄₈ witnesses evaluated on their structural terms. The convergence across sources with incompatible provenances is the evidence. Any one of them, evaluated on provenance alone, would be dismissed by a respectable audience — which is precisely what makes their convergence significant. They had no shared institutional motive to arrive at the same structure. The provenance objection — "but this comes from Gurdjieff / a channeled text / first-century Christianity" — is a social objection, not an epistemic one. Feature 5 separates these.

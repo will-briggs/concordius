@@ -18,6 +18,16 @@ The tiers need not be formal or elaborate. "I know this," "I think this is likel
 
 ---
 
+*In practice:*
+
+A friend asks you for advice about a medical decision. You find yourself saying: "Definitely do X — I've heard it's much better."
+
+Slow down. *Definitely* is the register of logical necessity. *I've heard* is the register of hearsay. You used one to prop up the other.
+
+The honest version: "I've heard good things about X — I don't know the research well, but my sense from what I've read is that it's worth asking your doctor about." That's an accurate account of what you actually know. It lets your friend calibrate appropriately. It doesn't make you sound less confident in any meaningful way — it makes what you say more trustworthy, because you're telling them which register you're speaking from. Before you speak, notice which tier you're in. Then speak from that tier.
+
+---
+
 *For those acquainted with the Concordius framework:*
 
 In Concordius, confidence tiers map onto the constraint hierarchy. Tier 1: logical derivations from the two base assumptions (cogito + Gelfand triple). These carry the warrant of mathematical necessity — the Trinity derivation, the five inevitabilities. Their τ(D) approaches 1 from below; they are the anchor nodes of the dependency graph (Appendix III, Section 2). Tier 2: concordance claims — the Law of Seven, the Heptaparaparshinokh, the ascension cosmology, the grade-generation mapping. These carry the warrant of multiple independent witnesses with no contact relationship: strong evidential weight, not necessity. Tier 3: the presenter's working-out — the Signal/Noise ontology, the pyramid geometry, the praise-as-ontological-completion. These carry the warrant of a hypothesis not yet externally confirmed. Each is labeled. The failure mode the tiers guard against is treating Tier 2 Urantia cosmological accounts with the confidence appropriate to Tier 1 structural derivations. The series has been audited for this throughout.

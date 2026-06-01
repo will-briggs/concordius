@@ -16,6 +16,16 @@ The honest practitioner names this boundary rather than pretending it isn't ther
 
 ---
 
+*In practice:*
+
+You're deciding whether to take a job offer. You can calculate the financial implications clearly. You can reason through the practical upsides and downsides with real precision. Both options come out roughly viable.
+
+And then the calculation ends. What comes next isn't more calculation — it's something else: how the people felt when you met them, what kind of work you want to be doing in ten years, whether you'd be proud of it in twenty. That's not a failure of analysis. That's the boundary of what analysis can reach.
+
+Name it. The derivable part you've derived; this is what the numbers say. Now you're shifting methods. What follows is going to be arrived at through other means — experience, intuition, the weight of what you actually care about — and it deserves to be labeled as such. Calling it calculation when it isn't is how you confuse yourself and mislead everyone listening.
+
+---
+
 *For those acquainted with the Concordius framework:*
 
 The Logic/Concordance boundary is named precisely in the series: derivation runs through the Trinity (Papers 1-2); everything after is contingent (Papers 3+). This is not a limitation — it is the series being honest about what kind of claim each element is. The Trinity had to be; the superuniverses happened to be; the Lucifer rebellion happened and need not have. These are different claims with different warrants. In Appendix I, the Logic/Concordance boundary maps onto the Mi-Fa interval of the series as a whole: the interval where the process cannot continue by its own resources and requires an external element. For the series, that element is the concordance — the accumulated structural readings confirming the framework's contingent claims from outside the derivation. Feature 10 is the epistemological statement of what the Mi-Fa interval requires at the methodological level: honest acknowledgment that the derivation has stopped and the method has shifted.

@@ -20,6 +20,16 @@ Claims that begin from inner experience are therefore not epistemically second-c
 
 ---
 
+*In practice:*
+
+You feel lonely. You're inclined, in certain moods, to treat this as your problem — a personal failing, an artifact of your particular psychology, something to be fixed or suppressed.
+
+But notice what loneliness is: an experience reported without known exception across every culture and era in human history. Not similar kinds of sadness in different contexts — the same structural experience, the same felt absence of connection, confirmed by everyone who has ever lived long enough to feel it.
+
+That universality is evidence that loneliness is a real feature of the human situation — that it tracks something about what we are and what we need, not just something about your circumstances. The implication isn't that loneliness is permanent or irresolvable. It's that it deserves to be taken seriously as testimony about reality rather than dismissed as merely personal.
+
+---
+
 *For those acquainted with the Concordius framework:*
 
 Feature 8 is the epistemological complement of Papers 1-2. Papers 1-2 develop the consciousness-preeminence argument from the two base assumptions: the cogito and the Gelfand triple with its constitutive inner product ⟨·,·⟩. The central claim of Paper 2 — that consciousness-primacy is licensed by the convergence evidence — rests directly on Feature 8: the cogito's near-universal confirmability across all subjects in all eras is, by this feature, the strongest available grounds for inferring that self-aware subjectivity is an objective feature of reality, not an artifact of perspective. The Feature 8 correction (originally: "Objectivity is universal subjectivity," an identity claim; corrected to: "universal subjectivity implies objectivity," an inferential claim) was the first documented instance of Feature 4 in operation: features 2, 9, and 11 applied to Feature 8 itself identified that an identity claim was being made where only an inferential claim was warranted. The corrected form is more defensible, more honest about what the evidence licenses, and more consistent with Reasonablenessism's own standards.
