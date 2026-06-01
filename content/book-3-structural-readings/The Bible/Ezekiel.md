@@ -1,6 +1,6 @@
 # A Structural Reading of the Bible: Ezekiel
 
-*Structural readings from the Concordius framework, organized by source book. For the original thematic arrangement, see the [Appendix](../Appendix/).*
+*Structural readings from the Concordius framework, organized by source book. For the original thematic arrangement, see the [The Bible — Thematic](../The Bible - Thematic/).*
 
 ---
 

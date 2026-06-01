@@ -48,12 +48,13 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ---
 
-## Appendix: Thematic Readings
+## The Bible — Thematic Readings
 
-[[Appendix/01 — The Principle and the Identity of the Logos|I — The Principle and the Identity of the Logos]]
-[[Appendix/02 — The Incarnation, Ministry, and the Ascending Career|II — The Incarnation, Ministry, and the Ascending Career]]
-[[Appendix/03 — Affliction, Practice, and the Creation Groaning|III — Affliction, Practice, and the Creation Groaning]]
-[[Appendix/04 — The Revelation of the Structure|IV — The Revelation of the Structure]]
+[[The Bible - Thematic/01 — The Principle and the Identity of the Logos|I — The Principle and the Identity of the Logos]]
+[[The Bible - Thematic/02 — The Incarnation, Ministry, and the Ascending Career|II — The Incarnation, Ministry, and the Ascending Career]]
+[[The Bible - Thematic/03 — Affliction, Practice, and the Creation Groaning|III — Affliction, Practice, and the Creation Groaning]]
+[[The Bible - Thematic/04 — The Revelation of the Structure|IV — The Revelation of the Structure]]
+[[The Bible - Thematic/05 — The Measure Is the Inner Product|V — The Measure Is the Inner Product]]
 
 ---
 
@@ -306,4 +307,4 @@ The following terms appear throughout these readings with consistent technical m
 
 The Concordius framework is developed in full in the **Concordius Papers** (Triptych/Concordius-Papers/). The structural reading method is specified formally in **Structural-Candidates/Φ-Proximity Detection.md** and **Structural-Candidates/Top-100.md**. Reasonablenessism is developed in full in **Triptych/Reasonablenessism/**.
 
-The Appendix to these structural readings (Appendix/ in this directory) contains four thematic essays applying the framework across the biblical corpus: The Principle and the Identity of the Logos; The Incarnation, Ministry, and the Ascending Career; Affliction, Practice, and the Creation Groaning; and The Revelation of the Structure.
+The Bible — Thematic section of these structural readings (The Bible - Thematic/ in this directory) contains five thematic essays applying the framework across the biblical corpus: The Principle and the Identity of the Logos; The Incarnation, Ministry, and the Ascending Career; Affliction, Practice, and the Creation Groaning; The Revelation of the Structure; and The Measure Is the Inner Product.

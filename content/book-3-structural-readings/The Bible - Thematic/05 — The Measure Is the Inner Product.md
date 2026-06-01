@@ -1,4 +1,4 @@
-# The Structural Reading — Appendix 8: The Measure Is the Inner Product
+# The Structural Reading — Part 5: The Measure Is the Inner Product
 
 *Cross-reference: Paper 1 (Father = ⟨·,·⟩; the constitutive inner product); Paper 2 (Trinity as three poles of the constitutive relation); Paper 4 (Man No. 5; coherence threshold; what survives H₄₈ dissolution); Paper 7 (catching as volitional alignment of ⟨φ, f⟩); Paper 8 §3.2-§3.3 (taxonomy of structural failure; abstention; salvation as catching-enablement); Appendix 07 (Magisterium; community of believers; convergence criterion)*
 
