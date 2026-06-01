@@ -1,4 +1,4 @@
-*← [[Paper 7 - The Trogoautoegocrat|Paper 7 — The Trogoautoegocrat]]*
+*← [[Paper 7 1_2 - The Three Kenoses|Paper 7½ — The Three Kenoses]]*
 
 # Paper 8 — The Maximum Downward Entry: Kenosis, the Miracles, and the Resurrection Body
 

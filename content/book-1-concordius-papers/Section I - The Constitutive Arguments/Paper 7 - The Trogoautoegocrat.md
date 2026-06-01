@@ -314,4 +314,4 @@ The Trogoautoegocrat is the universe maintaining itself in the image of the choi
 
 ---
 
-*[[Section II - The Operations/index|Section II — The Operations]] →*
+*[[Paper 7 1_2 - The Three Kenoses|Paper 7½ — The Three Kenoses]] →*
