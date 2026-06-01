@@ -258,4 +258,4 @@ The Trogoautoegocrat is the universe maintaining itself in the image of the choi
 
 ---
 
-*[[Paper 8 - The Maximum Downward Entry|Paper 8 — The Maximum Downward Entry]] →*
+*[[Section II - The Operations/index|Section II — The Operations]] →*

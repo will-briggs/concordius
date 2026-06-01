@@ -429,4 +429,4 @@ What remains open: whether H-origin beings undergo their own form of development
 
 ---
 
-*[[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15 — Plato, Aristotle, and the Gelfand Triple]] →*
+*[[Section III - The Wide Reading/index|Section III — The Wide Reading]] →*

@@ -185,4 +185,4 @@ This paper asserts fractal mirroring without fully deriving it. Paper 22 and tho
 
 ---
 
-*[[Paper 22 - Man No. 1|Paper 22 — Man No. 1]] →*
+*[[Section IV - The Seven Men/index|Section IV — The Seven Men]] →*
