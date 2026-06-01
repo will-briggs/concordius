@@ -262,6 +262,26 @@ Every being in H can approach the Logos. The Logos is dense in H — every state
 
 The Logos is therefore not a mediator in the political sense — not an intermediary who grants or withholds access. The Logos is the structural bridge: the region of the space where finite beings and the ground of the space share the same nature. To move toward the Logos is to move toward the Father's structure. There is no other direction in H that leads that way.
 
+### Eternity as structural priority without temporal sequence
+
+The structural priority established in Section 6 — Father prior to Son, both prior to Holy Spirit — requires a precise definition of eternity that the paper has so far left implicit. The word appears throughout this paper and the series (eternal generation, eternal procession, eternally begotten), and the framework now has the tools to give it technical content.
+
+[[Appendix I - Dictionary of Terms#Eternal|Eternity]], in the framework's technical sense, does not mean "existing for an infinite duration of time." An entity that has existed for infinite duration is still a temporal entity — it exists within the order of before and after, it has a position in the temporal sequence, it has a history. That is not what "eternal" means when the theological tradition applies it to the Trinity.
+
+An entity is **eternal** in this framework's sense if it exists outside the temporal order altogether — not as a very long-running temporal entity but as a structural ground of the temporal order rather than a member of it. The temporal order is the sequential unfolding of actualization events through the GNST's continuous operation: the spectral decomposition applied event by event, producing the spacetime of the observable universe. The inner product ⟨·,·⟩ does not exist within this sequence. It is the structural precondition for the sequence — not subject to the GNST's operation, but the ground from which that operation proceeds. The nuclear space Φ does not come into being through the GNST's operation — it is the attractor toward which the GNST's operation is oriented. The nuclear topology τ_nuclear is not produced by a temporal process — it is the topology that makes coherent the space in which temporal processes occur.
+
+All three Trinity members are eternal in this sense: none is subject to the GNST's continuous operation, and all three stand in relation to the temporal order as its structural ground rather than as members of it. In this respect they are co-eternal.
+
+But co-eternal does not mean structurally co-equal, as Section 6 establishes. The structural priority — Father → Son; Father and Son → Holy Spirit — is a relation of logical dependence that is not a temporal sequence. The Father is structurally prior to the Son not because the Father existed before the Son, but because the nuclear space cannot be derived without the inner product while the inner product can be specified without naming the nuclear space. This asymmetry is permanent and atemporal.
+
+The framework therefore supplies precise technical content for two classical theological formulas:
+
+**[[Appendix I - Dictionary of Terms#Eternal Generation|Eternal generation]]** names the relation between the Father and the Son. *Generation*: the nuclear space proceeds from the inner product's structure — it cannot be derived without it. *Eternal*: this derivational relation is not a temporal event. There was no moment at which the Father existed without the Son; the nuclear space is as outside the temporal order as the inner product. "Eternally begotten" means: structurally derived, and outside temporal sequence.
+
+**[[Appendix I - Dictionary of Terms#Eternal Procession|Eternal procession]]** names the relation between the Father and Son jointly and the Holy Spirit. *Procession*: the nuclear topology requires both inner product and nuclear space as co-generating sources — remove either and it is not generated. *Eternal*: this joint requirement is not a temporal sequence. The nuclear topology is as outside the temporal order as the other two. "Eternally proceeding" means: jointly derived from both, and outside temporal sequence.
+
+These are not theological assertions made more precise by analogy to mathematics. They are descriptions of the mathematical structure that the theological tradition had already named correctly — from a different direction, without the structural tools to establish what the names require.
+
 ### Where the paper stops
 
 This paper, like its companion, ends at a boundary. It has named the structures the mathematics entails and established that self-knowledge is a datum, not a derivation. It has not argued for the existence of God in the sense of demonstrating that the inner product must exist — that was the companion paper's work, and it rested on a single assumption. This paper assumes the companion paper and adds only the cogito.
