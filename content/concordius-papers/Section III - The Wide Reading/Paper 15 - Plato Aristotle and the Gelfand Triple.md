@@ -1,4 +1,4 @@
-*← [[Paper 14 - The Constraint Compatibility Condition|Paper 14 — The Constraint Compatibility Condition]] · [[Paper 16 - The Republic Case Study|Paper 16 — The Republic: Case Study]] →*
+*← [[Paper 14 - The Constraint Compatibility Condition|Paper 14 — The Constraint Compatibility Condition]]*
 
 # Paper 15 — Plato, Aristotle, and the Gelfand Triple: A Structural Resolution
 
@@ -290,4 +290,4 @@ The corrected formulation: the body is not the soul's prison. The body is the so
 
 ---
 
-*← [[Paper 14 - The Constraint Compatibility Condition|Paper 14 — The Constraint Compatibility Condition]] · [[Paper 16 - The Republic Case Study|Paper 16 — The Republic: Case Study]] →*
+*[[Paper 16 - The Republic Case Study|Paper 16 — The Republic: Case Study]] →*

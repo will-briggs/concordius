@@ -1,4 +1,4 @@
-*← [[Feature 2 - The Steelman Is the Test|Feature 2 — The Steelman Is the Test]] · [[Feature 4 - The Stance Applies to Itself|Feature 4 — The Stance Applies to Itself]] →*
+*← [[Feature 2 - The Steelman Is the Test|Feature 2 — The Steelman Is the Test]]*
 
 # Feature 3 — Personal Experience as Testimony
 
@@ -28,4 +28,4 @@ Personal experience is τ_r evidence: the phenomenological signature of τ_r(D, 
 
 ---
 
-*← [[Feature 2 - The Steelman Is the Test|Feature 2 — The Steelman Is the Test]] · [[Feature 4 - The Stance Applies to Itself|Feature 4 — The Stance Applies to Itself]] →*
+*[[Feature 4 - The Stance Applies to Itself|Feature 4 — The Stance Applies to Itself]] →*

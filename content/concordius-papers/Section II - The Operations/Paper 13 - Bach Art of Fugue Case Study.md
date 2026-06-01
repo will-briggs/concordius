@@ -1,4 +1,4 @@
-*← [[Paper 12 - Hopkins Case Study|Paper 12 — Hopkins Case Study]] · [[Paper 14 - The Constraint Compatibility Condition|Paper 14 — The Constraint Compatibility Condition]] →*
+*← [[Paper 12 - Hopkins Case Study|Paper 12 — Hopkins Case Study]]*
 
 # Paper 13 — The Structural Reading in Practice: Bach's *Art of Fugue*
 
@@ -219,4 +219,4 @@ Second: the permanent Si-Do gap of *Contrapunctus XIV* introduces a structural c
 
 ---
 
-*← [[Paper 12 - Hopkins Case Study|Paper 12 — Hopkins Case Study]] · [[Paper 14 - The Constraint Compatibility Condition|Paper 14 — The Constraint Compatibility Condition]] →*
+*[[Paper 14 - The Constraint Compatibility Condition|Paper 14 — The Constraint Compatibility Condition]] →*

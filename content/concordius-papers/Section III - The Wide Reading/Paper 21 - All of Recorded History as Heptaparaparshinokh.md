@@ -1,4 +1,4 @@
-*← [[Paper 20 - The Family as Spectral Structure|Paper 20 — The Family as Spectral Structure]] · [[Paper 22 - Man No. 1|Paper 22 — Man No. 1]] →*
+*← [[Paper 20 - The Family as Spectral Structure|Paper 20 — The Family as Spectral Structure]]*
 
 # Paper 21 — All of Recorded History as Heptaparaparshinokh
 
@@ -185,4 +185,4 @@ This paper asserts fractal mirroring without fully deriving it. Paper 22 and tho
 
 ---
 
-*← [[Paper 20 - The Family as Spectral Structure|Paper 20 — The Family as Spectral Structure]] · [[Paper 22 - Man No. 1|Paper 22 — Man No. 1]] →*
+*[[Paper 22 - Man No. 1|Paper 22 — Man No. 1]] →*

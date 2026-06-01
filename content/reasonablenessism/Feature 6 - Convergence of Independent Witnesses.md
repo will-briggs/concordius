@@ -1,4 +1,4 @@
-*← [[Feature 5 - Provenance Is Irrelevant to Truth-Value|Feature 5 — Provenance Is Irrelevant to Truth-Value]] · [[Feature 7 - The Self-Sealing Test|Feature 7 — The Self-Sealing Test]] →*
+*← [[Feature 5 - Provenance Is Irrelevant to Truth-Value|Feature 5 — Provenance Is Irrelevant to Truth-Value]]*
 
 # Feature 6 — Convergence of Independent Witnesses
 
@@ -26,4 +26,4 @@ Feature 6 is the methodological foundation of the entire concordance program. Th
 
 ---
 
-*← [[Feature 5 - Provenance Is Irrelevant to Truth-Value|Feature 5 — Provenance Is Irrelevant to Truth-Value]] · [[Feature 7 - The Self-Sealing Test|Feature 7 — The Self-Sealing Test]] →*
+*[[Feature 7 - The Self-Sealing Test|Feature 7 — The Self-Sealing Test]] →*

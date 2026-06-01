@@ -1,4 +1,4 @@
-*← [[Paper 23 - Man No. 2|Paper 23 — Man No. 2]] · [[Paper 25 - Man No. 4|Paper 25 — Man No. 4]] →*
+*← [[Paper 23 - Man No. 2|Paper 23 — Man No. 2]]*
 
 # Paper 24 — Man No. 3
 
@@ -262,4 +262,4 @@ The paper identifies the Pharisee as Man 3's archetype of framework calcificatio
 
 ---
 
-*← [[Paper 23 - Man No. 2|Paper 23 — Man No. 2]] · [[Paper 25 - Man No. 4|Paper 25 — Man No. 4]] →*
+*[[Paper 25 - Man No. 4|Paper 25 — Man No. 4]] →*

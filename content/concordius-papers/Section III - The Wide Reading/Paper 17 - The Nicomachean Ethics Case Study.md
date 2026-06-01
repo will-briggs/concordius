@@ -1,4 +1,4 @@
-*← [[Paper 16 - The Republic Case Study|Paper 16 — The Republic: Case Study]] · [[Paper 18 - Augustine Confessions Case Study|Paper 18 — Augustine's Confessions: Case Study]] →*
+*← [[Paper 16 - The Republic Case Study|Paper 16 — The Republic: Case Study]]*
 
 # Paper 17 — The Nicomachean Ethics as Ascending Career: A Structural Reading
 
@@ -207,4 +207,4 @@ Aristotle's claim that the vicious person is worse off than the incontinent — 
 
 ---
 
-*← [[Paper 16 - The Republic Case Study|Paper 16 — The Republic: Case Study]] · [[Paper 18 - Augustine Confessions Case Study|Paper 18 — Augustine's Confessions: Case Study]] →*
+*[[Paper 18 - Augustine Confessions Case Study|Paper 18 — Augustine's Confessions: Case Study]] →*

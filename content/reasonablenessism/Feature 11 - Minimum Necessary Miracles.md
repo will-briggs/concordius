@@ -1,4 +1,4 @@
-*← [[Feature 10 - Logic Where It Reaches; Concordance Where It Doesn't|Feature 10 — Logic Where It Reaches; Concordance Where It Doesn't]] · [[Feature 12 - Fruit, Not Lineage|Feature 12 — Fruit, Not Lineage]] →*
+*← [[Feature 10 - Logic Where It Reaches; Concordance Where It Doesn't|Feature 10 — Logic Where It Reaches; Concordance Where It Doesn't]]*
 
 # Feature 11 — Minimum Necessary Miracles
 
@@ -28,4 +28,4 @@ Both the materialist account and the consciousness-first account require a mirac
 
 ---
 
-*← [[Feature 10 - Logic Where It Reaches; Concordance Where It Doesn't|Feature 10 — Logic Where It Reaches; Concordance Where It Doesn't]] · [[Feature 12 - Fruit, Not Lineage|Feature 12 — Fruit, Not Lineage]] →*
+*[[Feature 12 - Fruit, Not Lineage|Feature 12 — Fruit, Not Lineage]] →*

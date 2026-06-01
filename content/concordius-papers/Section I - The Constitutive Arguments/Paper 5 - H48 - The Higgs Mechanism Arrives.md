@@ -1,4 +1,4 @@
-*← [[Paper 4 - The Constraint Cascade|Paper 4 — The Constraint Cascade: Descent as Densification]] · [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6 — Gravitational Eigenvalue Sifting]] →*
+*← [[Paper 4 - The Constraint Cascade|Paper 4 — The Constraint Cascade: Descent as Densification]]*
 
 # H₄₈: The Higgs Mechanism Arrives
 
@@ -348,4 +348,4 @@ The Spirit was brooding because the Higgs field was at the symmetric maximum. Go
 
 ---
 
-*← [[Paper 4 - The Constraint Cascade|Paper 4 — The Constraint Cascade: Descent as Densification]] · [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6 — Gravitational Eigenvalue Sifting]] →*
+*[[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6 — Gravitational Eigenvalue Sifting]] →*

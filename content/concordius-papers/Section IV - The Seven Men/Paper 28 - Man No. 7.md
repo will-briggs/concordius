@@ -165,4 +165,4 @@ Man 7 knows who she is and where she is going. The "where" is the Isle of Paradi
 
 ---
 
-*← [[Paper 27 - Man No. 6|Paper 27 — Man No. 6]]* | *[[Postscript]] →*
+*[[Postscript]] →*

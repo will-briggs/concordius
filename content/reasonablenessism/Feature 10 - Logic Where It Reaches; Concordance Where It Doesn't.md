@@ -1,4 +1,4 @@
-*← [[Feature 9 - Explicit Confidence Tiers|Feature 9 — Explicit Confidence Tiers]] · [[Feature 11 - Minimum Necessary Miracles|Feature 11 — Minimum Necessary Miracles]] →*
+*← [[Feature 9 - Explicit Confidence Tiers|Feature 9 — Explicit Confidence Tiers]]*
 
 # Feature 10 — Logic Where It Reaches; Concordance Where It Doesn't
 
@@ -26,4 +26,4 @@ The Logic/Concordance boundary is named precisely in the series: derivation runs
 
 ---
 
-*← [[Feature 9 - Explicit Confidence Tiers|Feature 9 — Explicit Confidence Tiers]] · [[Feature 11 - Minimum Necessary Miracles|Feature 11 — Minimum Necessary Miracles]] →*
+*[[Feature 11 - Minimum Necessary Miracles|Feature 11 — Minimum Necessary Miracles]] →*

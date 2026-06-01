@@ -1,4 +1,4 @@
-*← [[Paper 26 - Man No. 5|Paper 26 — Man No. 5]] · [[Paper 28 - Man No. 7|Paper 28 — Man No. 7]] →*
+*← [[Paper 26 - Man No. 5|Paper 26 — Man No. 5]]*
 
 # Paper 27 — Man No. 6
 
@@ -119,4 +119,4 @@ This paper has described Man 6 as the state in which both higher centers are sub
 
 ---
 
-*← [[Paper 26 - Man No. 5|Paper 26 — Man No. 5]] · [[Paper 28 - Man No. 7|Paper 28 — Man No. 7]] →*
+*[[Paper 28 - Man No. 7|Paper 28 — Man No. 7]] →*

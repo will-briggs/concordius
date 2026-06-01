@@ -1,4 +1,4 @@
-*← [[Paper 3 - The First Free Act|Paper 3 — The First Free Act]] · [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5 — H₄₈: The Higgs Mechanism Arrives]] →*
+*← [[Paper 3 - The First Free Act|Paper 3 — The First Free Act]]*
 
 # The Constraint Cascade: Descent as Densification
 
@@ -390,4 +390,4 @@ The differences are equally important. First, the H in Gurdjieff's notation stan
 
 ---
 
-*← [[Paper 3 - The First Free Act|Paper 3 — The First Free Act]] · [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5 — H₄₈: The Higgs Mechanism Arrives]] →*
+*[[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5 — H₄₈: The Higgs Mechanism Arrives]] →*

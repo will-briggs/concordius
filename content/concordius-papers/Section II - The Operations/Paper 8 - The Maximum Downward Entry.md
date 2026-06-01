@@ -1,4 +1,4 @@
-*← [[Paper 7 - The Trogoautoegocrat|Paper 7 — The Trogoautoegocrat]] · [[Paper 9 - Incompleteness Derived|Paper 9 — Incompleteness Derived]] →*
+*← [[Paper 7 - The Trogoautoegocrat|Paper 7 — The Trogoautoegocrat]]*
 
 # Paper 8 — The Maximum Downward Entry: Kenosis, the Miracles, and the Resurrection Body
 
@@ -285,4 +285,4 @@ The structural consequence for this paper's title claim: the Maximum Downward En
 
 ---
 
-*← [[Paper 7 - The Trogoautoegocrat|Paper 7 — The Trogoautoegocrat]] · [[Paper 9 - Incompleteness Derived|Paper 9 — Incompleteness Derived]] →*
+*[[Paper 9 - Incompleteness Derived|Paper 9 — Incompleteness Derived]] →*

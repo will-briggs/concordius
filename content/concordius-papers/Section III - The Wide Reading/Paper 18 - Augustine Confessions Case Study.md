@@ -1,4 +1,4 @@
-*← [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17 — The Nicomachean Ethics: Case Study]] · [[Paper 19 - Reasonablenessism Structural Reading|Paper 19 — Reasonablenessism: Structural Reading]] →*
+*← [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17 — The Nicomachean Ethics: Case Study]]*
 
 # Paper 18 — The Ascending Career as Autobiography: A Structural Reading of Augustine's *Confessions*
 
@@ -253,4 +253,4 @@ The *City of God* extends the ascending career analysis across historical time: 
 
 ---
 
-*← [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17 — The Nicomachean Ethics: Case Study]] · [[Paper 19 - Reasonablenessism Structural Reading|Paper 19 — Reasonablenessism: Structural Reading]] →*
+*[[Paper 19 - Reasonablenessism Structural Reading|Paper 19 — Reasonablenessism: Structural Reading]] →*

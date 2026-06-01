@@ -1,4 +1,4 @@
-*← [[Paper 9 - Incompleteness Derived|Paper 9 — Incompleteness Derived]] · [[Paper 11 - The Holographic Content Principle|Paper 11 — The Holographic Content Principle]] →*
+*← [[Paper 9 - Incompleteness Derived|Paper 9 — Incompleteness Derived]]*
 
 # The Truth Measure: Language, the Logos, and the Limits of Artificial Minds
 
@@ -281,4 +281,4 @@ What remains open: the measurement protocol for applying the calibration precise
 
 ---
 
-*← [[Paper 9 - Incompleteness Derived|Paper 9 — Incompleteness Derived]] · [[Paper 11 - The Holographic Content Principle|Paper 11 — The Holographic Content Principle]] →*
+*[[Paper 11 - The Holographic Content Principle|Paper 11 — The Holographic Content Principle]] →*

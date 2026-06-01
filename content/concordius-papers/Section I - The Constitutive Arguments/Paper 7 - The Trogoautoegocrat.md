@@ -1,4 +1,4 @@
-*← [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6 — Gravitational Eigenvalue Sifting]] · [[Paper 8 - The Maximum Downward Entry|Paper 8 — The Maximum Downward Entry]] →*
+*← [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6 — Gravitational Eigenvalue Sifting]]*
 
 # The Trogoautoegocrat: The Reciprocal Maintenance of the Created Order
 
@@ -258,4 +258,4 @@ The Trogoautoegocrat is the universe maintaining itself in the image of the choi
 
 ---
 
-*← [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6 — Gravitational Eigenvalue Sifting]] · [[Paper 8 - The Maximum Downward Entry|Paper 8 — The Maximum Downward Entry]] →*
+*[[Paper 8 - The Maximum Downward Entry|Paper 8 — The Maximum Downward Entry]] →*

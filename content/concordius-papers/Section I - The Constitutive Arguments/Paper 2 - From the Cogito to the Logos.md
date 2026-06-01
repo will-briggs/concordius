@@ -1,4 +1,4 @@
-*← [[Paper 1 - Modeling Reality as a Gelfand Triple|Paper 1 — Modeling Reality as a Gelfand Triple]] · [[Paper 3 - The First Free Act|Paper 3 — The First Free Act]] →*
+*← [[Paper 1 - Modeling Reality as a Gelfand Triple|Paper 1 — Modeling Reality as a Gelfand Triple]]*
 
 # From the Cogito to the Logos: Naming the Structures of the Gelfand Triple
 
@@ -340,4 +340,4 @@ What instantiates these two modes — what kinds of beings, if any, would be H-o
 
 ---
 
-*← [[Paper 1 - Modeling Reality as a Gelfand Triple|Paper 1 — Modeling Reality as a Gelfand Triple]] · [[Paper 3 - The First Free Act|Paper 3 — The First Free Act]] →*
+*[[Paper 3 - The First Free Act|Paper 3 — The First Free Act]] →*

@@ -1,4 +1,4 @@
-*← [[Paper 13 - Bach Art of Fugue Case Study|Paper 13 — Bach Case Study: The Art of Fugue]] · [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15 — Plato, Aristotle, and the Gelfand Triple]] →*
+*← [[Paper 13 - Bach Art of Fugue Case Study|Paper 13 — Bach Case Study: The Art of Fugue]]*
 
 # Paper 14 — The Constraint Compatibility Condition: Chemistry, the Ray of Creation, and the Physics of Ascent
 
@@ -429,4 +429,4 @@ What remains open: whether H-origin beings undergo their own form of development
 
 ---
 
-*← [[Paper 13 - Bach Art of Fugue Case Study|Paper 13 — Bach Case Study: The Art of Fugue]] · [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15 — Plato, Aristotle, and the Gelfand Triple]] →*
+*[[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15 — Plato, Aristotle, and the Gelfand Triple]] →*

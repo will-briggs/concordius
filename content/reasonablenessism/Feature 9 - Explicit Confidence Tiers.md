@@ -1,4 +1,4 @@
-*← [[Feature 8 - Universal Subjective Convergence Implies Objectivity|Feature 8 — Universal Subjective Convergence Implies Objectivity]] · [[Feature 10 - Logic Where It Reaches; Concordance Where It Doesn't|Feature 10 — Logic Where It Reaches; Concordance Where It Doesn't]] →*
+*← [[Feature 8 - Universal Subjective Convergence Implies Objectivity|Feature 8 — Universal Subjective Convergence Implies Objectivity]]*
 
 # Feature 9 — Explicit Confidence Tiers
 
@@ -28,4 +28,4 @@ In Concordius, confidence tiers map onto the constraint hierarchy. Tier 1: logic
 
 ---
 
-*← [[Feature 8 - Universal Subjective Convergence Implies Objectivity|Feature 8 — Universal Subjective Convergence Implies Objectivity]] · [[Feature 10 - Logic Where It Reaches; Concordance Where It Doesn't|Feature 10 — Logic Where It Reaches; Concordance Where It Doesn't]] →*
+*[[Feature 10 - Logic Where It Reaches; Concordance Where It Doesn't|Feature 10 — Logic Where It Reaches; Concordance Where It Doesn't]] →*

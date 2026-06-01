@@ -1,4 +1,4 @@
-*← [[Paper 18 - Augustine Confessions Case Study|Paper 18 — Augustine's Confessions: Case Study]] · [[Paper 20 - The Family as Spectral Structure|Paper 20 — The Family as Spectral Structure]] →*
+*← [[Paper 18 - Augustine Confessions Case Study|Paper 18 — Augustine's Confessions: Case Study]]*
 
 # Paper 19 — The Method Reading Itself: A Structural Reading of Reasonablenessism
 
@@ -256,4 +256,4 @@ That is Reasonablenessism. It is how the material is approached. It is how a lif
 
 ---
 
-*← [[Paper 18 - Augustine Confessions Case Study|Paper 18 — Augustine's Confessions: Case Study]] · [[Paper 20 - The Family as Spectral Structure|Paper 20 — The Family as Spectral Structure]] →*
+*[[Paper 20 - The Family as Spectral Structure|Paper 20 — The Family as Spectral Structure]] →*

@@ -1,4 +1,4 @@
-*← [[Paper 10 - The Truth Measure|Paper 10 — The Truth Measure]] · [[Paper 12 - Hopkins Case Study|Paper 12 — Hopkins Case Study]] →*
+*← [[Paper 10 - The Truth Measure|Paper 10 — The Truth Measure]]*
 
 # The Whole in Every Part: The Holographic Content Principle
 
@@ -341,4 +341,4 @@ This explains the tradition's consistent testimony that the greatest works are r
 
 ---
 
-*← [[Paper 10 - The Truth Measure|Paper 10 — The Truth Measure]] · [[Paper 12 - Hopkins Case Study|Paper 12 — Hopkins Case Study]] →*
+*[[Paper 12 - Hopkins Case Study|Paper 12 — Hopkins Case Study]] →*

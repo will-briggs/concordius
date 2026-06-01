@@ -1,4 +1,4 @@
-*← [[Paper 19 - Reasonablenessism Structural Reading|Paper 19 — Reasonablenessism: Structural Reading]] · [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21 — All of Recorded History as Heptaparaparshinokh]] →*
+*← [[Paper 19 - Reasonablenessism Structural Reading|Paper 19 — Reasonablenessism: Structural Reading]]*
 
 # Paper 20 — The Family as Spectral Structure: Procreation, the New Being, and the Catching Environment
 
@@ -323,4 +323,4 @@ The structural account dissolves the possessive dimension of the romantic parent
 
 ---
 
-*← [[Paper 19 - Reasonablenessism Structural Reading|Paper 19 — Reasonablenessism: Structural Reading]] · [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21 — All of Recorded History as Heptaparaparshinokh]] →*
+*[[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21 — All of Recorded History as Heptaparaparshinokh]] →*

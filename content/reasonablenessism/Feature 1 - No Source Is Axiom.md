@@ -1,5 +1,3 @@
-*[[Feature 2 - The Steelman Is the Test|Feature 2 — The Steelman Is the Test]] →*
-
 # Feature 1 — No Source Is Axiom
 
 *Discipline the Passive — features that train the evaluating mind to receive properly.*

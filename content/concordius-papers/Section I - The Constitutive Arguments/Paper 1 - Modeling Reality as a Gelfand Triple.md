@@ -1,5 +1,3 @@
-*[[Paper 2 - From the Cogito to the Logos|Paper 2 — From the Cogito to the Logos]] →*
-
 # Modeling Reality as a Gelfand Triple: Two Complementary Projections of Complete Structure
 
 ---

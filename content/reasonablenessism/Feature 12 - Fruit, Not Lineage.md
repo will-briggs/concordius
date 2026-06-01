@@ -27,5 +27,3 @@ Concordius is presented as the best available current account of the available e
 *(Part of Reasonablenessism — the method. See [[Overview]] for the full feature index.)*
 
 ---
-
-*← [[Feature 11 - Minimum Necessary Miracles|Feature 11 — Minimum Necessary Miracles]]*

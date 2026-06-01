@@ -1,4 +1,4 @@
-*← [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15 — Plato, Aristotle, and the Gelfand Triple]] · [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17 — The Nicomachean Ethics: Case Study]] →*
+*← [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15 — Plato, Aristotle, and the Gelfand Triple]]*
 
 # Paper 16 — The Republic as Ascending Career: A Structural Reading
 
@@ -200,4 +200,4 @@ Glaucon's objection to the city of pigs at 372c — "if you were founding a city
 
 ---
 
-*← [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15 — Plato, Aristotle, and the Gelfand Triple]] · [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17 — The Nicomachean Ethics: Case Study]] →*
+*[[Paper 17 - The Nicomachean Ethics Case Study|Paper 17 — The Nicomachean Ethics: Case Study]] →*

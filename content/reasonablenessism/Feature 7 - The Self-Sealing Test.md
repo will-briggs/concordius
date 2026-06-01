@@ -1,4 +1,4 @@
-*← [[Feature 6 - Convergence of Independent Witnesses|Feature 6 — Convergence of Independent Witnesses]] · [[Feature 8 - Universal Subjective Convergence Implies Objectivity|Feature 8 — Universal Subjective Convergence Implies Objectivity]] →*
+*← [[Feature 6 - Convergence of Independent Witnesses|Feature 6 — Convergence of Independent Witnesses]]*
 
 # Feature 7 — The Self-Sealing Test
 
@@ -28,4 +28,4 @@ Feature 7 identifies claims whose τ(D) approaches 1 — not by derivation but b
 
 ---
 
-*← [[Feature 6 - Convergence of Independent Witnesses|Feature 6 — Convergence of Independent Witnesses]] · [[Feature 8 - Universal Subjective Convergence Implies Objectivity|Feature 8 — Universal Subjective Convergence Implies Objectivity]] →*
+*[[Feature 8 - Universal Subjective Convergence Implies Objectivity|Feature 8 — Universal Subjective Convergence Implies Objectivity]] →*

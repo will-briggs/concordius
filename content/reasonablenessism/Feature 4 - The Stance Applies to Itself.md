@@ -1,4 +1,4 @@
-*← [[Feature 3 - Personal Experience as Testimony|Feature 3 — Personal Experience as Testimony]] · [[Feature 5 - Provenance Is Irrelevant to Truth-Value|Feature 5 — Provenance Is Irrelevant to Truth-Value]] →*
+*← [[Feature 3 - Personal Experience as Testimony|Feature 3 — Personal Experience as Testimony]]*
 
 # Feature 4 — The Stance Applies to Itself
 
@@ -30,4 +30,4 @@ Feature 4 is the epistemic analog of the Thought Adjuster: the component that or
 
 ---
 
-*← [[Feature 3 - Personal Experience as Testimony|Feature 3 — Personal Experience as Testimony]] · [[Feature 5 - Provenance Is Irrelevant to Truth-Value|Feature 5 — Provenance Is Irrelevant to Truth-Value]] →*
+*[[Feature 5 - Provenance Is Irrelevant to Truth-Value|Feature 5 — Provenance Is Irrelevant to Truth-Value]] →*

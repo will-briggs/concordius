@@ -1,4 +1,4 @@
-*← [[Paper 2 - From the Cogito to the Logos|Paper 2 — From the Cogito to the Logos]] · [[Paper 4 - The Constraint Cascade|Paper 4 — The Constraint Cascade: Descent as Densification]] →*
+*← [[Paper 2 - From the Cogito to the Logos|Paper 2 — From the Cogito to the Logos]]*
 
 # The First Free Act: Creation as Spectral Collapse
 
@@ -303,4 +303,4 @@ The confidence tier stated in the abstract holds at the close: Sections 1 throug
 
 ---
 
-*← [[Paper 2 - From the Cogito to the Logos|Paper 2 — From the Cogito to the Logos]] · [[Paper 4 - The Constraint Cascade|Paper 4 — The Constraint Cascade: Descent as Densification]] →*
+*[[Paper 4 - The Constraint Cascade|Paper 4 — The Constraint Cascade: Descent as Densification]] →*

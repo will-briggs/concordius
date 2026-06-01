@@ -1,4 +1,4 @@
-*← [[Paper 8 - The Maximum Downward Entry|Paper 8 — The Maximum Downward Entry]] · [[Paper 10 - The Truth Measure|Paper 10 — The Truth Measure]] →*
+*← [[Paper 8 - The Maximum Downward Entry|Paper 8 — The Maximum Downward Entry]]*
 
 # What Cannot Be Proved: Gödel's Incompleteness Theorems as a Structural Consequence of the Constraint Hierarchy
 
@@ -271,4 +271,4 @@ The paper cannot prove its own consistency. Neither could Gödel's. Neither can 
 
 ---
 
-*← [[Paper 8 - The Maximum Downward Entry|Paper 8 — The Maximum Downward Entry]] · [[Paper 10 - The Truth Measure|Paper 10 — The Truth Measure]] →*
+*[[Paper 10 - The Truth Measure|Paper 10 — The Truth Measure]] →*

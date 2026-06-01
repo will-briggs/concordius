@@ -1,4 +1,4 @@
-*← [[Feature 4 - The Stance Applies to Itself|Feature 4 — The Stance Applies to Itself]] · [[Feature 6 - Convergence of Independent Witnesses|Feature 6 — Convergence of Independent Witnesses]] →*
+*← [[Feature 4 - The Stance Applies to Itself|Feature 4 — The Stance Applies to Itself]]*
 
 # Feature 5 — Provenance Is Irrelevant to Truth-Value
 
@@ -28,4 +28,4 @@ In the constraint cascade, H₄₈ substrate carries lower-constraint spectral c
 
 ---
 
-*← [[Feature 4 - The Stance Applies to Itself|Feature 4 — The Stance Applies to Itself]] · [[Feature 6 - Convergence of Independent Witnesses|Feature 6 — Convergence of Independent Witnesses]] →*
+*[[Feature 6 - Convergence of Independent Witnesses|Feature 6 — Convergence of Independent Witnesses]] →*

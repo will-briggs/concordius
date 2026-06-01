@@ -1,4 +1,4 @@
-*← [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5 — H₄₈: The Higgs Mechanism Arrives]] · [[Paper 7 - The Trogoautoegocrat|Paper 7 — The Trogoautoegocrat]] →*
+*← [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5 — H₄₈: The Higgs Mechanism Arrives]]*
 
 # Gravitational Eigenvalue Sifting: A Structural Interlude on Gurdjieff's Most Controversial Claim
 
@@ -332,4 +332,4 @@ The astrologer, the mystic, the eschatologist, and the mathematician are describ
 
 ---
 
-*← [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5 — H₄₈: The Higgs Mechanism Arrives]] · [[Paper 7 - The Trogoautoegocrat|Paper 7 — The Trogoautoegocrat]] →*
+*[[Paper 7 - The Trogoautoegocrat|Paper 7 — The Trogoautoegocrat]] →*

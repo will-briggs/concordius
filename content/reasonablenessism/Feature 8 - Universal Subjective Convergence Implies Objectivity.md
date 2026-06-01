@@ -1,4 +1,4 @@
-*← [[Feature 7 - The Self-Sealing Test|Feature 7 — The Self-Sealing Test]] · [[Feature 9 - Explicit Confidence Tiers|Feature 9 — Explicit Confidence Tiers]] →*
+*← [[Feature 7 - The Self-Sealing Test|Feature 7 — The Self-Sealing Test]]*
 
 # Feature 8 — Universal Subjective Convergence Implies Objectivity
 
@@ -30,4 +30,4 @@ Feature 8 is the epistemological complement of Papers 1-2. Papers 1-2 develop th
 
 ---
 
-*← [[Feature 7 - The Self-Sealing Test|Feature 7 — The Self-Sealing Test]] · [[Feature 9 - Explicit Confidence Tiers|Feature 9 — Explicit Confidence Tiers]] →*
+*[[Feature 9 - Explicit Confidence Tiers|Feature 9 — Explicit Confidence Tiers]] →*
