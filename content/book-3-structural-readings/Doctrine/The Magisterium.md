@@ -1,4 +1,4 @@
-# The Structural Reading — Part 7: The Magisterium
+# The Magisterium
 
 *Cross-reference: Paper 14 (CCC; H₂₄-organized H₄₈ matter); Appendix II, Part VI (Law of Seven applied to H₂₄-encoded artifact creation); Paper 4 (Man No. 5; coherence threshold); Paper 7 (GNST; catching as volitional act); Structural Readings, Appendix VI (The Eucharist)*
 
