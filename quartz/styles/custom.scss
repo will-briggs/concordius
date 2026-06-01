@@ -80,6 +80,11 @@ a {
   display: none !important;
 }
 
+// Explorer heading: cancel the h2 margin-bottom so the fold arrow stays aligned
+.explorer button h2 {
+  margin-bottom: 0 !important;
+}
+
 // Sidebar explorer arrows — match link color
 .explorer svg > polyline {
   stroke: #A08955 !important;
