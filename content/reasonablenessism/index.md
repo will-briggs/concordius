@@ -188,19 +188,16 @@ That is Reasonablenessism. It is how the material is approached. It is how a lif
 
 ---
 
-## Concordance — Partial Approaches to the Same Stance
+## Applications
 
-These thinkers arrived at parts of Reasonablenessism by independent routes. None names the full stance, but each contributes to it.
+### In Concordius (primary application)
 
-- **Charles Sanders Peirce** — abduction (inference to the best explanation); truth as the long-run limit of inquiry; fallibilism; the community of inquirers as the corrective mechanism. Closest predecessor to Feature 6 (convergence) and Feature 2 (steelman as test). Didn't extend it to non-scientific domains with enough seriousness.
-- **William James** — pragmatism is a partial approach that Reasonablenessism corrects; James was right that "live hypotheses" deserve live evaluation regardless of institutional credentialing; wrong to reduce truth to utility. The deeper failure: pragmatism applies at finite timescales and cannot reach the scales of Infinity and Eternity at which Truth actually operates. The corrective is to separate James's genuine contribution — evidential openness — from his theory of truth.
-- **John Henry Newman** — the "illative sense" in *A Grammar of Assent*: cumulative, informal reasoning toward certainty across domains that formal logic cannot reach. Features 6 and 10 in particular. He remained inside Catholic authority structures, which limited his application of Feature 5.
-- **Michael Polanyi** — tacit knowledge; the knower is always already involved; "we know more than we can tell." Closest to Features 8 and 3. Personal knowledge as epistemic rather than merely psychological.
-- **G.K. Chesterton** — Features 5 and 12 practiced as literary method; evaluated orthodoxy on its fruit and its survival of the steelman. *Orthodoxy* is informal Reasonablenessism applied to one specific body of doctrine.
-- **Karl Popper** — the falsifiability criterion as a partial version of Feature 2; the steelman as the test. Too narrowly applied (only to empirical science) and too dismissive of domains where controlled falsification is unavailable.
-- **Nassim Taleb** — Feature 12 (evaluate by results, not credentials) and Feature 5 (skin in the game as epistemic corrective to institutional authority). The via negativa. Doesn't have a positive epistemology for the domains Reasonablenessism addresses.
-- **Gurdjieff** — explicit confidence tiers (Feature 9) practiced as pedagogical method: never give the student the answer in the register they're expecting; distinguish what you know from what you're working on. The epistemological discipline embedded in the method of the Fourth Way.
-- **Wittgenstein (*Tractatus* → *Investigations*)** — the boundary between what can be said and what cannot (Feature 10 at its sharpest); the transition from derivation to acknowledgment; the late work's insistence on evaluating language by its use rather than its form (Feature 12 applied to philosophy itself).
+The three core applications:
+1. **No text is axiom; all are evidence** — every source introduced as an independent witness, not a proof text *(Features 1, 6, 10)*
+2. **Universal subjectivity implies objectivity** — the consciousness-preeminence argument of S1E2 rests on the cogito's unrivaled consistency *(Feature 8)*
+3. **Believe on evidence, not provenance** — applied at every major source introduction *(Features 5, 12)*
+
+The series is itself an extended demonstration of Reasonablenessism applied to the largest available questions. Reasonablenessism is the epistemological frame from which the series operates; Paper 19 is the structural reading of Reasonablenessism within the Concordius framework.
 
 ---
 
@@ -231,32 +228,19 @@ Reasonablenessism is accurate but inelegant. The -ism suffix implies a school, w
 
 ---
 
-## Applications
+## Concordance — Partial Approaches to the Same Stance
 
-### In Concordius (primary application)
+These thinkers arrived at parts of Reasonablenessism by independent routes. None names the full stance, but each contributes to it.
 
-The three core applications:
-1. **No text is axiom; all are evidence** — every source introduced as an independent witness, not a proof text *(Features 1, 6, 10)*
-2. **Universal subjectivity implies objectivity** — the consciousness-preeminence argument of S1E2 rests on the cogito's unrivaled consistency *(Feature 8)*
-3. **Believe on evidence, not provenance** — applied at every major source introduction *(Features 5, 12)*
-
-The series is itself an extended demonstration of Reasonablenessism applied to the largest available questions.
-
-### In daily life
-
-*To be developed. Working notes:*
-
-- The steelman requirement (Feature 2) as a practice: before disagreeing with anyone, be able to state their position so accurately they would recognize it. This is not a debate technique — it is a discipline about whether you actually understand what you are rejecting.
-- Explicit confidence tiers (Feature 9) as a conversational practice: "I know this" vs. "I think this" vs. "I'm working on whether this" — maintained as distinct registers, not collapsed into a single confident register for social performance.
-- Minimum necessary miracles (Feature 11) as a decision heuristic: when choosing between accounts of why something happened, prefer the simpler explanation provisionally, while remaining genuinely open to the more complex one if the evidence demands it.
-- Fruit, not lineage (Feature 12) as the corrective to credentialism and to anti-credentialism equally. The credential is not the fruit. Neither is the lack of credential.
-
----
-
-## Relationship to Other Projects
-
-- **Concordius** — the primary intellectual application; Reasonablenessism is the epistemological frame from which the series operates; Paper 19 is the structural reading of Reasonablenessism within the Concordius framework
-- *[Future projects — to be linked as they develop]*
+- **Charles Sanders Peirce** — abduction (inference to the best explanation); truth as the long-run limit of inquiry; fallibilism; the community of inquirers as the corrective mechanism. Closest predecessor to Feature 6 (convergence) and Feature 2 (steelman as test). Didn't extend it to non-scientific domains with enough seriousness.
+- **William James** — pragmatism is a partial approach that Reasonablenessism corrects; James was right that "live hypotheses" deserve live evaluation regardless of institutional credentialing; wrong to reduce truth to utility. The deeper failure: pragmatism applies at finite timescales and cannot reach the scales of Infinity and Eternity at which Truth actually operates. The corrective is to separate James's genuine contribution — evidential openness — from his theory of truth.
+- **John Henry Newman** — the "illative sense" in *A Grammar of Assent*: cumulative, informal reasoning toward certainty across domains that formal logic cannot reach. Features 6 and 10 in particular. He remained inside Catholic authority structures, which limited his application of Feature 5.
+- **Michael Polanyi** — tacit knowledge; the knower is always already involved; "we know more than we can tell." Closest to Features 8 and 3. Personal knowledge as epistemic rather than merely psychological.
+- **G.K. Chesterton** — Features 5 and 12 practiced as literary method; evaluated orthodoxy on its fruit and its survival of the steelman. *Orthodoxy* is informal Reasonablenessism applied to one specific body of doctrine.
+- **Karl Popper** — the falsifiability criterion as a partial version of Feature 2; the steelman as the test. Too narrowly applied (only to empirical science) and too dismissive of domains where controlled falsification is unavailable.
+- **Nassim Taleb** — Feature 12 (evaluate by results, not credentials) and Feature 5 (skin in the game as epistemic corrective to institutional authority). The via negativa. Doesn't have a positive epistemology for the domains Reasonablenessism addresses.
+- **Gurdjieff** — explicit confidence tiers (Feature 9) practiced as pedagogical method: never give the student the answer in the register they're expecting; distinguish what you know from what you're working on. The epistemological discipline embedded in the method of the Fourth Way.
+- **Wittgenstein (*Tractatus* → *Investigations*)** — the boundary between what can be said and what cannot (Feature 10 at its sharpest); the transition from derivation to acknowledgment; the late work's insistence on evaluating language by its use rather than its form (Feature 12 applied to philosophy itself).
 
 ---
 
