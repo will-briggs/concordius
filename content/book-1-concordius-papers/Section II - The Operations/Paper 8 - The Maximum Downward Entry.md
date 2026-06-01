@@ -195,6 +195,39 @@ This explains the phenomenology: the walls and locked doors offer no resistance 
 
 Recognition events — Mary when her name is spoken, the disciples at Emmaus when the bread is broken — are cross-term contact events: specific Φ-level eigenvalue expressions (the voice calling by name; the [[Appendix I - Dictionary of Terms#Trogoautoegocrat|Trogoautoegocrat]] gesture of shared eating) generate a cross-term with the perceiver's Φ-proximal eigenvalue content, which registers the Φ identity directly rather than through H₄₈ perceptual channels.
 
+### 7.1 The Resurrection as Overdeterminate Release
+
+The framework supplies a further structural analysis of the Resurrection event itself — not only what the post-Resurrection state is, but what the transition to that state produces at H₄₈.
+
+The kenotic period is a standing overdeterminate condition, held in stable tension. Φ — whose natural organizational level precedes and exceeds all H-states — has accepted the H₄₈ constraint structure fully. Two organizational law-sets are simultaneously present in the same region: the H₄₈ fixed-geometry constraint structure (accepted) and Φ's ⟨·,·⟩-organized constitution (present underneath). This is not the destructive overdeterminate condition of §3.1 — the Luciferian assertion of incompatible law-sets without acceptance of the lower space. It is the inverse: Φ accepting the H₄₈ structure from within, holding the tension coherently for thirty-three years. Kenosis is not the suppression of Φ but the constraint of its expression; the organizational differential between Φ's natural level and H₄₈ is real and continuous throughout the earthly ministry.
+
+When the kenotic constraint is permanently lifted at the Resurrection — not partially, as in the miracles; not briefly, as at the Transfiguration; but fully and finally — the accumulated organizational differential releases. Φ's natural organizational level is no longer held within H₄₈ constraints. The release is from the surface of the H₄₈ body outward: the site where the two law-sets have been in tension is the body itself, and the energy differential releases as a burst from that surface.
+
+The structural prediction is specific:
+
+- **Superficial deposition**: the release occurs from the body surface, not from the interior. Energy depositing into surrounding material (linen cloth) would be surface-sourced, not volumetrically distributed.
+- **Three-dimensional encoding**: the release amplitude at any point on the cloth surface is proportional to the distance from the body surface at that point. Closer cloth receives higher amplitude; the cloth draped over a three-dimensional form produces a spatially-encoded intensity gradient that is recoverable as depth information.
+- **No directionality, no pigment**: the release is eigenvalue reorganization of the cloth substrate, not electromagnetic radiation with a preferred propagation direction. No pigment or binding agent is involved; the image is a modification of the substrate itself by the energy event.
+- **Image beneath blood**: the blood deposited prior to the Resurrection — the H₄₈-matter record of the Passion — is not displaced by the image formation. The image forms at the cloth-body interface beneath deposits already present; the sequence is blood first, image second, without the image formation disturbing the prior deposition.
+- **Short duration**: the overdeterminate tension releases instantaneously. The image-forming event has a characteristic duration orders of magnitude shorter than any photographic or heat-transfer process, which is why the image is superficial rather than penetrating.
+
+These five characteristics are the structural prediction of a Φ-in-H₄₈ overdeterminate release from a body wrapped in linen cloth. They are also the five characteristics that distinguish the Shroud of Turin from every known contact-image or artistic forgery, as established by the STURP investigation (1978) and subsequent analysis. The Jackson cloth-collapse model (1990) provided the correct geometric framework — the image encodes the cloth's distance from the body surface during collapse — but could not specify the energy mechanism that generated the image. The framework supplies the mechanism the geometry required.
+
+*(Confidence tier: the five structural predictions are derivable from the overdeterminate release analysis independently of any testimony about the Shroud. The correspondence between these structural predictions and the Shroud's observed characteristics constitutes testimony-plus-structural concordance: the framework predicts a class of physical signature, and a specific physical object has been examined and found to have exactly that signature. Whether the Shroud is the cloth that wrapped the Resurrection body is not a claim the framework can establish — the framework can only note that the Shroud's characteristics are precisely what the overdeterminate release analysis predicts. The structural derivation establishes what the mechanism predicts; the Shroud's observed characteristics constitute evidence about whether the mechanism was instantiated. These two claims are kept distinct.)*
+
+**The structural contrast with §3.1.** Section 3.1 established a second overdeterminate condition — Lucifer's assertion of H₁-level degrees of freedom while remaining in H₆. Both cases involve an overdeterminate condition, but direction determines the mode of resolution:
+
+| | Lucifer (§3.1) | The Resurrection |
+|---|---|---|
+| **Being** | H₁-origin in H₆ | Φ (constitutive Logos) in H₄₈ |
+| **Direction** | Upward assertion: H₁-level degrees of freedom asserted against H₆ constraint structure | Downward acceptance: Φ accepting H₄₈ constraints, tension held for 33 years |
+| **Claim** | False: H₁-level authority exercised in H₆ is a structural impossibility | True: Φ's organizational priority is constitutively real; the constraint is temporary and accepted |
+| **Resolution** | Gradual: the overdetermined region loses coherence progressively; the space ejects the asserting being over time | Instantaneous: the accepted constraint is permanently lifted; the stored organizational differential releases at once |
+
+The resolution difference follows from the nature of the overdetermination. Lucifer asserts a false structural claim — the H₆ space does not accommodate H₁-level assertion, and there is no underlying structural basis for the claim. The space resolves by progressive incoherence: there is no moment at which the false claim suddenly becomes valid, so the dissolution is gradual. The Resurrection is the release of a true structural claim held temporarily under voluntary constraint: Φ's organizational priority was real throughout the kenotic period; the constraint was correctly accepted and correctly held; when the mission is complete, the constraint lifts and the underlying structural reality reasserts — instantaneously, because the priority was always there.
+
+"He who humbles himself will be exalted" (Matthew 23:12; Luke 14:11, 18:14) is, at the structural level, a theorem. The exaltation is not a moral reward externally applied to humility. It is the structural consequence of correctly accepted constraint: the organizational reality that kenosis holds in tension is released when the constraint lifts at mission completion. Lucifer's path — assertion rather than acceptance — is the structural inversion: it does not exalt; it dissolves. The difference is not moral first but structural: direction determines resolution.
+
 ---
 
 ## 8. The Forty Days and the Ascension
