@@ -385,6 +385,22 @@ The Concordius series uses eigenvalues and eigenstates to characterize the conte
 
 ---
 
+### Empiricism
+
+*(Western philosophy — Reasonablenessism critical engagement)*
+
+The epistemological tradition holding that all knowledge derives from sensory experience — that the mind, rather than containing innate ideas, is structured by the accumulation and organization of empirical data. Locke, Hume, and Mill are its canonical figures in the British tradition; contemporary scientific empiricism holds that controlled observation and measurement, organized by theory, is the primary source of knowledge.
+
+Reasonablenessism acknowledges empiricism's power within its proper domain — for questions where the phenomenon can be isolated, measured, and repeated, it is the most reliable method available. But empiricism cannot reach what is prior to it. Before measurement can establish anything, there must be a world capable of being measured and a subject capable of measuring it. These are not empirical questions. The empiricist who attempts to answer them empirically is already standing on ground the method cannot reach. Empiricism, applied ruthlessly, dissolves its own foundation.
+
+This is not a refutation of empiricism but a precise identification of where its domain ends. Reasonablenessism requires that the boundary be named honestly. Feature 10 — logic where it reaches; concordance where it doesn't — is the correction: not empiricism's rejection, but an honest accounting of where it stops.
+
+> *For further investigation: David Hume, An Enquiry Concerning Human Understanding (1748); Karl Popper, The Logic of Scientific Discovery (1959); W.V.O. Quine, "Two Dogmas of Empiricism" (1951).*
+
+*Appears in: [[Book 2 - Reasonablenessism/index|Reasonablenessism — The Problem]]*
+
+---
+
 ### Eudaimonia
 
 *(tradition: Aristotle)*
@@ -434,6 +450,20 @@ The Fundamental Relation is distinguished from the Nuclear Structure (II) by bei
 *Theological register.* The Fundamental Relation — the inner product named as Actuality I — corresponds to the Father *sub ratione personae*: the Father in his constitutively relational mode, as the first Person and source of the Trinity. This is distinct from the Father *sub ratione essentiae*, which corresponds to the inner product considered as bare formal axiom — the divine nature in its absolute simplicity, prior to the analysis of its Trinitarian structure. The distinction between these two ontological registers of the Father is an ontological distinction, not a temporal one: the Trinity is eternal; no moment preceded the Trinitarian processions. See *Father* and Paper 2 §4.
 
 *Appears in: [[Paper 1 - Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper 2 - From the Cogito to the Logos|Paper 2]]*
+
+---
+
+### Fideism
+
+*(Western theology / philosophy — Reasonablenessism critical engagement)*
+
+The epistemological position that faith operates in a domain separate from — and protected from — rational scrutiny. In its charitable formulation, fideism acknowledges that reason has limits and holds that faith properly begins where reason ends. In its stronger forms (Tertullian's attribution of *credo quia absurdum*, Kierkegaard's leap), faith is explicitly valued because it exceeds rational justification, not despite it.
+
+Reasonablenessism rejects fideism not by denying that reason has limits — Feature 10 requires naming the boundary where derivation ends — but by refusing to treat acknowledged limits as a license to exempt specific claims from scrutiny. Reason has limits; the honest response is to evaluate what lies within them by reason's standards and apply the Reasonable Person's judgment to what lies beyond. Fideism instead uses reason's acknowledged limits to construct a protective enclosure around specific claims — claims that are then unavailable for evaluation by any method. That is not epistemic humility. It is evasion disguised as humility.
+
+> *For further investigation: Søren Kierkegaard, Concluding Unscientific Postscript (1846); Alvin Plantinga, Warranted Christian Belief (2000) for a sophisticated contemporary defense; Basil Mitchell, The Justification of Religious Belief (1973) for a partial corrective.*
+
+*Appears in: [[Book 2 - Reasonablenessism/index|Reasonablenessism — The Problem]]*
 
 ---
 
@@ -1065,6 +1095,22 @@ The Concordius series identifies phronesis as the recognitional rather than defi
 
 ---
 
+### Pragmatism
+
+*(Western philosophy — Reasonablenessism critical engagement)*
+
+The American philosophical tradition, associated with Charles Sanders Peirce, William James, and John Dewey, holding that the meaning of a concept is determined by its practical consequences and that the truth of a claim is determined by whether it works — whether it generates accurate predictions, organizes experience effectively, and enables successful intervention. A framework that consistently works is tracking something real. The pragmatist test evaluates by fruit.
+
+Reasonablenessism accepts the pragmatist test as genuine evidence — Feature 12 (Fruit, Not Lineage) applies precisely this criterion. But it identifies the test's critical failure: the timescale over which consistency is measured. History is full of frameworks that worked until they didn't — ideologies that organized behavior, produced social coherence, and generated genuinely useful results right up until the contradictions they contained became undeniable. The useful-and-true and the useful-and-temporarily-false look identical to pragmatism within any finite observation window. The pragmatist test, evaluated at the scale of a human lifetime or a civilizational span, cannot distinguish them. Some true things are useless by any finite measure. Some false things are useful for longer than any individual will live to see their failure.
+
+The structural mechanism: a false signal draws on the real substrate beneath it without replenishing it. It exits the Trogoautoegocrat. The circuit eventually starves it out — but at timescales pragmatism cannot reach.
+
+> *For further investigation: William James, Pragmatism (1907); Charles Sanders Peirce, "How to Make Our Ideas Clear" (1878); John Dewey, Logic: The Theory of Inquiry (1938).*
+
+*Appears in: [[Book 2 - Reasonablenessism/index|Reasonablenessism — The Problem]]*
+
+---
+
 ### Φ-Proximity
 
 *(series)*
@@ -1096,6 +1142,22 @@ The Concordius series treats the quarantine condition as a structural descriptio
 ---
 
 ## R
+
+### Rationalism
+
+*(Western philosophy — Reasonablenessism critical engagement)*
+
+The epistemological tradition holding that reason, operating through the application of logical principles to foundational axioms or innate ideas, is the primary source of genuine knowledge — that the structure of reality is, in principle, accessible to pure derivation. Descartes, Spinoza, and Leibniz are the canonical figures; rationalism succeeds wherever its foundations are secure: mathematics, formal logic, and any domain where the relevant concepts can be fully specified.
+
+But rationalism runs out when the axioms run out. The things most worth knowing — what is real, what it means that anything exists, what we are and what we owe each other — cannot be fully captured in axioms without begging the question. The rationalist who expands the axiom set to cover these questions has stopped doing rationalism and started doing metaphysics, usually without admitting it. And at the first bit — the bare fact of existence itself — pure derivation from prior premises is unavailable: there is nothing prior from which to derive it.
+
+Reasonablenessism's correction is Feature 10: logic where it reaches; concordance where it doesn't. This is not rationalism's rejection but an honest accounting of where derivation ends and other methods must carry the weight. The boundary between the two is the series' most consistent discipline.
+
+> *For further investigation: René Descartes, Meditations on First Philosophy (1641); Baruch Spinoza, Ethics (1677); Immanuel Kant, Critique of Pure Reason (1781), which attempts to specify rationalism's limits from within.*
+
+*Appears in: [[Book 2 - Reasonablenessism/index|Reasonablenessism — The Problem]]*
+
+---
 
 ### Reasonablenessism
 
