@@ -153,6 +153,22 @@ The opposite of catching is not sin or moral failure — it is mechanical proces
 
 ---
 
+### Cauchy Sequence
+
+*(mathematics)*
+
+A sequence of elements {ψₙ} in a metric space such that the elements become arbitrarily close to each other as the sequence progresses — formally, for every ε > 0 there exists N such that for all m, n > N, ‖ψₘ − ψₙ‖ < ε. A Cauchy sequence is, intuitively, a sequence that is "trying to converge" in the sense that its elements cluster together without necessarily yet having a limit available in the space.
+
+The significance for the Gelfand triple is that a Hilbert space H is by definition *complete*: every Cauchy sequence in H converges to an element that is already in H. Completeness is what distinguishes H from merely pre-Hilbert inner product spaces — it guarantees that no limit is "missing," that the space closes on itself under the taking of limits. The Cauchy sequence criterion is the standard way of making completeness precise in a metric or normed space, and it is the property that ensures H is a stable, well-behaved analytical domain rather than one with gaps at its limit points.
+
+In the context of the series' mapping, completeness — the guarantee that all Cauchy sequences converge within H — corresponds to the Deity Absolute's role as the domain of all stable, fully determinate states: nothing that genuinely converges toward H-membership falls outside H. The nuclear space Φ satisfies a stronger condition: not only do Cauchy sequences converge, but the projective limit of all Sobolev norms simultaneously converges, making Φ the domain of maximum regularity within H.
+
+> *For further investigation: Walter Rudin, Principles of Mathematical Analysis (1976), chapter 3; Reed and Simon, Methods of Modern Mathematical Physics, Vol. I (1972).*
+
+*Appears in: [[Paper 1 - Modeling Reality as a Gelfand Triple|Paper 1]]*
+
+---
+
 ### Centers
 
 *(tradition: Gurdjieff / Fourth Way)*

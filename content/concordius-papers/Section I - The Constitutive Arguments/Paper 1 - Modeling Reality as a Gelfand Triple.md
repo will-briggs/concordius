@@ -12,7 +12,7 @@ This paper argues that modeling reality as a rigged [[Appendix II - Dictionary o
 
 ## 1. Introduction
 
-The standard mathematical framework for quantum mechanics models the state space of a physical system as a complex separable Hilbert space H. This choice reflects a series of desiderata: linear superposition of states, an inner product defining probabilities and transition amplitudes, and completeness ensuring that all Cauchy sequences converge. The Hilbert space formalism has proven extraordinarily productive.
+The standard mathematical framework for quantum mechanics models the state space of a physical system as a complex separable Hilbert space H. This choice reflects a series of desiderata: linear superposition of states, an inner product defining probabilities and transition amplitudes, and completeness ensuring that all [[Appendix II - Dictionary of Terms#Cauchy Sequence|Cauchy sequences]] converge. The Hilbert space formalism has proven extraordinarily productive.
 
 It is nevertheless incomplete. The [[Appendix II - Dictionary of Terms#Eigenstate|eigenstate]]s of continuous-spectrum observables — position, momentum, energy in scattering states — are not elements of H. The position eigenstate δ(x − x₀), the Dirac delta function, is not a square-integrable function and cannot be normalized as an element of L²(ℝ). Dirac's bra-ket notation handles this intuitively, treating |x⟩ and |p⟩ as formal eigenstates, but this intuition exceeds the formal structure of H alone.
 
