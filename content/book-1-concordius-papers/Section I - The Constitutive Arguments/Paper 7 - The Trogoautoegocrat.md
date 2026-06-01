@@ -244,6 +244,8 @@ Paper 4 established the structural ground of Gurdjieff's claim that the Heptapar
 
 4. **The commensurability of ascending and descending traversals.** The Creator descends constitutively (inhabiting each mode as a genuine occupant); the creature ascends developmentally (developing through each mode by deliberate work). The structural claim is that they traverse the same axis in opposite directions. A formal treatment would need to specify what "the same axis" means when the directions of traversal are constitutively and developmentally distinct. The claim is structurally motivated; the formal equivalence is not yet demonstrated.
 
+5. **Volition in the knowing mode.** The discussion above uses the phrase "whether ⟨·,·⟩ chooses to know" the experiential content of the Φ'-origin journey. The First Free Act establishes that the inner product operates volitionally in its coordinative mode — choosing the Hamiltonian, sustaining the ongoing collapse. Whether that volition extends to the knowing mode — whether ⟨·,·⟩ has the option to know or not know what the dual pairing yields experientially — is not established by the framework and has not been examined. If volition in the creative mode and volition in the knowing mode are distinct capacities, the distinction needs to be drawn. If they are aspects of the same capacity, the framework may have more to say about the question than the current treatment acknowledges. This is an open question with genuine content.
+
 ---
 
 ## 7. Conclusion
