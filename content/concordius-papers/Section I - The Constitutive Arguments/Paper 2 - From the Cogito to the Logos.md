@@ -21,7 +21,7 @@ The companion paper ends at a boundary. It has demonstrated, from a single assum
 - A Hilbert space H of stable, unique, norm-preserving states
 - A distributional domain Φ′ containing excess potential beyond what H can hold
 - A norm ‖·‖ defined by ⟨ψ,ψ⟩ = ‖ψ‖², which is the non-relational face of the inner product
-- A nuclear topology τ_nuclear generated jointly by ⟨·,·⟩ and Φ through the projective limit of the Sobolev chain
+- A [[Appendix II - Dictionary of Terms#Nuclear Topology|nuclear topology]] τ_nuclear generated jointly by ⟨·,·⟩ and Φ through the projective limit of the Sobolev chain
 - A realized nuclear locally convex topological vector space (Φ, τ_nuclear)
 - A coordinative mechanism by which the inner product operates in time, actualizing the spectral structure event by event
 
