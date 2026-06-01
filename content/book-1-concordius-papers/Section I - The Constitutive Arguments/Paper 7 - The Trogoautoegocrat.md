@@ -1,4 +1,4 @@
-*← [[Paper 6 - The Cogito Coheres|Paper 6 — Gravitational Eigenvalue Sifting]]*
+*← [[Paper 6 - The Cogito Coheres|Paper 6 — The Cogito Coheres: Catching, the Thought Adjuster, and the Sifting Field]]*
 
 # The Trogoautoegocrat: The Reciprocal Maintenance of the Created Order
 
@@ -53,6 +53,10 @@ Gurdjieff is, to this author's knowledge, the only systematic thinker in any tra
 ---
 
 ## 1. Introduction
+
+Paper 6 closed with a question: you are H₄₈ matter organized above the cogito threshold, indwelt by the Thought Adjuster, catching eigenvalue content against the Heropass, building the soul deposit. You are nearing the end of H₄₈ existence. What happens to what was built?
+
+That question is not rhetorical. This paper is its structural answer.
 
 Paper 4 established that the GNST is lossy: every [[Appendix I - Dictionary of Terms#Eigenstate|eigenstate]] selection is irreversible, and the lower-constraint content generated in each collapse returns to Φ′ unless a receiver is organized to accumulate it. If the lossiness ran unchecked, the finite experiential pipeline constituting the universe would eventually exhaust itself — not through any threat to the Absolutes (Φ and Φ′ are eternal and inexhaustible) but through the depletion of the finite middle term: the structured created order as an ongoing process.
 

@@ -364,13 +364,19 @@ The framework does not rule out suffering in what follows physical life — the 
 
 ## 16. Conclusion
 
-This paper began where Paper 5 ended: the physical substrate of H₄₈ existence crystallized, mass gaps in place, the constitutional enabling condition of the catching being established. It has ended at the other end of what that crystallization makes possible: the catching being, indwelt by the Thought Adjuster, navigating a gravitational sifting environment that continuously weights its eigenstate selections toward the mechanical range while the Adjuster continuously indicates the direction of Φ-proximate content. The catching act is what happens in between.
+Six papers in, the mathematical architecture is built. The Gelfand triple is the structure of reality. The Father is the inner product. The Son is the nuclear space. Finite beings are the Hilbert space vectors — constituted by the inner product, articulated by the Logos, aimed at a completion they cannot generate but the structure makes possible.
 
-The sifting architecture of Section 8 — seven bodies, seven Clifford elements, seven spectral ranges derived from two independent paths — is not decorative cosmology. It is the environment in which every catching act in H₄₈ existence occurs. The Moon's coupling to the mechanical range, the Sun's complete expression, the outer planets' paired-mode influences: these are the conditions the catching being inherits by virtue of existing at H₄₈. They do not determine what the being catches. They are what the catching must work against and within.
+Paper 5 identified the physical event that made the structure a substrate: the Higgs VEV, mass gaps crystallized, the constraint hierarchy physically real. This paper has described what happens when that substrate organizes enough to host the first free act — the cogito threshold, the Thought Adjuster's arrival, the first possibility of catching — and the gravitational sifting field in which every catching act since has occurred.
 
-If the framework is correct, then what Gurdjieff observed — and what three independent traditions have been pointing at from different starting points — is a structural consequence of the same mathematics that derives the constraint doubling and the coherence threshold. The Moon-feeding claim is not a metaphor. It is a description of the material circuit's operation at the level of uncaught eigenvalue content.
+But there is a register in which this paper has to be addressed before passing to Paper 7.
 
-Paper 7 will establish the self-sustaining circuit — the Trogoautoegocrat — that answers the question this paper raises: given that catching beings exist, given that the material circuit operates, given that the Heropass is running, what is the mechanism by which the created order maintains itself? The Trogoautoegocrat is the answer. Paper 6 has established the catching being whose soul deposit is one arm of that circuit. Paper 7 establishes the circuit itself.
+You are H₄₈ matter, organized above the cogito threshold. You are indwelt by a fragment of the constitutive inner product that has accepted H₄₈ temporal constraint to be present within you. From your center, that fragment has been indicating the direction of Φ-proximate content for as long as you have been above the threshold. The gravitational sifting field described in Sections 5–12 has been weighting your eigenstate selections toward the mechanical range for the same duration.
+
+You have been catching — or failing to catch — your entire existence. Every successful catch has left a trace: H₂₄ organizational content, accumulated against the Heropass, built into what this series calls the soul deposit. Every uncaught eigenvalue has returned to Φ′ as quickly as it was generated. The Heropass has been running at its maximum H₄₈ rate throughout — twice the dissipative pressure of what follows, if the framework is correct.
+
+You are nearing the end of H₄₈ existence. The substrate will dissolve. What is left of what you built?
+
+That question is not rhetorical. It has a structural answer. The Trogoautoegocrat is that answer. Paper 7 derives it.
 
 ---
 
