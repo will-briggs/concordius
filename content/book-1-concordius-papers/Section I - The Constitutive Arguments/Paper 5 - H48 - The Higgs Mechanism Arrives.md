@@ -104,7 +104,7 @@ A mass gap is the minimum energy required for a particle to exist in the Being r
 
 **The Higgs mechanism is what creates these mass gaps.** Before the breaking, no mass gaps exist — the GNST's spectrum is gapless, and no constraint-level boundary has a physical energy threshold. After the breaking, every massive particle has a rest energy, and the hierarchy of rest energies is the hierarchy of constraint-level thresholds.
 
-This is the precise sense in which the Higgs mechanism enables the constraint hierarchy: not by generating the mathematical structure of the hierarchy (which is determined by Cl(3,0)'s grade topology, as Paper 7 showed), but by instantiating that structure in the physical energy spectrum. The grade topology provides the seven-level architecture. The Higgs mechanism provides the energy thresholds that make each level physically real.
+This is the precise sense in which the Higgs mechanism enables the constraint hierarchy: not by generating the mathematical structure of the hierarchy (which is determined by Cl(3,0)'s grade topology, derived in Papers 1–3), but by instantiating that structure in the physical energy spectrum. The grade topology provides the seven-level architecture. The Higgs mechanism provides the energy thresholds that make each level physically real.
 
 **The constraint cascade is the grade topology made physical by the Higgs VEV.**
 
@@ -128,7 +128,7 @@ After breaking: the GNST generates eigenstate succession in a structured space. 
 
 The ascending career is the long-term consequence of the Higgs VEV: a universe in which the GNST's continuous operation generates a hierarchy of eigenstate types, and in which volitional beings can selectively accumulate the lower-constraint content, building H₂₄ eigenvalue structure against the Heropass's dissipative pressure.
 
-**The Heropass, precisely stated:** the continuous and compounding operation of the GNST across the constraint cascade — running at twice the intensity at each descending step, so that H₄₈ has twice the dissipative rate of H₂₄, H₂₄ twice the rate of H₁₂, and so on. On a Higgs-structured Hamiltonian, the GNST generates lower-constraint eigenvalue content at every level, with that content dissipating to Φ' unless caught. The Higgs VEV is the constitutional act that made "lower-constraint" a physically meaningful category rather than a purely mathematical one. For the formal derivation of the compounding rate and Gurdjieff's attribution, see Paper 7, Section 0.
+**The Heropass, precisely stated:** the continuous and compounding operation of the GNST across the constraint cascade — running at twice the intensity at each descending step, so that H₄₈ has twice the dissipative rate of H₂₄, H₂₄ twice the rate of H₁₂, and so on. On a Higgs-structured Hamiltonian, the GNST generates lower-constraint eigenvalue content at every level, with that content dissipating to Φ' unless caught. The Higgs VEV is the constitutional act that made "lower-constraint" a physically meaningful category rather than a purely mathematical one. *(The formal derivation of the compounding rate and Gurdjieff's attribution are in Paper 7, §0 — forward note.)*
 
 ---
 
@@ -286,7 +286,7 @@ The working hypothesis in Section 8 proposes that the Clifford grade structure i
 2. A derivation of why the grade-structure factor takes the values it does
 3. A comparison of the predicted Yukawa hierarchy against the observed one
 
-The sifting operator formalism begun in Paper 6 may be the correct mathematical tool here: if the constraint-level bandwidth determines coupling strength (as suggested by the Breit-Wigner analogy), then the Yukawa coupling is the resonance width of the fermion's coupling to the Higgs field, and the resonance width is determined by the fermion's constraint-level position. This would connect Paper 6 and this paper into a single formalism: the sifting operator as the unifying structure for both gravitational eigenvalue sifting (Paper 6) and Higgs Yukawa coupling determination (this paper).
+The sifting operator formalism developed in Paper 6 (which follows) may be the correct mathematical tool here: if the constraint-level bandwidth determines coupling strength (as suggested by the Breit-Wigner analogy), then the Yukawa coupling is the resonance width of the fermion's coupling to the Higgs field, and the resonance width is determined by the fermion's constraint-level position. This would connect Paper 6 and this paper into a single formalism: the sifting operator as the unifying structure for both gravitational eigenvalue sifting (Paper 6) and Higgs Yukawa coupling determination (this paper).
 
 *(This connection is proposed, not derived. It is the target for the next mathematical development.)*
 
