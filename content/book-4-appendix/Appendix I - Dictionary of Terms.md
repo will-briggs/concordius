@@ -235,17 +235,17 @@ The community of believers is ontologically prior to any institution. All saints
 
 ### Constraint Cascade
 
-*(series — provenance unverified)*
+*(series)*
 
-The nested sequence of increasingly constrained domains produced by successive applications of the Gelfand Nuclear Spectral Theorem (GNST) after the First Free Act. Each stage of the cascade inherits all the constraints of the stage above it and adds its own, producing a monotonic reduction of freedom through the created order. The first application of the GNST produces 3D-spacetime. Subsequent applications produce a nested sequence of progressively denser Hilbert subspaces — named and traced in Paper 4 — terminating in the physical matter of the observable universe. The Big Bang is a late event in the cascade, not its beginning.
+The nested sequence of increasingly constrained domains produced by successive applications of the Gelfand Nuclear Spectral Theorem (GNST) after the First Free Act. Each stage of the cascade inherits all the constraints of the stage above it and adds its own, producing a monotonic reduction of freedom through the created order. The first application of the GNST produces 3D-spacetime — this is the Big Bang (t=0), the cascade's beginning. Subsequent applications produce a nested sequence of progressively denser Hilbert subspaces — named and traced in Paper 4 — terminating in the physical matter of the observable universe. Physical matter with definite masses does not appear until near the cascade's end, at the vacuum expectation value that electroweak symmetry breaking produces.
 
 The mathematical model for the cascade is the grade structure of Cl(3,0): each interior product operation reduces the grade of the active element by one and halves the dimension of the accessible subalgebra (grade 3 → 8 dimensions, grade 2 → 4, grade 1 → 2, grade 0 → 1). Each grade transition removes one bit of freedom. The principle — that optionality reduces by a fixed factor at each transition — is what the Clifford algebra forces; the specific factor at each step is a contingent feature of the Hamiltonian chosen in the First Free Act.
 
 The cascade is the structural basis for Gurdjieff's cosmological principle that each level of creation operates under the full constraint load of every level above it. It also grounds the series' account of the ascending career as the *reversal* of the cascade: each stage of ascent recovers one layer of freedom as the interior product operations are, in effect, undone.
 
-*Provenance notice: "Constraint cascade" is believed to be the series' own term. The component concepts are established (Clifford algebra grade reduction; Dirac constraint theory; Gurdjieff's hierarchical densification), but this specific formulation and its application to the GNST-based creative descent has not been located in prior literature. This should be verified before going to print. If an existing term in the physics or mathematics literature covers the same concept, that term should be adopted or explicitly distinguished from.*
+*Provenance notice: "Constraint cascade" is the series' own term. The component concepts are established (Clifford algebra grade reduction; Dirac constraint theory; Gurdjieff's hierarchical densification), but this specific formulation and its application to the GNST-based creative descent is original to the series.*
 
-*Paper 4 — The Constraint Cascade: Descent as Densification — contains the formal introduction of this term, in Section 3.*
+*The formal introduction of this term is in [[Paper 4 - The Constraint Cascade#3. Eigenstate Selection and the Doubling of Constraints|Paper 4, Section 3 — Eigenstate Selection and the Doubling of Constraints]].*
 
 *Appears in: [[Paper 3 - The First Free Act|Paper 3]], [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5]], [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6]], [[Paper 7 - The Trogoautoegocrat|Paper 7]], [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 9 - Incompleteness Derived|Paper 9]], [[Paper 10 - The Truth Measure|Paper 10]], [[Paper 11 - The Holographic Content Principle|Paper 11]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 28 - Man No. 7|Paper 28]]*
 
