@@ -15,30 +15,30 @@ Concordius is a three-part project that pursues that question from first princip
 
 ---
 
-## Concordius Papers
+## Book 1 — Concordius Papers
 
 The foundational series. Twenty-eight papers, beginning from two assumptions — that reality has the structure of a specific mathematical object (the Gelfand triple), and the bare fact that you are aware of your own existence — and building step by step toward a framework that maps with remarkable precision onto what the major theological and mystical traditions have been describing, in their various vocabularies, for four thousand years.
 
 The argument is rigorous. The mathematics can be checked by those with the background to check it. Those without that background can follow the structural intuitions the papers work hard to make available. What is asked of the reader is only what Wittgenstein found himself holding at the edge of his most rigorous work: a genuine pause at the fact that anything exists at all.
 
-[[concordius-papers/index|Begin with the Introduction →]]
+[[book-1-concordius-papers/index|Begin with the Introduction →]]
 
 ---
 
-## Reasonablenessism
+## Book 2 — Reasonablenessism
 
 The method. Formal proof can only go so far — at some point every serious inquiry reaches territory where certainty is unavailable and judgment is required. Reasonablenessism is a set of twelve principles for how to navigate that territory honestly: how to weigh evidence from independent sources, how to hold beliefs with appropriate confidence, how to act well under genuine uncertainty without collapsing into either dogmatism or paralysis.
 
 It is the method the Concordius Papers use when they leave the domain of formal necessity. It is also, the papers argue, the method any careful person implicitly uses — or should use — when thinking honestly about anything that matters.
 
-[[reasonablenessism/index|Read the Overview →]]
+[[book-2-reasonablenessism/index|Read the Overview →]]
 
 ---
 
-## Structural Readings
+## Book 3 — Structural Readings
 
 The model applied. If the Concordius framework is correct, it should be able to read texts it did not produce — to find, in independent sources from across the world's traditions, the same structural content the framework derives from first principles. The Structural Readings are that test.
 
 They apply the framework to the Bible, Shakespeare's Sonnets, Plato, Laozi, Spinoza, Plotinus, the Bhagavad Gita, Marcus Aurelius, and others. In each case the question is the same: does the independently recognized depth of this text correspond to the structural features the framework predicts? The answer, consistently, is yes — and specifically.
 
-[[structural-readings/index|Read the Framework and Method →]]
+[[book-3-structural-readings/index|Read the Framework and Method →]]
