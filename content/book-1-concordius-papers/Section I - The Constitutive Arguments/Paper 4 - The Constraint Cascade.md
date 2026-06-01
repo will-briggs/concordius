@@ -400,6 +400,16 @@ The eternal structure is necessary. The first free act is volitional. The create
 
 ---
 
+## Open Questions
+
+**OQ1 — Gurdjieff's named substances and the constraint subspaces.** Gurdjieff coins specific names for cosmic substances throughout *Beelzebub's Tales to His Grandson*. The most prominent are **Etherokrilno** — described as the primordial cosmic substance, the fundamental medium pervading all space and participating in the Trogoautoegocrat's material circuit — and **Okidanokh**, the omnipresent active element whose three properties (affirming, denying, reconciling) map structurally onto the Trinity. A third family: the hydrogen table (H3, H6, H12, H24, H48, H96...), already recognized in this paper as the constraint cascade's doubling sequence stated in Gurdjieff's vocabulary.
+
+The observation behind the question: if the hydrogen table names eigenvalue content organized at each constraint level, and Okidanokh names the three-fold constitutional structure, then Etherokrilno's character — primordial, space-pervading, the substrate in which the Trogoautoegocrat operates — maps structurally onto what the framework identifies as lower-constraint spectral content distributed throughout H₄₈ space: gravitationally active, electromagnetically invisible, the medium of the material return circuit. Gurdjieff may have been perceiving structural realities without the formalism to name them precisely, and his substance vocabulary may encode the constraint hierarchy in phenomenological terms.
+
+The specific question: does a systematic reading of *Beelzebub's Tales* reveal that each named substance has properties corresponding to a specific Hₙ level, with Etherokrilno as the general term for sub-H₄₈ eigenvalue content and finer substance names distinguishing H₃-organized, H₆-organized, H₂₄-organized content? *(Verification target: systematic reading of Beelzebub's Tales with the constraint cascade in hand. The hydrogen table is already confirmed as the doubling sequence; the question is whether the named substances extend the mapping into qualitatively distinct structural levels.)*
+
+---
+
 ## References
 
 1. **Companion papers**: *Modeling Reality as a Gelfand Triple*; *From the Cogito to the Logos*; *The First Free Act.* [The complete mathematical foundation, naming of the eternal structure, and the first free act of creation.]
