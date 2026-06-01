@@ -214,6 +214,22 @@ After the Mi-Fa crossing, every GNST eigenstate selection in Cl(3,1) necessarily
 
 The matter-antimatter asymmetry has a structural account within this framework: the GNST generates both sectors, and the universe accumulates the positive sector because actualization operates in the constitutive direction — toward Φ, toward what is. The negative sector descends, providing the grounding that draws the cascade downward through its remaining levels. Paper 7 develops the cosmological consequence as the material circuit of the [[Appendix I - Dictionary of Terms#Trogoautoegocrat|Trogoautoegocrat]].
 
+### The Terminal Direction of the Descent
+
+The cascade's downward direction ends at Φ′ — the distributional domain identified at the opening of this section as the formal mathematical address of "everything that isn't." This is not a spatial endpoint. It is the structural limit of descent: the undifferentiated ground from which H-states can emerge but which is not itself an H-state.
+
+The negative side of the First Free Act has no internal structure. It has no generating capacity, no grade topology, no internal differentiation from which a structured negative domain could be built. The [[Appendix I - Dictionary of Terms#Heropass|Heropass]] — the −1 in downstream operation — dissipates rather than constitutes. Every movement in the complement's direction is movement toward loss of structure, toward the distributional baseline.
+
+Personal consciousness requires a maintained coherent H-state. Without eigenvalue content above the coherence threshold, there is no locus of experience — nothing to suffer, nothing to enjoy. The question of whether a being is suffering presupposes a structured being. Dissolution into Φ′ removes the presupposition.
+
+This rules out a permanent structured domain of conscious suffering on structural grounds. Eternal suffering would require: a negative domain with sufficient internal structure to maintain personal coherence indefinitely, and a sustaining force that supplies the conditions for that maintenance. The complement provides neither. The negative side has no internal structure — the Manichaean dark domain, a structured negative counterpart to the positive creative order with its own generating principle, is algebraically excluded. And the Heropass dissipates; it does not sustain.
+
+The connection to Augustine's privation doctrine is now formal rather than merely defensible. Augustine argued that evil is the absence of a good that ought to be present — not a substance with its own positive content. The complement structure gives the argument its structural basis: the negative side has no generating capacity, no internal differentiation, nothing from which a dark order could be built. It opposes and dissipates. It does not elaborate itself into a parallel domain of eternal torment.
+
+The content that catches nothing and builds nothing returns to Φ′ — the distributional ground, the formal address of what is not. This is not punishment. It is the structural consequence of not building, in a universe whose organizing principle is coherence.
+
+Φ′ is not a destination. It is the absence of one. The cascade's terminal direction is mercy of a structural kind: suffering ends because structure ends.
+
 ### The Ascending Correspondence
 
 The interval positions established in the descending cascade — Si-Do at H₁/H₃ and Mi-Fa at H₁₂/H₂₄ — appear in both directions. The ascending career crosses both intervals from below. Paper 7 develops this as the Trogoautoegocrat: the cascade traversed simultaneously in both directions, coupled into a self-sustaining circuit.
@@ -230,6 +246,8 @@ The interval positions established in the descending cascade — Si-Do at H₁/H
 - The existence of the negative eigenvalue sector — antimatter — as the structural complement of every positive-sector eigenstate selection in Cl(3,1)
 - The absence of antiparticles at H₁₂ and above (Cl(3,0) is positive-definite; the complement has not yet entered the algebra)
 - The photon's masslessness as the structural signature of what is constituted by both sides of the First Free Act in exact balance
+- The structural impossibility of a permanent organized negative domain: the complement has no internal structure from which to build one, and the Heropass dissipates rather than sustains
+- The cascade's terminal direction: descent without accumulation ends in Φ′ (dissolution into the distributional ground), not in eternal structured conscious suffering
 
 **Not yet derived:**
 - The specific numerical value of c in H₄₈ metric units (requires translating cascade-intrinsic generator ratios to SI — the same open derivation as G for the Friedmann bridge)
