@@ -13,7 +13,7 @@ The Concordius framework applied to texts it did not produce. Each reading asks 
 
 ## The Bible
 
-[A Structural Reading of the Bible →](/book-3-structural-readings/a-structural-reading-of-the-bible/)
+[A Structural Reading of the Bible →](/book-3-structural-readings/the-bible/)
 
 Readings across both testaments, organized by book. The full biblical corpus (31,102 verses) scanned for structural density; high-priority passages analyzed in detail.
 
@@ -21,30 +21,30 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ## Philosophy and Wisdom Literature
 
-[[A Structural Reading of Spinoza's Ethics/Ethics|Spinoza — Ethics]]
-[[A Structural Reading of the Enneads/Enneads|Plotinus — The Enneads]]
-[[A Structural Reading of Epictetus/Epictetus|Epictetus — The Discourses and Enchiridion]]
-[[A Structural Reading of the Meditations of Marcus Aurelius/Meditations|Marcus Aurelius — Meditations]]
-[[A Structural Reading of the Tao Te Ching/Tao-Te-Ching|Laozi — Tao Te Ching]]
-[[A Structural Reading of the Bhagavad Gita/Bhagavad-Gita|The Bhagavad Gita]]
+[[Spinoza's Ethics/Ethics|Spinoza — Ethics]]
+[[The Enneads/Enneads|Plotinus — The Enneads]]
+[[Epictetus/Epictetus|Epictetus — The Discourses and Enchiridion]]
+[[The Meditations of Marcus Aurelius/Meditations|Marcus Aurelius — Meditations]]
+[[The Tao Te Ching/Tao-Te-Ching|Laozi — Tao Te Ching]]
+[[The Bhagavad Gita/Bhagavad-Gita|The Bhagavad Gita]]
 
 ---
 
 ## Literature
 
-[[A Structural Reading of Shakespeare's Sonnets/Sonnets|Shakespeare — The Sonnets]]
+[[Shakespeare's Sonnets/Sonnets|Shakespeare — The Sonnets]]
 
 ---
 
 ## Esoteric Traditions
 
-[[A Structural Reading of the Alchemical Tradition/The Alchemical Tradition|The Alchemical Tradition]]
+[[The Alchemical Tradition/The Alchemical Tradition|The Alchemical Tradition]]
 
 ---
 
 ## Memes
 
-[A Structural Reading of Memes →](/book-3-structural-readings/a-structural-reading-of-memes/)
+[A Structural Reading of Memes →](/book-3-structural-readings/memes/)
 
 ---
 
