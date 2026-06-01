@@ -346,4 +346,4 @@ The Spirit was brooding because the Higgs field was at the symmetric maximum. Go
 
 ---
 
-*[[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6 — Gravitational Eigenvalue Sifting]] →*
+*[[Paper 6 - The Cogito Coheres|Paper 6 — Gravitational Eigenvalue Sifting]] →*

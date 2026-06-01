@@ -1,4 +1,4 @@
-*← [[Paper 6 - Gravitational Eigenvalue Sifting|Paper 6 — Gravitational Eigenvalue Sifting]]*
+*← [[Paper 6 - The Cogito Coheres|Paper 6 — Gravitational Eigenvalue Sifting]]*
 
 # The Trogoautoegocrat: The Reciprocal Maintenance of the Created Order
 

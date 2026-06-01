@@ -134,7 +134,7 @@ In the direction of the developmental law: the Heptaparaparshinokh applies to th
 
 ---
 
-*Cross-reference: [[Paper 3 - The First Free Act]] §9; [[Paper 6 - Gravitational Eigenvalue Sifting]] OQ8; [[Paper 7 - The Trogoautoegocrat]]; [[Paper 8 - The Maximum Downward Entry]] §§3, 7, 9, 10; [[Paper 24 1_2 - The Mi-Fa Interval]]; [[Paper 28 1_2 - The Si-Do Interval]]; [[Appendix I - Dictionary of Terms#Kenosis|Kenosis]]; [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]]*
+*Cross-reference: [[Paper 3 - The First Free Act]] §9; [[Paper 6 - The Cogito Coheres]] OQ8; [[Paper 7 - The Trogoautoegocrat]]; [[Paper 8 - The Maximum Downward Entry]] §§3, 7, 9, 10; [[Paper 24 1_2 - The Mi-Fa Interval]]; [[Paper 28 1_2 - The Si-Do Interval]]; [[Appendix I - Dictionary of Terms#Kenosis|Kenosis]]; [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]]*
 
 ---
 
