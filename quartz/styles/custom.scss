@@ -63,6 +63,7 @@ a {
 // and align arrow/text by baseline so the separator sits at the right height
 .breadcrumb-container {
   line-height: normal;
+  row-gap: 0;
 }
 
 .breadcrumb-element {
