@@ -348,7 +348,41 @@ The corollary is worth stating explicitly. In the framework's own natural coordi
 
 *(Confidence tier: derived. The retrospective-coordinates argument follows directly from the cascade structure established in this paper — H₄₈ and its constants are produced by the GNST, not prior to it. The conclusion that Planck time cannot serve as an exact anchor for the first GNST application follows from that structure without additional assumption.)*
 
-What requires further development: the log-time-proportional-to-1/rate assumption needs a formal bridge connecting the GNST actualization rate to the cosmological expansion rate governed by the Friedmann equations. Whether this bridge is derivable from the framework's identification of the GNST as the time operator and Havona as the topological ground of spacetime is an open derivation. *(Cross-reference: Paper 6, OQ7.)*
+**The Friedmann equations: a structural reading.** The cosmological expansion rate is governed by the Friedmann equations, derived from Einstein's field equations applied to a homogeneous, isotropic universe (the FLRW ansatz). Three equations describe the dynamics:
+
+*First Friedmann equation:* H² = (8πG/3)ρ − kc²/a² + Λc²/3
+
+*Second Friedmann equation (acceleration):* ä/a = −(4πG/3)(ρ + 3p/c²) + Λc²/3
+
+*Fluid equation (continuity):* ρ̇ + 3H(ρ + p/c²) = 0
+
+where H = ȧ/a is the Hubble parameter, a(t) the scale factor, ρ the energy density, p the pressure, k the spatial curvature, and Λ the cosmological constant.
+
+The FLRW ansatz — homogeneity and isotropy — is not an empirical assumption requiring independent justification. It is a structural default. The nuclear space is defined on ℝⁿ with a rotationally symmetric measure; it has no preferred direction and no preferred location. The physical universe at the cascade level inherits this symmetry. The FLRW ansatz is what the nuclear topology produces when projected onto H₄₈ spatial geometry.
+
+**The right side of the first Friedmann equation has three terms. The cascade framework has three structural elements. They map exactly.**
+
+**Term 1: (8πG/3)ρ — eigenvalue content coupled through the norm.** ρ is the total energy density — all matter and radiation in H₄₈. In the cascade framework this is the H₄₈ eigenvalue content density: the density of actualized eigenstates in the physical space. More content drives faster expansion. G is Newton's gravitational constant. In the cascade framework, gravity is the norm ‖·‖ — the non-relational face of the inner product, operating across all constraint levels (Section 2). G is the coupling coefficient between H₄₈ eigenvalue content and the metric structure: how strongly the norm registers the presence of actualized content. Whether G is derivable from the cascade structure — specifically from the H₄₈ constraint regime developed in Paper 5 — is the quantitative core of the Friedmann bridge. The functional form (eigenvalue content drives expansion, mediated by the norm) follows structurally. The specific value of G requires H₄₈ internals. The 8π/3 factor encodes the isotropy of the nuclear space — 4π of solid angle over 3 spatial dimensions — and should be structurally derivable from the symmetry of the Schwartz space measure without requiring H₄₈ specifics.
+
+**Term 2: −kc²/a² — spatial curvature, which the cascade forces to zero.** k is the spatial curvature parameter. The flatness dissolution established above removes this term: k = 0 is not an initial condition that happened to obtain but the structural default of the nuclear space. The curvature term vanishes, and the first Friedmann equation reduces to:
+
+> H² = (8πG/3)ρ + Λc²/3
+
+The two-term equation with k = 0 is precisely what current cosmological observations confirm (Planck 2018: Ω_k = 0.001 ± 0.002). The cascade framework does not predict this as a result — it predicts it as a necessity.
+
+**Term 3: Λc²/3 — the boundary pressure of Φ′ on H.** Λ is the cosmological constant, driving the accelerating expansion. In the cascade framework, this term is the ongoing structural pressure of the distributional completion Φ′ on the actualized domain H. Φ′ is not empty but full of unactualized potential, always present at the boundary of H. The c²/3 factor converts that pressure into metric units through the equation of state w = −1. The negative pressure (p = −ρc²) is the directional signature of Φ′ pushing outward rather than the content of H pulling inward.
+
+**The second equation and the meaning of (ρ + 3p).** The appearance of both ρ and p — not just density but also spread — is structurally significant. In the cascade framework, ρ measures the amount of eigenvalue content and p measures the spread of its distribution across the available eigenspace. Radiation (p = ρc²/3) has maximum spread: a fully thermal distribution across all available states. Cold matter (p ≈ 0) has collapsed into low-spread configurations. Dark energy (p = −ρc²) is Φ′ pressure. The combination ρ + 3p is the full contribution of eigenvalue content to metric curvature — both its amount and how it is distributed. The Gelfand triple already encodes both of these: ⟨·,·⟩ measures relational density (ρ) and ‖·‖ measures magnitude (which the distribution function feeds through to p). GR's relativistic gravity sources from both simultaneously, as the cascade framework does, from the two faces of the inner product established in Paper 1.
+
+**The fluid equation and why dark energy does not dilute.** The continuity equation says that H₄₈ eigenvalue content conserves through expansion: matter dilutes as volume grows (ρ ∝ a⁻³), radiation dilutes faster (ρ ∝ a⁻⁴, also redshifting), but dark energy does not dilute (ρ = const). The cascade reading: matter and radiation are actualized eigenvalue content — they dilute because the same number of actualized states occupies a larger eigenspace. Dark energy does not dilute because it is not content. It is the Φ′ boundary pressure, which does not depend on how much of H has been actualized. Φ′ is inexhaustible; its pressure on H does not recede as the actualized domain grows. The non-dilution of dark energy is a structural consequence of what Φ′ is, not a property added to match observations.
+
+**What the Friedmann bridge specifically requires.** The structural reading recovers the functional form of the Friedmann equations — the three-term structure, the combinations in which ρ, p, and Λ appear, the k = 0 necessity, the non-dilution of dark energy. What the bridge formally requires is closing the identification:
+
+> H = (GNST actualization rate per unit of actualized eigenspace volume)
+
+The rate at which the GNST populates the H₄₈ eigenspace, normalized by the current eigenspace volume, must equal the Hubble parameter. The cascade timing derivation already uses eigenspace-proportional GNST rates — the proportionality structure is in place. The remaining requirements are: (a) a formal definition of eigenspace volume in terms of the nuclear metric; (b) the derivation of G from the H₄₈ constraint structure. The functional form of the bridge is structurally present. The coupling constant is the open derivation.
+
+*(Confidence tier: the three-term mapping — eigenvalue content, k = 0 necessity, Φ′ boundary pressure — is derived, following from the structural elements established in this paper and in Paper 1. The identification of G as the H₄₈-specific expression of the norm's coupling is derived in structure; the specific value requires H₄₈ development. The H = GNST rate density identification is structurally motivated; its formal closure is the open Friedmann bridge derivation. Cross-reference: Paper 6, OQ7.)*
 
 ---
 
