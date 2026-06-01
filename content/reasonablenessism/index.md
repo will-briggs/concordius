@@ -60,7 +60,7 @@ This person is not a fiction. You know them. You are trying to be them. The ques
 
 ---
 
-### [[Feature 1 - No Source Is Axiom]]
+### [[Feature 1 - No Source Is Axiom|Feature 1 — No Source Is Axiom]]
 
 ***No source is axiom. All are evidence.***
 
@@ -68,7 +68,7 @@ This person is not a fiction. You know them. You are trying to be them. The ques
 
 ---
 
-### [[Feature 2 - The Steelman Is the Test]]
+### [[Feature 2 - The Steelman Is the Test|Feature 2 — The Steelman Is the Test]]
 
 ***Steelman first. Test what survives.***
 
@@ -76,7 +76,7 @@ This person is not a fiction. You know them. You are trying to be them. The ques
 
 ---
 
-### [[Feature 3 - Personal Experience as Testimony]]
+### [[Feature 3 - Personal Experience as Testimony|Feature 3 — Personal Experience as Testimony]]
 
 ***Personal experience is evidence. It is not proof.***
 
@@ -84,7 +84,7 @@ This person is not a fiction. You know them. You are trying to be them. The ques
 
 ---
 
-### [[Feature 4 - The Stance Applies to Itself]]
+### [[Feature 4 - The Stance Applies to Itself|Feature 4 — The Stance Applies to Itself]]
 
 ***Reasonablenessism applies to itself. No feature is exempt.***
 
@@ -96,7 +96,7 @@ This person is not a fiction. You know them. You are trying to be them. The ques
 
 ---
 
-### [[Feature 5 - Provenance Is Irrelevant to Truth-Value]]
+### [[Feature 5 - Provenance Is Irrelevant to Truth-Value|Feature 5 — Provenance Is Irrelevant to Truth-Value]]
 
 ***Where something comes from does not determine whether it is true.***
 
@@ -104,7 +104,7 @@ This person is not a fiction. You know them. You are trying to be them. The ques
 
 ---
 
-### [[Feature 6 - Convergence of Independent Witnesses]]
+### [[Feature 6 - Convergence of Independent Witnesses|Feature 6 — Convergence of Independent Witnesses]]
 
 ***Independent convergence accumulates.***
 
@@ -112,7 +112,7 @@ This person is not a fiction. You know them. You are trying to be them. The ques
 
 ---
 
-### [[Feature 7 - The Self-Sealing Test]]
+### [[Feature 7 - The Self-Sealing Test|Feature 7 — The Self-Sealing Test]]
 
 ***If every possible denial of a claim performs what it denies, the claim approaches axiom status.***
 
@@ -120,7 +120,7 @@ This person is not a fiction. You know them. You are trying to be them. The ques
 
 ---
 
-### [[Feature 8 - Universal Subjective Convergence Implies Objectivity]]
+### [[Feature 8 - Universal Subjective Convergence Implies Objectivity|Feature 8 — Universal Subjective Convergence Implies Objectivity]]
 
 ***When everyone who has ever looked confirms the same inner experience, that is the strongest available grounds for inferring an objective fact.***
 
@@ -132,7 +132,7 @@ This person is not a fiction. You know them. You are trying to be them. The ques
 
 ---
 
-### [[Feature 9 - Explicit Confidence Tiers]]
+### [[Feature 9 - Explicit Confidence Tiers|Feature 9 — Explicit Confidence Tiers]]
 
 ***Label what you know by how you know it.***
 
@@ -140,7 +140,7 @@ This person is not a fiction. You know them. You are trying to be them. The ques
 
 ---
 
-### [[Feature 10 - Logic Where It Reaches; Concordance Where It Doesn't]]
+### [[Feature 10 - Logic Where It Reaches; Concordance Where It Doesn't|Feature 10 — Logic Where It Reaches; Concordance Where It Doesn't]]
 
 ***Follow the argument as far as it goes. When it stops, name where it stops and shift methods.***
 
@@ -148,7 +148,7 @@ This person is not a fiction. You know them. You are trying to be them. The ques
 
 ---
 
-### [[Feature 11 - Minimum Necessary Miracles]]
+### [[Feature 11 - Minimum Necessary Miracles|Feature 11 — Minimum Necessary Miracles]]
 
 ***When comparing accounts, prefer the one requiring fewer unexplained events.***
 
@@ -156,7 +156,7 @@ This person is not a fiction. You know them. You are trying to be them. The ques
 
 ---
 
-### [[Feature 12 - Fruit, Not Lineage]]
+### [[Feature 12 - Fruit, Not Lineage|Feature 12 — Fruit, Not Lineage]]
 
 ***Evaluate by what it produces, not where it came from.***
 
