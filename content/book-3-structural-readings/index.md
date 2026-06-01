@@ -21,24 +21,24 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ## Philosophy and Wisdom Literature
 
-[[Spinoza's Ethics/Ethics|Spinoza — Ethics]]
-[[The Enneads/Enneads|Plotinus — The Enneads]]
-[[Epictetus/Epictetus|Epictetus — The Discourses and Enchiridion]]
-[[The Meditations of Marcus Aurelius/Meditations|Marcus Aurelius — Meditations]]
-[[The Tao Te Ching/Tao-Te-Ching|Laozi — Tao Te Ching]]
-[[The Bhagavad Gita/Bhagavad-Gita|The Bhagavad Gita]]
+[[Spinoza's Ethics/index|Spinoza — Ethics]]
+[[The Enneads/index|Plotinus — The Enneads]]
+[[Epictetus/index|Epictetus — The Discourses and Enchiridion]]
+[[The Meditations of Marcus Aurelius/index|Marcus Aurelius — Meditations]]
+[[The Tao Te Ching/index|Laozi — Tao Te Ching]]
+[[The Bhagavad Gita/index|The Bhagavad Gita]]
 
 ---
 
 ## Literature
 
-[[Shakespeare's Sonnets/Sonnets|Shakespeare — The Sonnets]]
+[[Shakespeare's Sonnets/index|Shakespeare — The Sonnets]]
 
 ---
 
 ## Esoteric Traditions
 
-[[The Alchemical Tradition/The Alchemical Tradition|The Alchemical Tradition]]
+[[The Alchemical Tradition/index|The Alchemical Tradition]]
 
 ---
 
@@ -54,7 +54,6 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 [[Appendix/02 — The Incarnation, Ministry, and the Ascending Career|II — The Incarnation, Ministry, and the Ascending Career]]
 [[Appendix/03 — Affliction, Practice, and the Creation Groaning|III — Affliction, Practice, and the Creation Groaning]]
 [[Appendix/04 — The Revelation of the Structure|IV — The Revelation of the Structure]]
-[[Appendix/05 — The Alchemical Tradition|V — The Alchemical Tradition]]
 
 ---
 
@@ -307,4 +306,4 @@ The following terms appear throughout these readings with consistent technical m
 
 The Concordius framework is developed in full in the **Concordius Papers** (Triptych/Concordius-Papers/). The structural reading method is specified formally in **Structural-Candidates/Φ-Proximity Detection.md** and **Structural-Candidates/Top-100.md**. Reasonablenessism is developed in full in **Triptych/Reasonablenessism/**.
 
-The Appendix to these structural readings (Appendix/ in this directory) contains five thematic essays applying the framework across the biblical corpus: The Principle and the Identity of the Logos; The Incarnation, Ministry, and the Ascending Career; Affliction, Practice, and the Creation Groaning; The Revelation of the Structure; and The Alchemical Tradition.
+The Appendix to these structural readings (Appendix/ in this directory) contains four thematic essays applying the framework across the biblical corpus: The Principle and the Identity of the Logos; The Incarnation, Ministry, and the Ascending Career; Affliction, Practice, and the Creation Groaning; and The Revelation of the Structure.
