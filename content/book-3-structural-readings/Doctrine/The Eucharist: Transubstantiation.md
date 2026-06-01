@@ -1,4 +1,4 @@
-# The Structural Reading — Part 6: The Eucharist and the Doctrine of Transubstantiation
+# The Eucharist and the Doctrine of Transubstantiation
 
 *Cross-reference: Paper 14, §5 (H₂₄-organized H₄₈ matter); Paper 14, §8 (burning bush; OQ3 — downward compatibility); Paper 14, OQ6 (architectural spheres as electromagnetically dark); Paper 7 (GNST; catching as volitional act)*
 
