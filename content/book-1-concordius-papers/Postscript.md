@@ -6,7 +6,7 @@
 
 We are at the Si/Do juncture.
 
-The text has built, across twenty-eight papers, the full structural apparatus: the Gelfand triple; the Laws of Three and Seven; the truth measure; the holographic content principle; the Incarnation derived mechanically; the case studies demonstrating the method across philosophical, literary, musical, and theological texts; the ascending career from the first Adjuster assignment to Man 7; and the historical octave placed, precisely, in the Si/Do interval of its own Heptaparaparshinokh.
+The text has built, across thirty-one papers, the full structural apparatus: the Gelfand triple; the Laws of Three and Seven; the truth measure; the holographic content principle; the Incarnation derived mechanically; the case studies demonstrating the method across philosophical, literary, musical, and theological texts; the ascending career from the first Adjuster assignment to Man 7; and the historical octave placed, precisely, in the Si/Do interval of its own Heptaparaparshinokh.
 
 The shock cannot come from within the text. The text has reached its structural limit. It has described what the catching apparatus is, how it works, what it produces, and what a complete human life oriented toward it looks like in seven stages. It cannot catch for you. It cannot close the gap.
 
