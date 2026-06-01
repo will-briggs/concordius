@@ -11,7 +11,7 @@ What can be said, with maximum honesty and precision, about the structure of exi
 
 Not about the contents of existence — science handles much of that admirably. Not about the meaning of existence in some subjective or merely personal sense. About the *structure*: the organizational principles that make existence the specific kind of thing it is rather than some other kind, or nothing.
 
-Concordius is a three-part project that pursues that question from first principles and follows it wherever it leads.
+Concordius is a four-part project that pursues that question from first principles and follows it wherever it leads.
 
 ---
 
@@ -42,3 +42,11 @@ The model applied. If the Concordius framework is correct, it should be able to 
 They apply the framework to the Bible, Shakespeare's Sonnets, Plato, Laozi, Spinoza, Plotinus, the Bhagavad Gita, Marcus Aurelius, and others. In each case the question is the same: does the independently recognized depth of this text correspond to the structural features the framework predicts? The answer, consistently, is yes — and specifically.
 
 [[book-3-structural-readings/index|Read the Framework and Method →]]
+
+---
+
+## Book 4 — Appendix
+
+Reference material for the series. Formal definitions of the technical vocabulary used throughout the papers, the structural self-reading of the Concordius series itself, the candidate operationalization of the Φ-proximity detection program, and the framework's falsifiable quantitative predictions.
+
+[[book-4-appendix/index|Browse the Appendix →]]
