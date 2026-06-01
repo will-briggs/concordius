@@ -4,7 +4,7 @@
 
 ---
 
-### Joel 2:28-29 ⭐ — "I will pour out my Spirit on all people."
+### Joel 2:28-29 ✶ — "I will pour out my Spirit on all people."
 
 *Ve-hayah ʾaḥarei-khen ʾeshpokh ʾet-ruachi ʿal kol-basar, u-nibbʾu beneykhem u-vnoteykhem, ziqneykhem ḥalomot yaḥalomun, baḥureykhem ḥezyonot yirʾu. Ve-gam ʿal-ha-ʿavadim ve-ʿal-ha-shifahot ba-yamim ha-hem ʾeshpokh ʾet-ruachi.* — And afterward, I will pour out my Spirit on all flesh. Your sons and daughters will prophesy, your old men will dream dreams, your young men will see visions. Even on my servants, both men and women, I will pour out my Spirit in those days.
 

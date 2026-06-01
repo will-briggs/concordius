@@ -4,7 +4,7 @@
 
 ---
 
-### Ethics I, Definition 6 + Proposition 15 ⭐ — "God is a being absolutely infinite" / "Whatever is, is in God"
+### Ethics I, Definition 6 + Proposition 15 ✶ — "God is a being absolutely infinite" / "Whatever is, is in God"
 
 *Per Deum intelligo ens absolute infinitum, hoc est, substantiam constantem infinitis attributis, quorum unumquodque aeternam et infinitam essentiam exprimit* — By God I understand a being absolutely infinite, that is, a substance consisting of infinite attributes, each of which expresses eternal and infinite essence. (Def. 6)
 
@@ -28,7 +28,7 @@ The structural consequence of Proposition 15 is the most direct statement of cre
 
 ---
 
-### Ethics II, Proposition 7 ⭐ — "The order and connection of ideas is the same as the order and connection of things"
+### Ethics II, Proposition 7 ✶ — "The order and connection of ideas is the same as the order and connection of things"
 
 *Ordo et connexio idearum idem est ac ordo et connexio rerum* — The order and connection of ideas is the same as the order and connection of things.
 
@@ -50,7 +50,7 @@ The constitutive inner product ⟨·,·⟩ operates in both registers simultaneo
 
 ---
 
-### Ethics III, Proposition 6 ⭐ — "Each thing, as far as it can by its own power, strives to persevere in its being"
+### Ethics III, Proposition 6 ✶ — "Each thing, as far as it can by its own power, strives to persevere in its being"
 
 *Unaquaeque res, quantum in se est, in suo esse perseverare conatur* — Each thing, as far as it can by its own power, strives to persevere in its being.
 
@@ -72,7 +72,7 @@ The Heropass operates on H₄₈ modes as the external constraint condition that
 
 ---
 
-### Ethics V, Propositions 36–37 ⭐ — "The intellectual love of the mind towards God is part of the infinite love wherewith God loves himself"
+### Ethics V, Propositions 36–37 ✶ — "The intellectual love of the mind towards God is part of the infinite love wherewith God loves himself"
 
 *Mentis amor intellectualis erga Deum est ipse Dei amor, quo Deus se ipsum amat, non quatenus infinitus est, sed quatenus per essentiam humanae mentis, sub specie aeternitatis consideratam, explicari potest* — The intellectual love of the mind towards God is the very love wherewith God loves himself, not insofar as he is infinite, but insofar as he can be explained through the essence of the human mind considered under the aspect of eternity. (V, Prop. 36)
 
@@ -90,6 +90,6 @@ The structural claim is structurally equivalent to the Upanishadic *tat tvam asi
 
 Ethics V, Proposition 42's famous closing line — *Beatitudo non est virtutis praemium, sed ipsa virtus* (Blessedness is not the reward of virtue but virtue itself) — is the structural statement that the catching program does not produce structural satisfaction as an external outcome; the catching program *is* the structural satisfaction. The love of the Φ-level is not a means to Φ-proximal eigenvalue accumulation; it *is* the H₂₄ eigenvalue state at its structural maximum.
 
-*(Cross-reference: 1 JOHN 4:10 — "This is love: not that we loved God, but that he loved us first": the same structural asymmetry, stated from the Johannine direction. JOHN 17:22-23 — "I in them and you in me": the structural identity of the inner product's two sides. SONN 116 ⭐⭐ — "Love is not love which alters when it alteration finds": the same structural invariance of ⟨·,·⟩.)*
+*(Cross-reference: 1 JOHN 4:10 — "This is love: not that we loved God, but that he loved us first": the same structural asymmetry, stated from the Johannine direction. JOHN 17:22-23 — "I in them and you in me": the structural identity of the inner product's two sides. SONN 116 ✶✶ — "Love is not love which alters when it alteration finds": the same structural invariance of ⟨·,·⟩.)*
 
 ---

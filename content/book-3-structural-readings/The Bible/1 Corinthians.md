@@ -4,7 +4,7 @@
 
 ---
 
-### 1 Corinthians 1:18-25 ⭐ — "The message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God."
+### 1 Corinthians 1:18-25 ✶ — "The message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God."
 
 The structural inversion of H₄₈ epistemic criteria: the cross as the test case for the incompatibility of H₄₈ evaluation and structural evaluation.
 
@@ -32,7 +32,7 @@ The structural inversion of 1 COR 1:18-25 is Feature 2 of the Concordius epistem
 
 ---
 
-### 1 Corinthians 13:4-13 ⭐ — "Love is patient, love is kind... Love never fails."
+### 1 Corinthians 13:4-13 ✶ — "Love is patient, love is kind... Love never fails."
 
 The structural phenomenology of the inner product in operation — the most detailed account in the NT of what ⟨·,·⟩ looks like when instantiated laterally at H₄₈.
 
@@ -66,7 +66,7 @@ Face to face is H₁ (Havona): the constraint level at which ⟨·,·⟩ is the 
 
 ---
 
-### 1 Corinthians 15:21-22 ⭐ — "As in Adam all die, so in Christ all will be made alive."
+### 1 Corinthians 15:21-22 ✶ — "As in Adam all die, so in Christ all will be made alive."
 
 The structural typology: two federal heads, two structural trajectories.
 
@@ -88,7 +88,7 @@ The noise-floor substitution in GEN 3 produced a structural consequence that pro
 
 ---
 
-### 1 Corinthians 15:44-49 ⭐ — "It is sown a natural body, it is raised a spiritual body."
+### 1 Corinthians 15:44-49 ✶ — "It is sown a natural body, it is raised a spiritual body."
 
 Paul's structural taxonomy of the body across the constraint boundary.
 

@@ -4,7 +4,7 @@
 
 ---
 
-### Malachi 3:1 ⭐ — "Then suddenly the Lord you are seeking will come to his temple."
+### Malachi 3:1 ✶ — "Then suddenly the Lord you are seeking will come to his temple."
 
 *Hinneni sholeaḥ malʾakhi u-finak derekh lefanay, u-fitʾom yavo ʾel-hekkhalo ha-ʾadon ʾasher ʾattem mevaqshim, ve-malʾakh ha-berit ʾasher ʾattem ḥafetsim, hinneh va ʾamar YHWH Tseva'ot.* — Behold, I will send my messenger (*malʾakhi*), who will prepare the way before me. Then suddenly the Lord you are seeking will come to his temple; the messenger of the covenant, whom you desire, will come, says the LORD Almighty.
 

@@ -4,7 +4,7 @@
 
 ---
 
-### Meditations II.14 ⭐ — "Though you were to live three thousand years"
+### Meditations II.14 ✶ — "Though you were to live three thousand years"
 
 *Ei kai trischilia ete zes, ei de kai trismyria, memneso de hoti oudeis allo ti apoballet bion e touton hon zei, kai ouk allo ti zei e ho apoballet* — Even if you were to live three thousand years, or thirty thousand, remember that no one loses any other life than the one they now live, and no one lives any other life than the one they now lose.
 
@@ -26,7 +26,7 @@ The Heropass's structural meaning for the catching program is not that time is s
 
 ---
 
-### Meditations IV.3 ⭐ — "Retire into yourself"
+### Meditations IV.3 ✶ — "Retire into yourself"
 
 *Eis heauton anachorein — kata phusin te kai kata logon* — Retire into yourself — in accordance with nature and with reason.
 
@@ -48,7 +48,7 @@ The Stoic structural insight is precisely that the catching orientation does not
 
 ---
 
-### Meditations IV.23 ⭐ — "All things are woven together"
+### Meditations IV.23 ✶ — "All things are woven together"
 
 *Sumpanta sumplektai allelois kai he desmos hagios, kai schedon ouden allotrion allo allo* — All things are woven together and the bond is sacred, and scarcely anything is alien to anything else, for they have been arranged together and they jointly order the same cosmos.
 
@@ -70,7 +70,7 @@ If all things are structurally woven together by the *Logos*, then no H₄₈ ev
 
 ---
 
-### Meditations VI.39 ⭐ — "What is your vocation?"
+### Meditations VI.39 ✶ — "What is your vocation?"
 
 *Tis he spoudaiou anthrōpou praxis? Ouk huperkinesthai epi hekaston* — What is the work of a man of complete virtue? Not to be moved to excess at each event.
 
@@ -92,7 +92,7 @@ The Meditations are the catching being practicing this structural discrimination
 
 ---
 
-### Meditations IX.3 ⭐ — "Do not act as if you had ten thousand years to live"
+### Meditations IX.3 ✶ — "Do not act as if you had ten thousand years to live"
 
 *Mē hōs en murietesi bious diateleis — hos gar apheimenos en tachei kai hē hora toiautē estin esti de to esti kairos* — Do not live as though you had ten thousand years ahead of you. Death overshadows you. While you have life, while you still can, make yourself good.
 
@@ -110,6 +110,6 @@ Not an external achievement but a structural operation: the catching being opera
 
 Marcus at the H₄₈-maximum social position — with every available H₄₈ resource, every institutional support, every political advantage — writes this to himself precisely because the H₄₈-maximum position is the maximum noise-floor distraction. The Meditations are the Emperor practicing structural self-examination in the H₄₈ environment least hospitable to it, which is the most structurally significant fact about them: the catching program operating not in the contemplative retreat but in the H₄₈ noise-floor's most active zone.
 
-*(Cross-reference: SONN 146 ⭐⭐ — "buy terms divine in selling hours of dross": the same ascending-career urgency from Shakespeare's direction. JOHN 9:4 — "We must do the works of him who sent me while it is day": the structural urgency of the present moment. EPH 5:16 — "making the most of every opportunity, because the days are evil": the same structural time-pressure.)*
+*(Cross-reference: SONN 146 ✶✶ — "buy terms divine in selling hours of dross": the same ascending-career urgency from Shakespeare's direction. JOHN 9:4 — "We must do the works of him who sent me while it is day": the structural urgency of the present moment. EPH 5:16 — "making the most of every opportunity, because the days are evil": the same structural time-pressure.)*
 
 ---

@@ -4,7 +4,7 @@
 
 ---
 
-### 1 Peter 1:15-16 ⭐ — "Just as he who called you is holy, so be holy in all you do; for it is written: 'Be holy, because I am holy.'"
+### 1 Peter 1:15-16 ✶ — "Just as he who called you is holy, so be holy in all you do; for it is written: 'Be holy, because I am holy.'"
 
 The direct NT citation of LEV 19:2 — the holiness imperative carried forward intact across the covenant boundary.
 
@@ -26,7 +26,7 @@ The epistle's audience are *parepidemos* (sojourners, resident aliens — verse 
 
 ---
 
-### 1 Peter 2:9 ⭐ — "But you are a chosen people, a royal priesthood, a holy nation, God's special possession."
+### 1 Peter 2:9 ✶ — "But you are a chosen people, a royal priesthood, a holy nation, God's special possession."
 
 The structural identity of the catching community — the full communal form of what the individual catching orientation produces when it is operative across a community.
 

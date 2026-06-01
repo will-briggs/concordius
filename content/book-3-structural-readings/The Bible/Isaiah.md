@@ -4,7 +4,7 @@
 
 ---
 
-### Isaiah 6:1-8 ⭐ — "Holy, holy, holy is the LORD Almighty."
+### Isaiah 6:1-8 ✶ — "Holy, holy, holy is the LORD Almighty."
 
 The structural context: "In the year that King Uzziah died" — the H₄₈ political stability of Isaiah's world has just terminated. The throne vision arrives at the moment of H₄₈ political dissolution, in the Temple, when the national structure is most exposed to the noise-floor's effects.
 
@@ -30,7 +30,7 @@ The commission and its acceptance follow immediately: "Whom shall I send? And wh
 
 ---
 
-### Isaiah 7:14 ⭐ — "The virgin will conceive and give birth to a son, and will call him Immanuel."
+### Isaiah 7:14 ✶ — "The virgin will conceive and give birth to a son, and will call him Immanuel."
 
 The structural context: the Syro-Ephraimite alliance threatens Jerusalem. King Ahaz is in the Kidron Valley assessing the city's water supply, preparing for siege. Isaiah arrives with a young son (Shear-Jashub — "a remnant will return," a prophetic name that is itself a structural claim about the restoration program) and addresses Ahaz: ask for a sign, any sign, as deep as Sheol or as high as the heavens. Ahaz refuses piously, citing DEUT 6:16 ("do not put the LORD your God to the test"). Isaiah responds with the structural indictment of the refusal and the announcement of the sign that will come regardless.
 
@@ -48,7 +48,7 @@ Matthew 1:23 identifies the structural fulfillment. The identification is not ar
 
 ---
 
-### Isaiah 40:28-31 ⭐ — "Those who hope in the LORD will renew their strength."
+### Isaiah 40:28-31 ✶ — "Those who hope in the LORD will renew their strength."
 
 The structural context: Isaiah 40 opens the second major section of the book (*Deutero-Isaiah*) with the consolation command: "Comfort, comfort my people" (40:1). The context is Babylonian exile — the maximum H₄₈ noise-floor condition for the covenant community. The theological question the section addresses: has the Φ-level's capacity been exhausted by the community's H₄₈ catastrophe? Has the grain of the universe been interrupted?
 
@@ -64,7 +64,7 @@ The three-tier description of the result is the Law of Seven in miniature — th
 
 ---
 
-### Isaiah 42:1-4 ⭐ — "A bruised reed he will not break."
+### Isaiah 42:1-4 ✶ — "A bruised reed he will not break."
 
 The First Servant Song. The structural context: the four Servant Songs (ISA 42, 49, 50, 52-53) progressively specify the structural profile of the one who will accomplish the GEN 3:15 restoration program at the kenotic level. The first song describes the Servant's structural properties and commission from the Φ-level's perspective.
 
@@ -84,7 +84,7 @@ Matthew 12:18-21 quotes this passage as the explanation for Jesus's instruction 
 
 ---
 
-### Isaiah 52:13-53:12 ⭐ — "By his wounds we are healed."
+### Isaiah 52:13-53:12 ✶ — "By his wounds we are healed."
 
 The Fourth Servant Song — the structural specification of the kenotic descent program at its maximum. The passage begins at the highest point (*52:13: "my servant will act wisely; he will be raised and lifted up and highly exalted"*) and descends to the lowest (*53:3: "despised and rejected by mankind, a man of suffering, familiar with pain"*), then returns to the highest (*53:12: "I will give him a portion among the great"*). The structural arc is the kenotic pattern of descent-through-maximum-desolation-to-exaltation.
 
@@ -114,7 +114,7 @@ The New Testament's entire interpretation of the cross is a structural commentar
 
 ---
 
-### Isaiah 55:10-11 ⭐ — "My word will not return to me empty."
+### Isaiah 55:10-11 ✶ — "My word will not return to me empty."
 
 *Ki kaʾasher yered ha-geshem ve-ha-sheleg min-ha-shamayim ve-shammah loʾ yashuv ki ʾim-hirvah ʾet-haʾarets ve-hollidah ve-hitsmiḥah... ken yihyeh devari ʾasher yetseʾ mipi loʾ-yashuv ʾelay reqam ki ʾim ʿasah ʾet-ʾasher ḥafatsti.* — As the rain and the snow come down from heaven, and do not return to it without watering the earth... so is my word that goes out from my mouth: it will not return to me empty, but will accomplish what I desire.
 
@@ -130,7 +130,7 @@ The context (ISA 55:6-9) grounds this: "Seek the LORD while he may be found... F
 
 ---
 
-### Isaiah 61:1-2 ⭐ — "The Spirit of the Lord GOD is upon me."
+### Isaiah 61:1-2 ✶ — "The Spirit of the Lord GOD is upon me."
 
 *Ruach ʾAdonai YHWH ʿalay: yaʿan mashach YHWH ʾoti levasser ʿanavim, shelaḥani liḥvosh le-nishbere-lev, liqroʾ li-shvuyim deror...* — The Spirit of the Lord GOD is upon me, because the LORD has anointed me to bring good news to the poor; he has sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to those who are bound.
 

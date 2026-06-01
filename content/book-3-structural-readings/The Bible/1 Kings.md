@@ -4,7 +4,7 @@
 
 ---
 
-### 1 Kings 3:5-14 ⭐ — "Give your servant a discerning heart."
+### 1 Kings 3:5-14 ✶ — "Give your servant a discerning heart."
 
 The structural context: Solomon is at Gibeon, the great high place. The LORD appears to him in a dream and makes an offer without constraint: "Ask for whatever you want me to give you." The offer is structurally unconstrained — there is no prior specification, no category limit, no narrowing qualifier. Whatever Solomon asks, he can have.
 
@@ -26,7 +26,7 @@ The structural consequence: Solomon's wisdom is immediately demonstrated in the 
 
 ---
 
-### 1 Kings 8:27-30 ⭐ — "Will God really dwell on earth?"
+### 1 Kings 8:27-30 ✶ — "Will God really dwell on earth?"
 
 The structural context: Solomon has completed the Temple. The ark has been brought into the Holy of Holies. The cloud of glory fills the house so that the priests cannot minister — the same structural event as the Tabernacle filling in EXOD 40:34-35. The *kavod* (glory) is the Φ-level's detectable presence in H₄₈ conditions — not the Φ-level itself but its maximum transmissible expression. Solomon then stands before the altar and prays, and the prayer's structural core is the admission with which it begins.
 

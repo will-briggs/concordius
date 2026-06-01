@@ -36,7 +36,7 @@ Acts 7:55-56 records Stephen at his martyrdom seeing "the Son of Man standing at
 
 ---
 
-### Hebrews 1:1-3 ⭐ — "In these last days he has spoken to us by his Son."
+### Hebrews 1:1-3 ✶ — "In these last days he has spoken to us by his Son."
 
 The structural comparison of mediation modes — the constraint-level upgrade from prophetic transmission to Son-transmission.
 
@@ -64,7 +64,7 @@ The sovereignty condition stated in Hebrews' idiom: the completed kenotic work f
 
 ---
 
-### Hebrews 4:12 ⭐ — "The word of God is alive and active, sharper than any double-edged sword."
+### Hebrews 4:12 ✶ — "The word of God is alive and active, sharper than any double-edged sword."
 
 The structural diagnostic capacity of the Φ-level word — the most precise NT account of what the Logos does as an operator on the catching being's eigenvalue content.
 
@@ -88,7 +88,7 @@ The word of God is the operator that does what JER 17:9 established the heart ca
 
 ---
 
-### Hebrews 11:1 ⭐ — "Now faith is confidence in what we hope for and assurance about what we do not see."
+### Hebrews 11:1 ✶ — "Now faith is confidence in what we hope for and assurance about what we do not see."
 
 The structural definition of *pistis* — the most precisely formulated NT account of what the catching orientation is.
 
@@ -112,7 +112,7 @@ What follows (verses 2-39) is the demonstration: the cloud of witnesses whose ca
 
 ---
 
-### Hebrews 12:1-2 ⭐ — "Let us run with perseverance the race marked out for us, fixing our eyes on Jesus."
+### Hebrews 12:1-2 ✶ — "Let us run with perseverance the race marked out for us, fixing our eyes on Jesus."
 
 The catching program as athletic discipline, witnessed by the HEB 11 catalog of catching beings who ran the same structural path.
 

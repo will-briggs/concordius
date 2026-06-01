@@ -4,7 +4,7 @@
 
 ---
 
-### 2 Kings 2:9-14 ⭐ — "Let me inherit a double portion of your spirit."
+### 2 Kings 2:9-14 ✶ — "Let me inherit a double portion of your spirit."
 
 The structural context: Elijah and Elisha are walking together from Gilgal toward the Jordan. The company of prophets at Bethel and Jericho each tell Elisha that his master will be taken from him that day — Elisha silences both announcements ("I know; be silent"). He already knows, and the knowledge does not produce withdrawal. At the Jordan, Elijah strikes the water with his cloak, the river parts, and the two men cross on dry ground. Elijah then asks: what can I do for you before I am taken?
 

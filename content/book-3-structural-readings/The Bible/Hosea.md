@@ -4,7 +4,7 @@
 
 ---
 
-### Hosea 6:6 ⭐ — "I desire mercy, not sacrifice."
+### Hosea 6:6 ✶ — "I desire mercy, not sacrifice."
 
 *Ki ḥesed ḥafatsti ve-loʾ zabaḥ, ve-daʿat ʾElohim meʿolot.* — For I desire *chesed* and not sacrifice, and acknowledgment of God (*daʿat ʾElohim*) more than burnt offerings.
 

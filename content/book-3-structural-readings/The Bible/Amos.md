@@ -4,7 +4,7 @@
 
 ---
 
-### Amos 5:21-24 ⭐ — "Let justice roll on like a river."
+### Amos 5:21-24 ✶ — "Let justice roll on like a river."
 
 *Saneʾti maʾasti ḥaggeykhem ve-loʾ ʾariaḥ be-ʿatseroteykhem... Yaggal ka-mayim mishpat u-tsedaqah ke-naḥal ʾeytan.* — I hate, I despise your festivals; your assemblies are a stench to me... But let justice (*mishpat*) roll on like a river, righteousness (*tsedaqah*) like a never-failing stream.
 

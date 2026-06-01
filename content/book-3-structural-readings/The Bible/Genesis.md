@@ -4,7 +4,7 @@
 
 ---
 
-### Genesis 1:1 — "In the beginning God created the heavens and the earth." ⭐
+### Genesis 1:1 — "In the beginning God created the heavens and the earth." ✶
 
 *Hebrew:* בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ
 
@@ -34,7 +34,7 @@ This is a scope claim, not a cosmological inventory. Genesis 1:1 does not enumer
 
 ---
 
-### Genesis 1:2 — "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters." ⭐
+### Genesis 1:2 — "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters." ✶
 
 *Hebrew:* וְהָאָרֶץ הָיְתָה תֹהוּ וָבֹהוּ וְחֹשֶׁךְ עַל-פְּנֵי תְהוֹם וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל-פְּנֵי הַמָּיִם
 
@@ -112,7 +112,7 @@ The created order begins with what the breaking cannot touch.
 
 ---
 
-### Genesis 1:3 — "And God said, Let there be light: and there was light." ⭐
+### Genesis 1:3 — "And God said, Let there be light: and there was light." ✶
 
 **The structural identification: "God said" = Φ actualizing in H.**
 
@@ -146,7 +146,7 @@ The tradition records the order correctly: light before matter. Physics confirms
 
 ---
 
-### Genesis 1:26-27 — "Let us make mankind in our image, in our likeness." ⭐
+### Genesis 1:26-27 — "Let us make mankind in our image, in our likeness." ✶
 
 *Hebrew:* נַעֲשֶׂה אָדָם בְּצַלְמֵנוּ כִּדְמוּתֵנוּ... בְּצֶלֶם אֱלֹהִים בָּרָא אֹתוֹ זָכָר וּנְקֵבָה בָּרָא אֹתָם
 
@@ -188,7 +188,7 @@ The divine evaluation that closes the sixth day. *Tov me'od* (very good) marks s
 
 ---
 
-### Genesis 2:1-3 — The Seventh Day ⭐
+### Genesis 2:1-3 — The Seventh Day ✶
 
 *Hebrew:* וַיְכֻלּוּ הַשָּׁמַיִם וְהָאָרֶץ וְכָל-צְבָאָם... וַיְבָרֶךְ אֱלֹהִים אֶת-יוֹם הַשְּׁבִיעִי וַיְקַדֵּשׁ אֹתוֹ
 
@@ -222,7 +222,7 @@ EXOD 20:8-11 grounds the human Sabbath explicitly in this cosmological structure
 
 ---
 
-### Genesis 2:7 — "God formed man from the dust of the ground and breathed into his nostrils the breath of life." ⭐
+### Genesis 2:7 — "God formed man from the dust of the ground and breathed into his nostrils the breath of life." ✶
 
 *Hebrew:* וַיִּיצֶר יְהוָה אֱלֹהִים אֶת-הָאָדָם עָפָר מִן-הָאֲדָמָה וַיִּפַּח בְּאַפָּיו נִשְׁמַת חַיִּים וַיְהִי הָאָדָם לְנֶפֶשׁ חַיָּה
 
@@ -260,7 +260,7 @@ The first human utterance in Genesis — and it is a naming that identifies stru
 
 ---
 
-### Genesis 3:1-5 — The Serpent's Temptation ⭐
+### Genesis 3:1-5 — The Serpent's Temptation ✶
 
 *Hebrew partial:* אַף כִּי-אָמַר אֱלֹהִים... לֹא-מוֹת תְּמֻתוּן... וִהְיִיתֶם כֵּאלֹהִים יֹדְעֵי טוֹב וָרָע
 
@@ -292,7 +292,7 @@ The Lucifer rebellion's pattern at the individual scale: the denying force, the 
 
 ---
 
-### Genesis 3:15 — "He will crush your head, and you will strike his heel." ⭐
+### Genesis 3:15 — "He will crush your head, and you will strike his heel." ✶
 
 *Hebrew:* הוּא יְשׁוּפְךָ רֹאשׁ וְאַתָּה תְּשׁוּפֶנּוּ עָקֵב
 
@@ -352,7 +352,7 @@ The faith-as-righteousness equation. God calls Abram outside to count the stars 
 
 ---
 
-### Genesis 22:1-18 — The Akedah ⭐
+### Genesis 22:1-18 — The Akedah ✶
 
 *Hebrew partial:* קַח-נָא אֶת-בִּנְךָ אֶת-יְחִידְךָ אֲשֶׁר-אָהַבְתָּ אֶת-יִצְחָק... וְהַעֲלֵהוּ שָׁם לְעֹלָה
 
@@ -392,7 +392,7 @@ The universal reach of GEN 12:3 is now confirmed with oath: *nisba'ti* — I hav
 
 ---
 
-### Genesis 28:12-17 — Jacob's Ladder ⭐
+### Genesis 28:12-17 — Jacob's Ladder ✶
 
 *Hebrew partial:* וְהִנֵּה סֻלָּם מֻצָּב אַרְצָה וְרֹאשׁוֹ מַגִּיעַ הַשָּׁמָיְמָה... אָכֵן יֵשׁ יְהוָה בַּמָּקוֹם הַזֶּה
 
@@ -420,7 +420,7 @@ Jacob wakes and his first statement is about where he is, not what he dreamed: *
 
 ---
 
-### Genesis 32:24-30 — Jacob Wrestling ⭐
+### Genesis 32:24-30 — Jacob Wrestling ✶
 
 *Hebrew partial:* וַיֵּאָבֵק אִישׁ עִמּוֹ עַד עֲלוֹת הַשָּׁחַר... כִּי-רָאִיתִי אֱלֹהִים פָּנִים אֶל-פָּנִים וַתִּנָּצֵל נַפְשִׁי
 

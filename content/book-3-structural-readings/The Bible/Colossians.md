@@ -4,7 +4,7 @@
 
 ---
 
-### Colossians 1:15-20 ⭐ — "The Son is the image of the invisible God, the firstborn over all creation."
+### Colossians 1:15-20 ✶ — "The Son is the image of the invisible God, the firstborn over all creation."
 
 The most philosophically concentrated Christological statement in the NT epistles — the account of Φ's structural role in the created order, stated in Greek philosophical form with no Hebrew idiom required.
 

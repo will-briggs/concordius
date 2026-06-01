@@ -36,7 +36,7 @@ Acts 7:55-56 records Stephen at his martyrdom seeing "the Son of Man standing at
 
 ---
 
-### Acts 2:1-4 ⭐ — "They were all filled with the Holy Spirit and began to speak in other tongues."
+### Acts 2:1-4 ✶ — "They were all filled with the Holy Spirit and began to speak in other tongues."
 
 The structural consequence of the MATT 28:18 sovereignty condition made operationally manifest.
 

@@ -18,7 +18,7 @@ The apple tree distinctive among the forest: the one being structurally distingu
 
 ---
 
-### Song of Solomon 8:6-7 ⭐ — "Love is as strong as death."
+### Song of Solomon 8:6-7 ✶ — "Love is as strong as death."
 
 *Simeني kachotam ʿal-libbeka kachotam ʿal-zerosʿeka ki-ʿazza cha-mavet ʾahavah qasha chisheol qinʾah reshafeyha rishpei ʾesh shalhevetyah. Mayim rabbim loʾ yukelu lechabot ʾet-haʾahavah u-neharot loʾ yishtepuha*
 

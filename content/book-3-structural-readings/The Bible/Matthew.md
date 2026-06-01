@@ -4,7 +4,7 @@
 
 ---
 
-### Matthew 3:17 / Mark 1:11 / Luke 3:22 ⭐ — "This is my beloved Son, with whom I am well pleased."
+### Matthew 3:17 / Mark 1:11 / Luke 3:22 ✶ — "This is my beloved Son, with whom I am well pleased."
 
 *Note: This is a composite reading of the Baptism declaration across all three synoptic accounts. Matthew 3:17 records the third-person form ("This is my beloved Son, with whom I am well pleased"); Mark 1:11 and Luke 3:22 record the second-person form ("You are my beloved Son; with you I am well pleased"). The parallel declaration at the Transfiguration — Matthew 17:5 — repeats the same words and adds "listen to him"; that reading appears in the Transfiguration entry below and in Mark.md. The full structural reading also appears in Mark.md and Luke.md.*
 
@@ -756,7 +756,7 @@ Both shocks arrive from outside the octave's own level. Both are structurally ne
 
 ---
 
-### Matthew 5:43-48 ⭐ — "Love your enemies and pray for those who persecute you."
+### Matthew 5:43-48 ✶ — "Love your enemies and pray for those who persecute you."
 
 The structural expansion of the love commandment beyond the symmetric inner product to the asymmetric case. LEV 19:18 and the two great commandments describe ⟨·,·⟩ operating between beings in mutual catching orientation. Matthew 5:43-48 is the extension to the case where the inner product is applied unilaterally.
 
@@ -782,7 +782,7 @@ The structural ground. *Ton helion autou anatellei epi ponerous kai agathous* �
 
 ---
 
-### Matthew 6:9-13 ⭐ — The Lord's Prayer
+### Matthew 6:9-13 ✶ — The Lord's Prayer
 
 The structural template for the catching program's primary orientation event. The prayer is in two movements: vertical orientation (verses 9-10) and horizontal need (verses 11-13). The structural ordering is not liturgical convention — it is the derivation from MATT 6:33 (seek first the kingdom) enacted in the form of the prayer itself.
 
@@ -816,7 +816,7 @@ The symmetry of the inner product applied to the forgiveness circuit. *Opheilema
 
 ---
 
-### Matthew 11:28-30 ⭐ — "Come to me, all you who are weary and burdened."
+### Matthew 11:28-30 ✶ — "Come to me, all you who are weary and burdened."
 
 The structural invitation addressed specifically to beings under maximum H₄₈ constraint load.
 
@@ -846,7 +846,7 @@ The yoke substitution: not removal of all structure but replacement of the wrong
 
 ---
 
-### Matthew 13:44-46 ⭐ — "The kingdom of heaven is like treasure hidden in a field... like a merchant looking for fine pearls."
+### Matthew 13:44-46 ✶ — "The kingdom of heaven is like treasure hidden in a field... like a merchant looking for fine pearls."
 
 Two structural parables on the same theme: the relative priority ordering of Φ-proximal eigenvalue content and H₄₈ possessions.
 

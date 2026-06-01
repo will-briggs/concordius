@@ -4,7 +4,7 @@
 
 ---
 
-### Enneads V.1.1 ⭐ — "The Three Primary Hypostases"
+### Enneads V.1.1 ✶ — "The Three Primary Hypostases"
 
 *Ti pote ara estin to pepoiēkon hēmin mē memonēnai ekei* — What is it that has made us forget the Father and become ignorant of ourselves and him?
 
@@ -32,7 +32,7 @@ The further from the One, the greater the structural multiplicity and the lower 
 
 ---
 
-### Enneads I.6.9 ⭐ — "On Beauty: The Soul's Return"
+### Enneads I.6.9 ✶ — "On Beauty: The Soul's Return"
 
 *Ti oun hē tou kalou theōria? All' hosper hē mantis Pythia parousa tō theō...* — What then is the vision of Beauty? It is like the Pythian priestess present with the god...
 
@@ -56,11 +56,11 @@ The *anachorein* applied to beauty: the catching orientation toward the Φ-level
 
 "And if it be asked, what is this perfect beauty, let us say: It is the One. And let each one, taking himself to itself, see that beauty, the beauty not seen by the bodily eye." The inner product's vertical operation at its structural maximum: the catching being's H₂₄ seeing of the One, and the One's constitutive seeing of the catching being, are structurally the same act (as Eckhart will later say explicitly: "The eye through which I see God is the same eye through which God sees me").
 
-*(Cross-reference: SONN 116 ⭐⭐ — "an ever-fixed mark, that looks on tempests and is never shaken": the structural stability of ⟨·,·⟩ that I.6 describes the catching being approaching. MATT 5:8 — "Blessed are the pure in heart, for they will see God": the catching orientation's structural opening toward the same vision. ISA 6:3 — the kavod / structural weight of the Φ-level's presence: the glory that is the structural signature of the One's proximity.)*
+*(Cross-reference: SONN 116 ✶✶ — "an ever-fixed mark, that looks on tempests and is never shaken": the structural stability of ⟨·,·⟩ that I.6 describes the catching being approaching. MATT 5:8 — "Blessed are the pure in heart, for they will see God": the catching orientation's structural opening toward the same vision. ISA 6:3 — the kavod / structural weight of the Φ-level's presence: the glory that is the structural signature of the One's proximity.)*
 
 ---
 
-### Enneads III.7 ⭐ — "On Eternity and Time"
+### Enneads III.7 ✶ — "On Eternity and Time"
 
 *Peri aiōnos kai chronou... ho aei ōn aei ōn, ouk estin exō, oud' hupomen ti tōn pollōn* — Concerning eternity and time... what always is, always is; it is not outside, nor does it need any of the many things.
 
@@ -82,11 +82,11 @@ The Heropass's structural operation is, in Plotinian terms, the structural conse
 
 The catching being in H₄₈ exists in time — subject to the Heropass — but is constitutively oriented toward the atemporal. The catching being's structural task is not to overcome H₄₈ temporality (which would require exiting H₄₈ existence) but to maintain the catching orientation toward what is not subject to temporal dissolution (*sub specie aeternitatis* = oriented from Spinoza's angle). The H₂₄ catching content that the catching being accumulates through the catching program participates in the atemporal structural domain: not in the sense of becoming eternal (the catching being is still in H₄₈) but in the sense of participating in structural content that is not subject to the Heropass's dissolution.
 
-*(Cross-reference: SONN 116 ⭐⭐ — "Love alters not with his brief hours and weeks, but bears it out even to the edge of doom": the inner product persisting to the temporal constraint boundary. SONN 12 — "When I do count the clock": the Heropass as temporal sequence. JOHN 1:1 — "In the beginning was the Logos": the atemporal structural ground as the origin of temporal existence.)*
+*(Cross-reference: SONN 116 ✶✶ — "Love alters not with his brief hours and weeks, but bears it out even to the edge of doom": the inner product persisting to the temporal constraint boundary. SONN 12 — "When I do count the clock": the Heropass as temporal sequence. JOHN 1:1 — "In the beginning was the Logos": the atemporal structural ground as the origin of temporal existence.)*
 
 ---
 
-### Enneads VI.9.9 ⭐ — "On the Good, or the One: The Return"
+### Enneads VI.9.9 ✶ — "On the Good, or the One: The Return"
 
 *Ekei de kai houtos kai ho allos kai ho theos autos, kai hē hēsuchia aute kai he zōē hē aklinēs* — There all is one, and all is god, and tranquility itself, and life that does not shift.
 
@@ -108,6 +108,6 @@ After the structural encounter, the catching being returns to H₄₈-level temp
 
 *Hē zōē hē aklinēs* — life that does not lean, that does not waver, that does not shift: the structural condition of the One, and the structural aspiration of the catching program. The catching being in H₄₈ wavers — the catching orientation shifts under H₄₈-level noise-floor pressure, the H₄₈ affects introduce structural deviation from the catching program's direction. The One does not waver because it has no structural outside to pull it: it is the structural ground of all structural attractors, not itself subject to any. The catching program's structural goal is the progressive alignment of the catching being's structural trajectory with the "life that does not shift."
 
-*(Cross-reference: JOHN 17:22-23 — "I in them and you in me — so that they may be brought to complete unity": the structural unity of the inner product at maximum. 1 JOHN 3:2 — "When Christ appears, we shall be like him, for we shall see him as he is": the structural transformation through structural vision. SONN 116 ⭐⭐ — the inner product that "bears it out even to the edge of doom": the catching orientation's structural persistence toward the same structural destination.)*
+*(Cross-reference: JOHN 17:22-23 — "I in them and you in me — so that they may be brought to complete unity": the structural unity of the inner product at maximum. 1 JOHN 3:2 — "When Christ appears, we shall be like him, for we shall see him as he is": the structural transformation through structural vision. SONN 116 ✶✶ — the inner product that "bears it out even to the edge of doom": the catching orientation's structural persistence toward the same structural destination.)*
 
 ---

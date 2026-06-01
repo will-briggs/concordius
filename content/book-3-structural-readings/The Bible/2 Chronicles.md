@@ -4,7 +4,7 @@
 
 ---
 
-### 2 Chronicles 7:14 ⭐ — "Then I will hear from heaven."
+### 2 Chronicles 7:14 ✶ — "Then I will hear from heaven."
 
 The structural context: Solomon has completed the Temple and offered the dedicatory prayer (2 CHRON 6, parallel to 1 KGS 8). Fire comes down from heaven and consumes the burnt offerings; the *kavod* of the LORD fills the house so that the priests cannot stand to minister (7:1-3). The people worship face down. Then the LORD appears to Solomon by night and provides the covenant formulation that gives this verse its structural weight: the restoration formula, stated as the normative structural response to the covenant community's failure.
 

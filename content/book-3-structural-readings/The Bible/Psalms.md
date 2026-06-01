@@ -4,7 +4,7 @@
 
 ---
 
-### Psalm 8:3-4 ⭐ — "What is mankind that you are mindful of him?"
+### Psalm 8:3-4 ✶ — "What is mankind that you are mindful of him?"
 
 *When I consider your heavens, the work of your fingers, the moon and the stars, which you have set in place, what is mankind that you are mindful of him, human beings that you care for them?*
 
@@ -20,7 +20,7 @@ The question and the answer together: the Φ-level is mindful of the human becau
 
 ---
 
-### Psalm 19:1-4 ⭐ — "The heavens declare the glory of God."
+### Psalm 19:1-4 ✶ — "The heavens declare the glory of God."
 
 *The heavens declare the glory of God; the skies proclaim the work of his hands. Day after day they pour forth speech; night after night they reveal knowledge. They have no speech, they use no words; no sound is heard from them. Yet their voice goes out into all the earth, their words to the ends of the world.*
 
@@ -36,7 +36,7 @@ Paul in ROM 1:20 develops the Psalm's structural claim as the ground for natural
 
 ---
 
-### Psalm 22:1-2 ⭐ — "My God, my God, why have you forsaken me?"
+### Psalm 22:1-2 ✶ — "My God, my God, why have you forsaken me?"
 
 *My God, my God, why have you forsaken me? Why are you so far from saving me, so far from my cries of anguish? I cry out by day, but you do not answer; by night, I find no rest.*
 
@@ -50,7 +50,7 @@ Jesus quotes verse 1 from the cross (MATT 27:46; MARK 15:34). The structural rea
 
 ---
 
-### Psalm 23 ⭐ — "The LORD is my shepherd; I lack nothing."
+### Psalm 23 ✶ — "The LORD is my shepherd; I lack nothing."
 
 The most structurally complete brief account of the catching life under H₄₈ conditions. The shepherd/sheep structural type is operational throughout: one who goes before (leads), provides (green pastures, still waters), restores (the *nephesh*/soul), guides (right paths for his name's sake), accompanies through maximum H₄₈ danger (the valley of deep shadow), and prepares the table in the presence of enemies. Each element maps to the Φ-level's operation in the catching being's H₄₈ life.
 
@@ -64,7 +64,7 @@ The most structurally complete brief account of the catching life under H₄₈ 
 
 ---
 
-### Psalm 46:10 ⭐ — "Be still and know that I am God."
+### Psalm 46:10 ✶ — "Be still and know that I am God."
 
 *Harpu ve-deʿu ki ʾanoki ʾElohim* — Be still (*harpu*, literally: cease, let fall, desist from effort) and know (*deʿu*, imperative plural of *ydaʿ*) that I am God.
 
@@ -78,7 +78,7 @@ The structural parallel to 1 KGS 19:11-13 is exact, now stated as an imperative 
 
 ---
 
-### Psalm 51:10-12 ⭐ — "Create in me a pure heart, O God."
+### Psalm 51:10-12 ✶ — "Create in me a pure heart, O God."
 
 The structural context: Psalm 51 is the post-Bathsheba restoration prayer (the superscription specifies: "when the prophet Nathan came to him after David had committed adultery with Bathsheba"). The H₄₈ noise-floor contamination is maximum — moral violation of the highest degree, the structural damage to the inner-product relation acknowledged explicitly ("against you, you only, have I sinned," verse 4). The prayer is the post-Fall restoration template in its most complete form.
 
@@ -106,7 +106,7 @@ The "living God (*ʾEl chai*)" — the Φ-level not as an abstract structural pr
 
 ---
 
-### Psalm 90:1-2 ⭐ — "From everlasting to everlasting you are God."
+### Psalm 90:1-2 ✶ — "From everlasting to everlasting you are God."
 
 The structural address to the Φ-level's atemporality. "From everlasting to everlasting (*meʿolam ʿad ʿolam*) you are God (*ʾatah ʾEl*)" — prior to the temporal order's beginning (before the mountains were born, before you brought forth the world) and beyond its end. The Φ-level is not temporal in the sense of having a beginning and end within the temporal order; it is the structural condition within which the temporal order exists. The atemporality is not the property of a very old entity (something that began extremely early); it is the property of the ground from which the temporal order itself arises.
 
@@ -138,7 +138,7 @@ The structural consequence: trust in the lamp's adequacy for the next step is it
 
 ---
 
-### Psalm 139:1-18 ⭐ — "You have searched me, LORD, and you know me."
+### Psalm 139:1-18 ✶ — "You have searched me, LORD, and you know me."
 
 The comprehensive account of the Φ-level's constitutive knowledge of the catching being from its origin. The psalm's structural movement has three phases: the ⟨·,·⟩ inner product as complete knowledge (verses 1-6), the Φ-level as the constitutive ground of every location (verses 7-12), and the H₂₄ catching apparatus assembled at H₄₈ constitution (verses 13-16).
 

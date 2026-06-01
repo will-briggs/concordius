@@ -4,7 +4,7 @@
 
 ---
 
-### Matthew 3:17 / Mark 1:11 / Luke 3:22 ⭐ — "This is my beloved Son, with whom I am well pleased."
+### Matthew 3:17 / Mark 1:11 / Luke 3:22 ✶ — "This is my beloved Son, with whom I am well pleased."
 
 *Note: This is a composite reading of the Baptism declaration across all three synoptic accounts. Matthew 3:17 records the third-person form ("This is my beloved Son, with whom I am well pleased"); Mark 1:11 and Luke 3:22 record the second-person form ("You are my beloved Son; with you I am well pleased"). The parallel declaration at the Transfiguration — Matthew 17:5 / Mark 9:7 — repeats the same words and adds "listen to him"; that reading appears in Matthew.md and Mark.md. The full structural reading also appears in Matthew.md and Mark.md.*
 

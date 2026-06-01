@@ -170,7 +170,7 @@ Jesus' answer provides the correct reading mode: when encountering H₄₈ limit
 
 ---
 
-### John 3:16 ⭐ — "For God so loved the world that he gave his one and only Son."
+### John 3:16 ✶ — "For God so loved the world that he gave his one and only Son."
 
 The structural claim about the motivation and mechanism of the kenotic entry.
 
@@ -192,7 +192,7 @@ The Father's love (⟨·,·⟩) for the H-state domain (the world) takes the for
 
 ---
 
-### John 5:24 ⭐ — "Whoever hears my word and believes him who sent me has eternal life."
+### John 5:24 ✶ — "Whoever hears my word and believes him who sent me has eternal life."
 
 The present-tense crossing of the constraint boundary: the shift in structural state that the catching orientation produces now, within the H₄₈ career, not only at its end.
 
@@ -214,7 +214,7 @@ The crossing has already occurred. The present tense is structural: the catching
 
 ---
 
-### John 8:32 ⭐ — "The truth will set you free."
+### John 8:32 ✶ — "The truth will set you free."
 
 The structural definition of the freedom the catching program produces.
 
@@ -234,7 +234,7 @@ The Jews' objection ("we have never been enslaved to anyone") is H₄₈-politic
 
 ---
 
-### John 10:10 ⭐ — "I have come that they may have life, and have it to the full."
+### John 10:10 ✶ — "I have come that they may have life, and have it to the full."
 
 The maximization statement of the catching program's expression in H₄₈.
 
@@ -254,7 +254,7 @@ The contrast with the thief is complete and anti-parallel at every stage: the th
 
 ---
 
-### John 11:25-26 ⭐ — "I am the resurrection and the life."
+### John 11:25-26 ✶ — "I am the resurrection and the life."
 
 The identity claim that underpins the raising of Lazarus.
 
@@ -276,7 +276,7 @@ Martha's response — "Yes, Lord, I believe" — is not the profession of a theo
 
 ---
 
-### John 15:5 ⭐ — "I am the vine; you are the branches. Apart from me you can do nothing."
+### John 15:5 ✶ — "I am the vine; you are the branches. Apart from me you can do nothing."
 
 The structural account of the catching relationship's necessary dependence.
 
@@ -298,7 +298,7 @@ The vine = Φ, the structural source of Φ-proximal eigenvalue content. The bran
 
 ---
 
-### John 17:20-23 ⭐ — "That they may all be one, as you, Father, are in me and I am in you."
+### John 17:20-23 ✶ — "That they may all be one, as you, Father, are in me and I am in you."
 
 The high priestly prayer's culminating petition: the extension of the Trinitarian inner-product structure into the catching community.
 

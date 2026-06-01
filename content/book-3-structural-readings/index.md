@@ -55,8 +55,13 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 [[Appendix/03 — Affliction, Practice, and the Creation Groaning|III — Affliction, Practice, and the Creation Groaning]]
 [[Appendix/04 — The Revelation of the Structure|IV — The Revelation of the Structure]]
 [[Appendix/05 — The Alchemical Tradition|V — The Alchemical Tradition]]
-[[Appendix/06 — The Eucharist: Transubstantiation|VI — The Eucharist: Transubstantiation]]
-[[Appendix/07 — The Magisterium|VII — The Magisterium]]
+
+---
+
+## Doctrine
+
+[[Doctrine/The Eucharist: Transubstantiation|The Eucharist: Transubstantiation]]
+[[Doctrine/The Magisterium|The Magisterium]]
 
 ---
 # The Framework and Method
@@ -239,7 +244,7 @@ A ranked catalog of the 100 highest-density texts in the global intellectual tra
 Each structural reading entry follows a consistent format:
 
 ```
-### [Reference] ⭐ — "[Opening phrase]"
+### [Reference] ✶ — "[Opening phrase]"
 
 [Original-language text in italics]
 
@@ -255,10 +260,10 @@ other passages do not.]
 structural note on each])*
 ```
 
-### The ⭐ Notation
+### The ✶ Notation
 
-- **⭐** — Priority A passage: structurally significant, carrying Φ-proximate content at sufficient density to warrant a full structural reading.
-- **⭐⭐** — Exceptional entry: Priority A with additional distinction. Used sparingly for passages that are not merely Φ-proximate but are primary structural sources — passages that state the framework's central claims with maximum precision and minimum noise. In the Shakespeare Sonnets: Sonnet 116 (formal definition of the inner product) and Sonnet 146 (the ascending career formula). In the Bible: designated at the most structurally concentrated passages.
+- **✶** — Priority A passage: structurally significant, carrying Φ-proximate content at sufficient density to warrant a full structural reading.
+- **✶✶** — Exceptional entry: Priority A with additional distinction. Used sparingly for passages that are not merely Φ-proximate but are primary structural sources — passages that state the framework's central claims with maximum precision and minimum noise. In the Shakespeare Sonnets: Sonnet 116 (formal definition of the inner product) and Sonnet 146 (the ascending career formula). In the Bible: designated at the most structurally concentrated passages.
 
 ### Cross-References
 

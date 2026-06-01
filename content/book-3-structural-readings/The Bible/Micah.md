@@ -4,7 +4,7 @@
 
 ---
 
-### Micah 6:8 ⭐ — "What does the LORD require of you?"
+### Micah 6:8 ✶ — "What does the LORD require of you?"
 
 *Higgid lekha ʾadam mah-tov u-mah-YHWH doreesh mimekha: ki ʾim-ʿasot mishpat ve-ʾahavat ḥesed ve-hatznea lekhet ʿim-ʾElohekha.* — He has shown you, O mortal, what is good. And what does the LORD require of you? To act justly (*mishpat*) and to love mercy (*ʾahavat ḥesed*) and to walk humbly (*hatznea lekhet*) with your God.
 

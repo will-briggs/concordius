@@ -4,7 +4,7 @@
 
 ---
 
-### Galatians 2:20 ⭐ — "I have been crucified with Christ and I no longer live, but Christ lives in me."
+### Galatians 2:20 ✶ — "I have been crucified with Christ and I no longer live, but Christ lives in me."
 
 The structural account of the catching orientation's effect on the H₄₈ identity structure, in its most personally compressed Pauline form.
 

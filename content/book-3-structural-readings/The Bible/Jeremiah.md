@@ -4,7 +4,7 @@
 
 ---
 
-### Jeremiah 17:9 ⭐ — "The heart is deceitful above all things."
+### Jeremiah 17:9 ✶ — "The heart is deceitful above all things."
 
 *ʿAqov ha-lev mi-kol u-ʾanush huʾ, mi yedaʾenu?* — The heart is more crooked than all else, and it is sick/incurable — who can know it?
 
@@ -34,7 +34,7 @@ The verse's extreme citation frequency in devotional contexts reflects its struc
 
 ---
 
-### Jeremiah 31:31-34 ⭐ — "I will make a new covenant."
+### Jeremiah 31:31-34 ✶ — "I will make a new covenant."
 
 *Hinneh yamim baʾim neʾum-YHWH, ve-kharati ʾet-beyt Yisraʾel ve-ʾet-beyt Yehudah berit ḥadashah.* — The days are coming, declares the LORD, when I will make a new covenant with the people of Israel and with the people of Judah.
 

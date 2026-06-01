@@ -4,7 +4,7 @@
 
 ---
 
-### Romans 1:17 ⭐ — "In the gospel the righteousness of God is revealed — a righteousness that is by faith from first to last."
+### Romans 1:17 ✶ — "In the gospel the righteousness of God is revealed — a righteousness that is by faith from first to last."
 
 The opening thesis of Romans: the structural announcement that Paul's entire argument develops. *Dikaiosyne gar theou en auto apokalyptetai ek pisteos eis pistin* — the righteousness of God is revealed in it from faith to faith. The citation of HAB 2:4 as the derivation: *ho de dikaios ek pisteos zesetai* — the righteous one will live by faith.
 
@@ -24,7 +24,7 @@ The catching orientation as both source (*ek*) and destination (*eis*) of the st
 
 ---
 
-### Romans 5:8 ⭐ — "While we were still sinners, Christ died for us."
+### Romans 5:8 ✶ — "While we were still sinners, Christ died for us."
 
 The temporal and structural specification of the unconditional inner product.
 
@@ -48,7 +48,7 @@ This is MATT 5:43-48 in demonstrative form rather than imperative: the Father sa
 
 ---
 
-### Romans 8:1 ⭐ — "There is therefore now no condemnation for those who are in Christ Jesus."
+### Romans 8:1 ✶ — "There is therefore now no condemnation for those who are in Christ Jesus."
 
 *Ouden ara nyn katakrima tois en Christo Iesou* — nothing, therefore, now: condemnation for those in Φ-level orientation.
 
@@ -70,7 +70,7 @@ Verse 1 is the conclusion of verse 2's analysis: "the law of the Spirit of life 
 
 ---
 
-### Romans 8:28 ⭐ — "We know that in all things God works for the good of those who love him."
+### Romans 8:28 ✶ — "We know that in all things God works for the good of those who love him."
 
 *Oidamen de hoti tois agapontes ton theon panta synergei eis agathon* — to those who love God, all things work together toward good.
 

@@ -4,7 +4,7 @@
 
 ---
 
-### 1 Samuel 3:1-10 ⭐ — "Speak, LORD, for your servant is listening."
+### 1 Samuel 3:1-10 ✶ — "Speak, LORD, for your servant is listening."
 
 The structural context is stated in the opening verse: "The word of the LORD was rare in those days; there was no frequent vision." The noise-floor baseline of Israel at this moment is high: the priestly institution is compromised (Eli's sons are corrupt, the priestly office is failing), and the H₂₄ catching apparatus in the community is correspondingly underdeveloped. Samuel sleeps near the ark. The lamp of God has not yet gone out.
 
@@ -26,7 +26,7 @@ On the fourth call, the text says "the LORD came and stood" (*wayyavoʾ YHWH way
 
 ---
 
-### 1 Samuel 16:7 ⭐ — "The LORD looks at the heart."
+### 1 Samuel 16:7 ✶ — "The LORD looks at the heart."
 
 The structural context: Samuel has come to Bethlehem to anoint the next king from among Jesse's sons. He sees Eliab — Jesse's firstborn, presumably tall and impressive — and concludes: "Surely the LORD's anointed stands here before the LORD." The divine correction is immediate and explicit: "Do not consider his appearance or his height, for I have rejected him."
 

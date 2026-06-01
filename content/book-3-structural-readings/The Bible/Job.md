@@ -4,7 +4,7 @@
 
 ---
 
-### Job 1:21 ⭐ — "The LORD gave and the LORD has taken away."
+### Job 1:21 ✶ — "The LORD gave and the LORD has taken away."
 
 The structural context: Job has received consecutive reports that his oxen and donkeys have been seized, his sheep and servants burned, his camels taken, and all ten children killed — the entire H₄₈ provision of his life eliminated within a single narrative sequence. He tears his robe, shaves his head, falls to the ground, and says:
 
@@ -34,7 +34,7 @@ The lament's structural significance is that it is directed upward. Job does not
 
 ---
 
-### Job 19:25-27 ⭐ — "I know that my Redeemer lives."
+### Job 19:25-27 ✶ — "I know that my Redeemer lives."
 
 The structural context: Job is responding to Bildad's second speech, which has just described the fate of the wicked in H₄₈-collapse terms. Job has protested that his friends misread the situation. Then, from the maximum noise-floor position of the book — after losing his H₄₈ resources, his standing, his health, and now apparently the support of his social circle — he makes the most structurally forward-looking claim in the Hebrew Bible:
 
@@ -52,7 +52,7 @@ The claim is not supported by anything in Job's H₄₈ environment. He is makin
 
 ---
 
-### Job 38:1-7 ⭐ — "Where were you when I laid the earth's foundation?"
+### Job 38:1-7 ✶ — "Where were you when I laid the earth's foundation?"
 
 The structural context: after thirty-five chapters of dialogue (Job's protests, the three friends' structural errors, Elihu's partial correction), the LORD answers Job from the whirlwind (*min ha-seʿarah*). The answer is not an explanation.
 
@@ -96,7 +96,7 @@ The answer to this condition is catching. The window is finite and the Heropass 
 
 ---
 
-### Job 42:5 ⭐ — "But now my eyes have seen you."
+### Job 42:5 ✶ — "But now my eyes have seen you."
 
 The resolution of the book in a single verse: *shemaʿ ozen shemaʿtikha ve-ʿatah ʿeini raʾatkha* — "by the hearing of the ear I had heard of you; but now my eye sees you."
 

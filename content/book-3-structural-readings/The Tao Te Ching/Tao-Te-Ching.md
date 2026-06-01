@@ -4,7 +4,7 @@
 
 ---
 
-### Chapter 1 ⭐ — "The Tao that can be told is not the eternal Tao"
+### Chapter 1 ✶ — "The Tao that can be told is not the eternal Tao"
 
 *道可道，非常道。名可名，非常名。無名天地之始；有名萬物之母。*
 
@@ -34,7 +34,7 @@ This is creation-ex-nihilo in its East Asian form: *wú* (non-being, the structu
 
 ---
 
-### Chapter 16 ⭐ — "Attain complete emptiness"
+### Chapter 16 ✶ — "Attain complete emptiness"
 
 *致虛極，守靜篤。萬物並作，吾以觀復。夫物芸芸，各復歸其根。*
 
@@ -60,7 +60,7 @@ The ascending-career account in its Taoist form: the movement toward *xū* (empt
 
 ---
 
-### Chapter 25 ⭐ — "There was something nebulous yet complete"
+### Chapter 25 ✶ — "There was something nebulous yet complete"
 
 *有物混成，先天地生。寂兮寥兮，獨立不改，周行而不殆，可以為天下母。*
 
@@ -90,7 +90,7 @@ The being-at-all question answered from the Taoist direction. Before heaven and 
 
 ---
 
-### Chapter 40 ⭐ — "Return is the movement of the Tao"
+### Chapter 40 ✶ — "Return is the movement of the Tao"
 
 *反者道之動；弱者道之用。天下萬物生於有，有生於無。*
 
@@ -116,11 +116,11 @@ The catching program's ascending career is *fǎn* in the personal domain: the ca
 
 *Yǒu shēng yú wú* — the descent-densification sequence in its most compressed form: H₄₈ being (*yǒu*) proceeds from the Φ-level's structural non-being (*wú* = not-nothing but structurally prior to all H₄₈ differentiation). This is creation-ex-nihilo stated as the Tao's structural operation: the H₄₈ order is not self-generating but proceeds from the structural ground that is structurally prior to the H₄₈ order.
 
-*(Cross-reference: JOHN 1:1-3 — "all things were made through him": the same structural descent from the Φ-level. The cosmogonic sequence in Spinoza I.15 — "whatever is, is in God": the structural parallel. SONN 146 ⭐⭐ — the ascending-career *fǎn* (return) as the H₂₄ catching program.)*
+*(Cross-reference: JOHN 1:1-3 — "all things were made through him": the same structural descent from the Φ-level. The cosmogonic sequence in Spinoza I.15 — "whatever is, is in God": the structural parallel. SONN 146 ✶✶ — the ascending-career *fǎn* (return) as the H₂₄ catching program.)*
 
 ---
 
-### Chapter 48 ⭐ — "For learning, every day something is acquired"
+### Chapter 48 ✶ — "For learning, every day something is acquired"
 
 *為學日益，為道日損。損之又損，以至於無為。無為而無不為。*
 
@@ -146,6 +146,6 @@ The ascending career proceeds by structural subtraction: each day, more H₄₈-
 
 PHIL 2:5-11's kenosis hymn (the Φ-level's maximum structural descent through the successive subtraction of H₄₈-level structural properties — divine form → servant form → human form → obedient form → cross) is the descent-densification sequence. Chapter 48's structural subtraction (*sǔn* day by day) is the ascending-career structural sequence — its mirror image. Both describe the same structural reality from opposite directions.
 
-*(Cross-reference: SONN 146 ⭐⭐ — "sell hours of dross to buy terms divine / within be fed, without be rich no more": the ascending-career *sǔn* in Shakespeare's form. PHIL 3:8 — "I consider everything a loss because of the surpassing worth of knowing Christ Jesus": the kenosis of Chapter 48 in the Pauline framework. JOHN 3:30 — "He must increase; I must decrease": the structural subtraction as the catching program's operational direction.)*
+*(Cross-reference: SONN 146 ✶✶ — "sell hours of dross to buy terms divine / within be fed, without be rich no more": the ascending-career *sǔn* in Shakespeare's form. PHIL 3:8 — "I consider everything a loss because of the surpassing worth of knowing Christ Jesus": the kenosis of Chapter 48 in the Pauline framework. JOHN 3:30 — "He must increase; I must decrease": the structural subtraction as the catching program's operational direction.)*
 
 ---

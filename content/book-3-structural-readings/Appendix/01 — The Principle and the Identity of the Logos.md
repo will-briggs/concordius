@@ -148,7 +148,7 @@ The Pharisees asked when the kingdom would come. Christ's answer: it will not co
 
 ---
 
-### Genesis 1:2 — "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters." ⭐
+### Genesis 1:2 — "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters." ✶
 
 *Hebrew:* וְהָאָרֶץ הָיְתָה תֹהוּ וָבֹהוּ וְחֹשֶׁךְ עַל-פְּנֵי תְהוֹם וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל-פְּנֵי הַמָּיִם
 
@@ -230,7 +230,7 @@ The created order begins with what the breaking cannot touch.
 
 ---
 
-### Genesis 1:3 — "And God said, Let there be light: and there was light." ⭐
+### Genesis 1:3 — "And God said, Let there be light: and there was light." ✶
 
 **The structural identification: "God said" = Φ actualizing in H.**
 

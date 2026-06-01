@@ -4,7 +4,7 @@
 
 ---
 
-### Ecclesiastes 1:2 ⭐ — "Vanity of vanities — all is vanity."
+### Ecclesiastes 1:2 ✶ — "Vanity of vanities — all is vanity."
 
 *Hevel havalim ʾamar ha-Qohelet hevel havalim ha-kol havel* — Vanity of vanities, says the Preacher, vanity of vanities! All is vanity.
 
@@ -18,7 +18,7 @@ The Preacher is not a nihilist. This structural precision matters: he is perform
 
 ---
 
-### Ecclesiastes 3:11 ⭐ — "He has set eternity in the human heart."
+### Ecclesiastes 3:11 ✶ — "He has set eternity in the human heart."
 
 *ʾEt ha-kol ʿasah yafeh veʿito gam ʾet ha-ʿolam natan belibam mibeli ʾasher loʾ yimtsaʾ ha-ʾadam ʾet ha-maʿaseh ʾasher ʿasah ha-ʾElohim meharoʾsh veʿad sof*
 

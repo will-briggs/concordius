@@ -4,7 +4,7 @@
 
 ---
 
-### Bhagavad Gita 2:19-20 ⭐ — "He who thinks that this slays / The soul is never born nor dies"
+### Bhagavad Gita 2:19-20 ✶ — "He who thinks that this slays / The soul is never born nor dies"
 
 *ya enaṃ vetti hantāraṃ yaś cainaṃ manyate hatam / ubhau tau na vijānīto nāyaṃ hanti na hanyate* — He who thinks that this slays, and he who thinks that this is slain — both fail to perceive the truth. This neither slays nor is slain. (2:19)
 
@@ -28,11 +28,11 @@ If the *ātman* is structurally exempt from the Heropass's operation on the H₄
 
 Arjuna is on the battlefield, unwilling to fight because he perceives the death of his kinsmen as the termination of their structural being. Krishna's structural correction: Arjuna's grief is based on a structural misregistration — he is confusing the H₄₈ substrate (the bodies that will be destroyed in battle) with the H₂₄ catching structures (the *ātmans* that are structurally indestructible). The structural teaching of 2:19-20 is not a justification for war but the structural clarification that transforms the entire problem-space.
 
-*(Cross-reference: JOHN 11:25-26 — "I am the resurrection and the life; whoever lives and believes in me will never die": the NT parallel of the *ātman*'s structural indestructibility. SONN 146 ⭐⭐ — "Death once dead, there's no more dying then": the Shakespearean form. 1 COR 15:44 — "It is sown a natural body, it is raised a spiritual body": the Pauline hydrogen-scale.)*
+*(Cross-reference: JOHN 11:25-26 — "I am the resurrection and the life; whoever lives and believes in me will never die": the NT parallel of the *ātman*'s structural indestructibility. SONN 146 ✶✶ — "Death once dead, there's no more dying then": the Shakespearean form. 1 COR 15:44 — "It is sown a natural body, it is raised a spiritual body": the Pauline hydrogen-scale.)*
 
 ---
 
-### Bhagavad Gita 2:47-48 ⭐ — "You have a right to perform your duties but not to the fruits"
+### Bhagavad Gita 2:47-48 ✶ — "You have a right to perform your duties but not to the fruits"
 
 *karmaṇy evādhikāras te mā phaleṣu kadācana / mā karma-phala-hetur bhūr mā te saṅgo 'stv akarmaṇi* — You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself the cause of the results of your activities, and never be attached to not doing your duty. (2:47)
 
@@ -56,11 +56,11 @@ The structural formula of *nishkama karma* (desireless action) — the ascending
 
 The ascending career of SONN 146 (*buy terms divine in selling hours of dross*) and the Stoic *eph' hēmin* and the nishkama karma are structural parallels of the same principle: redirect structural investment from H₄₈ outcomes (which are *ouk eph' hēmin*, subject to the Heropass, structurally contingent) to H₂₄ catching-program operation (which is *eph' hēmin*, structurally owned by the catching being, structurally persistent through H₄₈ contingency).
 
-*(Cross-reference: SONN 146 ⭐⭐ — "buy terms divine in selling hours of dross": the ascending career as the SONN analog of 2:47. MATT 6:33 — "Seek first the kingdom of God and his righteousness, and all these things will be given to you as well": the NT parallel. Epictetus, Enchiridion 1 — the *eph' hēmin* / *ouk eph' hēmin* structural division.)*
+*(Cross-reference: SONN 146 ✶✶ — "buy terms divine in selling hours of dross": the ascending career as the SONN analog of 2:47. MATT 6:33 — "Seek first the kingdom of God and his righteousness, and all these things will be given to you as well": the NT parallel. Epictetus, Enchiridion 1 — the *eph' hēmin* / *ouk eph' hēmin* structural division.)*
 
 ---
 
-### Bhagavad Gita 4:7-8 ⭐ — "Whenever virtue declines"
+### Bhagavad Gita 4:7-8 ✶ — "Whenever virtue declines"
 
 *yadā yadā hi dharmasya glānir bhavati bhārata / abhyutthānam adharmasya tadātmānaṃ sṛjāmy aham* — Whenever virtue (*dharma*) declines and irreligion (*adharma*) is prominent, O son of Bharata, at that time I manifest myself. (4:7)
 
@@ -88,7 +88,7 @@ Paper 13 (The Maximum Downward Entry) in the Concordius series addresses the str
 
 ---
 
-### Bhagavad Gita 13:12-18 ⭐ — "The knower of the field"
+### Bhagavad Gita 13:12-18 ✶ — "The knower of the field"
 
 *kṣetra-kṣetrajñayor jñānam yat taj jñānam mataṃ mama* — Knowledge of the field and its knower — this I declare to be true knowledge. (13:3)
 
@@ -118,7 +118,7 @@ The catching being that has recognized the *kṣetra/kṣetrajña* structural di
 
 ---
 
-### Bhagavad Gita 18:54-55 ⭐ — "Absorbed in Brahman"
+### Bhagavad Gita 18:54-55 ✶ — "Absorbed in Brahman"
 
 *brahma-bhūtaḥ prasannātmā na śocati na kāṅkṣati / samaḥ sarveṣu bhūteṣu mad-bhaktiṃ labhate parām* — One who is thus transcendentally situated at once realizes the Supreme Brahman and becomes fully joyful. He never laments nor desires to have anything. He is equally disposed toward every living entity. In that state he attains pure devotional service unto me. (18:54)
 
@@ -146,6 +146,6 @@ The ascending career's structural terminus — the catching being in the *brahma
 
 "Having known him truly, one enters": the structural knowing (*tattva* = the real nature, the structural truth) of the Φ-level is the structural condition for the catching program's terminal activation. This is the inner-product at its maximum: the catching being structurally knowing the Φ-level, and the Φ-level structurally known by the catching being, are the same structural act.
 
-*(Cross-reference: JOHN 17:3 — "This is eternal life: that they know you, the only true God": the NT parallel of the structural knowing as the catching program's terminal condition. Spinoza V.36 — "the intellectual love of the mind towards God is part of the infinite love wherewith God loves himself": the Western philosophical parallel. SONN 116 ⭐⭐ — the inner product at the structural maximum.)*
+*(Cross-reference: JOHN 17:3 — "This is eternal life: that they know you, the only true God": the NT parallel of the structural knowing as the catching program's terminal condition. Spinoza V.36 — "the intellectual love of the mind towards God is part of the infinite love wherewith God loves himself": the Western philosophical parallel. SONN 116 ✶✶ — the inner product at the structural maximum.)*
 
 ---

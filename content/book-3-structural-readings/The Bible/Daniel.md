@@ -14,7 +14,7 @@ The stone not cut by human hands (*ʾeven di-la ve-yadayin*, 2:34) strikes the s
 
 ---
 
-### Daniel 12:2-3 ⭐ — "Those who are wise will shine like the brightness of the heavens."
+### Daniel 12:2-3 ✶ — "Those who are wise will shine like the brightness of the heavens."
 
 *Ve-rabbim miyeshenie ʾadmat ʿafar yaqitsu ʾeleh leḥayyei ʿolam veʾeleh la-ḥarapot le-dirʾon ʿolam. Ve-ha-maskilim yaz'hiru ke-zohar ha-raqia.* — Multitudes who sleep in the dust of the earth will awake: some to everlasting life, others to shame and everlasting contempt. Those who are wise will shine like the brightness of the heavens, and those who lead many to righteousness, like the stars for ever and ever.
 

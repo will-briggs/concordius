@@ -4,7 +4,7 @@
 
 ---
 
-### Lamentations 3:22-23 ⭐ — "They are new every morning."
+### Lamentations 3:22-23 ✶ — "They are new every morning."
 
 *Chasdei YHWH ki loʾ tamnu, ki loʾ khalu rachamav. Chadashim la-beqarim, rabbah ʾemunatekha.* — Because of the LORD's great love (*chesed*) we are not consumed, for his compassions (*rachamim*) never fail. They are new every morning; great is your faithfulness.
 

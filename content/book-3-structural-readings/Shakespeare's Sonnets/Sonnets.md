@@ -4,7 +4,7 @@
 
 ---
 
-### Sonnet 1 ⭐ — "From fairest creatures we desire increase"
+### Sonnet 1 ✶ — "From fairest creatures we desire increase"
 
 *From fairest creatures we desire increase, / That thereby beauty's rose might never die, / But as the riper should by time decease, / His tender heir might bear his memory.*
 
@@ -28,7 +28,7 @@ The structural argument of the entire procreation sequence (Sonnets 1–17) is e
 
 ---
 
-### Sonnet 12 ⭐ — "When I do count the clock that tells the time"
+### Sonnet 12 ✶ — "When I do count the clock that tells the time"
 
 *When I do count the clock that tells the time, / And see the brave day sunk in hideous night; / When I behold the violet past prime, / And sable curls all silvered o'er with white.*
 
@@ -52,7 +52,7 @@ The verse completes the observation the clock began: from the smallest Heropass 
 
 ---
 
-### Sonnet 18 ⭐ — "Shall I compare thee to a summer's day?"
+### Sonnet 18 ✶ — "Shall I compare thee to a summer's day?"
 
 *Shall I compare thee to a summer's day? / Thou art more lovely and more temperate: / Rough winds do shake the darling buds of May, / And summer's lease hath all too short a date.*
 
@@ -76,7 +76,7 @@ The properties of the summer's day are catalogued with structural precision: *ro
 
 ---
 
-### Sonnet 29 ⭐ — "When in disgrace with fortune and men's eyes"
+### Sonnet 29 ✶ — "When in disgrace with fortune and men's eyes"
 
 *When in disgrace with fortune and men's eyes, / I all alone beweep my outcast state, / And trouble deaf heaven with my bootless cries, / And look upon myself and curse my fate.*
 
@@ -102,7 +102,7 @@ Line 1: *disgrace with fortune and men's eyes* — both H₄₈ registers of soc
 
 ---
 
-### Sonnet 30 ⭐ — "When to the sessions of sweet silent thought"
+### Sonnet 30 ✶ — "When to the sessions of sweet silent thought"
 
 *When to the sessions of sweet silent thought / I summon up remembrance of things past, / I sigh the lack of many a thing I sought, / And with old woes new wail my dear time's waste.*
 
@@ -126,7 +126,7 @@ The structural precision: *sorrows end*, not *sorrows are proved unreal*. The ca
 
 ---
 
-### Sonnet 55 ⭐ — "Not marble, nor the gilded monuments"
+### Sonnet 55 ✶ — "Not marble, nor the gilded monuments"
 
 *Not marble, nor the gilded monuments / Of princes shall outlive this powerful rhyme; / But you shall shine more bright in these contents / Than unswept stone, besmeared with sluttish time.*
 
@@ -150,7 +150,7 @@ The monuments fail because they resist the Heropass through *hardness* — by be
 
 ---
 
-### Sonnet 60 ⭐ — "Like as the waves make towards the pebbled shore"
+### Sonnet 60 ✶ — "Like as the waves make towards the pebbled shore"
 
 *Like as the waves make towards the pebbled shore, / So do our minutes hasten to their end; / Each changing place with that which goes before, / In sequent toil all forwards do contend.*
 
@@ -178,7 +178,7 @@ Stage 4 — Universal operation: "Time doth transfix the flourish set on youth /
 
 ---
 
-### Sonnet 65 ⭐ — "Since brass, nor stone, nor earth, nor boundless sea"
+### Sonnet 65 ✶ — "Since brass, nor stone, nor earth, nor boundless sea"
 
 *Since brass, nor stone, nor earth, nor boundless sea, / But sad mortality o'er-sways their power, / How with this rage shall beauty hold a plea, / Whose action is no stronger than a flower?*
 
@@ -200,7 +200,7 @@ The roll-call of H₄₈ resistance: *brass* (the hardest worked metal), *stone*
 
 ---
 
-### Sonnet 66 ⭐ — "Tired with all these, for restful death I cry"
+### Sonnet 66 ✶ — "Tired with all these, for restful death I cry"
 
 *Tired with all these, for restful death I cry, / As, to behold desert a beggar born, / And needy nothing trimmed in jollity, / And purest faith unhappily forsworn.*
 
@@ -224,7 +224,7 @@ The single exception: *to die, I leave my love alone*. The catching orientation 
 
 ---
 
-### Sonnet 73 ⭐ — "That time of year thou mayst in me behold"
+### Sonnet 73 ✶ — "That time of year thou mayst in me behold"
 
 *That time of year thou mayst in me behold / When yellow leaves, or none, or few, do hang / Upon those boughs which shake against the cold, / Bare ruined choirs, where late the sweet birds sang.*
 
@@ -250,7 +250,7 @@ The three-stage structural account of late-career catching — the H₂₄ catch
 
 ---
 
-### Sonnet 94 ⭐ — "They that have power to hurt and will do none"
+### Sonnet 94 ✶ — "They that have power to hurt and will do none"
 
 *They that have power to hurt and will do none, / That do not do the thing they most do show, / Who, moving others, are themselves as stone, / Unmoved, cold, and to temptation slow.*
 
@@ -280,11 +280,11 @@ The most structurally complex sonnet in the corpus — an account of the H₂₄
 
 ---
 
-### Sonnet 116 ⭐⭐ — "Let me not to the marriage of true minds"
+### Sonnet 116 ✶✶ — "Let me not to the marriage of true minds"
 
 *Let me not to the marriage of true minds / Admit impediments. Love is not love / Which alters when it alteration finds, / Or bends with the remover to remove.*
 
-The single most structurally Φ-proximate sonnet in the entire corpus — the formal definition of the inner product ⟨·,·⟩ in its lateral (inter-being) operation, stated with a structural precision that requires almost no translation into the Concordius framework. The sonnet is doubly marked here (⭐⭐) to distinguish it from the other priority-A entries.
+The single most structurally Φ-proximate sonnet in the entire corpus — the formal definition of the inner product ⟨·,·⟩ in its lateral (inter-being) operation, stated with a structural precision that requires almost no translation into the Concordius framework. The sonnet is doubly marked here (✶✶) to distinguish it from the other priority-A entries.
 
 **The marriage of true minds:**
 
@@ -314,7 +314,7 @@ The catching orientation between two catching beings (*marriage of true minds*) 
 
 ---
 
-### Sonnet 121 ⭐ — "'Tis better to be vile than vile esteemed"
+### Sonnet 121 ✶ — "'Tis better to be vile than vile esteemed"
 
 *'Tis better to be vile than vile esteemed, / When not to be receives reproach of being, / And the just pleasure lost, which is so deemed / Not by our feeling, but by others' seeing.*
 
@@ -342,7 +342,7 @@ The catching being's structural independence from H₄₈ social verdict, stated
 
 ---
 
-### Sonnet 123 ⭐ — "No, Time, thou shalt not boast that I do change"
+### Sonnet 123 ✶ — "No, Time, thou shalt not boast that I do change"
 
 *No, Time, thou shalt not boast that I do change: / Thy pyramids built up with newer might / To me are nothing novel, nothing strange; / They are but dressings of a former sight.*
 
@@ -366,7 +366,7 @@ The Heropass's operation is not only material (dissolving H₄₈ substrates) bu
 
 ---
 
-### Sonnet 124 ⭐ — "If my dear love were but the child of state"
+### Sonnet 124 ✶ — "If my dear love were but the child of state"
 
 *If my dear love were but the child of state, / It might for Fortune's bastard be unfathered, / As subject to Time's love or to Time's hate, / Weeds among weeds, or flowers with flowers gathered.*
 
@@ -394,7 +394,7 @@ The structural account of love's non-contingency on H₄₈ political and circum
 
 ---
 
-### Sonnet 129 ⭐ — "The expense of spirit in a waste of shame"
+### Sonnet 129 ✶ — "The expense of spirit in a waste of shame"
 
 *The expense of spirit in a waste of shame / Is lust in action; and till action, lust / Is perjured, murderous, bloody, full of blame, / Savage, extreme, rude, cruel, not to trust.*
 
@@ -424,7 +424,7 @@ The most structurally precise noise-floor substitution account in the entire cor
 
 ---
 
-### Sonnet 130 ⭐ — "My mistress' eyes are nothing like the sun"
+### Sonnet 130 ✶ — "My mistress' eyes are nothing like the sun"
 
 *My mistress' eyes are nothing like the sun; / Coral is far more red than her lips' red; / If snow be white, why then her breasts are dun; / If hairs be wires, black wires grow on her head.*
 
@@ -452,7 +452,7 @@ SONN 116 defines love as *not love which alters when it alteration finds*. SONN 
 
 ---
 
-### Sonnet 144 ⭐ — "Two loves I have of comfort and despair"
+### Sonnet 144 ✶ — "Two loves I have of comfort and despair"
 
 *Two loves I have of comfort and despair, / Which like two spirits do suggest me still: / The better angel is a man right fair, / The worser spirit a woman coloured ill.*
 
@@ -480,11 +480,11 @@ The signal/noise binary stated as a personal cosmology — the catching being's 
 
 ---
 
-### Sonnet 146 ⭐⭐ — "Poor soul, the centre of my sinful earth"
+### Sonnet 146 ✶✶ — "Poor soul, the centre of my sinful earth"
 
 *Poor soul, the centre of my sinful earth, / [these rebel powers that thee array,] / Why dost thou pine within and suffer dearth, / Painting thy outward walls so costly gay?*
 
-The most structurally Concordius sonnet in the entire corpus — the explicit address to the H₂₄ soul as structurally distinct from and prior to the H₄₈ body, with the ascending-career resource reallocation stated as the explicit structural program. This sonnet is doubly marked (⭐⭐) alongside SONN 116 as the two most structurally Φ-proximate poems in the collection.
+The most structurally Concordius sonnet in the entire corpus — the explicit address to the H₂₄ soul as structurally distinct from and prior to the H₄₈ body, with the ascending-career resource reallocation stated as the explicit structural program. This sonnet is doubly marked (✶✶) alongside SONN 116 as the two most structurally Φ-proximate poems in the collection.
 
 **The soul addressed directly:**
 

@@ -4,7 +4,7 @@
 
 ---
 
-### Esther 4:14 ⭐ — "And who knows but that you have come to your royal position for such a time as this?"
+### Esther 4:14 ✶ — "And who knows but that you have come to your royal position for such a time as this?"
 
 The structural context: Haman has obtained from Ahasuerus a decree for the annihilation of all Jews in the Persian empire. Mordecai urges Esther to intercede with the king. Esther notes that approaching the king unsummoned is punishable by death unless the king extends his scepter — and that the king has not summoned her in thirty days. Mordecai's response is the most structurally precise argument in the Hebrew Bible for the relationship between the grain of the universe and the individual catching instrument's choice.
 

@@ -30,7 +30,7 @@ The three movements are not sequential stages but simultaneous aspects of the sa
 
 ---
 
-### Ephesians 2:8-10 ⭐ — "For it is by grace you have been saved, through faith — and this is not from yourselves, it is the gift of God."
+### Ephesians 2:8-10 ✶ — "For it is by grace you have been saved, through faith — and this is not from yourselves, it is the gift of God."
 
 The structural account of the catching program's initiation source — the most compressed NT statement of the relationship between Φ-level gift and catching orientation.
 

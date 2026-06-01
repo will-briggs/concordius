@@ -4,7 +4,7 @@
 
 ---
 
-### Proverbs 1:7 ⭐ — "The fear of the LORD is the beginning of wisdom."
+### Proverbs 1:7 ✶ — "The fear of the LORD is the beginning of wisdom."
 
 *Yirʾat YHWH reshit daʿat* — The fear of the LORD is the beginning (*reshit*) of knowledge/wisdom; fools despise wisdom and instruction.
 
@@ -18,7 +18,7 @@ The axiom operates as the structural ground of the entire book. Every subsequent
 
 ---
 
-### Proverbs 3:5-6 ⭐ — "Trust in the LORD with all your heart."
+### Proverbs 3:5-6 ✶ — "Trust in the LORD with all your heart."
 
 *Betach ʾel-YHWH bekhol-libbeka ve-ʾel-binatekha ʾal-tishʿan. Bekhol-derakhekha daʿehu ve-huʾ yeyasher ʾorḥotekha* — Trust in the LORD with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make your paths straight.
 
@@ -34,7 +34,7 @@ The structural navigation principle. *Betach* (trust) with *kol-libbeka* (all yo
 
 ---
 
-### Proverbs 8:22-31 ⭐ — "I was there when he set the heavens in place."
+### Proverbs 8:22-31 ✶ — "I was there when he set the heavens in place."
 
 The structural context: Wisdom (*Chokmah*, personified feminine) has been calling in the streets (chapter 8, verses 1-21). At verse 22 she shifts from the call to the self-disclosure: the structural account of her origin and her role in the originating creative act.
 

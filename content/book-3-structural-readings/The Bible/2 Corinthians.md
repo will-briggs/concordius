@@ -4,7 +4,7 @@
 
 ---
 
-### 2 Corinthians 4:17-18 ⭐ — "Our light and momentary troubles are achieving for us an eternal glory that far outweighs them all."
+### 2 Corinthians 4:17-18 ✶ — "Our light and momentary troubles are achieving for us an eternal glory that far outweighs them all."
 
 The structural weight comparison: the conversion ratio between H₄₈ constraint and Φ-proximal eigenvalue content.
 
@@ -30,7 +30,7 @@ This is HAB 2:4 (the righteous will live by faith) stated in quantitative form: 
 
 ---
 
-### 2 Corinthians 5:17 ⭐ — "If anyone is in Christ, the new creation."
+### 2 Corinthians 5:17 ✶ — "If anyone is in Christ, the new creation."
 
 *Ei tis en Christos, kaine ktisis* — if anyone in Christ, new creation. The structural claim: the catching orientation (*en Christo*) is a structural status change, not a behavioral improvement record.
 

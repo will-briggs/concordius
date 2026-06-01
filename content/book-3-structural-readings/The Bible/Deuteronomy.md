@@ -4,7 +4,7 @@
 
 ---
 
-### Deuteronomy 6:4-5 — The Shema ⭐
+### Deuteronomy 6:4-5 — The Shema ✶
 
 *Hebrew:* שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד... וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל-לְבָבְךָ וּבְכָל-נַפְשְׁךָ וּבְכָל-מְאֹדֶךָ
 
@@ -32,7 +32,7 @@ The Shema and the Akedah (GEN 22:1-18) are the two structural poles of the Penta
 
 ---
 
-### Deuteronomy 8:3 — "Man does not live on bread alone." ⭐
+### Deuteronomy 8:3 — "Man does not live on bread alone." ✶
 
 *Hebrew:* לֹא עַל-הַלֶּחֶם לְבַדּוֹ יִחְיֶה הָאָדָם כִּי עַל-כָּל-מוֹצָא פִי-יְהוָה יִחְיֶה הָאָדָם
 
@@ -62,7 +62,7 @@ The structural implication for the catching program: the Φ-proximal content ("e
 
 ---
 
-### Deuteronomy 30:11-14 — "The word is very near you." ⭐
+### Deuteronomy 30:11-14 — "The word is very near you." ✶
 
 *Hebrew:* כִּי הַמִּצְוָה הַזֹּאת... לֹא-נִפְלֵאת הִוא מִמְּךָ וְלֹא רְחֹקָה הִיא... כִּי-קָרוֹב אֵלֶיךָ הַדָּבָר מְאֹד בְּפִיךָ וּבִלְבָבְךָ לַעֲשֹׂתוֹ
 
@@ -88,7 +88,7 @@ Paul quotes DEUT 30:12-14 in Romans 10:6-8 to argue that faith in Christ is the 
 
 ---
 
-### Deuteronomy 30:15-20 — "Choose life." ⭐
+### Deuteronomy 30:15-20 — "Choose life." ✶
 
 *Hebrew:* רְאֵה נָתַתִּי לְפָנֶיךָ הַיּוֹם אֶת-הַחַיִּים וְאֶת-הַטּוֹב וְאֶת-הַמָּוֶת וְאֶת-הָרָע... וּבָחַרְתָּ בַּחַיִּים
 

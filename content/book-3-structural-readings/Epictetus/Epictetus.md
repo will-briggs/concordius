@@ -4,7 +4,7 @@
 
 ---
 
-### Enchiridion 1 ⭐ — "Some things are in our control and others not"
+### Enchiridion 1 ✶ — "Some things are in our control and others not"
 
 *Tōn ontōn ta men eph' hēmin estin, ta de ouk eph' hēmin. Eph' hēmin men hypolepsis, hormē, orexis, ekklisis, kai haplōs ta hēmetera erga. Ouk eph' hēmin de sōma, ktēsis, doxai, archai, kai haplōs ta ouk hēmetera erga* — Of things, some are in our power, and others are not. In our power are: opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions. Not in our power are: body, property, reputation, command, and, in a word, whatever are not our own actions.
 
@@ -26,11 +26,11 @@ The foundational structural division of the Stoic catching program. The *dichoto
 
 "Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life." The ascending-career formula stated as the operational specification of the *proairesis*: the catching being's structural freedom is exercised not in changing H₄₈ outcomes (which are *ouk eph' hēmin*) but in aligning the *proairesis*'s evaluation with the structural reality of what is actually in the H₂₄ register vs. what is in the H₄₈ register.
 
-*(Cross-reference: PHIL 4:11 — "I have learned, in whatever state I am, to be content": the same structural alignment of the catching orientation with the H₄₈ reality, regardless of H₄₈ conditions. SONN 146 ⭐⭐ — "buy terms divine in selling hours of dross": the ascending-career version of the same structural reallocation. ROM 8:1 — "There is therefore now no condemnation": the structural freedom of the catching being whose orientation is grounded at the H₂₄ level.)*
+*(Cross-reference: PHIL 4:11 — "I have learned, in whatever state I am, to be content": the same structural alignment of the catching orientation with the H₄₈ reality, regardless of H₄₈ conditions. SONN 146 ✶✶ — "buy terms divine in selling hours of dross": the ascending-career version of the same structural reallocation. ROM 8:1 — "There is therefore now no condemnation": the structural freedom of the catching being whose orientation is grounded at the H₂₄ level.)*
 
 ---
 
-### Enchiridion 5 ⭐ — "Men are disturbed not by the things which happen, but by the opinions about the things"
+### Enchiridion 5 ✶ — "Men are disturbed not by the things which happen, but by the opinions about the things"
 
 *Tarassousin tous anthrōpous ou ta pragmata, alla ta peri tōn pragmatōn dogmata* — Men are disturbed not by the things which happen, but by the opinions about the things.
 
@@ -52,7 +52,7 @@ Epictetus does not say the H₄₈-level events are irrelevant or that H₄₈-l
 
 ---
 
-### Discourses I.1 ⭐ — "On that which is in our power and that which is not"
+### Discourses I.1 ✶ — "On that which is in our power and that which is not"
 
 *Peri tōn eph' hēmin kai ouk eph' hēmin* — the theoretical foundation of which the Enchiridion 1 is the operational summary.
 
@@ -74,7 +74,7 @@ The Discourses' method is to produce in the student the structural recognition t
 
 ---
 
-### Discourses I.6 ⭐ — "On Providence"
+### Discourses I.6 ✶ — "On Providence"
 
 *Peri pronoias* — On Providence.
 

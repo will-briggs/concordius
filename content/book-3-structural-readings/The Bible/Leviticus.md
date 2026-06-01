@@ -4,7 +4,7 @@
 
 ---
 
-### Leviticus 16:20-22 — The Day of Atonement: the Scapegoat ⭐
+### Leviticus 16:20-22 — The Day of Atonement: the Scapegoat ✶
 
 *Hebrew partial:* וְסָמַךְ אַהֲרֹן אֶת-שְׁתֵּי יָדָו עַל רֹאשׁ הַשָּׂעִיר הַחַי... וְשִׁלַּח בְּיַד-אִישׁ עִתִּי הַמִּדְבָּרָה
 
@@ -44,7 +44,7 @@ The Letter to the Hebrews develops the structural typology: the annual Yom Kippu
 
 ---
 
-### Leviticus 19:2 — "Be holy because I, the LORD your God, am holy." ⭐
+### Leviticus 19:2 — "Be holy because I, the LORD your God, am holy." ✶
 
 *Hebrew:* קְדֹשִׁים תִּהְיוּ כִּי קָדוֹשׁ אֲנִי יְהוָה אֱלֹהֵיכֶם
 

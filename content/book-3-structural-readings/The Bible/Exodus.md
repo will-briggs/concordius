@@ -26,7 +26,7 @@ The manna is structural pedagogy about signal and constraint level. Higher-const
 
 ---
 
-### Exodus 20:8-11 — "Remember the Sabbath day." ⭐
+### Exodus 20:8-11 — "Remember the Sabbath day." ✶
 
 *Hebrew:* זָכוֹר אֶת-יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ... כִּי שֵׁשֶׁת-יָמִים עָשָׂה יְהוָה אֶת-הַשָּׁמַיִם וְאֶת-הָאָרֶץ... וַיָּנַח בַּיּוֹם הַשְּׁבִיעִי
 
@@ -66,7 +66,7 @@ DEUT 5:15 gives a second grounding for the same commandment: "Remember that you 
 
 ---
 
-### Exodus 33:18-23 — "Show me your glory." ⭐
+### Exodus 33:18-23 — "Show me your glory." ✶
 
 *Hebrew:* הַרְאֵנִי נָא אֶת-כְּבֹדֶךָ... לֹא תוּכַל לִרְאֹת אֶת-פָּנַי כִּי לֹא-יִרְאַנִי הָאָדָם וָחָי... וְרָאִיתָ אֶת-אֲחֹרָי וּפָנַי לֹא יֵרָאוּ
 
@@ -100,7 +100,7 @@ The cleft and the hand are not narrative decoration; they are the structural des
 
 ---
 
-### Exodus 34:6-7 — "The LORD, the LORD, compassionate and gracious." ⭐
+### Exodus 34:6-7 — "The LORD, the LORD, compassionate and gracious." ✶
 
 *Hebrew:* יְהוָה יְהוָה אֵל רַחוּם וְחַנּוּן אֶרֶךְ אַפַּיִם וְרַב-חֶסֶד וֶאֱמֶת נֹצֵר חֶסֶד לָאֲלָפִים נֹשֵׂא עָוֹן וָפֶשַׁע וְחַטָּאָה
 

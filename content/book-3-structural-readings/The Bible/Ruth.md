@@ -4,7 +4,7 @@
 
 ---
 
-### Ruth 1:16-17 ⭐ — "Your people will be my people and your God my God."
+### Ruth 1:16-17 ✶ — "Your people will be my people and your God my God."
 
 The structural context: Naomi's husband and both sons have died in Moab. She releases her daughters-in-law Orpah and Ruth to return to their mothers' houses, to Moab, to find new husbands. The H₄₈ logic of Naomi's release is unanswerable: she has no more sons to give them, she is too old to remarry, and she explicitly names the LORD as the agent of her affliction (1:13: "the LORD's hand has gone out against me"). Orpah kisses Naomi and returns. Ruth refuses.
 

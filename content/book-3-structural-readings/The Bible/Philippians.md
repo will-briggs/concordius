@@ -4,7 +4,7 @@
 
 ---
 
-### Philippians 2:5-11 ⭐ — The Kenosis Hymn
+### Philippians 2:5-11 ✶ — The Kenosis Hymn
 
 The most philosophically concentrated NT statement of the maximum downward entry — the full structural account of the kenotic descent in its Greek philosophical precision.
 

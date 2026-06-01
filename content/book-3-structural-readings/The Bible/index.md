@@ -6,7 +6,7 @@ tags:
 
 # A Structural Reading of the Bible
 
-Readings organized by book, in canonical order. Entries marked with ⭐ in the source files indicate passages of exceptional structural density. For the thematic arrangement see the [[Appendix/index|Appendix]].
+Readings organized by book, in canonical order. Entries marked with ✶ in the source files indicate passages of exceptional structural density. For the thematic arrangement see the [[Appendix/index|Appendix]].
 
 ---
 

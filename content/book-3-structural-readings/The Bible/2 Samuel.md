@@ -4,7 +4,7 @@
 
 ---
 
-### 2 Samuel 7:12-16 ⭐ — "Your house and your kingdom will endure forever before me."
+### 2 Samuel 7:12-16 ✶ — "Your house and your kingdom will endure forever before me."
 
 The structural context: David has proposed building the LORD a permanent house — a temple to replace the ark's tent. The prophet Nathan first approves (7:3), then receives a night oracle that inverts the proposal. The oracle's central reversal: not David will build a *bayit* (house) for the LORD, but the LORD will build a *bayit* for David. The *bayit* the LORD promises is not a building but a dynasty — a lineage of kings whose structural position in the covenant is specified by the oracle.
 

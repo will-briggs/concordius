@@ -4,7 +4,7 @@
 
 ---
 
-### Habakkuk 2:4 ⭐ — "The righteous will live by his faithfulness."
+### Habakkuk 2:4 ✶ — "The righteous will live by his faithfulness."
 
 *Hinneh ʿuppelah loʾ-yasherah nafsho bo, ve-tsaddiq beʾemunatoh yiḥyeh.* — Behold, his desires are not upright — but the righteous person will live by his faithfulness (*beʾemunatoh yiḥyeh*).
 

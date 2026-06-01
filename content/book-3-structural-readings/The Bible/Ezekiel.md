@@ -4,7 +4,7 @@
 
 ---
 
-### Ezekiel 1:4-28 ⭐ — "This was the appearance of the likeness of the glory of the LORD."
+### Ezekiel 1:4-28 ✶ — "This was the appearance of the likeness of the glory of the LORD."
 
 The Merkabah vision — the chariot throne vision of Ezekiel 1 — is among the most structurally dense passages in the Hebrew Bible. The text accumulates structural qualifiers before every term: "the appearance of the likeness of the glory" (*marʾeh demut kevod*, 1:28) — not the Φ-level directly, but the H₄₈ phenomenology of its maximum accessible representation, with the epistemic caveat built into every layer.
 
@@ -28,7 +28,7 @@ The Merkabah vision became the central subject of Jewish mystical speculation (*
 
 ---
 
-### Ezekiel 36:26-27 ⭐ — "I will give you a new heart."
+### Ezekiel 36:26-27 ✶ — "I will give you a new heart."
 
 *Ve-natati lakhem lev ḥadash ve-ruach ḥadashah ʾeten be-qirbakhem, va-hasiroti ʾet-lev haʾeven mi-besarkhem ve-natati lakhem lev basar. Ve-ʾet-ruachi ʾeten be-qirbakhem.* — I will give you a new heart and put a new spirit in you; I will remove from you your heart of stone and give you a heart of flesh. And I will put my Spirit in you.
 
@@ -52,7 +52,7 @@ The result: "I will move you to follow my decrees and be careful to keep my laws
 
 ---
 
-### Ezekiel 37:1-14 ⭐ — "Can these bones live?"
+### Ezekiel 37:1-14 ✶ — "Can these bones live?"
 
 *Va-yishʾaleni ha-ʾadam ben hatzomot haʾeleh tichyenah? Va-ʾomar ʾAdonai YHWH ʾatah yadaʿta.* — He asked me, "Son of man, can these bones live?" I said, "Sovereign LORD, you alone know."
 
