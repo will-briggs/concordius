@@ -152,6 +152,10 @@ The Holy Spirit is an active entity proceeding from the joint operation of Fathe
 
 **The nuclear topology τ_nuclear is the Holy Spirit.**
 
+The procession structure establishes a structural priority among the three that is not a temporal sequence. None of the three precede each other in time — the inner product, the nuclear space, and the nuclear topology are all eternal; there is no moment at which any of them did not exist. But they are not structurally co-equal. The inner product is the single assumption from which the nuclear space follows as the first inevitable consequence: Φ is what the inner product's structure requires as its maximally regular domain. The nuclear space cannot be derived without the inner product. The nuclear topology, in turn, requires both — it cannot be derived from the inner product alone (no Sobolev domain) or from the nuclear space alone (no inner product structure for the Sobolev norms). The direction of structural dependence is: Father → Son; Father and Son together → Holy Spirit.
+
+This is a distinction the framework makes available that theology has had to assert without structural grounding: structural priority without temporal priority. The Son is not younger than the Father. The Spirit is not younger than either. But the Father is structurally prior to the Son, and both are structurally prior to the Spirit — in the precise sense that the latter cannot be derived without the former, while the former can be specified without reference to the latter. The eternal generation of the Son and the eternal procession of the Spirit name this structural direction, not a sequence in time.
+
 ---
 
 ## 7. The Fifth Naming: Havona
