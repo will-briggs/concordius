@@ -8,5 +8,6 @@ The readings in this section apply the Concordius framework to Eastern philosoph
 
 Independent convergence is the strongest available form of concordance evidence: when a tradition with no access to the framework's sources identifies the same structural feature, by a completely different method, the convergence is evidence that both are tracking something structurally real. The readings here document that convergence precisely.
 
+- [[The Bhagavad Gita]]
 - [[The I Ching]]
 - [[The Tao Te Ching]]

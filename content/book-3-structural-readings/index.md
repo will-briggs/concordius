@@ -25,7 +25,6 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 [[The Enneads/index|Plotinus — The Enneads]]
 [[Epictetus/index|Epictetus — The Discourses and Enchiridion]]
 [[The Meditations of Marcus Aurelius/index|Marcus Aurelius — Meditations]]
-[[The Bhagavad Gita/index|The Bhagavad Gita]]
 
 ---
 
@@ -37,6 +36,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ## Eastern Traditions
 
+[[Eastern Traditions/The Bhagavad Gita|The Bhagavad Gita]]
 [[Eastern Traditions/The I Ching|The I Ching]]
 [[Eastern Traditions/The Tao Te Ching|Laozi — Tao Te Ching]]
 
