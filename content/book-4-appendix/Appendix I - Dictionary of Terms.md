@@ -1207,9 +1207,11 @@ The Concordius series treats the quarantine condition as a structural descriptio
 
 **The structural precision of the rebellion.** Paper 8 (§3.1) supplies the structural content of what Lucifer's rebellion was: not a moral revolt against divine authority in a voluntarist sense, but a specific structural error. Lucifer, as an H₁-origin being operating in H₆ (the local universe level), attempted to shed H₆ constraints while remaining in H₆ — to assert H₁-level eigenvalue autonomy from within a space that cannot accommodate it. This is the overdetermined condition: two incompatible law-sets (H₁-level degrees of freedom and H₆ constraint structure) simultaneously asserted in the same region. The Fall is the structural resolution of this overdetermination, not its moral punishment. The quarantine is the consequence: the incoherence propagated from the rebelling administrator's sphere of influence outward through every structure organized under it, severing the normal circuits of spiritual communication that depend on coherent H₆ administration.
 
-> *For further investigation: The Urantia Book (1955), Papers 53-54 (the Lucifer Rebellion); Paper 67 (the planetary rebellion); Paper 8 §3.1 (structural mechanism of the Fall).*
+**Quarantine as structural necessity.** Paper 4 (§6, "Structural Permanence and Its Violation") supplies the formal derivation: an irresolvable incompatibility between two law-sets cannot propagate through the broader space. The quarantine of the affected system is not punishment. It is the structural consequence of an overdeterminate state-space violation that must be isolated before it propagates into the wider Cl(3,1) field. The quarantine is what the algebra requires, not what justice imposes.
 
-*Appears in: [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 27 - Man No. 6|Paper 27]], [[Paper 28 - Man No. 7|Paper 28]]*
+> *For further investigation: The Urantia Book (1955), Papers 53-54 (the Lucifer Rebellion); Paper 67 (the planetary rebellion); Paper 8 §3.1 (structural mechanism of the Fall); Paper 4 §6 (formal derivation: quarantine as structural necessity).*
+
+*Appears in: [[Paper 4 - The Constraint Cascade|Paper 4]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 27 - Man No. 6|Paper 27]], [[Paper 28 - Man No. 7|Paper 28]]*
 
 ---
 
