@@ -4,6 +4,11 @@ tags:
   - nav-order::3
 ---
 
+<figure>
+<img src="/static/images/section-ii-operations.jpg" alt="The bi-directional operations: kenotic descent and ascending career" style="max-width:100%;">
+<figcaption>The bi-directional structure of Section II. Kenosis is the downward compatibility operation — lower-constraint content entering H₄₈ by accepting constraint. The ascending career is the upward eigenvalue replacement program — H₄₈-primary content reorganized around H₂₄ principles across calibrated shocks at the interval positions. Both directions cross the same structural gaps; neither can cross them unaided.</figcaption>
+</figure>
+
 # Section II — The Operations
 
 *Papers 8–14*

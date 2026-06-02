@@ -4,6 +4,11 @@ tags:
   - nav-order::4
 ---
 
+<figure>
+<img src="/static/images/section-iii-wide-reading.jpg" alt="Independent convergences on a single structural reality" style="max-width:100%;">
+<figcaption>The evidential structure of Section III: independent traditions, separated by centuries and operating without contact with each other or the framework, each converging on the same structural features the Gelfand triple derives. Plato identified the Mi–Fa gap. Aristotle named the Si–Do gap. Augustine underwent it personally. The convergence is not imposed; it is found.</figcaption>
+</figure>
+
 # Section III — The Wide Reading
 
 *Papers 15–21*

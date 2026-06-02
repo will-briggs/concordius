@@ -4,6 +4,11 @@ tags:
   - nav-order::5
 ---
 
+<figure>
+<img src="/static/images/section-iv-seven-men.jpg" alt="The seven positions of the ascending career" style="max-width:100%;">
+<figcaption>The seven positions of the ascending career mapped onto the octave scale, with the Mi–Fa and Si–Do intervals marked. Men 1–3 occupy the lower tonic through Mi; Man 4 crosses the first interval; Men 5–7 ascend through the upper register toward the octave. No position crosses the intervals unaided. The practical prescription varies by position; the structural requirement at each interval is identical.</figcaption>
+</figure>
+
 # Section IV — The Seven Men
 
 *Papers 22–28½*
