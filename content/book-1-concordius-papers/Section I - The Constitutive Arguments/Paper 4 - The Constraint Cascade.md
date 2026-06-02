@@ -189,7 +189,7 @@ The negative side has nothing to deploy through. The −1 is unstructured — no
 
 At H₁₂, the exhaustion of the positive algebra and the waiting −1 converge. The −1 enters as e₀. This is the Mi-Fa crossing: the meeting of the positive algebra's endpoint with the complement that was always present since the moment of creation. The algebra that results is Cl(3,1). The Lorentzian signature (+,+,+,−) is not stipulated. It is the algebraic record of what the Creative Choice produced on its two sides.
 
-The −1 does not originate at H₉₆. It was produced at H₁, alongside the +1, at the moment of the Creative Choice. H₉₆ is the level where the −1 is most fully expressed — the most constrained level, the most completely dominated by the complement's dissipative character — but not where it originates. The [[Appendix I - Dictionary of Terms#Heropass|Heropass]] is the −1 in downstream operation at every constraint level from H₂₄ onward: the continuous dissipative pressure that the complement of creation exerts on what is created.
+The −1 does not originate at H₉₆. It was produced at H₁, alongside the +1, at the moment of the Creative Choice. H₉₆ is the level where the −1 is most fully expressed — the most constrained level, the most completely dominated by the complement's dissipative character — but not where it originates. The [[Appendix I - Dictionary of Terms#Heropass|Heropass]] is the −1 in downstream operation at every constraint level from H₂₄ onward: the continuous dissipative pressure that the complement of creation exerts on what is created — the ghost of the unchosen spectrum, the accumulated weight of everything the Creative Choice did not actualize, pressing back through e₀ against what was.
 
 ### What the Mi-Fa Crossing Derives
 
