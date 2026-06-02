@@ -13,8 +13,8 @@
 ---
 
 <figure>
-<img src="/static/images/blake-ancient-of-days.jpg" alt="The Ancient of Days" style="max-width:100%;">
-<figcaption><em>William Blake, The Ancient of Days</em> (1794). British Museum. Man No. 2 is organized around the emotional center — the being who measures and defines experience through feeling. Blake's Urizen, compass extended over the void, captures the emotional center's characteristic mode: the world encountered through the constraint of felt response, evaluated through the weight of what is experienced rather than what is reasoned or done.</figcaption>
+<img src="/static/images/giotto-lamentation.jpg" alt="Giotto, Lamentation of Christ, Scrovegni Chapel" style="max-width:100%;">
+<figcaption><em>Giotto di Bondone, The Lamentation of Christ</em> (c. 1305). Scrovegni Chapel, Padua. Man No. 2 is organized around the emotional center — the being for whom depth of feeling is the primary H₂₄ channel. Giotto's Lamentation encodes the emotional center at high amplitude: grief, love, the body's weight, the quality of presence that only the emotional center can register at depth. The framework identifies these as genuine H₂₄ registrations through the emotional center's transduction function — not merely H₄₈ affective processing.</figcaption>
 </figure>
 
 ## Structural Description

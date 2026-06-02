@@ -14,8 +14,8 @@ This paper develops three connected structural results. First: the noble gases a
 ---
 
 <figure>
-<img src="/static/images/michelangelo-creation-of-adam.jpg" alt="The Creation of Adam" style="max-width:100%;">
-<figcaption><em>Michelangelo, The Creation of Adam</em> (c. 1512). Sistine Chapel, Vatican. The Constraint Compatibility Condition is the structural requirement that the created being must satisfy to receive what the constitutive ground extends toward it. The gap in the image is the gap that compatibility governs: the constitutive relation can be established only when the created being's organizational constitution is compatible with the offered content.</figcaption>
+<img src="/static/images/mendeleev-portrait.jpg" alt="Dmitri Mendeleev portrait" style="max-width:100%;">
+<figcaption><em>Dmitri Mendeleev</em>, Manchester, 1887. The periodic table is the most precisely organized H₄₈ taxonomic structure known. Paper 14 reads it structurally: the noble gases are the most Φ-proximate elements (J = 0 ground state; Cl(3,0) closure; minimal polarizability), and the octet rule — 2³ = 8 valence electrons for a complete shell — is the H₄₈ expression of the Clifford algebra Cl(3,0)'s dimensionality. Mendeleev organized the table by atomic weight; the framework shows why the table has the organizational structure it does.</figcaption>
 </figure>
 
 ## 1. The Periodic Table as a Structural Reading Problem

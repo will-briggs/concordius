@@ -41,8 +41,8 @@ Man No. 1 is the person whose center-of-gravity lies in the instinctive and movi
 ---
 
 <figure>
-<img src="/static/images/michelangelo-creation-of-adam.jpg" alt="The Creation of Adam" style="max-width:100%;">
-<figcaption><em>Michelangelo, The Creation of Adam</em> (c. 1512). Sistine Chapel, Vatican. Man No. 1 is the not-yet-activated Adam: the eigenvalue population present in the material form, the catching alignment not yet oriented, the organizational constitution available but not yet developed. The gap in the image is the gap Man No. 1 has not yet begun to close.</figcaption>
+<img src="/static/images/altamira-bison.jpg" alt="Altamira bison cave painting" style="max-width:100%;">
+<figcaption><em>Polychrome Bison</em>, Altamira Cave (c. 16,000–14,000 BCE). Cantabria, Spain. Man No. 1 is H₄₈-primary: the volitional axis aligned almost entirely with body-centered attractors, the catching orientation not yet in place, the Adjuster present and continuously active but not yet received. The Altamira bison is H₄₈ at its most direct — body, sensation, presence, the animal world encoded by hands that felt the rock's surface as the form inside it. Man No. 1's native channel is the body. The transition begins there.</figcaption>
 </figure>
 
 ## Structural Description

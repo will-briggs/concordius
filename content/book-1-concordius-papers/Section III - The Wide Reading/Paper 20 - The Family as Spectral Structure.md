@@ -18,8 +18,8 @@ This paper derives the structural account of the family from first principles of
 ---
 
 <figure>
-<img src="/static/images/michelangelo-creation-of-adam.jpg" alt="The Creation of Adam" style="max-width:100%;">
-<figcaption><em>Michelangelo, The Creation of Adam</em> (c. 1512). Sistine Chapel, Vatican. The family is the organizational structure within which new eigenvalue populations receive their initial constitution. The gap in the image is the gap each new family member arrives to cross — bridged not by the individual but by the family's organizational environment, which is the spectral structure the paper maps.</figcaption>
+<img src="/static/images/rembrandt-jewish-bride.jpg" alt="Rembrandt, The Jewish Bride" style="max-width:100%;">
+<figcaption><em>Rembrandt van Rijn, The Jewish Bride</em> (c. 1665–69). Rijksmuseum, Amsterdam. The man's hand rests on the woman's breast; her hand covers his. The gesture is the structural claim of Paper 20: the spousal bond is ⟨·,·⟩ operating in the social register — the cross-term ⟨ψ₁, ψ₂⟩₂₄ between two Adjuster-bearing beings organized by the inner product rather than by H₄₈-primary appetite or utility. The family begins here, and from here the catching environment for every new eigenvalue population is constituted.</figcaption>
 </figure>
 
 ## 1. The Question

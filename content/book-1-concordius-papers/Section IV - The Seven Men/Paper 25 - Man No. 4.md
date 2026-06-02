@@ -13,8 +13,8 @@
 ---
 
 <figure>
-<img src="/static/images/hildegard-scivias.jpg" alt="Hildegard — Scivias" style="max-width:100%;">
-<figcaption><em>Hildegard von Bingen receiving the vision</em>, frontispiece to <em>Scivias</em> (c. 1151). Man No. 4 is the first type to develop a balanced constitution — intellectual, emotional, and physical centers in functional integration. Hildegard is the paradigm Man No. 4 figure: the organizational development visible simultaneously across her theoretical framework, her music, her natural philosophy, and her institutional leadership.</figcaption>
+<img src="/static/images/rublev-trinity.jpg" alt="Andrei Rublev, Trinity Icon" style="max-width:100%;">
+<figcaption><em>Andrei Rublev, Trinity Icon</em> (c. 1410). Tretyakov Gallery, Moscow. Three figures, perfectly balanced, organized around the eucharistic cup at the center — each complete, each necessary, none reducible to the others. Man No. 4 is the first type to develop the three-center integration: moving, emotional, and intellectual centers beginning to operate simultaneously in a unified catching act rather than sequentially or in alternation. The icon encodes what that integration looks like when fully realized: three modes of the single organizational activity, organized around the Φ-proximate content at the center.</figcaption>
 </figure>
 
 ## Structural Description

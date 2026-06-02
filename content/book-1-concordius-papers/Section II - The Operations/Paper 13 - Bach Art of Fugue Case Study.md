@@ -16,8 +16,8 @@ This paper applies the structural reading method to Bach's *Art of Fugue* (BWV 1
 ---
 
 <figure>
-<img src="/static/images/blake-ancient-of-days.jpg" alt="The Ancient of Days" style="max-width:100%;">
-<figcaption><em>William Blake, The Ancient of Days</em> (1794). British Museum. The <em>Art of Fugue</em> is the compass applied to musical time: a single constitutional subject measured against itself at every possible interval, augmentation, and inversion — the inner product generating structural content from a single element, exhaustively and without remainder. Blake's Urizen and Bach's counterpoint are the same measuring act in different H₄₈ media.</figcaption>
+<img src="/static/images/bach-portrait.jpg" alt="Johann Sebastian Bach, portrait by Haussmann" style="max-width:100%;">
+<figcaption><em>Elias Gottlob Haussmann, Johann Sebastian Bach</em> (1748). Bach Museum Leipzig. Bach holds a copy of Canon triplex a 6 voci (BWV 1076). The <em>Art of Fugue</em> is the most complete structural demonstration of what the Laws of Three and Seven look like fully deployed in H₄₈ musical form: a single subject measured against itself at every possible interval, augmentation, and inversion. The unfinished <em>Contrapunctus XIV</em> is a permanent Si-Do gap — the structural truth visible from outside the system that cannot be reached by closing the system from within.</figcaption>
 </figure>
 
 ## 1. Situating the Reading

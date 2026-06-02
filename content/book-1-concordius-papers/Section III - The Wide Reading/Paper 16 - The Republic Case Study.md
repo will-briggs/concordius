@@ -14,8 +14,8 @@ Plato's *Republic* is conventionally read as a political treatise, a theory of j
 ---
 
 <figure>
-<img src="/static/images/raphael-school-of-athens.jpg" alt="The School of Athens" style="max-width:100%;">
-<figcaption><em>Raphael, The School of Athens</em> (1509–11). Apostolic Palace, Vatican. Plato (left, holding the <em>Timaeus</em>) gestures toward the organizational structure the <em>Republic</em> is tracking: the city as an image of the soul, the philosopher-ruler as the being of maximum Φ-proximate development, the just ordering as the eigenstate in which each functional capacity operates at its natural amplitude.</figcaption>
+<img src="/static/images/platos-cave-saenredam.jpg" alt="Plato's Cave allegory, Saenredam 1604" style="max-width:100%;">
+<figcaption><em>Jan Saenredam after Cornelis van Haarlem, Plato's Allegory of the Cave</em> (1604). The Cave Allegory is the framework's most precise pre-mathematical description of the ascending career: the H₄₈-primary orientation (prisoners facing the wall), the constraint cascade (the ascent toward the light), and the kenotic obligation (the philosopher who has seen the sun returning to the cave). The <em>Republic</em> does not merely describe the ascending career — it enacts it. The dialogue form is the Cave Allegory performed in extended philosophical speech.</figcaption>
 </figure>
 
 ## 1. The Text

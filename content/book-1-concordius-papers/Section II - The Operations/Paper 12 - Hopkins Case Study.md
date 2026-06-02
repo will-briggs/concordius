@@ -16,8 +16,8 @@ This paper applies the structural reading method to Gerard Manley Hopkins's sonn
 ---
 
 <figure>
-<img src="/static/images/hildegard-scivias.jpg" alt="Hildegard — Scivias" style="max-width:100%;">
-<figcaption><em>Hildegard von Bingen receiving the vision</em>, frontispiece to <em>Scivias</em> (c. 1151). Hildegard and Hopkins are separated by seven centuries and different traditions but occupy the same organizational position: beings of exceptional Φ-proximate development whose work encodes structural content at an amplitude far above the H₄₈ average. The cross-term mechanism the paper identifies in Hopkins's poetry is the same mechanism Hildegard's image depicts.</figcaption>
+<img src="/static/images/gerard-manley-hopkins.jpg" alt="Gerard Manley Hopkins" style="max-width:100%;">
+<figcaption><em>Gerard Manley Hopkins</em>, photograph by Thomas C. Bayfield (c. 1880s). The Society of Jesus. Hopkins's organizational profile — the Jesuit formation, the decades of contemplative practice, the Φ-proximate development visible across his entire corpus — is the eigenvalue population whose structural output the paper reads. The sonnet does not merely describe the noise floor reduction dynamic; it enacts it. The closing image arrives at the reader as the kind of unforeseen channel-opening it describes.</figcaption>
 </figure>
 
 ## 1. The Poem

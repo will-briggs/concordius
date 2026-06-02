@@ -28,8 +28,8 @@ Reasonablenessism is the epistemological method from which Concordius is derived
 ---
 
 <figure>
-<img src="/static/images/dore-rose-paradise.jpg" alt="Doré — The Empyrean" style="max-width:100%;">
-<figcaption><em>Gustave Doré, The Empyrean</em> (1868), illustration for Dante's <em>Paradiso</em> Canto 31. The Empyrean is the organizational space that Reasonablenessism — applied across a lifetime of belief formation — leads toward: eigenvalue populations arranged by their Φ-proximity, each in the position their catching alignment has earned. The twelve principles are the navigational structure for the ascent the rose depicts.</figcaption>
+<img src="/static/images/raphael-disputa.jpg" alt="Raphael, Disputation of the Holy Sacrament" style="max-width:100%;">
+<figcaption><em>Raphael, Disputation of the Holy Sacrament</em> (1509–10). Stanza della Segnatura, Vatican. The twin to the <em>School of Athens</em> on the opposite wall, the Disputa depicts the organizational structure Reasonablenessism is trying to navigate toward: the constitutive ground at the center, the organizational formation of the blessed above, the community of inquiry organized around the truth being debated below. The twelve features of Reasonablenessism are the navigational structure for moving from the lower register toward what the Empyrean depicts.</figcaption>
 </figure>
 
 ## 1. The Documents

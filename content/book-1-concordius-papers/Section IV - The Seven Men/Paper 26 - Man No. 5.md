@@ -13,8 +13,8 @@
 ---
 
 <figure>
-<img src="/static/images/fra-angelico-transfiguration.jpg" alt="The Transfiguration" style="max-width:100%;">
-<figcaption><em>Fra Angelico, The Transfiguration</em> (c. 1440–42). Convent of San Marco, Florence. Man No. 5 has achieved the crystallization of a permanent 'I' — an organizational constitution stable across the full range of H₄₈ conditions. The Transfiguration depicts what this looks like at its maximum: the luminosity is the crystallized organizational constitution disclosed above the kenotic amplitude limiter, permanent and coherent in a way the disciples' constitutions are not yet.</figcaption>
+<img src="/static/images/el-greco-burial.jpg" alt="El Greco, The Burial of the Count of Orgaz" style="max-width:100%;">
+<figcaption><em>El Greco, The Burial of the Count of Orgaz</em> (1586–88). Church of Santo Tomé, Toledo. The painting's vertical axis is its structural claim: the earthly funeral below, the heavenly reception above, the soul's transit at the center. Man No. 5 has crossed the coherence threshold — the soul deposit crystallized, morontia survival structurally secured, the ascending career beyond H₄₈ no longer merely possible but certain. El Greco's painting depicts the threshold's crossing: simultaneously H₄₈ and post-H₄₈, both registers visible in the same frame.</figcaption>
 </figure>
 
 ## The Crystallization Event

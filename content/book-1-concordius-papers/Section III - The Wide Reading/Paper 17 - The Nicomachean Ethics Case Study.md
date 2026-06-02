@@ -14,8 +14,8 @@ Aristotle's *Nicomachean Ethics* is the systematic attempt to derive the conditi
 ---
 
 <figure>
-<img src="/static/images/raphael-school-of-athens.jpg" alt="The School of Athens" style="max-width:100%;">
-<figcaption><em>Raphael, The School of Athens</em> (1509–11). Apostolic Palace, Vatican. Aristotle (right, holding the <em>Nicomachean Ethics</em>) extends his hand toward the observable world — toward H₄₈. The <em>Ethics</em>'s account of virtue as stable organizational states, of eudaimonia as the natural end of human development, and of phronesis as the practical capacity that integrates the others is the eigenvalue structure the paper reads against the framework.</figcaption>
+<img src="/static/images/aristotle-bust.jpg" alt="Bust of Aristotle, Palazzo Altemps" style="max-width:100%;">
+<figcaption><em>Bust of Aristotle</em>, Roman copy after Lysippos (c. 330 BCE). Palazzo Altemps, Rome. Aristotle's hand in Raphael's <em>School of Athens</em> extends downward, toward H₄₈ — toward the particular, the embodied, the empirically accessible. The <em>Nicomachean Ethics</em> is the ascending career read from the bottom up: from the particular embedded human being, through stable dispositional states (virtues), toward the telos that the <em>NE</em> itself acknowledges finally exceeds what the H₄₈-constituted finite being can achieve by natural means alone.</figcaption>
 </figure>
 
 ## 1. The Text

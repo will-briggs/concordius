@@ -14,8 +14,8 @@ The dispute between Plato and Aristotle on the nature of the Forms has remained 
 ---
 
 <figure>
-<img src="/static/images/raphael-school-of-athens.jpg" alt="The School of Athens" style="max-width:100%;">
-<figcaption><em>Raphael, The School of Athens</em> (1509–11). Apostolic Palace, Vatican. The two figures at the center are the paper's two subjects: Plato (pointing upward, toward Φ) and Aristotle (hand extended downward, toward H₄₈). The framework dissolves their disagreement from a common structural ground that neither had the mathematical vocabulary to name.</figcaption>
+<img src="/static/images/plato-bust.jpg" alt="Bust of Plato after Silanion, Musei Capitolini" style="max-width:100%;">
+<figcaption><em>Bust of Plato</em>, after Silanion (c. 370 BCE). Capitoline Museums, Rome. The dispute encoded in this face and Aristotle's (Paper 17) has run for 2,400 years without resolution — because neither philosopher possessed the mathematical structure required to state what both were perceiving correctly. That structure is the Gelfand triple Φ ⊂ H ⊂ Φ'. The paper shows both positions are simultaneously right and simultaneously partially wrong — resolvable, not by choosing, but by identifying the precise structure within which both are partial views.</figcaption>
 </figure>
 
 ## 1. Two and a Half Millennia of Stalemate

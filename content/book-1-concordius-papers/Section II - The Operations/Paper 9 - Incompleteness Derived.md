@@ -23,8 +23,8 @@ The result inverts the standard interpretation. Incompleteness is not a defect o
 ---
 
 <figure>
-<img src="/static/images/raphael-school-of-athens.jpg" alt="The School of Athens" style="max-width:100%;">
-<figcaption><em>Raphael, The School of Athens</em> (1509–11). Apostolic Palace, Vatican. The formal systems constructed by the tradition's greatest minds — mathematics, logic, natural philosophy — all exhibit the incompleteness the paper derives. Every sufficiently rich formal system contains truths it cannot prove. The framework shows this is structurally necessary: the nuclear space Φ always exceeds what any closure in H can capture.</figcaption>
+<img src="/static/images/leibniz-francke.jpg" alt="Leibniz portrait by Christoph Bernhard Francke" style="max-width:100%;">
+<figcaption><em>Christoph Bernhard Francke, Portrait of Gottfried Wilhelm Leibniz</em> (c. 1695). Herzog Anton Ulrich Museum, Braunschweig. Leibniz's monadology — each monad mirrors the entire universe from its own perspective — is the pre-mathematical statement of what Gödel's theorems confirm: formal systems are incomplete because truth is Φ-proximate, infinite-dimensional, and inaccessible to any finite H₄₈ computation. Leibniz saw the holographic structure; Gödel proved the formal limit; the framework says why.</figcaption>
 </figure>
 
 ## 1. What Gödel Proved and How It Has Been Read

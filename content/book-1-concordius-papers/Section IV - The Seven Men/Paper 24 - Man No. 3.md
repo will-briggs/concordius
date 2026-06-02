@@ -13,8 +13,8 @@
 ---
 
 <figure>
-<img src="/static/images/raphael-school-of-athens.jpg" alt="The School of Athens" style="max-width:100%;">
-<figcaption><em>Raphael, The School of Athens</em> (1509–11). Apostolic Palace, Vatican. Man No. 3 is organized around the intellectual center — the being who understands through conceptual analysis and argument. The School of Athens is the natural habitat of Man No. 3: every figure in it is engaged in the intellectual catching alignment that characterizes the third type, oriented toward the true through the available faculty of reason.</figcaption>
+<img src="/static/images/holbein-erasmus.jpg" alt="Holbein, Portrait of Erasmus of Rotterdam" style="max-width:100%;">
+<figcaption><em>Hans Holbein the Younger, Portrait of Erasmus of Rotterdam</em> (c. 1523). National Gallery, London. Erasmus is the supreme Man No. 3 type: the scholar who had organized the entire tradition, produced the critical apparatus, known everything the intellectual center could know, and held it together through the intellectual center's organizing function. The map had become the territory. The paper derives Man No. 3's characteristic pathology: the framework calcifies into what it was built to track. The transition requires recognizing the limit the intellectual center finds most structurally foreign.</figcaption>
 </figure>
 
 ## Structural Description

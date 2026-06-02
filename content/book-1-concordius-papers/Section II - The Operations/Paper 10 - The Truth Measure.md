@@ -21,8 +21,8 @@ Three corollaries follow. First, no H₄₈ document has τ = 1 exactly: Φ is i
 ---
 
 <figure>
-<img src="/static/images/pantocrator-cefalu.jpg" alt="Christ Pantocrator, Cefalù" style="max-width:100%;">
-<figcaption><em>Christ Pantocrator</em>, Cathedral of Cefalù (c. 1148). The asymmetric gaze of the Pantocrator encodes the truth measure: one eye registers what is actually there (the measuring function's perfect accuracy), one eye remains oriented toward the measured being's development (the constitutive intent). Truth is the inner product of catching alignment with the constitutive ground, and the Pantocrator is the face of that inner product.</figcaption>
+<img src="/static/images/bd-weighing-heart.jpg" alt="Weighing of the Heart, Book of the Dead" style="max-width:100%;">
+<figcaption><em>Weighing of the Heart</em>, Papyrus of Hunefer (c. 1275 BCE). British Museum. The dead man's heart is weighed against Ma'at's feather: the Egyptian truth measure. The framework derives what this image encodes: truth is a real-valued structural measure τ(D), determined by the fraction of a state's spectral content that falls in the Φ-proximate region under the ⟨·,·⟩-generated decomposition. Every tradition has named the same structural operation. This one depicted it.</figcaption>
 </figure>
 
 ## 1. Introduction

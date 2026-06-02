@@ -14,8 +14,8 @@ Augustine's *Confessions* (c. 397–400 CE) is the first autobiography in the We
 ---
 
 <figure>
-<img src="/static/images/pantocrator-cefalu.jpg" alt="Christ Pantocrator, Cefalù" style="max-width:100%;">
-<figcaption><em>Christ Pantocrator</em>, Cathedral of Cefalù (c. 1148). Augustine's theology is organized around what the Pantocrator formula encodes: the constitutive ground's complete knowledge of every created being, the constitutive intent oriented toward every created being's development, and the distance between the created being and the constitutive ground that the <em>Confessions</em> is the record of crossing. "Our heart is restless until it rests in Thee" is the catching alignment finding its attractor.</figcaption>
+<img src="/static/images/botticelli-augustine.jpg" alt="Botticelli, Saint Augustine in His Study" style="max-width:100%;">
+<figcaption><em>Sandro Botticelli, Saint Augustine in His Study</em> (c. 1480). Church of Ognissanti, Florence. Augustine's organizational profile — the Manichaean period, the neo-Platonic ascent, the garden conversion, the decades of sustained theological construction — is the <em>Confessions</em>' own subject. The study is the catching environment; the books are the accumulated H₂₄ content; the figure is the ascending soul writing its retrospective GNST assessment — addressed in the second person, throughout, to the one toward whom it moves: "Our heart is restless until it rests in Thee."</figcaption>
 </figure>
 
 ## 1. The Text

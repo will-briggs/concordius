@@ -15,8 +15,8 @@ These two things — [[Appendix I - Dictionary of Terms#Self-Knowledge|self-know
 ---
 
 <figure>
-<img src="/static/images/dore-rose-paradise.jpg" alt="Doré — The Empyrean" style="max-width:100%;">
-<figcaption><em>Gustave Doré, The Empyrean</em> (1868), illustration for Dante's <em>Paradiso</em> Canto 31. Man No. 7 is the complete organizational development: all centers unified, the permanent 'I' at its highest expression, the eigenvalue population constituted at the coherence threshold and above. Man No. 7 is not approaching the rose — Man No. 7 is a place in it.</figcaption>
+<img src="/static/images/rembrandt-prodigal-son.jpg" alt="Rembrandt, Return of the Prodigal Son" style="max-width:100%;">
+<figcaption><em>Rembrandt van Rijn, The Return of the Prodigal Son</em> (c. 1668). Hermitage Museum, St. Petersburg. Man No. 7 knows who he is and where he is going. The prodigal son has completed the full circuit: H₄₈-primary orientation (the far country), the turn (coming to himself), the ascending return, and the reception by the father whose hands hold him at the end. Man No. 7 is the son in that embrace — the ascending career's H₄₈ phase complete, the final volitional reservation released, the will aligned with the Adjuster's course in a direction that cannot now be reversed.</figcaption>
 </figure>
 
 ## Structural Description
