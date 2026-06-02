@@ -5,8 +5,8 @@ tags:
 ---
 
 <figure>
-<img src="/static/images/section-ii-operations.jpg" alt="The bi-directional operations: kenotic descent and ascending career" style="max-width:100%;">
-<figcaption>The bi-directional structure of Section II. Kenosis is the downward compatibility operation — lower-constraint content entering H₄₈ by accepting constraint. The ascending career is the upward eigenvalue replacement program — H₄₈-primary content reorganized around H₂₄ principles across calibrated shocks at the interval positions. Both directions cross the same structural gaps; neither can cross them unaided.</figcaption>
+<img src="/static/images/ladder-of-divine-ascent.jpg" alt="The Ladder of Divine Ascent" style="max-width:100%;">
+<figcaption><em>The Ladder of Divine Ascent</em> (12th century). Icon, Monastery of St. Catherine, Sinai. Monks ascending toward Christ at the summit; angels attending from above; demons pulling the ascending beings off the ladder at every rung. The ascending career and the Heropass drawn in a single image. Neither the ascent nor the resistance is metaphorical. Both are structural.</figcaption>
 </figure>
 
 # Section II — The Operations

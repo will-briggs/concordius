@@ -5,8 +5,8 @@ tags:
 ---
 
 <figure>
-<img src="/static/images/section-i-gelfand-triple.jpg" alt="The Gelfand Triple: Φ ⊂ H ⊂ Φ′" style="max-width:100%;">
-<figcaption>The Gelfand Triple — Φ ⊂ H ⊂ Φ′ — the primary assumption of the series. The Father is the inner product ⟨·,·⟩ constituting the innermost space. The Son is Φ, the nuclear space: the Logos, the principle of articulation. Finite beings are vectors in H, held in the inner product, oriented toward a completion the structure makes possible but they cannot generate from within.</figcaption>
+<img src="/static/images/masaccio-trinity.jpg" alt="Masaccio, The Trinity" style="max-width:100%;">
+<figcaption><em>Masaccio, The Trinity</em> (c. 1427–28). Fresco, Santa Maria Novella, Florence. The only painting in the Western tradition where Father, Son, Spirit, and human figure are arranged in geometrically exact perspective — the structure of the Gelfand triple rendered visible. The Father is the ground above; the Son hangs between; the human figure kneels below in the H₄₈ frame. The structure is not a metaphor. It is a map.</figcaption>
 </figure>
 
 # Section I — The Constitutive Arguments

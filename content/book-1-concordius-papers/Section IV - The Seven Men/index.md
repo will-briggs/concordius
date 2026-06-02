@@ -5,8 +5,8 @@ tags:
 ---
 
 <figure>
-<img src="/static/images/section-iv-seven-men.jpg" alt="The seven positions of the ascending career" style="max-width:100%;">
-<figcaption>The seven positions of the ascending career mapped onto the octave scale, with the Mi–Fa and Si–Do intervals marked. Men 1–3 occupy the lower tonic through Mi; Man 4 crosses the first interval; Men 5–7 ascend through the upper register toward the octave. No position crosses the intervals unaided. The practical prescription varies by position; the structural requirement at each interval is identical.</figcaption>
+<img src="/static/images/blake-glad-day.jpg" alt="William Blake, Glad Day (The Dance of Albion)" style="max-width:100%;">
+<figcaption><em>William Blake, Glad Day / The Dance of Albion</em> (c. 1796). Colour print with ink and watercolour. Tate, London. The liberated human figure at dawn, arms outstretched — the ascending career's terminal state rendered in light. Not a ceiling to be contemplated from outside, but a destination: the person who knows who she is and where she is going, whose life is the practice.</figcaption>
 </figure>
 
 # Section IV — The Seven Men

@@ -5,8 +5,8 @@ tags:
 ---
 
 <figure>
-<img src="/static/images/section-iii-wide-reading.jpg" alt="Independent convergences on a single structural reality" style="max-width:100%;">
-<figcaption>The evidential structure of Section III: independent traditions, separated by centuries and operating without contact with each other or the framework, each converging on the same structural features the Gelfand triple derives. Plato identified the Mi–Fa gap. Aristotle named the Si–Do gap. Augustine underwent it personally. The convergence is not imposed; it is found.</figcaption>
+<img src="/static/images/bonaiuto-triumph-aquinas.jpg" alt="Andrea Bonaiuto, Triumph of St. Thomas Aquinas" style="max-width:100%;">
+<figcaption><em>Andrea Bonaiuto, Triumph of St. Thomas Aquinas</em> (1365). Fresco, Spanish Chapel, Santa Maria Novella, Florence. Plato and Aristotle flank Aquinas at the centre; the personifications of the sciences and liberal arts are arrayed below; the heretics lie at his feet. The image is the claim of Section III: that the philosophical tradition, read structurally, converges on what the framework derives independently.</figcaption>
 </figure>
 
 # Section III — The Wide Reading
