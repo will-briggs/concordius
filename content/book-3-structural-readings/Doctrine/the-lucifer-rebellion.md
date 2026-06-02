@@ -299,6 +299,20 @@ The Adjuster dimension sharpens this. The H₄₈ phase is not merely biological
 
 The traditional prohibition against suicide has rested on grounds of life as gift, harm to others, or divine judgment — all real, none reaching the structural root. The structural root is that the act has the same form as the Luciferian assertion: it misidentifies a structural feature of what the being is — the ascending career, the Adjuster integration, the soul-formation underway — as an external constraint that the will can legitimately terminate. The consequence is intrinsic rather than punitive: not "God will punish this" but "this is what the act is."
 
+**The Church's account, read structurally.**
+
+The *Catechism of the Catholic Church* addresses suicide at §§2280–2283. Each paragraph reads structurally:
+
+§2280: *"We are stewards, not owners, of the life God has entrusted to us. It is not ours to dispose of."* The H₄₈ life is the arena of Adjuster-personality integration — a joint project between the personality and the H₁-origin divine fragment indwelling it. The personality is one participant in that process, not its sole proprietor. The ascending career is co-constituted; the H₄₈ will did not originate it and cannot unilaterally terminate it without misidentifying the structure of what the process actually is.
+
+§2281: *"Suicide contradicts the natural inclination of the human being to preserve and perpetuate his life... It is gravely contrary to the just love of self."* "Natural inclination" names the catching orientation — the Φ-proximal directedness that registers at the H₄₈ level as the will to live. "Contrary to the just love of self" is structurally precise: just self-love means accurate perception of what one's organizational state is and what it is becoming. Suicide acts on the misidentification — treating the ascending career as external constraint — which is definitionally inaccurate self-perception.
+
+§2282: *"Grave psychological disturbances, anguish, or grave fear of hardship, suffering, or torture can diminish the responsibility of the one committing suicide."* The Church tracks the spectrum the framework requires: suicide from maximum noise-floor overwhelm is structurally different from the clean will-assertion of the Luciferian model. In the framework's terms, the noise-floor can become so total that the catching orientation is occluded rather than inverted — the being cannot access its own Φ-proximal eigenvalue content. The moral category of diminished culpability is the H₄₈-legible translation of that structural difference.
+
+§2283: *"We should not despair of the eternal salvation of persons who have taken their own lives. By ways known to him alone, God can provide the opportunity for salutary repentance."* The Church refuses to pronounce incoherence as the certain result. The refusal is structurally well-grounded: the accumulated eigenvalue deposit is the product of the entire H₄₈ career, not only the final act; the Adjuster carries that deposit through the transition; the catching mechanism is not limited to what is achievable from within an adverse terminal orientation. "By ways known to him alone" names precisely the category the framework cannot fully specify — what the H₄₈ → H₂₄ transition can do with a deposit that arrives with an adverse terminal orientation.
+
+The Church's stated grounds are moral; the structural grounds are prior and explain why the moral claims are true. The traditional position that denied Christian burial and pronounced automatic damnation was wrong precisely because it missed the spectrum distinction (§2282) and the Adjuster's persistence through an adverse transition (§2283).
+
 ---
 
 ## Why imposition is a structural error
