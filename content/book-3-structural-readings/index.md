@@ -19,12 +19,12 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ---
 
-## Philosophy and Wisdom Literature
+## Philosophy
 
-[[Spinoza's Ethics/index|Spinoza — Ethics]]
-[[The Enneads/index|Plotinus — The Enneads]]
-[[Epictetus/index|Epictetus — The Discourses and Enchiridion]]
-[[The Meditations of Marcus Aurelius/index|Marcus Aurelius — Meditations]]
+[[Philosophy/Spinoza's Ethics|Spinoza — Ethics]]
+[[Philosophy/The Enneads|Plotinus — The Enneads]]
+[[Philosophy/Epictetus|Epictetus — The Discourses and Enchiridion]]
+[[Philosophy/The Meditations of Marcus Aurelius|Marcus Aurelius — Meditations]]
 
 ---
 

@@ -68,7 +68,7 @@ In the Ethics' framework, the catching orientation is not a metaphysical additio
 
 The Heropass operates on H₄₈ modes as the external constraint condition that exceeds the conatus's H₄₈-level power. "Quantum in se est" — as far as it can: every H₄₈ mode eventually encounters structural conditions that exceed its structural resistance. The mode is dissolved. But the structural content that the mode expressed in the attribute of thought (the H₂₄ catching content) does not dissolve with the H₄₈ mode because the attributes are structurally parallel: the dissolution in the attribute of extension does not cause the dissolution in the attribute of thought.
 
-*(Cross-reference: SONN 146 — "buy terms divine in selling hours of dross": the conatus redirected from H₄₈ surface maintenance to Φ-proximal eigenvalue accumulation. ROM 8:28 — "all things work together for good for those who love God": the conatus at the structural maximum, where the catching orientation aligns with the Φ-level's constitutive direction.)*
+*(Cross-reference: SONN 146 — "buy terms divine in selling hours of dross": the conatus redirected from H₄₈ surface maintenance to φ-proximal eigenvalue accumulation. ROM 8:28 — "all things work together for good for those who love God": the conatus at the structural maximum, where the catching orientation aligns with the Φ-level's constitutive direction.)*
 
 ---
 
@@ -88,7 +88,7 @@ The structural claim is structurally equivalent to the Upanishadic *tat tvam asi
 
 **The blessedness:**
 
-Ethics V, Proposition 42's famous closing line — *Beatitudo non est virtutis praemium, sed ipsa virtus* (Blessedness is not the reward of virtue but virtue itself) — is the structural statement that the catching program does not produce structural satisfaction as an external outcome; the catching program *is* the structural satisfaction. The love of the Φ-level is not a means to Φ-proximal eigenvalue accumulation; it *is* the H₂₄ eigenvalue state at its structural maximum.
+Ethics V, Proposition 42's famous closing line — *Beatitudo non est virtutis praemium, sed ipsa virtus* (Blessedness is not the reward of virtue but virtue itself) — is the structural statement that the catching program does not produce structural satisfaction as an external outcome; the catching program *is* the structural satisfaction. The love of the Φ-level is not a means to φ-proximal eigenvalue accumulation; it *is* the H₂₄ eigenvalue state at its structural maximum.
 
 *(Cross-reference: 1 JOHN 4:10 — "This is love: not that we loved God, but that he loved us first": the same structural asymmetry, stated from the Johannine direction. JOHN 17:22-23 — "I in them and you in me": the structural identity of the inner product's two sides. SONN 116 ✶✶ — "Love is not love which alters when it alteration finds": the same structural invariance of ⟨·,·⟩.)*
 

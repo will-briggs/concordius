@@ -1,0 +1,14 @@
+---
+title: Philosophy
+---
+
+# A Structural Reading of Western Philosophy
+
+The readings in this section apply the Concordius framework to texts in the Western philosophical tradition that arrived at structural descriptions of the same reality the framework derives mathematically. These are not approximations or partial views — they are independent convergences from thinkers who had no access to the framework's sources and who were working by entirely different methods.
+
+The significance of this independence cannot be overstated. When Plotinus, Spinoza, Epictetus, and Marcus Aurelius — separated by centuries and working within entirely different philosophical traditions — each identify the same structural features the framework derives from the Gelfand triple, the convergence is evidence that both are tracking something structurally real.
+
+- [[Epictetus]]
+- [[The Enneads]]
+- [[The Meditations of Marcus Aurelius]]
+- [[Spinoza's Ethics]]
