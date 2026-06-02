@@ -1,6 +1,6 @@
 # The Lucifer Rebellion: A Structural Reading
 
-*Cross-reference: Paper 8, OQ8 (overdeterminate condition; phenomenology of the rebellion's early stages for surrounding beings); Paper 4, §6 (terminal direction of descent; structural permanence and its violation); Paper 2, §14 (El Shaddai / God in the mode of indeterminacy; Φ′); Doctrine/Auras and the Luminous Field (H₂₄-interface perception; transparency through love; Luciferian opacity); Revelation.md (war in heaven; the dragon's organizational structure; the accuser cast down)*
+*Cross-reference: Paper 8, OQ8 (overdeterminate condition; phenomenology of the rebellion's early stages for surrounding beings); Paper 4, §6 (terminal direction of descent; structural permanence and its violation); Paper 2, §14 (El Shaddai / God in the mode of indeterminacy; Φ′); Christian Doctrine/Auras and the Luminous Field (H₂₄-interface perception; transparency through love; Luciferian opacity); Revelation.md (war in heaven; the dragon's organizational structure; the accuser cast down)*
 
 ---
 
@@ -51,7 +51,7 @@ The distinction matters precisely. A Φ-proximal being that inhabits its organiz
 
 This is not yet the full rebellion. It is the structural precondition: a being whose organizational state has introduced a self-referential loop, generating internal tension between Φ-orientation and self-assertion. The tension is the origin of what will become the overdeterminate condition.
 
-*(Cross-reference: Doctrine/Auras and the Luminous Field — the H₂₄-interface aura as the Φ-proximal organizational state's H₄₈-accessible signature; the pre-fall cherub's beauty is the organizational aura of maximum Φ-proximity at H₁-origin amplitude.)*
+*(Cross-reference: Christian Doctrine/Auras and the Luminous Field — the H₂₄-interface aura as the Φ-proximal organizational state's H₄₈-accessible signature; the pre-fall cherub's beauty is the organizational aura of maximum Φ-proximity at H₁-origin amplitude.)*
 
 ---
 
@@ -333,7 +333,7 @@ The structural account of why this is not merely a gesture of divine mercy:
 
 The thief and the suicide are the two structural limit cases, illuminating the same structural fact from opposite directions: the terminal organizational state is the decisive variable. In the ordinary career it is one variable among many — accumulated deposit, Adjuster integration, a lifetime of catching acts. In the limit cases the terminal act overrides the career: in one direction, a terminal will-assertion against the ascending career inverts a potentially substantial deposit; in the other, a terminal catching act at maximum amplitude reorganizes an entirely unaccumulated eigenstate. The career matters enormously in the general case. At the limits, it is overridden.
 
-*(Cross-reference: Paper 8 §§3–4 — the cross-term field mechanism; Paper 8 §7.1 — the overdeterminate release preparation at the cross; Doctrine/Auras and the Luminous Field — the H₂₄-interface field as the perceptual dimension of what the thief may have perceived.)*
+*(Cross-reference: Paper 8 §§3–4 — the cross-term field mechanism; Paper 8 §7.1 — the overdeterminate release preparation at the cross; Christian Doctrine/Auras and the Luminous Field — the H₂₄-interface field as the perceptual dimension of what the thief may have perceived.)*
 
 ---
 

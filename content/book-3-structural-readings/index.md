@@ -80,10 +80,10 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ## Doctrine
 
-[[Doctrine/The Eucharist: Transubstantiation|The Eucharist: Transubstantiation]]
-[[Doctrine/The Lucifer Rebellion|The Lucifer Rebellion]]
-[[Doctrine/The Magisterium|The Magisterium]]
-[[Doctrine/The Pre-Incarnation Saints|The Pre-Incarnation Saints]]
+[[Christian Doctrine/The Eucharist: Transubstantiation|The Eucharist: Transubstantiation]]
+[[Christian Doctrine/The Lucifer Rebellion|The Lucifer Rebellion]]
+[[Christian Doctrine/The Magisterium|The Magisterium]]
+[[Christian Doctrine/The Pre-Incarnation Saints|The Pre-Incarnation Saints]]
 
 ---
 # The Framework and Method
