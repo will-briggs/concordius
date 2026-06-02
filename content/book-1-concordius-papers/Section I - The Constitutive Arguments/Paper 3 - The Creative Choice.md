@@ -15,8 +15,8 @@ The first two papers in this series established, from two assumptions, the compl
 ---
 
 <figure>
-<img src="/static/images/dore-lucifer.jpg" alt="Doré — Lucifer" style="max-width:100%;">
-<figcaption><em>Gustave Doré, Lucifer</em> (1866), illustration for Milton's <em>Paradise Lost</em>. The Creative Choice opens an organizational space in which the inversion of catching alignment is possible. Lucifer is the paradigm consequence: maximum organizational development, maximum proximity to the constitutive ground, catching alignment inverted. The grandeur is real; the direction is wrong.</figcaption>
+<img src="/static/images/turner-light-and-colour.jpg" alt="J. M. W. Turner, Light and Colour (Goethe's Theory) — The Morning after the Deluge — Moses Writing the Book of Genesis" style="max-width:100%;">
+<figcaption><em>J. M. W. Turner, Light and Colour (Goethe's Theory) — The Morning after the Deluge — Moses Writing the Book of Genesis</em> (1843). Tate Britain, London. The Creative Choice is the originating act — the free compression of the infinite-dimensional Φ-space into a specific organizational trajectory, the moment at which the constitutive ground selects one eigenbasis from the continuum of possibilities and calls it creation. Turner paints what that selection looks like from inside it: pure light organizing itself out of formless radiance, the vortex of color that is neither chaos nor finished form but the moment between them — the Creative Choice in its first free expression.</figcaption>
 </figure>
 
 ## 1. Introduction
