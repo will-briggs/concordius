@@ -1,7 +1,7 @@
 # Modeling Reality as a Gelfand Triple: Two Complementary Projections of Complete Structure
 
 <figure>
-<img src="/images/raphael-school-of-athens.jpg" alt="The School of Athens" style="max-width:100%;">
+<img src="/static/images/raphael-school-of-athens.jpg" alt="The School of Athens" style="max-width:100%;">
 <figcaption><em>Raphael, The School of Athens</em> (1509–11). Apostolic Palace, Vatican. Plato gestures toward the Forms; Aristotle toward the particular. The framework resolves the dispute from a common structural ground — the inner product from which both the universal and the particular necessarily emerge.</figcaption>
 </figure>
 

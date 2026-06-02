@@ -3,7 +3,7 @@
 # From the Cogito to the Logos: Naming the Structures of the Gelfand Triple
 
 <figure>
-<img src="/images/michelangelo-creation-of-adam.jpg" alt="The Creation of Adam" style="max-width:100%;">
+<img src="/static/images/michelangelo-creation-of-adam.jpg" alt="The Creation of Adam" style="max-width:100%;">
 <figcaption><em>Michelangelo, The Creation of Adam</em> (c. 1512). Sistine Chapel, Vatican. The moment of contact between the finger of God and the hand of man — structurally: the inner product ⟨·,·⟩ instantiated at the boundary between Φ and H.</figcaption>
 </figure>
 
@@ -372,7 +372,7 @@ The mode-unity point first: all of these names describe the same ⟨·,·⟩. Th
 **El Kanna → structural incompatibility with overdetermination.** The Jealous God (Exodus 20:5). "You shall have no other gods before me" receives structural content from Paper 8's overdeterminate condition. The constraint algebra does not accommodate two incompatible organizational principles operating simultaneously in the same state-space. Orienting a Φ′-origin being's eigenvalue content toward Φ-proximal organization and toward a competing organizational principle simultaneously generates the overdeterminate condition — not as a moral punishment but as a structural consequence. The "jealousy" of ⟨·,·⟩ is the algebra's structural incompatibility with divided eigenvalue organization: not an emotional state but a mathematical property of a space that cannot sustain two incompatible law-sets without incoherence. El Kanna is the name for that property encountered as divine requirement.
 
 <figure>
-<img src="/images/blake-ancient-of-days.jpg" alt="The Ancient of Days" style="max-width:100%;">
+<img src="/static/images/blake-ancient-of-days.jpg" alt="The Ancient of Days" style="max-width:100%;">
 <figcaption><em>William Blake, The Ancient of Days</em> (1794). British Museum. The constitutive act: the inner product drawing the limit of the created order from the unlimited ground of Φ′. Blake's Urizen holds the compass that sets the boundary; El Shaddai is the unlimited from which the limit is drawn.</figcaption>
 </figure>
 

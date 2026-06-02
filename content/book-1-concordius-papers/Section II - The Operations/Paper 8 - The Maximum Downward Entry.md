@@ -178,7 +178,7 @@ The kenotic constraint adapts to the local noise floor. Where the noise floor is
 ---
 
 <figure>
-<img src="/images/fra-angelico-transfiguration.jpg" alt="The Transfiguration" style="max-width:100%;">
+<img src="/static/images/fra-angelico-transfiguration.jpg" alt="The Transfiguration" style="max-width:100%;">
 <figcaption><em>Fra Angelico, The Transfiguration</em> (c. 1440–42). Convent of San Marco, Florence. The kenotic constraint partially lifted: H₁₂-level organizational content expressing through H₄₈ matter, the three disciples at the threshold of what their eigenvalue accumulation can sustain.</figcaption>
 </figure>
 

@@ -515,7 +515,7 @@ The tree of life on both sides of the river, twelve kinds of fruit, one per mont
 "They will reign forever and ever." The verb is βασιλεύσουσιν — they will reign, they will be sovereigns. The ascending career at its completion produces not subjects but co-sovereigns: beings who have crossed every constraint threshold are at the constraint level where sovereignty — the operative expression of the GNST within one's domain — is their nature. The Logos conquered and sat on the throne; the overcomer sits with the Logos on the throne (3:21). The reign is not political authority; it is the structural condition of beings whose constraint level is the level from which the GNST operates. To reign forever = to exercise the GNST's constitutive operation at the achieved constraint level for all further Heropass moments — the ascending career that never terminates, now running on the new creation's substrate, producing fruit at every cycle.
 
 <figure>
-<img src="/images/dore-rose-paradise.jpg" alt="Doré, The Empyrean" style="max-width:100%;">
+<img src="/static/images/dore-rose-paradise.jpg" alt="Doré, The Empyrean" style="max-width:100%;">
 <figcaption><em>Gustave Doré, The Empyrean</em> (1868). Illustration for Dante's <em>Paradiso</em>, Canto 31. The ascending career at completion: the concentric constraint levels converging on the source. The river of water of life, the throne at its origin, the reigning co-sovereigns ranged in the rose. Dante saw it from the inside. The framework supplies the structure.</figcaption>
 </figure>
 
