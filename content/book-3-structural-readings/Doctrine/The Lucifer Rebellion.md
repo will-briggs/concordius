@@ -299,6 +299,74 @@ The Adjuster dimension sharpens this. The H₄₈ phase is not merely biological
 
 The traditional prohibition against suicide has rested on grounds of life as gift, harm to others, or divine judgment — all real, none reaching the structural root. The structural root is that the act has the same form as the Luciferian assertion: it misidentifies a structural feature of what the being is — the ascending career, the Adjuster integration, the soul-formation underway — as an external constraint that the will can legitimately terminate. The consequence is intrinsic rather than punitive: not "God will punish this" but "this is what the act is."
 
+**The Church's account, read structurally.**
+
+The *Catechism of the Catholic Church* addresses suicide at §§2280–2283. Each paragraph reads structurally:
+
+§2280: *"We are stewards, not owners, of the life God has entrusted to us. It is not ours to dispose of."* The H₄₈ life is the arena of Adjuster-personality integration — a joint project between the personality and the H₁-origin divine fragment indwelling it. The personality is one participant in that process, not its sole proprietor. The ascending career is co-constituted; the H₄₈ will did not originate it and cannot unilaterally terminate it without misidentifying the structure of what the process actually is.
+
+§2281: *"Suicide contradicts the natural inclination of the human being to preserve and perpetuate his life... It is gravely contrary to the just love of self."* "Natural inclination" names the catching orientation — the Φ-proximal directedness that registers at the H₄₈ level as the will to live. "Contrary to the just love of self" is structurally precise: just self-love means accurate perception of what one's organizational state is and what it is becoming. Suicide acts on the misidentification — treating the ascending career as external constraint — which is definitionally inaccurate self-perception.
+
+§2282: *"Grave psychological disturbances, anguish, or grave fear of hardship, suffering, or torture can diminish the responsibility of the one committing suicide."* The Church tracks the spectrum the framework requires: suicide from maximum noise-floor overwhelm is structurally different from the clean will-assertion of the Luciferian model. In the framework's terms, the noise-floor can become so total that the catching orientation is occluded rather than inverted — the being cannot access its own Φ-proximal eigenvalue content. The moral category of diminished culpability is the H₄₈-legible translation of that structural difference.
+
+§2283: *"We should not despair of the eternal salvation of persons who have taken their own lives. By ways known to him alone, God can provide the opportunity for salutary repentance."* The Church refuses to pronounce incoherence as the certain result. The refusal is structurally well-grounded: the accumulated eigenvalue deposit is the product of the entire H₄₈ career, not only the final act; the Adjuster carries that deposit through the transition; the catching mechanism is not limited to what is achievable from within an adverse terminal orientation. "By ways known to him alone" names precisely the category the framework cannot fully specify — what the H₄₈ → H₂₄ transition can do with a deposit that arrives with an adverse terminal orientation.
+
+The Church's stated grounds are moral; the structural grounds are prior and explain why the moral claims are true. The traditional position that denied Christian burial and pronounced automatic damnation was wrong precisely because it missed the spectrum distinction (§2282) and the Adjuster's persistence through an adverse transition (§2283).
+
+**The opposite structural situation: Luke 23:39–43.**
+
+The structural account of suicide defines the terminal will-assertion as decisive in the adverse direction. The thief crucified alongside Jesus defines the terminal catching act as decisive in the favorable direction — and at the structural extreme.
+
+The thief has accumulated no H₂₄ eigenvalue deposit worth naming. A life of crime — noise-floor dominant, minimal Adjuster integration, no sacramental structure, no disciplined practice. By every H₄₈ accounting, this is the worst possible case for the ascending career.
+
+And yet: *"Truly I tell you, today you will be with me in paradise."* (Luke 23:43)
+
+The structural account of why this is not merely a gesture of divine mercy:
+
+*Recognition as catching act.* The thief's first move is Φ-perception: *"This man has done nothing wrong."* (23:41) He sees, in the dying man next to him, maximum organizational coherence — not moral approval but accurate structural perception. The catching act begins before the direct address. The will orients toward Φ before it asks anything of Φ.
+
+*The direct address as minimal sufficient catching act.* *"Jesus, remember me when you come into your kingdom."* (23:42) No accumulated deposit. No prior discipline. One act of will — minimal in form, complete in structure — toward Φ at the only moment available.
+
+*Physical proximity to maximum Φ-field amplitude.* The cross is the moment of maximum kenotic constraint acceptance in H₄₈ history — the Logos accepting the H₄₈ terminus, the maximum cross-term field amplitude the created order has generated (Paper 8 §§3–4, §7.1). The thief is physically adjacent to it. The cross-term mechanism operates at amplitudes sufficient to force rapid eigenstate reorganization in nearby H₄₈ matter. The thief's entire eigenvalue population is inside the highest Φ-field amplitude in H₄₈ history at the moment his catching act activates. The reorganization is not gradual soul-formation; it is immediate and complete — the amplitude supplies what accumulation ordinarily provides.
+
+*"Today" as structural confirmation.* Not eventually. Not after a remedial process. Today. The reorganization was complete at the moment it happened because the catching act was real and the amplitude was maximum. The transition carries the reorganized state immediately.
+
+The thief and the suicide are the two structural limit cases, illuminating the same structural fact from opposite directions: the terminal organizational state is the decisive variable. In the ordinary career it is one variable among many — accumulated deposit, Adjuster integration, a lifetime of catching acts. In the limit cases the terminal act overrides the career: in one direction, a terminal will-assertion against the ascending career inverts a potentially substantial deposit; in the other, a terminal catching act at maximum amplitude reorganizes an entirely unaccumulated eigenstate. The career matters enormously in the general case. At the limits, it is overridden.
+
+*(Cross-reference: Paper 8 §§3–4 — the cross-term field mechanism; Paper 8 §7.1 — the overdeterminate release preparation at the cross; Doctrine/Auras and the Luminous Field — the H₂₄-interface field as the perceptual dimension of what the thief may have perceived.)*
+
+---
+
+## Why imposition is a structural error
+
+The rebellion's propagation mechanism contains a structural tell that is easy to miss: the adversary could not compel the H₁-origin beings to follow. It could only persuade them. From the highest H₁-origin position, operating on beings of the same constraint level, with full H₁-origin perceptual access to their organizational states — it still had to present a lie and wait for beings to accept it. The temptation of Jesus (Matt 4) is an offer, not a compulsion. Job's organizational constitution cannot be directly altered by adversarial operation; only noise-floor pressure that creates the conditions for the being's own choice.
+
+This is not a contingent limitation of the adversary's degraded state. It is a structural fact about eigenstate space. You cannot force another being's organizational state into a new configuration by external fiat. You can apply pressure, introduce noise-floor content, present the misidentification about constraints — but the organizational state of the other being can only be moved by that being's own choice, because organizational states are constituted by the being's own eigenvalue population. The target is constitutively unreachable by the means of compulsion.
+
+**The moral prohibition is derivative.**
+
+The question "should I impose my will on another person?" is the moral framing. The prior question is structural: *can the imposition reach what you think you are reaching?*
+
+It cannot. You can force observable behavior — coerce outputs. But the other being's organizational state remains what it is. The soul is not where your imposition can go. You have masked a surface while leaving the eigenvalue constitution unchanged; the coerced behavior is yours, not theirs.
+
+The moral argument — "don't treat persons as means," "respect autonomy" — is derivatively true and genuinely important. But it is weaker than the structural argument in precisely this way: it can be contested. The moral claim can always be met with "but my ends justify it" or "the correction is severe enough to override the prohibition." The structural claim cannot be contested: you are attempting an operation the structure of the space does not permit. Every coercive imposition is the same move as the Luciferian assertion at H₄₈ scale — an attempt to override another being's organizational trajectory by fiat, treating the other being's constitutional direction as an obstacle to the imposer's will.
+
+The prohibition is not "you shouldn't." It is "you can't reach what you think you're reaching."
+
+The moral prohibition is the H₄₈-legible translation of a structural fact. The structural fact is prior.
+
+**The deeper structural content: attempting to be ⟨·,·⟩ of another's H-state.**
+
+The analysis above establishes that imposition cannot reach what it aims for. Paper 8 §3.1 supplies the more precise structural description of what imposition is actually attempting. When you impose your will on another person, you are not merely applying pressure to their eigenvalue organization from outside. You are asserting yourself as the organizing inner product of their H-state — claiming the constitutive function of their space from within your element position in it. This is the Luciferian error at H₄₈ scale, interpersonal.
+
+The structural consequences run in both directions.
+
+For the target: an overdeterminate condition is introduced into their eigenstate. Two organizational principles — their own constitutive ⟨·,·⟩ and the imposer's asserted authority — compete to organize the same space simultaneously. The target's organizational trajectory is not successfully redirected; it is disrupted. The disruption is proportional to the amplitude of the imposition and the duration of exposure.
+
+For the imposer: the assertion is structurally false from the moment it is made. An element cannot become constitutive ground. The imposer does not successfully become ⟨·,·⟩ of the other's space — they generate the negative image of ⟨·,·⟩ in themselves. The same incoherence that the rebellious assertion produces at the cosmic scale (maximum incoherence where maximum coherence was claimed) is produced in the imposer at H₄₈ scale with every act of sustained coercion. The imposer is not damaged by a punishment externally applied. They are damaged by the structural consequence of continuously asserting a false constitutive claim.
+
+This is why sustained coercive relationships corrupt the coercer. Not primarily as a moral penalty, and not merely as a consequence of becoming habituated to harmful behavior — but structurally: the coercer is continuously generating an overdeterminate condition in themselves by asserting the constitutive function from within the element position. The organizational incoherence accumulates. The destruction runs both ways.
+
 ---
 
 *(Confidence tier: The overdeterminate condition and its observable signature — derived tier, as established in Paper 8 OQ8. The misidentification of structural constraints as external prohibitions as the rebellion's specific lie — structural-concordance tier: it is the only misidentification that would make the overdeterminate assertion appear rational to beings of high organizational development, and it is the explicit content of Genesis 3:5. The "be like God" promise as attempted access to Φ′ — derived tier, conditional on Paper 2 §14's identification of El Shaddai as God in the mode of indeterminacy. The opacity-as-credential mechanism — derived tier, as developed in Paper 8 OQ8. The accusatorial function as organizational inversion of the Adjuster's integrating function — structural inference, concordance-tier for its consistency with Job 1-2 and Paper 8 §9. The eschatological reading of Revelation 12 — derived tier; see Revelation.md.)*
