@@ -56,6 +56,12 @@ Thematic readings across the biblical corpus, organized by subject rather than b
 
 ---
 
+**Event Readings**
+
+- [[The Passion Octave|The Passion Octave]]
+
+---
+
 **The Twelve Apostles**
 
 - [[The Twelve Apostles/The Eleven and Matthias|The Eleven and Matthias]]
