@@ -24,6 +24,11 @@ A secondary result: the photon's masslessness is not an exception to this pictur
 
 ---
 
+<figure>
+<img src="/static/images/pantocrator-cefalu.jpg" alt="Christ Pantocrator, Cefalù" style="max-width:100%;">
+<figcaption><em>Christ Pantocrator</em>, Cathedral of Cefalù (c. 1148). The gold ground eliminates spatial context; what remains is the organizing center of the physical order itself. The Higgs field condenses at H₄₈ — the constraint level at which mass-generating symmetry breaks — and the Pantocrator is what rules that level.</figcaption>
+</figure>
+
 ## 1. Introduction
 
 This paper addresses *what the GNST is running on* — the specific spectral content of the operator whose eigenstates are being selected. The operator is the physical Hamiltonian. The physical Hamiltonian's spectrum determines whether the GNST's continuous eigenstate succession is structured or featureless.

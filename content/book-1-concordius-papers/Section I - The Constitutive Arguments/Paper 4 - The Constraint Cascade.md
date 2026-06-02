@@ -14,6 +14,11 @@ The first three papers in this series established the eternal structure (Paper 1
 
 ---
 
+<figure>
+<img src="/static/images/blake-ancient-of-days.jpg" alt="The Ancient of Days" style="max-width:100%;">
+<figcaption><em>William Blake, The Ancient of Days</em> (1794). British Museum. Urizen extends his compass into the void: the measuring function imposing organizational structure through successive constraint levels. The Constraint Cascade is the organizational implication of this act — from H₁ through H₄₈, each level tightening the constraint law-set on the one below.</figcaption>
+</figure>
+
 ## 1. Introduction
 
 Paper 3 ended at a precise location. The Gelfand nuclear spectral theorem, once the [[Appendix I - Dictionary of Terms#Father|Father]] assumes the throne of the Universal Absolute and begins to operate it, produces time and space: each collapse event is a "now," each localization is a "where," and the sequence of events constitutes the universe. The mechanism is in the mathematics. The act of beginning is not.

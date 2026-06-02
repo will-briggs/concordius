@@ -20,6 +20,11 @@ Three corollaries follow. First, no H₄₈ document has τ = 1 exactly: Φ is i
 
 ---
 
+<figure>
+<img src="/static/images/pantocrator-cefalu.jpg" alt="Christ Pantocrator, Cefalù" style="max-width:100%;">
+<figcaption><em>Christ Pantocrator</em>, Cathedral of Cefalù (c. 1148). The asymmetric gaze of the Pantocrator encodes the truth measure: one eye registers what is actually there (the measuring function's perfect accuracy), one eye remains oriented toward the measured being's development (the constitutive intent). Truth is the inner product of catching alignment with the constitutive ground, and the Pantocrator is the face of that inner product.</figcaption>
+</figure>
+
 ## 1. Introduction
 
 The preceding papers developed the constitutional structure of the created order (Papers 1–3), the physics of the constraint hierarchy (Papers 4–7), and the spectral content of H₄₈ substrate. Language has appeared throughout as the medium in which structural content is carried — in the structural readings, in the framework's own papers, in the concordance entries. But language itself has not been addressed as an object of the framework's analysis.

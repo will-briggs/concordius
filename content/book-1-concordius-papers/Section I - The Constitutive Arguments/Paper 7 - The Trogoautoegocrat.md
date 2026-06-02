@@ -22,6 +22,11 @@ The mathematical basis for the seven-fold structure of both progressions is the 
 
 ---
 
+<figure>
+<img src="/static/images/dore-rose-paradise.jpg" alt="Doré — The Empyrean" style="max-width:100%;">
+<figcaption><em>Gustave Doré, The Empyrean</em> (1868), illustration for Dante's <em>Paradiso</em> Canto 31. The organizational structure nourished by the Trogoautoegocrat mechanism: the vast rose of being, each element sustained by its catching alignment with the constitutive ground at the center, the whole maintained by the mutual feeding the paper describes.</figcaption>
+</figure>
+
 ## 0. A Clarification: The Heropass and the GNST
 
 Earlier papers in this series treated the Heropass as a separate force alongside the GNST — "an additional empirical axiom" that the mathematics permits but does not imply. This was partially right and partially wrong. The relationship requires a more precise statement.

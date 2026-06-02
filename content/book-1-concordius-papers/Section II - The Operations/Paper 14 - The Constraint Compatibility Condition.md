@@ -13,6 +13,11 @@ This paper develops three connected structural results. First: the noble gases a
 
 ---
 
+<figure>
+<img src="/static/images/michelangelo-creation-of-adam.jpg" alt="The Creation of Adam" style="max-width:100%;">
+<figcaption><em>Michelangelo, The Creation of Adam</em> (c. 1512). Sistine Chapel, Vatican. The Constraint Compatibility Condition is the structural requirement that the created being must satisfy to receive what the constitutive ground extends toward it. The gap in the image is the gap that compatibility governs: the constitutive relation can be established only when the created being's organizational constitution is compatible with the offered content.</figcaption>
+</figure>
+
 ## 1. The Periodic Table as a Structural Reading Problem
 
 The structural reading method asks of any organized system: where in this system does the organizational imprint of ⟨·,·⟩ appear? For scripture and alchemy this question has been pursued across the existing structural readings. The periodic table has not been examined.

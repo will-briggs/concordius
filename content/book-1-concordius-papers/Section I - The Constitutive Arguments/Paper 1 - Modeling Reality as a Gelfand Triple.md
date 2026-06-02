@@ -1,10 +1,5 @@
 # Modeling Reality as a Gelfand Triple: Two Complementary Projections of Complete Structure
 
-<figure>
-<img src="/static/images/raphael-school-of-athens.jpg" alt="The School of Athens" style="max-width:100%;">
-<figcaption><em>Raphael, The School of Athens</em> (1509–11). Apostolic Palace, Vatican. Plato gestures toward the Forms; Aristotle toward the particular. The framework resolves the dispute from a common structural ground — the inner product from which both the universal and the particular necessarily emerge.</figcaption>
-</figure>
-
 ---
 
 ## Abstract
@@ -12,6 +7,11 @@
 This paper argues that modeling reality as a rigged [[Appendix I - Dictionary of Terms#Hilbert Space|Hilbert space]] — the [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand triple]] Φ ⊂ H ⊂ Φ′ — reveals two complementary and complete projections of the structure of any inner-product-based model of reality. The first projection identifies three inevitable domains: a [[Appendix I - Dictionary of Terms#Nuclear Space|nuclear space]] Φ of maximum structure, a self-dual Hilbert space H of complete structured states, and a distributional dual Φ′ of excess potential. The second projection identifies five inevitable actualities that emerge from the [[Appendix I - Dictionary of Terms#Inner Product|inner product]]'s own structure: the [[Appendix I - Dictionary of Terms#Fundamental Relation|fundamental relation]], the [[Appendix I - Dictionary of Terms#Nuclear Structure|nuclear structure]], the [[Appendix I - Dictionary of Terms#Metric Absolute|metric absolute]], the [[Appendix I - Dictionary of Terms#Nuclear Topology|nuclear topology]], and the realized nuclear space. Both projections are shown to be necessary consequences of the mathematics rather than additional assumptions. The paper further argues that the inner product ⟨·,·⟩ — invariant across all three domains — occupies a foundational position that the standard Hilbert space formalism does not make explicit. A structural consequence of the second projection is that the active coordinative structure (the nuclear topology) proceeds necessarily from both the fundamental relation and the nuclear structure jointly — neither alone suffices. Implications for the philosophy of physics are noted. The question of the observing subject is explicitly deferred.
 
 ---
+
+<figure>
+<img src="/static/images/raphael-school-of-athens.jpg" alt="The School of Athens" style="max-width:100%;">
+<figcaption><em>Raphael, The School of Athens</em> (1509–11). Apostolic Palace, Vatican. Plato gestures toward the Forms; Aristotle toward the particular. The framework resolves the dispute from a common structural ground — the inner product from which both the universal and the particular necessarily emerge.</figcaption>
+</figure>
 
 ## 1. Introduction
 

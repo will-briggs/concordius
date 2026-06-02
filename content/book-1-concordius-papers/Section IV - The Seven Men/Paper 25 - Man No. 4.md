@@ -12,6 +12,11 @@
 
 ---
 
+<figure>
+<img src="/static/images/hildegard-scivias.jpg" alt="Hildegard — Scivias" style="max-width:100%;">
+<figcaption><em>Hildegard von Bingen receiving the vision</em>, frontispiece to <em>Scivias</em> (c. 1151). Man No. 4 is the first type to develop a balanced constitution — intellectual, emotional, and physical centers in functional integration. Hildegard is the paradigm Man No. 4 figure: the organizational development visible simultaneously across her theoretical framework, her music, her natural philosophy, and her institutional leadership.</figcaption>
+</figure>
+
 ## Structural Description
 
 **[[Appendix I - Dictionary of Terms#State Vector|State vector]]:** ψ₄ = ∫ f(λ) |φλ^H₂₄⟩ dμ(λ) + residual [[Appendix I - Dictionary of Terms#H₄₈|H₄₈]]

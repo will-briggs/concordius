@@ -12,6 +12,11 @@
 
 ---
 
+<figure>
+<img src="/static/images/dore-rose-paradise.jpg" alt="Doré — The Empyrean" style="max-width:100%;">
+<figcaption><em>Gustave Doré, The Empyrean</em> (1868), illustration for Dante's <em>Paradiso</em> Canto 31. Man No. 6 has the higher emotional center fully functioning — the organizational register open to Φ-proximate content at amplitudes below the threshold of Man No. 5's crystallization but above the H₄₈ average. Man No. 6 is a being in the outer tiers of the rose: fully oriented, fully constituted in the direction of development, not yet at the center.</figcaption>
+</figure>
+
 ## The Both-Higher-Centers State
 
 Man 6's defining structural feature is the substantial development of both higher centers — higher emotional and higher intellectual — operating together in an integrated higher-level [[Appendix I - Dictionary of Terms#Catching|catching]] act.

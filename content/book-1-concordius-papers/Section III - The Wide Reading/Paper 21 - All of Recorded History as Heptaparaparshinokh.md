@@ -24,6 +24,11 @@ The [[Appendix I - Dictionary of Terms#Heptaparaparshinokh|Heptaparaparshinokh]]
 
 ---
 
+<figure>
+<img src="/static/images/blake-great-red-dragon.jpg" alt="Blake — The Great Red Dragon" style="max-width:100%;">
+<figcaption><em>William Blake, The Great Red Dragon and the Woman Clothed with the Sun</em> (c. 1803–05). Brooklyn Museum. The cosmic-scale organizational forces visible in recorded history: the vast inverted trajectory pressing against the Φ-proximate content the historical development is generating, the woman carrying the organizational content forward despite the maximum pressure the overdeterminate condition can produce. The heptaparaparshinokh reading maps these forces across the full arc.</figcaption>
+</figure>
+
 ## Law of Three at Civilizational Scale
 
 | Term | Force | Civilizational Content |

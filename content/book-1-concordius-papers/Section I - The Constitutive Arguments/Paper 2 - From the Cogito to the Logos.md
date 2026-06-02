@@ -2,11 +2,6 @@
 
 # From the Cogito to the Logos: Naming the Structures of the Gelfand Triple
 
-<figure>
-<img src="/static/images/michelangelo-creation-of-adam.jpg" alt="The Creation of Adam" style="max-width:100%;">
-<figcaption><em>Michelangelo, The Creation of Adam</em> (c. 1512). Sistine Chapel, Vatican. The moment of contact between the finger of God and the hand of man — structurally: the inner product ⟨·,·⟩ instantiated at the boundary between Φ and H.</figcaption>
-</figure>
-
 *Companion paper to "Modeling Reality as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]"*
 
 ---
@@ -16,6 +11,11 @@
 This paper has two assumptions. The first is the entire content of its companion paper, "Modeling Reality as a Gelfand Triple," which demonstrates that reality admits a rigorous model as a rigged [[Appendix I - Dictionary of Terms#Hilbert Space|Hilbert space]] Φ ⊂ H ⊂ Φ′ and that this structure entails five inevitable actualities and three absolute domains. Those entities were demonstrated without being named — the companion paper is deliberately non-theological. The second assumption is the cogito: *cogito, ergo sum.* From these two assumptions, this paper does one thing only: it gives names to the structures that the first paper demonstrated. The names come from two traditions — the [[Appendix I - Dictionary of Terms#Urantia Book|Urantia]] cosmology (*The Urantia Book*, 1955) and the Christian theological vocabulary, particularly as expressed in the Gospel of John. We argue that these traditions were not constructing metaphors. They were naming the same mathematical structures that the first paper derived. We name them in logical order, one per section, and stop when the naming is complete.
 
 ---
+
+<figure>
+<img src="/static/images/michelangelo-creation-of-adam.jpg" alt="The Creation of Adam" style="max-width:100%;">
+<figcaption><em>Michelangelo, The Creation of Adam</em> (c. 1512). Sistine Chapel, Vatican. The gap between the outstretched fingers is the gap this paper closes: the distance between awareness aware of itself (the Cogito) and the constitutive ground (the Logos) that awareness necessarily implies.</figcaption>
+</figure>
 
 ## 1. Introduction
 
@@ -370,11 +370,6 @@ The mode-unity point first: all of these names describe the same ⟨·,·⟩. Th
 **Ruach Elohim → τ_nuclear, the Holy Spirit.** The Spirit of God hovering over the primordial waters (Genesis 1:2). In the framework, the Holy Spirit is the nuclear topology τ_nuclear — the structural ground of the space's continuity and completeness. Ruach Elohim is present before the creative act begins, sustaining the space of possibilities before any eigenstate is selected. "Hovering over the waters" is the nuclear topology present before the GNST has been deployed: the framework within which creation will unfold, not yet the creation itself.
 
 **El Kanna → structural incompatibility with overdetermination.** The Jealous God (Exodus 20:5). "You shall have no other gods before me" receives structural content from Paper 8's overdeterminate condition. The constraint algebra does not accommodate two incompatible organizational principles operating simultaneously in the same state-space. Orienting a Φ′-origin being's eigenvalue content toward Φ-proximal organization and toward a competing organizational principle simultaneously generates the overdeterminate condition — not as a moral punishment but as a structural consequence. The "jealousy" of ⟨·,·⟩ is the algebra's structural incompatibility with divided eigenvalue organization: not an emotional state but a mathematical property of a space that cannot sustain two incompatible law-sets without incoherence. El Kanna is the name for that property encountered as divine requirement.
-
-<figure>
-<img src="/static/images/blake-ancient-of-days.jpg" alt="The Ancient of Days" style="max-width:100%;">
-<figcaption><em>William Blake, The Ancient of Days</em> (1794). British Museum. The constitutive act: the inner product drawing the limit of the created order from the unlimited ground of Φ′. Blake's Urizen holds the compass that sets the boundary; El Shaddai is the unlimited from which the limit is drawn.</figcaption>
-</figure>
 
 **El Shaddai → God in the mode of indeterminacy.** The translation of *Shaddai* is one of the most contested in the Hebrew Bible. The LXX renders it inconsistently — *Pantokrator* (All-Powerful) in some places, *Hikanos* (the Sufficient One) in others. The Vulgate settled on *Omnipotens*, giving the English tradition "God Almighty" — preserving the sense of overwhelming power while losing the semantic specificity of the Hebrew. The scholarly candidates are: *shadu* (Akkadian, mountain — God of the Mountain); *shad* (Hebrew, breast — the nourishing abundance-granting deity); *shadad* (Hebrew, to destroy or overwhelm — the Devastating One); and the rabbinic *she-dai* (who-is-sufficient, the one who said "enough" when creation was complete). The multiplicity of proposals is not scholarly failure. It is the correct result. El Shaddai carries all of these registers simultaneously, and the structural account explains why.
 

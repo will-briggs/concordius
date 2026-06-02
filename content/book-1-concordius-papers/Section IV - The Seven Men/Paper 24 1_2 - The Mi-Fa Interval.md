@@ -14,6 +14,11 @@ The [[Appendix I - Dictionary of Terms#Mi-Fa Interval|Mi-Fa interval]] is the st
 
 ---
 
+<figure>
+<img src="/static/images/blake-satan-job.jpg" alt="Blake — Satan Smiting Job" style="max-width:100%;">
+<figcaption><em>William Blake, Satan Smiting Job with Sore Boils</em> (c. 1826). Tate Britain, London. The Mi-Fa interval requires a shock from outside the system to cross. The cross-term mechanism operating under maximum organizational pressure — the Jobian affliction — is the structural account of what that shock is: not punishment, but the eigenvalue population encountering the constitutive ground at an amplitude the noise floor normally prevents, under conditions that make the catching alignment impossible to mistake.</figcaption>
+</figure>
+
 ## 1. The Algebraic Derivation
 
 The [[Appendix I - Dictionary of Terms#Law of Seven|Law of Seven]] is derived from the grade topology of [[Appendix I - Dictionary of Terms#Cl(3,0)|Cl(3,0)]], the geometric algebra over three dimensions. The grades run from 0 (scalars) through 1 (vectors), 2 (bivectors), and 3 (pseudoscalar). Each grade has a characteristic squaring behavior under the algebra's geometric product:

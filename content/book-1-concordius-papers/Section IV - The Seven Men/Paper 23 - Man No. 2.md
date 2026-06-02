@@ -12,6 +12,11 @@
 
 ---
 
+<figure>
+<img src="/static/images/blake-ancient-of-days.jpg" alt="The Ancient of Days" style="max-width:100%;">
+<figcaption><em>William Blake, The Ancient of Days</em> (1794). British Museum. Man No. 2 is organized around the emotional center — the being who measures and defines experience through feeling. Blake's Urizen, compass extended over the void, captures the emotional center's characteristic mode: the world encountered through the constraint of felt response, evaluated through the weight of what is experienced rather than what is reasoned or done.</figcaption>
+</figure>
+
 ## Structural Description
 
 **[[Appendix I - Dictionary of Terms#State Vector|State vector]]:** ψ₂ = Σ bₙ |φₙ^H₂₄(emotional)⟩ + Σ aₙ |φₙ^H₄₈⟩

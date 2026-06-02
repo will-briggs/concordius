@@ -17,6 +17,11 @@ This paper derives the structural account of the family from first principles of
 
 ---
 
+<figure>
+<img src="/static/images/michelangelo-creation-of-adam.jpg" alt="The Creation of Adam" style="max-width:100%;">
+<figcaption><em>Michelangelo, The Creation of Adam</em> (c. 1512). Sistine Chapel, Vatican. The family is the organizational structure within which new eigenvalue populations receive their initial constitution. The gap in the image is the gap each new family member arrives to cross — bridged not by the individual but by the family's organizational environment, which is the spectral structure the paper maps.</figcaption>
+</figure>
+
 ## 1. The Question
 
 What is a family, structurally? Not sociologically, not legally, not biologically — but in terms of the framework's account of eigenvalue populations, catching environments, and Adjuster-bearing beings in relation.

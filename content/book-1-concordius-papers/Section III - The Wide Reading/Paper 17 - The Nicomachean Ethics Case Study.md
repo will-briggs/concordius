@@ -13,6 +13,11 @@ Aristotle's *Nicomachean Ethics* is the systematic attempt to derive the conditi
 
 ---
 
+<figure>
+<img src="/static/images/raphael-school-of-athens.jpg" alt="The School of Athens" style="max-width:100%;">
+<figcaption><em>Raphael, The School of Athens</em> (1509–11). Apostolic Palace, Vatican. Aristotle (right, holding the <em>Nicomachean Ethics</em>) extends his hand toward the observable world — toward H₄₈. The <em>Ethics</em>'s account of virtue as stable organizational states, of eudaimonia as the natural end of human development, and of phronesis as the practical capacity that integrates the others is the eigenvalue structure the paper reads against the framework.</figcaption>
+</figure>
+
 ## 1. The Text
 
 Papers 15 and 16 established the first half of the three-case sequence: Plato descends from ⟨·,·⟩ toward the resistant material; the *Republic* is the Active term in the Papers 16–18 Law of Three. This paper is the Passive term — the countermovement. Where Plato organizes experience from the top down, Aristotle begins in the middle: with the embedded human being, with received moral opinion, with the particular acts and habits from which character is built. The bottom-up ascent from particulars toward the universal is the Passive contribution to the philosophical triad, and its interval positions tell the same structural story as Plato's — approached from the opposite direction.

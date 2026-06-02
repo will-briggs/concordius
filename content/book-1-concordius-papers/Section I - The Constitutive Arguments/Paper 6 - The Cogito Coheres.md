@@ -20,6 +20,11 @@ The remainder of the paper examines the conditions under which catching occurs: 
 
 ---
 
+<figure>
+<img src="/static/images/hildegard-scivias.jpg" alt="Hildegard — Scivias" style="max-width:100%;">
+<figcaption><em>Hildegard von Bingen receiving the vision</em>, frontispiece to <em>Scivias</em> (c. 1151). The Cogito is not merely a logical inference — it is a structural fact about what awareness is. Hildegard's image encodes what the Cogito looks like when the coherence of awareness with its ground is experienced at high amplitude rather than merely argued.</figcaption>
+</figure>
+
 ## 1. Introduction
 
 Paper 5 established the physical substrate: the Higgs VEV at approximately 10⁻¹² seconds after the Big Bang is the moment at which H₄₈ crystallizes as a physically instantiated subspace with mass-gap-bounded constraint levels. From that moment, the constitutional algebra has a physical ground to instantiate.

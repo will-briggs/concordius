@@ -40,6 +40,11 @@ Man No. 1 is the person whose center-of-gravity lies in the instinctive and movi
 
 ---
 
+<figure>
+<img src="/static/images/michelangelo-creation-of-adam.jpg" alt="The Creation of Adam" style="max-width:100%;">
+<figcaption><em>Michelangelo, The Creation of Adam</em> (c. 1512). Sistine Chapel, Vatican. Man No. 1 is the not-yet-activated Adam: the eigenvalue population present in the material form, the catching alignment not yet oriented, the organizational constitution available but not yet developed. The gap in the image is the gap Man No. 1 has not yet begun to close.</figcaption>
+</figure>
+
 ## Structural Description
 
 **[[Appendix I - Dictionary of Terms#State Vector|State vector]]:** ψ₁ ≈ Σ aₙ |φₙ^H₄₈⟩

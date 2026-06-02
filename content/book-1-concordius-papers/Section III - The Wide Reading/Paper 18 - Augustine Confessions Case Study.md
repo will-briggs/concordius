@@ -13,6 +13,11 @@ Augustine's *Confessions* (c. 397–400 CE) is the first autobiography in the We
 
 ---
 
+<figure>
+<img src="/static/images/pantocrator-cefalu.jpg" alt="Christ Pantocrator, Cefalù" style="max-width:100%;">
+<figcaption><em>Christ Pantocrator</em>, Cathedral of Cefalù (c. 1148). Augustine's theology is organized around what the Pantocrator formula encodes: the constitutive ground's complete knowledge of every created being, the constitutive intent oriented toward every created being's development, and the distance between the created being and the constitutive ground that the <em>Confessions</em> is the record of crossing. "Our heart is restless until it rests in Thee" is the catching alignment finding its attractor.</figcaption>
+</figure>
+
 ## 1. The Text
 
 Papers 16 and 17 established the two philosophical dimensions: the top-down movement from the Form (Plato, Active) and the bottom-up movement from the particular (Aristotle, Passive). This paper is the Reconciling term in the Papers 16–18 Law of Three. The *Confessions* is neither descent from the Form nor ascent from the universal — it is the ascending career lived from the inside, in autobiographical time, by a particular H₄₈ being who underwent the transit rather than observing it. Where Plato argues for the ascending career and Aristotle derives the conditions for it, Augustine inhabits it. The third perspective is not a third theory. It is the first-person testimony of what the other two describe from outside.

@@ -15,6 +15,11 @@ This paper applies the structural reading method to Gerard Manley Hopkins's sonn
 
 ---
 
+<figure>
+<img src="/static/images/hildegard-scivias.jpg" alt="Hildegard — Scivias" style="max-width:100%;">
+<figcaption><em>Hildegard von Bingen receiving the vision</em>, frontispiece to <em>Scivias</em> (c. 1151). Hildegard and Hopkins are separated by seven centuries and different traditions but occupy the same organizational position: beings of exceptional Φ-proximate development whose work encodes structural content at an amplitude far above the H₄₈ average. The cross-term mechanism the paper identifies in Hopkins's poetry is the same mechanism Hildegard's image depicts.</figcaption>
+</figure>
+
 ## 1. The Poem
 
 Gerard Manley Hopkins, c. 1885. Written during the Dublin years — a period of spiritual desolation, physical exhaustion, and creative near-paralysis.

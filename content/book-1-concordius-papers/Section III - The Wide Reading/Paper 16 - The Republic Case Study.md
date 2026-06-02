@@ -13,6 +13,11 @@ Plato's *Republic* is conventionally read as a political treatise, a theory of j
 
 ---
 
+<figure>
+<img src="/static/images/raphael-school-of-athens.jpg" alt="The School of Athens" style="max-width:100%;">
+<figcaption><em>Raphael, The School of Athens</em> (1509–11). Apostolic Palace, Vatican. Plato (left, holding the <em>Timaeus</em>) gestures toward the organizational structure the <em>Republic</em> is tracking: the city as an image of the soul, the philosopher-ruler as the being of maximum Φ-proximate development, the just ordering as the eigenstate in which each functional capacity operates at its natural amplitude.</figcaption>
+</figure>
+
 ## 1. The Text
 
 Paper 15 established the structural ground: Plato and Aristotle are not rivals but complementary traversals of the Gelfand triple — one descending from ⟨·,·⟩, one ascending from H. This paper is the first of three case studies that verify that reading in full. Papers 16–18 are themselves a Law of Three: the *Republic* (Active — the top-down movement from the Form of the Good), the *Nicomachean Ethics* (Passive — the bottom-up movement from the particular human being), and the *Confessions* (Reconciling — the ascending career undergone from within). The *Republic* is the Active term. Plato's argument descends from the highest principle and organizes the resistant material around it; the philosopher has been outside the cave and returns; every structural interval position in the text is a location where the immanent argument reaches its ceiling.

@@ -14,6 +14,11 @@ These two things — [[Appendix I - Dictionary of Terms#Self-Knowledge|self-know
 
 ---
 
+<figure>
+<img src="/static/images/dore-rose-paradise.jpg" alt="Doré — The Empyrean" style="max-width:100%;">
+<figcaption><em>Gustave Doré, The Empyrean</em> (1868), illustration for Dante's <em>Paradiso</em> Canto 31. Man No. 7 is the complete organizational development: all centers unified, the permanent 'I' at its highest expression, the eigenvalue population constituted at the coherence threshold and above. Man No. 7 is not approaching the rose — Man No. 7 is a place in it.</figcaption>
+</figure>
+
 ## Structural Description
 
 **[[Appendix I - Dictionary of Terms#State Vector|State vector]]:** ψ₇ ≈ ψ_Φ-proximate — the being approaching, within H, the character of Φ

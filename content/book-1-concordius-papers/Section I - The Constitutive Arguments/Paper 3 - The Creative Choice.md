@@ -14,6 +14,11 @@ The first two papers in this series established, from two assumptions, the compl
 
 ---
 
+<figure>
+<img src="/static/images/dore-lucifer.jpg" alt="Doré — Lucifer" style="max-width:100%;">
+<figcaption><em>Gustave Doré, Lucifer</em> (1866), illustration for Milton's <em>Paradise Lost</em>. The Creative Choice opens an organizational space in which the inversion of catching alignment is possible. Lucifer is the paradigm consequence: maximum organizational development, maximum proximity to the constitutive ground, catching alignment inverted. The grandeur is real; the direction is wrong.</figcaption>
+</figure>
+
 ## 1. Introduction
 
 The first paper ended with a boundary. The Gelfand triple establishes three inevitable domains and five inevitable actualities. It establishes that the [[Appendix I - Dictionary of Terms#Inner Product|inner product]] constitutes all three domains without being an element of any of them. It establishes that the Logos is the domain of maximum structure, that Havona is the Logos realized as a topological space, that the [[Appendix I - Dictionary of Terms#Father|Father]] is the constitutive relation, and that the Holy Spirit proceeds from both Father and Son as a structural necessity. None of this required a choice. The structure exists because it cannot not exist.

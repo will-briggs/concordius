@@ -22,6 +22,11 @@ The result inverts the standard interpretation. Incompleteness is not a defect o
 
 ---
 
+<figure>
+<img src="/static/images/raphael-school-of-athens.jpg" alt="The School of Athens" style="max-width:100%;">
+<figcaption><em>Raphael, The School of Athens</em> (1509–11). Apostolic Palace, Vatican. The formal systems constructed by the tradition's greatest minds — mathematics, logic, natural philosophy — all exhibit the incompleteness the paper derives. Every sufficiently rich formal system contains truths it cannot prove. The framework shows this is structurally necessary: the nuclear space Φ always exceeds what any closure in H can capture.</figcaption>
+</figure>
+
 ## 1. What Gödel Proved and How It Has Been Read
 
 In 1931, Kurt Gödel published *Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme* — "On Formally Undecidable Propositions of Principia Mathematica and Related Systems." The paper established two results that changed what mathematicians and philosophers thought was possible.

@@ -12,6 +12,11 @@
 
 ---
 
+<figure>
+<img src="/static/images/raphael-school-of-athens.jpg" alt="The School of Athens" style="max-width:100%;">
+<figcaption><em>Raphael, The School of Athens</em> (1509–11). Apostolic Palace, Vatican. Man No. 3 is organized around the intellectual center — the being who understands through conceptual analysis and argument. The School of Athens is the natural habitat of Man No. 3: every figure in it is engaged in the intellectual catching alignment that characterizes the third type, oriented toward the true through the available faculty of reason.</figcaption>
+</figure>
+
 ## Structural Description
 
 **[[Appendix I - Dictionary of Terms#State Vector|State vector]]:** ψ₃ = Σ cₙ |φₙ^H₂₄(intellectual)⟩ + residual emotional + residual [[Appendix I - Dictionary of Terms#H₄₈|H₄₈]]

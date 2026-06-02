@@ -14,6 +14,11 @@ This paper identifies three kenotic acts as the structural spine of the creative
 
 ---
 
+<figure>
+<img src="/static/images/fra-angelico-transfiguration.jpg" alt="The Transfiguration" style="max-width:100%;">
+<figcaption><em>Fra Angelico, The Transfiguration</em> (c. 1440–42). Convent of San Marco, Florence. The three kenoses are partially visible here: the amplitude limiter momentarily suspended, the Φ-proximate content expressing above the kenotic constraint, the disciples' organizational perturbation registering the cross-term mechanism at an amplitude H₄₈ rarely receives.</figcaption>
+</figure>
+
 ## 1. The Kenotic Form as Structural Necessity
 
 Paper 3 establishes: Father = ⟨·,·⟩; God is love (1 John 4:8); therefore Love = ⟨·,·⟩. The inner product is constitutive — not a response to existence but prior to it, the relation that generates Φ, H, and Φ′ as its necessary domains.

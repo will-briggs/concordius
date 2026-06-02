@@ -18,6 +18,11 @@ The principle has a testable gradient: documents recognized across time and trad
 
 ---
 
+<figure>
+<img src="/static/images/raphael-school-of-athens.jpg" alt="The School of Athens" style="max-width:100%;">
+<figcaption><em>Raphael, The School of Athens</em> (1509–11). Apostolic Palace, Vatican. The holographic content principle: every region of the composition encodes the organizational structure of the whole. Viewed from any position, the vanishing point resolves between Plato and Aristotle; the full organizational content is accessible from any vantage point within the work. This is what the principle predicts about any sufficiently Φ-proximate organizational encoding.</figcaption>
+</figure>
+
 ## 1. Introduction
 
 The truth measure defined in Paper 10 has a consequence that requires separate development.

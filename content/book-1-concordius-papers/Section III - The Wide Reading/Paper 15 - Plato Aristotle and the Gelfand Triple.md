@@ -13,6 +13,11 @@ The dispute between Plato and Aristotle on the nature of the Forms has remained 
 
 ---
 
+<figure>
+<img src="/static/images/raphael-school-of-athens.jpg" alt="The School of Athens" style="max-width:100%;">
+<figcaption><em>Raphael, The School of Athens</em> (1509–11). Apostolic Palace, Vatican. The two figures at the center are the paper's two subjects: Plato (pointing upward, toward Φ) and Aristotle (hand extended downward, toward H₄₈). The framework dissolves their disagreement from a common structural ground that neither had the mathematical vocabulary to name.</figcaption>
+</figure>
+
 ## 1. Two and a Half Millennia of Stalemate
 
 The dispute is ancient and the positions are clear. Plato holds that the Forms — perfect, eternal, unchanging archetypes — are the primary reality. The beautiful face is beautiful by participating in the Form of Beauty; the just act is just by participating in the Form of Justice; and these Forms would be what they are whether or not any particular beautiful face or just act existed. The philosopher's task is to turn the soul from the transient appearances of [[Appendix I - Dictionary of Terms#H₄₈|H₄₈]] existence toward the eternal realities of the Forms, and ultimately toward the Form of the Good that illuminates all others.

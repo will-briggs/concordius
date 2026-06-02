@@ -12,6 +12,11 @@
 
 ---
 
+<figure>
+<img src="/static/images/fra-angelico-transfiguration.jpg" alt="The Transfiguration" style="max-width:100%;">
+<figcaption><em>Fra Angelico, The Transfiguration</em> (c. 1440–42). Convent of San Marco, Florence. Man No. 5 has achieved the crystallization of a permanent 'I' — an organizational constitution stable across the full range of H₄₈ conditions. The Transfiguration depicts what this looks like at its maximum: the luminosity is the crystallized organizational constitution disclosed above the kenotic amplitude limiter, permanent and coherent in a way the disciples' constitutions are not yet.</figcaption>
+</figure>
+
 ## The Crystallization Event
 
 The transition from Man 4 to Man 5 is not a gradual improvement in the three-center integration. It is a [[Appendix I - Dictionary of Terms#Phase Transition|phase transition]] — the same kind of structural discontinuity as the solidification of water into ice. The water and the ice have the same chemical composition. The phase transition changes the organizational structure of the composition in a qualitatively distinct way.

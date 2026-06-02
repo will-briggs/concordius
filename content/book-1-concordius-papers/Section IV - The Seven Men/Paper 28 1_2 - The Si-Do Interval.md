@@ -14,6 +14,11 @@ The [[Appendix I - Dictionary of Terms#Si-Do Interval|Si-Do interval]] is the st
 
 ---
 
+<figure>
+<img src="/static/images/blake-great-red-dragon.jpg" alt="Blake — The Great Red Dragon" style="max-width:100%;">
+<figcaption><em>William Blake, The Great Red Dragon and the Woman Clothed with the Sun</em> (c. 1803–05). Brooklyn Museum. The Si-Do interval is the highest organizational gap in the constraint cascade — the resistance that only the full deployment of τ_nuclear into H₄₈ can overcome. Blake's image is the cosmic-scale visualization of that resistance: the vast inverted trajectory positioned against the Φ-proximate content at the moment before the interval is crossed.</figcaption>
+</figure>
+
 ## 1. The Algebraic Derivation
 
 Grade 3 in Cl(3,0) is the pseudoscalar — the element that is the oriented volume form of the three-dimensional space. It has two algebraically distinctive properties that no grade-0, grade-1, or grade-2 element possesses:
