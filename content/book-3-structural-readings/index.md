@@ -36,6 +36,12 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ---
 
+## Eastern Traditions
+
+[[Eastern Traditions/The I Ching|The I Ching]]
+
+---
+
 ## Esoteric Traditions
 
 [[The Alchemical Tradition/index|The Alchemical Tradition]]
