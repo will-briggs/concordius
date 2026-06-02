@@ -313,6 +313,28 @@ The *Catechism of the Catholic Church* addresses suicide at §§2280–2283. Eac
 
 The Church's stated grounds are moral; the structural grounds are prior and explain why the moral claims are true. The traditional position that denied Christian burial and pronounced automatic damnation was wrong precisely because it missed the spectrum distinction (§2282) and the Adjuster's persistence through an adverse transition (§2283).
 
+**The opposite structural situation: Luke 23:39–43.**
+
+The structural account of suicide defines the terminal will-assertion as decisive in the adverse direction. The thief crucified alongside Jesus defines the terminal catching act as decisive in the favorable direction — and at the structural extreme.
+
+The thief has accumulated no H₂₄ eigenvalue deposit worth naming. A life of crime — noise-floor dominant, minimal Adjuster integration, no sacramental structure, no disciplined practice. By every H₄₈ accounting, this is the worst possible case for the ascending career.
+
+And yet: *"Truly I tell you, today you will be with me in paradise."* (Luke 23:43)
+
+The structural account of why this is not merely a gesture of divine mercy:
+
+*Recognition as catching act.* The thief's first move is Φ-perception: *"This man has done nothing wrong."* (23:41) He sees, in the dying man next to him, maximum organizational coherence — not moral approval but accurate structural perception. The catching act begins before the direct address. The will orients toward Φ before it asks anything of Φ.
+
+*The direct address as minimal sufficient catching act.* *"Jesus, remember me when you come into your kingdom."* (23:42) No accumulated deposit. No prior discipline. One act of will — minimal in form, complete in structure — toward Φ at the only moment available.
+
+*Physical proximity to maximum Φ-field amplitude.* The cross is the moment of maximum kenotic constraint acceptance in H₄₈ history — the Logos accepting the H₄₈ terminus, the maximum cross-term field amplitude the created order has generated (Paper 8 §§3–4, §7.1). The thief is physically adjacent to it. The cross-term mechanism operates at amplitudes sufficient to force rapid eigenstate reorganization in nearby H₄₈ matter. The thief's entire eigenvalue population is inside the highest Φ-field amplitude in H₄₈ history at the moment his catching act activates. The reorganization is not gradual soul-formation; it is immediate and complete — the amplitude supplies what accumulation ordinarily provides.
+
+*"Today" as structural confirmation.* Not eventually. Not after a remedial process. Today. The reorganization was complete at the moment it happened because the catching act was real and the amplitude was maximum. The transition carries the reorganized state immediately.
+
+The thief and the suicide are the two structural limit cases, illuminating the same structural fact from opposite directions: the terminal organizational state is the decisive variable. In the ordinary career it is one variable among many — accumulated deposit, Adjuster integration, a lifetime of catching acts. In the limit cases the terminal act overrides the career: in one direction, a terminal will-assertion against the ascending career inverts a potentially substantial deposit; in the other, a terminal catching act at maximum amplitude reorganizes an entirely unaccumulated eigenstate. The career matters enormously in the general case. At the limits, it is overridden.
+
+*(Cross-reference: Paper 8 §§3–4 — the cross-term field mechanism; Paper 8 §7.1 — the overdeterminate release preparation at the cross; Doctrine/Auras and the Luminous Field — the H₂₄-interface field as the perceptual dimension of what the thief may have perceived.)*
+
 ---
 
 ## Why imposition is a structural error
