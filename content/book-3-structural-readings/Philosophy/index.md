@@ -2,6 +2,11 @@
 title: Philosophy
 ---
 
+<figure>
+<img src="/static/images/platos-cave-saenredam.jpg" alt="Plato's Cave" style="max-width:100%;">
+<figcaption><em>Jan Saenredam after Cornelis van Haarlem, Allegory of Plato's Cave</em> (c. 1604). The prisoner ascending from shadow to light: the structural ascent from H₄₈ appearance to H₂₄ structural reality that Plotinus, Epictetus, Marcus Aurelius, and Spinoza each describe by independent philosophical routes.</figcaption>
+</figure>
+
 # A Structural Reading of Western Philosophy
 
 The readings in this section apply the Concordius framework to texts in the Western philosophical tradition that arrived at structural descriptions of the same reality the framework derives mathematically. These are not approximations or partial views — they are independent convergences from thinkers who had no access to the framework's sources and who were working by entirely different methods.
