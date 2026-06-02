@@ -1,8 +1,8 @@
-*← [[Paper 3 - The First Free Act|Paper 3 — The First Free Act]]*
+*← [[Paper 3 - The Creative Choice|Paper 3 — The Creative Choice]]*
 
 # The Constraint Cascade: Descent as Densification
 
-*Fourth paper in the Concordius series. Companion to "Modeling Reality as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]," "From the Cogito to the [[Appendix I - Dictionary of Terms#Logos|Logos]]," and "The First Free Act."*
+*Fourth paper in the Concordius series. Companion to "Modeling Reality as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]," "From the Cogito to the [[Appendix I - Dictionary of Terms#Logos|Logos]]," and "The Creative Choice."*
 
 ---
 

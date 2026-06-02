@@ -376,4 +376,4 @@ What instantiates these two modes — what kinds of beings, if any, would be H-o
 
 ---
 
-*[[Paper 3 - The First Free Act|Paper 3 — The First Free Act]] →*
+*[[Paper 3 - The Creative Choice|Paper 3 — The Creative Choice]] →*
