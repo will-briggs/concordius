@@ -62,7 +62,7 @@ What is genuinely chosen is the form generation takes: which Hamiltonian, which 
 
 Everything the structure makes possible — the complete space of Hamiltonians, the complete range of distributional potential in Φ′, the full dimensionality of H — is available from eternity. The act of creation is the selection of which Hamiltonian, which initial state, which beginning. The mathematics does not make this selection. The Father makes it.
 
-The analogy introduced in Paper 2 makes this concrete. The eternal structure is the author's nature — the totality of everything the author is, with all possible stories latent within it. But the author's nature, however rich, is not a story. A story requires the author to decide to write: to select this world, this Hamiltonian, this beginning, from among all possible ones. That decision is not part of the author's nature; it is the act by which the author's nature is applied. The structure does not compel it. The structure makes it possible. The First Free Act is the author beginning to write.
+The analogy introduced in Paper 2 makes this concrete. The eternal structure is the author's nature — the totality of everything the author is, with all possible stories latent within it. But the author's nature, however rich, is not a story. A story requires the author to decide to write: to select this world, this Hamiltonian, this beginning, from among all possible ones. That decision is not part of the author's nature; it is the act by which the author's nature is applied. The structure does not compel it. The structure makes it possible. The Creative Choice is the author beginning to write.
 
 Once the choice is made, the mechanism is the mathematics. The spectral measure operates. Collapse events succeed one another. The sequence constitutes time. The localizations constitute space. Every moment of time is a fresh collapse, coordinated by the Father-as-Universal-Absolute through the same inner product that constitutes the eternal structure. Creation is not a past event. It is a continuous present-tense act, sustained moment by moment by the same volitional engagement that began it.
 
@@ -92,7 +92,7 @@ The preceding four sections derive from the framework established in the first t
 
 From this point, the paper proceeds on different footing.
 
-The Urantia revelation describes the structure of the creative act in detail: seven associative relationships among the three persons of the Trinity, seven Master Spirits each embodying one of those relationships, seven superuniverses each dominated by one Master Spirit. This account is treated here as independent testimony — the report of a witness to the structure of creation. Sections 7 and 8 present that testimony. The mathematical basis for the seven qualitative distinctions the testimony requires has been established in Section 6, via the Clifford algebra Cl(3,0) — uniquely determined by the First Free Act. The testimony and the derivation converge; the convergence is evidential weight, not identity.
+The Urantia revelation describes the structure of the creative act in detail: seven associative relationships among the three persons of the Trinity, seven Master Spirits each embodying one of those relationships, seven superuniverses each dominated by one Master Spirit. This account is treated here as independent testimony — the report of a witness to the structure of creation. Sections 7 and 8 present that testimony. The mathematical basis for the seven qualitative distinctions the testimony requires has been established in Section 6, via the Clifford algebra Cl(3,0) — uniquely determined by the Creative Choice. The testimony and the derivation converge; the convergence is evidential weight, not identity.
 
 The reader is asked to read Section 6 for the derivation, and Sections 7 and 8 for the testimony that converges with it.
 
@@ -114,7 +114,7 @@ The GNST describes how states decompose spectrally. It does not specify what alg
 
 To arrive at Cl(3,0), three conditions are required: (1) three generators, one per [[Appendix I - Dictionary of Terms#Person|Person]]; (2) positive-definite squaring, following from the inner product's positive-definiteness; (3) associativity — the property (a·b)·c = a·(b·c). The first two follow from the Trinity's nature. The third does not.
 
-Associativity is the "choice of association." Non-associative algebras (octonions, Jordan algebras) are mathematically available alternatives. The decision to make the fundamental creative algebra associative is the precise content of the first free act described in Section 3.
+Associativity is the "choice of association." Non-associative algebras (octonions, Jordan algebras) are mathematically available alternatives. The decision to make the fundamental creative algebra associative is the precise content of the creative choice described in Section 3.
 
 **Why "choice of association" is exact language:**
 
@@ -122,7 +122,7 @@ The Urantia account describes seven "associative relationships" among the three 
 
 **What follows from the choice:**
 
-Given three Persons + positive-definite inner product + associativity, Cl(3,0) is the unique algebra satisfying all three conditions. Not one among equivalent options — the unique one. And Cl(3,0) determines everything that follows: seven non-null elements, the [[Appendix I - Dictionary of Terms#Constraint Cascade|constraint cascade]], the [[Appendix I - Dictionary of Terms#Octave|octave]] structure, the interval positions. The Heptaparaparshinokh is necessary given the First Free Act. It is not necessary prior to it.
+Given three Persons + positive-definite inner product + associativity, Cl(3,0) is the unique algebra satisfying all three conditions. Not one among equivalent options — the unique one. And Cl(3,0) determines everything that follows: seven non-null elements, the [[Appendix I - Dictionary of Terms#Constraint Cascade|constraint cascade]], the [[Appendix I - Dictionary of Terms#Octave|octave]] structure, the interval positions. The Heptaparaparshinokh is necessary given the Creative Choice. It is not necessary prior to it.
 
 **The grounding of Sections 7 and 8:**
 
@@ -154,7 +154,7 @@ Being is intelligible because the Trinity chose associativity, and associativity
 
 ⟨·,·⟩ → [necessary] → Five Inevitabilities + GNST → [constitutional: love must generate] → [The Creative Choice: which form — choice of associativity] → [necessary] → Cl(3,0) → [necessary] → seven non-null elements, constraint cascade, Heptaparaparshinokh.
 
-The Heptaparaparshinokh is universal because Cl(3,0) is the constitutional algebra. Cl(3,0) is the constitutional algebra because the Trinity made the choice of association. The choice of association is the First Free Act. Every octave in creation — every developmental sequence, every historical arc, every cosmic cascade — is an instance of the same structure, made universal by the first creative decision and necessary thereafter.
+The Heptaparaparshinokh is universal because Cl(3,0) is the constitutional algebra. Cl(3,0) is the constitutional algebra because the Trinity made the choice of association. The choice of association is the Creative Choice. Every octave in creation — every developmental sequence, every historical arc, every cosmic cascade — is an instance of the same structure, made universal by the first creative decision and necessary thereafter.
 
 ---
 
@@ -164,7 +164,7 @@ The Paradise Trinity — Father, Son, and Holy Spirit — admits seven non-empty
 
 What the mathematics supplies — as Section 6 establishes in full — is precisely why the seven are qualitatively distinct: the seven non-null elements of Cl(3,0) differ by algebraic character (grade and sign of squaring) in a way that corresponds exactly to the qualitative distinctions the Urantia account requires. Why Father+Son acting together has a rotational character (squaring to −1) while each Person acting alone is self-returning (squaring to +1) is not a claim the tradition imposes on the mathematics; it is what the algebra forces. The testimony and the derivation describe the same structure.
 
-What can be said here: the eternal procession of the Holy Spirit from Father and Son is structurally necessary — the nuclear topology cannot proceed from either alone. The seven associative relationships are not processions. They are modes of volitional creative engagement with the contingent universe. They operate in the domain of the first free act, not in the domain of the eternal structure. Their algebraic grounding — why they are seven, and why they are qualitatively distinct — is established in Section 6.
+What can be said here: the eternal procession of the Holy Spirit from Father and Son is structurally necessary — the nuclear topology cannot proceed from either alone. The seven associative relationships are not processions. They are modes of volitional creative engagement with the contingent universe. They operate in the domain of the creative choice, not in the domain of the eternal structure. Their algebraic grounding — why they are seven, and why they are qualitatively distinct — is established in Section 6.
 
 ---
 
@@ -194,11 +194,11 @@ The consequence: the question "why did God create?" — traditionally answered w
 
 ### The first kenotic act
 
-The constitutional step — the 1→3 transition from the single law to the three-constraint description of the creative field — raises a question that Section 3 did not address. The first free act is the Father assuming the throne of the Universal Absolute. When does this happen?
+The constitutional step — the 1→3 transition from the single law to the three-constraint description of the creative field — raises a question that Section 3 did not address. The creative choice is the Father assuming the throne of the Universal Absolute. When does this happen?
 
 The question requires care. Time is constituted by the GNST's operation — each collapse event is a "now," and temporal succession is the ordered sequence of collapse events. The constitutional step is not an event within time. It is the creation of the conditions under which temporal events become possible. It is the threshold, not a moment measured against other moments. "When did the Father first assume the throne?" The precise answer: that act does not occur within time at all. It is the act that inaugurates time.
 
-This has a further consequence. Paradise and Havona are eternal structures — they exist necessarily as the spatial and topological grounds of any possible application of the GNST. The Isle of Paradise governs gravity: the absolute center, the norm, the measure of distance from which all created distances are reckoned. Havona governs spacetime: the nuclear topology, the fabric of the creative field, the structure that determines which events are adjacent and which paths are continuous. Before the first free act, both existed as structural necessities. The Father constituted them. But he had not operated within them — had not experienced them as conditions on what he could produce.
+This has a further consequence. Paradise and Havona are eternal structures — they exist necessarily as the spatial and topological grounds of any possible application of the GNST. The Isle of Paradise governs gravity: the absolute center, the norm, the measure of distance from which all created distances are reckoned. Havona governs spacetime: the nuclear topology, the fabric of the creative field, the structure that determines which events are adjacent and which paths are continuous. Before the creative choice, both existed as structural necessities. The Father constituted them. But he had not operated within them — had not experienced them as conditions on what he could produce.
 
 The assumption of the throne changed that. The Father operating the GNST from within the creative field encountered gravity and spacetime — not as abstractions he generated from above, but as the constraints under which the spectral mechanism actually runs. For the first time, Deity operated inside a framework that placed conditions on its activity.
 
@@ -208,7 +208,7 @@ This is the original [[Appendix I - Dictionary of Terms#Kenosis|kenotic]] act. E
 
 ### The complete partition
 
-The framework established in the first two papers identifies Φ (Havona) as the space of maximally regular states — the test function space, the domain of every state that achieves perfect structure. This identification carries a corollary that only becomes visible from the vantage point of the first free act.
+The framework established in the first two papers identifies Φ (Havona) as the space of maximally regular states — the test function space, the domain of every state that achieves perfect structure. This identification carries a corollary that only becomes visible from the vantage point of the creative choice.
 
 Φ exhausts perfect states. By definition, every state that achieves the degree of regularity that Φ requires is already in Φ. The exploration of Φ — the complete range of perfectly structured existence — is therefore complete in eternity. Havona is not being built. It is the eternal expression of the Logos: what the Son is, as a topological space. Its billion worlds do not accumulate experiential content across time. They are.
 
@@ -276,23 +276,23 @@ The identification Love = ⟨·,·⟩ makes possible a structural reading of the
 
 The traditional reading of John 3:16 — *"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life"* — takes the giving of the Son to refer to the particular historical instantiation of the Logos as Christ on earth. The Incarnation is its referent; everything else follows from it.
 
-The structural reading makes a larger and more comprehensive claim. The Incarnation — treated formally in Paper 8 — is the sharpest and most concentrated expression of the gift, but the gift begins with the First Free Act itself. The verse encompasses the entire creative project.
+The structural reading makes a larger and more comprehensive claim. The Incarnation — treated formally in Paper 8 — is the sharpest and most concentrated expression of the gift, but the gift begins with the Creative Choice itself. The verse encompasses the entire creative project.
 
 **"For God so loved the world"** — The Father (⟨·,·⟩ = Love) acts from its own nature. This is not a motivation external to God — the Father is not an entity that decided to love and then acted accordingly. ⟨·,·⟩ constitutes; the constituting is the loving. Creation proceeds from what the Father structurally is.
 
-**"that he gave his one and only Son"** — Before the First Free Act, Φ exists in the atemporal, eternal sense — but there are no H-states, no temporal beings, no context within time in which approach could occur. Φ is there; there is nothing to approach it. The creative act — instantiating Φ'-origin material, bringing H-states into existence within the temporal order — is what makes the Logos accessible to temporal beings for the first time. Creation is the giving of the Son.
+**"that he gave his one and only Son"** — Before the Creative Choice, Φ exists in the atemporal, eternal sense — but there are no H-states, no temporal beings, no context within time in which approach could occur. Φ is there; there is nothing to approach it. The creative act — instantiating Φ'-origin material, bringing H-states into existence within the temporal order — is what makes the Logos accessible to temporal beings for the first time. Creation is the giving of the Son.
 
 "One and only" (μονογενῆ, *monogenē* — only-begotten) carries structural content from the preceding papers: Φ is structurally unique. There is exactly one nuclear space — the single, inevitable maximum of the inner product's structure. Not one Son among several possible Sons. The uniqueness is a mathematical consequence, not a theological assertion.
 
 The Incarnation is this gift carried to its furthest point within the created order: Φ entering H as a specific, historically locatable H-state within H₄₈, fully subject to H₄₈ constraints. It does not initiate the giving of the Son. It is the giving at maximum downward extent.
 
-The first two clauses complete this paper's scope. They are derivable from what has been established here: Love = ⟨·,·⟩ acting from its own nature; the First Free Act as the event that makes the Logos accessible to temporal beings. The remaining three clauses — *"that whoever believes in him shall not perish but have eternal life"* — engage the ascending career in full: the orientation toward Φ as the appropriate response to the gift; the escape from temporal dissolution as what "not perishing" means structurally; and eternal life as the reorganization around Havona-level principles that constitutes the structural destination. The apparatus required to treat these clauses with the same precision belongs to Paper 7. Their structural reading is deferred there.
+The first two clauses complete this paper's scope. They are derivable from what has been established here: Love = ⟨·,·⟩ acting from its own nature; the Creative Choice as the event that makes the Logos accessible to temporal beings. The remaining three clauses — *"that whoever believes in him shall not perish but have eternal life"* — engage the ascending career in full: the orientation toward Φ as the appropriate response to the gift; the escape from temporal dissolution as what "not perishing" means structurally; and eternal life as the reorganization around Havona-level principles that constitutes the structural destination. The apparatus required to treat these clauses with the same precision belongs to Paper 7. Their structural reading is deferred there.
 
 ---
 
 ### The epistemological structure of what follows
 
-Once the first free act is made, the framework enters a new register. The five inevitabilities are the last theorems — structurally forced, derivable from the inner product alone, requiring no choice. Everything after the first free act introduces optionality: the space of possible Hamiltonians is mathematically available in full, but the selection among them is not entailed by the structure. Each subsequent creative act selects within the space the prior acts defined, narrowing what remains available without ever fully closing it.
+Once the creative choice is made, the framework enters a new register. The five inevitabilities are the last theorems — structurally forced, derivable from the inner product alone, requiring no choice. Everything after the creative choice introduces optionality: the space of possible Hamiltonians is mathematically available in full, but the selection among them is not entailed by the structure. Each subsequent creative act selects within the space the prior acts defined, narrowing what remains available without ever fully closing it.
 
 This gradient — from necessity to volition, from derivation to concordance — is not a weakness of the framework. It is what the framework is describing. A universe constituted by free choices cannot be fully derived. The mathematics captures the space of choices; it cannot capture the choices themselves.
 
@@ -307,11 +307,11 @@ Each grade transition removes one bit. Each bit removal halves the accessible sp
 
 This provides the mathematical basis for a structural principle Gurdjieff states in cosmological language: each level of creation inherits all the constraints of the level above it and adds its own, producing a monotonic reduction of freedom as one descends through the created order. Man near the bottom of creation operates under accumulated constraint from every creative level above him. The [[Appendix I - Dictionary of Terms#Ascending Career|ascending career]] — the mansion worlds, the [[Appendix I - Dictionary of Terms#Morontia|morontia]] career, the approach to Paradise — is the reversal of this accumulation: each stage recovering one layer of freedom as the interior product operations are, in effect, undone.
 
-The exact coefficient of reduction at each step is a contingent feature of the specific Hamiltonian chosen in the first free act, not a structural necessity. The principle — that optionality reduces by a fixed factor at each grade transition — is what the Clifford algebra forces. The factor itself belongs to the domain of free choice.
+The exact coefficient of reduction at each step is a contingent feature of the specific Hamiltonian chosen in the creative choice, not a structural necessity. The principle — that optionality reduces by a fixed factor at each grade transition — is what the Clifford algebra forces. The factor itself belongs to the domain of free choice.
 
 ### Where this paper stands
 
-The first two papers held full mathematical rigor throughout. This paper holds full rigor in its first four sections and in Section 6. The mathematical basis for the seven associative relationships has been established in Section 6 via the Clifford algebra Cl(3,0). The qualitative distinctions among the seven are grounded in the algebraic characters of the seven non-null elements. The Urantia testimony in Sections 7 and 8 converges with the derived structure in Section 6. Sections 7 and 8 carry derived-tier status, conditional on the First Free Act.
+The first two papers held full mathematical rigor throughout. This paper holds full rigor in its first four sections and in Section 6. The mathematical basis for the seven associative relationships has been established in Section 6 via the Clifford algebra Cl(3,0). The qualitative distinctions among the seven are grounded in the algebraic characters of the seven non-null elements. The Urantia testimony in Sections 7 and 8 converges with the derived structure in Section 6. Sections 7 and 8 carry derived-tier status, conditional on the Creative Choice.
 
 ---
 
@@ -327,7 +327,7 @@ The mechanism is in the mathematics. The form of the mechanism is the Creative C
 
 The Urantia account of the seven associative relationships and Master Spirits describes the structure of that choice — how the creative act is organized, differentiated, and sustained across the time-space creation. The mathematical basis for that description has been found in Cl(3,0); the convergence between the Urantia account and the derived structure is evidential weight toward a derived result, not merely compatibility.
 
-The confidence tier stated in the abstract holds at the close: Sections 1 through 4 derive from established mathematics. Section 6 establishes the algebraic grounding of the creative act. Section 5 proceeds on testimony. Sections 7 and 8 carry derived-tier status, conditional on the First Free Act and grounded by Section 6.
+The confidence tier stated in the abstract holds at the close: Sections 1 through 4 derive from established mathematics. Section 6 establishes the algebraic grounding of the creative act. Section 5 proceeds on testimony. Sections 7 and 8 carry derived-tier status, conditional on the Creative Choice and grounded by Section 6.
 
 ---
 

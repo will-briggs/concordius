@@ -2,7 +2,7 @@
 
 # The Whole in Every Part: The Holographic Content Principle
 
-*Eleventh paper in the Concordius series. Companion to Papers 1–10. Depends directly on Paper 10 (the [[Appendix I - Dictionary of Terms#Truth Measure|truth measure]] τ(D)), Paper 3 (the First Free Act and [[Appendix I - Dictionary of Terms#Catching|catching]]), and the [[Appendix I - Dictionary of Terms#Law of Seven|Law of Seven]] as developed in Papers 5 and 2.*
+*Eleventh paper in the Concordius series. Companion to Papers 1–10. Depends directly on Paper 10 (the [[Appendix I - Dictionary of Terms#Truth Measure|truth measure]] τ(D)), Paper 3 (the Creative Choice and [[Appendix I - Dictionary of Terms#Catching|catching]]), and the [[Appendix I - Dictionary of Terms#Law of Seven|Law of Seven]] as developed in Papers 5 and 2.*
 
 *Status: substantially developed. The derivation (Sections 2–4) follows necessarily from the truth measure. The case studies (Section 6) are demonstrations, not derivations — they show the principle at work in specific texts and are subject to the interpretive limitations of any structural reading. The fidelity gradient (Section 7) is a structural prediction awaiting empirical development.*
 

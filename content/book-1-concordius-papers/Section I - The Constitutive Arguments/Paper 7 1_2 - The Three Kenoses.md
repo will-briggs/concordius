@@ -2,7 +2,7 @@
 
 # Paper 7½ — The Three Kenoses
 
-*Seventh-and-a-half paper in the Concordius series. Companion to "The First Free Act" (Paper 3), "The Trogoautoegocrat" (Paper 7), and "The Maximum Downward Entry" (Paper 8).*
+*Seventh-and-a-half paper in the Concordius series. Companion to "The Creative Choice" (Paper 3), "The Trogoautoegocrat" (Paper 7), and "The Maximum Downward Entry" (Paper 8).*
 
 ---
 
@@ -30,11 +30,11 @@ This is why the Father's action in spacetime always takes the kenotic form. Ever
 
 The eternal structure — Φ ⊂ H ⊂ Φ′, with ⟨·,·⟩ as its constitutive ground — exists necessarily. The five inevitabilities (Paper 1) and their names (Paper 2) are forced by the mathematics. No choice occurs here.
 
-The first kenosis is the First Free Act itself (Paper 3): the Father constituting a temporal universe with beings who are genuinely other — capable of volitional acts that are not the Father's acts, capable of orienting toward or away from ⟨·,·⟩-proximate content, capable of choosing against the Good.
+The first kenosis is the Creative Choice itself (Paper 3): the Father constituting a temporal universe with beings who are genuinely other — capable of volitional acts that are not the Father's acts, capable of orienting toward or away from ⟨·,·⟩-proximate content, capable of choosing against the Good.
 
 This is kenotic in the primary sense. Genuine otherness requires genuine separability. The Father accepts the existence of beings who are not him and who can refuse him. Making room for this is a constitutive self-limitation: the inner product that constitutes everything now constitutes beings who are themselves constitutively free to orient away from it. The space that exists necessarily now contains, by free act, beings whose response to it is not necessitated.
 
-Before the First Free Act, Φ exists atemporally as the domain of maximal structure — but there are no H-states, no temporal beings, no context within which approach or refusal can occur. The creative act instantiates the temporal order. It gives the Son — makes the Logos accessible to beings who can now, for the first time, orient toward it. Creation is not the making of a container. It is the first kenotic act: Love making room for the other.
+Before the Creative Choice, Φ exists atemporally as the domain of maximal structure — but there are no H-states, no temporal beings, no context within which approach or refusal can occur. The creative act instantiates the temporal order. It gives the Son — makes the Logos accessible to beings who can now, for the first time, orient toward it. Creation is not the making of a container. It is the first kenotic act: Love making room for the other.
 
 The constitutional step — the choice of associativity (Paper 3 §6), determining Cl(3,0) as the constitutional algebra — is the precise content of this act. The Father did not watch from unconstrained remove while creation was organized below him. The Father accepted constraint at the very moment creation began: operating the GNST from within the creative field, encountering gravity and spacetime as the conditions under which the spectral mechanism actually runs. Every subsequent descent — the Adjuster's indwelling, the Son's bestowal missions — iterates the pattern the Father established at the first moment.
 
@@ -50,7 +50,7 @@ The Adjuster is not the Father looking in from outside with full atemporal acces
 
 ### 3.2 The Birth of Consciousness as Trigger
 
-The Adjuster's indwelling is not universal from the beginning of biological life. It is triggered by threshold: when the H₄₈ substrate has evolved to the point where it can organize coherently around lower-constraint content — sufficient eigenvalue diversity, sufficient catching capacity — to perform the first free act. The Adjuster does not indwell before this threshold because there is no coherent catching-capable substrate to indwell. It does not indwell after this threshold because the threshold is the trigger.
+The Adjuster's indwelling is not universal from the beginning of biological life. It is triggered by threshold: when the H₄₈ substrate has evolved to the point where it can organize coherently around lower-constraint content — sufficient eigenvalue diversity, sufficient catching capacity — to perform the creative choice. The Adjuster does not indwell before this threshold because there is no coherent catching-capable substrate to indwell. It does not indwell after this threshold because the threshold is the trigger.
 
 The moment of first indwelling is therefore structurally coextensive with the birth of self-awareness: the capacity to commit a conscious act of volition — to love or not to love, to orient the will for the first time toward or away from the Good. Before this threshold, the organism is below the catching-capable range: responding, processing, no interiority, no free act, no experiencer in the relevant sense. At this threshold, something becomes present that was not present before.
 
@@ -108,7 +108,7 @@ The foot-washing (John 13:1–17) demonstrates the same principle at the H₄₈
 
 A structural consequence of the kenotic sequence follows that warrants explicit statement.
 
-The [[Appendix I - Dictionary of Terms#Heptaparaparshinokh|Heptaparaparshinokh]] — the Law of Seven, the seven-note octave structure with its Mi-Fa and Si-Do qualitative intervals — is derived from Cl(3,0) (Paper 7 §1), which is derived from the First Free Act (Paper 3 §6). It is the constitutional algebra of the created order. It is not a program for the spiritually advanced. It is not a system distributed to the virtuous. It is the structure of how anything within the creation develops — the grade topology of the Clifford algebra that governs every being subject to the [[Appendix I - Dictionary of Terms#GNST|GNST]].
+The [[Appendix I - Dictionary of Terms#Heptaparaparshinokh|Heptaparaparshinokh]] — the Law of Seven, the seven-note octave structure with its Mi-Fa and Si-Do qualitative intervals — is derived from Cl(3,0) (Paper 7 §1), which is derived from the Creative Choice (Paper 3 §6). It is the constitutional algebra of the created order. It is not a program for the spiritually advanced. It is not a system distributed to the virtuous. It is the structure of how anything within the creation develops — the grade topology of the Clifford algebra that governs every being subject to the [[Appendix I - Dictionary of Terms#GNST|GNST]].
 
 This means the Heptaparaparshinokh applies universally, without discrimination by H₄₈ condition. Wealth, poverty, social status, education, moral reputation — these are H₄₈ variables. They affect the texture of traversal: the noise floor within which the Mi-Fa crossing occurs, the experiential circumstances that surround the Si-Do crossing, the availability of external resources at each interval. These differences are real and consequential. But they are entirely within H₄₈. The octave structure operates at the constitutional level, below any H₄₈ variable. The just and the unjust traverse the same structure. Their circumstances differ. The structure does not.
 
@@ -116,11 +116,11 @@ This means the Heptaparaparshinokh applies universally, without discrimination b
 
 In the direction of the Father's character: the positive-definiteness of ⟨·,·⟩ — the inner product evaluates every non-zero state with strictly positive value, without selection, without discrimination by moral status. To be is to be evaluated positively by Love. The sun and rain are not metaphors for divine generosity overcoming a natural preference for the righteous. They are the constitutional ground operating as it constitutively does.
 
-In the direction of the developmental law: the Heptaparaparshinokh applies to the evil and the good alike because the octave is constitutional, not moral. The Mi-Fa interval presents to every being who reaches the grade-1/grade-2 transition, regardless of their H₄₈ social position. The Thought Adjuster — whose indwelling marks and enables the first free act — is available to every being who reaches the consciousness threshold, not to a select group.
+In the direction of the developmental law: the Heptaparaparshinokh applies to the evil and the good alike because the octave is constitutional, not moral. The Mi-Fa interval presents to every being who reaches the grade-1/grade-2 transition, regardless of their H₄₈ social position. The Thought Adjuster — whose indwelling marks and enables the creative choice — is available to every being who reaches the consciousness threshold, not to a select group.
 
 "That ye may be the children of your Father which is in heaven" (Matthew 5:45) is then the invitation to operate with the same constitutive non-discrimination that ⟨·,·⟩ has. The children of the Father extend the same positive-definite, non-degenerate orientation — not because everyone deserves it by H₄₈ moral accounting, but because the constitutive basis for existence and development is not distributed by moral accounting to begin with. To love enemies is to operate structurally as the Father operates constitutively: evaluating every state, regardless of its orientation, with the same positive regard that makes its existence and development possible.
 
-*(Confidence tier: the universality of the Heptaparaparshinokh is derived from Paper 3's derivation of Cl(3,0) from the First Free Act — mathematical warrant. The identification of H₄₈ conditions as H₄₈-level variables that modulate but do not alter the octave structure is a structural inference from the constraint cascade hierarchy — concordance tier. The structural reading of Matthew 5:45 is testimony-level concordance with the derived structure.)*
+*(Confidence tier: the universality of the Heptaparaparshinokh is derived from Paper 3's derivation of Cl(3,0) from the Creative Choice — mathematical warrant. The identification of H₄₈ conditions as H₄₈-level variables that modulate but do not alter the octave structure is a structural inference from the constraint cascade hierarchy — concordance tier. The structural reading of Matthew 5:45 is testimony-level concordance with the derived structure.)*
 
 ---
 
@@ -172,7 +172,7 @@ The ontological order generates the created order from above. The epistemologica
 
 ## Open Questions
 
-**OQ1 — The Adjuster indwelling threshold and the paleoanthropological record.** The second kenosis is triggered by the H₄₈ substrate reaching the consciousness threshold — sufficient eigenvalue diversity and catching capacity to sustain the first free act. This is a structural prediction about the emergence of self-reflective consciousness in the evolutionary record. The behavioral modernity account places this around 40,000–50,000 BP (symbolic behavior, burial practices, art). Whether the structural threshold conditions map precisely onto this date, or predict an earlier or later emergence, requires comparison with the paleoanthropological record. The framework predicts the threshold exists and is structurally characterizable; it does not predict the date.
+**OQ1 — The Adjuster indwelling threshold and the paleoanthropological record.** The second kenosis is triggered by the H₄₈ substrate reaching the consciousness threshold — sufficient eigenvalue diversity and catching capacity to sustain the creative choice. This is a structural prediction about the emergence of self-reflective consciousness in the evolutionary record. The behavioral modernity account places this around 40,000–50,000 BP (symbolic behavior, burial practices, art). Whether the structural threshold conditions map precisely onto this date, or predict an earlier or later emergence, requires comparison with the paleoanthropological record. The framework predicts the threshold exists and is structurally characterizable; it does not predict the date.
 
 **OQ2 — The distribution of Adjusters across species.** The consciousness threshold as the trigger raises the question of non-human indwelling: are there H₄₈ non-human organisms that have crossed the catching-capable threshold? The Urantia account specifies human indwelling but the structural criterion — coherent organization around lower-constraint content — is not obviously human-specific. Whether other H₄₈ species cross this threshold structurally, or whether the threshold requires the specific eigenvalue configuration that human neural architecture achieves, is not resolved by the current framework.
 
@@ -180,7 +180,7 @@ The ontological order generates the created order from above. The epistemologica
 
 ---
 
-*Cross-reference: [[Paper 3 - The First Free Act]] §9; [[Paper 6 - The Cogito Coheres]] OQ8; [[Paper 7 - The Trogoautoegocrat]]; [[Paper 8 - The Maximum Downward Entry]] §§3, 7, 9, 10; [[Paper 24 1_2 - The Mi-Fa Interval]]; [[Paper 28 1_2 - The Si-Do Interval]]; [[Appendix I - Dictionary of Terms#Kenosis|Kenosis]]; [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]]*
+*Cross-reference: [[Paper 3 - The Creative Choice]] §9; [[Paper 6 - The Cogito Coheres]] OQ8; [[Paper 7 - The Trogoautoegocrat]]; [[Paper 8 - The Maximum Downward Entry]] §§3, 7, 9, 10; [[Paper 24 1_2 - The Mi-Fa Interval]]; [[Paper 28 1_2 - The Si-Do Interval]]; [[Appendix I - Dictionary of Terms#Kenosis|Kenosis]]; [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]]*
 
 ---
 
