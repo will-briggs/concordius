@@ -10,4 +10,3 @@ title: Doctrine
 - [[The Lucifer Rebellion]]
 - [[The Magisterium]]
 - [[The Pre-Incarnation Saints]]
-- [[The Twelve Apostles]]

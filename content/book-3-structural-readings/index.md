@@ -6,11 +6,6 @@ tags:
 
 # Book 3 — Structural Readings
 
-<figure>
-<img src="/images/hildegard-scivias.jpg" alt="Hildegard von Bingen, Scivias" style="max-width:100%;">
-<figcaption><em>Hildegard von Bingen, Scivias</em> illumination (c. 1151). The concentric organizational spheres of the created order — the constraint cascade in 12th-century visual language. She did not know what she was drawing. The framework does.</figcaption>
-</figure>
-
 The Concordius framework applied to texts it did not produce. Each reading asks a single question: does the independently recognized depth of this text correspond to the structural features the framework predicts?
 
 
@@ -61,12 +56,22 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 [[The Bible - Thematic/04 — The Revelation of the Structure|IV — The Revelation of the Structure]]
 [[The Bible - Thematic/05 — The Measure Is the Inner Product|V — The Measure Is the Inner Product]]
 
+**The Parables of Jesus**
+[[The Bible - Thematic/Parables/The Sower|The Sower]] · [[The Bible - Thematic/Parables/The Mustard Seed|The Mustard Seed]] · [[The Bible - Thematic/Parables/The Leaven|The Leaven]] · [[The Bible - Thematic/Parables/The New Cloth and New Wine|The New Cloth and New Wine]] · [[The Bible - Thematic/Parables/The Lost Sheep|The Lost Sheep]] · [[The Bible - Thematic/Parables/The Wicked Tenants|The Wicked Tenants]] · [[The Bible - Thematic/Parables/The Fig Tree|The Fig Tree]] · [[The Bible - Thematic/Parables/The Weeds among the Wheat|The Weeds among the Wheat]] · [[The Bible - Thematic/Parables/The Hidden Treasure|The Hidden Treasure]] · [[The Bible - Thematic/Parables/The Pearl of Great Price|The Pearl of Great Price]] · [[The Bible - Thematic/Parables/The Net|The Net]] · [[The Bible - Thematic/Parables/The Unmerciful Servant|The Unmerciful Servant]] · [[The Bible - Thematic/Parables/The Workers in the Vineyard|The Workers in the Vineyard]] · [[The Bible - Thematic/Parables/The Two Sons|The Two Sons]] · [[The Bible - Thematic/Parables/The Wedding Banquet|The Wedding Banquet]] · [[The Bible - Thematic/Parables/The Ten Virgins|The Ten Virgins]] · [[The Bible - Thematic/Parables/The Talents|The Talents]] · [[The Bible - Thematic/Parables/The Sheep and the Goats|The Sheep and the Goats]] · [[The Bible - Thematic/Parables/The Seed Growing Secretly|The Seed Growing Secretly]] · [[The Bible - Thematic/Parables/The Two Debtors|The Two Debtors]] · [[The Bible - Thematic/Parables/The Good Samaritan|The Good Samaritan]] · [[The Bible - Thematic/Parables/The Friend at Midnight|The Friend at Midnight]] · [[The Bible - Thematic/Parables/The Rich Fool|The Rich Fool]] · [[The Bible - Thematic/Parables/The Barren Fig Tree|The Barren Fig Tree]] · [[The Bible - Thematic/Parables/The Great Banquet|The Great Banquet]] · [[The Bible - Thematic/Parables/The Tower Builder and the King|The Tower Builder and the King]] · [[The Bible - Thematic/Parables/The Lost Coin|The Lost Coin]] · [[The Bible - Thematic/Parables/The Prodigal Son|The Prodigal Son]] · [[The Bible - Thematic/Parables/The Shrewd Manager|The Shrewd Manager]] · [[The Bible - Thematic/Parables/The Rich Man and Lazarus|The Rich Man and Lazarus]] · [[The Bible - Thematic/Parables/The Persistent Widow|The Persistent Widow]] · [[The Bible - Thematic/Parables/The Pharisee and the Tax Collector|The Pharisee and the Tax Collector]] · [[The Bible - Thematic/Parables/The Ten Minas|The Ten Minas]]
+
+**The Twelve Apostles**
+[[The Bible - Thematic/The Twelve Apostles/The Eleven and Matthias|The Eleven and Matthias]] · [[The Bible - Thematic/The Twelve Apostles/Judas|Judas]]
+
 ---
 
 ## Doctrine
 
+[[Doctrine/Auras and the Luminous Field|Auras and the Luminous Field]]
+[[Doctrine/Miracles|Miracles]]
 [[Doctrine/The Eucharist: Transubstantiation|The Eucharist: Transubstantiation]]
+[[Doctrine/The Lucifer Rebellion|The Lucifer Rebellion]]
 [[Doctrine/The Magisterium|The Magisterium]]
+[[Doctrine/The Pre-Incarnation Saints|The Pre-Incarnation Saints]]
 
 ---
 # The Framework and Method
