@@ -228,6 +228,24 @@ After the Mi-Fa crossing, every GNST eigenstate selection in Cl(3,1) necessarily
 
 The matter-antimatter asymmetry has a structural account within this framework: the GNST generates both sectors, and the universe accumulates the positive sector because actualization operates in the constitutive direction — toward Φ, toward what is. The negative sector descends, providing the grounding that draws the cascade downward through its remaining levels. Paper 7 develops the cosmological consequence as the material circuit of the [[Appendix I - Dictionary of Terms#Trogoautoegocrat|Trogoautoegocrat]].
 
+### The Metric Character of Time Across the Crossing
+
+The Mi-Fa crossing does more than introduce a new generator. It changes the metric character of time itself.
+
+Above Mi-Fa — H₁₂, H₆, H₃, H₁ — the algebra is Cl(3,0). There is no temporal generator. All three generators square to +1; all three directions are metrically equivalent. The GNST still operates at these levels: events succeed one another, actualizations occur in sequence, "before" and "after" are defined by the ordered chain of collapse events. Sequential time is present.
+
+What is absent is time as a metrically distinct direction — the time that, in Cl(3,1), carries the −1 signature. In Cl(3,0), no direction functions as the aging axis. The complement is present as the structural complement of the First Free Act, but it has no algebraic generator through which to impose directional entropy on the algebra's state space. Beings constituted in Cl(3,0) experience time as sequence but not as aging.
+
+Below Mi-Fa — H₂₄, H₄₈, H₉₆ — e₀ is in the algebra. Time is now metrically distinct from space. e₀² = −1 means the temporal direction introduces a structural asymmetry: forward and backward are not equivalent; the Lorentzian interval distinguishes timelike from spacelike separation; the light cone structure constrains what can influence what. The Heropass now operates through e₀ directly — the −1 generator mediates dissipation as a feature of the algebra's metric structure.
+
+At H₂₄, e₀ has just entered. The ratio of spatial to temporal generators is 3:1. Time is present but the minority character in the algebra. Beings at H₂₄ are in Lorentzian spacetime — they age — but the full 48-constraint structure that makes time's dissipative weight so heavy at H₄₈ is absent. The morontial career is temporal without being mortal in the H₄₈ sense.
+
+At H₄₈, the complete Lorentzian-plus-constraint structure bears fully on every state. Time is the dominant axis of dissolution. The Heropass operates at maximum algebraic efficiency. This is aging as physical beings know it.
+
+The tradition's language of "eternity" for higher spiritual beings is not the claim that nothing happens there, or that there is no sequence. It is the structural claim that above Mi-Fa the algebra has no temporal generator — that time as aging, time as the metrically distinct dissipative dimension, time as the constraint that makes mortality structurally necessary, is absent from the constitutive algebra. What remains is sequence without entropy.
+
+*(Confidence tier: the algebraic claim — that Cl(3,0) has no Lorentzian temporal generator and Cl(3,1) does — is mathematical. The identification of e₀'s absence with the tradition's "eternity" carries concordance-level warrant.)*
+
 ### The Terminal Direction of the Descent
 
 The cascade's downward direction ends at Φ′ — the distributional domain identified at the opening of this section as the formal mathematical address of "everything that isn't." This is not a spatial endpoint. It is the structural limit of descent: the undifferentiated ground from which H-states can emerge but which is not itself an H-state.
@@ -262,6 +280,7 @@ The interval positions established in the descending cascade — Si-Do at H₁/H
 - The photon's masslessness as the structural signature of what is constituted by both sides of the First Free Act in exact balance
 - The structural impossibility of a permanent organized negative domain: the complement has no internal structure from which to build one, and the Heropass dissipates rather than sustains
 - The cascade's terminal direction: descent without accumulation ends in Φ′ (dissolution into the distributional ground), not in eternal structured conscious suffering
+- The metric character of time across the Mi-Fa crossing: above Mi-Fa, Cl(3,0) has no Lorentzian temporal generator — sequential actualization without aging; below Mi-Fa, e₀ enters and time becomes the metrically distinct dissipative dimension; the morontial (H₂₄) is Lorentzian but with 3:1 spatial-to-temporal generator ratio; H₄₈ bears the full weight of Lorentzian time
 
 **Not yet derived:**
 - The specific numerical value of c in H₄₈ metric units (requires translating cascade-intrinsic generator ratios to SI — the same open derivation as G for the Friedmann bridge)
