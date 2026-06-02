@@ -5,7 +5,7 @@
 *Case Study 1 in a series on structural reading of non-theological texts*
 
 **Status:** Complete  
-**Cross-references:** Paper 11 ([[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]]); Paper 10 ([[Appendix I - Dictionary of Terms#Truth Measure|Truth Measure]] τ(D)); Structural Readings 03 ([[Appendix I - Dictionary of Terms#Noise Floor|noise floor]] reduction); Structural Readings 05 (Alchemical Tradition — [[Appendix I - Dictionary of Terms#Alchemical Stages|Nigredo]])
+**Cross-references:** Paper 11 ([[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]]); Paper 10 ([[Appendix I - Dictionary of Terms#Truth Measure|Truth Measure]] τ(D)); Structural Readings 03 ([[Appendix I - Dictionary of Terms#Noise Floor|noise floor]] reduction); Mysticism/Western Esotericism/The Alchemical Tradition (Alchemical Tradition — [[Appendix I - Dictionary of Terms#Alchemical Stages|Nigredo]])
 
 ---
 

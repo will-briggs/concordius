@@ -42,9 +42,10 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ---
 
-## Esoteric Traditions
+## Mysticism
 
-[[The Alchemical Tradition/index|The Alchemical Tradition]]
+[[Mysticism/index|The Hesychast Tradition · Meister Eckhart · The Cloud of Unknowing · John of the Cross →]]
+[[Mysticism/Western Esotericism/index|Western Esotericism →]] (The Hermetic Corpus · Paracelsus · Jakob Böhme · Rosicrucianism · The Alchemical Tradition)
 
 ---
 
@@ -78,7 +79,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ---
 
-## Doctrine
+## Christian Doctrine
 
 [[Christian Doctrine/The Eucharist: Transubstantiation|The Eucharist: Transubstantiation]]
 [[Christian Doctrine/The Lucifer Rebellion|The Lucifer Rebellion]]
