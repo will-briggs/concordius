@@ -10,4 +10,25 @@ The readings collected here apply the Concordius framework to visual works that 
 
 ---
 
-- [[The Last Supper]]
+**The Constitutive Relation**
+
+- [[The Creation of Adam]] — Michelangelo, c. 1512
+- [[The School of Athens]] — Raphael, 1509–1511
+
+**The Kenotic Period**
+
+- [[The Last Supper]] — Leonardo da Vinci, c. 1495–1498
+- [[The Transfiguration]] — Fra Angelico, c. 1440–1442
+
+**The Organizational Structure of Existence**
+
+- [[Christ Pantocrator, Cefalù]] — Byzantine mosaic, c. 1148
+- [[Hildegard — Scivias]] — Hildegard von Bingen, c. 1151
+- [[Doré — The Empyrean]] — Gustave Doré, 1868
+
+**The Luciferian Inversion and the Overdeterminate Condition**
+
+- [[The Ancient of Days]] — William Blake, 1794
+- [[Doré — Lucifer]] — Gustave Doré, 1866
+- [[Blake — The Great Red Dragon]] — William Blake, c. 1803–1805
+- [[Blake — Satan Smiting Job]] — William Blake, c. 1826
