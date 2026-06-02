@@ -171,6 +171,11 @@ The kenotic constraint adapts to the local noise floor. Where the noise floor is
 
 ---
 
+<figure>
+<img src="/images/fra-angelico-transfiguration.jpg" alt="The Transfiguration" style="max-width:100%;">
+<figcaption><em>Fra Angelico, The Transfiguration</em> (c. 1440–42). Convent of San Marco, Florence. The kenotic constraint partially lifted: H₁₂-level organizational content expressing through H₄₈ matter, the three disciples at the threshold of what their eigenvalue accumulation can sustain.</figcaption>
+</figure>
+
 ## 6. The Transfiguration as Maximum Kenotic Lifting
 
 The Transfiguration (Matthew 17:1-9; Structural Readings 02) is the most extreme modulation event within the earthly ministry: the kenotic constraint is lifted almost entirely for a brief period on a high mountain, in the presence of three disciples whose Φ-proximal eigenvalue accumulation is sufficient to survive the exposure.

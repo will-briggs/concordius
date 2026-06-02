@@ -6,6 +6,11 @@ tags:
 
 # Book 3 — Structural Readings
 
+<figure>
+<img src="/images/hildegard-scivias.jpg" alt="Hildegard von Bingen, Scivias" style="max-width:100%;">
+<figcaption><em>Hildegard von Bingen, Scivias</em> illumination (c. 1151). The concentric organizational spheres of the created order — the constraint cascade in 12th-century visual language. She did not know what she was drawing. The framework does.</figcaption>
+</figure>
+
 The Concordius framework applied to texts it did not produce. Each reading asks a single question: does the independently recognized depth of this text correspond to the structural features the framework predicts?
 
 

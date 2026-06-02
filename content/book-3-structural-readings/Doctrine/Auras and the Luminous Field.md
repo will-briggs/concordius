@@ -54,6 +54,11 @@ The cross-cultural consistency in color-meaning within the aura tradition — bl
 
 ---
 
+<figure>
+<img src="/images/pantocrator-cefalu.jpg" alt="Christ Pantocrator, Cefalù" style="max-width:100%;">
+<figcaption><em>Christ Pantocrator</em> (c. 1148). Cathedral of Cefalù, Sicily. The halo concentrated at the organizational center — the structural prediction of the framework confirmed in 12th-century Byzantine mosaic: the cross-term field strongest at the site of maximum Adjuster-personality integration.</figcaption>
+</figure>
+
 ## The halo in sacred art
 
 The cross-cultural independent appearance of the halo in sacred art is a structural prediction of the framework, not a puzzle requiring explanation.

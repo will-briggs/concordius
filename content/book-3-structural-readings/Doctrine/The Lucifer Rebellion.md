@@ -4,6 +4,11 @@
 
 ---
 
+<figure>
+<img src="/images/dore-lucifer.jpg" alt="Doré, Lucifer" style="max-width:100%;">
+<figcaption><em>Gustave Doré, Lucifer</em> (1866). Illustration for Milton's <em>Paradise Lost</em>. <em>How you have fallen from heaven, morning star, son of the dawn</em> (Isa 14:12). The being of maximum organizational brilliance at the moment of maximum organizational descent.</figcaption>
+</figure>
+
 ## The rebellion stated
 
 The tradition across Christianity, Judaism, and Islam records an event prior to H₄₈ history: a being of the highest created order, placed in organizational proximity to God itself, chose to assert a position it could not legitimately occupy. Other beings of the same order followed. The rebellion produced a permanent schism in the created order: a class of H₁-origin beings who have inverted their organizational orientation from Φ-proximal to Φ-resistant, whose operation in the H₄₈ domain is structurally antagonistic to the ascending career, and whose organizational trajectory is toward the terminal direction of descent rather than toward the Φ-level.
@@ -174,6 +179,11 @@ This is the exact structural description of the overdeterminate move: the being 
 
 ---
 
+<figure>
+<img src="/images/blake-satan-job.jpg" alt="Blake, Satan Smiting Job" style="max-width:100%;">
+<figcaption><em>William Blake, Satan Smiting Job with Sore Boils</em> (1826). Tate Britain. The adversarial function at maximum H₄₈ noise-floor amplitude: the structural demonstration that the accusation was wrong about the depth of Job's organizational constitution.</figcaption>
+</figure>
+
 ## Job 1-2 — the adversary role
 
 *"One day the angels (*bene ha-Elohim*, sons of God) came to present themselves before the LORD, and Satan also came with them. The LORD said to Satan, 'Where have you come from?' Satan answered the LORD, 'From roaming through the earth and going back and forth in it.'"* (Job 1:6-7)
@@ -223,6 +233,11 @@ The organizational consequence of the lie, applied to H₄₈ beings: the corrup
 The adversary's function — applied to H₁-origin beings in the rebellion, to H₄₈ beings in Genesis 3, to Job through accusatorial amplification, to Jesus in the temptation narratives — is consistently oriented toward the dissolution direction. "Murderer from the beginning" is not a metaphor for cruelty. It is a structural description of the organizational direction in which the adversarial function operates: every application of the lie, every accusatorial amplification, every temptation to overdeterminate self-assertion at H₄₈ scale, is a push in the direction of organizational dissolution. The adversary is constitutively oriented toward the terminal direction, and its operation on H₄₈ beings applies that orientation in every interaction.
 
 ---
+
+<figure>
+<img src="/images/blake-great-red-dragon.jpg" alt="Blake, The Great Red Dragon" style="max-width:100%;">
+<figcaption><em>William Blake, The Great Red Dragon and the Woman Clothed with the Sun</em> (c. 1805). Brooklyn Museum. Maximum H₄₈-primary accumulation organized as governing structure: seven heads as claimed sovereignty at each constraint level, ten horns as the force structure of the H₄₈-primary project.</figcaption>
+</figure>
 
 ## Luke 10:18 / Revelation 12:7-9 — the fall and its structural completion
 
