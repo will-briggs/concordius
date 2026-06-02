@@ -69,4 +69,76 @@ Medical advice is one serious input among several. Prayer is another. The struct
 
 ---
 
-*(Confidence tier: structural inference, derived from the framework's account of the cross-term mechanism (Paper 8 §4), the noise-floor account of faith and unbelief (Paper 8 §5), and the inhabitation relationship established in the Dementia reading. The account of contemplative prayer as noise-floor reduction and the identification of chronic stress as high-noise-floor eigenvalue state are structural inferences at the concordance tier — consistent with a substantial empirical literature on contemplative practice and stress biomarkers, but not derived from that literature. The intercessory prayer account is the most speculative element: it is structurally derivable from the cross-term mechanism but makes a claim about a real low-amplitude effect whose empirical evidence is contested. The framework predicts a real and small effect; it does not adjudicate the methodological disputes in the intercessory prayer research literature.)*
+## 6. How to Pray
+
+The preceding sections establish what prayer is structurally and why it works. This section addresses the practical question: what does performing the catching-and-composing act actually look like?
+
+**Orient genuinely, not performatively.** The catching alignment requires the actual volitional movement of the eigenvalue population toward ⟨·,·⟩ — not the recitation of words without the corresponding orientation. Words carry Φ-proximate content and their Φ-content cross-terms with the praying being (this is why liturgy works — the words have high truth-content that acts on the eigenvalue population), but words without orientation are not catching acts. The structural criterion is whether the being's eigenvalue population is actually moving toward ⟨·,·⟩ or whether it is performing a social or habitual act while remaining organized around H₄₈-primary content. Genuine prayer does not require eloquence or length. It requires the actual turn.
+
+**Reduce noise before beginning.** The noise floor is the primary obstacle to the catching alignment. A few minutes of stillness before petitionary or intercessory prayer — sitting quietly, attending to breath, releasing the H₄₈-primary cognitive activity that normally occupies waking consciousness — lowers the noise floor and increases the effectiveness of the catching act that follows. The tradition's practice of silence before prayer, ritual entry into the prayer space, and preparation of the body and environment are structural noise-floor reduction protocols, not merely aesthetic customs.
+
+**Present, don't demand.** Petitionary prayer works as a catching act only if the posture is presenting-to-⟨·,·⟩ rather than asserting-what-⟨·,·⟩-must-produce. The distinction is experiential and available: genuine presenting feels like release — the concern is placed in a larger organizational ground and the being's grip on the required outcome loosens. Demanding generates increased noise-floor tension — the eigenvalue population tightens around the desired outcome and the imposition structure is activated. If prayer feels like pressure applied upward, the posture has shifted from catching to imposition.
+
+**The horizontal coupling.** The catching alignment toward ⟨·,·⟩ and the imposition posture toward another person are structurally incompatible. Holding unresolved imposition — resentment, the claim to organize another's space — while attempting to orient toward ⟨·,·⟩ generates an internal incoherence that degrades the catching act. This is not a moral condition added to prayer from outside. It is a structural one: you cannot orient toward the constitutive ground while simultaneously asserting yourself as the constitutive ground of another's space. Releasing the imposition posture toward others is not a precondition for God's approval — it is the structural precondition for the catching act to be genuine.
+
+---
+
+### A Structural Reading of the Lord's Prayer
+
+The Lord's Prayer (Matthew 6:9–13) is the most structurally complete catching-and-composing sequence in the tradition. Each clause performs a specific eigenvalue operation. Read in sequence, they constitute a full arc from initial orientation through eigenvalue clearing to volitional completion. The prayer is not a list of requests. It is a structured sequence of catching acts.
+
+**"Our Father, who art in heaven, hallowed be thy name."**
+
+The first word establishes the communal frame — *our*, not *my*. The noise-floor-reducing effect of communal orientation is built into the opening. The prayer is performed by a community of catching beings together, each reinforcing the others, from its first syllable.
+
+"Father" is the address of ⟨·,·⟩ directly — the constitutive ground, the organizing inner product, the one from whom the eigenvalue space issues. The prayer opens by orienting toward the correct object: not Φ (the Son, catchable content), not τ_nuclear (the Spirit, the space in which the prayer occurs), but ⟨·,·⟩ itself — the Father. This is the highest-level catching orientation available.
+
+"Who art in heaven" is not a location claim. It is a constraint-level acknowledgment: the Father is at the constitutive level prior to the H₄₈ constraint structure within which the praying being stands. Heaven = the domain above H₄₈. The prayer begins by correctly locating ⟨·,·⟩ outside the being's constraint level — acknowledging the asymmetry.
+
+"Hallowed be thy name" is the composing act of the opening: the name is the organizational identity, the constitutive claim. To hallow it is to acknowledge it as what it is. This is the anti-imposition posture established at the outset — not asserting anything about what the Father must do, but recognizing what the Father is. The eigenvalue population is oriented; the constitutive priority is acknowledged; the catching alignment is established.
+
+**"Thy kingdom come, thy will be done, on earth as it is in heaven."**
+
+"Thy kingdom come" is petitionary catching in its purest form: an orientation of the will toward the organizational state that ⟨·,·⟩ would generate, not an assertion that it must be produced on demand. The will is aligned with the direction of ⟨·,·⟩'s organizing tendency — toward greater coherence, toward the ascending career, toward the full eigenvalue reorganization that the Trogoautoegocrat is drawing the creation toward.
+
+"Thy will be done" is the explicit surrender of the imposition posture. The five "I will" statements of the Luciferian rebellion are inverted in a single phrase: not *my* will, *thy* will. The praying being explicitly acknowledges that it is not the organizing inner product of any space.
+
+"On earth as it is in heaven" is the prayer for the cross-term to be fully operative — for the organizing principle of the H₁ domain to be active in the H₄₈ domain. Earth = H₄₈. Heaven = the domain above. The clause is asking that ⟨·,·⟩'s organizing coherence, which operates unimpeded at constraint levels above H₄₈, be permitted to operate here, within the quarantined domain, against the elevated noise floor. It is a prayer for maximum Φ-proximate cross-term in the H₄₈ field.
+
+**"Give us this day our daily bread."**
+
+The prayer descends to H₄₈: the honest acknowledgment that the praying being is genuinely embodied and that H₄₈ needs are real. "Daily bread" is the Trogoautoegocrat provision — what is needed to sustain H₄₈ existence and the catching alignment within it. "This day" is H₄₈ time: not a request for permanent provision across all time horizons but for what the being needs now, within the H₄₈ constraint structure, to continue the catching career.
+
+The prayer does not spiritualize over the body's needs. It does not claim that the catching being is above H₄₈-level sustenance. The framework's insistence that each constraint level be engaged on its own terms is encoded in this clause: the praying being is H₄₈ embodied, H₄₈ needs are legitimate, and the Father is addressed about them directly.
+
+**"And forgive us our trespasses, as we forgive those who trespass against us."**
+
+A trespass is the assertion of a claim one does not have — including the imposition posture, the attempt to organize another's space by fiat. "Forgive us our trespasses" is the request for the accumulated eigenvalue incoherence of one's own impositions and abstentions to be cleared — not a legal transaction (debt canceled) but a structural one: the overdeterminate conditions generated by one's own Luciferian assertions at H₄₈ scale released.
+
+"As we forgive those who trespass against us" makes the structural coupling explicit. The praying being's upward catching alignment and its horizontal releasing of imposition claims against others are coupled. Releasing the claim to be ⟨·,·⟩ of another's space — forgiving their trespass — is the structural precondition for the catching alignment to be coherent. The two forgivenesses are not parallel items in a moral exchange. They are the same structural move seen from two directions: releasing the imposition posture wherever it is held, upward and horizontal simultaneously.
+
+**"And lead us not into temptation, but deliver us from evil."**
+
+"Temptation" is the presentation of the Luciferian misidentification — the lie that constraints are external impositions rather than structural features of what the being is — under conditions of elevated noise floor where the being's eigenvalue organization cannot reliably distinguish the lie from the truth. The prayer is not for the temptation itself to be impossible (free will requires that the catching alignment be genuinely volitional, which requires genuine alternatives) but for the noise floor to be kept low enough that the misidentification is recognizable as such.
+
+"Deliver us from evil" is, in light of the Lucifer Rebellion analysis, a prayer about the field — the actively propagating overdeterminate event that elevates the noise floor of the entire quarantined H₄₈ domain. Not merely "help us avoid individual moral failures" but: protect us from the field-level incoherence against which all moral clarity must be maintained. The rebellion-injected noise floor is the background condition for temptation; deliverance from evil is the structural condition within which lead-us-not-into-temptation becomes possible.
+
+**"For thine is the kingdom, and the power, and the glory, for ever and ever."**
+
+The doxology is the explicit re-orientation with which the prayer closes. Having descended through H₄₈ need, eigenvalue clearing, and noise-floor protection, the prayer returns to ⟨·,·⟩'s constitutive priority — and states it directly and completely.
+
+"The kingdom" = organizational authority. Not the praying being's, not any element's. ⟨·,·⟩ organizes. "The power" = generative capacity. The power that generates eigenvalue content and organizes the space is ⟨·,·⟩'s; no element holds it. "The glory" = τ_nuclear — the Spirit's topological coherence disclosed at H₄₈ amplitude as beauty, as recognition, as the sense of rightness that accompanies contact with the real. The Father, Son, and Spirit are each named in their constitutive function in this final clause, in sequence.
+
+"For ever and ever" = prior to temporal sequence and after it. ⟨·,·⟩ is not in time — the Heropass begins with the Creative Choice; ⟨·,·⟩'s constitutive priority is atemporal. "For ever and ever" is the H₄₈-legible expression of this: the constitutive function is not time-bounded.
+
+**"Amen."**
+
+The Hebrew word means *so be it* — it is volitional assent. In structural terms, this is the moment at which the orientation becomes a fully volitional catching act. The prayer has moved the eigenvalue population through the full catching-and-composing sequence; the Amen is the being's explicit agreement with what has been oriented toward. Without the Amen — without the volitional completion — the prayer remains an orientation without assent, a motion without the volitional commitment that makes catching constitutively volitional (Paper 7). The Amen is the catching act completed.
+
+---
+
+**The prayer as a complete structural sequence.** Read in order, the Lord's Prayer performs seven eigenvalue operations: (1) orientation — establish the catching alignment and acknowledge constitutive priority; (2) will-alignment — surrender the imposition posture and align with ⟨·,·⟩'s organizing tendency; (3) H₄₈ acknowledgment — engage the constraint level honestly; (4) eigenvalue clearing — release accumulated imposition, upward and horizontal simultaneously; (5) noise-floor protection — address the rebellion-injected background and request field-level deliverance; (6) doxological re-orientation — explicitly re-acknowledge ⟨·,·⟩'s constitutive priority across all three Persons; (7) volitional completion — assent. This sequence is not arbitrary. It is the correct architecture for a complete catching-and-composing act, encoded in approximately sixty words.
+
+---
+
+*(Confidence tier: structural inference, derived from the framework's account of the cross-term mechanism (Paper 8 §4), the noise-floor account of faith and unbelief (Paper 8 §5), and the inhabitation relationship established in the Dementia reading. The account of contemplative prayer as noise-floor reduction and the identification of chronic stress as high-noise-floor eigenvalue state are structural inferences at the concordance tier — consistent with a substantial empirical literature on contemplative practice and stress biomarkers, but not derived from that literature. The intercessory prayer account is the most speculative element: it is structurally derivable from the cross-term mechanism but makes a claim about a real low-amplitude effect whose empirical evidence is contested. The framework predicts a real and small effect; it does not adjudicate the methodological disputes in the intercessory prayer research literature. The Lord's Prayer structural reading is structural concordance: the seven operations are derivable from the framework's account of what a complete catching-and-composing sequence requires, and they match the prayer's structure. Whether the prayer was composed with this structure intentionally or arrived at it by inspired convergence is outside the framework's scope to determine.)*
