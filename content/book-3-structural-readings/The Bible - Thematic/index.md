@@ -10,11 +10,11 @@ Thematic readings across the biblical corpus, organized by subject rather than b
 
 **Structural Essays**
 
-- [[01 — The Principle and the Identity of the Logos|I — The Principle and the Identity of the Logos]]
-- [[02 — The Incarnation, Ministry, and the Ascending Career|II — The Incarnation, Ministry, and the Ascending Career]]
-- [[03 — Affliction, Practice, and the Creation Groaning|III — Affliction, Practice, and the Creation Groaning]]
-- [[04 — The Revelation of the Structure|IV — The Revelation of the Structure]]
-- [[05 — The Measure Is the Inner Product|V — The Measure Is the Inner Product]]
+- [[The Principle and the Identity of the Logos|I — The Principle and the Identity of the Logos]]
+- [[The Incarnation, Ministry, and the Ascending Career|II — The Incarnation, Ministry, and the Ascending Career]]
+- [[Affliction, Practice, and the Creation Groaning|III — Affliction, Practice, and the Creation Groaning]]
+- [[The Revelation of the Structure|IV — The Revelation of the Structure]]
+- [[The Measure Is the Inner Product|V — The Measure Is the Inner Product]]
 
 ---
 
