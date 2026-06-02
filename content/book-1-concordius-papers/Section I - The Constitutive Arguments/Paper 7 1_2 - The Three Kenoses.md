@@ -1,4 +1,4 @@
-*← [[Paper 7 - The Trogoautoegocrat|Paper 7 — The Trogoautoegocrat]]*
+*← [[Paper 7 - The Spirit Integrates|Paper 7 — The Spirit Integrates]]*
 
 # Paper 7½ — The Three Kenoses
 
@@ -185,7 +185,7 @@ The ontological order generates the created order from above. The epistemologica
 
 ---
 
-*Cross-reference: [[Paper 3 - The Creative Choice]] §9; [[Paper 6 - The Cogito Coheres]] OQ8; [[Paper 7 - The Trogoautoegocrat]]; [[Paper 8 - The Maximum Downward Entry]] §§3, 7, 9, 10; [[Paper 24 1_2 - The Mi-Fa Interval]]; [[Paper 28 1_2 - The Si-Do Interval]]; [[Appendix I - Dictionary of Terms#Kenosis|Kenosis]]; [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]]*
+*Cross-reference: [[Paper 3 - The Father Creates]] §9; [[Paper 6 - The Cogito Coheres]] OQ8; [[Paper 7 - The Spirit Integrates]]; [[Paper 8 - The Maximum Downward Entry]] §§3, 7, 9, 10; [[Paper 24 1_2 - The Mi-Fa Interval]]; [[Paper 28 1_2 - The Si-Do Interval]]; [[Appendix I - Dictionary of Terms#Kenosis|Kenosis]]; [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]]*
 
 ---
 

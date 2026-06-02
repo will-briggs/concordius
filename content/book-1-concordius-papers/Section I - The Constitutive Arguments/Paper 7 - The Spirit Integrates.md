@@ -1,6 +1,6 @@
 *← [[Paper 6 - The Cogito Coheres|Paper 6 — The Cogito Coheres: Catching, the Thought Adjuster, and the Sifting Field]]*
 
-# The Trogoautoegocrat: The Reciprocal Maintenance of the Created Order
+# The Spirit Integrates: The Trogoautoegocrat
 
 *Seventh paper in the Concordius series. Companion to Papers 1–6.*
 
@@ -323,7 +323,7 @@ The Trogoautoegocrat is the universe maintaining itself in the image of the choi
 
 ---
 
-*Cross-reference: [[Paper 1 - Modeling Reality as a Gelfand Triple]]; [[Paper 2 - From the Cogito to the Logos]]; [[Paper 3 - The Creative Choice]]; [[Paper 4 - Descent as Densification]]; [[Physics Concordance]] — Trogoautoegocrat, Heptaparaparshinokh, Heropass entries; [[The Structural Reading]]; [[Appendix II - Structural Reading of the Concordius Series]]*
+*Cross-reference: [[Paper 1 - Modeling Reality as a Gelfand Triple]]; [[Paper 2 - From the Cogito to the Logos]]; [[Paper 3 - The Father Creates]]; [[Paper 4 - Descent as Densification]]; [[Physics Concordance]] — Trogoautoegocrat, Heptaparaparshinokh, Heropass entries; [[The Structural Reading]]; [[Appendix II - Structural Reading of the Concordius Series]]*
 
 ---
 

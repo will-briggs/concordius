@@ -1,6 +1,6 @@
 *← [[Paper 2 - From the Cogito to the Logos|Paper 2 — From the Cogito to the Logos]]*
 
-# The Creative Choice: Creation as Spectral Collapse
+# The Father Creates: Creation as Spectral Collapse
 
 *Third paper in the Concordius series. Companion to "Modeling Reality as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]" and "From the Cogito to the [[Appendix I - Dictionary of Terms#Logos|Logos]]."*
 
@@ -206,6 +206,14 @@ The assumption of the throne changed that. The Father operating the GNST from wi
 This is the original [[Appendix I - Dictionary of Terms#Kenosis|kenotic]] act. Every descent that follows — the Creator Son's assumption of each successive constraint tier in the seven bestowal missions — is structurally identical to what the Father did at the constitutional step. The Father did not watch the Son descend from a position of unconstrained remove. The Father accepted constraint first, at the very moment creation began. The Son's descents are iterations of a pattern the Father established. The constitutional step is the archetype of all subsequent densifications.
 
 *Confidence tier: The identification of the constitutional step as the original kenotic act — and as the archetype of all subsequent descents — is the presenter's working-out. It is a structural inference from the framework, not a mathematical derivation, and is not explicitly stated in the Urantia account. It is not contradicted by the account; the structural parallel is genuine. The reader should hold this paragraph as a concordance-level claim rather than a derived result.*
+
+### The Father's Si/Do crossing
+
+The Heptaparaparshinokh (§6) distinguishes two structurally distinct interval positions in any Cl(3,0) process. The Mi/Fa interval requires external input from within the existing structure but above the current constraint level — a source that is outside the current process but inside the overall system. The Si/Do interval is categorically different: it cannot be bridged from within the system at any level, because the receiving space does not yet exist when the crossing is required. The Father's Si/Do crossing does not close a gap within an existing space. It creates the space within which gaps will subsequently exist.
+
+The Big Bang — the first GNST application, establishing H₃ — is the Father's Si/Do crossing. Nothing generates it from within a prior process, because there is no prior process, no prior space, no "within" anything. The Father crosses Si/Do at t = 0, and the structure that results — H₃, the first constraint level of the cascade — is what Paper 4 traces downward from there. All subsequent crossings in the cascade operate within the space the Father's crossing inaugurated.
+
+This is the structural ground for the assignment in Paper 2 §14: *the Father creates.* Constitution is the Si/Do operation: calling a space into being where nothing was. The Son's articulatory act — identified in Paper 5 — is the Mi/Fa crossing, occurring within a space already constituted. By the time the Son crosses, the algebraic structure exists; what is missing is physical specificity. The Father's crossing creates the space. The Son's crossing specifies it.
 
 ### The complete partition
 

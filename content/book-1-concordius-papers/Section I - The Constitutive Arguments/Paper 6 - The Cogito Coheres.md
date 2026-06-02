@@ -1,4 +1,4 @@
-*← [[Paper 5 - H48 - The Higgs Mechanism Arrives|Paper 5 — H₄₈: The Higgs Mechanism Arrives]]*
+*← [[Paper 5 - The Son Articulates|Paper 5 — The Son Articulates: H₄₈ and the Higgs Mechanism]]*
 
 # The Cogito Coheres: Catching, the Thought Adjuster, and the Sifting Field
 
@@ -391,8 +391,8 @@ That question is not rhetorical. It has a structural answer. The Trogoautoegocra
 
 ---
 
-*Cross-reference: [[Paper 1 - Modeling Reality as a Gelfand Triple]]; [[Paper 2 - From the Cogito to the Logos]]; [[Paper 3 - The Creative Choice]]; [[Paper 4 - Descent as Densification]] — Section 2 (norm as gravity); [[Paper 7 - The Trogoautoegocrat]] — Section 3 (Master Spirits as cosmic instantiation), Open Question 4 (grade structure of planetary sequence); [[Paper 7 1_2 - The Three Kenoses]] — the full kenotic sequence; [[Episodes/Season 1/S1E3 - The Superuniverse: Seven from Three]]; [[Episodes/Season 1/S1E4 - Clifford Algebra in Time: The Seven Bestowal Missions]]; [[The Structural Reading]] — norm and Isle of Paradise entries; [[Physics Concordance]] — Isle of Paradise, norm, eigenvalue spectrum entries*
+*Cross-reference: [[Paper 1 - Modeling Reality as a Gelfand Triple]]; [[Paper 2 - From the Cogito to the Logos]]; [[Paper 3 - The Father Creates]]; [[Paper 4 - Descent as Densification]] — Section 2 (norm as gravity); [[Paper 7 - The Spirit Integrates]] — Section 3 (Master Spirits as cosmic instantiation), Open Question 4 (grade structure of planetary sequence); [[Paper 7 1_2 - The Three Kenoses]] — the full kenotic sequence; [[Episodes/Season 1/S1E3 - The Superuniverse: Seven from Three]]; [[Episodes/Season 1/S1E4 - Clifford Algebra in Time: The Seven Bestowal Missions]]; [[The Structural Reading]] — norm and Isle of Paradise entries; [[Physics Concordance]] — Isle of Paradise, norm, eigenvalue spectrum entries*
 
 ---
 
-*[[Paper 7 - The Trogoautoegocrat|Paper 7 — The Trogoautoegocrat]] →*
+*[[Paper 7 - The Spirit Integrates|Paper 7 — The Spirit Integrates]] →*

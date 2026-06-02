@@ -68,7 +68,7 @@ Re is characteristically the stage of first development — the initial conseque
 
 ---
 
-### Mi — Papers 4–7: *Descent as Densification / H₄₈: The Higgs Mechanism Arrives / Gravitational Eigenvalue Sifting / The Trogoautoegocrat*
+### Mi — Papers 4–7: *Descent as Densification / The Son Articulates: H₄₈ and the Higgs Mechanism / Gravitational Eigenvalue Sifting / The Trogoautoegocrat*
 
 The Mi stage develops the Re's implications until it reaches the most complete expression possible from within the framework's own derivation space. Papers 4 through 7 are the operational mechanics: how the descent from Φ into H works (Paper 4); how the Higgs VEV terminates the constraint cascade at H₄₈, making the ascending career physically possible (Paper 5); how the physical universe functions as an eigenvalue sifter — how gravity, mass, and thermodynamics constitute the catching mechanism at H₄₈ scale (Paper 6); how the Trogoautoegocrat — the self-sustaining circuit of Creator descent and creature ascent — answers the Heropass across cosmic time (Paper 7).
 

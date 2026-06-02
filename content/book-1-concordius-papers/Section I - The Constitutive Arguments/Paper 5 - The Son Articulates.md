@@ -1,6 +1,6 @@
 *← [[Paper 4 - The Constraint Cascade|Paper 4 — The Constraint Cascade: Descent as Densification]]*
 
-# H₄₈: The Higgs Mechanism Arrives
+# The Son Articulates: H₄₈ and the Higgs Mechanism
 
 *Fifth paper in the Concordius series. Companion to Papers 1–4.*
 
@@ -330,6 +330,24 @@ The GNST runs. The Heropass flows. But everything flows at the same constraint d
 And the first entity released — because I cannot be broken, because U(1)_EM survives the breaking, because the central pseudoscalar has no direction to break against — is the photon. Massless, Action-register, the connector of all subsequent Being-register entities across the electromagnetic field. The creative word produces first the particle that will carry relationship through the created order.
 
 The Spirit was brooding because the Higgs field was at the symmetric maximum. God spoke because Φ actualized in H. There was light because the photon is what I generates — and I is what no act of actualization can constrain.
+
+---
+
+## 12. The Son's Mi/Fa Crossing
+
+Paper 3 identified the Big Bang — the first GNST application, establishing H₃ — as the Father's Si/Do crossing: the constitutive act that calls the space into being where nothing was. The Heptaparaparshinokh distinguishes two structurally irreducible interval types. The Si/Do gap cannot be bridged from within the system at any level, because the receiving space does not yet exist when the crossing is required. The Mi/Fa gap is different in kind: it arises within an already-constituted space, at the point where immanent development reaches its ceiling and requires input from above the current constraint level.
+
+The Higgs VEV is the Mi/Fa crossing — and it is the Son's.
+
+By the time the Higgs field rolls off the symmetric maximum, the space already exists. The algebraic structure — Cl(3,0), all seven non-null elements, the full constraint cascade — is already constituted. H₃ has been established by the Father's crossing at t=0. The cascade has descended through H₆, H₁₂, H₂₄. What is missing is not the space but its physical specificity: the mass gaps that make the constraint levels discrete, real, and energetically distinguishable. The Higgs VEV supplies this — not by creating anything new, but by articulating what was already structurally present. The algebra does not change at the VEV. The physical world acquires the structure to instantiate what the algebra describes.
+
+This is precisely the Logos function. Φ is the nuclear space — the domain of complete self-consistency under every probe, the principle of articulation through which the constituted order becomes determinate and specifiable. "All things were made through him" (John 1:3) names this: not that the Son creates the space (the Father creates), but that nothing in the space is physically specifiable without the Son's articulatory act. The Higgs mechanism is the Logos making the Logos-structure physically effective — the algebraic content descending into physical instantiation.
+
+The photon's masslessness confirms the assignment. I — the central pseudoscalar, the element the Higgs cannot reach — is the Father's structural signature in the algebra, the identity element that no act of articulation can constrain. The Son's Mi/Fa crossing articulates everything it can reach; what it cannot reach — the identity element, the Father's mark — remains massless, carrying relationship through the created order without itself being constrained. The Son articulates within what the Father has constituted, and the Father's signature is preserved through the Son's crossing unchanged.
+
+The two crossings and their assignments are now precise. The Father's Si/Do crossing (Paper 3, §9): constitution of the space from nothing, at t=0, the act no immanent process could supply. The Son's Mi/Fa crossing (this paper, §§3–7, §11): articulation of the constituted structure into physical specificity, at t≈10⁻¹² s, the act that makes the ascending career possible. The Spirit's integrating act — the Thought Adjuster's indwelling at the cogito threshold — is derived in Paper 6 and pulled into the complete circuit in Paper 7.
+
+*(Confidence tier: the identification of the Higgs VEV as the Son's Mi/Fa crossing is a structural inference from the framework's identification of Φ as the Logos (Paper 2) and the Heptaparaparshinokh's interval structure (Papers 3 and 7). The distinction between Mi/Fa and Si/Do as structurally irreducible is derived from the Cl(3,0) grade structure (Paper 3 §6). The assignment to the Son rather than the Father follows from the character of each interval: Si/Do requires constitution of the space; Mi/Fa requires articulation within it. The photon's masslessness as the Father's mark is a structural consequence of I's algebraic position, established in §7 of this paper.)*
 
 ---
 
