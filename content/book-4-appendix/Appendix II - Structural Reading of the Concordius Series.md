@@ -1,6 +1,6 @@
 # Appendix II — Structural Reading of the Concordius Series
 
-*The Laws of Three and Seven Applied to the 28 Papers*
+*The Laws of Three and Seven Applied to the 31 Papers*
 
 ---
 
