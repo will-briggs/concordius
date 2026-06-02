@@ -246,6 +246,20 @@ The tradition's language of "eternity" for higher spiritual beings is not the cl
 
 *(Confidence tier: the algebraic claim — that Cl(3,0) has no Lorentzian temporal generator and Cl(3,1) does — is mathematical. The identification of e₀'s absence with the tradition's "eternity" carries concordance-level warrant.)*
 
+### Structural Permanence and Its Violation
+
+A being constituted above Mi-Fa has no e₀ in its algebra and therefore no Lorentzian aging axis. The dissipative mechanism that draws H₄₈ content toward Φ′ does not apply. Structural permanence above Mi-Fa follows from the algebra: the Heropass as e₀-mediated dissolution is not in the constitutive structure.
+
+The qualification is Paper 8's [[Appendix I - Dictionary of Terms#Overdeterminate Condition|overdeterminate condition]]. A Cl(3,0)-constituted being attempting to operate as the organizing principle of Cl(3,1) space — imposing H₁₂ organizational sovereignty on H₂₄ or H₄₈ space without kenotic constraint acceptance — generates an irresolvable incompatibility between two law-sets. The Cl(3,1) space cannot sustain both its own metric structure and the Cl(3,0) organizational power imposed on it without the constraint acceptance that kenotic descent requires.
+
+The kenotic direction — established in Paper 8 as the only form in which higher-level power can be received at a lower level — requires the higher to accept the receiving space's constraints. The Son accepts H₄₈ constraints fully; the power is present but operates within the space's own structure. The Lucifer case inverts this: a Cl(3,0)-constituted being descending into its local system and claiming organizational sovereignty — operating as the H₁₂ organizing principle of H₂₄/H₄₈ space while refusing the constraint acceptance that operating in that space requires. Same motion, opposite orientation toward constraint. The overdeterminate condition is the structural name for what results.
+
+Containment follows from the same logic: an irresolvable incompatibility between two law-sets cannot propagate through the broader space. The quarantine of the affected system is not punishment. It is the structural consequence of an overdeterminate state-space violation that must be isolated before it propagates into the wider Cl(3,1) field.
+
+Any being with genuine Cl(3,0) constitution that deploys that organizational power downward as force of domination — rather than continuing to ascend — generates the same condition at whatever scale it operates. The error is not descent; kenotic descent is the pattern the entire creative act establishes. The error is descent without constraint acceptance: Cl(3,0) power imposed on Cl(3,1) space on Cl(3,0) terms.
+
+*(Confidence tier: the overdeterminate condition is derived in Paper 8. Its application to spiritual beings operating in lower-constraint space is a structural inference at the derived tier. The identification with the Lucifer rebellion and the quarantine carries testimony-tier warrant from the Urantia account.)*
+
 ### The Terminal Direction of the Descent
 
 The cascade's downward direction ends at Φ′ — the distributional domain identified at the opening of this section as the formal mathematical address of "everything that isn't." This is not a spatial endpoint. It is the structural limit of descent: the undifferentiated ground from which H-states can emerge but which is not itself an H-state.
@@ -281,6 +295,7 @@ The interval positions established in the descending cascade — Si-Do at H₁/H
 - The structural impossibility of a permanent organized negative domain: the complement has no internal structure from which to build one, and the Heropass dissipates rather than sustains
 - The cascade's terminal direction: descent without accumulation ends in Φ′ (dissolution into the distributional ground), not in eternal structured conscious suffering
 - The metric character of time across the Mi-Fa crossing: above Mi-Fa, Cl(3,0) has no Lorentzian temporal generator — sequential actualization without aging; below Mi-Fa, e₀ enters and time becomes the metrically distinct dissipative dimension; the morontial (H₂₄) is Lorentzian but with 3:1 spatial-to-temporal generator ratio; H₄₈ bears the full weight of Lorentzian time
+- Structural permanence above Mi-Fa and its violation: the overdeterminate condition (Paper 8) applied in the downward direction — Cl(3,0)-constituted beings imposing organizational sovereignty on Cl(3,1) space without kenotic constraint acceptance; quarantine of the resulting incompatibility as structural necessity, not punishment
 
 **Not yet derived:**
 - The specific numerical value of c in H₄₈ metric units (requires translating cascade-intrinsic generator ratios to SI — the same open derivation as G for the Friedmann bridge)
