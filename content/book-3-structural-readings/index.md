@@ -30,7 +30,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ## Literature
 
-[[Shakespeare's Sonnets/index|Shakespeare — The Sonnets]]
+[[Literature/Shakespeare's Sonnets/index|Shakespeare — The Sonnets]]
 
 ---
 
