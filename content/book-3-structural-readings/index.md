@@ -70,10 +70,16 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ---
 
+## Spectral Events
+
+[[Spectral Events/Auras and the Luminous Field|Auras and the Luminous Field]]
+[[Spectral Events/Miracles|Miracles]]
+[[Spectral Events/Private Dowding|Private Dowding]]
+
+---
+
 ## Doctrine
 
-[[Doctrine/Auras and the Luminous Field|Auras and the Luminous Field]]
-[[Doctrine/Miracles|Miracles]]
 [[Doctrine/The Eucharist: Transubstantiation|The Eucharist: Transubstantiation]]
 [[Doctrine/The Lucifer Rebellion|The Lucifer Rebellion]]
 [[Doctrine/The Magisterium|The Magisterium]]
