@@ -18,7 +18,11 @@ dl() {
   # After download, auto-resizes to max 1400px wide if file exceeds MAX_KB.
   local out="$DIR/$1" url="$2" label="$3"
   eval "URL_FOR_$(echo "$1" | tr '.-' '__')=\"$url\""
-  if [ -f "$out" ] && [ -s "$out" ] && ! (head -c 15 "$out" | tr '[:upper:]' '[:lower:]' | grep -q "<!doctype\|<html"); then
+  if [ -f "$out" ] && python3 -c "
+import sys
+with open(sys.argv[1],'rb') as f: m=f.read(12)
+sys.exit(0 if (m[:3]==b'\xff\xd8\xff' or m[:4]==b'\x89PNG' or m[:6] in (b'GIF87a',b'GIF89a') or m[:4]==b'RIFF') else 1)
+" "$out" 2>/dev/null; then
     echo "Skipping $label (already valid)"
     return 0
   fi
@@ -57,21 +61,35 @@ check_image() {
     ERRORS=$((ERRORS + 1))
     return 1
   fi
-  # Check directly for the failure mode: HTML redirect saved as image
-  local first_bytes
-  first_bytes=$(head -c 15 "$path" | tr '[:upper:]' '[:lower:]' | tr -d '\r\n')
-  if echo "$first_bytes" | grep -q "<!doctype\|<html"; then
+  # Validate using magic bytes — catches HTML, JSON errors, and any non-image content
+  local is_image
+  is_image=$(python3 -c "
+import sys
+try:
+    with open(sys.argv[1], 'rb') as f:
+        magic = f.read(12)
+    if (magic[:3] == b'\xff\xd8\xff' or        # JPEG
+        magic[:4] == b'\x89PNG' or              # PNG
+        magic[:6] in (b'GIF87a', b'GIF89a') or  # GIF
+        magic[:4] == b'RIFF'):                  # WebP
+        print('ok')
+    else:
+        print('fail:' + repr(magic[:40]))
+except Exception as e:
+    print('fail:' + str(e))
+" "$path" 2>/dev/null)
+  if [ "$is_image" = "ok" ]; then
+    local size
+    size=$(wc -c < "$path" | tr -d ' ')
+    echo "  OK:   $filename  (${size} bytes)"
+  else
     local snippet
     snippet=$(head -c 120 "$path" | tr -d '\000' | cut -c1-80)
-    echo "  FAIL: $filename — HTML redirect page, not an image: $snippet"
+    echo "  FAIL: $filename — not a valid image ($is_image): $snippet"
     FAILED_FILES+=("$filename")
     FAILED_URLS+=("$url")
     ERRORS=$((ERRORS + 1))
     return 1
-  else
-    local size
-    size=$(wc -c < "$path" | tr -d ' ')
-    echo "  OK:   $filename  (${size} bytes)"
   fi
 }
 
@@ -96,11 +114,11 @@ dl blake-glad-day.jpg \
 # ─── Book 3 — Structural Readings section frontispieces ─────────────────────
 
 dl flammarion-engraving.jpg \
-  "https://upload.wikimedia.org/wikipedia/commons/b/be/Flammarion.jpg" \
+  "https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg" \
   "Book 1 index: Flammarion engraving (1888)"
 
 dl melies-trip-to-moon.jpg \
-  "https://upload.wikimedia.org/wikipedia/commons/a/a7/Le_Voyage_dans_la_lune.jpg" \
+  "https://upload.wikimedia.org/wikipedia/commons/0/0c/Le_Voyage_dans_la_lune.jpg" \
   "Movies: Méliès - A Trip to the Moon (1902)"
 
 dl kells-chi-rho.png \
