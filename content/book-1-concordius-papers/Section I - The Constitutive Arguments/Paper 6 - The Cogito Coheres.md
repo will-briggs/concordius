@@ -93,6 +93,8 @@ The catching being now exists. The Thought Adjuster has indwelt. The orientation
 
 Orientation is the preparation. Reception is the act. Composition is the accumulation.
 
+**Terminological note.** The full act is catching-and-composing. Throughout this series, "catching" is used as shorthand for the complete three-stage act when context is clear — as it almost always is. The shorthand is harmless so long as it is understood that reception without composition is catching that leaves no trace, and orientation without reception is preparation that produced nothing. When precision requires distinguishing the stages, the three-part vocabulary above applies.
+
 **What catching is not.** Catching is not intellectual understanding of the framework. A Man 1 being who has never encountered this series can catch — can turn toward the Adjuster's indication and orient toward the Good within whatever conceptual vocabulary they have. Catching does not require this series. It requires the observer function, the Adjuster's indwelling, and the volitional act — all of which are available to every being above the cogito threshold.
 
 Equally, catching is not guaranteed by intellectual engagement with Φ-proximate content. The most sophisticated catching framework in the ancient world was built by the Pharisees. The paper most devastating about the cost of substituting the framework for the act itself is Paper 24. Understanding what catching is does not constitute catching. It is a condition for more refined catching — and a temptation toward the substitution of understanding for the act.
