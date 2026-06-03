@@ -176,7 +176,7 @@ dl bruegel-tower-of-babel.jpg \
 # ─── Book 2 — Reasonablenessism frontispiece ────────────────────────────────
 
 dl rembrandt-two-old-men-disputing.jpg \
-  "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rembrandt_van_Rijn_-_Two_old_men_disputing_%28St._Peter_and_St._Paul_in_discussion%29_-_Google_Art_Project.jpg" \
+  "https://uploads1.wikiart.org/images/rembrandt/two-old-men-disputing.jpg" \
   "Book 2: Rembrandt - Two Old Men Disputing (1628)"
 
 # ─── Book 3 — Structural Readings frontispiece ──────────────────────────────
