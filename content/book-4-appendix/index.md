@@ -19,3 +19,6 @@ A candidate operationalization of τ(D): four observables, a two-stage filtering
 
 [[Appendix IV - Falsifiable Quantitative Predictions|Appendix IV — Falsifiable Quantitative Predictions of the Concordius Framework]]
 What the framework predicts that science has not yet confirmed: the H₂₄→H₄₈ phase transition at ~10⁻²⁸ s, dark matter's structural invisibility, the failure of graviton QFT, the dark energy equation of state, and the primordial gravitational wave spectrum from cascade transitions. With explicit statements of what would falsify each.
+
+[[Appendix V - Machine-readable Concordius Framework|Appendix V — Machine-readable Concordius Framework]]
+A dense structured reference for machine use: core mathematical identities, constraint cascade, key concept definitions, triune operations, cross-tradition mappings, and reading method — optimized for LLM-assisted structural readings.
