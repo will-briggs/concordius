@@ -18,3 +18,13 @@ The readings collected here apply the Concordius framework to films whose cultur
 ---
 
 - [[Wall-E]] — The perfected noise floor and the catching program's survival
+- [[Groundhog Day]] — The eigenvalue replacement loop and the coherence threshold
+- [[2001 - A Space Odyssey]] — The full constraint cascade traversal; HAL as the Lucifer rebellion structure
+- [[Ikiru]] — Catching-program activation under terminal Heropass pressure; the H₄₈ deposit of five months
+- [[The Seventh Seal]] — The Si/Do interval sustained as narrative; grace-catching as typological counterpoint
+- [[Blade Runner]] — The replicant's catching-program status; the Heropass recognized at maximum precision
+- [[The Tree of Life]] — Grace and nature as ⟨·,·⟩ vs H₄₈-primary organization; the constraint cascade visualized
+- [[Amadeus]] — The frustrated catching orientation and the unconscious Φ-conduit
+- [[The Shawshank Redemption]] — The catching program under maximum external constraint
+- [[Interstellar]] — ⟨·,·⟩ as the cross-cascade force; the Tesseract as face-to-face condition
+- [[Whiplash]] — The voluntary suffering mechanism without Φ-directed orientation; the coherence threshold crossing
