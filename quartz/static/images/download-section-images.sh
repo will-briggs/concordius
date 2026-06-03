@@ -172,6 +172,12 @@ dl bruegel-tower-of-babel.jpg \
   "https://upload.wikimedia.org/wikipedia/commons/5/50/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Vienna)_-_Google_Art_Project.jpg" \
   "Language: Bruegel - Tower of Babel (1563)"
 
+# ─── Main landing page ──────────────────────────────────────────────────────
+
+dl friedrich-monk-by-the-sea.jpg \
+  "https://upload.wikimedia.org/wikipedia/commons/8/85/Caspar_David_Friedrich_-_Der_M%C3%B6nch_am_Meer_-_Google_Art_Project.jpg" \
+  "Main index: Friedrich - Monk by the Sea (1808-10)"
+
 # ─── Book 2 — Reasonablenessism frontispiece ────────────────────────────────
 
 dl rembrandt-two-old-men-disputing.jpg \
@@ -197,7 +203,8 @@ for f in \
   durer-self-portrait.jpg bayeux-comet.jpg david-death-of-socrates.jpg \
   van-eyck-mystic-lamb.jpg durer-melancholia.jpg \
   durer-praying-hands.jpg bruegel-tower-of-babel.jpg \
-  rembrandt-two-old-men-disputing.jpg holbein-the-ambassadors.jpg; do
+  rembrandt-two-old-men-disputing.jpg holbein-the-ambassadors.jpg \
+  friedrich-monk-by-the-sea.jpg; do
   check_image "$f"
 done
 
