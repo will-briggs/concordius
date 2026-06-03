@@ -8,6 +8,12 @@ Thematic readings across the biblical corpus, organized by subject rather than b
 
 ---
 
+**The Psalter**
+
+- [[The Psalter|The Psalter — A Thematic Reading]]
+
+---
+
 **Structural Essays**
 
 - [[The Principle and the Identity of the Logos|I — The Principle and the Identity of the Logos]]
