@@ -107,7 +107,7 @@ dl durer-praying-hands.jpg \
   "Health: Dürer - Praying Hands (1508)"
 
 dl bruegel-tower-of-babel.jpg \
-  "https://upload.wikimedia.org/wikipedia/commons/f/fc/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg" \
+  "https://upload.wikimedia.org/wikipedia/commons/5/50/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Vienna)_-_Google_Art_Project.jpg" \
   "Language: Bruegel - Tower of Babel (1563)"
 
 # ─── Verification ────────────────────────────────────────────────────────────
