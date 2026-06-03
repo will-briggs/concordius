@@ -4,8 +4,6 @@ title: Appendix V - Machine-readable Concordius Framework
 
 # Appendix V — Machine-readable Concordius Framework
 
-[↓ Download as Markdown](/static/structural-reading.md)
-
 *A dense structured reference for consistent application of the Concordius framework to structural readings. Not a derivation; not a prose introduction. All claims here are derived and argued in the Concordius Papers. This file states results only.*
 
 ---
