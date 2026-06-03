@@ -10,11 +10,13 @@ ERRORS=0
 FAILED_FILES=()
 FAILED_URLS=()
 
+MAX_KB=1536  # warn and resize if image exceeds 1.5 MB
+
 dl() {
   # Usage: dl <output-filename> <url> <label>
-  # Skips the download if the file already exists and is a valid image.
+  # Skips download if the file already exists and is a valid image.
+  # After download, auto-resizes to max 1400px wide if file exceeds MAX_KB.
   local out="$DIR/$1" url="$2" label="$3"
-  # Stash url against filename so we can surface it in the failure report
   eval "URL_FOR_$(echo "$1" | tr '.-' '__')=\"$url\""
   if [ -f "$out" ] && file "$out" | grep -qiE "JPEG|PNG|GIF|WebP"; then
     echo "Skipping $label (already valid)"
@@ -23,6 +25,24 @@ dl() {
   echo "Downloading $label..."
   curl -L -o "$out" "$url" --user-agent "$UA"
   sleep 2
+  # Resize if too large
+  local kb
+  kb=$(du -k "$out" 2>/dev/null | cut -f1)
+  if [ -n "$kb" ] && [ "$kb" -gt "$MAX_KB" ]; then
+    echo "  Resizing $1 (${kb}KB > ${MAX_KB}KB limit)..."
+    python3 - "$out" <<'PYEOF'
+import sys
+from PIL import Image
+Image.MAX_IMAGE_PIXELS = None
+path = sys.argv[1]
+img = Image.open(path)
+img.thumbnail((1400, 1400), Image.LANCZOS)
+fmt = img.format or "JPEG"
+img.save(path, fmt, quality=82, optimize=True)
+import os
+print(f"  → {os.path.getsize(path) // 1024}KB")
+PYEOF
+  fi
 }
 
 check_image() {
