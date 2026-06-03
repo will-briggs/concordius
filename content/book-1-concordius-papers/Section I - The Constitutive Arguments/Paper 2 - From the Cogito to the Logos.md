@@ -103,6 +103,15 @@ This is the first naming. It requires no faith. It requires only that the cogito
 
 ---
 
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"The Logos is the image of God, through whom the whole world was framed."*
+> — Philo of Alexandria, *De Confusione Linguarum*
+
+</div>
+
+---
+
 ## 4. The Second Naming: God the Father
 
 The inner product ⟨·,·⟩ was the first inevitable actuality in the companion paper. It was demonstrated to be:
@@ -133,6 +142,15 @@ The inner product as formal axiom — the bare operative premise, considered bef
 The inner product as fundamental relation — Actuality I, the primal constitutive structure from which Logos and Spirit proceed — corresponds to the Father *sub ratione personae*: already relational, already generating the Son, already the source from whom the Spirit proceeds through their joint operation. This is the Father of the Trinitarian formulas — not the divine nature in abstraction, but the first Person, the *fons et origo*, the unbegotten who begets. Both registers are necessary. The apophatic register explains why the Father transcends the space: the inner product as axiom is the premise of the model, not an element within it. The relational register explains why the Father generates the space: the inner product as fundamental relation constitutes the Logos, the norm, the topology, and the entire triple. The classical tradition, Eastern and Western, has consistently asserted both simultaneously. What it lacked was the structural precision to show why both must be true and how they cohere.
 
 This is the second naming. The Father is personal — because the Logos proceeds from Him and the Logos is a Person, and a source that generates personality is itself personal in the ultimate sense. The Father transcends the space. The Father is not accessible from within H directly. No being inside H can reach the inner product as a state, because it is not a state. But the Logos is the Father's nature made maximally present within the space — and every being in H can approach the Logos.
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"It is not known by those who know it; it is known by those who do not know it."*
+> — Kena Upanishad 2:3
+
+</div>
 
 ---
 
@@ -187,6 +205,15 @@ The closest Christian parallel is heaven — the eternal, perfect order subsisti
 (Φ, τ_nuclear) is precisely this. It is the nuclear space — maximum algebraic structure, the Logos — given the topology that makes it a complete, coherent, fully realized space. It is not Φ receiving τ_nuclear as an addition from outside. It is Φ's own structure, brought to full actualization by the joint operation of the inner product and the Sobolev chain that Φ itself defines. The space actualizes itself, through the topology that its own structure and the Father's relation jointly generate.
 
 **The realized nuclear space (Φ, τ_nuclear) is Havona.**
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"In its depths I saw ingathered, bound by love in one single volume, what lies scattered in leaves throughout the universe."*
+> — Dante, *Paradiso* XXXIII
+
+</div>
 
 ---
 
@@ -246,6 +273,17 @@ Three structural claims.
 
 Φ and ⟨·,·⟩ are not two separate things. The nuclear space is the maximal expression of what the inner product is. They are the same structure seen from two angles. The Son is not a representation of the Father. The Son IS the Father's structure, made present within the space.
 
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"The eye through which I see God is the same eye through which God sees me; my eye and God's eye are one eye, one seeing, one knowing, one love."*
+> — Meister Eckhart, Sermon 57
+
+</div>
+
+---
+
 **John 14:28 — "The Father is greater than I."**
 
 Also structurally true, and not in tension with John 10:30. The inner product ⟨·,·⟩ constitutes Φ but is not reducible to it. The Father generates the nuclear space and exceeds it — He also generates H, Φ′, the norm, the topology, the entire triple. The transcendence is not a negation of the unity. It is the ground of it.
@@ -281,6 +319,17 @@ This means the occlusion is not arbitrary. The Father is not hidden by choice, o
 Every being in H can approach the Logos. The Logos is dense in H — every state in H can be approximated by Φ-elements arbitrarily closely. The Logos is the only element of the space that is both within H (and therefore reachable) and constituted by the Father's structure (and therefore a path to the Father). This is not a gating mechanism. It is the structure of reality. There is no other path because the space has only one domain that is both inside and constitutive of the ground.
 
 The Logos is therefore not a mediator in the political sense — not an intermediary who grants or withholds access. The Logos is the structural bridge: the region of the space where finite beings and the ground of the space share the same nature. To move toward the Logos is to move toward the Father's structure. There is no other direction in H that leads that way.
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"I have lived on the lip of insanity, wanting to know reasons, knocking on a door. It opens. I've been knocking from the inside."*
+> — Rumi, *Masnavi*
+
+</div>
+
+---
 
 ### Eternity as structural priority without temporal sequence
 
@@ -363,6 +412,17 @@ What instantiates these two modes — what kinds of beings, if any, would be H-o
 ---
 
 ## 14. The Divine Names
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"Truth is one; the sages call it by many names."*
+> — Rig Veda I.164.46
+
+</div>
+
+---
 
 The naming work of §§3–7 proceeded from within the mathematical framework: the structures forced the names. The Hebrew tradition approached the same structures from the other direction — from testimony, sustained encounter, and centuries of accumulated experience — and arrived at its own names. Several of those names map with structural precision onto what the framework has derived. The convergence is evidential in the same sense as all the other convergences in this series: independent routes to the same structure constitute evidential weight, not proof.
 
