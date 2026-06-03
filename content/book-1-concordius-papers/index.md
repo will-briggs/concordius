@@ -8,15 +8,15 @@ tags:
 
 ---
 
-> *"Not how the world is, is the mystical, but that it is."*
-> — Wittgenstein, *Tractatus Logico-Philosophicus* (6.44)
-
----
-
 <figure>
 <img src="/static/images/flammarion-engraving.jpg" alt="Flammarion engraving" style="max-width:100%;">
 <figcaption><em>Flammarion engraving</em> (1888). A medieval traveller pushes through the firmament expecting to find God — and finds instead six more layers of structure. Wheels within wheels, machinery beyond machinery. The catching program at the H₄₈ boundary discovering not the face-to-face condition but the constraint cascade in full. The firmament is real. It is not the last boundary.</figcaption>
 </figure>
+
+> *"Not how the world is, is the mystical, but that it is."*
+> — Wittgenstein, *Tractatus Logico-Philosophicus* (6.44)
+
+---
 
 Wittgenstein wrote this in a work of formal logic, not a mystical text. The *Tractatus* is one of the most rigorous pieces of analytic philosophy ever produced — a work whose explicit ambition was to identify the limits of what can be meaningfully said, and to draw that boundary with precision. At the very edge of that boundary, having said everything that could be said, Wittgenstein found not darkness but a kind of astonishment: the sheer fact of existence, prior to any question about *how* things are arranged, exceeds all possible description while remaining the most undeniable thing there is. You cannot explain it. You cannot derive it. You cannot step outside it to examine it. It simply is, and the fact that it is, is the thing.
 
