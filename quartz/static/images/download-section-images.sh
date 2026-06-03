@@ -125,6 +125,10 @@ dl melies-trip-to-moon.jpg \
   "https://upload.wikimedia.org/wikipedia/commons/d/d5/Melies_color_Voyage_dans_la_lune.jpg" \
   "Movies: Méliès - A Trip to the Moon (1902)"
 
+dl fan-kuan-travelers.jpg \
+  "https://upload.wikimedia.org/wikipedia/commons/c/c2/Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg" \
+  "Eastern Traditions: Fan Kuan - Travelers among Mountains and Streams (c. 1000 CE)"
+
 dl kells-chi-rho.png \
   "https://upload.wikimedia.org/wikipedia/commons/9/98/Book_of_Kells_ChiRho_Folio_34R.png" \
   "The Bible: Book of Kells Chi-Rho page (c. 800)"
@@ -172,6 +176,7 @@ echo "Verifying all downloads..."
 for f in \
   masaccio-trinity.jpg ladder-of-divine-ascent.jpg \
   bonaiuto-triumph-aquinas.jpg blake-glad-day.jpg \
+  fan-kuan-travelers.jpg \
   apianus-spheres.png flammarion-engraving.jpg melies-trip-to-moon.jpg \
   kells-chi-rho.png raphael-parnassus.jpg friedrich-wanderer.jpg \
   durer-self-portrait.jpg bayeux-comet.jpg david-death-of-socrates.jpg \

@@ -3,8 +3,8 @@ title: Eastern Traditions
 ---
 
 <figure>
-<img src="/static/images/bagua-earlier-heaven.jpg" alt="Earlier Heaven Bagua" style="max-width:100%;">
-<figcaption><em>The Earlier Heaven Bagua</em> — the eight trigrams of the I Ching in the Fu Xi arrangement, each encoding one of the eight elements of Cl(3,0) in binary. Heaven (☰, grade 3) at the top; Earth (☷, grade 0) at the bottom; the six intermediate elements distributed by grade and squaring character. The tradition named this structure three thousand years before the algebra that derives it.</figcaption>
+<img src="/static/images/fan-kuan-travelers.jpg" alt="Fan Kuan, Travelers among Mountains and Streams" style="max-width:100%;">
+<figcaption><em>Fan Kuan, Travelers among Mountains and Streams</em> (溪山行旅圖, c. 1000 CE). National Palace Museum, Taipei. The tiny figures and mule train in the lower right are almost invisible against the mountain that fills the painting. This is the catching being's correct orientation in the constraint cascade: dwarfed by the organizational structure it must navigate, in motion through it, not crushed. The Tao Te Ching, the I Ching, and the Bhagavad Gita are three accounts of what those figures know about the mountain they are traveling through.</figcaption>
 </figure>
 
 # A Structural Reading of Eastern Traditions
