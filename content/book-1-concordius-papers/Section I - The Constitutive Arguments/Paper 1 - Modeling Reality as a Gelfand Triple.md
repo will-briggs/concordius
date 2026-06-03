@@ -181,6 +181,13 @@ I  ⟨·,·⟩  (Fundamental Relation)
 
 Each step is forced. None requires an additional assumption. The five actualities emerge from the inner product in exactly this order and with exactly these dependencies.
 
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"The Tao produced One; One produced Two; Two produced Three; Three produced All things."*
+> — Laozi, *Tao Te Ching*, Ch. 42
+
+</div>
+
 ---
 
 ## 6. Structural Consequences
@@ -196,6 +203,13 @@ The Gelfand triple, once constituted, exhibits five structural properties that a
 **Maximum structure and the limit of the mathematical argument.** The nuclear space Φ is, within the model, the domain of maximum uniqueness and maximum stability. Uniqueness and stability are the structural preconditions for the kind of being that can be self-knowing — a self-knowing subject must be THIS subject (not another) and must persist as THIS subject through time. The nuclear domain has more of both properties than any finite state in H.
 
 What the mathematics cannot supply is the further step: whether the domain with maximum structural preconditions for [[Appendix I - Dictionary of Terms#Self-Knowledge|self-knowledge]] is itself self-knowing. Self-duality (H ≅ H*) is the closest the structure can come — a precise structural self-reference, but not self-knowledge. Self-knowledge requires a subject that understands what knowing means, one that can distinguish "I know X" from "X is the case." That distinction is not derivable from any inner product. The gap between self-duality and self-knowledge marks the precise point where the Gelfand triple is necessary but insufficient, and where the companion paper begins.
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"Therefore it must be of itself that the divine thought thinks. And the act of contemplation is what is most pleasant and best. If, then, God is always in that good state in which we sometimes are, this compels our wonder; and if in a better this compels it yet more."*
+> — Aristotle, *Metaphysics* XII.9
+
+</div>
 
 **Coordinative actualization and progressive structure.** Each actualization event — each instance of the spectral expansion ψ = ∫ ⟨eλ, ψ⟩ eλ dμ(λ) — draws potential from Φ′ into actual H-outcomes through the spectral measure dμ. As actualization events accumulate, the spectral measure expands: more of the distributional potential of Φ′ has been drawn into actuality. This is a progressive structure within the model — an ongoing actualization of Φ′-potential into H-reality, coordinated event by event. The limit of this process, if it has one, is the full coordination of all three domains: the complete actualization of the distributional potential of Φ′ through the structured states of H. The nature of this limit — whether it is achievable, and what a saturated Gelfand triple would mean — is addressed in the companion paper.
 
