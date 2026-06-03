@@ -17,6 +17,13 @@ This paper has two assumptions. The first is the entire content of its companion
 <figcaption><em>Michelangelo, The Creation of Adam</em> (c. 1512). Sistine Chapel, Vatican. The gap between the outstretched fingers is the gap this paper closes: the distance between awareness aware of itself (the Cogito) and the constitutive ground (the Logos) that awareness necessarily implies.</figcaption>
 </figure>
 
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"Listening not to me but to the Logos, it is wise to acknowledge that all things are one."*
+> — Heraclitus, Fragment 50
+
+</div>
+
 ## 1. Introduction
 
 The companion paper ends at a boundary. It has demonstrated, from a single assumption, the following:
