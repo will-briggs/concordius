@@ -13,6 +13,17 @@ This paper argues that modeling reality as a rigged [[Appendix I - Dictionary of
 <figcaption><em>Raphael, The School of Athens</em> (1509–11). Apostolic Palace, Vatican. Plato gestures toward the Forms; Aristotle toward the particular. The framework resolves the dispute from a common structural ground — the inner product from which both the universal and the particular necessarily emerge.</figcaption>
 </figure>
 
+<hr>
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"The infinite! No other question has ever moved so profoundly the spirit of man; no other idea has so fruitfully stimulated his intellect; yet no other concept stands in greater need of clarification than that of the infinite."*
+> — David Hilbert, "On the Infinite" (1926)
+
+</div>
+
+---
+
 ## 1. Introduction
 
 The standard mathematical framework for quantum mechanics models the state space of a physical system as a complex separable Hilbert space H. This choice reflects a series of desiderata: linear superposition of states, an inner product defining probabilities and transition amplitudes, and completeness ensuring that all [[Appendix I - Dictionary of Terms#Cauchy Sequence|Cauchy sequences]] converge. The Hilbert space formalism has proven extraordinarily productive.
@@ -268,6 +279,15 @@ The second projection — five inevitable actualities — shows that the inner p
 A structural consequence of the second projection: the active coordinative structure (IV) proceeds from both I and II, not from either alone. This is a theorem, not a stipulation.
 
 The question of the observing subject — specifically, the derivation of self-knowledge as a property qualitatively distinct from the self-duality H ≅ H* — marks the precise limit of what the Gelfand triple can supply and is addressed in the companion paper.
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"We must know. We will know."*
+> — David Hilbert, 1930
+
+</div>
 
 ---
 
