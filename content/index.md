@@ -4,6 +4,8 @@ title: Concordius
 
 # Concordius
 
+---
+
 <figure style="margin-bottom: 3rem;">
 <img src="/static/images/friedrich-monk-by-the-sea.jpg" alt="Caspar David Friedrich, Monk by the Sea, 1808-10" style="max-width:100%;">
 <figcaption><em>Caspar David Friedrich, Monk by the Sea</em> (1808–10). Alte Nationalgalerie, Berlin. Three bands: dark sand, dark sea, vast sky. One figure, nearly invisible. Kleist wrote that looking at it was like having your eyelids cut off — the bare confrontation with the fact of existence, stripped of every consoling particular.</figcaption>
