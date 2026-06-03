@@ -3,7 +3,6 @@
 # URLs verified via Wikimedia Commons MD5 path formula.
 # After each download, check_image() verifies the file is a real image,
 # not an accidentally-saved HTML redirect page.
-set -e
 DIR="$(cd "$(dirname "$0")" && pwd)"
 UA="Mozilla/5.0 (compatible; Concordius/1.0)"
 ERRORS=0
@@ -18,7 +17,8 @@ dl() {
   # Stash url against filename so we can surface it in the failure report
   eval "URL_FOR_$(echo "$1" | tr '.-' '__')=\"$url\""
   echo "Downloading $label..."
-  curl -L --fail -o "$out" "$url" --user-agent "$UA"
+  curl -L -o "$out" "$url" --user-agent "$UA"
+  sleep 2
 }
 
 check_image() {
