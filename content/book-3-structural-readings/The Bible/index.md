@@ -4,6 +4,11 @@ tags:
   - nav-order::2
 ---
 
+<figure>
+<img src="/static/images/kells-chi-rho.png" alt="Book of Kells, Chi-Rho page" style="max-width:100%;">
+<figcaption><em>Book of Kells, Chi-Rho page (Folio 34r)</em> (c. 800). Trinity College Dublin. The monogram of Christ — Chi (Χ) and Rho (Ρ) — elaborated into a field of recursive organizational density: interlace, spirals, animals, angels compacted into a single initial. Φ-proximate content encoding itself in H₄₈ matter at maximum ornamental compression. The scripture it introduces: <em>Now this is how the birth of Jesus Christ came about.</em></figcaption>
+</figure>
+
 # A Structural Reading of the Bible
 
 Readings organized by book, in canonical order. Entries marked with ✶ in the source files indicate passages of exceptional structural density. For the thematic arrangement see the [[The Bible - Thematic/index|The Bible — Thematic]].

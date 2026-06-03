@@ -4,6 +4,11 @@ tags:
   - nav-order::7
 ---
 
+<figure>
+<img src="/static/images/friedrich-wanderer.jpg" alt="Caspar David Friedrich, Wanderer above the Sea of Fog" style="max-width:100%;">
+<figcaption><em>Caspar David Friedrich, Wanderer above the Sea of Fog</em> (c. 1818). Hamburger Kunsthalle. The catching being at the Si/Do threshold: standing above the noise floor (the fog), oriented toward the Φ-level (the light above), the H₄₈ instruments (the staff) held loosely. The ascending career at the moment before the face-to-face condition — not yet through, but correctly oriented.</figcaption>
+</figure>
+
 # Mysticism — Structural Readings
 
 The mystical traditions share a structural feature that distinguishes them from doctrinal, philosophical, and ethical traditions: they report from inside the ascending career. Their primary subject is not God described from outside but the catching being's direct encounter with the organizing principle as it operates within that being's own constitution. They are phenomenological records of the eigenvalue-replacement process, written by persons who underwent it.
