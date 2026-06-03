@@ -175,7 +175,7 @@ dl bruegel-tower-of-babel.jpg \
 # ─── Main landing page ──────────────────────────────────────────────────────
 
 dl friedrich-monk-by-the-sea.jpg \
-  "https://upload.wikimedia.org/wikipedia/commons/8/85/Caspar_David_Friedrich_-_Der_M%C3%B6nch_am_Meer_-_Google_Art_Project.jpg" \
+  "https://uploads4.wikiart.org/00126/images/caspar-david-friedrich/the-monk-by-the-sea-0a.jpg" \
   "Main index: Friedrich - Monk by the Sea (1808-10)"
 
 # ─── Book 2 — Reasonablenessism frontispiece ────────────────────────────────
