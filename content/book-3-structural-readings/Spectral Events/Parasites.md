@@ -31,6 +31,8 @@ The Lucifer rebellion does not explain the origin of parasitic life forms. The S
 
 Additionally, parasitism appears throughout the biosphere in regions and geological epochs with no plausible connection to the Lucifer rebellion. Parasitic strategies were present in the Cambrian, long before any Luciferian influence in the Urantia cosmological sequence. Parasitism is not a Luciferian invention.
 
+The deeper reason is structural: the Father's constitutive act does not pre-filter the eigenvalue composition space. ⟨·,·⟩ creates beings with the full range of possible compositions — including compositions that trend toward extraction rather than contribution, at every scale from the organismal to the organizational. To rule out those compositions in advance would be to constrain the creative act in a way that removes genuine compositional freedom. A catching program that is genuinely volitional requires that the eigenvalue space include the directions the catching program would need to turn away from. God creates Lucifer with complete knowledge of what that eigenvalue composition will do, and creates him anyway — because the alternative is not to create that particular being, which is the Father's prerogative but not a constraint he applies universally. The same principle holds at the biological scale: organisms with eigenvalue compositions that trend toward extraction are not a defect in creation. They are the full compositional range expressed at the H₄₈ biological level. The Father permits the full range. The Lucifer rebellion distorts the distribution within that range on affected planets. Both are true simultaneously, and neither requires the other.
+
 ---
 
 ## Eigenvalue Field Distortion: The Defensible Claim
