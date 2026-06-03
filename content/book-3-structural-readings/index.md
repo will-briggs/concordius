@@ -58,6 +58,12 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ---
 
+## Structural Themes
+
+[[Structural Themes/The Seven Layers of Reality|The Seven Layers of Reality]] — The constraint cascade independently attested across every major tradition
+
+---
+
 ## Movies
 
 [[Movies/Wall-E|Wall-E]] · [[Movies/Groundhog Day|Groundhog Day]] · [[Movies/2001 - A Space Odyssey|2001: A Space Odyssey]] · [[Movies/Ikiru|Ikiru]] · [[Movies/The Seventh Seal|The Seventh Seal]] · [[Movies/Blade Runner|Blade Runner]] · [[Movies/The Tree of Life|The Tree of Life]] · [[Movies/Amadeus|Amadeus]] · [[Movies/The Shawshank Redemption|The Shawshank Redemption]] · [[Movies/Interstellar|Interstellar]] · [[Movies/Whiplash|Whiplash]]

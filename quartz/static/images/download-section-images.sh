@@ -113,6 +113,10 @@ dl blake-glad-day.jpg \
 
 # ─── Book 3 — Structural Readings section frontispieces ─────────────────────
 
+dl apianus-spheres.png \
+  "https://upload.wikimedia.org/wikipedia/commons/3/3a/Ptolemaicsystem-small.png" \
+  "Structural Themes: Apianus nested spheres diagram (1539)"
+
 dl flammarion-engraving.jpg \
   "https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg" \
   "Book 1 index: Flammarion engraving (1888)"
@@ -168,7 +172,7 @@ echo "Verifying all downloads..."
 for f in \
   masaccio-trinity.jpg ladder-of-divine-ascent.jpg \
   bonaiuto-triumph-aquinas.jpg blake-glad-day.jpg \
-  flammarion-engraving.jpg melies-trip-to-moon.jpg \
+  apianus-spheres.png flammarion-engraving.jpg melies-trip-to-moon.jpg \
   kells-chi-rho.png raphael-parnassus.jpg friedrich-wanderer.jpg \
   durer-self-portrait.jpg bayeux-comet.jpg david-death-of-socrates.jpg \
   van-eyck-mystic-lamb.jpg durer-melancholia.jpg \
