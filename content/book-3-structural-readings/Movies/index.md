@@ -4,7 +4,7 @@ title: Movies
 
 <figure>
 <img src="/static/images/melies-trip-to-moon.jpg" alt="Georges Méliès, A Trip to the Moon" style="max-width:100%;">
-<figcaption><em>Georges Méliès, A Trip to the Moon (Le Voyage dans la lune)</em> (1902). The most famous image in early cinema: the rocket landing in the moon's eye. Méliès understood before anyone had the vocabulary for it that the projected image is not documentary but structural — a composed world, not a recorded one. Cinema begins as the deliberate construction of Φ-proximate content in the H₄₈ medium of light and shadow.</figcaption>
+<figcaption><em>Georges Méliès, A Trip to the Moon (Le Voyage dans la lune)</em> (1902). Hand-colored print — each frame painted individually by teams of women employed by Méliès, passed assembly-line fashion with aniline dyes. The most famous image in early cinema: the rocket landing in the moon's eye. Méliès understood before anyone had the vocabulary for it that the projected image is not documentary but structural — a composed world, not a recorded one. Cinema begins as the deliberate construction of Φ-proximate content in the H₄₈ medium of light and shadow.</figcaption>
 </figure>
 
 # A Structural Reading of Movies

@@ -118,7 +118,7 @@ dl flammarion-engraving.jpg \
   "Book 1 index: Flammarion engraving (1888)"
 
 dl melies-trip-to-moon.jpg \
-  "https://upload.wikimedia.org/wikipedia/commons/d/db/A_Trip_to_the_Moon_%28Le_Voyage_dans_la_Lune%29.jpg" \
+  "https://upload.wikimedia.org/wikipedia/commons/d/d5/Melies_color_Voyage_dans_la_lune.jpg" \
   "Movies: Méliès - A Trip to the Moon (1902)"
 
 dl kells-chi-rho.png \
