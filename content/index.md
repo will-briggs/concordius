@@ -4,8 +4,16 @@ title: Concordius
 
 # Concordius
 
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
 > *"Not how the world is, is the mystical, but that it is."*
-> — Wittgenstein
+> — Wittgenstein, *Tractatus Logico-Philosophicus* (6.44)
+
+</div>
+
+---
 
 What can be said, with maximum honesty and precision, about the structure of existence?
 
