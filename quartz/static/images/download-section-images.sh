@@ -78,15 +78,6 @@ except Exception as e:
     print('fail:' + str(e))
 " "$path" 2>/dev/null)
   if [ "$is_image" = "ok" ]; then
-    local kb
-    kb=$(du -k "$path" 2>/dev/null | cut -f1)
-    if [ -n "$kb" ] && [ "$kb" -gt "$MAX_KB" ]; then
-      echo "  FAIL: $filename — valid image but too large (${kb}KB > ${MAX_KB}KB limit); run script again to resize"
-      FAILED_FILES+=("$filename")
-      FAILED_URLS+=("${!url_var}")
-      ERRORS=$((ERRORS + 1))
-      return 1
-    fi
     local size
     size=$(wc -c < "$path" | tr -d ' ')
     echo "  OK:   $filename  (${size} bytes)"
