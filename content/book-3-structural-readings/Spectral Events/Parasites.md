@@ -47,6 +47,20 @@ On unaffected planets in an undistorted organizational field, the same evolution
 
 ---
 
+## The Restoration Corollary
+
+The distortion mechanism and the restoration mechanism are the same mechanism operating in opposite directions.
+
+The individual catching program works by building H₂₄-organized eigenvalue content that progressively displaces the H₄₈-primary noise floor. The catching being's organizational field shifts — not by suppressing or eliminating H₄₈ content but by raising the H₂₄-organized proportion until the H₄₈-primary content is no longer the dominant signal. The transmuting field of the advanced catching being (Man 6 amplitude) reorganizes the eigenvalue composition of persons in proximity through the cross-term mechanism, multiplying the effect outward.
+
+The collective version of this program is what the Urantia tradition calls "settled in Light and Life" — the mature planetary condition in which a civilization's aggregate H₂₄-organized eigenvalue composition has risen to the point where H₄₈-primary organizational strategies no longer dominate the field. A planet settled in Light and Life has not had the extraction-favoring compositional space removed by the Father — the full range remains available, as it always has. What has changed is the organizational field within which those strategies operate. The collective H₂₄-organized composition displaces the Lucifer-distorted field by the same eigenvalue replacement program that operates in the individual ascending career: not suppression but displacement, not constraint but crowding-out.
+
+The corollary for parasitism: [Speculative] on a planet approaching the settled-in-Light-and-Life condition, the fitness landscape for Trogoautoegocrat-violating life strategies would shift — not because the compositional space has been pre-filtered but because the organizational field that amplified those strategies has been progressively restored. The Lucifer rebellion's distortion is not permanent. It is displaced by the same collective catching program that displaces individual noise floor content. The rebellion created conditions in which extraction carries higher fitness; the maturation of the civilization progressively restores the organizational conditions in which contribution carries higher fitness. The effects of Lucifer are displaced in the environment by the same eigenvalue replacement that occurs in the person.
+
+This means the Lucifer rebellion's biological consequences are, in principle, reversible — not by divine intervention that overrides the compositional space, but by the ascending career of the civilization itself working through the same structural mechanism that the individual ascending career employs.
+
+---
+
 ## The HCP Dimension
 
 The structural parallel between Lucifer's organizational error and parasitism is not coincidental — it is the Holographic Content Principle operating in its diagnostic mode. The same organizational failure mode — withdrawal from the Trogoautoegocrat, extraction without contribution — appears at every scale of H₄₈ existence:
