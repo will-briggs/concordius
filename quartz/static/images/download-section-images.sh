@@ -29,23 +29,22 @@ sys.exit(0 if (m[:3]==b'\xff\xd8\xff' or m[:4]==b'\x89PNG' or m[:6] in (b'GIF87a
   echo "Downloading $label..."
   curl -L -o "$out" "$url" --user-agent "$UA"
   sleep 2
-  # Resize if too large
+  # Resize if too large — uses sips (macOS built-in, no dependencies)
   local kb
   kb=$(du -k "$out" 2>/dev/null | cut -f1)
   if [ -n "$kb" ] && [ "$kb" -gt "$MAX_KB" ]; then
     echo "  Resizing $1 (${kb}KB > ${MAX_KB}KB limit)..."
-    python3 - "$out" <<'PYEOF'
-import sys
-from PIL import Image
-Image.MAX_IMAGE_PIXELS = None
-path = sys.argv[1]
-img = Image.open(path)
-img.thumbnail((1400, 1400), Image.LANCZOS)
-fmt = img.format or "JPEG"
-img.save(path, fmt, quality=82, optimize=True)
-import os
-print(f"  → {os.path.getsize(path) // 1024}KB")
-PYEOF
+    sips --resampleWidth 1400 "$out" --out "$out" >/dev/null 2>&1
+    local kb_after
+    kb_after=$(du -k "$out" 2>/dev/null | cut -f1)
+    echo "  → ${kb_after}KB"
+    if [ -n "$kb_after" ] && [ "$kb_after" -gt "$MAX_KB" ]; then
+      echo "  ERROR: $1 still ${kb_after}KB after resize — aborting"
+      FAILED_FILES+=("$1")
+      FAILED_URLS+=("$url")
+      ERRORS=$((ERRORS + 1))
+      return 1
+    fi
   fi
 }
 
@@ -79,6 +78,15 @@ except Exception as e:
     print('fail:' + str(e))
 " "$path" 2>/dev/null)
   if [ "$is_image" = "ok" ]; then
+    local kb
+    kb=$(du -k "$path" 2>/dev/null | cut -f1)
+    if [ -n "$kb" ] && [ "$kb" -gt "$MAX_KB" ]; then
+      echo "  FAIL: $filename — valid image but too large (${kb}KB > ${MAX_KB}KB limit); run script again to resize"
+      FAILED_FILES+=("$filename")
+      FAILED_URLS+=("${!url_var}")
+      ERRORS=$((ERRORS + 1))
+      return 1
+    fi
     local size
     size=$(wc -c < "$path" | tr -d ' ')
     echo "  OK:   $filename  (${size} bytes)"
