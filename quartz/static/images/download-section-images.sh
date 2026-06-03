@@ -125,6 +125,10 @@ dl melies-trip-to-moon.jpg \
   "https://upload.wikimedia.org/wikipedia/commons/d/d5/Melies_color_Voyage_dans_la_lune.jpg" \
   "Movies: Méliès - A Trip to the Moon (1902)"
 
+dl gray-anatomy-appendix.png \
+  "https://upload.wikimedia.org/wikipedia/commons/a/ad/Gray536.png" \
+  "Book 4 Appendix: Gray's Anatomy Fig. 536 — vermiform appendix (1858)"
+
 dl fan-kuan-travelers.jpg \
   "https://upload.wikimedia.org/wikipedia/commons/c/c2/Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg" \
   "Eastern Traditions: Fan Kuan - Travelers among Mountains and Streams (c. 1000 CE)"
@@ -176,7 +180,7 @@ echo "Verifying all downloads..."
 for f in \
   masaccio-trinity.jpg ladder-of-divine-ascent.jpg \
   bonaiuto-triumph-aquinas.jpg blake-glad-day.jpg \
-  fan-kuan-travelers.jpg \
+  gray-anatomy-appendix.png fan-kuan-travelers.jpg \
   apianus-spheres.png flammarion-engraving.jpg melies-trip-to-moon.jpg \
   kells-chi-rho.png raphael-parnassus.jpg friedrich-wanderer.jpg \
   durer-self-portrait.jpg bayeux-comet.jpg david-death-of-socrates.jpg \
