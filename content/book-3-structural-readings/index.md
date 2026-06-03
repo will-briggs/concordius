@@ -66,7 +66,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ## Aphorisms
 
-[[Aphorisms/Know Thyself|Know Thyself]] · [[Aphorisms/The Golden Rule|The Golden Rule]] · [[Aphorisms/As Above, So Below|As Above, So Below]] · [[Aphorisms/Man Does Not Live by Bread Alone|Man Does Not Live by Bread Alone]] · [[Aphorisms/Seek and Ye Shall Find|Seek and Ye Shall Find]] · [[Aphorisms/Vanity of Vanities|Vanity of Vanities]] · [[Aphorisms/Pride Goes Before a Fall|Pride Goes Before a Fall]] · [[Aphorisms/The Unexamined Life Is Not Worth Living|The Unexamined Life Is Not Worth Living]] · [[Aphorisms/This Too Shall Pass|This Too Shall Pass]] · [[Aphorisms/As a Man Thinketh|As a Man Thinketh]] · [[Aphorisms/Cleanliness is Next to Godliness|Cleanliness is Next to Godliness]]
+[[Aphorisms/Know Thyself|Know Thyself]] · [[Aphorisms/The Golden Rule|The Golden Rule]] · [[Aphorisms/As Above, So Below|As Above, So Below]] · [[Aphorisms/Man Does Not Live by Bread Alone|Man Does Not Live by Bread Alone]] · [[Aphorisms/Seek and Ye Shall Find|Seek and Ye Shall Find]] · [[Aphorisms/Vanity of Vanities|Vanity of Vanities]] · [[Aphorisms/Pride Goes Before a Fall|Pride Goes Before a Fall]] · [[Aphorisms/The Unexamined Life Is Not Worth Living|The Unexamined Life Is Not Worth Living]] · [[Aphorisms/This Too Shall Pass|This Too Shall Pass]] · [[Aphorisms/As a Man Thinketh|As a Man Thinketh]] · [[Aphorisms/Cleanliness is Next to Godliness|Cleanliness is Next to Godliness]] · [[Aphorisms/The Whole in Every Part|The Whole in Every Part]]
 
 ---
 

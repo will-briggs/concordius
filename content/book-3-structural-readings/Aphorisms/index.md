@@ -26,3 +26,4 @@ The readings collected here apply the Concordius framework to aphorisms whose cr
 - [[The Unexamined Life Is Not Worth Living]] — Abstention from the catching program as structural failure
 - [[This Too Shall Pass]] — The Heropass; H₄₈-configuration impermanence and its ascending-career implication
 - [[Vanity of Vanities]] — *Hevel* as the structural description of H₄₈-primary content under the Heropass
+- [[The Whole in Every Part]] — Φ-density; the Holographic Content Principle stated as aphorism
