@@ -8,13 +8,17 @@ tags:
 
 ---
 
-<figure>
+<figure style="margin-bottom: 3rem;">
 <img src="/static/images/flammarion-engraving.jpg" alt="Flammarion engraving" style="max-width:100%;">
 <figcaption><em>Flammarion engraving</em> (1888). A medieval traveller pushes through the firmament expecting to find God — and finds instead six more layers of structure. Wheels within wheels, machinery beyond machinery. The catching program at the H₄₈ boundary discovering not the face-to-face condition but the constraint cascade in full. The firmament is real. It is not the last boundary.</figcaption>
 </figure>
 
+<div style="margin-bottom: 3rem;">
+
 > *"Not how the world is, is the mystical, but that it is."*
 > — Wittgenstein, *Tractatus Logico-Philosophicus* (6.44)
+
+</div>
 
 ---
 
