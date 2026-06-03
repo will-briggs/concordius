@@ -15,7 +15,11 @@ tags:
 
 <hr>
 
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
 *A systematic account of the epistemological principles careful inquiry requires. The twelve features are each developed fully in their own files, in four registers. This document contains the framing, the feature index, and the working context.*
+
+</div>
 
 ---
 

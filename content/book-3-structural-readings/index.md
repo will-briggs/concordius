@@ -15,7 +15,11 @@ tags:
 
 <hr>
 
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
 The Concordius framework applied to texts it did not produce. Each reading asks a single question: does the independently recognized depth of this text correspond to the structural features the framework predicts?
+
+</div>
 
 
 ---
