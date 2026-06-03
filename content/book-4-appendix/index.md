@@ -13,6 +13,10 @@ tags:
 <figcaption><em>Henry Gray, Anatomy of the Human Body</em>, Fig. 536 (1858). Arteries of the cecum and vermiform appendix. The appendix: an organ considered vestigial for over a century until structural analysis revealed it serves as a reservoir for beneficial gut flora and a training ground for the immune system. Not every appendix is unnecessary. This one contains the falsifiable predictions, the machine-readable framework, and the dictionary of terms.</figcaption>
 </figure>
 
+<hr>
+
+The supporting architecture of the Concordius series. The dictionary gives the technical vocabulary its precise definitions. The machine-readable framework is the dense structured reference optimized for LLM-assisted structural readings. The falsifiable predictions are where the framework makes specific, testable contact with science. The structural reading of the series turns the framework on itself.
+
 ---
 
 [[Appendix I - Dictionary of Terms|Appendix I — Dictionary of Terms]]

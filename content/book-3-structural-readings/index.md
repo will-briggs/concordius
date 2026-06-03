@@ -13,6 +13,8 @@ tags:
 <figcaption><em>Hans Holbein the Younger, The Ambassadors</em> (1533). Two courtiers surrounded by instruments of worldly knowledge: celestial globe, lute, polyhedral sundial, arithmetic text. Stretched across the foreground, a shape that resolves into a human skull only when viewed from an extreme lateral angle — invisible as itself from straight on, fully legible from the correct one. The structural reading proceeds exactly this way: the same reality is present throughout the text. It becomes legible only when you approach from the right angle.</figcaption>
 </figure>
 
+<hr>
+
 The Concordius framework applied to texts it did not produce. Each reading asks a single question: does the independently recognized depth of this text correspond to the structural features the framework predicts?
 
 
