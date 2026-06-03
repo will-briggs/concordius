@@ -12,10 +12,14 @@ FAILED_URLS=()
 
 dl() {
   # Usage: dl <output-filename> <url> <label>
-  # Stores the url so check_image can reference it on failure.
+  # Skips the download if the file already exists and is a valid image.
   local out="$DIR/$1" url="$2" label="$3"
   # Stash url against filename so we can surface it in the failure report
   eval "URL_FOR_$(echo "$1" | tr '.-' '__')=\"$url\""
+  if [ -f "$out" ] && file "$out" | grep -qiE "JPEG|PNG|GIF|WebP"; then
+    echo "Skipping $label (already valid)"
+    return 0
+  fi
   echo "Downloading $label..."
   curl -L -o "$out" "$url" --user-agent "$UA"
   sleep 2
