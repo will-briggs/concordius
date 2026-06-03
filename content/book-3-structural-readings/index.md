@@ -6,7 +6,9 @@ tags:
 
 # Book 3 — Structural Readings
 
-<figure>
+---
+
+<figure style="margin-bottom: 3rem;">
 <img src="/static/images/holbein-the-ambassadors.jpg" alt="Hans Holbein the Younger, The Ambassadors, 1533" style="max-width:100%;">
 <figcaption><em>Hans Holbein the Younger, The Ambassadors</em> (1533). Two courtiers surrounded by instruments of worldly knowledge: celestial globe, lute, polyhedral sundial, arithmetic text. Stretched across the foreground, a shape that resolves into a human skull only when viewed from an extreme lateral angle — invisible as itself from straight on, fully legible from the correct one. The structural reading proceeds exactly this way: the same reality is present throughout the text. It becomes legible only when you approach from the right angle.</figcaption>
 </figure>
