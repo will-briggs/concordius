@@ -7,19 +7,29 @@ set -e
 DIR="$(cd "$(dirname "$0")" && pwd)"
 UA="Mozilla/5.0 (compatible; Concordius/1.0)"
 ERRORS=0
+# Parallel arrays: failed filenames and their source URLs for manual download
+FAILED_FILES=()
+FAILED_URLS=()
 
 dl() {
   # Usage: dl <output-filename> <url> <label>
+  # Stores the url so check_image can reference it on failure.
   local out="$DIR/$1" url="$2" label="$3"
+  # Stash url against filename so we can surface it in the failure report
+  eval "URL_FOR_$(echo "$1" | tr '.-' '__')=\"$url\""
   echo "Downloading $label..."
   curl -L --fail -o "$out" "$url" --user-agent "$UA"
 }
 
 check_image() {
-  # Verifies the file is a real image, not an HTML redirect page saved as jpg/png.
-  local path="$DIR/$1"
+  local filename="$1"
+  local path="$DIR/$filename"
+  local url_var="URL_FOR_$(echo "$filename" | tr '.-' '__')"
+  local url="${!url_var}"
   if [ ! -s "$path" ]; then
-    echo "  FAIL: $1 — file is empty or missing"
+    echo "  FAIL: $filename — file is empty or missing"
+    FAILED_FILES+=("$filename")
+    FAILED_URLS+=("$url")
     ERRORS=$((ERRORS + 1))
     return 1
   fi
@@ -28,11 +38,13 @@ check_image() {
   if echo "$sig" | grep -qiE "JPEG image|PNG image|GIF image|WebP image|bitmap"; then
     local size
     size=$(wc -c < "$path" | tr -d ' ')
-    echo "  OK:   $1  ($(echo "$sig" | grep -oiE "JPEG|PNG|GIF|WebP"), ${size} bytes)"
+    echo "  OK:   $filename  ($(echo "$sig" | grep -oiE "JPEG|PNG|GIF|WebP"), ${size} bytes)"
   else
     local snippet
     snippet=$(head -c 120 "$path" | tr -d '\000' | cut -c1-80)
-    echo "  FAIL: $1 — not a valid image. Content starts with: $snippet"
+    echo "  FAIL: $filename — not a valid image. Content starts with: $snippet"
+    FAILED_FILES+=("$filename")
+    FAILED_URLS+=("$url")
     ERRORS=$((ERRORS + 1))
     return 1
   fi
@@ -114,7 +126,13 @@ done
 
 echo ""
 if [ "$ERRORS" -gt 0 ]; then
-  echo "DONE WITH ERRORS: $ERRORS file(s) failed validation. Check output above."
+  echo "DONE WITH ERRORS: $ERRORS file(s) failed. Save each manually to quartz/static/images/:"
+  echo ""
+  for i in "${!FAILED_FILES[@]}"; do
+    echo "  ${FAILED_FILES[$i]}"
+    echo "  ${FAILED_URLS[$i]}"
+    echo ""
+  done
   exit 1
 else
   echo "All downloads verified successfully."
