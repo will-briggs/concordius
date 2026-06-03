@@ -94,6 +94,10 @@ dl blake-glad-day.jpg \
 
 # ─── Book 3 — Structural Readings section frontispieces ─────────────────────
 
+dl melies-trip-to-moon.jpg \
+  "https://upload.wikimedia.org/wikipedia/commons/a/a7/Le_Voyage_dans_la_lune.jpg" \
+  "Movies: Méliès - A Trip to the Moon (1902)"
+
 dl kells-chi-rho.png \
   "https://upload.wikimedia.org/wikipedia/commons/9/98/Book_of_Kells_ChiRho_Folio_34R.png" \
   "The Bible: Book of Kells Chi-Rho page (c. 800)"
@@ -141,6 +145,7 @@ echo "Verifying all downloads..."
 for f in \
   masaccio-trinity.jpg ladder-of-divine-ascent.jpg \
   bonaiuto-triumph-aquinas.jpg blake-glad-day.jpg \
+  melies-trip-to-moon.jpg \
   kells-chi-rho.png raphael-parnassus.jpg friedrich-wanderer.jpg \
   durer-self-portrait.jpg bayeux-comet.jpg david-death-of-socrates.jpg \
   van-eyck-mystic-lamb.jpg durer-melancholia.jpg \

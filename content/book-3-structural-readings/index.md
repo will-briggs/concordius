@@ -58,6 +58,12 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ---
 
+## Movies
+
+[[Movies/Wall-E|Wall-E]] — The perfected noise floor and the catching program's survival
+
+---
+
 ## Memes
 
 [A Structural Reading of Memes →](/book-3-structural-readings/memes/)
