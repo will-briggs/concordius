@@ -31,6 +31,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 ## Literature
 
 [[Literature/Shakespeare's Sonnets/index|Shakespeare — The Sonnets]]
+[[Literature/Ulysses|Joyce — Ulysses]]
 
 ---
 
