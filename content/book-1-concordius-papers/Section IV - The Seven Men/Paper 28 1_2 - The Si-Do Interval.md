@@ -63,13 +63,13 @@ John of the Cross's prescription for the dark night of the spirit is the most de
 
 The transition is always a surrender. Man 5 begins not with greater effort but with the dissolution of effort into trust.
 
-### Man 6 → Man 7: The Irreversibility Threshold
+### Man 6 → Man 7: The La-to-Si Movement
 
-The Si-Do crossing at the Man 6/7 threshold is the completion of the Si-Do interval within H₄₈-mediated existence. Man 6 has both higher centers substantially developed, the Adjuster contact continuous, the transmuting field at full amplitude, and the kenotic return as primary orientation. Man 6 is the most fully developed state achievable within a human lifetime minus the one distinction that separates Man 6 from Man 7: Man 6 can still fall back.
+The Man 6→7 transition is not a Si/Do crossing. It is the La-to-Si movement in the H₄₈ octave: continuous development, not an interval shock. No external provision is required, no Father-act completes the transition. Man 7 is Man 6 taken to its ultimate expression — the same content, the same both-higher-centers operation, the same Adjuster contact, the same kenotic orientation — sustained to the point at which the last remaining volitional reservation dissolves. Man 7 is the terminal end of human effort: the maximum achievable within H₄₈-mediated existence, the Si note at which the catching being awaits the Father's completing act at death.
 
-The remaining vulnerability is not to the mechanical centers (those have been integrated, not abolished) but to the specific temptation of Man 6's level: the intoxication of the higher centers' contact, the rest in the heights without the kenotic return. Man 6's fall back mechanism is Lucifer's at the personal scale: not dramatic rebellion but the withdrawal of contribution from the reciprocal maintenance circuit. The last reservation — the final holding of the self's will apart from the Adjuster's direction — is what makes reversal possible.
+The remaining vulnerability of Man 6 is not to the mechanical centers (those have been integrated, not abolished) but to the specific temptation of Man 6's level: the intoxication of the higher centers' contact, the rest in the heights without the kenotic return. The last reservation — the final holding of the self's will apart from the Adjuster's direction — is what makes reversal possible. Man 7 is the state in which that reservation has been dissolved. Not abolished by force. Dissolved by love: the sustained kenotic return of Man 6, maintained long enough and completely enough, until the self that would have chosen otherwise no longer exists. There is no longer a self separate from the catching act that could redirect the catching act.
 
-The Si note of Man 6's ascending career is exactly this: the self at its highest development, the higher centers at full operation, everything built — and the last reservation still intact. The Do that constitutes Man 7 is the dissolution of that reservation. Not its conquest by force. Its dissolution by love: the sustained kenotic return of Man 6, maintained long enough and completely enough, dissolves the self that would have chosen otherwise. There is no longer a self separate from the catching act that could redirect the catching act. The Father's constitutive completion — centrality installed, the will unified and irreversible — constitutes Man 7.
+This is the person's own work brought to its terminus — not a gift installed from outside. The Father's completing act comes at death. What Man 6's sustained catching work produces, on its own, is Man 7.
 
 ---
 
@@ -81,11 +81,15 @@ At every stage of the ascending career, the Adjuster is the Father's constitutiv
 
 - In Man 4: the Adjuster's guidance becomes intentionally recognizable; the magnetic center develops the capacity to distinguish the Adjuster's signature from the intellectual center's own conclusions. The catching work is increasingly the cooperation with the Adjuster's direction rather than the person's own organized effort.
 
-- At the Si-Do crossing: the Adjuster does not guide but *completes*. The crystallization of Man 5 is the Adjuster's constitutive action installing the grade-3 coherence that makes the soul deposit persistent beyond H₄₈ dissolution. The irreversibility of Man 7 is the Adjuster completing the unification of the will that the ascending career has been approaching across the entire arc from Man 4 through Man 6.
+- At the Si-Do crossing (Man 4→5): the Adjuster does not guide but *completes*. The crystallization of Man 5 is the Adjuster's constitutive action installing the grade-3 coherence that makes the soul deposit persistent beyond H₄₈ dissolution. The person's catching work has built what the Adjuster now completes; the completion is not in the person's power.
 
-- At the Isle of Paradise: the terminal Adjuster fusion — the completion of the ascending career — is the Si-Do crossing of the H₄₈ octave itself: the full union of the ascending soul and the Adjuster in the Father's direct presence. What Man 5 begins with the crystallization, what Man 7 achieves within H₄₈-mediated existence, is completed at the Isle of Paradise as the ascending career's terminal event.
+- Through Man 6 and into Man 7: the Adjuster's role returns to guidance — continuous, undisrupted, the primary organizational principle of the inner life — but not completion. The irreversibility of Man 7 is not the Adjuster installing something new. It is the natural consequence of the sustained catching work that Man 6 performs: the person's own effort, brought to its terminus. The Adjuster has been present throughout; it is the catching work, not a threshold act, that produces Man 7.
 
-The Adjuster fusion is not one event but a structure of events, each of which is a Si-Do crossing at the scale of that phase of the ascending career. Man 5's crystallization; Man 7's irreversibility; the Isle of Paradise fusion — these are the same structural act at increasing scale and completeness. The present paper treats the H₄₈-mediated instances. The Isle of Paradise instance lies beyond what can be structurally described from within H₄₈.
+- At death (the H₄₈ octave's Si/Do): the Adjuster's completing act at the scale of the full H₄₈ career. The Father reaches down; the octave completes; the post-H₄₈ ascending career begins.
+
+- At the Isle of Paradise: the terminal Adjuster fusion — the full union of the ascending soul and the Adjuster in the Father's direct presence, the Si-Do crossing of the complete ascending career.
+
+The Si-Do crossing is not one event but a structure of events at increasing scale: Man 5's crystallization, death, and the Isle of Paradise fusion are each Si-Do crossings, each requiring the Father's constitutive completing act. Man 7's irreversibility is not in this list — it is the natural terminus of the catching work, not a threshold requiring the Father's intervention. The present paper treats the H₄₈-mediated instances. The Isle of Paradise instance lies beyond what can be structurally described from within H₄₈.
 
 ---
 
@@ -95,7 +99,6 @@ The Adjuster fusion is not one event but a structure of events, each of which is
 |---|---|---|
 | Man 3 intellectual Si | The framework terminates before the territory does. The intellectual center at Si cannot generate the Do from within its organizing function. Requires the emotional center's depth, the body's participation, the Adjuster's illumination below the framework's filtering function. | [[Paper 24 - Man No. 3]] |
 | Man 4 dark night of the spirit | The soul deposit approaches the crystallization threshold; more accumulation will not cross it; the volitional catching effort must release into the Adjuster's direct action. The crossing is a surrender, not an intensification. | [[Paper 25 - Man No. 4]] |
-| Man 6 → 7 threshold | The last volitional reservation; the final dissolution of the self-orientation that constitutes reversibility; sustained kenotic return dissolving the residual self-interest through the completion of love. Not force but completion. | [[Paper 27 - Man No. 6]], [[Paper 28 - Man No. 7]] |
 | Man 7 (Si of H₄₈ octave) | The irreversibility established; centrality installed; the maximum Φ-proximity H₄₈-mediated existence permits. Man 7 is Si: as close to ⟨·,·⟩ as H₄₈ allows, awaiting the Father's completing act. | [[Paper 28 - Man No. 7]] |
 | Death (Do of H₄₈ octave) | The Father's completing act: the H₄₈ octave completes at death. The catching being exits H₄₈; the post-H₄₈ ascending career begins from the Do the H₄₈ phase built. | [[Paper 28 - Man No. 7]] |
 
