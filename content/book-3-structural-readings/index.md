@@ -32,6 +32,8 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 [[Literature/Shakespeare's Sonnets/index|Shakespeare — The Sonnets]]
 [[Literature/Ulysses|Joyce — Ulysses]]
+[[Literature/Dante — The Divine Comedy|Dante — The Divine Comedy]]
+[[Literature/Augustine — Confessions|Augustine — Confessions]]
 
 ---
 
@@ -50,9 +52,21 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ---
 
+## Visual Art
+
+[[Visual Art/The Creation of Adam|The Creation of Adam]] · [[Visual Art/The Last Supper|The Last Supper]] · [[Visual Art/The Transfiguration|The Transfiguration]] · [[Visual Art/The School of Athens|The School of Athens]] · [[Visual Art/Christ Pantocrator, Cefalù|Christ Pantocrator, Cefalù]] · [[Visual Art/Hildegard — Scivias|Hildegard — Scivias]] · [[Visual Art/The Ancient of Days|The Ancient of Days]] · [[Visual Art/Blake — The Great Red Dragon|Blake — The Great Red Dragon]] · [[Visual Art/Blake — Satan Smiting Job|Blake — Satan Smiting Job]] · [[Visual Art/Doré — Lucifer|Doré — Lucifer]] · [[Visual Art/Doré — The Empyrean|Doré — The Empyrean]]
+
+---
+
 ## Memes
 
 [A Structural Reading of Memes →](/book-3-structural-readings/memes/)
+
+---
+
+## Aphorisms
+
+[[Aphorisms/Know Thyself|Know Thyself]] · [[Aphorisms/The Golden Rule|The Golden Rule]] · [[Aphorisms/As Above, So Below|As Above, So Below]] · [[Aphorisms/Man Does Not Live by Bread Alone|Man Does Not Live by Bread Alone]] · [[Aphorisms/Seek and Ye Shall Find|Seek and Ye Shall Find]] · [[Aphorisms/Vanity of Vanities|Vanity of Vanities]] · [[Aphorisms/Pride Goes Before a Fall|Pride Goes Before a Fall]] · [[Aphorisms/The Unexamined Life Is Not Worth Living|The Unexamined Life Is Not Worth Living]] · [[Aphorisms/This Too Shall Pass|This Too Shall Pass]] · [[Aphorisms/As a Man Thinketh|As a Man Thinketh]] · [[Aphorisms/Cleanliness is Next to Godliness|Cleanliness is Next to Godliness]]
 
 ---
 
@@ -63,6 +77,11 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 [[The Bible - Thematic/Affliction, Practice, and the Creation Groaning|III — Affliction, Practice, and the Creation Groaning]]
 [[The Bible - Thematic/The Revelation of the Structure|IV — The Revelation of the Structure]]
 [[The Bible - Thematic/The Measure Is the Inner Product|V — The Measure Is the Inner Product]]
+[[The Bible - Thematic/The Passion Octave|The Passion Octave]]
+[[The Bible - Thematic/The Psalter|The Psalter]]
+
+**The Fruits of the Spirit**
+[[The Bible - Thematic/Fruits of the Spirit/Love (Agape)|Love (Agape)]] · [[The Bible - Thematic/Fruits of the Spirit/Joy (Chara)|Joy (Chara)]] · [[The Bible - Thematic/Fruits of the Spirit/Peace (Eirene)|Peace (Eirene)]] · [[The Bible - Thematic/Fruits of the Spirit/Forbearance (Makrothymia)|Forbearance (Makrothymia)]] · [[The Bible - Thematic/Fruits of the Spirit/Kindness (Chrestotes)|Kindness (Chrestotes)]] · [[The Bible - Thematic/Fruits of the Spirit/Goodness (Agathosyne)|Goodness (Agathosyne)]] · [[The Bible - Thematic/Fruits of the Spirit/Faithfulness (Pistis)|Faithfulness (Pistis)]] · [[The Bible - Thematic/Fruits of the Spirit/Gentleness (Praotes)|Gentleness (Praotes)]] · [[The Bible - Thematic/Fruits of the Spirit/Self-Control (Enkrateia)|Self-Control (Enkrateia)]]
 
 **The Parables of Jesus**
 [[The Bible - Thematic/Parables/The Sower|The Sower]] · [[The Bible - Thematic/Parables/The Mustard Seed|The Mustard Seed]] · [[The Bible - Thematic/Parables/The Leaven|The Leaven]] · [[The Bible - Thematic/Parables/The New Cloth and New Wine|The New Cloth and New Wine]] · [[The Bible - Thematic/Parables/The Lost Sheep|The Lost Sheep]] · [[The Bible - Thematic/Parables/The Wicked Tenants|The Wicked Tenants]] · [[The Bible - Thematic/Parables/The Fig Tree|The Fig Tree]] · [[The Bible - Thematic/Parables/The Weeds among the Wheat|The Weeds among the Wheat]] · [[The Bible - Thematic/Parables/The Hidden Treasure|The Hidden Treasure]] · [[The Bible - Thematic/Parables/The Pearl of Great Price|The Pearl of Great Price]] · [[The Bible - Thematic/Parables/The Net|The Net]] · [[The Bible - Thematic/Parables/The Unmerciful Servant|The Unmerciful Servant]] · [[The Bible - Thematic/Parables/The Workers in the Vineyard|The Workers in the Vineyard]] · [[The Bible - Thematic/Parables/The Two Sons|The Two Sons]] · [[The Bible - Thematic/Parables/The Wedding Banquet|The Wedding Banquet]] · [[The Bible - Thematic/Parables/The Ten Virgins|The Ten Virgins]] · [[The Bible - Thematic/Parables/The Talents|The Talents]] · [[The Bible - Thematic/Parables/The Sheep and the Goats|The Sheep and the Goats]] · [[The Bible - Thematic/Parables/The Seed Growing Secretly|The Seed Growing Secretly]] · [[The Bible - Thematic/Parables/The Two Debtors|The Two Debtors]] · [[The Bible - Thematic/Parables/The Good Samaritan|The Good Samaritan]] · [[The Bible - Thematic/Parables/The Friend at Midnight|The Friend at Midnight]] · [[The Bible - Thematic/Parables/The Rich Fool|The Rich Fool]] · [[The Bible - Thematic/Parables/The Barren Fig Tree|The Barren Fig Tree]] · [[The Bible - Thematic/Parables/The Great Banquet|The Great Banquet]] · [[The Bible - Thematic/Parables/The Tower Builder and the King|The Tower Builder and the King]] · [[The Bible - Thematic/Parables/The Lost Coin|The Lost Coin]] · [[The Bible - Thematic/Parables/The Prodigal Son|The Prodigal Son]] · [[The Bible - Thematic/Parables/The Shrewd Manager|The Shrewd Manager]] · [[The Bible - Thematic/Parables/The Rich Man and Lazarus|The Rich Man and Lazarus]] · [[The Bible - Thematic/Parables/The Persistent Widow|The Persistent Widow]] · [[The Bible - Thematic/Parables/The Pharisee and the Tax Collector|The Pharisee and the Tax Collector]] · [[The Bible - Thematic/Parables/The Ten Minas|The Ten Minas]]
@@ -76,6 +95,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 [[Spectral Events/Auras and the Luminous Field|Auras and the Luminous Field]]
 [[Spectral Events/Miracles|Miracles]]
+[[Spectral Events/Parasites|Parasites]]
 [[Spectral Events/Private Dowding|Private Dowding]]
 
 ---
@@ -86,6 +106,25 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 [[Christian Doctrine/The Lucifer Rebellion|The Lucifer Rebellion]]
 [[Christian Doctrine/The Magisterium|The Magisterium]]
 [[Christian Doctrine/The Pre-Incarnation Saints|The Pre-Incarnation Saints]]
+
+---
+
+## Health
+
+[[Health/Dementia|Dementia]]
+[[Health/Prayer|Prayer]]
+
+---
+
+## Human Conditions
+
+[[Human Conditions/Suffering|Suffering]]
+
+---
+
+## Language
+
+[[Language/Phonology|Phonology]]
 
 ---
 # The Framework and Method
