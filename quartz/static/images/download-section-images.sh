@@ -59,7 +59,7 @@ check_image() {
   fi
   local sig
   sig=$(file "$path")
-  if echo "$sig" | grep -qiE "JPEG image|PNG image|GIF image|WebP image|bitmap"; then
+  if echo "$sig" | grep -qiE "JPEG|PNG|GIF|WebP|bitmap"; then
     local size
     size=$(wc -c < "$path" | tr -d ' ')
     echo "  OK:   $filename  ($(echo "$sig" | grep -oiE "JPEG|PNG|GIF|WebP"), ${size} bytes)"
