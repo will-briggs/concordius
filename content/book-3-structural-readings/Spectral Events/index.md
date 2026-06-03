@@ -15,4 +15,5 @@ These are not supernatural events in a category apart from the framework's struc
 
 - [[Auras and the Luminous Field]]
 - [[Miracles]]
+- [[Parasites]]
 - [[Private Dowding]]
