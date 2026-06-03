@@ -4,6 +4,11 @@ tags:
   - nav-order::1
 ---
 
+<figure>
+<img src="/static/images/rembrandt-two-old-men-disputing.jpg" alt="Rembrandt van Rijn, Two Old Men Disputing, 1628" style="max-width:100%;">
+<figcaption><em>Rembrandt van Rijn, Two Old Men Disputing (St. Peter and St. Paul in Discussion)</em> (1628). One finger holds a place in the open text; the other mind attends. No credential is visible here — no institution, no office. Only two people following an argument together, testing what the text actually says. The court of last appeal has always looked like this.</figcaption>
+</figure>
+
 # Book 2 — Reasonablenessism
 
 *A systematic account of the epistemological principles careful inquiry requires. The twelve features are each developed fully in their own files, in four registers. This document contains the framing, the feature index, and the working context.*

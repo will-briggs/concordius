@@ -173,6 +173,18 @@ dl bruegel-tower-of-babel.jpg \
   "https://upload.wikimedia.org/wikipedia/commons/5/50/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Vienna)_-_Google_Art_Project.jpg" \
   "Language: Bruegel - Tower of Babel (1563)"
 
+# ─── Book 2 — Reasonablenessism frontispiece ────────────────────────────────
+
+dl rembrandt-two-old-men-disputing.jpg \
+  "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rembrandt_van_Rijn_-_Two_old_men_disputing_%28St._Peter_and_St._Paul_in_discussion%29_-_Google_Art_Project.jpg" \
+  "Book 2: Rembrandt - Two Old Men Disputing (1628)"
+
+# ─── Book 3 — Structural Readings frontispiece ──────────────────────────────
+
+dl holbein-the-ambassadors.jpg \
+  "https://upload.wikimedia.org/wikipedia/commons/8/88/Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg" \
+  "Book 3: Holbein - The Ambassadors (1533)"
+
 # ─── Verification ────────────────────────────────────────────────────────────
 
 echo ""
@@ -185,7 +197,8 @@ for f in \
   kells-chi-rho.png raphael-parnassus.jpg friedrich-wanderer.jpg \
   durer-self-portrait.jpg bayeux-comet.jpg david-death-of-socrates.jpg \
   van-eyck-mystic-lamb.jpg durer-melancholia.jpg \
-  durer-praying-hands.jpg bruegel-tower-of-babel.jpg; do
+  durer-praying-hands.jpg bruegel-tower-of-babel.jpg \
+  rembrandt-two-old-men-disputing.jpg holbein-the-ambassadors.jpg; do
   check_image "$f"
 done
 
