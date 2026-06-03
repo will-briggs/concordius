@@ -391,6 +391,15 @@ The confidence tier stated in the abstract holds at the close: Sections 1 throug
 
 ---
 
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"Science can explain the workings of the cosmos, but not the fact of its existence."*
+> — Paul Davies, *The Mind of God*
+
+</div>
+
+---
+
 ## References
 
 1. **Companion papers**: *Modeling Reality as a Gelfand Triple*; *From the Cogito to the Logos.* [The first two papers in this series — the complete eternal structure and its naming.]
