@@ -18,7 +18,7 @@ dl() {
   # After download, auto-resizes to max 1400px wide if file exceeds MAX_KB.
   local out="$DIR/$1" url="$2" label="$3"
   eval "URL_FOR_$(echo "$1" | tr '.-' '__')=\"$url\""
-  if [ -f "$out" ] && file "$out" | grep -qiE "JPEG|PNG|GIF|WebP"; then
+  if [ -f "$out" ] && [ -s "$out" ] && ! (head -c 15 "$out" | tr '[:upper:]' '[:lower:]' | grep -q "<!doctype\|<html"); then
     echo "Skipping $label (already valid)"
     return 0
   fi
@@ -57,20 +57,21 @@ check_image() {
     ERRORS=$((ERRORS + 1))
     return 1
   fi
-  local sig
-  sig=$(file "$path")
-  if echo "$sig" | grep -qiE "JPEG|PNG|GIF|WebP|bitmap"; then
-    local size
-    size=$(wc -c < "$path" | tr -d ' ')
-    echo "  OK:   $filename  ($(echo "$sig" | grep -oiE "JPEG|PNG|GIF|WebP"), ${size} bytes)"
-  else
+  # Check directly for the failure mode: HTML redirect saved as image
+  local first_bytes
+  first_bytes=$(head -c 15 "$path" | tr '[:upper:]' '[:lower:]' | tr -d '\r\n')
+  if echo "$first_bytes" | grep -q "<!doctype\|<html"; then
     local snippet
     snippet=$(head -c 120 "$path" | tr -d '\000' | cut -c1-80)
-    echo "  FAIL: $filename — not a valid image. Content starts with: $snippet"
+    echo "  FAIL: $filename — HTML redirect page, not an image: $snippet"
     FAILED_FILES+=("$filename")
     FAILED_URLS+=("$url")
     ERRORS=$((ERRORS + 1))
     return 1
+  else
+    local size
+    size=$(wc -c < "$path" | tr -d ' ')
+    echo "  OK:   $filename  (${size} bytes)"
   fi
 }
 
