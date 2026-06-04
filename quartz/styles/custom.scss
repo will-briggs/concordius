@@ -60,6 +60,16 @@ a {
   }
 }
 
+// Section index pages: let the bolded paper-list links (**[[Paper …]]**) render bold.
+// The global `a { font-weight: normal !important }` above otherwise suppresses the
+// surrounding <strong>. Scoped by slug to section indexes only (prefix + /index suffix)
+// so inline **[[dictionary term]]** links on paper pages stay normal weight.
+body[data-slug^="book-1-concordius-papers/section-"][data-slug$="/index"] {
+  article strong a {
+    font-weight: 700 !important;
+  }
+}
+
 // Keep breadcrumbs condensed — prevent body line-height from expanding them
 // and align arrow/text by baseline so the separator sits at the right height
 .breadcrumb-container {
