@@ -4,8 +4,6 @@ title: Appendix V - Machine-readable Concordius Framework
 
 # Appendix V — Machine-readable Concordius Framework
 
-[↓ Download as Markdown](/static/structural-reading.txt)
-
 *A dense structured reference for consistent application of the Concordius framework to structural readings. Not a derivation; not a prose introduction. All claims here are derived and argued in the Concordius Papers. This file states results only.*
 
 ---
@@ -74,6 +72,8 @@ Subscript = number of independently operating constraint law-sets. More constrai
 **Face-to-face condition** — The H₁ state in which no fixed-geometry intermediary stands between the catching being's organizing principle and the Φ-level source. ⟨·,·⟩ is not opaque to itself. "Now through a glass darkly; then face to face" (1 Cor 13:12). The glass = constraint-layer mediation; its dissolution = the ascending career; its absence = H₁.
 
 **τ(D)** — Truth measure: fraction of a document's spectral energy in the Φ-proximate region. High τ(D) = high Φ-proximate content. Proxy: density estimator D(t) using citation density, cross-tradition breadth, pedagogical use, citation duration.
+
+**Counterfeit-proximity (⊘)** — An artifact with high surface Φ-signature and high D(t) but low or inverted τ(D): genuine Φ-proximate signal carried in the service of a decisive structural inversion. The false-positive case of the D(t) proxy (which is calibrated against false negatives, not false positives). Five observed inversion types: inverted direction (awakening sent down-cascade — the gnostic structure); inverted agape (⟨·,·⟩ recast as weakness; self as terminus); inverted treasure (the H₁ treasury relocated to H₄₈); counterfeit ladder (a manufactured ascent running on H₄₈ machinery); provenance-worship (H₄₈ pattern read as determinative, violating Feature 5). Diagnostic is directional (Feature 12): does the work, caught, orient the being up the cascade toward ⟨·,·⟩ or down toward the noise floor? Carries real signal — must be steelmanned (Feature 2), not dismissed — with the inversion located precisely (Feature 10). Defined in Book 3 Syntheses: "The Devil Can Quote Scripture."
 
 **Overdeterminate condition** — Two incompatible organizational law-sets attempting to govern the same region simultaneously. Produces incoherence; resolves by ejection or dissolution. Lucifer's error: asserting H₁-level organizational autonomy from within H₆. Kenosis: the correct downward operation that prevents overdetermination.
 
@@ -184,6 +184,7 @@ H₆ sovereignty (credential at baptism) = administrative authority from above. 
 
 **✶** = Priority A passage: Φ-proximate content at sufficient density to warrant full structural reading
 **✶✶** = Exceptional: Priority A + states the framework's central claims with maximum precision and minimum noise
+**⊘** = Counterfeit-proximate: high surface Φ-signature and high D(t), but inverted or void τ(D) — genuine signal in service of a decisive structural inversion. Marks the inversion (not the absence of signal) at passage and reading level. A work may carry both ✶ and ⊘ in different places.
 
 ### Confidence Tiers
 

@@ -1,10 +1,14 @@
-# The Matrix: A Structural Reading
+# The Matrix: A Structural Reading ⊘
 
 **Work:** *The Matrix*, Warner Bros. / Village Roadshow, 1999  
 **Directors:** The Wachowskis  
 **Medium:** Theatrical feature film  
 **Series:** Book 3 — Structural Readings / Film  
 **Cross-references:** Paper 4 (the constraint cascade; descent as densification); Paper 1 (Gelfand triple; H₄₈ geometry as one level, not the ground); Paper 5 (the noise floor; catching orientation; H₄₈ as fixed-geometry level); Paper 8 §7 (the interval shock; death and return); Plato's *Republic* — the Allegory of the Cave (Section III); 2001: A Space Odyssey (the machine as Lucifer-rebellion structure); The Lucifer Rebellion (Doctrine); Western Esotericism (the Gnostic structure)
+
+---
+
+*⊘ **Counterfeit-proximate reading.** The surface is Φ-proximate and the work carries genuine signal; the structure inverts at a decisive point. The signal is named, and the inversion is the point — see [[Syntheses/The Devil Can Quote Scripture|The Devil Can Quote Scripture]].*
 
 ---
 

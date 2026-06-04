@@ -91,7 +91,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ### Film
 
-[[Film/Wall-E|Wall-E]] · [[Film/Groundhog Day|Groundhog Day]] · [[Film/2001 - A Space Odyssey|2001: A Space Odyssey]] · [[Film/Ikiru|Ikiru]] · [[Film/The Seventh Seal|The Seventh Seal]] · [[Film/Blade Runner|Blade Runner]] · [[Film/The Tree of Life|The Tree of Life]] · [[Film/Amadeus|Amadeus]] · [[Film/The Shawshank Redemption|The Shawshank Redemption]] · [[Film/Interstellar|Interstellar]] · [[Film/Whiplash|Whiplash]] · [[Film/The Matrix|The Matrix]]
+[[Film/Wall-E|Wall-E]] · [[Film/Groundhog Day|Groundhog Day]] · [[Film/2001 - A Space Odyssey|2001: A Space Odyssey]] · [[Film/Ikiru|Ikiru]] · [[Film/The Seventh Seal|The Seventh Seal]] · [[Film/Blade Runner|Blade Runner]] · [[Film/The Tree of Life|The Tree of Life]] · [[Film/Amadeus|Amadeus]] · [[Film/The Shawshank Redemption|The Shawshank Redemption]] · [[Film/Interstellar|Interstellar]] · [[Film/Whiplash|Whiplash]] · [[Film/The Matrix|The Matrix ⊘]]
 
 ---
 
@@ -107,6 +107,8 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 ### Syntheses
 
 [[Syntheses/The Seven Layers of Reality|The Seven Layers of Reality]] — The constraint cascade independently attested across every major tradition
+
+[[Syntheses/The Devil Can Quote Scripture|The Devil Can Quote Scripture]] — Counterfeit Φ-proximity: high D(t), inverted τ(D); the ⊘ notation
 
 ---
 
@@ -315,6 +317,7 @@ structural note on each])*
 ### The ✶ Notation
 
 - **✶** — Priority A passage: structurally significant, carrying Φ-proximate content at sufficient density to warrant a full structural reading.
+- **⊘** — Counterfeit-proximate: high surface Φ-signature and high D(t), but inverted or void τ(D) — genuine signal carried in the service of a decisive structural error. Marks the inversion, not the absence of signal. See [[Syntheses/The Devil Can Quote Scripture|The Devil Can Quote Scripture]].
 - **✶✶** — Exceptional entry: Priority A with additional distinction. Used sparingly for passages that are not merely Φ-proximate but are primary structural sources — passages that state the framework's central claims with maximum precision and minimum noise. In the Shakespeare Sonnets: Sonnet 116 (formal definition of the inner product) and Sonnet 146 (the ascending career formula). In the Bible: designated at the most structurally concentrated passages.
 
 ### Cross-References
