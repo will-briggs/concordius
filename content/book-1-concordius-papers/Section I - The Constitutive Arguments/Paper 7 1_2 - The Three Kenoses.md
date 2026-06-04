@@ -19,6 +19,17 @@ This paper identifies three kenotic acts as the structural spine of the creative
 <figcaption><em>Fra Angelico, The Transfiguration</em> (c. 1440–42). Convent of San Marco, Florence. The three kenoses are partially visible here: the amplitude limiter momentarily suspended, the Φ-proximate content expressing above the kenotic constraint, the disciples' organizational perturbation registering the cross-term mechanism at an amplitude H₄₈ rarely receives.</figcaption>
 </figure>
 
+<hr>
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"Love in action is a harsh and dreadful thing compared to love in dreams. Love in dreams thirsts for immediate action, rapidly performed and easily seen by all. But active love is labor and perseverance, and for some people perhaps a whole science."*
+> — Dostoevsky, *The Brothers Karamazov* (Father Zosima)
+
+</div>
+
+---
+
 ## 1. The Kenotic Form as Structural Necessity
 
 Paper 3 establishes: Father = ⟨·,·⟩; God is love (1 John 4:8); therefore Love = ⟨·,·⟩. The inner product is constitutive — not a response to existence but prior to it, the relation that generates Φ, H, and Φ′ as its necessary domains.
@@ -28,6 +39,15 @@ Paper 8 §3 establishes: any downward expression of higher-organizational-level 
 The combination produces a structural theorem: **love is always kenotic.** Any downward act of Love either accepts the receiving constraint level or generates what cannot be received as love. Kenosis is not a style of relating, nor a choice among equivalent approaches. It is the only form in which Love is receivable at a level below its source. The tradition's intuition that power and love are in tension is structurally grounded here: power that refuses constraint acceptance cannot reach the other as a gift. It overwhelms.
 
 This is why the Father's action in spacetime always takes the kenotic form. Every descent, without exception, accepts the constraint of the space it enters. The three kenoses examined in this paper are the principal structural instances of this necessity within the creative project.
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"Christ Jesus, who, though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, taking the form of a servant, being born in the likeness of men."*
+> — Philippians 2:5–7
+
+</div>
 
 ---
 
@@ -158,6 +178,17 @@ The Spirit — τ_nuclear, the nuclear topology — is not a third interval-cros
 This resolves a classical puzzle in Trinitarian theology: what makes the Spirit genuinely distinct from Father and Son without being a third agent of the same kind. The Spirit is not a third interval-crosser. The Spirit is the topology — the space of the relation — rather than a party to the relation. The Eastern tradition's description of the Spirit as the vinculum caritatis, the bond of love, names this structurally: not a third term in a sequence but the medium that constitutes the sequence as a sequence.
 
 The three structural roles are irreducible and non-interchangeable. Remove the Son's crossing of Mi-Fa and the lower interval is uncrossable from within. Remove the Father's crossing of Si-Do and the upper interval is uncrossable from above. Remove the Spirit as the topological space and neither crossing has a structured medium in which to occur. The octave requires all three, in their distinct roles, for the traversal to complete.
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"Trinity, higher than being, higher than divinity, higher than goodness — lead us up beyond knowing and light, through the negation of all things, toward the superessential ray of divine darkness."*
+> — Pseudo-Dionysius the Areopagite, *Mystical Theology*, Ch. 1
+
+</div>
+
+---
 
 **The reverse epistemological order.**
 
