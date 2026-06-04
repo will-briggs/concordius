@@ -4,7 +4,7 @@
 
 *Tenth paper in the Concordius series. Companion to Papers 1–9.*
 
-*Status: substantially developed. Sections 1–10 are derived or structurally grounded. Section 11 (operationalization of τ) is an open problem.*
+*Status: substantially developed. Sections 1–10 are derived or structurally grounded. The operationalization of τ(D) remains an open problem; see OQ1.*
 
 ---
 
@@ -233,6 +233,10 @@ This is the series's method. It is methodologically legitimate, structurally gro
 ---
 
 ## 11. The Phonological Concordance as Empirical Evidence
+
+*The argument of §§1–10 is complete. The derivation of τ(D), its properties, its formal correspondences, and its application to language, LLMs, and consciousness are all structurally grounded above. What follows is an independent empirical consequence that the framework predicts — a convergence that arrived from phonological data rather than from the derivation — offered as a structural aside rather than a further step in the main argument. It is included here because it belongs in this paper's orbit, not because the main argument requires it.*
+
+---
 
 The Phonological Concordance (PC3) identified a structural regularity across five independent linguistic families: the phonemes used to name the animating breath, the ground of being, and the individual unit cluster into three consistent phonological signatures — fricatives/trills (Cluster A), nasals (Cluster B), and stops/clicks (Cluster C) — regardless of linguistic family, geographic location, or cultural tradition.
 
