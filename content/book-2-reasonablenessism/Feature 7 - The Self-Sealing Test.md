@@ -13,7 +13,7 @@
 
 ---
 
-**If every possible denial of a claim performs what it denies, the claim approaches axiom status.**
+> **If every possible denial of a claim performs what it denies, the claim approaches axiom status.**
 
 ---
 

@@ -11,7 +11,7 @@
 
 ---
 
-**No source is axiom. All are evidence.**
+> **No source is axiom. All are evidence.**
 
 ---
 

@@ -13,7 +13,7 @@
 
 ---
 
-**When everyone who has ever looked confirms the same inner experience, that is the strongest available grounds for inferring an objective fact.**
+> **When everyone who has ever looked confirms the same inner experience, that is the strongest available grounds for inferring an objective fact.**
 
 ---
 

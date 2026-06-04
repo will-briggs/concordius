@@ -13,7 +13,7 @@
 
 ---
 
-**Evaluate by what it produces, not where it came from.**
+> **Evaluate by what it produces, not where it came from.**
 
 ---
 

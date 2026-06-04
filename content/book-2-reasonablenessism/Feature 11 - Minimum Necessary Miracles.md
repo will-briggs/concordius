@@ -13,7 +13,7 @@
 
 ---
 
-**When comparing accounts, prefer the one requiring fewer unexplained events.**
+> **When comparing accounts, prefer the one requiring fewer unexplained events.**
 
 ---
 

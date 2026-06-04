@@ -13,7 +13,7 @@
 
 ---
 
-**Steelman first. Test what survives.**
+> **Steelman first. Test what survives.**
 
 ---
 

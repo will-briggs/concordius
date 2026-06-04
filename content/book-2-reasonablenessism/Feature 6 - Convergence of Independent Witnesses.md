@@ -13,7 +13,7 @@
 
 ---
 
-**Independent convergence accumulates.**
+> **Independent convergence accumulates.**
 
 ---
 

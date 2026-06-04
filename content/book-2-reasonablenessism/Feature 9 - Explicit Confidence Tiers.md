@@ -13,7 +13,7 @@
 
 ---
 
-**Label what you know by how you know it.**
+> **Label what you know by how you know it.**
 
 ---
 

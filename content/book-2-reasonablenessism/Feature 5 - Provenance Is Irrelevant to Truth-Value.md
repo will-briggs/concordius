@@ -13,7 +13,7 @@
 
 ---
 
-**Where something comes from does not determine whether it is true.**
+> **Where something comes from does not determine whether it is true.**
 
 ---
 

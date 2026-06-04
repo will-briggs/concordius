@@ -13,7 +13,7 @@
 
 ---
 
-**Personal experience is evidence. It is not proof.**
+> **Personal experience is evidence. It is not proof.**
 
 ---
 

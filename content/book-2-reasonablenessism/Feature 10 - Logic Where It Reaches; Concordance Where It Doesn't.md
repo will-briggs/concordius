@@ -13,7 +13,7 @@
 
 ---
 
-**Follow the argument as far as it goes. When it stops, name where it stops and shift methods.**
+> **Follow the argument as far as it goes. When it stops, name where it stops and shift methods.**
 
 ---
 
