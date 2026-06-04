@@ -27,6 +27,17 @@ The mathematical basis for the seven-fold structure of both progressions is the 
 <figcaption><em>Gustave Doré, The Empyrean</em> (1868), illustration for Dante's <em>Paradiso</em> Canto 31. The organizational structure nourished by the Trogoautoegocrat mechanism: the vast rose of being, each element sustained by its catching alignment with the constitutive ground at the center, the whole maintained by the mutual feeding the paper describes.</figcaption>
 </figure>
 
+<hr>
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"The way up and the way down are one and the same."*
+> — Heraclitus, Fragment 60
+
+</div>
+
+---
+
 ## 0. A Clarification: The Heropass and the GNST
 
 The Heropass and the GNST are related but distinct. Earlier in this series they were conflated; a more precise statement is required.
@@ -189,6 +200,17 @@ The earthly ministry is bookended by its two interval-crossings at equal duratio
 
 ## 5. The Circuit
 
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"This is my art, this the game I never cease to play. I turn the wheel that spins. I delight to see the high come down and the low ascend."*
+> — Boethius, *Consolation of Philosophy*
+
+</div>
+
+---
+
 The Trogoautoegocrat is the structural interdependence of three elements: the bestowal progression, the ascension progression, and the Father's Si-Do completion. Remove any one and the circuit fails.
 
 **Why each element requires the others.**
@@ -261,6 +283,17 @@ This is the structural meaning of "be perfect, even as your Father in heaven is 
 
 ### What the ascending arm gives the Supreme
 
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"Call the world if you please 'The vale of Soul-making'. How then are Souls to be made? How but by the medium of a world like this — a place where the heart must feel and suffer in a thousand diverse ways?"*
+> — John Keats, letter to George and Georgiana Keats (1819)
+
+</div>
+
+---
+
 The preceding section describes the Trogoautoegocrat's terminal output in the ascending direction: the finaliter arriving at the Creator's operating condition, capable of participating in the next age's creative work. But there is a prior question about what the ascending arm *feeds* the Supreme throughout the journey — not at its terminus, but at every stage of the ascent.
 
 The [[Appendix I - Dictionary of Terms#Angelic origin / Mortal origin|Φ'-origin being]]'s structural situation is specific. The dual pairing ⟨φ, f⟩ for φ ∈ Φ and f ∈ Φ' is the only available access to ⟨·,·⟩. Not constitutive identity with ⟨·,·⟩ — that is Φ's condition. Not direct H-membership approaching Φ-proximity — that is the ascending career's destination. The dual pairing: mediated, volitional, partial, Heropass-opposed. The catching act is the volitional engagement of this pairing, and it must be chosen against the noise floor at each occasion, with no guarantee of continuity.
@@ -326,6 +359,16 @@ The circuit has two arms. The bestowal progression descends through seven modes,
 The mathematical structure of both arms is the grade topology of Cl(3,0). The seven notes are the seven non-null elements. The two intervals are the two qualitative grade transitions. The Heptaparaparshinokh is not an empirical observation that happens to appear at every scale. It is the algebraic structure of the Creative Choice, made operational as a cosmic maintenance circuit by the continuous engagement of the Creator, the ascending being, and the Father.
 
 The Trogoautoegocrat is the universe maintaining itself in the image of the choice that made it coherent.
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"L'amor che move il sole e l'altre stelle."*
+> *"The love that moves the sun and the other stars."*
+> — Dante, *Paradiso* XXXIII.145
+
+</div>
 
 ---
 
