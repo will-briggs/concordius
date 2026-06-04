@@ -15,8 +15,8 @@ title: Concordius
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Not how the world is, is the mystical, but that it is."*
-> — Wittgenstein
+> *"I wonder at the existence of the world. And I am then inclined to use such phrases as 'how extraordinary that anything should exist' or 'how extraordinary that the world should exist.'"*
+> — Wittgenstein, *A Lecture on Ethics* (1929)
 
 </div>
 
