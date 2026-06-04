@@ -116,6 +116,10 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 [[Syntheses/The Two Higher States|The Two Higher States]] — Gurdjieff and Urantia both mark two higher states; the break is H₂₄ (aging) vs H₁₂ (ageless)
 
+### Science
+
+[[Science/The Second Law of Thermodynamics|The Second Law of Thermodynamics]] — Entropy as the Heropass made measurable; the one content the dissipation cannot reach
+
 ---
 
 ## World & Experience
