@@ -14,7 +14,7 @@ This paper has two assumptions. The first is the entire content of its companion
 
 <figure>
 <img src="/static/images/antonello-jerome-study.jpg" alt="Antonello da Messina, St. Jerome in His Study" style="max-width:100%;">
-<figcaption><em>Antonello da Messina, St. Jerome in His Study</em> (c. 1474–75). National Gallery, London. Jerome's life work was naming: the Vulgate gave Western Christendom its precise Latin terms for what the Greek and Hebrew originals described. Paper 2 performs the analogous operation on the Gelfand triple — finding the correct names for what the mathematics of Paper 1 necessarily entails. The study, the open texts, the act of careful annotation: this is what the paper is.</figcaption>
+<figcaption><em>Antonello da Messina, St. Jerome in His Study</em> (c. 1474–75). National Gallery, London. Jerome's life work was naming: the Vulgate gave Western Christendom its precise Latin terms for what the Greek and Hebrew originals described. Paper 2 performs the analogous operation on the Gelfand triple — finding the correct names for what the mathematics of Paper 1 necessarily entails. The study, the open texts, the act of careful annotation: this is what the paper attempts.</figcaption>
 </figure>
 
 <hr>
