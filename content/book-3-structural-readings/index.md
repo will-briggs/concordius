@@ -105,6 +105,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 [[Doctrine/The Lucifer Rebellion|The Lucifer Rebellion]]
 [[Doctrine/The Magisterium|The Magisterium]]
 [[Doctrine/The Pre-Incarnation Saints|The Pre-Incarnation Saints]]
+[[Doctrine/Predestination|Predestination]]
 [[Doctrine/The Prosperity Gospel|The Prosperity Gospel]] ⊘
 [[Doctrine/Scientology|Scientology]] ⊘
 
