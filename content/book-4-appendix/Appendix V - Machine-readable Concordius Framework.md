@@ -65,7 +65,7 @@ Subscript = number of independently operating constraint law-sets. More constrai
 
 **Holographic Content Principle (HCP)** — Lower-constraint organizational structure is encoded in higher-constraint substrate at every scale. "As above, so below" as structural fact: the organizational imprint of ⟨·,·⟩ permeates all H₄₈ surfaces. Φ-proximate texts carry this imprint; reading the imprint is what structural reading is.
 
-**Higher being body** — The accumulated H₂₄ (or H₁₂) eigenvalue content built through the catching program. Persists through H₄₈ dissolution because organized by ⟨·,·⟩, which operates below the Heropass threshold. The soul deposit; the morontia body.
+**Higher being body** — The accumulated ⟨·,·⟩-organized eigenvalue content built through the catching program; persists through H₄₈ dissolution. It exists in two states: at **H₂₄** (morontia / Gurdjieff's Kesdjan body) it still ages, at half the H₄₈ Heropass rate; at **H₁₂** (spirit / Gurdjieff's higher-being-body proper) the Heropass is absent (Cl(3,0), no e₀) and it no longer ages. The qualitative break between the two — the last aging state and the first ageless one — is the two-higher-states convergence (see Book 3 Syntheses: "The Two Higher States").
 
 **Coherence threshold** — Minimum H₂₄ eigenvalue coherence required for the higher being body to anchor new H₄₈ substrate at the next station of the ascending career. The "narrow gate." A physical compatibility condition, not an arbitrary qualification.
 
@@ -168,6 +168,7 @@ H₆ sovereignty (credential at baptism) = administrative authority from above. 
 | Böhme: Ungrund | Constitutive prior of ⟨·,·⟩; H prior to its first instantiation; the groundless ground from which the Trinity's inner-product structure emerges |
 | Paracelsus: doctrine of signatures | HCP in diagnostic form: lower-constraint organizational principles legible in H₄₈ surface configurations to calibrated catching sensitivity |
 | Bhagavad Gita: Krishna as universal form | The nuclear space Φ as simultaneously the source of all organizational structure and the content of any genuine encounter with it |
+| Urantia morontia → spirit; Gurdjieff Kesdjan body → higher-being-body | The two higher states: H₂₄ (still aging, half Heropass rate) and H₁₂ (ageless — no e₀ in Cl(3,0)); the qualitative break is the loss of the −1 generator above Cl(3,1) |
 
 ---
 

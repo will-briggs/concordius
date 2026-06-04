@@ -114,6 +114,8 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 [[Syntheses/The Devil Can Quote Scripture|The Devil Can Quote Scripture]] — Counterfeit Φ-proximity: high D(t), inverted τ(D); the ⊘ notation
 
+[[Syntheses/The Two Higher States|The Two Higher States]] — Gurdjieff and Urantia both mark two higher states; the break is H₂₄ (aging) vs H₁₂ (ageless)
+
 ---
 
 ## World & Experience

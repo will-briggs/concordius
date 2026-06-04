@@ -23,3 +23,4 @@ These readings are demonstrations of Feature 6 (Independent Convergence Accumula
 
 - [[The Seven Layers of Reality]] — The constraint cascade independently attested across every major tradition
 - [[The Devil Can Quote Scripture]] — Counterfeit Φ-proximity: when D(t) is high and τ(D) is inverted; defines the ⊘ notation
+- [[The Two Higher States]] — Morontia/Kesdjan (H₂₄, still aging) vs spirit/higher-being-body (H₁₂, ageless); a Gurdjieff–Urantia convergence the framework derives
