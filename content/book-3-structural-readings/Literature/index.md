@@ -4,7 +4,7 @@ tags:
   - nav-order::1
 ---
 
-# Literature
+# A Structural Reading of Literature
 
 ---
 

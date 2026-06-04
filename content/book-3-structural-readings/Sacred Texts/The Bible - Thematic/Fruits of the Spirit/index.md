@@ -2,7 +2,7 @@
 title: Fruits of the Spirit
 ---
 
-# Fruits of the Spirit — Structural Readings
+# A Structural Reading of the Fruits of the Spirit
 
 **Text:** Galatians 5:22-23  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Fruits of the Spirit

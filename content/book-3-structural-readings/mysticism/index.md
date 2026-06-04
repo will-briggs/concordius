@@ -4,7 +4,7 @@ tags:
   - nav-order::7
 ---
 
-# Mysticism — Structural Readings
+# A Structural Reading of Mysticism
 
 ---
 

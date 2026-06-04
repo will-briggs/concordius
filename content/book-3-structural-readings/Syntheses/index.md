@@ -2,7 +2,7 @@
 title: Syntheses
 ---
 
-# Syntheses
+# A Structural Reading of Recurring Structures
 
 ---
 

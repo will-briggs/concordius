@@ -2,7 +2,7 @@
 title: The Parables of Jesus
 ---
 
-# The Parables of Jesus
+# A Structural Reading of the Parables of Jesus
 
 The parables are the teaching mode of the kenotic Φ expression in H₄₈. They are not illustrations designed to make abstract truths vivid. They are structural descriptions of organizational dynamics encoded as narrative — the kind of teaching that could only come from a being who sees H₄₈ organizational processes directly and knows how to name them at the level a human eigenvalue population can receive.
 

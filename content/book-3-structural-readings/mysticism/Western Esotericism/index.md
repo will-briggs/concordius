@@ -4,7 +4,7 @@ tags:
   - nav-order::1
 ---
 
-# Western Esotericism — Structural Readings
+# A Structural Reading of Western Esotericism
 
 The Western esoteric traditions differ from the Christian mystical lineage in their typical mode of transmission — initiatic, encoded, often deliberately obscure to the uninitiated — but converge with it in structural content. Where the mystics report the ascending career from inside, the esoteric traditions characteristically map its structure from outside, encoding the constraint hierarchy, the eigenvalue-replacement sequence, and the Φ-proximity program in symbolic languages: planetary spheres, alchemical stages, Kabbalistic sephiroth, Hermetic correspondences.
 

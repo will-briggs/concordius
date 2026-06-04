@@ -2,7 +2,7 @@
 title: The Bible - Thematic
 ---
 
-# The Bible — Thematic Readings
+# A Structural Reading of the Bible by Theme
 
 ---
 
