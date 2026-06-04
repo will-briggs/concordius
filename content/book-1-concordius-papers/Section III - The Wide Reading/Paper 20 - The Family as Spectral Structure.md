@@ -22,6 +22,17 @@ This paper derives the structural account of the family from first principles of
 <figcaption><em>Rembrandt van Rijn, The Jewish Bride</em> (c. 1665–69). Rijksmuseum, Amsterdam. The man's hand rests on the woman's breast; her hand covers his. The gesture is the structural claim of Paper 20: the spousal bond is ⟨·,·⟩ operating in the social register — the cross-term ⟨ψ₁, ψ₂⟩₂₄ between two Adjuster-bearing beings organized by the inner product rather than by H₄₈-primary appetite or utility. The family begins here, and from here the catching environment for every new eigenvalue population is constituted.</figcaption>
 </figure>
 
+<hr>
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh."*
+> — Genesis 2:24
+
+</div>
+
+---
+
 ## 1. The Question
 
 What is a family, structurally? Not sociologically, not legally, not biologically — but in terms of the framework's account of eigenvalue populations, catching environments, and Adjuster-bearing beings in relation.
@@ -55,6 +66,15 @@ Aristotle's taxonomy of friendship (Paper 17) identifies three kinds: utility, p
 Most actual spousal bonds contain elements of all three. The structural quality of the spousal bond as a catching environment is determined by the proportion organized by ⟨·,·⟩ relative to the H₄₈-primary components.
 
 The spousal bond's institutional form — the commitment that structures the shared H₄₈ life over time — is the practical means by which the ⟨·,·⟩-organized cross-term is protected against the [[Appendix I - Dictionary of Terms#Heropass|Heropass]]'s default pressure toward H₄₈-primary organization. Without the institutional commitment, the relational field reverts to the lower-constraint organizing principle (utility or pleasure) when the higher-constraint organization encounters the difficulty it inevitably encounters. The commitment is the structural mechanism that maintains the ⟨·,·⟩-organized cross-term through the conditions that would otherwise dissolve it.
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"Your children are not your children. They are the sons and daughters of Life's longing for itself. They come through you but not from you, and though they are with you yet they belong not to you."*
+> — Kahlil Gibran, *The Prophet*
+
+</div>
 
 ---
 
@@ -239,6 +259,15 @@ A blended family — two adults with children from prior relationships forming a
 The blended family's catching field must therefore organize across existing eigenvalue populations rather than providing the initial catching environment for beings starting at zero. The structural challenge: the step-parent's cross-term with the stepchild (⟨ψ_stepparent, ψ_stepchild⟩₂₄) is constituted in the presence of an already-established eigenvalue population whose orientation has been shaped by a different prior relational field. The ⟨·,·⟩-organized quality of this cross-term must be built across an established eigenvalue configuration that may have elements organized toward prior H₄₈-primary or H₂₄ attractors that predate the blended relationship.
 
 The structural observation is that the blended family's catching field is genuinely more complex to organize than the nuclear family's, not because of any moral deficiency but because of the additional eigenvalue populations already in the field. The parental vocation (Section 7) applies in modified form: noise-floor management for beings who already have established eigenvalue populations requires attending to those populations rather than simply constituting the initial catching environment.
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"Jesus wept."*
+> — John 11:35
+
+</div>
 
 ---
 
