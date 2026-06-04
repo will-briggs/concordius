@@ -20,6 +20,17 @@ This paper applies the structural reading method to Bach's *Art of Fugue* (BWV 1
 <figcaption><em>Elias Gottlob Haussmann, Johann Sebastian Bach</em> (1748). Bach Museum Leipzig. Bach holds a copy of Canon triplex a 6 voci (BWV 1076). The <em>Art of Fugue</em> is the most complete structural demonstration of what the Laws of Three and Seven look like fully deployed in H₄₈ musical form: a single subject measured against itself at every possible interval, augmentation, and inversion. The unfinished <em>Contrapunctus XIV</em> is a permanent Si-Do gap — the structural truth visible from outside the system that cannot be reached by closing the system from within.</figcaption>
 </figure>
 
+<hr>
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"The aim and final end of all music should be none other than the glory of God and the refreshment of the soul."*
+> — J.S. Bach
+
+</div>
+
+---
+
 ## 1. Situating the Reading
 
 The *Art of Fugue* is Bach's final and most complete exploration of fugal procedure — a collection of fourteen complete contrapuncti (fugues) and four canons, all derived from a single subject, the *Grundthema*, in D minor. Bach did not title the individual pieces; he did not specify instrumentation. The collection is not music for performance in the conventional sense — it is music as structural demonstration, the fugal form examined from every angle: simple rectus fugue, inversion, augmentation, diminution, stretto, mirror fugue, canon, and finally the unfinished quadruple fugue that was to combine the *Grundthema* with three additional subjects including B-A-C-H (Bach's own name encoded in the notes B♭, A, C, B♮).
@@ -144,6 +155,15 @@ This is the most radical musical demonstration of the claim that ⟨·,·⟩ is 
 
 ---
 
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"As if the eternal harmony were conversing with itself, as it may have happened in God's bosom shortly before the world's creation."*
+> — Goethe, on hearing the Well-Tempered Clavier (reported by J.C. Lobe)
+
+</div>
+
+---
+
 ## 8. The Collection as Macro-Fugue
 
 The *Art of Fugue* as a complete collection follows the Law of Seven at the macro-level, with the individual Contrapuncti as stages of a higher-order arc.
@@ -161,6 +181,15 @@ The *Art of Fugue* as a complete collection follows the Law of Seven at the macr
 | **Do (return)** | *Not written* | The synthesis of all four subjects including the *Grundthema*; present throughout the collection as structural demand; absent from the manuscript |
 
 The collection follows the same seven-stage structure as the individual fugues that compose it. This is the Holographic Content Principle at the formal scale: the Law of Seven organizing the collection as a whole is the same Law of Seven organizing each of the Contrapuncti within it. The whole is in every part. The part reflects the whole.
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"I still have many things to say to you, but you cannot bear them now."*
+> — John 16:12
+
+</div>
 
 ---
 
