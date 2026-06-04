@@ -17,7 +17,7 @@ The aphorism is symmetrically true in both directions — in grief it offers com
 
 **The Heropass stated from inside H₄₈:**
 
-The Heropass: the continuous dissipative temporal pressure of the GNST (Noether's theorem applied to H₄₈ spacetime symmetries). Dissolves H₄₈ structures. Cannot be suspended or modulated. Runs at every constraint level at double intensity per doubling of constraint density. "This too shall pass" is the Heropass recognized from the inside: whatever H₄₈ configuration currently dominates — grief or triumph, illness or health, wealth or poverty — is subject to Heropass dissolution. The aphorism makes no exception. Its universality ("*this too*" — even this, even this configuration that feels permanent) is the Heropass's universality.
+The Heropass: the continuous dissipative temporal pressure of the GNST (Noether's theorem applied to H₄₈ spacetime symmetries). Dissolves H₄₈ structures. Cannot be suspended or modulated. It is specifically the GNST's aging effect and operates only at H₂₄ and below — the GNST runs at every level, but ages only where Cl(3,1)'s e₀ generator is present. "This too shall pass" is the Heropass recognized from the inside: whatever H₄₈ configuration currently dominates — grief or triumph, illness or health, wealth or poverty — is subject to Heropass dissolution. The aphorism makes no exception. Its universality ("*this too*" — even this, even this configuration that feels permanent) is the Heropass's universality.
 
 **The structural symmetry:**
 

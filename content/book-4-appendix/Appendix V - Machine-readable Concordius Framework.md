@@ -45,7 +45,7 @@ Agape  =  ⟨·,·⟩ expressed laterally at H₄₈: the relational orientation
 | H₄₈ | 48 | Earth / material | Geometry fixed independently of content; ⟨·,·⟩ operates within geometry |
 | H₉₆ | 96 | Moon / sub-material | Gravitational sifting endpoint; consciousness structurally impossible |
 
-Subscript = number of independently operating constraint law-sets. More constraints = denser, more fixed, higher Heropass rate. H₉₆ is not a waypoint on the ascending career; it is where catching-failed content drains.
+Subscript = number of independently operating constraint law-sets. More constraints = denser, more fixed, higher Heropass (aging) rate — and the Heropass operates only at H₂₄ and below; the GNST runs at every level but ages only where Cl(3,1)'s e₀ is present. H₉₆ is not a waypoint on the ascending career; it is where catching-failed content drains.
 
 ---
 
@@ -59,7 +59,7 @@ Subscript = number of independently operating constraint law-sets. More constrai
 
 **Noise floor** — The H₄₈-primary eigenvalue content dominating the catching being's constitution: social approval, physical comfort, status, security. Not evil; structurally necessary to H₄₈ life; competes with the catching orientation for resources. High noise floor = low cross-term amplitude available for catching.
 
-**Heropass** — The continuous dissipative temporal pressure of the GNST (Noether's theorem applied to H₄₈ spacetime symmetries). Dissolves H₄₈ structures. Runs at every constraint level at double intensity per doubling of constraint density. Cannot be suspended or modulated; mode transitions are orthogonal to it. What ⟨·,·⟩-organized content accumulates below the Heropass threshold; what H₄₈-primary content dissolves above it.
+**Heropass** — The continuous dissipative temporal pressure of the GNST (Noether's theorem applied to H₄₈ spacetime symmetries). Specifically the *aging* effect of the GNST — the −1/e₀ pull of the unchosen spectrum, present once Cl(3,0) extends to Cl(3,1). Operates only at H₂₄ and below (full at H₄₈, half at H₂₄, none above). The GNST itself runs at every level, but at H₁₂ and above (Cl(3,0), no e₀) it produces sequence without aging. Cannot be suspended or modulated; mode transitions are orthogonal to it. What ⟨·,·⟩-organized content accumulates below the Heropass threshold; what H₄₈-primary content dissolves above it.
 
 **Constraint Compatibility Condition (CCC)** — Higher-constraint eigenvalues in a lower-constraint environment generate an overdetermined geometric condition. Resolution: eigenvalue replacement (upward) or constraint acceptance/kenosis (downward). Violated upward = two incompatible geometries in the same region. Violated downward = overdeterminate condition if descending content does not accept H₄₈ constraints.
 
