@@ -22,7 +22,7 @@ title: Concordius
 
 ---
 
-It starts with wonder, and then inevitably the wonder leads to the question:
+The wonder is where it begins. And wonder, taken seriously, becomes a question:
 
 What can be said, with maximum honesty and precision, about the structure of existence?
 
