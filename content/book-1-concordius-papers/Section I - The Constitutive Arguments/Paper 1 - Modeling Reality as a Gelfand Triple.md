@@ -17,8 +17,8 @@ This paper argues that modeling reality as a rigged [[Appendix I - Dictionary of
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"The infinite! No other question has ever moved so profoundly the spirit of man; no other idea has so fruitfully stimulated his intellect; yet no other concept stands in greater need of clarification than that of the infinite."*
-> — David Hilbert, "On the Infinite" (1926)
+> **"The infinite! No other question has ever moved so profoundly the spirit of man; no other idea has so fruitfully stimulated his intellect; yet no other concept stands in greater need of clarification than that of the infinite."**
+> *— David Hilbert, "On the Infinite" (1926)*
 
 </div>
 
@@ -92,7 +92,7 @@ This invariance is not trivial. The topology can change; the inner product does 
 
 Every self-adjoint operator A on H, when its domain is taken within Φ, has a complete set of generalized eigenvectors in Φ′. There exist eλ ∈ Φ′ satisfying A†eλ = λeλ in the distributional sense, and any ψ ∈ H admits the spectral expansion (Maurin, 1968):
 
-> ψ = ∫ ⟨eλ, ψ⟩ eλ dμ(λ)
+> **ψ = ∫ ⟨eλ, ψ⟩ eλ dμ(λ)**
 
 where dμ is the spectral measure on the spectrum of A. The position eigenstates |x⟩ = δ(x − x₀) are exactly the distributional eigenvectors of the position operator, living in Φ′ rather than H. This is the mechanism by which the triple produces specific, finite outcomes from the infinite structure of the state space: the spectral measure dμ coordinates the H-state ψ and the Φ′-eigenstates eλ jointly into a finite result.
 
@@ -152,7 +152,7 @@ The norm needs no second vector. It is the inner product acting on a single elem
 
 The polarization identity confirms that these are two genuinely distinct but inseparable aspects of the same structure:
 
-> ⟨ψ, φ⟩ = ¼(‖ψ+φ‖² − ‖ψ−φ‖² + i‖ψ+iφ‖² − i‖ψ−iφ‖²)
+> **⟨ψ, φ⟩ = ¼(‖ψ+φ‖² − ‖ψ−φ‖² + i‖ψ+iφ‖² − i‖ψ−iφ‖²)**
 
 II and III are not derivable from each other. Each is what I is that the other is not. Together they constitute I completely.
 
@@ -196,8 +196,8 @@ Each step is forced. None requires an additional assumption. The five actualitie
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"The Tao produced One; One produced Two; Two produced Three; Three produced All things."*
-> — Laozi, *Tao Te Ching*, Ch. 42
+> **"The Tao produced One; One produced Two; Two produced Three; Three produced All things."**
+> *— Laozi, Tao Te Ching, Ch. 42*
 
 </div>
 
@@ -221,8 +221,8 @@ What the mathematics cannot supply is the further step: whether the domain with 
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Therefore it must be of itself that the divine thought thinks. And the act of contemplation is what is most pleasant and best. If, then, God is always in that good state in which we sometimes are, this compels our wonder; and if in a better this compels it yet more."*
-> — Aristotle, *Metaphysics* XII.9
+> **"Therefore it must be of itself that the divine thought thinks. And the act of contemplation is what is most pleasant and best. If, then, God is always in that good state in which we sometimes are, this compels our wonder; and if in a better this compels it yet more."**
+> *— Aristotle, Metaphysics XII.9*
 
 </div>
 
@@ -284,8 +284,8 @@ The question of the observing subject — specifically, the derivation of self-k
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"We must know. We will know."*
-> — David Hilbert, 1930
+> **"We must know. We will know."**
+> *— David Hilbert, 1930*
 
 </div>
 
