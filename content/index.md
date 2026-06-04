@@ -22,6 +22,8 @@ title: Concordius
 
 ---
 
+It starts with wonder, and then inevitably the wonder leads to the question:
+
 What can be said, with maximum honesty and precision, about the structure of existence?
 
 Not about the contents of existence — science handles much of that admirably. Not about the meaning of existence in some subjective or merely personal sense. About the *structure*: the organizational principles that make existence the specific kind of thing it is rather than some other kind, or nothing.
