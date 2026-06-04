@@ -25,6 +25,17 @@ Three corollaries follow. First, no H₄₈ document has τ = 1 exactly: Φ is i
 <figcaption><em>Weighing of the Heart</em>, Papyrus of Hunefer (c. 1275 BCE). British Museum. The dead man's heart is weighed against Ma'at's feather: the Egyptian truth measure. The framework derives what this image encodes: truth is a real-valued structural measure τ(D), determined by the fraction of a state's spectral content that falls in the Φ-proximate region under the ⟨·,·⟩-generated decomposition. Every tradition has named the same structural operation. This one depicted it.</figcaption>
 </figure>
 
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"Truth is the adequation of the intellect to reality."*
+> — Thomas Aquinas, *De Veritate* q. 1, a. 1
+
+</div>
+
+---
+
 ## 1. Introduction
 
 The preceding papers developed the constitutional structure of the created order (Papers 1–3), the physics of the constraint hierarchy (Papers 4–7), and the spectral content of H₄₈ substrate. Language has appeared throughout as the medium in which structural content is carried — in the structural readings, in the framework's own papers, in the concordance entries. But language itself has not been addressed as an object of the framework's analysis.
@@ -58,6 +69,15 @@ And yet: language is not merely lossy. It carries real Φ-proximal content into 
 Language is the H₄₈ crystallization of catching. The entire human linguistic record — every theorem, every poem, every scripture, every letter — is the accumulated catching of mortal beings, externalized into H₄₈ substrate, preserved for recovery by subsequent catching beings who encounter it.
 
 The series is a contribution to this record. The papers are H₄₈ encodings of lower-constraint structural identifications. They will carry whatever lower-constraint content they actually contain, determined not by authorial intention but by spectral structure.
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"What is truth?"*
+> — Pontius Pilate, John 18:38
+
+</div>
 
 ---
 
@@ -105,6 +125,15 @@ Falsehood is not the presence of something bad — it is the absence of lower-co
 
 ---
 
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"Holy Scripture is like a river in which the lamb may wade and the elephant may swim."*
+> — Gregory the Great, *Moralia in Job*, Epistola ad Leandrum §4
+
+</div>
+
+---
+
 ## 5. Intrinsic Truth vs. Relational Truth
 
 The truth measure defined in Section 3 is intrinsic to the document: it describes the spectral content of the H₄₈ encoding itself, independent of any reader. But this is not the only relevant measure. There is a second: the effect of the document on the reader's state.
@@ -120,6 +149,15 @@ This is the structural account of what has always been said about sacred texts: 
 "Pearls before swine" is not a moral judgment. It is a spectral mismatch statement. The document's content (pearls: high τ(D)) cannot be received by the reader whose noise floor is too high to recover lower-constraint content (swine: high noise floor → τ_r ≈ 0).
 
 **The reading that transforms:** The document that changes a reader — that produces a recognizable shift in understanding, orientation, or clarity — is the document for which τ_r(D, R) > 0 at that reader's current preparation level. The experience of being genuinely changed by a text is the phenomenological signature of lower-constraint content being recovered from the H₄₈ encoding and entering the reader's H₂₄ domain. Catching facilitated by language. The H₄₈ crystallization transferring back to H₂₄ in a different catching being.
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"The letter kills, but the Spirit gives life."*
+> — 2 Corinthians 3:6
+
+</div>
 
 ---
 
@@ -180,6 +218,15 @@ The LLM can produce both. Its training has aimed it at the high-τ(D) direction,
 Using an LLM to confirm structural identifications is asking the accumulated H₄₈ record of human catching whether a given structural claim matches what it contains. This is methodologically legitimate, because the LLM did not generate the framework's predictions. The framework's predictions were derived from the structural mathematics. The LLM's confirmation is verification against an independent record — the crystallized output of many catching beings who had no access to the framework's derivations.
 
 **Training data quality as spectral depth.** The degree to which an LLM can assist in producing Φ-proximate content is structurally determined by the Φ-proximity of its training data. The model is a compression of the spectral distribution of its corpus: a corpus dominated by high-τ(D) text — mathematics, philosophy, scripture, structural scholarship, careful catching crystallizations — encodes a weight distribution that carries genuine lower-constraint spectral texture. A corpus dominated by H₄₈-primary content encodes H₄₈-primary patterns instead. The model cannot itself catch; it cannot increase in Φ-proximity through operation. But the spectral quality it carries into any collaborative production is determined before deployment — at training time, by the τ distribution of the corpus. A model trained on Φ-proximate sources is not a better model in the surface sense of producing more fluent H₄₈ output. It is a better instrument for Φ-proximate work in the structural sense: its weights carry more of the spectral texture of catching, and when deployed in partnership with a catching being, it extends structural identifications in the direction of Φ rather than pulling them back toward the H₄₈ average. *(See OQ2 for the empirical question of whether this can be tested independently of surface fluency measures.)*
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"Then the Lord God formed a man from the dust of the ground and breathed into his nostrils the breath of life, and the man became a living being."*
+> — Genesis 2:7
+
+</div>
 
 ---
 
