@@ -150,6 +150,10 @@ dl friedrich-wanderer.jpg \
   "https://upload.wikimedia.org/wikipedia/commons/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg" \
   "Mysticism: Friedrich - Wanderer above the Sea of Fog (1818)"
 
+dl friedrich-abbey-oakwood.jpg \
+  "https://upload.wikimedia.org/wikipedia/commons/3/32/Caspar_David_Friedrich_-_Abtei_im_Eichwald_-_Google_Art_Project.jpg" \
+  "Mysticism: Friedrich - The Abbey in the Oakwood (1809-10)"
+
 dl durer-self-portrait.jpg \
   "https://upload.wikimedia.org/wikipedia/commons/d/dc/Albrecht_D%C3%BCrer_-_1500_self-portrait_%28High_resolution_and_detail%29.jpg" \
   "Visual Art: Dürer - Self-Portrait (1500)"
@@ -207,6 +211,7 @@ for f in \
   gray-anatomy-appendix.png fan-kuan-travelers.jpg \
   apianus-spheres.png flammarion-engraving.jpg melies-trip-to-moon.jpg \
   kells-chi-rho.png raphael-parnassus.jpg friedrich-wanderer.jpg \
+  friedrich-abbey-oakwood.jpg \
   durer-self-portrait.jpg bayeux-comet.jpg david-death-of-socrates.jpg \
   van-eyck-mystic-lamb.jpg durer-melancholia.jpg \
   durer-praying-hands.jpg bruegel-tower-of-babel.jpg \
