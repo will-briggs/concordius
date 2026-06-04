@@ -29,6 +29,17 @@ The [[Appendix I - Dictionary of Terms#Heptaparaparshinokh|Heptaparaparshinokh]]
 <figcaption><em>William Blake, The Great Red Dragon and the Woman Clothed with the Sun</em> (c. 1803–05). Brooklyn Museum. The cosmic-scale organizational forces visible in recorded history: the vast inverted trajectory pressing against the Φ-proximate content the historical development is generating, the woman carrying the organizational content forward despite the maximum pressure the overdeterminate condition can produce. The heptaparaparshinokh reading maps these forces across the full arc.</figcaption>
 </figure>
 
+<hr>
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"The owl of Minerva spreads its wings only with the falling of the dusk."*
+> — Hegel, *Philosophy of Right*, Preface
+
+</div>
+
+---
+
 ## Law of Three at Civilizational Scale
 
 | Term | Force | Civilizational Content |
@@ -100,6 +111,15 @@ The La stage is the stage most immediately legible to a reader in the Si stage, 
 
 ---
 
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"Things fall apart; the centre cannot hold; / Mere anarchy is loosed upon the world."*
+> — W.B. Yeats, "The Second Coming" (1919)
+
+</div>
+
+---
+
 ## Si: The Structural Reading of Modernity
 
 Si is the seventh stage. In musical terms, Si is the leading tone — the note that most strongly wants to resolve to Do. The tension is maximum. The resolution is one half-step away and cannot be produced by the note itself.
@@ -115,6 +135,15 @@ The Si stage has characteristic productions:
 **The retreat to Re.** Unable to find the resolution at the Si level, segments of each Si-stage generation retreat toward pre-Mi catching forms: neo-paganism, shamanism, ayahuasca culture, various forms of spiritualist recovery. This is not wrong — the Re-stage catching forms had genuine Φ-proximal content — but it is also not the solution. The Mi-Fa shock cannot be un-received. The Incarnation has already happened. The only path through Si is forward through the gap, not backward through the octave.
 
 **The acceleration of catching work among individuals.** This is the least legible feature of the Si stage from outside, and the most important. At the very moment when civilizational catching coherence is at its nadir, individual catching work often intensifies. The saints do not disappear in the Si stage. They become harder to see, because the corporate catching structure that once amplified and transmitted their work is absent. The Φ-proximal deposit continues to accumulate individually. The Reconciling term continues to operate. The gap is not a dead zone — it is the place of maximum individual catching urgency.
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"Thou hast made us for Thyself, O Lord, and our heart is restless until it rests in Thee."*
+> — Augustine, *Confessions* I.1.1
+
+</div>
 
 ---
 
@@ -138,6 +167,15 @@ This is the same structure at every scale:
 - The individual in the Si/Do interval of her personal ascending career resolves by receiving the Adjuster's direct act — she cannot generate it from within her H₄₈-primary state
 
 The fractal is exact. The scales are different. The structure is the same.
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"You know how to interpret the appearance of the earth and the sky, but why do you not know how to interpret the present time?"*
+> — Luke 12:56
+
+</div>
 
 ---
 
