@@ -33,8 +33,8 @@ The [[Appendix I - Dictionary of Terms#Heptaparaparshinokh|Heptaparaparshinokh]]
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"The owl of Minerva spreads its wings only with the falling of the dusk."*
-> — Hegel, *Philosophy of Right*, Preface
+> **"The owl of Minerva spreads its wings only with the falling of the dusk."**
+> *— Hegel, Philosophy of Right, Preface*
 
 </div>
 
@@ -113,8 +113,8 @@ The La stage is the stage most immediately legible to a reader in the Si stage, 
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Things fall apart; the centre cannot hold; / Mere anarchy is loosed upon the world."*
-> — W.B. Yeats, "The Second Coming" (1919)
+> **"Things fall apart; the centre cannot hold; / Mere anarchy is loosed upon the world."**
+> *— W.B. Yeats, "The Second Coming" (1919)*
 
 </div>
 
@@ -140,8 +140,8 @@ The Si stage has characteristic productions:
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Thou hast made us for Thyself, O Lord, and our heart is restless until it rests in Thee."*
-> — Augustine, *Confessions* I.1.1
+> **"Thou hast made us for Thyself, O Lord, and our heart is restless until it rests in Thee."**
+> *— Augustine, Confessions I.1.1*
 
 </div>
 
@@ -172,8 +172,8 @@ The fractal is exact. The scales are different. The structure is the same.
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"You know how to interpret the appearance of the earth and the sky, but why do you not know how to interpret the present time?"*
-> — Luke 12:56
+> **"You know how to interpret the appearance of the earth and the sky, but why do you not know how to interpret the present time?"**
+> *— Luke 12:56*
 
 </div>
 

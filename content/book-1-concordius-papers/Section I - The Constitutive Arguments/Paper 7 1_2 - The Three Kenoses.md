@@ -23,8 +23,8 @@ This paper identifies three kenotic acts as the structural spine of the creative
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Love in action is a harsh and dreadful thing compared to love in dreams. Love in dreams thirsts for immediate action, rapidly performed and easily seen by all. But active love is labor and perseverance, and for some people perhaps a whole science."*
-> — Dostoevsky, *The Brothers Karamazov* (Father Zosima)
+> **"Love in action is a harsh and dreadful thing compared to love in dreams. Love in dreams thirsts for immediate action, rapidly performed and easily seen by all. But active love is labor and perseverance, and for some people perhaps a whole science."**
+> *— Dostoevsky, The Brothers Karamazov (Father Zosima)*
 
 </div>
 
@@ -44,8 +44,8 @@ This is why the Father's action in spacetime always takes the kenotic form. Ever
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Christ Jesus, who, though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, taking the form of a servant, being born in the likeness of men."*
-> — Philippians 2:5–7
+> **"Christ Jesus, who, though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, taking the form of a servant, being born in the likeness of men."**
+> *— Philippians 2:5–7*
 
 </div>
 
@@ -183,8 +183,8 @@ The three structural roles are irreducible and non-interchangeable. Remove the S
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Trinity, higher than being, higher than divinity, higher than goodness — lead us up beyond knowing and light, through the negation of all things, toward the superessential ray of divine darkness."*
-> — Pseudo-Dionysius the Areopagite, *Mystical Theology*, Ch. 1
+> **"Trinity, higher than being, higher than divinity, higher than goodness — lead us up beyond knowing and light, through the negation of all things, toward the superessential ray of divine darkness."**
+> *— Pseudo-Dionysius the Areopagite, Mystical Theology, Ch. 1*
 
 </div>
 

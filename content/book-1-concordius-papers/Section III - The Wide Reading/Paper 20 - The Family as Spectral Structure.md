@@ -26,8 +26,8 @@ This paper derives the structural account of the family from first principles of
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh."*
-> — Genesis 2:24
+> **"Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh."**
+> *— Genesis 2:24*
 
 </div>
 
@@ -71,8 +71,8 @@ The spousal bond's institutional form — the commitment that structures the sha
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Your children are not your children. They are the sons and daughters of Life's longing for itself. They come through you but not from you, and though they are with you yet they belong not to you."*
-> — Kahlil Gibran, *The Prophet*
+> **"Your children are not your children. They are the sons and daughters of Life's longing for itself. They come through you but not from you, and though they are with you yet they belong not to you."**
+> *— Kahlil Gibran, The Prophet*
 
 </div>
 
@@ -264,8 +264,8 @@ The structural observation is that the blended family's catching field is genuin
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Jesus wept."*
-> — John 11:35
+> **"Jesus wept."**
+> *— John 11:35*
 
 </div>
 

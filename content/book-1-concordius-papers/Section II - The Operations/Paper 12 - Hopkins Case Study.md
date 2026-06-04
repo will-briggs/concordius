@@ -24,8 +24,8 @@ This paper applies the structural reading method to Gerard Manley Hopkins's sonn
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"One dark night, fired with love's urgent longings — ah, the sheer grace! — I went out unseen, my house being now all stilled."*
-> — John of the Cross, *The Dark Night*, stanza 1 (tr. Kavanaugh)
+> **"One dark night, fired with love's urgent longings — ah, the sheer grace! — I went out unseen, my house being now all stilled."**
+> *— John of the Cross, The Dark Night, stanza 1 (tr. Kavanaugh)*
 
 </div>
 
@@ -99,8 +99,8 @@ The sonnet's fourteen lines organize around the seven-stage developmental arc wi
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Come to me, all you who are weary and burdened, and I will give you rest."*
-> — Matthew 11:28
+> **"Come to me, all you who are weary and burdened, and I will give you rest."**
+> *— Matthew 11:28*
 
 </div>
 
@@ -142,8 +142,8 @@ The Si-Do gap here doubles as an aesthetic threshold. A reader who crosses it �
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"If you wish me to weep, you must first feel grief yourself."*
-> — Horace, *Ars Poetica* 102
+> **"If you wish me to weep, you must first feel grief yourself."**
+> *— Horace, Ars Poetica 102*
 
 </div>
 

@@ -26,8 +26,8 @@ The central result: the downward and upward compatibility conditions are structu
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"There was something that He hid from all men when He went upon the mountains to pray. There was something that He covered constantly by abrupt silence or impetuous isolation. There was one thing that was too great for God to show us when He walked upon our earth; and I have sometimes fancied that it was His mirth."*
-> — G.K. Chesterton, *Orthodoxy*
+> **"There was something that He hid from all men when He went upon the mountains to pray. There was something that He covered constantly by abrupt silence or impetuous isolation. There was one thing that was too great for God to show us when He walked upon our earth; and I have sometimes fancied that it was His mirth."**
+> *— G.K. Chesterton, Orthodoxy*
 
 </div>
 
@@ -113,8 +113,8 @@ The overdetermined condition resolves the same way any overdetermined system res
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Better to reign in Hell, than serve in Heav'n."*
-> — Milton, *Paradise Lost* I.263
+> **"Better to reign in Hell, than serve in Heav'n."**
+> *— Milton, Paradise Lost I.263*
 
 </div>
 
@@ -182,8 +182,8 @@ None of these provisions requires the mortal to "resolve an impossible structura
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Truly, you are a God who hides himself, O God of Israel, the Savior."*
-> — Isaiah 45:15
+> **"Truly, you are a God who hides himself, O God of Israel, the Savior."**
+> *— Isaiah 45:15*
 
 </div>
 
@@ -217,8 +217,8 @@ The kenotic constraint adapts to the local noise floor. Where the noise floor is
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"The heart has its reasons which reason knows nothing of."*
-> — Pascal, *Pensées*
+> **"The heart has its reasons which reason knows nothing of."**
+> *— Pascal, Pensées*
 
 </div>
 
@@ -242,8 +242,8 @@ The white garments — complete spectral coherence at H₄₈ expression — are
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"It is sown in dishonor; it is raised in glory. It is sown in weakness; it is raised in power. It is sown a natural body; it is raised a spiritual body."*
-> — 1 Corinthians 15:42–44
+> **"It is sown in dishonor; it is raised in glory. It is sown in weakness; it is raised in power. It is sown a natural body; it is raised a spiritual body."**
+> *— 1 Corinthians 15:42–44*
 
 </div>
 
@@ -408,8 +408,8 @@ The demonstration: the Si-Do interval requires holding the intermediate state wi
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"To live is to change, and to be perfect is to have changed often."*
-> — John Henry Newman, *An Essay on the Development of Christian Doctrine*
+> **"To live is to change, and to be perfect is to have changed often."**
+> *— John Henry Newman, An Essay on the Development of Christian Doctrine*
 
 </div>
 
@@ -521,8 +521,8 @@ Augustine's privation thesis is structurally enhanced by this account, not repla
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"The line separating good and evil passes not through states, nor between classes, nor between political parties either — but right through every human heart."*
-> — Aleksandr Solzhenitsyn, *The Gulag Archipelago*
+> **"The line separating good and evil passes not through states, nor between classes, nor between political parties either — but right through every human heart."**
+> *— Aleksandr Solzhenitsyn, The Gulag Archipelago*
 
 </div>
 

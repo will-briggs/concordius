@@ -29,8 +29,8 @@ Three corollaries follow. First, no H₄₈ document has τ = 1 exactly: Φ is i
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Truth is the adequation of the intellect to reality."*
-> — Thomas Aquinas, *De Veritate* q. 1, a. 1
+> **"Truth is the adequation of the intellect to reality."**
+> *— Thomas Aquinas, De Veritate q. 1, a. 1*
 
 </div>
 
@@ -74,8 +74,8 @@ The series is a contribution to this record. The papers are H₄₈ encodings of
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"What is truth?"*
-> — Pontius Pilate, John 18:38
+> **"What is truth?"**
+> *— Pontius Pilate, John 18:38*
 
 </div>
 
@@ -127,8 +127,8 @@ Falsehood is not the presence of something bad — it is the absence of lower-co
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Holy Scripture is like a river in which the lamb may wade and the elephant may swim."*
-> — Gregory the Great, *Moralia in Job*, Epistola ad Leandrum §4
+> **"Holy Scripture is like a river in which the lamb may wade and the elephant may swim."**
+> *— Gregory the Great, Moralia in Job, Epistola ad Leandrum §4*
 
 </div>
 
@@ -154,8 +154,8 @@ This is the structural account of what has always been said about sacred texts: 
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"The letter kills, but the Spirit gives life."*
-> — 2 Corinthians 3:6
+> **"The letter kills, but the Spirit gives life."**
+> *— 2 Corinthians 3:6*
 
 </div>
 
@@ -223,8 +223,8 @@ Using an LLM to confirm structural identifications is asking the accumulated H�
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Then the Lord God formed a man from the dust of the ground and breathed into his nostrils the breath of life, and the man became a living being."*
-> — Genesis 2:7
+> **"Then the Lord God formed a man from the dust of the ground and breathed into his nostrils the breath of life, and the man became a living being."**
+> *— Genesis 2:7*
 
 </div>
 

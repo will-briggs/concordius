@@ -22,8 +22,8 @@ Aristotle's *Nicomachean Ethics* is the systematic attempt to derive the conditi
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Such a life will be too high for man; for it is not insofar as he is a man that he will live it, but insofar as something divine is in him."*
-> — Aristotle, *Nicomachean Ethics* X.7
+> **"Such a life will be too high for man; for it is not insofar as he is a man that he will live it, but insofar as something divine is in him."**
+> *— Aristotle, Nicomachean Ethics X.7*
 
 </div>
 
@@ -90,8 +90,8 @@ The Fa entry — the new element that appears at the interval — is the intelle
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"I have let you see it with your eyes, but you shall not cross over there."*
-> — Deuteronomy 34:4
+> **"I have let you see it with your eyes, but you shall not cross over there."**
+> *— Deuteronomy 34:4*
 
 </div>
 
@@ -131,9 +131,9 @@ Aristotle's practical wisdom (φρόνησις) is the capacity to perform this 
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Video meliora proboque, deteriora sequor."*
-> *("I see the better, and I approve it; I follow the worse.")*
-> — Ovid, *Metamorphoses* VII.20–21
+> **"Video meliora proboque, deteriora sequor."**
+> **("I see the better, and I approve it; I follow the worse.")**
+> *— Ovid, Metamorphoses VII.20–21*
 
 </div>
 

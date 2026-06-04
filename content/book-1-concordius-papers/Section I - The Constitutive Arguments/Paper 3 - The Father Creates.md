@@ -23,8 +23,8 @@ The first two papers in this series established, from two assumptions, the compl
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"There was neither non-existence nor existence then; neither the realm of space nor the sky which is beyond. What stirred? Where? In whose protection? ... Who really knows? Who will here proclaim it? Whence was it produced? Whence is this creation? The gods came afterwards, with the creation of this universe. Who then knows whence it has arisen?"*
-> — Rig Veda X.129 (*Nasadiya Sukta*)
+> **"There was neither non-existence nor existence then; neither the realm of space nor the sky which is beyond. What stirred? Where? In whose protection? ... Who really knows? Who will here proclaim it? Whence was it produced? Whence is this creation? The gods came afterwards, with the creation of this universe. Who then knows whence it has arisen?"**
+> *— Rig Veda X.129 (Nasadiya Sukta)*
 
 </div>
 
@@ -46,7 +46,7 @@ This paper describes the mathematical event by which the eternal structure produ
 
 The Gelfand nuclear spectral theorem states that every self-adjoint operator A on H, when its domain is restricted to Φ, has a complete set of generalized eigenvectors in Φ′. Any state ψ ∈ H admits the expansion:
 
-> ψ = ∫ ⟨eλ, ψ⟩ eλ dμ(λ)
+> **ψ = ∫ ⟨eλ, ψ⟩ eλ dμ(λ)**
 
 where eλ ∈ Φ′ are distributional [[Appendix I - Dictionary of Terms#Eigenstate|eigenstate]]s, ⟨eλ, ψ⟩ is the duality pairing, and dμ(λ) is the spectral measure on the spectrum of A.
 
@@ -88,8 +88,8 @@ Once the initial conditions are set, the mechanism is the mathematics — but th
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"The One is perfect because it seeks nothing, has nothing, needs nothing; and being perfect, it overflows, and its superabundance makes something other than itself."*
-> — Plotinus, *Enneads* V.2.1
+> **"The One is perfect because it seeks nothing, has nothing, needs nothing; and being perfect, it overflows, and its superabundance makes something other than itself."**
+> *— Plotinus, Enneads V.2.1*
 
 </div>
 
@@ -113,8 +113,8 @@ This means the creation of the universe is not the creation of an empty space an
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"The now in which God made the first man and the now in which the last man will cease to be, and the now in which I am speaking: all are the same in God, and there is but one now."*
-> — Meister Eckhart, Sermon 30
+> **"The now in which God made the first man and the now in which the last man will cease to be, and the now in which I am speaking: all are the same in God, and there is but one now."**
+> *— Meister Eckhart, Sermon 30*
 
 </div>
 
@@ -184,8 +184,8 @@ Being is intelligible because the Trinity chose associativity, and associativity
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"The most incomprehensible thing about the universe is that it is comprehensible."*
-> — Albert Einstein
+> **"The most incomprehensible thing about the universe is that it is comprehensible."**
+> *— Albert Einstein*
 
 </div>
 
@@ -295,8 +295,8 @@ Given Father = ⟨·,·⟩ and God is love, the formal definition of Love follow
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Wouldst thou learn thy Lord's meaning in this thing? Learn it well: Love was His meaning. Who revealed it to thee? Love. What did He reveal to thee? Love. Why was it revealed to thee? For Love. Thou shalt never know nor learn therein any other thing without end."*
-> — Julian of Norwich, *Revelations of Divine Love*, Ch. 86
+> **"Wouldst thou learn thy Lord's meaning in this thing? Learn it well: Love was His meaning. Who revealed it to thee? Love. What did He reveal to thee? Love. Why was it revealed to thee? For Love. Thou shalt never know nor learn therein any other thing without end."**
+> *— Julian of Norwich, Revelations of Divine Love, Ch. 86*
 
 </div>
 
@@ -358,10 +358,10 @@ This gradient — from necessity to volition, from derivation to concordance —
 
 **The interior product as the halving function.** The Clifford algebra Cl(3,0) provides a natural model for how optionality reduces at each stage of the creative descent. The interior product — contraction of a grade-k element by a grade-1 generator — reduces the grade by one and halves the dimension of the accessible subalgebra:
 
-> Grade 3 (trivector, 3 generators active): subalgebra dimension 2³ = 8  
-> Grade 2 (bivector, 2 generators active): subalgebra dimension 2² = 4  
-> Grade 1 (vector, 1 generator active): subalgebra dimension 2¹ = 2  
-> Grade 0 (scalar, ground): subalgebra dimension 2⁰ = 1  
+> **Grade 3 (trivector, 3 generators active): subalgebra dimension 2³ = 8**  
+> **Grade 2 (bivector, 2 generators active): subalgebra dimension 2² = 4**  
+> **Grade 1 (vector, 1 generator active): subalgebra dimension 2¹ = 2**  
+> **Grade 0 (scalar, ground): subalgebra dimension 2⁰ = 1**  
 
 Each grade transition removes one bit. Each bit removal halves the accessible space. The descent from the full Trinity expression to the Father alone is a sequence of interior product operations, each one reducing optionality by a fixed factor.
 
@@ -393,8 +393,8 @@ The confidence tier stated in the abstract holds at the close: Sections 1 throug
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Science can explain the workings of the cosmos, but not the fact of its existence."*
-> — Paul Davies, *The Mind of God*
+> **"Science can explain the workings of the cosmos, but not the fact of its existence."**
+> *— Paul Davies, The Mind of God*
 
 </div>
 

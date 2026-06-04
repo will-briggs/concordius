@@ -31,8 +31,8 @@ The result inverts the standard interpretation. Incompleteness is not a defect o
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"It is by logic that we prove, but by intuition that we discover."*
-> — Henri Poincaré, *Science and Method* (1908)
+> **"It is by logic that we prove, but by intuition that we discover."**
+> *— Henri Poincaré, Science and Method (1908)*
 
 </div>
 
@@ -163,8 +163,8 @@ The framework's structural account explains why the Gödel sentence and the cons
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"There can be no fact real or existing, no statement true, unless there be a sufficient reason why it should be so and not otherwise."*
-> — Leibniz, *Monadology* §32
+> **"There can be no fact real or existing, no statement true, unless there be a sufficient reason why it should be so and not otherwise."**
+> *— Leibniz, Monadology §32*
 
 </div>
 
@@ -208,8 +208,8 @@ G is structurally located at the boundary: it is an H₄₈ statement about the 
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Go not outside, return into yourself. In the interior man dwells truth."*
-> — Augustine, *De Vera Religione* §39.72
+> **"Go not outside, return into yourself. In the interior man dwells truth."**
+> *— Augustine, De Vera Religione §39.72*
 
 </div>
 
@@ -235,8 +235,8 @@ The Lucas-Penrose argument is structurally grounded. Whether it succeeds as a ph
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"I believe that mathematical reality lies outside us, that our function is to discover or observe it, and that the theorems which we prove, and which we describe grandiloquently as our 'creations,' are simply our notes of our observations."*
-> — G.H. Hardy, *A Mathematician's Apology* (1940)
+> **"I believe that mathematical reality lies outside us, that our function is to discover or observe it, and that the theorems which we prove, and which we describe grandiloquently as our 'creations,' are simply our notes of our observations."**
+> *— G.H. Hardy, A Mathematician's Apology (1940)*
 
 </div>
 
@@ -284,8 +284,8 @@ Wigner's mystery is the mystery of someone who does not know that the map and th
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"To know God is hard; to speak of him is impossible."*
-> — Gregory of Nazianzus, *Oration* 28.4
+> **"To know God is hard; to speak of him is impossible."**
+> *— Gregory of Nazianzus, Oration 28.4*
 
 </div>
 

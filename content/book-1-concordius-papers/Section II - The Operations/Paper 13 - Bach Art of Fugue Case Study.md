@@ -24,8 +24,8 @@ This paper applies the structural reading method to Bach's *Art of Fugue* (BWV 1
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"The aim and final end of all music should be none other than the glory of God and the refreshment of the soul."*
-> — J.S. Bach
+> **"The aim and final end of all music should be none other than the glory of God and the refreshment of the soul."**
+> *— J.S. Bach*
 
 </div>
 
@@ -157,8 +157,8 @@ This is the most radical musical demonstration of the claim that ⟨·,·⟩ is 
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"As if the eternal harmony were conversing with itself, as it may have happened in God's bosom shortly before the world's creation."*
-> — Goethe, on hearing the Well-Tempered Clavier (reported by J.C. Lobe)
+> **"As if the eternal harmony were conversing with itself, as it may have happened in God's bosom shortly before the world's creation."**
+> *— Goethe, on hearing the Well-Tempered Clavier (reported by J.C. Lobe)*
 
 </div>
 
@@ -186,8 +186,8 @@ The collection follows the same seven-stage structure as the individual fugues t
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"I still have many things to say to you, but you cannot bear them now."*
-> — John 16:12
+> **"I still have many things to say to you, but you cannot bear them now."**
+> *— John 16:12*
 
 </div>
 

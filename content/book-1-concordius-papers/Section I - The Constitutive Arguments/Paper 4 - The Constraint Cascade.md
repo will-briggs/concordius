@@ -23,8 +23,8 @@ The first three papers in this series established the eternal structure (Paper 1
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"The fairest thing we can experience is the mysterious. It is the fundamental emotion which stands at the cradle of true art and true science. He who knows it not and can no longer wonder, no longer feel amazement, is as good as dead, a snuffed-out candle."*
-> — Albert Einstein, *The World As I See It* (1931)
+> **"The fairest thing we can experience is the mysterious. It is the fundamental emotion which stands at the cradle of true art and true science. He who knows it not and can no longer wonder, no longer feel amazement, is as good as dead, a snuffed-out candle."**
+> *— Albert Einstein, The World As I See It (1931)*
 
 </div>
 
@@ -44,7 +44,7 @@ The core claim is this: the created universe is not a hierarchy of locations org
 
 Paper 3 established that the one law governing all creation is the Gelfand nuclear spectral theorem:
 
-> ψ = ∫ ⟨eλ, ψ⟩ eλ dμ(λ)
+> **ψ = ∫ ⟨eλ, ψ⟩ eλ dμ(λ)**
 
 Under the single law, all actualization operates. But a mechanism is not a field. The spectral theorem describes how potential collapses to definite outcomes. It does not specify where the center of the space is, or what the topological structure of the space is. These must be given before the mechanism can operate. Two eternal structures, already established in Papers 1 and 2, supply what is missing.
 
@@ -88,8 +88,8 @@ The complete hierarchy, from the single law to the most constrained level of the
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"There are celestial bodies and there are earthly bodies, but the glory of the celestial is one, and the glory of the earthly is another. There is one glory of the sun, and another glory of the moon, and another glory of the stars; for star differs from star in glory."*
-> — 1 Corinthians 15:40–41
+> **"There are celestial bodies and there are earthly bodies, but the glory of the celestial is one, and the glory of the earthly is another. There is one glory of the sun, and another glory of the moon, and another glory of the stars; for star differs from star in glory."**
+> *— 1 Corinthians 15:40–41*
 
 </div>
 
@@ -237,8 +237,8 @@ Special relativity required an axiom here. The cascade framework requires one le
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"The miracle of the appropriateness of the language of mathematics for the formulation of the laws of physics is a wonderful gift which we neither understand nor deserve."*
-> — Eugene Wigner, "The Unreasonable Effectiveness of Mathematics in the Natural Sciences" (1960)
+> **"The miracle of the appropriateness of the language of mathematics for the formulation of the laws of physics is a wonderful gift which we neither understand nor deserve."**
+> *— Eugene Wigner, "The Unreasonable Effectiveness of Mathematics in the Natural Sciences" (1960)*
 
 </div>
 
@@ -350,8 +350,8 @@ The interval positions established in the descending cascade — Si-Do at H₁/H
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"If the doors of perception were cleansed every thing would appear to man as it is, Infinite."*
-> — William Blake, *The Marriage of Heaven and Hell*
+> **"If the doors of perception were cleansed every thing would appear to man as it is, Infinite."**
+> *— William Blake, The Marriage of Heaven and Hell*
 
 </div>
 
@@ -383,8 +383,8 @@ The cosmology is therefore not geographical. It is dimensional. Each level of th
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"The world is renewed at every breath, but most people do not perceive this renewal."*
-> — Ibn Arabi, *Fusus al-Hikam*
+> **"The world is renewed at every breath, but most people do not perceive this renewal."**
+> *— Ibn Arabi, Fusus al-Hikam*
 
 </div>
 
@@ -458,8 +458,8 @@ This gives the inner development traditions of every culture a structural basis 
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Do not be deceived: God is not mocked, for whatever one sows, that will he also reap. The one who sows to his own flesh will from the flesh reap corruption, but the one who sows to the Spirit will from the Spirit reap eternal life."*
-> — Galatians 6:7–8
+> **"Do not be deceived: God is not mocked, for whatever one sows, that will he also reap. The one who sows to his own flesh will from the flesh reap corruption, but the one who sows to the Spirit will from the Spirit reap eternal life."**
+> *— Galatians 6:7–8*
 
 </div>
 
@@ -513,8 +513,8 @@ This is creation ex nihilo understood not as a one-time event but as the continu
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"God is as near to thee as thine own being; thou liest in Him as a fish in the ocean; He is thy life, thy breath, thy sustenance."*
-> — William Law, *The Spirit of Prayer*
+> **"God is as near to thee as thine own being; thou liest in Him as a fish in the ocean; He is thy life, thy breath, thy sustenance."**
+> *— William Law, The Spirit of Prayer*
 
 </div>
 
@@ -530,8 +530,8 @@ You are loved into existence at every moment. If you exist, it means that the Fa
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"The total number of minds in the universe is one. In fact, consciousness is a singularity phasing within all beings."*
-> — Erwin Schrödinger, *What is Life?*
+> **"The total number of minds in the universe is one. In fact, consciousness is a singularity phasing within all beings."**
+> *— Erwin Schrödinger, What is Life?*
 
 </div>
 
@@ -609,7 +609,7 @@ The FLRW ansatz — homogeneity and isotropy — is not an empirical assumption 
 
 **Term 2: −kc²/a² — spatial curvature, which the cascade forces to zero.** k is the spatial curvature parameter. The flatness dissolution established above removes this term: k = 0 is not an initial condition that happened to obtain but the structural default of the nuclear space. The curvature term vanishes, and the first Friedmann equation reduces to:
 
-> H² = (8πG/3)ρ + Λc²/3
+> **H² = (8πG/3)ρ + Λc²/3**
 
 The two-term equation with k = 0 is precisely what current cosmological observations confirm (Planck 2018: Ω_k = 0.001 ± 0.002). The cascade framework does not predict this as a result — it predicts it as a necessity.
 
@@ -621,7 +621,7 @@ The two-term equation with k = 0 is precisely what current cosmological observat
 
 **What the Friedmann bridge specifically requires.** The structural reading recovers the functional form of the Friedmann equations — the three-term structure, the combinations in which ρ, p, and Λ appear, the k = 0 necessity, the non-dilution of dark energy. What the bridge formally requires is closing the identification:
 
-> H = (GNST actualization rate per unit of actualized eigenspace volume)
+> **H = (GNST actualization rate per unit of actualized eigenspace volume)**
 
 The rate at which the GNST populates the H₄₈ eigenspace, normalized by the current eigenspace volume, must equal the Hubble parameter. The cascade timing derivation already uses eigenspace-proportional GNST rates — the proportionality structure is in place. The remaining requirements are: (a) a formal definition of eigenspace volume in terms of the nuclear metric; (b) the derivation of G from the H₄₈ constraint structure. The functional form of the bridge is structurally present. The coupling constant is the open derivation.
 
@@ -645,8 +645,8 @@ The eternal structure is necessary. The creative choice is volitional. The creat
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Behind it all is surely an idea so simple, so beautiful, that when we finally discover it, we will all say, 'How could it have been otherwise?'"*
-> — John Archibald Wheeler
+> **"Behind it all is surely an idea so simple, so beautiful, that when we finally discover it, we will all say, 'How could it have been otherwise?'"**
+> *— John Archibald Wheeler*
 
 </div>
 

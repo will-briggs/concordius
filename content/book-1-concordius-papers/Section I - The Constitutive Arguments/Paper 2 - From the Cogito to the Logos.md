@@ -21,8 +21,8 @@ This paper has two assumptions. The first is the entire content of its companion
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Listening not to me but to the Logos, it is wise to acknowledge that all things are one."*
-> — Heraclitus, Fragment 50
+> **"Listening not to me but to the Logos, it is wise to acknowledge that all things are one."**
+> *— Heraclitus, Fragment 50*
 
 </div>
 
@@ -105,8 +105,8 @@ This is the first naming. It requires no faith. It requires only that the cogito
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"The Logos is the image of God, through whom the whole world was framed."*
-> — Philo of Alexandria, *De Confusione Linguarum*
+> **"The Logos is the image of God, through whom the whole world was framed."**
+> *— Philo of Alexandria, De Confusione Linguarum*
 
 </div>
 
@@ -147,8 +147,8 @@ This is the second naming. The Father is personal — because the Logos proceeds
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"It is not known by those who know it; it is known by those who do not know it."*
-> — Kena Upanishad 2:3
+> **"It is not known by those who know it; it is known by those who do not know it."**
+> *— Kena Upanishad 2:3*
 
 </div>
 
@@ -210,8 +210,8 @@ The closest Christian parallel is heaven — the eternal, perfect order subsisti
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"In its depths I saw ingathered, bound by love in one single volume, what lies scattered in leaves throughout the universe."*
-> — Dante, *Paradiso* XXXIII
+> **"In its depths I saw ingathered, bound by love in one single volume, what lies scattered in leaves throughout the universe."**
+> *— Dante, Paradiso XXXIII*
 
 </div>
 
@@ -277,8 +277,8 @@ Three structural claims.
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"The eye through which I see God is the same eye through which God sees me; my eye and God's eye are one eye, one seeing, one knowing, one love."*
-> — Meister Eckhart, Sermon 57
+> **"The eye through which I see God is the same eye through which God sees me; my eye and God's eye are one eye, one seeing, one knowing, one love."**
+> *— Meister Eckhart, Sermon 57*
 
 </div>
 
@@ -324,8 +324,8 @@ The Logos is therefore not a mediator in the political sense — not an intermed
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"I have lived on the lip of insanity, wanting to know reasons, knocking on a door. It opens. I've been knocking from the inside."*
-> — Rumi, *Masnavi*
+> **"I have lived on the lip of insanity, wanting to know reasons, knocking on a door. It opens. I've been knocking from the inside."**
+> *— Rumi, Masnavi*
 
 </div>
 
@@ -417,8 +417,8 @@ What instantiates these two modes — what kinds of beings, if any, would be H-o
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Truth is one; the sages call it by many names."*
-> — Rig Veda I.164.46
+> **"Truth is one; the sages call it by many names."**
+> *— Rig Veda I.164.46*
 
 </div>
 

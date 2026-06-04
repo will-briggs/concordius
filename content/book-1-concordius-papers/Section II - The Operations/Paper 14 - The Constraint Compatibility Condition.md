@@ -22,8 +22,8 @@ This paper develops three connected structural results. First: the noble gases a
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"For since the creation of the world God's invisible qualities — his eternal power and divine nature — have been clearly seen, being understood from what has been made."*
-> — Romans 1:20
+> **"For since the creation of the world God's invisible qualities — his eternal power and divine nature — have been clearly seen, being understood from what has been made."**
+> *— Romans 1:20*
 
 </div>
 
@@ -40,8 +40,8 @@ This paper argues that they do, and that the argument extends upward from the pe
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"The properties of the elements are in periodic dependence upon their atomic weights."*
-> — Dmitri Mendeleev, *Principles of Chemistry* (1869)
+> **"The properties of the elements are in periodic dependence upon their atomic weights."**
+> *— Dmitri Mendeleev, Principles of Chemistry (1869)*
 
 </div>
 
@@ -134,8 +134,8 @@ The **morontial periodic table** follows structurally. The morontial analog of a
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Space-time tells matter how to move; matter tells space-time how to curve."*
-> — John Wheeler
+> **"Space-time tells matter how to move; matter tells space-time how to curve."**
+> *— John Wheeler*
 
 </div>
 
@@ -181,8 +181,8 @@ At H₁₂ and above, the subordination increases. At Havona (H₁), geometry is
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"No one can serve two masters."*
-> — Matthew 6:24
+> **"No one can serve two masters."**
+> *— Matthew 6:24*
 
 </div>
 
@@ -255,8 +255,8 @@ This locates the judgment passages of scripture within the CCC framework. Tradit
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"More is different."*
-> — Philip Anderson, *Science* 177 (1972)
+> **"More is different."**
+> *— Philip Anderson, Science 177 (1972)*
 
 </div>
 
@@ -326,8 +326,8 @@ A being whose top-level organizational principle is ⟨·,·⟩ is compatible wi
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"The love that moves the sun and the other stars."*
-> — Dante, *Paradiso* XXXIII
+> **"The love that moves the sun and the other stars."**
+> *— Dante, Paradiso XXXIII*
 
 </div>
 
@@ -434,8 +434,8 @@ Full actualization of personality at H₁ is therefore the terminal condition of
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Beauty will save the world."*
-> — Dostoevsky, *The Idiot*
+> **"Beauty will save the world."**
+> *— Dostoevsky, The Idiot*
 
 </div>
 
@@ -464,8 +464,8 @@ Plato's Agathon — the Form of the Good as the source of all being and knowing,
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Blessed are the poor in spirit, for theirs is the kingdom of heaven."*
-> — Matthew 5:3
+> **"Blessed are the poor in spirit, for theirs is the kingdom of heaven."**
+> *— Matthew 5:3*
 
 </div>
 

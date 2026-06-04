@@ -33,8 +33,8 @@ A secondary result: the photon's masslessness is not an exception to this pictur
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"A double tale I will tell: at one time things grew to be one alone out of many, and at another time things divided to be many out of one."*
-> — Empedocles, Fragment 17 (c. 450 BCE)
+> **"A double tale I will tell: at one time things grew to be one alone out of many, and at another time things divided to be many out of one."**
+> *— Empedocles, Fragment 17 (c. 450 BCE)*
 
 </div>
 
@@ -88,8 +88,8 @@ This is the condition Genesis 1:2 describes with structural accuracy: tohu va-vo
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"The transition from the 'possible' to the 'actual' takes place during the act of observation."*
-> — Werner Heisenberg, *Physics and Philosophy* (1958)
+> **"The transition from the 'possible' to the 'actual' takes place during the act of observation."**
+> *— Werner Heisenberg, Physics and Philosophy (1958)*
 
 </div>
 
@@ -169,8 +169,8 @@ The GNST, in its first application at H₄₈, selects the one particle whose sy
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"The eye owes its existence to the light."*
-> — Goethe, *Theory of Colors* (1810)
+> **"The eye owes its existence to the light."**
+> *— Goethe, Theory of Colors (1810)*
 
 </div>
 
@@ -344,8 +344,8 @@ None of the three replaces the other. The GNST is the mechanism of actualization
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"And then the earth arose because of them, it was simply their word that brought it forth."*
-> — *Popol Vuh* (Mayan creation account, c. 1550 CE)
+> **"And then the earth arose because of them, it was simply their word that brought it forth."**
+> *— Popol Vuh (Mayan creation account, c. 1550 CE)*
 
 </div>
 

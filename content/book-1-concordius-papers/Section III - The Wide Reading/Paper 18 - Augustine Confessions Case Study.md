@@ -22,8 +22,8 @@ Augustine's *Confessions* (c. 397–400 CE) is the first autobiography in the We
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Late have I loved thee, O Beauty so ancient and so new; late have I loved thee! For behold thou wert within me, and I outside; and I sought thee outside."*
-> — Augustine, *Confessions* X.27.38
+> **"Late have I loved thee, O Beauty so ancient and so new; late have I loved thee! For behold thou wert within me, and I outside; and I sought thee outside."**
+> *— Augustine, Confessions X.27.38*
 
 </div>
 
@@ -77,8 +77,8 @@ The Law of Three operates at multiple scales simultaneously:
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"For I do not do what I want, but I do the very thing I hate."*
-> — Romans 7:15
+> **"For I do not do what I want, but I do the very thing I hate."**
+> *— Romans 7:15*
 
 </div>
 
@@ -102,8 +102,8 @@ The qualitatively new element that appears at the Mi-Fa: grace operating through
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"All shall be well, and all shall be well, and all manner of thing shall be well."*
-> — Julian of Norwich, *Revelations of Divine Love*
+> **"All shall be well, and all shall be well, and all manner of thing shall be well."**
+> *— Julian of Norwich, Revelations of Divine Love*
 
 </div>
 

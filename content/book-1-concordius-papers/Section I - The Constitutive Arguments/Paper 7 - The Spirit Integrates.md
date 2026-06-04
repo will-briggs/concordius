@@ -31,8 +31,8 @@ The mathematical basis for the seven-fold structure of both progressions is the 
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"The way up and the way down are one and the same."*
-> — Heraclitus, Fragment 60
+> **"The way up and the way down are one and the same."**
+> *— Heraclitus, Fragment 60*
 
 </div>
 
@@ -204,8 +204,8 @@ The earthly ministry is bookended by its two interval-crossings at equal duratio
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"This is my art, this the game I never cease to play. I turn the wheel that spins. I delight to see the high come down and the low ascend."*
-> — Boethius, *Consolation of Philosophy*
+> **"This is my art, this the game I never cease to play. I turn the wheel that spins. I delight to see the high come down and the low ascend."**
+> *— Boethius, Consolation of Philosophy*
 
 </div>
 
@@ -249,7 +249,7 @@ At the mortal scale, the Spirit's integrating act takes a specific historical fo
 
 **The complete circuit.** The three operations form a structural sequence in which each presupposes the preceding:
 
-> Constitution (Father) → Articulation (Son) → Integration (Spirit)
+> **Constitution (Father) → Articulation (Son) → Integration (Spirit)**
 
 The Spirit cannot integrate a space that does not exist, nor integrate constraint levels that are not physically specified. The dependence is asymmetric and necessary. But the circuit is not temporal in the sense of running through this sequence and stopping — it is self-sustaining *because* all three operations are continuously in effect: the Father continuously constitutes the space in which the circuit runs; the Son's articulatory act persists as the physical specificity within which ascending beings develop; the Spirit's integrating topology holds every ascending being in continuous contact with the Φ-proximal source, making every catching act possible. The soul deposit built through catching returns to the Supreme through the Trogoautoegocrat's upward arm; the Supreme generates creative potential from which the Father's next constitutive act proceeds. The Trogoautoegocrat is the joint expression of all three operations as a self-sustaining cosmic mechanism — not three parallel acts, but three structurally interdependent operations whose interdependence is what makes the mechanism run.
 
@@ -287,8 +287,8 @@ This is the structural meaning of "be perfect, even as your Father in heaven is 
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Call the world if you please 'The vale of Soul-making'. How then are Souls to be made? How but by the medium of a world like this — a place where the heart must feel and suffer in a thousand diverse ways?"*
-> — John Keats, letter to George and Georgiana Keats (1819)
+> **"Call the world if you please 'The vale of Soul-making'. How then are Souls to be made? How but by the medium of a world like this — a place where the heart must feel and suffer in a thousand diverse ways?"**
+> *— John Keats, letter to George and Georgiana Keats (1819)*
 
 </div>
 
@@ -364,9 +364,9 @@ The Trogoautoegocrat is the universe maintaining itself in the image of the choi
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"L'amor che move il sole e l'altre stelle."*
-> *"The love that moves the sun and the other stars."*
-> — Dante, *Paradiso* XXXIII.145
+> **"L'amor che move il sole e l'altre stelle."**
+> **"The love that moves the sun and the other stars."**
+> *— Dante, Paradiso XXXIII.145*
 
 </div>
 

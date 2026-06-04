@@ -29,8 +29,8 @@ The remainder of the paper examines the conditions under which catching occurs: 
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"An organism has conscious mental states if and only if there is something it is like to be that organism — something it is like for the organism."*
-> — Thomas Nagel, "What Is It Like to Be a Bat?" (1974)
+> **"An organism has conscious mental states if and only if there is something it is like to be that organism — something it is like for the organism."**
+> *— Thomas Nagel, "What Is It Like to Be a Bat?" (1974)*
 
 </div>
 
@@ -92,8 +92,8 @@ This structure is not a defect. It is the structural requirement for the free ac
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Thou wert more inward than my most inward part, and higher than my highest."*
-> — Augustine, *Confessions* III.6
+> **"Thou wert more inward than my most inward part, and higher than my highest."**
+> *— Augustine, Confessions III.6*
 
 </div>
 
@@ -323,8 +323,8 @@ The historical record is extensive: blood moons appear throughout the oldest ast
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Man is a machine. Everything happens to him. 'To do' means to act from one's own will, and to be responsible for one's actions. But man cannot do. He has no will of his own."*
-> — Gurdjieff (in Ouspensky, *In Search of the Miraculous*)
+> **"Man is a machine. Everything happens to him. 'To do' means to act from one's own will, and to be responsible for one's actions. But man cannot do. He has no will of his own."**
+> *— Gurdjieff (in Ouspensky, In Search of the Miraculous)*
 
 </div>
 
@@ -416,8 +416,8 @@ But there is a register in which this paper has to be addressed before passing t
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"If anyone builds on this foundation with gold, silver, precious stones, wood, hay, straw — each one's work will become manifest. If the work that anyone has built survives, he will receive a reward. If anyone's work is burned up, he will suffer loss, though he himself will be saved, but only as through fire."*
-> — 1 Corinthians 3:12–15
+> **"If anyone builds on this foundation with gold, silver, precious stones, wood, hay, straw — each one's work will become manifest. If the work that anyone has built survives, he will receive a reward. If anyone's work is burned up, he will suffer loss, though he himself will be saved, but only as through fire."**
+> *— 1 Corinthians 3:12–15*
 
 </div>
 

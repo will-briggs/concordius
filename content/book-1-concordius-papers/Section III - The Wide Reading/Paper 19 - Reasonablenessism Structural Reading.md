@@ -36,8 +36,8 @@ Reasonablenessism is the epistemological method from which Concordius is derived
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Know thyself."*
-> — Inscription above the entrance to the Temple of Apollo, Delphi (γνῶθι σεαυτόν)
+> **"Know thyself."**
+> *— Inscription above the entrance to the Temple of Apollo, Delphi (γνῶθι σεαυτόν)*
 
 </div>
 
@@ -229,8 +229,8 @@ None of them arrived at the full 12-feature formulation. The partial nature of e
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"The questions that we raise and our doubts depend on the fact that some propositions are exempt from doubt, are as it were like hinges on which those turn."*
-> — Wittgenstein, *On Certainty* §341
+> **"The questions that we raise and our doubts depend on the fact that some propositions are exempt from doubt, are as it were like hinges on which those turn."**
+> *— Wittgenstein, On Certainty §341*
 
 </div>
 

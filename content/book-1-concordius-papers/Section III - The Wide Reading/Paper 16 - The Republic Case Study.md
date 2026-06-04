@@ -22,8 +22,8 @@ Plato's *Republic* is conventionally read as a political treatise, a theory of j
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"You must go down, then, each in his turn, to live with the others and grow accustomed to seeing in the dark."*
-> — Plato, *Republic* 520c
+> **"You must go down, then, each in his turn, to live with the others and grow accustomed to seeing in the dark."**
+> *— Plato, Republic 520c*
 
 </div>
 
@@ -94,8 +94,8 @@ The Fa entry — the new element that appears at the interval — is the philoso
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"What no eye has seen, what no ear has heard, and what no human mind has conceived — the things God has prepared for those who love him."*
-> — 1 Corinthians 2:9
+> **"What no eye has seen, what no ear has heard, and what no human mind has conceived — the things God has prepared for those who love him."**
+> *— 1 Corinthians 2:9*
 
 </div>
 

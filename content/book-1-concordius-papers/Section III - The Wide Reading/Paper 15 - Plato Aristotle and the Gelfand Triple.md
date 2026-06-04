@@ -22,8 +22,8 @@ The dispute between Plato and Aristotle on the nature of the Forms has remained 
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"The Good gives to all knowable things their power of being known, and to itself their being, though the Good itself is not being but beyond being, surpassing it in dignity and power."*
-> — Plato, *Republic* 509b
+> **"The Good gives to all knowable things their power of being known, and to itself their being, though the Good itself is not being but beyond being, surpassing it in dignity and power."**
+> *— Plato, Republic 509b*
 
 </div>
 
@@ -152,8 +152,8 @@ The Prime Mover is not self-enclosed. Aristotle's Unmoved Mover (νοῦς νο�
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Amicus Plato, amicus Aristoteles, sed magis amica veritas."*
-> — attributed to Newton's student notebook (after Aristotle)
+> **"Amicus Plato, amicus Aristoteles, sed magis amica veritas."**
+> *— attributed to Newton's student notebook (after Aristotle)*
 
 </div>
 
@@ -246,8 +246,8 @@ The virtues are not rules or habits in the H₄₈-primary sense. They are accum
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"This intellect is separable, unmixed, impassable, and by its own nature is actuality."*
-> — Aristotle, *De Anima* III.5
+> **"This intellect is separable, unmixed, impassable, and by its own nature is actuality."**
+> *— Aristotle, De Anima III.5*
 
 </div>
 

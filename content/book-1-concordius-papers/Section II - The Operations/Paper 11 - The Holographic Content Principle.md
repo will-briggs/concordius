@@ -27,8 +27,8 @@ The principle has a testable gradient: documents recognized across time and trad
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"That which is above is as that which is below, and that which is below is as that which is above, to accomplish the miracles of one thing."*
-> — The Emerald Tablet
+> **"That which is above is as that which is below, and that which is below is as that which is above, to accomplish the miracles of one thing."**
+> *— The Emerald Tablet*
 
 </div>
 
@@ -147,8 +147,8 @@ The presence of genuine Mi-Fa and Si-Do positions — identifiable places in the
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Attention is the rarest and purest form of generosity."*
-> — Simone Weil
+> **"Attention is the rarest and purest form of generosity."**
+> *— Simone Weil*
 
 </div>
 
@@ -316,8 +316,8 @@ The four case studies above are preliminary demonstrations, not systematic tests
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Each monad is a perpetual living mirror of the universe."*
-> — Leibniz, *Monadology* §56
+> **"Each monad is a perpetual living mirror of the universe."**
+> *— Leibniz, Monadology §56*
 
 </div>
 
@@ -339,8 +339,8 @@ All three traditions are the same structural principle at different levels: the 
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Turn it and turn it again, for everything is in it."*
-> — Ben Bag Bag, *Pirkei Avot* 5:22
+> **"Turn it and turn it again, for everything is in it."**
+> *— Ben Bag Bag, Pirkei Avot 5:22*
 
 </div>
 
