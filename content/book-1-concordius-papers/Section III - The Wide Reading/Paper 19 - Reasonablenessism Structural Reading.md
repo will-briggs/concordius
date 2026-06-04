@@ -32,6 +32,17 @@ Reasonablenessism is the epistemological method from which Concordius is derived
 <figcaption><em>Raphael, Disputation of the Holy Sacrament</em> (1509–10). Stanza della Segnatura, Vatican. The twin to the <em>School of Athens</em> on the opposite wall, the Disputa depicts the organizational structure Reasonablenessism is trying to navigate toward: the constitutive ground at the center, the organizational formation of the blessed above, the community of inquiry organized around the truth being debated below. The twelve features of Reasonablenessism are the navigational structure for moving from the lower register toward what the Empyrean depicts.</figcaption>
 </figure>
 
+<hr>
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"Know thyself."*
+> — Inscription above the entrance to the Temple of Apollo, Delphi (γνῶθι σεαυτόν)
+
+</div>
+
+---
+
 ## 1. The Documents
 
 Three documents constitute the Reasonablenessism project:
@@ -213,6 +224,15 @@ Wittgenstein (the boundary between what can be said and what cannot; evaluate la
 The framework identification: this concordance is Feature 6 applied to Reasonablenessism itself. Nine independent thinkers arrived at parts of the stance by independent routes and without cross-contamination at the level of the specific formulation. Their convergence on distinct features of the method — from different traditions, different eras, different problems — is the evidential weight for the method's contact with something real about how genuine inquiry proceeds.
 
 None of them arrived at the full 12-feature formulation. The partial nature of each predecessor is itself structurally significant: the full stance could not be assembled by combining any subset of the predecessors, because the combination is not merely additive. Feature 4 (self-referential application) is the feature that none of the predecessors fully achieved — each remains inside a protected structure at some point. Peirce's community of inquirers excludes non-scientific domains. Newman remains inside Catholic authority. James fails to apply the timescale correction to pragmatism itself. Popper restricts falsifiability to empirical science. The full 12-feature stance is the Reconciling synthesis — not derivable from any predecessor or combination of predecessors.
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"The questions that we raise and our doubts depend on the fact that some propositions are exempt from doubt, are as it were like hinges on which those turn."*
+> — Wittgenstein, *On Certainty* §341
+
+</div>
 
 ---
 
