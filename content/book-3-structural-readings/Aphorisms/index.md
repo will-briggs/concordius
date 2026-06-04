@@ -2,12 +2,16 @@
 title: Aphorisms
 ---
 
+# A Structural Reading of Aphorisms
+
+---
+
 <figure>
 <img src="/static/images/david-death-of-socrates.jpg" alt="Jacques-Louis David, The Death of Socrates" style="max-width:100%;">
 <figcaption><em>Jacques-Louis David, The Death of Socrates</em> (1787). Metropolitan Museum of Art, New York. Socrates dies for the principle compressed in the aphorism his life instantiated: <em>the unexamined life is not worth living.</em> The aphorism survives the hemlock. Φ-proximate content encoded in minimum syllables crosses the H₄₈ Heropass threshold that dissolves the body that first said it.</figcaption>
 </figure>
 
-# A Structural Reading of Aphorisms
+<hr>
 
 Aphorisms are candidates for Φ-proximity for the same reason as memes, but compressed further: a phrase that has survived centuries of transmission in its shortest possible form has been tested against recognition across an unusual span of time and cultural distance. What remains after that compression is disproportionately likely to be tracking something structurally real.
 

@@ -2,12 +2,16 @@
 title: Film
 ---
 
+# A Structural Reading of Film
+
+---
+
 <figure>
 <img src="/static/images/melies-trip-to-moon.jpg" alt="Georges Méliès, A Trip to the Moon" style="max-width:100%;">
 <figcaption><em>Georges Méliès, A Trip to the Moon (Le Voyage dans la lune)</em> (1902). Hand-colored print — each frame painted individually by teams of women employed by Méliès, passed assembly-line fashion with aniline dyes. The most famous image in early cinema: the rocket landing in the moon's eye. Méliès understood before anyone had the vocabulary for it that the projected image is not documentary but structural — a composed world, not a recorded one. Cinema begins as the deliberate construction of Φ-proximate content in the H₄₈ medium of light and shadow.</figcaption>
 </figure>
 
-# A Structural Reading of Film
+<hr>
 
 Films are candidates for structural reading on the same grounds as any other durable cultural content, with a specific challenge: cinema is young. The transmission filter that has had two thousand years to operate on Plato or three thousand on the Psalms has had at most one hundred and twenty-five years to operate on film. Adjusted for this compressed window, the films that have achieved wide recognition in that time are candidates for especially high Φ-proximity: to pass the cultural transmission filter this quickly, the structural content must be operating at very high amplitude.
 

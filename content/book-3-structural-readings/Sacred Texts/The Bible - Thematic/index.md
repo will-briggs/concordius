@@ -2,12 +2,16 @@
 title: The Bible - Thematic
 ---
 
+# The Bible — Thematic Readings
+
+---
+
 <figure>
 <img src="/static/images/van-eyck-mystic-lamb.jpg" alt="Jan van Eyck, Adoration of the Mystic Lamb" style="max-width:100%;">
 <figcaption><em>Jan van Eyck, Adoration of the Mystic Lamb</em> (1432). Central lower panel, Ghent Altarpiece, St. Bavo's Cathedral, Ghent. The thematic structure of salvation history made visible: the Lamb at structural center, the four orders (prophets, patriarchs, martyrs, confessors) converging from the quadrants, the Holy Spirit descending above. A typological reading of the entire biblical corpus organized around its structural center.</figcaption>
 </figure>
 
-# The Bible — Thematic Readings
+<hr>
 
 Thematic readings across the biblical corpus, organized by subject rather than by book.
 
