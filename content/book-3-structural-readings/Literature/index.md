@@ -23,3 +23,4 @@ Structural readings of literary works through the Concordius framework.
 - [[Augustine — Confessions|Augustine — Confessions (397–400)]]
 - [[Shakespeare's Sonnets/index|Shakespeare's Sonnets]]
 - [[Ulysses|Ulysses — James Joyce (1922)]]
+- [[Atlas Shrugged|Atlas Shrugged — Ayn Rand (1957)]] ⊘

@@ -60,6 +60,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 [[Philosophy/The Enneads|Plotinus — The Enneads]]
 [[Philosophy/Epictetus|Epictetus — The Discourses and Enchiridion]]
 [[Philosophy/The Meditations of Marcus Aurelius|Marcus Aurelius — Meditations]]
+[[Philosophy/Nietzsche and the Will to Power|Nietzsche — The Will to Power]] ⊘
 
 ### Literature
 
@@ -67,6 +68,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 [[Literature/Ulysses|Joyce — Ulysses]]
 [[Literature/Dante — The Divine Comedy|Dante — The Divine Comedy]]
 [[Literature/Augustine — Confessions|Augustine — Confessions]]
+[[Literature/Atlas Shrugged|Rand — Atlas Shrugged]] ⊘
 
 ### Mysticism
 
@@ -91,7 +93,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ### Film
 
-[[Film/Wall-E|Wall-E]] · [[Film/Groundhog Day|Groundhog Day]] · [[Film/2001 - A Space Odyssey|2001: A Space Odyssey]] · [[Film/Ikiru|Ikiru]] · [[Film/The Seventh Seal|The Seventh Seal]] · [[Film/Blade Runner|Blade Runner]] · [[Film/The Tree of Life|The Tree of Life]] · [[Film/Amadeus|Amadeus]] · [[Film/The Shawshank Redemption|The Shawshank Redemption]] · [[Film/Interstellar|Interstellar]] · [[Film/Whiplash|Whiplash]] · [[Film/The Matrix|The Matrix ⊘]]
+[[Film/Wall-E|Wall-E]] · [[Film/Groundhog Day|Groundhog Day]] · [[Film/2001 - A Space Odyssey|2001: A Space Odyssey]] · [[Film/Ikiru|Ikiru]] · [[Film/The Seventh Seal|The Seventh Seal]] · [[Film/Blade Runner|Blade Runner]] · [[Film/The Tree of Life|The Tree of Life]] · [[Film/Amadeus|Amadeus]] · [[Film/The Shawshank Redemption|The Shawshank Redemption]] · [[Film/Interstellar|Interstellar]] · [[Film/Whiplash|Whiplash]] · [[Film/The Matrix|The Matrix ⊘]] · [[Film/Fight Club|Fight Club]] ⊘ · [[Film/Star Wars|Star Wars]]
 
 ---
 
@@ -103,6 +105,8 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 [[Doctrine/The Lucifer Rebellion|The Lucifer Rebellion]]
 [[Doctrine/The Magisterium|The Magisterium]]
 [[Doctrine/The Pre-Incarnation Saints|The Pre-Incarnation Saints]]
+[[Doctrine/The Prosperity Gospel|The Prosperity Gospel]] ⊘
+[[Doctrine/Scientology|Scientology]] ⊘
 
 ### Syntheses
 
@@ -114,7 +118,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ## World & Experience
 
-[[World and Experience/Suffering|Suffering]] · [[World and Experience/Dementia|Dementia]] · [[World and Experience/Prayer|Prayer]] · [[World and Experience/Phonology|Phonology]] · [[World and Experience/Miracles|Miracles]] · [[World and Experience/Auras and the Luminous Field|Auras and the Luminous Field]] · [[World and Experience/Parasites|Parasites]] · [[World and Experience/Private Dowding|Private Dowding]]
+[[World and Experience/Suffering|Suffering]] · [[World and Experience/Dementia|Dementia]] · [[World and Experience/Prayer|Prayer]] · [[World and Experience/Phonology|Phonology]] · [[World and Experience/Miracles|Miracles]] · [[World and Experience/Auras and the Luminous Field|Auras and the Luminous Field]] · [[World and Experience/Parasites|Parasites]] · [[World and Experience/Private Dowding|Private Dowding]] · [[World and Experience/The Secret|The Secret]] ⊘ · [[World and Experience/Astrology|Astrology]] ⊘
 
 ---
 

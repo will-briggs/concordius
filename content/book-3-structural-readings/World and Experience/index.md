@@ -14,3 +14,5 @@ Not texts or artifacts but features of lived and empirical reality, read for the
 [[World and Experience/Auras and the Luminous Field|Auras and the Luminous Field]]
 [[World and Experience/Parasites|Parasites]]
 [[World and Experience/Private Dowding|Private Dowding]]
+[[World and Experience/The Secret|The Secret]] ⊘
+[[World and Experience/Astrology|Astrology]] ⊘

@@ -21,3 +21,4 @@ The significance of this independence cannot be overstated. When Plotinus, Spino
 - [[Philosophy/The Enneads|The Enneads (Plotinus)]]
 - [[Philosophy/The Meditations of Marcus Aurelius|The Meditations of Marcus Aurelius]]
 - [[Philosophy/Spinoza's Ethics|Spinoza's Ethics]]
+- [[Philosophy/Nietzsche and the Will to Power|Nietzsche and the Will to Power]] ⊘

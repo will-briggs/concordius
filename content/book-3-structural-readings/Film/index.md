@@ -33,3 +33,5 @@ The readings collected here apply the Concordius framework to films whose cultur
 - [[Interstellar]] — ⟨·,·⟩ as the cross-cascade force; the Tesseract as face-to-face condition
 - [[Whiplash]] — The voluntary suffering mechanism without Φ-directed orientation; the coherence threshold crossing
 - [[The Matrix]] ⊘ — The constraint cascade glimpsed through a gnostic lens; the noise floor, the external shock, and the interval crossed by agape
+- [[Fight Club]] ⊘ — The consumerist noise floor diagnosed precisely, then an awakening that runs downward into dissolution
+- [[Star Wars]] — The Force as ⟨·,·⟩; the calibration case the ⊘ diagnostic clears
