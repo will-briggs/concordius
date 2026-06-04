@@ -10,6 +10,13 @@ tags:
 
 ---
 
+<figure>
+<img src="/static/images/blake-glad-day.jpg" alt="William Blake, Glad Day (The Dance of Albion)" style="max-width:100%;">
+<figcaption><em>William Blake, Glad Day / The Dance of Albion</em> (c. 1796). Colour print with ink and watercolour. Tate, London. The liberated human figure at dawn, arms outstretched — the ascending career's terminal state rendered in light. Not a ceiling to be contemplated from outside, but a destination: the person who knows who she is and where she is going, whose life is the practice.</figcaption>
+</figure>
+
+<hr>
+
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
 > *"Die before you die, so that when you die, you do not die."*
@@ -18,11 +25,6 @@ tags:
 </div>
 
 ---
-
-<figure>
-<img src="/static/images/blake-glad-day.jpg" alt="William Blake, Glad Day (The Dance of Albion)" style="max-width:100%;">
-<figcaption><em>William Blake, Glad Day / The Dance of Albion</em> (c. 1796). Colour print with ink and watercolour. Tate, London. The liberated human figure at dawn, arms outstretched — the ascending career's terminal state rendered in light. Not a ceiling to be contemplated from outside, but a destination: the person who knows who she is and where she is going, whose life is the practice.</figcaption>
-</figure>
 
 Everything that has been built has been built toward this.
 

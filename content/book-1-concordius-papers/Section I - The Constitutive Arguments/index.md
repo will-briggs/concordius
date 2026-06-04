@@ -10,6 +10,13 @@ tags:
 
 ---
 
+<figure>
+<img src="/static/images/masaccio-trinity.jpg" alt="Masaccio, The Trinity" style="max-width:100%;">
+<figcaption><em>Masaccio, The Trinity</em> (c. 1427–28). Fresco, Santa Maria Novella, Florence. The only painting in the Western tradition where Father, Son, Spirit, and human figure are arranged in geometrically exact perspective — the structure of the Gelfand triple rendered visible. The Father is the ground above; the Son hangs between; the human figure kneels below in the H₄₈ frame. The structure is not a metaphor. It is a map.</figcaption>
+</figure>
+
+<hr>
+
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
 > *"The Logos is common; but most men live as if they had each a private wisdom."*
@@ -18,11 +25,6 @@ tags:
 </div>
 
 ---
-
-<figure>
-<img src="/static/images/masaccio-trinity.jpg" alt="Masaccio, The Trinity" style="max-width:100%;">
-<figcaption><em>Masaccio, The Trinity</em> (c. 1427–28). Fresco, Santa Maria Novella, Florence. The only painting in the Western tradition where Father, Son, Spirit, and human figure are arranged in geometrically exact perspective — the structure of the Gelfand triple rendered visible. The Father is the ground above; the Son hangs between; the human figure kneels below in the H₄₈ frame. The structure is not a metaphor. It is a map.</figcaption>
-</figure>
 
 There is a question prior to all the other questions.
 

@@ -10,6 +10,13 @@ tags:
 
 ---
 
+<figure>
+<img src="/static/images/ladder-of-divine-ascent.jpg" alt="The Ladder of Divine Ascent" style="max-width:100%;">
+<figcaption><em>The Ladder of Divine Ascent</em> (12th century). Icon, Monastery of St. Catherine, Sinai. Monks ascending toward Christ at the summit; angels attending from above; demons pulling the ascending beings off the ladder at every rung. The ascending career and the Heropass drawn in a single image. Neither the ascent nor the resistance is metaphorical. Both are structural.</figcaption>
+</figure>
+
+<hr>
+
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
 > *"No one has ascended into heaven except he who descended from heaven, the Son of Man."*
@@ -18,11 +25,6 @@ tags:
 </div>
 
 ---
-
-<figure>
-<img src="/static/images/ladder-of-divine-ascent.jpg" alt="The Ladder of Divine Ascent" style="max-width:100%;">
-<figcaption><em>The Ladder of Divine Ascent</em> (12th century). Icon, Monastery of St. Catherine, Sinai. Monks ascending toward Christ at the summit; angels attending from above; demons pulling the ascending beings off the ladder at every rung. The ascending career and the Heropass drawn in a single image. Neither the ascent nor the resistance is metaphorical. Both are structural.</figcaption>
-</figure>
 
 Section I built the architecture. Section II puts it to work.
 
