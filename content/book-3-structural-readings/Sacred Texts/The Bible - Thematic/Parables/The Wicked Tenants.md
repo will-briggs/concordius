@@ -2,7 +2,7 @@
 
 **Text:** Matthew 21:33–46; Mark 12:1–12; Luke 20:9–19  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Parables  
-**Cross-references:** Paper 8 §3 (the kenotic period; the Creative Choice's H₄₈ descent); The Lucifer Rebellion (the overdeterminate condition; the H₁-origin claim in H₄₈ terms); Paper 14 §8 (the bestowal sequence; the permanent structural consequences of the rejection)
+**Cross-references:** Paper 8 §3 (the kenotic period; the Creative Choice's H₄₈ descent); The Lucifer Rebellion (the overdeterminate condition; the claim to be the H₁ ground, in H₄₈ terms); Paper 14 §8 (the bestowal sequence; the permanent structural consequences of the rejection)
 
 ---
 

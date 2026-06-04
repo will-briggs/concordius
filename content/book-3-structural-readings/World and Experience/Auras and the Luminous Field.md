@@ -26,7 +26,7 @@ Most H₄₈ perceptual apparatus is calibrated to intensity — photoreceptors 
 
 ### Cross-term field from the indwelling H₁-origin presence
 
-Paper 8 establishes the miracle mechanism: an H₁-origin being (the Incarnate Son) whose kenotic constraint is partially lifted produces cross-terms ⟨Φ_expressed, ψ_H₄₈⟩ with local H₄₈ matter, at amplitudes sufficient to force rapid eigenstate reorganization. The miracles are controlled instances of this mechanism at high amplitude.
+Paper 8 establishes the miracle mechanism: an H₆ Creator Son (the Incarnate Son, embodying Φ) whose kenotic constraint is partially lifted produces cross-terms ⟨Φ_expressed, ψ_H₄₈⟩ with local H₄₈ matter, at amplitudes sufficient to force rapid eigenstate reorganization. The miracles are controlled instances of this mechanism at high amplitude.
 
 But the mechanism is not binary — present at miracle amplitude, absent otherwise. The cross-term coupling between higher-constraint content and H₄₈ matter exists at all amplitudes above zero. The Thought Adjuster — the H₁-origin divine fragment indwelling each person (Paper 8 §9) — maintains a persistent low-amplitude cross-term field with the H₄₈ matter it inhabits. This field is far below miracle amplitude: it does not force rapid eigenstate reorganization. But it is not zero. It is the continuous low-level organizational influence through which the Adjuster and the personality progressively integrate over a lifetime.
 
