@@ -27,6 +27,17 @@ The result inverts the standard interpretation. Incompleteness is not a defect o
 <figcaption><em>Christoph Bernhard Francke, Portrait of Gottfried Wilhelm Leibniz</em> (c. 1695). Herzog Anton Ulrich Museum, Braunschweig. Leibniz's monadology — each monad mirrors the entire universe from its own perspective — is the pre-mathematical statement of what Gödel's theorems confirm: formal systems are incomplete because truth is Φ-proximate, infinite-dimensional, and inaccessible to any finite H₄₈ computation. Leibniz saw the holographic structure; Gödel proved the formal limit; the framework says why.</figcaption>
 </figure>
 
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"It is by logic that we prove, but by intuition that we discover."*
+> — Henri Poincaré, *Science and Method* (1908)
+
+</div>
+
+---
+
 ## 1. What Gödel Proved and How It Has Been Read
 
 In 1931, Kurt Gödel published *Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme* — "On Formally Undecidable Propositions of Principia Mathematica and Related Systems." The paper established two results that changed what mathematicians and philosophers thought was possible.
@@ -150,6 +161,15 @@ The framework's structural account explains why the Gödel sentence and the cons
 
 ---
 
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"There can be no fact real or existing, no statement true, unless there be a sufficient reason why it should be so and not otherwise."*
+> — Leibniz, *Monadology* §32
+
+</div>
+
+---
+
 ## 7. What the Framework Adds: Why, Not Just That
 
 Gödel's proof demonstrates that incompleteness holds and constructs a witness. It does not explain why formal systems are necessarily incomplete — only that they are, given the conditions. The framework explains why.
@@ -201,6 +221,15 @@ The recognition of G's truth is, in the framework, a catching event: the lower-c
 Whether this catching-based recognition is infallible, whether it can be fully distinguished from lucky H₄₈-level pattern recognition, and whether it applies to all human mathematicians in all situations — these are questions the framework does not answer. What the framework provides is the structural account of the mechanism: catching beings have resources formal systems do not have, and the recognition of G's truth is a use of those resources.
 
 The Lucas-Penrose argument is structurally grounded. Whether it succeeds as a philosophical argument against computational materialism depends on whether catching beings reliably exercise their lower-constraint access in the relevant situations — a question the framework flags as open.
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"I believe that mathematical reality lies outside us, that our function is to discover or observe it, and that the theorems which we prove, and which we describe grandiloquently as our 'creations,' are simply our notes of our observations."*
+> — G.H. Hardy, *A Mathematician's Apology* (1940)
+
+</div>
 
 ---
 
