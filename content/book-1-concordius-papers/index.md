@@ -84,4 +84,4 @@ Wittgenstein was right. Not how the world is, but that it is: this is the beginn
 
 ---
 
-*The series begins with [[Section I - The Constitutive Arguments/index|Section I — The Constitutive Arguments]].*
+*The series begins with [[book-1-concordius-papers/section-i---the-constitutive-arguments/index|Section I — The Constitutive Arguments]].*

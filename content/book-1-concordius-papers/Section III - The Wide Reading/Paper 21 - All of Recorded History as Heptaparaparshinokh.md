@@ -228,4 +228,4 @@ This paper asserts fractal mirroring without fully deriving it. Paper 22 and tho
 
 ---
 
-*[[Section IV - The Seven Men/index|Section IV — The Seven Men]] →*
+*[[book-1-concordius-papers/section-iv---the-seven-men/index|Section IV — The Seven Men]] →*

@@ -575,4 +575,4 @@ What remains open: whether H-origin beings undergo their own form of development
 
 ---
 
-*[[Section III - The Wide Reading/index|Section III — The Wide Reading]] →*
+*[[book-1-concordius-papers/section-iii---the-wide-reading/index|Section III — The Wide Reading]] →*
