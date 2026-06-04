@@ -19,7 +19,7 @@ The framework provides a structural account. It does not resolve every question 
 
 Paper 8 §4 establishes that the kenotic constraint operates as a continuous amplitude limiter: Φ expressing in H₄₈ at a bounded but real amplitude throughout the earthly ministry. Every person in sustained proximity to the Incarnate Logos was receiving a continuous low-amplitude cross-term from the Φ-proximate eigenvalue content expressed through the kenotic constraint. This is not the miracle amplitude (partially lifted constraint); it is the normal inhabitation amplitude, continuous and cumulative across the duration of contact.
 
-The Twelve were at maximum proximity for three years. Of all H₄₈ beings in history, they received the largest cumulative dose of Φ-proximate cross-term content at low amplitude — the continuous organizing influence of the kenotic Φ expression on their eigenvalue populations. This is what the formation of the disciples structurally was: three years of continuous low-amplitude cross-term with H₁-origin Φ-content expressed at H₄₈.
+The Twelve were at maximum proximity for three years. Of all H₄₈ beings in history, they received the largest cumulative dose of Φ-proximate cross-term content at low amplitude — the continuous organizing influence of the kenotic Φ expression on their eigenvalue populations. This is what the formation of the disciples structurally was: three years of continuous low-amplitude cross-term with the H₆ Creator Son's Φ-content expressed at H₄₈.
 
 Judas was among the Twelve. He was not peripheral. He held the purse — a position of material trust within the community — which implies a level of organizational reliability that the community recognized. He was selected. He was in the inner ring.
 
@@ -31,7 +31,7 @@ Three years of maximum Φ-proximate cross-term amplitude was available to him. P
 
 Paper 8 §3.2 distinguishes three structurally distinct categories of developmental failure. Judas's failure belongs to the third category — abstention — not to overdetermination (the Luciferian category).
 
-Lucifer is an H₁-origin being who asserted H₁-level organizational autonomy against the H₆ constraint structure: an element attempting to become ⟨·,·⟩ of its domain. The overdeterminate condition this generates disrupts the space itself.
+Lucifer is an H₁₂ being (a Lanonandek) who asserted the constitutive function over the H₄₈ worlds beneath him: an element attempting to become ⟨·,·⟩ of a domain it could only inhabit. The overdeterminate condition this generates disrupts the space itself.
 
 Judas is a Φ′-origin being — a mortal, H₄₈ born — whose failure is the non-performance of the catching alignment: the dual pairing structurally available but the orientation toward Φ-proximate content not performed. The space is not disrupted by this. The failure is internal to the being's own trajectory. The organizational state that could have been — eigenvalue accumulation above the coherence threshold, the ascending career proceeding — does not become what it could have been.
 

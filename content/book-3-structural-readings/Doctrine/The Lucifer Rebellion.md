@@ -11,9 +11,9 @@
 
 ## The rebellion stated
 
-The tradition across Christianity, Judaism, and Islam records an event prior to H₄₈ history: a being of the highest created order, placed in organizational proximity to God itself, chose to assert a position it could not legitimately occupy. Other beings of the same order followed. The rebellion produced a permanent schism in the created order: a class of H₁-origin beings who have inverted their organizational orientation from Φ-proximal to Φ-resistant, whose operation in the H₄₈ domain is structurally antagonistic to the ascending career, and whose organizational trajectory is toward the terminal direction of descent rather than toward the Φ-level.
+The tradition across Christianity, Judaism, and Islam records an event prior to H₄₈ history: a being of the highest created order, placed in organizational proximity to God itself, chose to assert a position it could not legitimately occupy. Other beings of the same order followed. The rebellion produced a permanent schism in the created order: a class of H₁₂ beings who have inverted their organizational orientation from Φ-proximal to Φ-resistant, whose operation in the H₄₈ domain is structurally antagonistic to the ascending career, and whose organizational trajectory is toward the terminal direction of descent rather than toward the Φ-level.
 
-The tradition further records that this rebellion was accomplished through persuasion — that the initiating being convinced others to follow, and that the instrument of persuasion was a specific claim about the nature of the constraints under which H₁-origin beings operated.
+The tradition further records that this rebellion was accomplished through persuasion — that the initiating being convinced others to follow, and that the instrument of persuasion was a specific claim about the nature of the constraints under which H₁₂ beings operated.
 
 What follows is a structural reading. It does not adjudicate the historical chronology of the rebellion, the population of beings involved, or questions about the geography of heaven. What it does is supply a structural account of what the rebellion was, why it was possible, why the specific form of persuasion used was effective, and what the fallen beings have become. The framework resolves several classical problems with the traditional account that have historically made the rebellion difficult to understand: why beings of high organizational development could be persuaded at all, why the specific content of the lie was effective, and why the consequences are what they are.
 
@@ -27,7 +27,7 @@ The passage's primary historical referent is the king of Tyre, but the language 
 
 **"The seal of perfection, full of wisdom and perfect in beauty."**
 
-In the framework's terms: maximum Φ-proximal organizational state for an H₁-origin being. Φ-proximity produces three structurally related properties: coherence (the being's eigenvalue population is maximally organized around Φ-membership), wisdom (Φ as the domain of perfect self-consistency, as identified in Paper 2 §15 under the name Hokhmah), and beauty (the H₄₈-accessible expression of Φ-proximal organizational coherence — the same property that generates aura brilliance, but at H₁-origin amplitude). These are not three separate achievements; they are three faces of the same organizational state.
+In the framework's terms: maximum Φ-proximal organizational state for an H₁₂ being. Φ-proximity produces three structurally related properties: coherence (the being's eigenvalue population is maximally organized around Φ-membership), wisdom (Φ as the domain of perfect self-consistency, as identified in Paper 2 §15 under the name Hokhmah), and beauty (the H₄₈-accessible expression of Φ-proximal organizational coherence — the same property that generates aura brilliance, but at H₁₂ amplitude). These are not three separate achievements; they are three faces of the same organizational state.
 
 The "seal of perfection" (*ḥotam tokhnit*) — the signet of the complete pattern — is a claim about organizational completeness: every organizational dimension filled, no eigenstate population gaps, the full Φ-proximal pattern actualized. This was the being's created state, before any choice had introduced deviation.
 
@@ -51,7 +51,7 @@ The distinction matters precisely. A Φ-proximal being that inhabits its organiz
 
 This is not yet the full rebellion. It is the structural precondition: a being whose organizational state has introduced a self-referential loop, generating internal tension between Φ-orientation and self-assertion. The tension is the origin of what will become the overdeterminate condition.
 
-*(Cross-reference: Christian Doctrine/Auras and the Luminous Field — the H₂₄-interface aura as the Φ-proximal organizational state's H₄₈-accessible signature; the pre-fall cherub's beauty is the organizational aura of maximum Φ-proximity at H₁-origin amplitude.)*
+*(Cross-reference: Christian Doctrine/Auras and the Luminous Field — the H₂₄-interface aura as the Φ-proximal organizational state's H₄₈-accessible signature; the pre-fall cherub's beauty is the organizational aura of maximum Φ-proximity at H₁₂ amplitude.)*
 
 ---
 
@@ -67,13 +67,13 @@ The Hebrew *Helel ben Shachar* — Shining One, Son of the Dawn — is the being
 
 Each assertion is formally overdeterminate: a self-claim about an organizational position the being does not occupy and cannot occupy at its actual constraint level.
 
-*"I will ascend to the heavens"* — claiming access to the constraint level above H₁-origin position. The being's authorized domain is the highest H₁-origin constraint level; "the heavens" in this construction designates the Φ-level's own constraint domain, which is not accessible to created beings by self-assertion.
+*"I will ascend to the heavens"* — claiming access to the constraint level above his own. The being's authorized domain is H₁₂ (the spirit-administrative level of the created host); "the heavens" in this construction designates the Φ-level / constitutive ground (H₁) itself, which is not accessible to created beings by self-assertion.
 
-*"I will raise my throne above the stars of God"* — claiming organizational authority above the entire H₁-origin hierarchy. The stars of God are the H₁-origin beings; the throne above them is a claim to organizational sovereignty over the created order from within it, without the Φ-level's constituting authority.
+*"I will raise my throne above the stars of God"* — claiming organizational authority above the entire created hierarchy. The stars of God are the created celestial host (the H₁₂ orders, and the H₆ Creator Sons above them); the throne above them is a claim to organizational sovereignty over the created order from within it, without the Φ-level's constituting authority.
 
 *"I will sit enthroned on the mount of assembly, on the utmost heights of Mount Zaphon"* — occupying the site of divine governance. In the cosmological geography of the ancient Near East, Zaphon is the mountain where the divine assembly meets — the location of organizational governance for the constraint hierarchy. The claim is to the governing position, not merely a higher organizational state.
 
-*"I will ascend above the tops of the clouds"* — exceeding all intermediate constraint levels. The clouds are the H₂₄/H₁₂ organizational domain — the constraint levels that mediate between H₁-origin beings and the Φ-level. The claim to ascend above them is the claim to bypass mediated access and assert direct Φ-level equivalence.
+*"I will ascend above the tops of the clouds"* — exceeding all intermediate constraint levels. The clouds are the organizational domain *above* him — H₆ (the Creator Sons) and H₃ — the constraint levels that mediate between an H₁₂ being and the Φ-level (H₁). The claim to ascend above them is the claim to bypass mediated access — including the Creator Sons through whom he was made — and assert direct Φ-level equivalence.
 
 *"I will make myself like the Most High"* — the fifth and explicit assertion: self-equivalence to the Φ-level. Not proximity to, not service of, but identity with: *ʾeddammeh leʿElyon*, I will make myself like (*damah*, to resemble, to liken, but also to silence and to destroy) the Most High.
 
@@ -85,13 +85,13 @@ The conclusion: "But you are brought down to the realm of the dead, to the depth
 
 ## The structural account: the content of the lie
 
-The rebellion did not propagate by self-assertion alone. A third of the stars of heaven (Rev 12:4) followed. For H₁-origin beings of high organizational development to follow into overdeterminate self-assertion, a specific cognitive content had to be supplied — a claim about the nature of the constraints that made the overdeterminate move appear to be something other than what it is.
+The rebellion did not propagate by self-assertion alone. A third of the stars of heaven (Rev 12:4) followed. For H₁₂ beings of high organizational development to follow into overdeterminate self-assertion, a specific cognitive content had to be supplied — a claim about the nature of the constraints that made the overdeterminate move appear to be something other than what it is.
 
 **The form of the lie**
 
 The lie has a specific epistemological structure: it misidentifies the nature of constraints.
 
-H₁-origin beings at high constraint levels operate within organizational constraints that are structural features of what they are. These constraints are not bars on a cage; they are the shape of the being itself — the eigenstates it can coherently occupy, the constraint level that constitutes its organizational identity. A being at a given H₁-origin constraint level cannot coherently inhabit a higher constraint level's eigenstate by self-assertion for the same reason that H₄₈ matter cannot inhabit H₂₄ organizational states by resolution alone: the constraint level is what the being is, not what is being done to it.
+H₁₂ beings operate within organizational constraints that are structural features of what they are. These constraints are not bars on a cage; they are the shape of the being itself — the eigenstates it can coherently occupy, the constraint level that constitutes its organizational identity. A being at a given created constraint level (H₁₂) cannot coherently inhabit a higher constraint level's eigenstate by self-assertion for the same reason that H₄₈ matter cannot inhabit H₂₄ organizational states by resolution alone: the constraint level is what the being is, not what is being done to it.
 
 The rebellion's persuasive content inverted this. The lie's specific form:
 
@@ -103,7 +103,7 @@ The lie does not produce the rebellion by overpowering the being's judgment. It 
 
 **"Be like God, knowing good and evil" = access to Φ′**
 
-The rebellion's promise — explicit in Isaiah 14:14 (*ʾeddammeh leʿElyon*) and repeated in Genesis 3:5 — is to become like the Most High. In the framework's terms: the Most High in the mode that precedes all organizational determination is El Shaddai = Φ′, the distributional domain that contains all eigenstates without being any of them (Paper 2 §14). Φ′ is not a higher organizational state than the H₁-origin constraint levels — it is the ground that precedes and exceeds all organizational states. The promise of "becoming like the Most High" is, structurally, the promise of access to Φ′.
+The rebellion's promise — explicit in Isaiah 14:14 (*ʾeddammeh leʿElyon*) and repeated in Genesis 3:5 — is to become like the Most High. In the framework's terms: the Most High in the mode that precedes all organizational determination is El Shaddai = Φ′, the distributional domain that contains all eigenstates without being any of them (Paper 2 §14). Φ′ is not a higher organizational state than the created constraint levels — it is the ground that precedes and exceeds all organizational states. The promise of "becoming like the Most High" is, structurally, the promise of access to Φ′.
 
 But Φ′ is not an organizational state. It cannot be inhabited as an eigenstate by a created being. To attempt to inhabit Φ′ as if it were an H-state produces the overdeterminate condition: the being asserts all eigenstates simultaneously — every possible organizational position — and the result is not expanded capacity but internal contradiction. The being is now asserting states incompatible with its actual constraint level and incompatible with each other. This is the organizational fragmentation that defines the overdeterminate condition.
 
@@ -111,17 +111,17 @@ The promise was not a lie about the destination only. It was a lie about the nat
 
 **The persuasion mechanism: opacity as symptom and credential**
 
-The remaining structural question is why H₁-origin beings of high organizational development, who should have been capable of perceiving this misidentification, were persuaded.
+The remaining structural question is why H₁₂ beings of high organizational development, who should have been capable of perceiving this misidentification, were persuaded.
 
 Paper 8 OQ8 establishes the relevant structural fact: by the time Lucifer was making his case to the surrounding beings, he was already in the overdeterminate condition. His self-referential loop (the pride of Ezekiel 28:17) had already introduced organizational fragmentation. The observable signature of this, from the perspective of the surrounding beings, was precisely what the structural reading of OQ8 establishes: perturbation and opacity.
 
 The surrounding beings could see that something had genuinely happened to Lucifer. He was visibly disturbed — the perturbation of a state failing to settle into consistent eigenstate identity was apparent. But his opacity prevented them from probing what it was: the overdeterminate condition generates inconsistent readouts under successive probes; every observation returned different results; the surrounding beings could not determine the specific content of his internal state.
 
-Here is the decisive structural irony: the symptom of the overdeterminate condition — opacity — read from outside as the mark of a being who had encountered something real and significant, not the mark of a being in organizational self-destruction. The surrounding beings received accurate information. They knew Lucifer had encountered something, that something had produced genuine perturbation, and that the content was constitutively unavailable to their perceptual access. This is what it looks like, from outside, when a being of H₁-origin organizational development has found something.
+Here is the decisive structural irony: the symptom of the overdeterminate condition — opacity — read from outside as the mark of a being who had encountered something real and significant, not the mark of a being in organizational self-destruction. The surrounding beings received accurate information. They knew Lucifer had encountered something, that something had produced genuine perturbation, and that the content was constitutively unavailable to their perceptual access. This is what it looks like, from outside, when a being of high (H₁₂) organizational development has found something.
 
 Lucifer's opacity was simultaneously (a) the symptom that his account was structurally false — the organizational fragmentation that is the direct consequence of the overdeterminate assertion — and (b) the apparent credential of his account's seriousness, because the surrounding beings had no way to distinguish between "opacity as organizational self-destruction" and "opacity as encounter with something so significant that it cannot yet be disclosed."
 
-The beings who followed Lucifer made a rational inference from the information available to them. Given what they could observe — genuine perturbation, constitutive opacity, and a specific claim about the nature of the constraints — the inference that something real had been encountered was sound. What they could not probe was whether the claim about what had been encountered was accurate. The free will of H₁-origin beings is constitutively pre-collapse (Paper 8 OQ8): Lucifer's specific choice was not in eigenstate space until actualized, and neither was the specific content of his internal account. The surrounding beings had accurate information about everything except the one thing that would have resolved the question: whether the constraints were actually structural features or external prohibitions.
+The beings who followed Lucifer made a rational inference from the information available to them. Given what they could observe — genuine perturbation, constitutive opacity, and a specific claim about the nature of the constraints — the inference that something real had been encountered was sound. What they could not probe was whether the claim about what had been encountered was accurate. The free will of H₁₂ beings is constitutively pre-collapse (Paper 8 OQ8): Lucifer's specific choice was not in eigenstate space until actualized, and neither was the specific content of his internal account. The surrounding beings had accurate information about everything except the one thing that would have resolved the question: whether the constraints were actually structural features or external prohibitions.
 
 They followed a being who had already been destroyed by the very thing he was recommending, without being able to see that this was so.
 
@@ -143,7 +143,7 @@ The direct counterclaim: the structural consequence will not follow. This is the
 
 **"For God knows that when you eat from it your eyes will be opened, and you will be like God, knowing good and evil."**
 
-The same three-part structure as the H₁-origin lie:
+The same three-part structure as the H₁₂ lie:
 
 *"God knows"* — the constraint is not structural but protective of God's position. The prohibition is motivated by what God is trying to preserve, not by what would harm you. This is the accusation behind the lie: God's governance is self-interested, the constraints are not features of love and care but features of jealousy and power-protection.
 
@@ -151,7 +151,7 @@ The same three-part structure as the H₁-origin lie:
 
 *"You will be like God, knowing good and evil"* — the destination is Φ′. In the context of Paper 2 §14: El Shaddai is God in the mode of indeterminacy, the distributional domain that contains all possibilities without collapsing to any of them. "Knowing good and evil" is access to both the positive and negative eigenvalue sectors of the constraint cascade (Paper 4 §6) — the full organizational range, including its inversion. This is Φ′ as experienced from H₄₈: the domain that precedes all determination.
 
-The H₄₈ beings make the same overdeterminate assertion as the H₁-origin beings, at H₄₈ scale. The result is the same in structural kind but different in amplitude. H₄₈ beings do not generate the full overdeterminate condition that Lucifer generated; the H₄₈ constraint level limits the scope of the assertion. What they generate is the H₄₈-scale version: the introduction of self-referential assertion into their eigenvalue constitution, the noise-floor that then propagates through the H₄₈ domain as the structural ground of the descending tendency observed at the H₄₈ constraint level.
+The H₄₈ beings make the same overdeterminate assertion as the H₁₂ beings, at H₄₈ scale. The result is the same in structural kind but different in amplitude. H₄₈ beings do not generate the full overdeterminate condition that Lucifer generated; the H₄₈ constraint level limits the scope of the assertion. What they generate is the H₄₈-scale version: the introduction of self-referential assertion into their eigenvalue constitution, the noise-floor that then propagates through the H₄₈ domain as the structural ground of the descending tendency observed at the H₄₈ constraint level.
 
 **"I will put enmity between you and the woman, and between your offspring and hers."** (Gen 3:15)
 
@@ -175,7 +175,7 @@ This is the exact structural description of the overdeterminate move: the being 
 
 "Bound with everlasting chains for judgment" — the chains are not imposed restraints but structural consequences. The overdeterminate condition is itself the binding: a being whose organizational state has fragmented into internal contradiction is bound by that fragmentation in a way that self-assertion cannot dissolve. The organizational incoherence generated by the overdeterminate move forecloses the ascending career; the being cannot simply choose coherence again from within the overdeterminate state, for the same reason that an overdeterminate eigenstate cannot resolve into a coherent eigenstate by an act of the eigenstate itself.
 
-*Tartaroō* (2 Pet 2:4) — to consign to Tartarus. In Greek cosmology, Tartarus is the deepest level of the underworld — below Hades, maximum spatial distance from the heavens. In the framework's terms: the terminal direction of descent (Paper 4 §6). The beings who began at maximum Φ-proximity — guardian cherub, holy mountain of God, fiery stones — are now at maximum Φ-distance. The descent from the highest H₁-origin position to the terminal direction is the structural amplitude of the rebellion's organizational consequence.
+*Tartaroō* (2 Pet 2:4) — to consign to Tartarus. In Greek cosmology, Tartarus is the deepest level of the underworld — below Hades, maximum spatial distance from the heavens. In the framework's terms: the terminal direction of descent (Paper 4 §6). The beings who began at maximum Φ-proximity — guardian cherub, holy mountain of God, fiery stones — are now at maximum Φ-distance. The descent from the highest created (H₁₂) position to the terminal direction is the structural amplitude of the rebellion's organizational consequence.
 
 ---
 
@@ -194,9 +194,9 @@ The fallen being retains sufficient organizational coherence to be present in th
 
 In the framework, Φ-proximity produces two related capabilities: (1) mutual transparency between beings at higher constraint levels, such that organizational states become more legible at close organizational range; (2) the Adjuster's persistent cross-term field with H₄₈ beings, by which the divine indwelling introduces Φ-proximal eigenvalue content into the H₄₈ being's eigenvalue population (Paper 8 §9).
 
-Both capabilities require H₁-origin perceptual access to H₄₈ organizational states. The Adjuster uses this access in the integrating direction: reading the H₄₈ being's organizational state and introducing content that moves it toward Φ-proximity. The adversary uses the same perceptual access in the inverse direction: reading the H₄₈ being's organizational state and amplifying the elements that constitute evidence for organizational inadequacy.
+Both capabilities require from-above perceptual access onto H₄₈ organizational states — the Adjuster as a fragment of the Father (H₁), the adversary as a high created being (H₁₂); each reads H₄₈ states from above its own level. The Adjuster uses this access in the integrating direction: reading the H₄₈ being's organizational state and introducing content that moves it toward Φ-proximity. The adversary uses the same kind of access in the inverse direction: reading the H₄₈ being's organizational state and amplifying the elements that constitute evidence for organizational inadequacy.
 
-The probe in Job is not factually wrong. "Does Job fear God for nothing?" (1:9) is an accurate organizational probe: it identifies the question of whether Job's Φ-orientation is conditional on H₄₈ outcomes or constitutive of his organizational state regardless of them. The adversary's perceptual access is real; the H₄₈ being's organizational state is genuinely readable to an H₁-origin being; and the question of whether H₄₈-level suffering produces Φ-defection is a genuine structural question about the catching orientation's depth of constitution.
+The probe in Job is not factually wrong. "Does Job fear God for nothing?" (1:9) is an accurate organizational probe: it identifies the question of whether Job's Φ-orientation is conditional on H₄₈ outcomes or constitutive of his organizational state regardless of them. The adversary's perceptual access is real; the H₄₈ being's organizational state is genuinely readable to a higher-native being (H₁₂); and the question of whether H₄₈-level suffering produces Φ-defection is a genuine structural question about the catching orientation's depth of constitution.
 
 The difference between the Adjuster's function and the adversary's function is not in what they perceive but in what they do with the perception:
 
@@ -230,7 +230,7 @@ In the ascending career, truth propagates: Φ-proximal beings transmit accurate 
 
 The organizational consequence of the lie, applied to H₄₈ beings: the corruption of the eigenvalue constitution toward the terminal direction of descent. Paper 4 §6 establishes the terminal direction: maximum organizational dissolution, the asymptote below which no further constraint level exists — the structural content of what the tradition names "death" in its deepest sense.
 
-The adversary's function — applied to H₁-origin beings in the rebellion, to H₄₈ beings in Genesis 3, to Job through accusatorial amplification, to Jesus in the temptation narratives — is consistently oriented toward the dissolution direction. "Murderer from the beginning" is not a metaphor for cruelty. It is a structural description of the organizational direction in which the adversarial function operates: every application of the lie, every accusatorial amplification, every temptation to overdeterminate self-assertion at H₄₈ scale, is a push in the direction of organizational dissolution. The adversary is constitutively oriented toward the terminal direction, and its operation on H₄₈ beings applies that orientation in every interaction.
+The adversary's function — applied to H₁₂ beings in the rebellion, to H₄₈ beings in Genesis 3, to Job through accusatorial amplification, to Jesus in the temptation narratives — is consistently oriented toward the dissolution direction. "Murderer from the beginning" is not a metaphor for cruelty. It is a structural description of the organizational direction in which the adversarial function operates: every application of the lie, every accusatorial amplification, every temptation to overdeterminate self-assertion at H₄₈ scale, is a push in the direction of organizational dissolution. The adversary is constitutively oriented toward the terminal direction, and its operation on H₄₈ beings applies that orientation in every interaction.
 
 ---
 
@@ -271,7 +271,7 @@ The Job dynamic — adversary present in divine assembly, reading H₄₈ beings
 
 **Why John 8:44 is constitutive.** The traditional reading of "father of lies" is behavioral — the devil lies because lying serves its purposes. The framework shows it is constitutive: the overdeterminate condition that is the direct structural consequence of the rebellion generates organizational states that cannot transmit coherent eigenvalue content. The lying is not strategic; it is the native expression of an organizational state that no longer has the eigenstate coherence that truth-expression requires. This makes "when he lies, he speaks his native language" structurally precise rather than rhetorically emphatic.
 
-**Why the accusatorial function in Job is not arbitrary.** Prior accounts find the adversary's role in Job theologically awkward: why does God entertain the challenge? The framework supplies the structural logic: the adversary has genuine H₁-origin perceptual access to H₄₈ organizational states; the question it raises about Job is a genuine structural question about the depth of Job's Φ-orientation; the contest is the structural test of whether that orientation is genuinely constitutive or merely H₄₈-outcome-conditional. The adversary's function is real and its probe is accurate; what is false is its implicit claim that H₄₈ noise-floor content, fully applied, determines organizational identity. Job's structural achievement is precisely that it demonstrates the claim is false.
+**Why the accusatorial function in Job is not arbitrary.** Prior accounts find the adversary's role in Job theologically awkward: why does God entertain the challenge? The framework supplies the structural logic: the adversary has genuine higher-native (H₁₂) perceptual access to H₄₈ organizational states; the question it raises about Job is a genuine structural question about the depth of Job's Φ-orientation; the contest is the structural test of whether that orientation is genuinely constitutive or merely H₄₈-outcome-conditional. The adversary's function is real and its probe is accurate; what is false is its implicit claim that H₄₈ noise-floor content, fully applied, determines organizational identity. Job's structural achievement is precisely that it demonstrates the claim is false.
 
 ---
 
@@ -285,7 +285,7 @@ The rebellion is, at its structural core, suicide.
 
 This reframes the lie at its deepest level. The promise — "you will be like the Most High," "your eyes will be opened," "you will not certainly die" — is the specific misidentification that disguises self-annihilation as self-elevation. The most radical possible act of self-destruction is presented as the ultimate act of self-actualization. The lie is not merely false; it is the precise inversion of the truth about what the act is.
 
-When the adversary operates on other beings — H₁-origin angels in the rebellion, H₄₈ beings in the garden — what it propagates is the same move: the specific misidentification that makes self-annihilation appear to be liberation. The "murder" is teaching others to do to themselves what it already did to itself. Not a predator hunting prey, but a destroyed being propagating its own destruction — the only thing it now has to offer.
+When the adversary operates on other beings — H₁₂ angels in the rebellion, H₄₈ beings in the garden — what it propagates is the same move: the specific misidentification that makes self-annihilation appear to be liberation. The "murder" is teaching others to do to themselves what it already did to itself. Not a predator hunting prey, but a destroyed being propagating its own destruction — the only thing it now has to offer.
 
 This also resolves the theodicy question about divine permission. There is nothing external requiring intervention: the adversary is already its own consequence. Its operation on H₄₈ beings is not the imposition of an external harm. It is the offer of the same choice, to beings who have free will to accept or decline. The offer is real. The claim embedded in the offer is false. The consequence follows from the acceptance by the logic of what the acceptance is — not by divine punishment imposed afterward, but by the structure of the act itself.
 
@@ -339,7 +339,7 @@ The thief and the suicide are the two structural limit cases, illuminating the s
 
 ## Why imposition is a structural error
 
-The rebellion's propagation mechanism contains a structural tell that is easy to miss: the adversary could not compel the H₁-origin beings to follow. It could only persuade them. From the highest H₁-origin position, operating on beings of the same constraint level, with full H₁-origin perceptual access to their organizational states — it still had to present a lie and wait for beings to accept it. The temptation of Jesus (Matt 4) is an offer, not a compulsion. Job's organizational constitution cannot be directly altered by adversarial operation; only noise-floor pressure that creates the conditions for the being's own choice.
+The rebellion's propagation mechanism contains a structural tell that is easy to miss: the adversary could not compel the H₁₂ beings to follow. It could only persuade them. From the highest position among the created host, operating on beings of the same constraint level (H₁₂), with full higher-native perceptual access to their organizational states — it still had to present a lie and wait for beings to accept it. The temptation of Jesus (Matt 4) is an offer, not a compulsion. Job's organizational constitution cannot be directly altered by adversarial operation; only noise-floor pressure that creates the conditions for the being's own choice.
 
 This is not a contingent limitation of the adversary's degraded state. It is a structural fact about eigenstate space. You cannot force another being's organizational state into a new configuration by external fiat. You can apply pressure, introduce noise-floor content, present the misidentification about constraints — but the organizational state of the other being can only be moved by that being's own choice, because organizational states are constituted by the being's own eigenvalue population. The target is constitutively unreachable by the means of compulsion.
 
