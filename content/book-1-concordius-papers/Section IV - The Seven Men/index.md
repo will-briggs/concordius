@@ -19,8 +19,8 @@ tags:
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Die before you die, so that when you die, you do not die."*
-> — Rumi, *Masnavi*
+> **"Die before you die, so that when you die, you do not die."**
+> *— Rumi, Masnavi*
 
 </div>
 

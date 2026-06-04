@@ -19,8 +19,8 @@ tags:
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"The Logos is common; but most men live as if they had each a private wisdom."*
-> — Heraclitus, Fragment 2
+> **"The Logos is common; but most men live as if they had each a private wisdom."**
+> *— Heraclitus, Fragment 2*
 
 </div>
 

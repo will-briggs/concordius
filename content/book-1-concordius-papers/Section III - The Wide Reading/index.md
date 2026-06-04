@@ -19,8 +19,8 @@ tags:
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Wisdom is radiant and unfading, and she is easily discerned by those who love her, and is found by those who seek her."*
-> — Wisdom 6:12
+> **"Wisdom is radiant and unfading, and she is easily discerned by those who love her, and is found by those who seek her."**
+> *— Wisdom 6:12*
 
 </div>
 

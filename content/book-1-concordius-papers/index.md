@@ -17,8 +17,8 @@ tags:
 
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
-> *"Not how the world is, is the mystical, but that it is."*
-> — Wittgenstein, *Tractatus Logico-Philosophicus* (6.44)
+> **"Not how the world is, is the mystical, but that it is."**
+> *— Wittgenstein, Tractatus Logico-Philosophicus (6.44)*
 
 </div>
 
