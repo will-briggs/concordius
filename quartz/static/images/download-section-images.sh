@@ -95,7 +95,7 @@ except Exception as e:
 # ─── Book 1 — Concordius Papers individual paper images ────────────────────
 
 dl antonello-jerome-study.jpg \
-  "https://upload.wikimedia.org/wikipedia/commons/1/1d/Antonello_da_Messina_-_St_Jerome_in_his_Study_-_National_Gallery_London.jpg" \
+  "https://uploads4.wikiart.org/images/antonello-da-messina/st-jerome-in-his-study.jpg" \
   "Paper 2: Antonello da Messina - St. Jerome in His Study (c. 1474-75)"
 
 # ─── Book 1 — Concordius Papers section frontispieces ───────────────────────
