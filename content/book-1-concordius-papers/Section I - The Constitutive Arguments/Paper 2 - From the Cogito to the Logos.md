@@ -13,8 +13,8 @@ This paper has two assumptions. The first is the entire content of its companion
 ---
 
 <figure>
-<img src="/static/images/michelangelo-creation-of-adam.jpg" alt="The Creation of Adam" style="max-width:100%;">
-<figcaption><em>Michelangelo, The Creation of Adam</em> (c. 1512). Sistine Chapel, Vatican. The gap between the outstretched fingers is the gap this paper closes: the distance between awareness aware of itself (the Cogito) and the constitutive ground (the Logos) that awareness necessarily implies.</figcaption>
+<img src="/static/images/antonello-jerome-study.jpg" alt="Antonello da Messina, St. Jerome in His Study" style="max-width:100%;">
+<figcaption><em>Antonello da Messina, St. Jerome in His Study</em> (c. 1474–75). National Gallery, London. Jerome's life work was naming: the Vulgate gave Western Christendom its precise Latin terms for what the Greek and Hebrew originals described. Paper 2 performs the analogous operation on the Gelfand triple — finding the correct names for what the mathematics of Paper 1 necessarily entails. The study, the open texts, the act of careful annotation: this is what the paper is.</figcaption>
 </figure>
 
 <hr>

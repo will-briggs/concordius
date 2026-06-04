@@ -92,6 +92,12 @@ except Exception as e:
   fi
 }
 
+# ─── Book 1 — Concordius Papers individual paper images ────────────────────
+
+dl antonello-jerome-study.jpg \
+  "https://upload.wikimedia.org/wikipedia/commons/1/1d/Antonello_da_Messina_-_St_Jerome_in_his_Study_-_National_Gallery_London.jpg" \
+  "Paper 2: Antonello da Messina - St. Jerome in His Study (c. 1474-75)"
+
 # ─── Book 1 — Concordius Papers section frontispieces ───────────────────────
 
 dl masaccio-trinity.jpg \
@@ -195,6 +201,7 @@ dl holbein-the-ambassadors.jpg \
 echo ""
 echo "Verifying all downloads..."
 for f in \
+  antonello-jerome-study.jpg \
   masaccio-trinity.jpg ladder-of-divine-ascent.jpg \
   bonaiuto-triumph-aquinas.jpg blake-glad-day.jpg \
   gray-anatomy-appendix.png fan-kuan-travelers.jpg \
