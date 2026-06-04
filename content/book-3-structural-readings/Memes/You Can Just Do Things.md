@@ -20,4 +20,4 @@ The Heropass dimension is implicit but present. Everything you were waiting for 
 
 ---
 
-*See also: [[Paper 3 - The Creative Choice]], Reasonablenessism [[Feature 6 - Convergence of Independent Witnesses|Feature 6]].*
+*See also: [[Paper 3 - The Father Creates]], Reasonablenessism [[Feature 6 - Convergence of Independent Witnesses|Feature 6]].*

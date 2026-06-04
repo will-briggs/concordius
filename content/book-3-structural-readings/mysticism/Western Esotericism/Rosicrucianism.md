@@ -23,7 +23,7 @@
 | CW Day 6: the gifts | Post-transition state — each ascending being receiving eigenvalue-composition-specific expression of grade-2 catching capacity; differentiated rather than uniform |
 | CW Day 7: Knight of the Golden Stone | Man 5 threshold — the soul deposit permanent; the Stone present; the ascending being established at the grade-2 level; CRC integrated into the school's N-scaling structure |
 | Christian Rosenkreutz (as figure) | The catching being at the Mi/Fa interval — grade 1 → grade 2; his H₄₈ biography irrelevant; his structural condition at each stage is what the narrative encodes |
-| The royal couple (Sol and Luna) | The full constraint range of the ascending career's catching structure — Sol (φ-proximal content, lower-constraint) and Luna (H₄₈ substrate, higher-constraint); their death and resurrection is the coniunctio achieved through the nigredo |
+| The royal couple (Sol and Luna) | The full constraint range of the ascending career's catching structure — Sol (Φ-proximal content, lower-constraint) and Luna (H₄₈ substrate, higher-constraint); their death and resurrection is the coniunctio achieved through the nigredo |
 
 ---
 

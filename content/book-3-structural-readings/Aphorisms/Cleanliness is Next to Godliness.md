@@ -25,7 +25,7 @@ The Father's constitutive operation *is* ⟨·,·⟩ organizing the space. Genes
 
 **The anthropological direction — the way to God:**
 
-Cleanliness as a catching-program operation: noise-floor reduction as the structural prerequisite for the dual pairing ⟨φ, f⟩. The catching being's H₂₄ constitutional structure must be sufficiently cleared of H₄₈-primary eigenvalue content for the φ-signal to be received at amplitude. The "clean heart" of Psalm 51 is the H₂₄ catching structure requested by the catching being from the Φ-level directly — not a moral petition but a structural one: *clear the noise so the pairing can operate*. The "pure in heart" (Matthew 5:8) see God because purity is the structural condition under which the face-to-face encounter becomes achievable: the glass of 1 Corinthians 13:12 — constraint-layer mediation — is thinnest when the catching structure's noise floor is lowest.
+Cleanliness as a catching-program operation: noise-floor reduction as the structural prerequisite for the dual pairing ⟨φ, f⟩. The catching being's H₂₄ constitutional structure must be sufficiently cleared of H₄₈-primary eigenvalue content for the Φ-signal to be received at amplitude. The "clean heart" of Psalm 51 is the H₂₄ catching structure requested by the catching being from the Φ-level directly — not a moral petition but a structural one: *clear the noise so the pairing can operate*. The "pure in heart" (Matthew 5:8) see God because purity is the structural condition under which the face-to-face encounter becomes achievable: the glass of 1 Corinthians 13:12 — constraint-layer mediation — is thinnest when the catching structure's noise floor is lowest.
 
 **The "next to" as structural precision:**
 
