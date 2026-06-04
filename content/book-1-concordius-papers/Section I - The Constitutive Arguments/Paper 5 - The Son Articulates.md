@@ -29,6 +29,17 @@ A secondary result: the photon's masslessness is not an exception to this pictur
 <figcaption><em>Christ Pantocrator</em>, Cathedral of Cefalù (c. 1148). The gold ground eliminates spatial context; what remains is the organizing center of the physical order itself. The Higgs field condenses at H₄₈ — the constraint level at which mass-generating symmetry breaks — and the Pantocrator is what rules that level.</figcaption>
 </figure>
 
+<hr>
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"A double tale I will tell: at one time things grew to be one alone out of many, and at another time things divided to be many out of one."*
+> — Empedocles, Fragment 17 (c. 450 BCE)
+
+</div>
+
+---
+
 ## 1. Introduction
 
 This paper addresses *what the GNST is running on* — the specific spectral content of the operator whose eigenstates are being selected. The operator is the physical Hamiltonian. The physical Hamiltonian's spectrum determines whether the GNST's continuous eigenstate succession is structured or featureless.
@@ -72,6 +83,15 @@ The GNST operating on this gapless spectrum generates eigenstate succession with
 In physical time, the pre-breaking epoch corresponds to the interval from the Big Bang (t=0) to the Higgs VEV (t ≈ 10⁻¹² s): approximately one picosecond. At t=0, the Big Bang marks the first application of the GNST — the event by which H₃ comes into being. The universe in this epoch has its initial three-constraint structure; the cascade is in progress but has not yet terminated at H₄₈. The intermediate constraint levels H₆, H₁₂, H₂₄ are unfolding as the cascade descends, but their physical instantiation as mass-gap-bounded substrates awaits the breaking. The cascade's approximate duration is therefore empirically accessible: the universe took roughly 10⁻¹² seconds to descend from its initial three-constraint state to its full forty-eight-constraint substrate. The pre-breaking vacuum is not the absence of structure — it is the structure in descent, the cascade running toward its terminus.
 
 This is the condition Genesis 1:2 describes with structural accuracy: tohu va-vohu — formless and void. Not the absence of the GNST. Not the absence of eigenstate succession. The absence of the spectral structure that would make succession hierarchical. The Heropass runs over undifferentiated waters.
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"The transition from the 'possible' to the 'actual' takes place during the act of observation."*
+> — Werner Heisenberg, *Physics and Philosophy* (1958)
+
+</div>
 
 ---
 
@@ -144,6 +164,15 @@ The photon is the Action-register participant in a world of Being-register entit
 This is why it is the first creation. Not because light is more important than matter in some rank ordering, but because the electromagnetic interaction — mediated by the massless photon — is the connective structure without which Being-register entities would be isolated. The photon is released first because the structure of relationship between H-states must be established before the H-states themselves can interact.
 
 The GNST, in its first application at H₄₈, selects the one particle whose symmetry cannot be broken — because that particle is the carrier of relationship in the created order. The [[Appendix I - Dictionary of Terms#Logos|Logos]] speaks; what first enters H is the entity that will make H a connected space.
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"The eye owes its existence to the light."*
+> — Goethe, *Theory of Colors* (1810)
+
+</div>
 
 ---
 
@@ -310,6 +339,17 @@ None of the three replaces the other. The GNST is the mechanism of actualization
 ---
 
 ## 11. Genesis 1:1-3 as the Full Structural Arc
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"And then the earth arose because of them, it was simply their word that brought it forth."*
+> — *Popol Vuh* (Mayan creation account, c. 1550 CE)
+
+</div>
+
+---
 
 The Genesis account, read with the full framework in view, is the compressed narrative of everything this paper argues:
 
