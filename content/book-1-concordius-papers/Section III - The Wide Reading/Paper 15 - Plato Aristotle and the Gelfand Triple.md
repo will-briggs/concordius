@@ -18,6 +18,17 @@ The dispute between Plato and Aristotle on the nature of the Forms has remained 
 <figcaption><em>Bust of Plato</em>, after Silanion (c. 370 BCE). Capitoline Museums, Rome. The dispute encoded in this face and Aristotle's (Paper 17) has run for 2,400 years without resolution — because neither philosopher possessed the mathematical structure required to state what both were perceiving correctly. That structure is the Gelfand triple Φ ⊂ H ⊂ Φ'. The paper shows both positions are simultaneously right and simultaneously partially wrong — resolvable, not by choosing, but by identifying the precise structure within which both are partial views.</figcaption>
 </figure>
 
+<hr>
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"The Good gives to all knowable things their power of being known, and to itself their being, though the Good itself is not being but beyond being, surpassing it in dignity and power."*
+> — Plato, *Republic* 509b
+
+</div>
+
+---
+
 ## 1. Two and a Half Millennia of Stalemate
 
 The dispute is ancient and the positions are clear. Plato holds that the Forms — perfect, eternal, unchanging archetypes — are the primary reality. The beautiful face is beautiful by participating in the Form of Beauty; the just act is just by participating in the Form of Justice; and these Forms would be what they are whether or not any particular beautiful face or just act existed. The philosopher's task is to turn the soul from the transient appearances of [[Appendix I - Dictionary of Terms#H₄₈|H₄₈]] existence toward the eternal realities of the Forms, and ultimately toward the Form of the Good that illuminates all others.
@@ -139,6 +150,15 @@ The Prime Mover is not self-enclosed. Aristotle's Unmoved Mover (νοῦς νο�
 
 ---
 
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"Amicus Plato, amicus Aristoteles, sed magis amica veritas."*
+> — attributed to Newton's student notebook (after Aristotle)
+
+</div>
+
+---
+
 ## 8. The Synthesis
 
 The dispute has lasted 2,400 years because the two positions have been treated as mutually exclusive. The framework shows they are not — they are perspectives on the same real structure from different angles.
@@ -221,6 +241,17 @@ Aristotle defines virtue (ἀρετή) as a stable disposition (ἕξις) of ch
 In framework terms: a virtue is a stable [[Appendix I - Dictionary of Terms#H₂₄|H₂₄]] eigenvalue orientation — an accumulated catching deposit that consistently biases the being's volitional responses toward the Φ-proximate configuration in a given domain of activity. The mean is not arithmetic but spectral: the eigenvalue cluster that constitutes courage is neither the H₄₈-primary self-preserving avoidance cluster (cowardice) nor the H₄₈-primary aggressive assertion cluster (rashness), but the Φ-proximate attractor in the domain of fearful situations — the response that is organized by ⟨·,·⟩ rather than by H₄₈-primary fear or aggression.
 
 The virtues are not rules or habits in the H₄₈-primary sense. They are accumulated Φ-proximal eigenvalue deposits — the stable eigenstates toward which the virtuous person's responses are reliably oriented. Virtue formation (habituation in Aristotle's account) is eigenvalue accumulation through repeated catching in the relevant domain. The virtuous person's response to fearful situations is not calculated; it flows from the Φ-proximal deposit that has been accumulated through repeated courageous catching. The response is natural to the virtuous person because their eigenvalue population is stably oriented toward the Φ-proximate attractor in that domain.
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"This intellect is separable, unmixed, impassable, and by its own nature is actuality."*
+> — Aristotle, *De Anima* III.5
+
+</div>
+
+---
 
 ### 11.3 The Active Intellect as Thought Adjuster
 
