@@ -4,6 +4,13 @@
 
 ---
 
+<figure>
+<img src="/static/images/friedrich-wanderer.jpg" alt="Caspar David Friedrich, Wanderer above the Sea of Fog" style="max-width:100%;">
+<figcaption><em>Caspar David Friedrich, Wanderer above the Sea of Fog</em> (c. 1818). Kunsthalle Hamburg. The wanderer stands on the summit he has climbed — the ascent complete — and faces a sea of fog whose far country is not yet crossed. The image traces the Si/Do juncture: the height the text can reach, and the journey beyond it that only the reader can begin.</figcaption>
+</figure>
+
+<hr>
+
 We are at the Si/Do juncture.
 
 The text has built, across thirty-one papers, the full structural apparatus: the Gelfand triple; the Laws of Three and Seven; the truth measure; the holographic content principle; the Incarnation derived mechanically; the case studies demonstrating the method across philosophical, literary, musical, and theological texts; the ascending career from the first Adjuster assignment to Man 7; and the historical octave placed, precisely, in the Si/Do interval of its own Heptaparaparshinokh.
