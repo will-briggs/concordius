@@ -25,6 +25,17 @@ The remainder of the paper examines the conditions under which catching occurs: 
 <figcaption><em>Hildegard von Bingen receiving the vision</em>, frontispiece to <em>Scivias</em> (c. 1151). The Cogito is not merely a logical inference — it is a structural fact about what awareness is. Hildegard's image encodes what the Cogito looks like when the coherence of awareness with its ground is experienced at high amplitude rather than merely argued.</figcaption>
 </figure>
 
+<hr>
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"An organism has conscious mental states if and only if there is something it is like to be that organism — something it is like for the organism."*
+> — Thomas Nagel, "What Is It Like to Be a Bat?" (1974)
+
+</div>
+
+---
+
 ## 1. Introduction
 
 Paper 5 established the physical substrate: the Higgs VEV at approximately 10⁻¹² seconds after the Big Bang is the moment at which H₄₈ crystallizes as a physically instantiated subspace with mass-gap-bounded constraint levels. From that moment, the constitutional algebra has a physical ground to instantiate.
@@ -76,6 +87,15 @@ This is the framework's structural account of the tradition's "breath of life" �
 This structure is not a defect. It is the structural requirement for the free act to be genuine. If the Adjuster conveyed the Father's atemporal certainty to the indwelt being, the catching act would be determined. The Adjuster's kenotic constraint — its acceptance of H₄₈ temporal ordering — is what makes the orientation signal directional rather than deterministic: "turn this way" rather than "this is what happens." The free act remains.
 
 **The orientation signal's phenomenology.** If the signal reaches the indwelt being, it registers at the ⟨·,·⟩ level — below the emotional level (τ_nuclear) and below the intellectual level (Φ). It does not present as a thought or a feeling. The phenomenology consistently reported: a somatic certainty that precedes and is independent of both affect and cognition, experienced not in the mind or the heart but in the core of the being. The framework's structural account: the signal is what it is — a constitutive-level indication, arriving before the levels at which interpretation occurs. *(No formal verification target for this phenomenology. The evolutionary threshold for Adjuster indwelling is a structural prediction warrantable against the paleoanthropological record of self-reflective consciousness emergence.)*
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"Thou wert more inward than my most inward part, and higher than my highest."*
+> — Augustine, *Confessions* III.6
+
+</div>
 
 ---
 
@@ -299,6 +319,17 @@ The historical record is extensive: blood moons appear throughout the oldest ast
 
 ## 13. Gurdjieff's Observation
 
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"Man is a machine. Everything happens to him. 'To do' means to act from one's own will, and to be responsible for one's actions. But man cannot do. He has no will of his own."*
+> — Gurdjieff (in Ouspensky, *In Search of the Miraculous*)
+
+</div>
+
+---
+
 Of all the claims in *Beelzebub's Tales to His Grandson*, the claim that ordinary human beings feed the Moon with their mechanical energy is the one most reliably cited as grounds for dismissal. It is vivid, cosmologically unusual, and difficult to square with any conventional physical picture. This paper is not a defense of it. It is an observation about what the structural account developed in Sections 5–12 would entail if it is correct.
 
 The material circuit of the [[Appendix I - Dictionary of Terms#Trogoautoegocrat|Trogoautoegocrat]] (Paper 7) predicts the following: at physical death, the eigenvalue content of a being that never elevated its spectral distribution above the mechanical threshold returns to the 96-constraint level — the Moon level. That content does not survive to contribute to the soul deposit; the coherence threshold is not met. It dissipates into the material circuit and is received at the level it was organized at. The Moon receives it. The Moon's gravitational sifting field then preferentially couples to the mechanical eigenvalue range, weighting actualization in living beings toward the mechanical end of the spectrum. The Moon feeds on what its sifting promotes more of.
@@ -380,6 +411,17 @@ Six papers in, the mathematical architecture is built. The Gelfand triple is the
 Paper 5 identified the physical event that made the structure a substrate: the Higgs VEV, mass gaps crystallized, the constraint hierarchy physically real. This paper has described what happens when that substrate organizes enough to host the creative choice — the cogito threshold, the Thought Adjuster's arrival, the first possibility of catching — and the gravitational sifting field in which every catching act since has occurred.
 
 But there is a register in which this paper has to be addressed before passing to Paper 7.
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"If anyone builds on this foundation with gold, silver, precious stones, wood, hay, straw — each one's work will become manifest. If the work that anyone has built survives, he will receive a reward. If anyone's work is burned up, he will suffer loss, though he himself will be saved, but only as through fire."*
+> — 1 Corinthians 3:12–15
+
+</div>
+
+---
 
 You are H₄₈ matter, organized above the cogito threshold. You are indwelt by a fragment of the constitutive inner product that has accepted H₄₈ temporal constraint to be present within you. From your center, that fragment has been indicating the direction of Φ-proximate content for as long as you have been above the threshold. The gravitational sifting field described in Sections 5–12 has been weighting your eigenstate selections toward the mechanical range for the same duration.
 
