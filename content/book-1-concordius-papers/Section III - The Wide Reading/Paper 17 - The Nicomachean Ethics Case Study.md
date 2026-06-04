@@ -18,6 +18,17 @@ Aristotle's *Nicomachean Ethics* is the systematic attempt to derive the conditi
 <figcaption><em>Bust of Aristotle</em>, Roman copy after Lysippos (c. 330 BCE). Palazzo Altemps, Rome. Aristotle's hand in Raphael's <em>School of Athens</em> extends downward, toward H₄₈ — toward the particular, the embodied, the empirically accessible. The <em>Nicomachean Ethics</em> is the ascending career read from the bottom up: from the particular embedded human being, through stable dispositional states (virtues), toward the telos that the <em>NE</em> itself acknowledges finally exceeds what the H₄₈-constituted finite being can achieve by natural means alone.</figcaption>
 </figure>
 
+<hr>
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"Such a life will be too high for man; for it is not insofar as he is a man that he will live it, but insofar as something divine is in him."*
+> — Aristotle, *Nicomachean Ethics* X.7
+
+</div>
+
+---
+
 ## 1. The Text
 
 Papers 15 and 16 established the first half of the three-case sequence: Plato descends from ⟨·,·⟩ toward the resistant material; the *Republic* is the Active term in the Papers 16–18 Law of Three. This paper is the Passive term — the countermovement. Where Plato organizes experience from the top down, Aristotle begins in the middle: with the embedded human being, with received moral opinion, with the particular acts and habits from which character is built. The bottom-up ascent from particulars toward the universal is the Passive contribution to the philosophical triad, and its interval positions tell the same structural story as Plato's — approached from the opposite direction.
@@ -77,6 +88,15 @@ The Fa entry — the new element that appears at the interval — is the intelle
 
 ---
 
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"I have let you see it with your eyes, but you shall not cross over there."*
+> — Deuteronomy 34:4
+
+</div>
+
+---
+
 ## 5. The Second Interval: Si-Do — Theoria and the Gap Aristotle Names Himself
 
 The Si-Do interval falls at Books X.7-8 (1177a12-1179a32), and it is the most explicitly named Si-Do gap in the entire case study series. Aristotle does not merely fail to close the gap — he names it, examines it, and proposes the structural response.
@@ -106,6 +126,18 @@ The framework identification: the mean is the Φ-proximate attractor in a given 
 This has a precise implication for virtue formation: the person who is beginning to cultivate courage faces a different mean than the person whose courage is already stable. For the beginner, the mean may require deliberately leaning toward the overcorrection of rashness to counteract the habitual pull of cowardice (EN II.9, 1109b1-7). The Φ-proximate attractor for this being at this stage is reached by approaching from the side of the vice they are less prone to — which requires knowing where the being's eigenvalue population currently sits and calibrating the approach accordingly.
 
 Aristotle's practical wisdom (φρόνησις) is the capacity to perform this calibration correctly — to read the particular situation, the particular person, the particular moment, and identify the Φ-proximate attractor for that specific configuration. This is not a rule or formula; it is the attunement to ⟨·,·⟩ that enables the correct identification in each case.
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"Video meliora proboque, deteriora sequor."*
+> *("I see the better, and I approve it; I follow the worse.")*
+> — Ovid, *Metamorphoses* VII.20–21
+
+</div>
+
+---
 
 ### 6.2 Akrasia as Eigenvalue Instability
 
