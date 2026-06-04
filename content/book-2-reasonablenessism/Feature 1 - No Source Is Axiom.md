@@ -4,7 +4,16 @@
 
 ---
 
-***No source is axiom. All are evidence.***
+<figure>
+<img src="/static/images/feature-01-vermeer-balance.jpg" alt="Johannes Vermeer, Woman Holding a Balance" style="max-width:100%;">
+<figcaption><em>Johannes Vermeer, Woman Holding a Balance</em> (c. 1664). National Gallery of Art, Washington. The balance hangs empty and level before anything is set on it — each claim weighed on its own, nothing privileged in advance of the weighing.</figcaption>
+</figure>
+
+---
+
+**No source is axiom. All are evidence.**
+
+---
 
 *Everything that presents itself as knowledge is a witness to be weighed, not a foundation to be accepted or overthrown. A source's value comes from its independence and from how well it converges with what can be derived by other means. The question is never who said this. It is always: is this true.*
 

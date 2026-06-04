@@ -6,7 +6,16 @@
 
 ---
 
-***Follow the argument as far as it goes. When it stops, name where it stops and shift methods.***
+<figure>
+<img src="/static/images/feature-10-carta-marina.jpg" alt="Olaus Magnus, Carta Marina" style="max-width:100%;">
+<figcaption><em>Olaus Magnus, Carta Marina</em> (1539). The charted coast gives way to sea-monsters at its margins — a map that marks exactly where reliable knowledge ends and another method must take over.</figcaption>
+</figure>
+
+---
+
+**Follow the argument as far as it goes. When it stops, name where it stops and shift methods.**
+
+---
 
 *Derivation is the most powerful tool available for reaching certainty. But it runs out — and the questions most worth asking lie beyond where it runs out. The honest practitioner names the boundary between what has been derived and what has been reached through other means. The boundary does not discredit what lies on the other side. It says, honestly, how it was reached.*
 

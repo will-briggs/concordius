@@ -6,7 +6,16 @@
 
 ---
 
-***Reasonablenessism applies to itself. No feature is exempt.***
+<figure>
+<img src="/static/images/feature-04-las-meninas.jpg" alt="Diego Velázquez, Las Meninas" style="max-width:100%;">
+<figcaption><em>Diego Velázquez, Las Meninas</em> (1656). Museo del Prado. The painter paints himself painting the scene, and the far mirror shows what the canvas faces — the work turned back upon itself.</figcaption>
+</figure>
+
+---
+
+**Reasonablenessism applies to itself. No feature is exempt.**
+
+---
 
 *An epistemology that exempts its own foundations from scrutiny is special-pleading at the most fundamental level. Every feature is subject to honest examination by the other features. If any feature overclaims, fails the steelman, or requires an unexplained assumption when examined honestly, that is grounds for revision — not defense.*
 

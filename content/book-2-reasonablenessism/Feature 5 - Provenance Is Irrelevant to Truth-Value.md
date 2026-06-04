@@ -6,7 +6,16 @@
 
 ---
 
-***Where something comes from does not determine whether it is true.***
+<figure>
+<img src="/static/images/feature-05-moneylender.jpg" alt="Quentin Matsys, The Moneylender and His Wife" style="max-width:100%;">
+<figcaption><em>Quentin Matsys, The Moneylender and His Wife</em> (1514). Musée du Louvre. The coin is weighed for its gold, not for whose hand passed it — value read from the content, never from the provenance.</figcaption>
+</figure>
+
+---
+
+**Where something comes from does not determine whether it is true.**
+
+---
 
 *Strange provenance calls for heightened scrutiny — not for dismissal. Credentialed provenance calls for honest scrutiny — not for deference. A claim from an unlikely source that passes rigorous scrutiny is stronger evidence than a claim from a credentialed source that hasn't been tested.*
 

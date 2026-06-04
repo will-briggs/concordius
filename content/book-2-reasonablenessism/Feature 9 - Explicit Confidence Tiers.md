@@ -6,7 +6,16 @@
 
 ---
 
-***Label what you know by how you know it.***
+<figure>
+<img src="/static/images/feature-09-great-chain-of-being.png" alt="The Great Chain of Being (Diego Valadés, 1579)" style="max-width:100%;">
+<figcaption><em>The Great Chain of Being</em>, from Diego Valadés, <em>Rhetorica Christiana</em> (1579). Every rung named and set in order, mineral to angelic — knowledge held in explicit tiers, each labeled by its kind and degree.</figcaption>
+</figure>
+
+---
+
+**Label what you know by how you know it.**
+
+---
 
 *Logical derivations, convergent evidence, and personal testimony are different kinds of warrant. They deserve different kinds of confidence. The honest thinker keeps them clearly labeled. Collapsing them into one register — presenting everything with the same certainty — is a form of intellectual dishonesty, even when it makes the argument feel stronger.*
 

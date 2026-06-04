@@ -6,7 +6,16 @@
 
 ---
 
-***Independent convergence accumulates.***
+<figure>
+<img src="/static/images/feature-06-pentecost.jpg" alt="El Greco, The Pentecost" style="max-width:100%;">
+<figcaption><em>El Greco, The Pentecost</em> (c. 1600). Museo del Prado. Separate figures each receive the same descending flame — witnesses who could not have agreed in advance, converging on one source.</figcaption>
+</figure>
+
+---
+
+**Independent convergence accumulates.**
+
+---
 
 *When sources that could not have learned it from each other arrive at the same structure independently, that convergence is evidence. The more independent the witnesses and the more structural the similarity — not just similar words but the same underlying pattern — the stronger the evidence. This is how courts evaluate testimony and how science validates findings.*
 

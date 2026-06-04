@@ -6,7 +6,16 @@
 
 ---
 
-***When comparing accounts, prefer the one requiring fewer unexplained events.***
+<figure>
+<img src="/static/images/feature-11-william-of-ockham.jpg" alt="William of Ockham" style="max-width:100%;">
+<figcaption><em>William of Ockham</em>, manuscript illustration from his <em>Summa logicae</em> (1341). The namesake of the razor: among competing accounts, prefer the one requiring the fewest unexplained entities.</figcaption>
+</figure>
+
+---
+
+**When comparing accounts, prefer the one requiring fewer unexplained events.**
+
+---
 
 *This does not mean eliminating mystery — both accounts may require mysteries. But unnecessary mysteries mark against the account that requires them. The simpler explanation is preferred provisionally, always with one eye on what would force revision.*
 

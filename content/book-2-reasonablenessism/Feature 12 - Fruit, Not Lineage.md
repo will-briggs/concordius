@@ -6,7 +6,16 @@
 
 ---
 
-***Evaluate by what it produces, not where it came from.***
+<figure>
+<img src="/static/images/feature-12-basket-of-fruit.jpg" alt="Caravaggio, Basket of Fruit" style="max-width:100%;">
+<figcaption><em>Caravaggio, Basket of Fruit</em> (c. 1599). Pinacoteca Ambrosiana, Milan. The fruit is judged by what hangs in the basket — some of it already spotting and turning — not by the vine it came from.</figcaption>
+</figure>
+
+---
+
+**Evaluate by what it produces, not where it came from.**
+
+---
 
 *A framework is evaluated by whether it maps accurately onto independently verifiable reality, generates predictions that come true, and makes sense of what otherwise doesn't. Not by who endorses it, how old it is, or what the people associated with it have done otherwise. The genealogy of an idea is not its warrant.*
 

@@ -200,6 +200,57 @@ dl holbein-the-ambassadors.jpg \
   "https://upload.wikimedia.org/wikipedia/commons/8/88/Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg" \
   "Book 3: Holbein - The Ambassadors (1533)"
 
+# ─── Book 2 — Reasonablenessism feature images ──────────────────────────────
+
+dl feature-01-vermeer-balance.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20Vermeer%20-%20Woman%20Holding%20a%20Balance%20-%20Google%20Art%20Project.jpg" \
+  "Feature 1: Vermeer - Woman Holding a Balance (c.1664)"
+
+dl feature-02-forge-of-vulcan.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%20-%20The%20Forge%20of%20Vulcan%20-%20WGA24376.jpg" \
+  "Feature 2: Velázquez - The Forge of Vulcan (1630)"
+
+dl feature-03-incredulity-of-thomas.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Incredulity%20of%20Saint%20Thomas-Caravaggio%20%281601-2%29.jpg" \
+  "Feature 3: Caravaggio - Incredulity of St Thomas (c.1602)"
+
+dl feature-04-las-meninas.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Las%20Meninas%2001.jpg" \
+  "Feature 4: Velázquez - Las Meninas (1656)"
+
+dl feature-05-moneylender.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Massysm%20Quentin%20%E2%80%94%20The%20Moneylender%20and%20his%20Wife%20%E2%80%94%201514.jpg" \
+  "Feature 5: Matsys - The Moneylender and his Wife (1514)"
+
+dl feature-06-pentecost.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20The%20Pentecost%20-%20WGA10533.jpg" \
+  "Feature 6: El Greco - Pentecost (c.1600)"
+
+dl feature-07-ouroboros.png \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Ouroboros.png" \
+  "Feature 7: Ouroboros (Pelecanos, 1478)"
+
+dl feature-08-air-pump.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/An%20Experiment%20on%20a%20Bird%20in%20an%20Air%20Pump%20by%20Joseph%20Wright%20of%20Derby%2C%201768.jpg" \
+  "Feature 8: Wright of Derby - Air Pump (1768)"
+
+dl feature-09-great-chain-of-being.png \
+  "https://upload.wikimedia.org/wikipedia/commons/b/b5/Great_Chain_of_Being_2.png" \
+  "Feature 9: Great Chain of Being (Valadés, 1579)"
+
+dl feature-10-carta-marina.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Carta%20Marina.jpeg" \
+  "Feature 10: Carta Marina (Olaus Magnus, 1539)"
+
+dl feature-11-william-of-ockham.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/William%20of%20Ockham%20-%20Logica%20-%201341.jpg" \
+  "Feature 11: William of Ockham (1341 MS)"
+
+dl feature-12-basket-of-fruit.jpg \
+  "https://uploads3.wikiart.org/images/caravaggio/basket-of-fruit.jpg!HD.jpg" \
+  "Feature 12: Caravaggio - Basket of Fruit (1599)"
+
+
 # ─── Verification ────────────────────────────────────────────────────────────
 
 echo ""
@@ -216,7 +267,8 @@ for f in \
   van-eyck-mystic-lamb.jpg durer-melancholia.jpg \
   durer-praying-hands.jpg bruegel-tower-of-babel.jpg \
   rembrandt-two-old-men-disputing.jpg holbein-the-ambassadors.jpg \
-  friedrich-monk-by-the-sea.jpg; do
+  friedrich-monk-by-the-sea.jpg \
+  feature-01-vermeer-balance.jpg feature-02-forge-of-vulcan.jpg feature-03-incredulity-of-thomas.jpg feature-04-las-meninas.jpg feature-05-moneylender.jpg feature-06-pentecost.jpg feature-07-ouroboros.png feature-08-air-pump.jpg feature-09-great-chain-of-being.png feature-10-carta-marina.jpg feature-11-william-of-ockham.jpg feature-12-basket-of-fruit.jpg; do
   check_image "$f"
 done
 

@@ -6,7 +6,16 @@
 
 ---
 
-***Personal experience is evidence. It is not proof.***
+<figure>
+<img src="/static/images/feature-03-incredulity-of-thomas.jpg" alt="Caravaggio, The Incredulity of Saint Thomas" style="max-width:100%;">
+<figcaption><em>Caravaggio, The Incredulity of Saint Thomas</em> (c. 1601–2). Sanssouci, Potsdam. Thomas's finger in the wound: first-hand experience is genuine evidence — direct and undeniable to him — but it remains one witness's testimony, not proof.</figcaption>
+</figure>
+
+---
+
+**Personal experience is evidence. It is not proof.**
+
+---
 
 *The felt sense that something is true — in meditation, in clarity, in the moment a claim lands — is genuine evidence. Dismissing it entirely is as much an error as treating it as decisive. It belongs in the weighing, labeled for what it is: one witness among many, evaluated accordingly.*
 
