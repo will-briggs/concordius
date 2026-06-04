@@ -4,32 +4,16 @@ tags:
   - nav-order::2
 ---
 
-<figure>
-<img src="/static/images/masaccio-trinity.jpg" alt="Masaccio, The Trinity" style="max-width:100%;">
-<figcaption><em>Masaccio, The Trinity</em> (c. 1427–28). Fresco, Santa Maria Novella, Florence. The only painting in the Western tradition where Father, Son, Spirit, and human figure are arranged in geometrically exact perspective — the structure of the Gelfand triple rendered visible. The Father is the ground above; the Son hangs between; the human figure kneels below in the H₄₈ frame. The structure is not a metaphor. It is a map.</figcaption>
-</figure>
-
 # Section I — The Constitutive Arguments
 
 *Papers 1–7½*
 
 ---
 
-There is a question prior to all the other questions.
-
-Not "what exists?" — that is already too late. Not "how did things come to be?" — that assumes a framework in which causation is already available. The question prior to all questions is: *why is there something structured rather than nothing uniform?*
-
-The first seven papers of this series — and a companion paper, 7½, that the kenotic derivation of Paper 7 requires — are an attempt to answer that question with the precision it demands and the honesty it requires.
-
-The answer is not simple, but it is exact. The primary assumption of this series is simple enough: Reality has the structure of a Gelfand triple, defined as a nuclear space dense in a Hilbert space, embedded in a dual that contains everything the nuclear space cannot finitely represent. The Father is the inner product — the constitutive relation that makes the structure possible. The Son is the nuclear space — the Logos, the principle of articulation, the Person through whom all H-states are constituted. Finite beings are the Hilbert space vectors — held in the inner product, constituted by the Logos, aiming toward a completion the finite state cannot generate but the structure makes possible.
-
-This is not a metaphor. The Gelfand triple is mathematics. The mapping is structural, not figurative. The inner product ⟨·,·⟩ either is or is not the constitutive relation of reality. The argument for the identification is what these seven papers are.
-
-Paper 1 establishes the mathematical ground. Paper 2 argues from the undeniable fact of consciousness through the Logos to the identity of the Son and makes the primary identification. Paper 3 derives what the Creative Choice had to be, given what precedes it. Paper 4 shows how the descent from Φ into H works mechanically — descent as densification, the incarnation principle as structure rather than event. Paper 5 identifies the physical terminus of the constraint cascade: the Higgs VEV, the event by which H₄₈ crystallizes as a physically instantiated substrate with mass-gap-bounded constraint levels — the constitutional enabling condition of the ascending career. Paper 6 asks what happens when the H₄₈ substrate organizes enough to host the first catching being — derives the cogito threshold, introduces the Thought Adjuster, and defines catching formally for the first time, then examines the gravitational sifting environment the catching being inherits. Paper 7 establishes the structural basis of the Trogoautoegocrat: the self-sustaining circuit of Creator descent and creature ascent that answers the Heropass across cosmic time.
-
-By the end of Paper 7½, the framework is built. Everything that follows — the operations, the case studies, the historical reading, the epistemological reckoning — is application and demonstration. But the building comes first. These are the constitutive arguments. They either hold or they don't. Read them accordingly.
-
----
+<figure>
+<img src="/static/images/masaccio-trinity.jpg" alt="Masaccio, The Trinity" style="max-width:100%;">
+<figcaption><em>Masaccio, The Trinity</em> (c. 1427–28). Fresco, Santa Maria Novella, Florence. The only painting in the Western tradition where Father, Son, Spirit, and human figure are arranged in geometrically exact perspective — the structure of the Gelfand triple rendered visible. The Father is the ground above; the Son hangs between; the human figure kneels below in the H₄₈ frame. The structure is not a metaphor. It is a map.</figcaption>
+</figure>
 
 ## Summary of Contents
 

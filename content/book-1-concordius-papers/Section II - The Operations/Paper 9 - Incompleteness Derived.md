@@ -206,6 +206,15 @@ G is structurally located at the boundary: it is an H₄₈ statement about the 
 
 ---
 
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"Go not outside, return into yourself. In the interior man dwells truth."*
+> — Augustine, *De Vera Religione* §39.72
+
+</div>
+
+---
+
 ## 9. The Lucas-Penrose Connection: Catching as Mathematical Intuition
 
 J.R. Lucas (1961) and Roger Penrose (1989, 1994) argued that Gödel's theorem proves human minds cannot be equivalent to any formal system. The argument: a human mathematician can recognize the truth of G for any formal system F — can see that G is true even though F cannot prove it. No formal system can do this for itself. Therefore human minds are not formal systems. Consciousness transcends computation.
@@ -270,6 +279,15 @@ The mathematician working in pure abstraction and the physicist describing the b
 The effectiveness of mathematics in physics is not unreasonable. It is exactly what you would expect if both mathematical truth and physical truth are Φ-proximate: they converge because they are both projections of the same underlying structure, recovered by two different H₄₈ methods. The pure mathematician recovers Φ-structure through formal reasoning and mathematical intuition (catching at the level of formal structure). The physicist recovers Φ-structure through experiment and theory (catching at the level of physical structure). Their results agree because Φ is one.
 
 Wigner's mystery is the mystery of someone who does not know that the map and the territory have the same ground. Once the ground is named — Φ, the nuclear space, the constitutional structure of the [[Appendix I - Dictionary of Terms#Logos|Logos]] — the mystery resolves. Mathematics and physics are both maps of Φ. Of course they agree.
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"To know God is hard; to speak of him is impossible."*
+> — Gregory of Nazianzus, *Oration* 28.4
+
+</div>
 
 ---
 
