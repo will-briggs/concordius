@@ -1,5 +1,5 @@
 ---
-title: Structural Themes
+title: Syntheses
 ---
 
 <figure>
@@ -7,7 +7,7 @@ title: Structural Themes
 <figcaption><em>Peter Apianus (Apianus), Schema huius praemissae diuisionis Sphaerarum</em> — from <em>Cosmographia</em> (Antwerp, 1539). The nested celestial spheres: empyrean heaven, Primum Mobile, firmament, and the seven planetary spheres descending to Earth at center. The tradition was reading the constraint cascade. It called the levels spheres because it was looking at them from outside; the framework calls them constraint levels because it is reading them from the structure. They are the same thing.</figcaption>
 </figure>
 
-# Structural Themes
+# Syntheses
 
 The readings elsewhere in Book 3 proceed from specific sources — a text, a film, a painting, an aphorism. Structural theme readings proceed from a structural claim and ask: how many independent traditions have arrived at this same claim, by what routes, and with what precision?
 

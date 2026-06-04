@@ -23,135 +23,99 @@ tags:
 
 
 ---
+## Texts
 
-## The Bible
+### Sacred Texts
 
-[A Structural Reading of the Bible →](/book-3-structural-readings/the-bible/)
+[A Structural Reading of the Bible →](/book-3-structural-readings/sacred-texts/the-bible/)
 
 Readings across both testaments, organized by book. The full biblical corpus (31,102 verses) scanned for structural density; high-priority passages analyzed in detail.
 
----
+**The Bible — Thematic Readings**
+[[Sacred Texts/The Bible - Thematic/The Principle and the Identity of the Logos|I — The Principle and the Identity of the Logos]]
+[[Sacred Texts/The Bible - Thematic/The Incarnation, Ministry, and the Ascending Career|II — The Incarnation, Ministry, and the Ascending Career]]
+[[Sacred Texts/The Bible - Thematic/Affliction, Practice, and the Creation Groaning|III — Affliction, Practice, and the Creation Groaning]]
+[[Sacred Texts/The Bible - Thematic/The Revelation of the Structure|IV — The Revelation of the Structure]]
+[[Sacred Texts/The Bible - Thematic/The Measure Is the Inner Product|V — The Measure Is the Inner Product]]
+[[Sacred Texts/The Bible - Thematic/The Passion Octave|The Passion Octave]]
+[[Sacred Texts/The Bible - Thematic/The Psalter|The Psalter]]
 
-## Philosophy
+**The Fruits of the Spirit**
+[[Sacred Texts/The Bible - Thematic/Fruits of the Spirit/Love (Agape)|Love (Agape)]] · [[Sacred Texts/The Bible - Thematic/Fruits of the Spirit/Joy (Chara)|Joy (Chara)]] · [[Sacred Texts/The Bible - Thematic/Fruits of the Spirit/Peace (Eirene)|Peace (Eirene)]] · [[Sacred Texts/The Bible - Thematic/Fruits of the Spirit/Forbearance (Makrothymia)|Forbearance (Makrothymia)]] · [[Sacred Texts/The Bible - Thematic/Fruits of the Spirit/Kindness (Chrestotes)|Kindness (Chrestotes)]] · [[Sacred Texts/The Bible - Thematic/Fruits of the Spirit/Goodness (Agathosyne)|Goodness (Agathosyne)]] · [[Sacred Texts/The Bible - Thematic/Fruits of the Spirit/Faithfulness (Pistis)|Faithfulness (Pistis)]] · [[Sacred Texts/The Bible - Thematic/Fruits of the Spirit/Gentleness (Praotes)|Gentleness (Praotes)]] · [[Sacred Texts/The Bible - Thematic/Fruits of the Spirit/Self-Control (Enkrateia)|Self-Control (Enkrateia)]]
+
+**The Parables of Jesus**
+[[Sacred Texts/The Bible - Thematic/Parables/The Sower|The Sower]] · [[Sacred Texts/The Bible - Thematic/Parables/The Mustard Seed|The Mustard Seed]] · [[Sacred Texts/The Bible - Thematic/Parables/The Leaven|The Leaven]] · [[Sacred Texts/The Bible - Thematic/Parables/The New Cloth and New Wine|The New Cloth and New Wine]] · [[Sacred Texts/The Bible - Thematic/Parables/The Lost Sheep|The Lost Sheep]] · [[Sacred Texts/The Bible - Thematic/Parables/The Wicked Tenants|The Wicked Tenants]] · [[Sacred Texts/The Bible - Thematic/Parables/The Fig Tree|The Fig Tree]] · [[Sacred Texts/The Bible - Thematic/Parables/The Weeds among the Wheat|The Weeds among the Wheat]] · [[Sacred Texts/The Bible - Thematic/Parables/The Hidden Treasure|The Hidden Treasure]] · [[Sacred Texts/The Bible - Thematic/Parables/The Pearl of Great Price|The Pearl of Great Price]] · [[Sacred Texts/The Bible - Thematic/Parables/The Net|The Net]] · [[Sacred Texts/The Bible - Thematic/Parables/The Unmerciful Servant|The Unmerciful Servant]] · [[Sacred Texts/The Bible - Thematic/Parables/The Workers in the Vineyard|The Workers in the Vineyard]] · [[Sacred Texts/The Bible - Thematic/Parables/The Two Sons|The Two Sons]] · [[Sacred Texts/The Bible - Thematic/Parables/The Wedding Banquet|The Wedding Banquet]] · [[Sacred Texts/The Bible - Thematic/Parables/The Ten Virgins|The Ten Virgins]] · [[Sacred Texts/The Bible - Thematic/Parables/The Talents|The Talents]] · [[Sacred Texts/The Bible - Thematic/Parables/The Sheep and the Goats|The Sheep and the Goats]] · [[Sacred Texts/The Bible - Thematic/Parables/The Seed Growing Secretly|The Seed Growing Secretly]] · [[Sacred Texts/The Bible - Thematic/Parables/The Two Debtors|The Two Debtors]] · [[Sacred Texts/The Bible - Thematic/Parables/The Good Samaritan|The Good Samaritan]] · [[Sacred Texts/The Bible - Thematic/Parables/The Friend at Midnight|The Friend at Midnight]] · [[Sacred Texts/The Bible - Thematic/Parables/The Rich Fool|The Rich Fool]] · [[Sacred Texts/The Bible - Thematic/Parables/The Barren Fig Tree|The Barren Fig Tree]] · [[Sacred Texts/The Bible - Thematic/Parables/The Great Banquet|The Great Banquet]] · [[Sacred Texts/The Bible - Thematic/Parables/The Tower Builder and the King|The Tower Builder and the King]] · [[Sacred Texts/The Bible - Thematic/Parables/The Lost Coin|The Lost Coin]] · [[Sacred Texts/The Bible - Thematic/Parables/The Prodigal Son|The Prodigal Son]] · [[Sacred Texts/The Bible - Thematic/Parables/The Shrewd Manager|The Shrewd Manager]] · [[Sacred Texts/The Bible - Thematic/Parables/The Rich Man and Lazarus|The Rich Man and Lazarus]] · [[Sacred Texts/The Bible - Thematic/Parables/The Persistent Widow|The Persistent Widow]] · [[Sacred Texts/The Bible - Thematic/Parables/The Pharisee and the Tax Collector|The Pharisee and the Tax Collector]] · [[Sacred Texts/The Bible - Thematic/Parables/The Ten Minas|The Ten Minas]]
+
+**The Twelve Apostles**
+[[Sacred Texts/The Bible - Thematic/The Twelve Apostles/The Eleven and Matthias|The Eleven and Matthias]] · [[Sacred Texts/The Bible - Thematic/The Twelve Apostles/Judas|Judas]]
+
+**Other Scriptures**
+[[Sacred Texts/The Bhagavad Gita|The Bhagavad Gita]]
+[[Sacred Texts/The Tao Te Ching|Laozi — Tao Te Ching]]
+[[Sacred Texts/The I Ching|The I Ching]]
+
+### Philosophy
 
 [[Philosophy/Spinoza's Ethics|Spinoza — Ethics]]
 [[Philosophy/The Enneads|Plotinus — The Enneads]]
 [[Philosophy/Epictetus|Epictetus — The Discourses and Enchiridion]]
 [[Philosophy/The Meditations of Marcus Aurelius|Marcus Aurelius — Meditations]]
 
----
-
-## Literature
+### Literature
 
 [[Literature/Shakespeare's Sonnets/index|Shakespeare — The Sonnets]]
 [[Literature/Ulysses|Joyce — Ulysses]]
 [[Literature/Dante — The Divine Comedy|Dante — The Divine Comedy]]
 [[Literature/Augustine — Confessions|Augustine — Confessions]]
 
----
-
-## Eastern Traditions
-
-[[Eastern Traditions/The Bhagavad Gita|The Bhagavad Gita]]
-[[Eastern Traditions/The I Ching|The I Ching]]
-[[Eastern Traditions/The Tao Te Ching|Laozi — Tao Te Ching]]
-
----
-
-## Mysticism
+### Mysticism
 
 [[Mysticism/index|The Hesychast Tradition · Meister Eckhart · The Cloud of Unknowing · John of the Cross →]]
 [[Mysticism/Western Esotericism/index|Western Esotericism →]] (The Hermetic Corpus · Paracelsus · Jakob Böhme · Rosicrucianism · The Alchemical Tradition)
 
----
+### Aphorisms
 
-## Visual Art
+[[Aphorisms/Know Thyself|Know Thyself]] · [[Aphorisms/The Golden Rule|The Golden Rule]] · [[Aphorisms/As Above, So Below|As Above, So Below]] · [[Aphorisms/Man Does Not Live by Bread Alone|Man Does Not Live by Bread Alone]] · [[Aphorisms/Seek and Ye Shall Find|Seek and Ye Shall Find]] · [[Aphorisms/Vanity of Vanities|Vanity of Vanities]] · [[Aphorisms/Pride Goes Before a Fall|Pride Goes Before a Fall]] · [[Aphorisms/The Unexamined Life Is Not Worth Living|The Unexamined Life Is Not Worth Living]] · [[Aphorisms/This Too Shall Pass|This Too Shall Pass]] · [[Aphorisms/As a Man Thinketh|As a Man Thinketh]] · [[Aphorisms/Cleanliness is Next to Godliness|Cleanliness is Next to Godliness]] · [[Aphorisms/The Whole in Every Part|The Whole in Every Part]]
 
-[[Visual Art/The Creation of Adam|The Creation of Adam]] · [[Visual Art/The Last Supper|The Last Supper]] · [[Visual Art/The Transfiguration|The Transfiguration]] · [[Visual Art/The School of Athens|The School of Athens]] · [[Visual Art/Christ Pantocrator, Cefalù|Christ Pantocrator, Cefalù]] · [[Visual Art/Hildegard — Scivias|Hildegard — Scivias]] · [[Visual Art/The Ancient of Days|The Ancient of Days]] · [[Visual Art/Blake — The Great Red Dragon|Blake — The Great Red Dragon]] · [[Visual Art/Blake — Satan Smiting Job|Blake — Satan Smiting Job]] · [[Visual Art/Doré — Lucifer|Doré — Lucifer]] · [[Visual Art/Doré — The Empyrean|Doré — The Empyrean]]
-
----
-
-## Structural Themes
-
-[[Structural Themes/The Seven Layers of Reality|The Seven Layers of Reality]] — The constraint cascade independently attested across every major tradition
-
----
-
-## Movies
-
-[[Movies/Wall-E|Wall-E]] · [[Movies/Groundhog Day|Groundhog Day]] · [[Movies/2001 - A Space Odyssey|2001: A Space Odyssey]] · [[Movies/Ikiru|Ikiru]] · [[Movies/The Seventh Seal|The Seventh Seal]] · [[Movies/Blade Runner|Blade Runner]] · [[Movies/The Tree of Life|The Tree of Life]] · [[Movies/Amadeus|Amadeus]] · [[Movies/The Shawshank Redemption|The Shawshank Redemption]] · [[Movies/Interstellar|Interstellar]] · [[Movies/Whiplash|Whiplash]]
-
----
-
-## Memes
+### Memes
 
 [A Structural Reading of Memes →](/book-3-structural-readings/memes/)
 
 ---
 
-## Aphorisms
+## Images & Works
 
-[[Aphorisms/Know Thyself|Know Thyself]] · [[Aphorisms/The Golden Rule|The Golden Rule]] · [[Aphorisms/As Above, So Below|As Above, So Below]] · [[Aphorisms/Man Does Not Live by Bread Alone|Man Does Not Live by Bread Alone]] · [[Aphorisms/Seek and Ye Shall Find|Seek and Ye Shall Find]] · [[Aphorisms/Vanity of Vanities|Vanity of Vanities]] · [[Aphorisms/Pride Goes Before a Fall|Pride Goes Before a Fall]] · [[Aphorisms/The Unexamined Life Is Not Worth Living|The Unexamined Life Is Not Worth Living]] · [[Aphorisms/This Too Shall Pass|This Too Shall Pass]] · [[Aphorisms/As a Man Thinketh|As a Man Thinketh]] · [[Aphorisms/Cleanliness is Next to Godliness|Cleanliness is Next to Godliness]] · [[Aphorisms/The Whole in Every Part|The Whole in Every Part]]
+### Visual Art
 
----
+[[Visual Art/The Creation of Adam|The Creation of Adam]] · [[Visual Art/The Last Supper|The Last Supper]] · [[Visual Art/The Transfiguration|The Transfiguration]] · [[Visual Art/The School of Athens|The School of Athens]] · [[Visual Art/Christ Pantocrator, Cefalù|Christ Pantocrator, Cefalù]] · [[Visual Art/Hildegard — Scivias|Hildegard — Scivias]] · [[Visual Art/The Ancient of Days|The Ancient of Days]] · [[Visual Art/Blake — The Great Red Dragon|Blake — The Great Red Dragon]] · [[Visual Art/Blake — Satan Smiting Job|Blake — Satan Smiting Job]] · [[Visual Art/Doré — Lucifer|Doré — Lucifer]] · [[Visual Art/Doré — The Empyrean|Doré — The Empyrean]]
 
-## The Bible — Thematic Readings
+### Film
 
-[[The Bible - Thematic/The Principle and the Identity of the Logos|I — The Principle and the Identity of the Logos]]
-[[The Bible - Thematic/The Incarnation, Ministry, and the Ascending Career|II — The Incarnation, Ministry, and the Ascending Career]]
-[[The Bible - Thematic/Affliction, Practice, and the Creation Groaning|III — Affliction, Practice, and the Creation Groaning]]
-[[The Bible - Thematic/The Revelation of the Structure|IV — The Revelation of the Structure]]
-[[The Bible - Thematic/The Measure Is the Inner Product|V — The Measure Is the Inner Product]]
-[[The Bible - Thematic/The Passion Octave|The Passion Octave]]
-[[The Bible - Thematic/The Psalter|The Psalter]]
-
-**The Fruits of the Spirit**
-[[The Bible - Thematic/Fruits of the Spirit/Love (Agape)|Love (Agape)]] · [[The Bible - Thematic/Fruits of the Spirit/Joy (Chara)|Joy (Chara)]] · [[The Bible - Thematic/Fruits of the Spirit/Peace (Eirene)|Peace (Eirene)]] · [[The Bible - Thematic/Fruits of the Spirit/Forbearance (Makrothymia)|Forbearance (Makrothymia)]] · [[The Bible - Thematic/Fruits of the Spirit/Kindness (Chrestotes)|Kindness (Chrestotes)]] · [[The Bible - Thematic/Fruits of the Spirit/Goodness (Agathosyne)|Goodness (Agathosyne)]] · [[The Bible - Thematic/Fruits of the Spirit/Faithfulness (Pistis)|Faithfulness (Pistis)]] · [[The Bible - Thematic/Fruits of the Spirit/Gentleness (Praotes)|Gentleness (Praotes)]] · [[The Bible - Thematic/Fruits of the Spirit/Self-Control (Enkrateia)|Self-Control (Enkrateia)]]
-
-**The Parables of Jesus**
-[[The Bible - Thematic/Parables/The Sower|The Sower]] · [[The Bible - Thematic/Parables/The Mustard Seed|The Mustard Seed]] · [[The Bible - Thematic/Parables/The Leaven|The Leaven]] · [[The Bible - Thematic/Parables/The New Cloth and New Wine|The New Cloth and New Wine]] · [[The Bible - Thematic/Parables/The Lost Sheep|The Lost Sheep]] · [[The Bible - Thematic/Parables/The Wicked Tenants|The Wicked Tenants]] · [[The Bible - Thematic/Parables/The Fig Tree|The Fig Tree]] · [[The Bible - Thematic/Parables/The Weeds among the Wheat|The Weeds among the Wheat]] · [[The Bible - Thematic/Parables/The Hidden Treasure|The Hidden Treasure]] · [[The Bible - Thematic/Parables/The Pearl of Great Price|The Pearl of Great Price]] · [[The Bible - Thematic/Parables/The Net|The Net]] · [[The Bible - Thematic/Parables/The Unmerciful Servant|The Unmerciful Servant]] · [[The Bible - Thematic/Parables/The Workers in the Vineyard|The Workers in the Vineyard]] · [[The Bible - Thematic/Parables/The Two Sons|The Two Sons]] · [[The Bible - Thematic/Parables/The Wedding Banquet|The Wedding Banquet]] · [[The Bible - Thematic/Parables/The Ten Virgins|The Ten Virgins]] · [[The Bible - Thematic/Parables/The Talents|The Talents]] · [[The Bible - Thematic/Parables/The Sheep and the Goats|The Sheep and the Goats]] · [[The Bible - Thematic/Parables/The Seed Growing Secretly|The Seed Growing Secretly]] · [[The Bible - Thematic/Parables/The Two Debtors|The Two Debtors]] · [[The Bible - Thematic/Parables/The Good Samaritan|The Good Samaritan]] · [[The Bible - Thematic/Parables/The Friend at Midnight|The Friend at Midnight]] · [[The Bible - Thematic/Parables/The Rich Fool|The Rich Fool]] · [[The Bible - Thematic/Parables/The Barren Fig Tree|The Barren Fig Tree]] · [[The Bible - Thematic/Parables/The Great Banquet|The Great Banquet]] · [[The Bible - Thematic/Parables/The Tower Builder and the King|The Tower Builder and the King]] · [[The Bible - Thematic/Parables/The Lost Coin|The Lost Coin]] · [[The Bible - Thematic/Parables/The Prodigal Son|The Prodigal Son]] · [[The Bible - Thematic/Parables/The Shrewd Manager|The Shrewd Manager]] · [[The Bible - Thematic/Parables/The Rich Man and Lazarus|The Rich Man and Lazarus]] · [[The Bible - Thematic/Parables/The Persistent Widow|The Persistent Widow]] · [[The Bible - Thematic/Parables/The Pharisee and the Tax Collector|The Pharisee and the Tax Collector]] · [[The Bible - Thematic/Parables/The Ten Minas|The Ten Minas]]
-
-**The Twelve Apostles**
-[[The Bible - Thematic/The Twelve Apostles/The Eleven and Matthias|The Eleven and Matthias]] · [[The Bible - Thematic/The Twelve Apostles/Judas|Judas]]
+[[Film/Wall-E|Wall-E]] · [[Film/Groundhog Day|Groundhog Day]] · [[Film/2001 - A Space Odyssey|2001: A Space Odyssey]] · [[Film/Ikiru|Ikiru]] · [[Film/The Seventh Seal|The Seventh Seal]] · [[Film/Blade Runner|Blade Runner]] · [[Film/The Tree of Life|The Tree of Life]] · [[Film/Amadeus|Amadeus]] · [[Film/The Shawshank Redemption|The Shawshank Redemption]] · [[Film/Interstellar|Interstellar]] · [[Film/Whiplash|Whiplash]]
 
 ---
 
-## Spectral Events
+## Ideas
 
-[[Spectral Events/Auras and the Luminous Field|Auras and the Luminous Field]]
-[[Spectral Events/Miracles|Miracles]]
-[[Spectral Events/Parasites|Parasites]]
-[[Spectral Events/Private Dowding|Private Dowding]]
+### Doctrine
 
----
+[[Doctrine/The Eucharist: Transubstantiation|The Eucharist: Transubstantiation]]
+[[Doctrine/The Lucifer Rebellion|The Lucifer Rebellion]]
+[[Doctrine/The Magisterium|The Magisterium]]
+[[Doctrine/The Pre-Incarnation Saints|The Pre-Incarnation Saints]]
 
-## Christian Doctrine
+### Syntheses
 
-[[Christian Doctrine/The Eucharist: Transubstantiation|The Eucharist: Transubstantiation]]
-[[Christian Doctrine/The Lucifer Rebellion|The Lucifer Rebellion]]
-[[Christian Doctrine/The Magisterium|The Magisterium]]
-[[Christian Doctrine/The Pre-Incarnation Saints|The Pre-Incarnation Saints]]
+[[Syntheses/The Seven Layers of Reality|The Seven Layers of Reality]] — The constraint cascade independently attested across every major tradition
 
 ---
 
-## Health
+## World & Experience
 
-[[Health/Dementia|Dementia]]
-[[Health/Prayer|Prayer]]
-
----
-
-## Human Conditions
-
-[[Human Conditions/Suffering|Suffering]]
+[[World and Experience/Suffering|Suffering]] · [[World and Experience/Dementia|Dementia]] · [[World and Experience/Prayer|Prayer]] · [[World and Experience/Phonology|Phonology]] · [[World and Experience/Miracles|Miracles]] · [[World and Experience/Auras and the Luminous Field|Auras and the Luminous Field]] · [[World and Experience/Parasites|Parasites]] · [[World and Experience/Private Dowding|Private Dowding]]
 
 ---
 
-## Language
-
-[[Language/Phonology|Phonology]]
-
----
 # The Framework and Method
 
 *How these structural readings are produced, what frameworks they use, and what they claim.*

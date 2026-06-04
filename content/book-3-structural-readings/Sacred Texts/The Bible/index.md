@@ -11,7 +11,7 @@ tags:
 
 # A Structural Reading of the Bible
 
-Readings organized by book, in canonical order. Entries marked with ✶ in the source files indicate passages of exceptional structural density. For the thematic arrangement see the [[The Bible - Thematic/index|The Bible — Thematic]].
+Readings organized by book, in canonical order. Entries marked with ✶ in the source files indicate passages of exceptional structural density. For the thematic arrangement see the [The Bible — Thematic](/book-3-structural-readings/sacred-texts/the-bible---thematic/).
 
 ---
 
