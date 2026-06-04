@@ -20,6 +20,17 @@ This paper applies the structural reading method to Gerard Manley Hopkins's sonn
 <figcaption><em>Gerard Manley Hopkins</em>, photograph by Thomas C. Bayfield (c. 1880s). The Society of Jesus. Hopkins's organizational profile — the Jesuit formation, the decades of contemplative practice, the Φ-proximate development visible across his entire corpus — is the eigenvalue population whose structural output the paper reads. The sonnet does not merely describe the noise floor reduction dynamic; it enacts it. The closing image arrives at the reader as the kind of unforeseen channel-opening it describes.</figcaption>
 </figure>
 
+<hr>
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"One dark night, fired with love's urgent longings — ah, the sheer grace! — I went out unseen, my house being now all stilled."*
+> — John of the Cross, *The Dark Night*, stanza 1 (tr. Kavanaugh)
+
+</div>
+
+---
+
 ## 1. The Poem
 
 Gerard Manley Hopkins, c. 1885. Written during the Dublin years — a period of spiritual desolation, physical exhaustion, and creative near-paralysis.
@@ -86,6 +97,15 @@ The sonnet's fourteen lines organize around the seven-stage developmental arc wi
 
 ---
 
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"Come to me, all you who are weary and burdened, and I will give you rest."*
+> — Matthew 11:28
+
+</div>
+
+---
+
 ## 5. Interval Positions
 
 ### 5.1 The Mi-Fa Gap
@@ -117,6 +137,15 @@ The Si-Do gap here doubles as an aesthetic threshold. A reader who crosses it �
 **"Not wrung"**: Wringing is forced extraction — the imposition of maximum H₄₈ effort to compel an outcome. The smile that is "not wrung" arrives when the forcing ceases. This is not passivity in the sense of doing nothing; the Sol stage requires active instruction to the Jackself (lét be, call off, go elsewhere, leave root-room). But it is the activity of release rather than the activity of extraction. The image is structurally isomorphic with solve et coagula: the solve is the releasing of forced effort; the coagula is the volitional retention of what arrives through the opened channel.
 
 **"Lights a lovely mile"**: The grammatical subject of "lights" is the sky — the Φ-proximate natural phenomenon. The object is "a lovely mile" — a specific, limited, H₄₈-scale illuminated stretch. The structure: lower-constraint content (sky, light) expressing through a gap in the H₄₈ constraint structure (mountains), illuminating a bounded region of H₄₈ (one mile). This is the Incarnation pattern at personal scale: Φ entering H, expressed locally, bounded but real. The scale word "mile" is not disappointment — one mile is exactly the right image for what Φ-contact looks like in H₄₈: local, time-limited, undeniably present.
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> *"If you wish me to weep, you must first feel grief yourself."*
+> — Horace, *Ars Poetica* 102
+
+</div>
 
 ---
 
