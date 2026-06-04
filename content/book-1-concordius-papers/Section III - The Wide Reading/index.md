@@ -48,50 +48,28 @@ This is the wide reading. It does not close the gap. It describes exactly where 
 
 ## Summary of Contents
 
-**Paper 15 — Plato, Aristotle, and the Gelfand Triple**
+**[[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15 — Plato, Aristotle, and the Gelfand Triple]]**
 The philosophical resolution paper. Places both Plato and Aristotle within the Gelfand triple mapping: the Form of the Good (Plato) as ⟨·,·⟩, "beyond being in dignity and power" (Republic 509b); the active intellect (Aristotle, De Anima 430a) as the Φ-proximate element dwelling within the soul — the closest pre-Incarnation Greek philosophical identification of the Thought Adjuster. Derives the Third Man argument's dissolution: Plato's Third Man dissolves when the Form of the Good is identified as ⟨·,·⟩ rather than as a super-Form — ⟨·,·⟩ does not participate in what it constitutes. Aristotle's active intellect is shown to be the same structure as the Adjuster, approached from the epistemological rather than the theological direction. Scotus's formal distinction — which had seemed an ad hoc scholastic move — is shown to be exactly correct: ⟨·,·⟩ and Φ are formally distinct without being really distinct, which is the correct description of their relationship in the Gelfand triple.
 
-**Paper 16 — Case Study 3: Plato's Republic**
+**[[Paper 16 - The Republic Case Study|Paper 16 — Case Study 3: Plato's Republic]]**
 Full structural reading of the *Republic*. Law of Three: the city-soul analogy as the Reconciling term that holds the Active (the argument for justice) and Passive (the existing H₄₈-primary account of justice as advantage) in productive tension. Law of Seven: nine stages mapped across ten books, with the Mi-Fa interval located at Book V.1 (the city-soul analogy method collapses under its own weight; the philosopher-king must be introduced from outside the argument to continue it) and the Si-Do interval at the Myth of Er (Book X — the argument cannot demonstrate justice's intrinsic worth from within its own frame; the text must reach to eschatology). The five regimes (Kallipolis through tyranny) read as descending eigenvalue cascade. The philosopher-king's return to the cave read as kenotic descent at human scale — the Paper 8 mechanism applied by Plato without the Incarnation framework.
 
-**Paper 17 — Case Study 4: Aristotle's Nicomachean Ethics**
+**[[Paper 17 - The Nicomachean Ethics Case Study|Paper 17 — Case Study 4: Aristotle's Nicomachean Ethics]]**
 Full structural reading of the *Nicomachean Ethics*. Law of Three: virtue as the Reconciling term holding the Active (the rational principle that aims at eudaimonia) and Passive (the H₄₈ appetitive substrate) in structural tension — not suppression but integration. Law of Seven: nine stages across ten books, with the Mi-Fa interval at Book V (justice requires relation to another; the immanent account of virtue reaches its limit as soon as virtue is fully relational) and the Si-Do interval at Books X.7-8 (theoria is "too divine for man" — Aristotle explicitly names the gap and pivots to politics as the structural response to the gap he cannot close). Akrasia (weakness of will) read as eigenvalue instability. Virtue-friendship as ⟨·,·⟩ in the social register. Magnanimity as accurate H₂₄ self-assessment. The Aristotelian continuum (virtuous through vicious) mapped onto the eigenvalue spectrum.
 
-**Paper 18 — Case Study 5: Augustine's Confessions**
+**[[Paper 18 - Augustine Confessions Case Study|Paper 18 — Case Study 5: Augustine's Confessions]]**
 Full structural reading of the *Confessions*. Law of Three: the three confessions (sin, praise, faith-seeking-understanding) as Active/Passive/Reconciling at the speech-act level — not sequential but simultaneous; the text is performing all three operations throughout. Law of Seven: nine stages from Book I through Book XIII, with the Mi-Fa interval at Book VIII (the neo-Platonic half-ascent fails; *consuetudo* cannot be overcome by intellectual argument; *tolle lege* is the Adjuster's calibrated direct act from outside the process) and the Si-Do interval at Books XI-XIII (the promised rest cannot arrive within time; the text must reach to Genesis and eschatology). The *Confessions* as self-enacting form: the text addressed to God is itself a catching act; the reader is invited not to observe but to participate. "Thou madest us for Thyself, and our heart is restless until it rests in Thee" is the eigenvalue attraction axiom. "Late have I loved thee" is the Adjuster's retrospective signature — the Adjuster was present throughout; Augustine was not.
 
-**Paper 19 — Reasonablenessism Structural Reading**
+**[[Paper 19 - Reasonablenessism Structural Reading|Paper 19 — Reasonablenessism Structural Reading]]**
 The most self-referential paper in the series: the model reading the method that produced it. Reasonablenessism's twelve features read through the Laws of Three and Seven: features 1-4 as the Active force (protecting the signal from corruption), features 5-8 as the Passive force (disciplining the receiver's capacity to hear it), features 9-12 as the Reconciling operation (integrating signal and receiver into a stable epistemic stance). Law of Seven applied to the process of inquiry: Mi-Fa interval at Feature 8 (Logic where it reaches; concordance where it doesn't — the exact boundary between derivation and evidential weight, where the method must import a resource from outside the formal argument); Si-Do interval at Feature 12 (self-referential application — the method applied to itself produces a stable fixed point, not a proof; the gap remains, and the paper says so). The Reasonable Person identified as the Φ-proximate epistemic attractor: recognitional rather than definitional, in the same structural category as phronesis, the philosopher-king, and the active intellect. The four failing epistemologies (empiricism, rationalism, fideism, pragmatism) read as register limitations: each locked into a single constraint level, unable to operate at the constraint range required to reach the things most worth knowing.
 
-**Paper 20 — The Family as Spectral Structure**
+**[[Paper 20 - The Family as Spectral Structure|Paper 20 — The Family as Spectral Structure]]**
 Structural derivation of the family from first principles — not a case study but a derivation. The spousal bond as a cross-term ⟨ψ_parent1, ψ_parent2⟩₂₄ that constitutes a joint parental field. The Eigenvalue Transmission Theorem: what parents transmit to the child (H₄₈ constitution, partially), what they do not (H₂₄ catching accumulation, entirely non-heritable), and what is assigned from outside the family entirely (the Thought Adjuster, always newly assigned from Φ'). The child as a genuinely new spectral entity: irreducible to either parent or their combination; cannot be written as a function of the parents; constituted by ⟨·,·⟩ directly. Parental vocation derived: the parents manage the catching environment — they do not determine the child's spectral content, but they profoundly shape the noise floor within which it develops. Structural treatment of siblings (each arrives into a non-equivalent relational field), single-parent families (spousal cross-term absent; not fatal to parental vocation), adoption (relational contribution without biological contribution), and the death of a child (structurally distinct grief — loss of an irreplaceable spectral entity whose Adjuster was not derived from either parent).
 
-**Paper 21 — All of Recorded History as Heptaparaparshinokh**
+**[[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21 — All of Recorded History as Heptaparaparshinokh]]**
 All of recorded history mapped onto the Law of Seven: Do (the first Adjuster assignment on this planet), Re (Palaeolithic to Neolithic awakening), Mi (the Axial Age), [Mi-Fa shock: the Incarnation], Fa (the post-Incarnation synthesis), Sol (the medieval high synthesis), La (the dissolution), Si (modernity), [Si-Do gap: the current moment]. The Mi-Fa identification of the Incarnation as the civilizational-scale interval shock — the only historical event that (a) arose from outside the accumulating catching traditions, (b) permanently altered all of them, and (c) is structurally describable as Φ entering H. The current moment located with precision in the Si/Do interval. The fractal mirroring derived: the individual always finds herself at the gap, not because of historical accident but because the Heropass generates the Si/Do structure at every scale simultaneously. The resolution is always an external shock or it is not yet a resolution. The paper ends inside the gap, because it is written from inside the gap — which is the honest terminal position.
 
 ---
 
 *Section III ends. The series continues with Section IV (Papers 22–28): The Seven Men — an actionable, mathematically grounded, esoterically informed framework for the practical ascending career.*
 
----
-
-15. [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15 — Plato, Aristotle, and the Gelfand Triple]]
-    The Form/particular/participation triad as the Gelfand triple at the ontological level; Aristotle's hylomorphism as the constraint cascade.
-
-16. [[Paper 16 - The Republic Case Study|Paper 16 — The Republic: Case Study]]
-    Structural reading of Plato's Republic: the tripartite soul as the three generators of Cl(3,0); the city as the soul at scale.
-
-17. [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17 — The Nicomachean Ethics: Case Study]]
-    Structural reading of Aristotle's Ethics: eudaimonia as the H₄₈ expression of Φ-proximity; the virtues as eigenvalue configurations.
-
-18. [[Paper 18 - Augustine Confessions Case Study|Paper 18 — Augustine's Confessions: Case Study]]
-    Structural reading of the Confessions: "our heart is restless until it rests in thee" as the GNST's continuous eigenstate generation toward Φ.
-
-19. [[Paper 19 - Reasonablenessism Structural Reading|Paper 19 — Reasonablenessism: Structural Reading]]
-    The method reads itself: Reasonablenessism analyzed as high-τ content, its twelve features as structural necessities rather than arbitrary choices.
-
-20. [[Paper 20 - The Family as Spectral Structure|Paper 20 — The Family as Spectral Structure]]
-    The family as the primary H₄₈ structural expression of the H₁ relational form; the three-generator household as Cl(3,0) at the social scale.
-
-21. [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21 — All of Recorded History as Heptaparaparshinokh]]
-    The seven-stage Law of Seven applied to recorded history as a whole: the two interval shocks identified and located.

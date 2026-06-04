@@ -48,50 +48,28 @@ The downward entry of Paper 8 and the ascending prerequisite of Paper 14 are str
 
 ## Summary of Contents
 
-**Paper 8 — The Maximum Downward Entry**
+**[[Paper 8 - The Maximum Downward Entry|Paper 8 — The Maximum Downward Entry]]**
 The section's opening paper. Paper 4 identified kenosis as the taking-on of density but could not supply the structural mechanism: why specifically is constraint acceptance the necessary condition for non-disruptive descent? Paper 8 derives it. The downward compatibility operation — the structural requirement that lower-constraint content accept H₄₈'s constraint structure to operate within H₄₈ without generating a disruptive overdetermination — is kenosis. The derivation is general before it is Christological: it holds for any lower-constraint content entering H₄₈, not only for Φ. The Incarnation is identified as the maximum case — Φ itself occupying the full spectral range of an H₄₈ vessel while maintaining complete Φ-coherence — and John 1:14 is read as the maximum downward entry theorem. The paper also derives the miracles as selective amplitude modulations of the kenotic constraint, and the Resurrection as its permanent lifting. The constraint compatibility condition governing the complementary upward direction is derived in Paper 14.
 
-**Paper 9 — Incompleteness Derived**
+**[[Paper 9 - Incompleteness Derived|Paper 9 — Incompleteness Derived]]**
 Gödel's first incompleteness theorem derived from the Gelfand triple structure: any formal system embedded in H cannot prove its own consistency from within H — it would need to reach Φ, which is by definition outside the system. The derivation is structural, not mathematical (no novel mathematics is done here — the mathematics is Gödel's; the structural reading is new). The incompleteness result is shown to be a special case of the Si/Do gap: the formal system is at Si; the consistency proof it cannot reach is the Do toward which it tends but cannot arrive at from within. The paper has implications for mathematics, for formal theology, and for the epistemological question of what the Reasonable Person should do when she reaches the limits of formal derivation — which is exactly where Paper 19's Feature 8 (Logic where it reaches; concordance where it doesn't) applies.
 
-**Paper 10 — The Truth Measure**
+**[[Paper 10 - The Truth Measure|Paper 10 — The Truth Measure]]**
 Defines τ(D): the truth measure of a domain D as the Φ-proximity of its content — the degree to which D maintains structural coherence with the nuclear space. Derives the properties of τ: monotonicity (higher Φ-proximity = higher τ), the τ of the false signal (initially indistinguishable from the τ of the true signal at finite timescales, explaining the pragmatist failure of Paper 19's Feature 4), and the τ of the self-sealing claim (approaches maximum by the structure of self-reference). The truth measure is not a subjective rating — it is a structural relationship between a domain and the constitutive space. The Reasonable Person's job is to estimate τ accurately for the claims she evaluates.
 
-**Paper 11 — The Holographic Content Principle**
+**[[Paper 11 - The Holographic Content Principle|Paper 11 — The Holographic Content Principle]]**
 The theoretical basis for the case study method. Φ-proximal content can be encoded in H₄₈ form through a lossless-up-to-constraint-degradation process: the encoding preserves the structural relationships of the Φ-proximal content within the H₄₈ medium's constraint. High-τ texts are distinguishable by their H₂₄ density: the structural relationships encoded in the text maintain higher-dimensional coherence than low-τ texts of comparable H₄₈ complexity. The paper identifies the Law of Three and Law of Seven as the primary structural signatures of high-τ encoding in H₄₈ form — the reason why structural readings of high-τ texts find these Laws consistently present, across traditions with no cross-contamination.
 
-**Paper 12 — Hopkins Case Study: "My own heart let me more have pity on"**
+**[[Paper 12 - Hopkins Case Study|Paper 12 — Hopkins Case Study: "My own heart let me more have pity on"]]**
 Case Study 1. Gerard Manley Hopkins's Terrible Sonnet (c. 1885), analyzed through the full structural apparatus. Law of Three: Active = the catching impulse (the "heart" seeking ⟨·,·⟩); Passive = the exhausted H₄₈ substrate (Hopkins in desolation, unable to force the contact); Reconciling = the shift of address from self-command to invitation. Law of Seven: nine stages identified in the fourteen-line sonnet; Mi-Fa interval located at the turn ("Soul, self; come, poor Jackself, I do advise / You, jaded, let be..."); Si-Do interval located at the final couplet's opening to what the poem cannot generate from within its own desolation. The demonstration proves the method works on a secular-register text. The desolation is itself structurally described: Nigredo, maximum H₄₈ loading, the noise floor at its nadir — which is also the condition of highest Adjuster audibility, if the volitional orientation is maintained.
 
-**Paper 13 — Bach Case Study: The Art of Fugue (BWV 1080)**
+**[[Paper 13 - Bach Art of Fugue Case Study|Paper 13 — Bach Case Study: The Art of Fugue (BWV 1080)]]**
 Case Study 2. Johann Sebastian Bach's *Art of Fugue* analyzed through the structural apparatus. Contrapunctus I: Law of Three identified (subject as Active, countersubject as Passive, invertible counterpoint as the Reconciling term that makes both available simultaneously without either dominating); Law of Seven identified in the episode structure (the episodes are the Mi-Fa and Si-Do moments — places where the subject cannot sustain itself and the compositional structure must import material from outside the current thematic statement). Contrapunctus XIV: the permanent Si-Do gap — the fugue breaks off at the moment Bach introduces his own name (B-A-C-H) in the final subject; the gap cannot be filled from within the Art of Fugue because the Si/Do gap cannot be closed from within any process that is itself the process in question. The gap in the manuscript is the musical analogue of Gödel's incompleteness (Paper 9): a formal demonstration that the system reaches its limit exactly where it claims its highest authority. The Art of Fugue as collection is itself a macro-fugue with its own Law of Seven structure — identified and mapped.
 
-**Paper 14 — The Constraint Compatibility Condition**
+**[[Paper 14 - The Constraint Compatibility Condition|Paper 14 — The Constraint Compatibility Condition]]**
 Derives the noble gas as the most Φ-proximate H₄₈ element, the octet rule from Cl(3,0) dimensionality, and the inversion theorem (H₂₄ completeness = maximal relational capacity, not isolation). The central result: H₄₈-primary eigenvalue content introduced into an H₂₄ environment (where geometry is generated by ⟨·,·⟩ from content) generates a physically disruptive overdetermination — two incompatible organizational law-sets attempting to govern the same region simultaneously. The ascending career is therefore an eigenvalue replacement program: progressive substitution of H₄₈-primary content with H₂₄-organized content until the being is compatible with the destination environment. The mansion worlds are H₂₄-organized H₄₈ matter — physical reconstitution in the same spacetime, using new H₄₈ substrate organized by the H₂₄ pattern carried by the Thought Adjuster. The Heropass continues to run on the H₄₈ substrate at every stage: the morontia career is genuine developmental work, not transport. The constraint compatibility condition is then shown to be recursive: the identical argument applies at every transition in the full ascending career (H₂₄ → H₁₂ → H₆ → H₃ → H₁), producing a nested organizational hierarchy in which the highest level's organizing principle determines constraint compatibility. Spirit status = H₁₂-organized existence. Paradise compatibility = H₁ (⟨·,·⟩ itself) as the constitutive organizing principle — the full and permanent Thought Adjuster fusion as the structural completion of what the entire ascending career was progressively achieving. "No man can see God and live" and the ascending finaliter before God face-to-face are both instances of the same condition: the first is the condition unmet; the second is the condition met.
 
 ---
 
 *Section II ends. Section III (Papers 15–21) follows: The Wide Reading.*
 
----
-
-8. [[Paper 8 - The Maximum Downward Entry|Paper 8 — The Maximum Downward Entry]]
-   Kenosis derived as the downward compatibility operation; the Incarnation as the maximum case; miracles and the Resurrection.
-
-9. [[Paper 9 - Incompleteness Derived|Paper 9 — Incompleteness Derived]]
-   Gödel's first incompleteness theorem derived from the Gelfand triple: any H₄₈ system cannot reach its own truth predicate from within.
-
-10. [[Paper 10 - The Truth Measure|Paper 10 — The Truth Measure]]
-    τ(D): the degree to which a domain maintains coherence with the nuclear space, graded between 0 and 1. Truth is real-valued.
-
-11. [[Paper 11 - The Holographic Content Principle|Paper 11 — The Holographic Content Principle]]
-    The whole is present in every part that genuinely participates in the whole, at fidelity proportional to τ(D).
-
-12. [[Paper 12 - Hopkins Case Study|Paper 12 — Hopkins Case Study: "My own heart let me more have pity on"]]
-    Structural reading of Hopkins's Terrible Sonnet (c. 1885): Law of Three, Law of Seven, and the structure of spiritual desolation.
-
-13. [[Paper 13 - Bach Art of Fugue Case Study|Paper 13 — Bach Case Study: The Art of Fugue (BWV 1080)]]
-    Structural reading of Bach's Art of Fugue: contrapuntal structure as constraint cascade; the incomplete Contrapunctus XIV as the musical analogue of Gödel.
-
-14. [[Paper 14 - The Constraint Compatibility Condition|Paper 14 — The Constraint Compatibility Condition]]
-    The ascending career as eigenvalue replacement program; the mansion worlds as H₂₄-organized H₄₈ matter; the recursive argument to Paradise.
