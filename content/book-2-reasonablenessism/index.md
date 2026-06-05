@@ -65,7 +65,7 @@ This person is not a fiction. You know them. You are trying to be them. The ques
 
 ## The Twelve Features
 
-*Features are grouped by function in the Law of Three for epistemological inquiry (see [[Papers/Paper 19]]). What Reasonablenessism is not: empiricism (cannot reach the first bit), rationalism (runs out at axioms), fideism (brackets scrutiny), pragmatism (applies the right test at the wrong timescale).*
+*Features are grouped by function in the Law of Three for epistemological inquiry (see [[Papers/Paper 18]]). What Reasonablenessism is not: empiricism (cannot reach the first bit), rationalism (runs out at axioms), fideism (brackets scrutiny), pragmatism (applies the right test at the wrong timescale).*
 
 ---
 
@@ -210,7 +210,7 @@ The three core applications:
 2. **Universal subjectivity implies objectivity** — the consciousness-preeminence argument of S1E2 rests on the cogito's unrivaled consistency *(Feature 8)*
 3. **Believe on evidence, not provenance** — applied at every major source introduction *(Features 5, 12)*
 
-The series is itself an extended demonstration of Reasonablenessism applied to the largest available questions. Reasonablenessism is the epistemological frame from which the series operates; Paper 19 is the structural reading of Reasonablenessism within the Concordius framework.
+The series is itself an extended demonstration of Reasonablenessism applied to the largest available questions. Reasonablenessism is the epistemological frame from which the series operates; Paper 18 is the structural reading of Reasonablenessism within the Concordius framework.
 
 ---
 

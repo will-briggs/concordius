@@ -326,4 +326,4 @@ The corrected formulation: the body is not the soul's prison. The body is the so
 
 ---
 
-*[[Paper 19 - Reasonablenessism Structural Reading|Paper 19 — Reasonablenessism: Structural Reading]] →*
+*[[Paper 18 - Reasonablenessism Structural Reading|Paper 18 — Reasonablenessism: Structural Reading]] →*

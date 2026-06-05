@@ -102,7 +102,7 @@ The hagiographic tradition is the largest available collection of convergent wit
 - The specific difficulty of transmitting what is received in the higher centers to ordinary-level comprehension (across all traditions)
 - The continuity of the Adjuster contact (described in each tradition's vocabulary: the indwelling Spirit; the Atman; the Buddha-nature; the divine spark)
 
-The convergence is not coincidence. Independent catching processes across isolated traditions, arriving at the same structural descriptions of the same states, is the evidential weight that [[Appendix I - Dictionary of Terms#Reasonablenessism|Reasonablenessism]] (Paper 19) identifies as the strongest form of evidence available for claims about domains that formal derivation cannot reach. The hagiographic record constitutes this evidence for the Man 6 terrain: the terrain is real; its characteristics are as described; the persons in the record are the structural witnesses.
+The convergence is not coincidence. Independent catching processes across isolated traditions, arriving at the same structural descriptions of the same states, is the evidential weight that [[Appendix I - Dictionary of Terms#Reasonablenessism|Reasonablenessism]] (Paper 18) identifies as the strongest form of evidence available for claims about domains that formal derivation cannot reach. The hagiographic record constitutes this evidence for the Man 6 terrain: the terrain is real; its characteristics are as described; the persons in the record are the structural witnesses.
 
 ---
 

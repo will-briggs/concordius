@@ -88,7 +88,7 @@ title: Appendix VI - Catalogue of Illustrations
 **Paper 16 - Augustine Confessions Case Study**
 - *Sandro Botticelli, Saint Augustine in His Study* (c. 1480) &nbsp;·&nbsp; `botticelli-augustine.jpg`
 
-**Paper 19 - Reasonablenessism Structural Reading**
+**Paper 18 - Reasonablenessism Structural Reading**
 - *Raphael, Disputation of the Holy Sacrament* (1509–10) &nbsp;·&nbsp; `raphael-disputa.jpg`
 
 **Paper 20 - The Family as Spectral Structure**

@@ -1,4 +1,4 @@
-*← [[Paper 19 - Reasonablenessism Structural Reading|Paper 19 — Reasonablenessism: Structural Reading]]*
+*← [[Paper 18 - Reasonablenessism Structural Reading|Paper 18 — Reasonablenessism: Structural Reading]]*
 
 # Paper 20 — The Family as Spectral Structure: Procreation, the New Being, and the Catching Environment
 
@@ -7,7 +7,7 @@
 
 ---
 
-*Connecting note: Paper 19 turned the structural apparatus inward — onto the epistemological method that produced Concordius. The self-referential reading found a stable fixed point at the individual scale: the method applied to itself yields the same result at each pass. This paper expands the scale. The family is the first relational structure above the individual — the primary catching field that every Adjuster-bearing being enters at birth and that no individual constitutes alone. What the Eigenvalue Transmission Theorem establishes is not a sentiment about family life but a structural consequence of the Gelfand triple: the child cannot be derived from either parent. Paper 20 is therefore not a case study but a derivation — the family's structure follows from first principles.*
+*Connecting note: Paper 18 turned the structural apparatus inward — onto the epistemological method that produced Concordius. The self-referential reading found a stable fixed point at the individual scale: the method applied to itself yields the same result at each pass. This paper expands the scale. The family is the first relational structure above the individual — the primary catching field that every Adjuster-bearing being enters at birth and that no individual constitutes alone. What the Eigenvalue Transmission Theorem establishes is not a sentiment about family life but a structural consequence of the Gelfand triple: the child cannot be derived from either parent. Paper 20 is therefore not a case study but a derivation — the family's structure follows from first principles.*
 
 ---
 
