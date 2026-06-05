@@ -18,3 +18,4 @@ Not texts or artifacts but features of lived and empirical reality, read for the
 [[World and Experience/Astrology|Astrology]] ⊘
 [[World and Experience/Holy Rollers|Holy Rollers]]
 [[World and Experience/Diana and the Distrust of the Moon|Diana and the Distrust of the Moon]]
+[[World and Experience/Influencers|Influencers]]

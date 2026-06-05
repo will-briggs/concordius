@@ -134,7 +134,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ## World & Experience
 
-[[World and Experience/Suffering|Suffering]] · [[World and Experience/Dementia|Dementia]] · [[World and Experience/Prayer|Prayer]] · [[World and Experience/Phonology|Phonology]] · [[World and Experience/Miracles|Miracles]] · [[World and Experience/Auras and the Luminous Field|Auras and the Luminous Field]] · [[World and Experience/Parasites|Parasites]] · [[World and Experience/Private Dowding|Private Dowding]] · [[World and Experience/The Secret|The Secret]] ⊘ · [[World and Experience/Astrology|Astrology]] ⊘ · [[World and Experience/Holy Rollers|Holy Rollers]]
+[[World and Experience/Suffering|Suffering]] · [[World and Experience/Dementia|Dementia]] · [[World and Experience/Prayer|Prayer]] · [[World and Experience/Phonology|Phonology]] · [[World and Experience/Miracles|Miracles]] · [[World and Experience/Auras and the Luminous Field|Auras and the Luminous Field]] · [[World and Experience/Parasites|Parasites]] · [[World and Experience/Private Dowding|Private Dowding]] · [[World and Experience/The Secret|The Secret]] ⊘ · [[World and Experience/Astrology|Astrology]] ⊘ · [[World and Experience/Holy Rollers|Holy Rollers]] · [[World and Experience/Diana and the Distrust of the Moon|Diana and the Distrust of the Moon]] · [[World and Experience/Influencers|Influencers]]
 
 ---
 
