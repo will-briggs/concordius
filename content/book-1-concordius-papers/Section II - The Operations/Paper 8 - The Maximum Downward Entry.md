@@ -1,4 +1,4 @@
-*← [[Paper 7 1_2 - The Three Kenoses|Paper 7½ — The Three Kenoses]]*
+*← [[Paper 6 1_2 - Love's Descent|Paper 6½ — Love's Descent: The Kenotic Arm]]*
 
 # Paper 8 — The Maximum Downward Entry: Kenosis, the Miracles, and the Resurrection Body
 

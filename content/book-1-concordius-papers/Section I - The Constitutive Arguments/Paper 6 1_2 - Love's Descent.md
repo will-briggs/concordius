@@ -1,14 +1,14 @@
-*← [[Paper 7 - The Spirit Integrates|Paper 7 — The Spirit Integrates]]*
+*← [[Paper 6 - The Cogito Coheres|Paper 6 — The Cogito Coheres: Catching, the Thought Adjuster, and the Sifting Field]]*
 
-# Paper 7½ — The Three Kenoses
+# Love's Descent: The Kenotic Arm
 
-*Seventh-and-a-half paper in the Concordius series. Companion to "The Creative Choice" (Paper 3), "The Trogoautoegocrat" (Paper 7), and "The Maximum Downward Entry" (Paper 8).*
+*Paper 6½ of Section I — the Si-Do interval, and the descending arm of the Trogoautoegocrat. Where Paper 6 traces the mortal climbing the octave, this paper traces Love coming down it: the three kenoses and the Creator Son's bestowal descent, which together establish the shocks the ascent cannot generate for itself. Companion to Paper 3 (Creation), Paper 6 (the ascending arm), and Paper 8 (the Incarnation in full).*
 
 ---
 
 ## Abstract
 
-This paper identifies three kenotic acts as the structural spine of the creative project. Each is a descent of ⟨·,·⟩ into greater constraint, in the only form in which Love can reach a receiving level: accepting the constraint of the space it enters. The first kenosis is Creation itself — the Father constituting genuine otherness. The second is the Thought Adjuster's indwelling — a fragment of the Father accepting H₄₈ temporal constraint, triggered by and marking the birth of self-awareness. The third is the Incarnation, treated in full in Paper 8. A structural consequence is derived: the [[Appendix I - Dictionary of Terms#Heptaparaparshinokh|Heptaparaparshinokh]], as the constitutional algebra of the created order, applies universally — H₄₈ conditions modulate how the traversal proceeds but cannot alter the structure it traverses.
+This paper is the **descending arm** of the Trogoautoegocrat — Love coming down the octave that Paper 6's mortal climbs. It identifies three kenotic acts as the structural spine of the creative project, then traces the Creator Son's sevenfold bestowal descent, which establishes from within each mode the very shocks the ascending career cannot supply for itself. Each is a descent of ⟨·,·⟩ into greater constraint, in the only form in which Love can reach a receiving level: accepting the constraint of the space it enters. The first kenosis is Creation itself — the Father constituting genuine otherness. The second is the Thought Adjuster's indwelling — a fragment of the Father accepting H₄₈ temporal constraint, triggered by and marking the birth of self-awareness. The third is the Incarnation, treated in full in Paper 8. A structural consequence is derived: the [[Appendix I - Dictionary of Terms#Heptaparaparshinokh|Heptaparaparshinokh]], as the constitutional algebra of the created order, applies universally — H₄₈ conditions modulate how the traversal proceeds but cannot alter the structure it traverses.
 
 **Confidence tier notice:** Sections 1 and 2 derive from the framework of Papers 1–3 and carry mathematical warrant. Section 3 (the Thought Adjuster) combines structural derivation with Urantia testimony and carries derived-tier status. Section 4 (the Incarnation) is a forward note to Paper 8, where the full treatment and confidence tier appear. Section 5 (universality of the Heptaparaparshinokh) is structural derivation, with Matthew 5:45 as convergent testimony at concordance tier.
 
@@ -206,6 +206,42 @@ The ontological order generates the created order from above. The epistemologica
 
 ---
 
+## 7. The Bestowal Progression: the Sevenfold Descent
+
+The descending arm has a specific cosmic form: the Creator Son's traversal of the seven-note structure from grade 3 to grade 1, inhabiting each mode from within rather than administering it from above.
+
+**Why descent through all seven modes is necessary.** The Mi-Fa shock must be administered by a being who operates at the grade-2 level — but its effectiveness depends on more than the administrator's operating level. It depends on the administrator having inhabited the recipient's mode *from within*. A Creator administering the shock to a being in the e₁ (Father-alone) condition without ever having lived that condition from the inside provides a transmission they have not themselves received in that form. The bestowal sequence resolves this: seven successive incarnations, each inhabiting one Trinity combination at the constraint level of that mode's natural existence, so that afterward the ascending creature at any note has access to a demonstrated passage — the Creator has lived that note and crossed the interval above it.
+
+| Bestowal | Grade | Trinity Expression | Approximate mode |
+|----------|-------|--------------------|-----------------|
+| 1 | 3 | Full Trinity | Melchizedek |
+| 2 | 2 | Father–Son | Lanonandek |
+| 3 | 2 | Father–Spirit | Material Son |
+| 4 | 2 | Son–Spirit | Seraphic |
+| 5 | 1 | Son alone | Ascending mortal (Salvington) |
+| 6 | 1 | Spirit alone | Uversa pilgrim |
+| 7 | 1 | Father alone | Mortal on Urantia |
+
+The mortal incarnation — the seventh bestowal, at H₄₈ — is the grade-1 Father-alone mode: the single constitutive relation at the deepest point of eigenstate selection, the most constrained mode of existence within the creation, inhabited not from administrative distance but as a mortal subject to every constraint a mortal faces.
+
+**The seventh bestowal as a complete octave.** The Incarnation is not only a provision for others; it is itself a complete octave of the Heptaparaparshinokh, with its own Mi-Fa and Si-Do crossings marked by two forty-day intervals — the wilderness (Mi-Fa) and the post-Resurrection appearances (Si-Do). The full treatment is Paper 8. Here it suffices that the descending arm's deepest point is itself a complete traversal: both intervals crossed in correct sequence, from within the grade-1 mode, under the maximum H₄₈ constraint.
+
+*(Confidence tier: the descending direction — grade 3 toward grade 1, terminating at the Father-alone mortal incarnation — is structurally derived. The specific Trinity combination of each individual bestowal rests on Urantia testimony, Papers 119–120 and 16–17, and is marked as such.)*
+
+---
+
+## 8. The Keystone, and the Circuit It Closes
+
+The descending arm exists for the ascending one. Its whole purpose is to establish, from within each mode, the shocks that Paper 6's climbing mortal cannot generate alone — the grade-2 input that crosses Mi-Fa, and, at the top, the act that crosses Si-Do.
+
+That second act is the **keystone**, and it is the Father's alone. No ascending being can install centrality from within grade 2; no descending Creator Son's bestowal can substitute for the Father's unmediated constitutive completion at the Si-Do boundary. The Thought Adjuster — the Father's fragment present within the being throughout its existence — is the mechanism by which that completion reaches every being who arrives at Si fully prepared. The Mi-Fa interval is crossed by the Son coming *down* into the substrate; the Si-Do interval is crossed by the Father coming *out* to meet the one who has climbed. The father runs.
+
+The two arms together form a single self-sustaining circuit — Gurdjieff's **Trogoautoegocrat**, the cosmic economy of reciprocal maintenance. The descending arm (this paper) supplies the shocks; the ascending arm (Paper 6) does the work of the notes and generates the return flow; the Father's completion closes each octave at the top and opens the next. What the completed ascent then feeds — the actualization of the Supreme, the slow ascent of matter itself — is the upward *output* of the circuit, and its full treatment belongs to the operations of Section II (Paper 14). For Section I it is enough to have shown the shape: the universe maintaining itself by traversing its own constitutive structure in both directions at once — downward by gift, upward by work — against the continuous pressure of the Heropass.
+
+*(Confidence tier: the three-element interdependence of the circuit — descending arm, ascending arm, Father's completion — is structurally derived. The specific outputs of the two sub-circuits and the full ascending-career economy are developed in Paper 14 and rest in part on Urantia testimony.)*
+
+---
+
 ## Open Questions
 
 **OQ1 — The Adjuster indwelling threshold and the paleoanthropological record.** The second kenosis is triggered by the H₄₈ substrate reaching the consciousness threshold — sufficient eigenvalue diversity and catching capacity to sustain the creative choice. This is a structural prediction about the emergence of self-reflective consciousness in the evolutionary record. The behavioral modernity account places this around 40,000–50,000 BP (symbolic behavior, burial practices, art). Whether the structural threshold conditions map precisely onto this date, or predict an earlier or later emergence, requires comparison with the paleoanthropological record. The framework predicts the threshold exists and is structurally characterizable; it does not predict the date.
@@ -216,8 +252,8 @@ The ontological order generates the created order from above. The epistemologica
 
 ---
 
-*Cross-reference: [[Paper 3 - The Father Creates]] §9; [[Paper 6 - The Cogito Coheres]] OQ8; [[Paper 7 - The Spirit Integrates]]; [[Paper 8 - The Maximum Downward Entry]] §§3, 7, 9, 10; [[Paper 24 1_2 - The Mi-Fa Interval]]; [[Paper 28 1_2 - The Si-Do Interval]]; [[Appendix I - Dictionary of Terms#Kenosis|Kenosis]]; [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]]*
+*Cross-reference: [[Paper 3 - The Father Creates]] §9; [[Paper 6 - The Cogito Coheres]] OQ8; [[Paper 6 1_2 - Love's Descent|Paper 6½]]; [[Paper 8 - The Maximum Downward Entry]] §§3, 7, 9, 10; [[Paper 24 1_2 - The Mi-Fa Interval]]; [[Paper 28 1_2 - The Si-Do Interval]]; [[Appendix I - Dictionary of Terms#Kenosis|Kenosis]]; [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]]*
 
 ---
 
-*[[Section II - The Operations/Paper 8 - The Maximum Downward Entry|Paper 8 — The Maximum Downward Entry]] →*
+*[[Paper 7 - What We Know|Paper 7 — What We Know, What We Don't]] →*
