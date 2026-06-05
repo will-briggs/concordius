@@ -407,4 +407,4 @@ The two crossings and their assignments are now precise. The Father's Si/Do cros
 
 ---
 
-*[[Paper 6 - The Cogito Coheres|Paper 6 — The Cogito Coheres: Catching, the Thought Adjuster, and the Sifting Field]] →*
+*[[Paper 5 - The Long Ascent|Paper 5 — The Long Ascent: From the Higgs Vacuum to Our Uncle Monkey]] →*

@@ -1,4 +1,4 @@
-*← [[Paper 4 - The Son Articulates|Paper 4 — The Son Articulates: H₄₈ and the Higgs Mechanism]]*
+*← [[Paper 5 - The Long Ascent|Paper 5 — The Long Ascent: From the Higgs Vacuum to Our Uncle Monkey]]*
 
 # The Cogito Coheres: Catching, the Thought Adjuster, and the Sifting Field
 
