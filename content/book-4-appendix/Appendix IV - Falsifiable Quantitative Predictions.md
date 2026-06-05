@@ -24,7 +24,7 @@ A framework that predicts things is a framework that can fail. These predictions
 
 ## 1. The H₂₄→H₄₈ Phase Transition: An Event in the Electroweak Desert
 
-**The derivation.** Paper 4, Section 9 derives the timing of each cascade level transition from two structural inputs: eigenspace-proportional GNST rates (production rate scales as eigenspace size) and the halving function at each grade transition in Cl(3,0). The two cosmological anchors are the first H₃ GNST application at the Planck epoch (~10⁻⁴³ s) and the H₄₈ completion at electroweak symmetry breaking (~10⁻¹² s). The total span is 31 log-time orders. The inverse eigenspace ratios 1:2:4:8:16 sum to 31, distributing exactly as follows:
+**The derivation.** Paper 3½, Section 9 derives the timing of each cascade level transition from two structural inputs: eigenspace-proportional GNST rates (production rate scales as eigenspace size) and the halving function at each grade transition in Cl(3,0). The two cosmological anchors are the first H₃ GNST application at the Planck epoch (~10⁻⁴³ s) and the H₄₈ completion at electroweak symmetry breaking (~10⁻¹² s). The total span is 31 log-time orders. The inverse eigenspace ratios 1:2:4:8:16 sum to 31, distributing exactly as follows:
 
 | Cascade transition | Log-time duration (decades) | Transition ends at |
 |---|---|---|
@@ -56,7 +56,7 @@ The energy scale corresponding to t ~ 10⁻²⁸ s in a radiation-dominated univ
 
 ## 2. The H₁₂→H₂₄ Transition: Inflation, Flatness, and the Spectral Index as Retrodictions
 
-**The structural derivation.** Paper 4, Section 9 places the H₁₂→H₂₄ transition at ~10⁻³⁶ s — the GUT epoch. Standard cosmology places cosmic inflation at the same moment. These are the same physical event identified from two independent frameworks. The cascade framework supplies a structural account of what inflation is: the distributional content of the H₁₂ eigenspace undergoing eigenstate selection into the 24-constraint regime. What cosmology calls the inflaton field, the slow roll, and reheating all have structural correspondents in the cascade mechanics. Inflation, in this reading, is not a mechanism grafted onto standard cosmology to explain its foundational puzzles. It is the H₁₂→H₂₄ transition, re-described from within the cascade.
+**The structural derivation.** Paper 3½, Section 9 places the H₁₂→H₂₄ transition at ~10⁻³⁶ s — the GUT epoch. Standard cosmology places cosmic inflation at the same moment. These are the same physical event identified from two independent frameworks. The cascade framework supplies a structural account of what inflation is: the distributional content of the H₁₂ eigenspace undergoing eigenstate selection into the 24-constraint regime. What cosmology calls the inflaton field, the slow roll, and reheating all have structural correspondents in the cascade mechanics. Inflation, in this reading, is not a mechanism grafted onto standard cosmology to explain its foundational puzzles. It is the H₁₂→H₂₄ transition, re-described from within the cascade.
 
 **Retrodiction 1: Spatial flatness.** The observable universe is spatially flat to high precision (Planck 2018: Ω_k = 0.001 ± 0.002). Standard cosmology requires inflation to explain this: without inflation, the initial density must be fine-tuned to the critical density with extraordinary precision, since any deviation compounds over time. Inflation stretches initial curvature to imperceptibility.
 
@@ -82,7 +82,7 @@ The cascade framework motivates the same qualitative result independently. Exact
 
 ## 3. Dark Matter: Structural Invisibility as a Derived Prediction
 
-**The derivation.** Paper 4, Section 2 establishes that the norm ‖·‖ — the Isle of Paradise, the non-relational face of the constitutive inner product — operates across the full Gelfand triple. It is not H₄₈-specific. Accordingly, lower-constraint eigenvalue content (organized at H₂₄, H₁₂, H₆, or H₃) distributed within H₄₈ space has a norm and therefore gravitates. The electromagnetic force, the strong force, and the weak force are products of the 48-constraint fixed-geometry structure. They do not operate on content organized at constraint levels below 48. The predicted observational signature of lower-constraint content in H₄₈ space follows directly: gravitationally active, electromagnetically invisible, not subject to strong or weak nuclear forces, distributed along ⟨·,·⟩-generated geometry rather than clumping into baryonic structures.
+**The derivation.** Paper 3½, Section 2 establishes that the norm ‖·‖ — the Isle of Paradise, the non-relational face of the constitutive inner product — operates across the full Gelfand triple. It is not H₄₈-specific. Accordingly, lower-constraint eigenvalue content (organized at H₂₄, H₁₂, H₆, or H₃) distributed within H₄₈ space has a norm and therefore gravitates. The electromagnetic force, the strong force, and the weak force are products of the 48-constraint fixed-geometry structure. They do not operate on content organized at constraint levels below 48. The predicted observational signature of lower-constraint content in H₄₈ space follows directly: gravitationally active, electromagnetically invisible, not subject to strong or weak nuclear forces, distributed along ⟨·,·⟩-generated geometry rather than clumping into baryonic structures.
 
 **The retrodiction.** This matches the observed profile of dark matter: confirmed gravitationally through galaxy rotation curves, gravitational lensing, and large-scale structure formation; electromagnetically invisible; not subject to the strong or weak forces. The framework arrived at this profile from structural first principles rather than by fitting to observations.
 
@@ -130,7 +130,7 @@ The genuine prediction is a refinement beyond this leading order. The boundary o
 
 **What would disconfirm it.** The identification itself is difficult to disconfirm at leading order — w = −1 is both the structural prediction and the current observational result. The refined prediction is more exposed: if future surveys conclusively establish w = −1 with no detectable evolution at all reachable precision, and if the formally developed Φ′ boundary operator predicts a correction larger than the measurement uncertainty, the identification must be reconsidered. Additionally, if the Friedmann bridge is formally closed and the Φ′ identification becomes structurally necessary (not merely concordance), the disconfirmation conditions sharpen correspondingly.
 
-*Confidence tier: derived (w = −1 at leading order, from the structural Friedmann reading in Paper 4 §9); concordance (Φ′ boundary identification with dark energy); derived (open) on the w_a correction.*
+*Confidence tier: derived (w = −1 at leading order, from the structural Friedmann reading in Paper 3½ §9); concordance (Φ′ boundary identification with dark energy); derived (open) on the w_a correction.*
 
 ---
 
@@ -153,7 +153,7 @@ The four transition epochs and their approximate peak GW frequencies:
 
 **What would disconfirm it.** Future measurements of the primordial GW background that conclusively show no first-order transitions at the predicted frequencies, combined with a well-confirmed alternative cosmological history.
 
-**Open requirement: the Friedmann bridge.** The frequency estimates require translating cascade epoch timing into cosmological redshifting of GW frequency, which requires connecting the GNST actualization rate to the Hubble expansion governed by the Friedmann equations. Paper 4, Section 9 identifies this as the most important open derivation of the framework — whether the GNST time operator and Havona as the topological ground of spacetime jointly imply the Friedmann equations, or require additional input. Until this bridge is derived, the frequency estimates carry significant uncertainty.
+**Open requirement: the Friedmann bridge.** The frequency estimates require translating cascade epoch timing into cosmological redshifting of GW frequency, which requires connecting the GNST actualization rate to the Hubble expansion governed by the Friedmann equations. Paper 3½, Section 9 identifies this as the most important open derivation of the framework — whether the GNST time operator and Havona as the topological ground of spacetime jointly imply the Friedmann equations, or require additional input. Until this bridge is derived, the frequency estimates carry significant uncertainty.
 
 *Confidence tier: concordance (qualitative GW signal prediction); derived (open) on specific frequencies.*
 
@@ -163,17 +163,17 @@ The four transition epochs and their approximate peak GW frequencies:
 
 | Prediction | Derivation basis | Current status | Falsified by |
 |---|---|---|---|
-| Phase transition at ~10⁻²⁸ s (~10¹¹ GeV) | Cascade timing (Paper 4 §9) | Unconfirmed; no Standard Model process here | Cosmological exclusion of all transitions in this range |
-| Dark matter direct detection permanently null | Cross-level norm structure (Paper 4 §2, Paper 6 §2) | Consistent with all null results to date | Any statistically significant electromagnetic signal in direct detection |
+| Phase transition at ~10⁻²⁸ s (~10¹¹ GeV) | Cascade timing (Paper 3½ §9) | Unconfirmed; no Standard Model process here | Cosmological exclusion of all transitions in this range |
+| Dark matter direct detection permanently null | Cross-level norm structure (Paper 3½ §2, Paper 6 §2) | Consistent with all null results to date | Any statistically significant electromagnetic signal in direct detection |
 | Dark matter density ratio ~5:1 derivable from Cl(3,0) grades | Cascade grade structure | Open derivation | If Cl(3,0) grades yield a ratio far from 5:1 |
-| Gravity resists standard QFT quantization structurally | ‖·‖ as constitutive prior (Paper 4 §2) | Consistent with current failure of perturbative quantum gravity | Renormalizable spin-2 graviton QFT with observational confirmation |
+| Gravity resists standard QFT quantization structurally | ‖·‖ as constitutive prior (Paper 3½ §2) | Consistent with current failure of perturbative quantum gravity | Renormalizable spin-2 graviton QFT with observational confirmation |
 | Dark energy w ≠ −1 (Φ′ boundary pressure) | Triple boundary structure | Consistent with current observations; open | Future surveys conclusively establishing w = −1 with no evolution |
 | Primordial GW background at cascade transition frequencies | Cascade timing + phase transition logic | Untestable at present | Future high-frequency GW detection inconsistent with predicted spectrum |
 | Leptogenesis epoch at ~10⁻²⁸ s (H₂₄→H₄₈ crossing) | Cascade timing + subspace crossing structure | No confirmed leptogenesis model; several candidate models in this range | Confirmed leptogenesis model at a very different scale |
-| Inflation identified with H₁₂→H₂₄ transition | Cascade timing (Paper 4 §9) | Consistent (inflation at ~10⁻³⁶ s is standard cosmology) | Inflation epoch established at a time inconsistent with cascade timing |
-| Spatial flatness as structural default | Nuclear space geometry as constitutive prior (Paper 4 §9, Paper 1 §5.2) | Confirmed: Ω_k = 0.001 ± 0.002 (Planck 2018) | Non-flat universe; or formal derivation showing nuclear space geometry does not propagate to H₄₈ |
-| CMB uniformity (horizon problem dissolves) | Nuclear topology precedes metric causality (Paper 4 §9, Paper 1 §5.4) | Consistent; formal H₁₂ causal derivation pending | Rigorous H₁₂ causal structure that fails to connect the relevant CMB regions |
-| Spectral index n_s < 1 (qualitative) | Constraint-level scale breaking at H₁₂ (Paper 4 §9) | Confirmed: n_s ≈ 0.965 (Planck 2018) | n_s = 1 established; or H₁₂ internal structure yields n_s far from 0.965 |
+| Inflation identified with H₁₂→H₂₄ transition | Cascade timing (Paper 3½ §9) | Consistent (inflation at ~10⁻³⁶ s is standard cosmology) | Inflation epoch established at a time inconsistent with cascade timing |
+| Spatial flatness as structural default | Nuclear space geometry as constitutive prior (Paper 3½ §9, Paper 1 §5.2) | Confirmed: Ω_k = 0.001 ± 0.002 (Planck 2018) | Non-flat universe; or formal derivation showing nuclear space geometry does not propagate to H₄₈ |
+| CMB uniformity (horizon problem dissolves) | Nuclear topology precedes metric causality (Paper 3½ §9, Paper 1 §5.4) | Consistent; formal H₁₂ causal derivation pending | Rigorous H₁₂ causal structure that fails to connect the relevant CMB regions |
+| Spectral index n_s < 1 (qualitative) | Constraint-level scale breaking at H₁₂ (Paper 3½ §9) | Confirmed: n_s ≈ 0.965 (Planck 2018) | n_s = 1 established; or H₁₂ internal structure yields n_s far from 0.965 |
 
 ---
 
@@ -191,7 +191,7 @@ The predictions are the bet. The physics is the table.
 
 ## Open Derivations Required to Sharpen These Predictions
 
-1. **The Friedmann bridge**: Formal connection between the GNST actualization rate and the Hubble expansion rate. Required to convert cascade epoch timing to precise cosmological frequencies and temperatures. Identified in Paper 4 §9, Paper 6 OQ7.
+1. **The Friedmann bridge**: Formal connection between the GNST actualization rate and the Hubble expansion rate. Required to convert cascade epoch timing to precise cosmological frequencies and temperatures. Identified in Paper 3½ §9, Paper 6 OQ7.
 
 2. **The H₂₄→H₄₈ symmetry content**: What symmetry group governs the H₂₄ constraint regime? What symmetry breaks at the H₂₄→H₄₈ crossing? The prediction of a phase transition at ~10⁻²⁸ s becomes substantially more precise if the symmetry structure of the transition is formally derived.
 
@@ -207,4 +207,4 @@ The predictions are the bet. The physics is the table.
 
 ---
 
-*Cross-references: Paper 4 §9 (cascade timing derivation and GUT retrodiction); Paper 4 §2 (dark matter structural identification); Paper 6 §2 (dark matter as cross-level norm content); Paper 5 (Higgs mechanism at H₄₈ completion); Paper 14 (Constraint Compatibility Condition); Appendix III (Φ-proximity detection methodology).*
+*Cross-references: Paper 3½ §9 (cascade timing derivation and GUT retrodiction); Paper 3½ §2 (dark matter structural identification); Paper 6 §2 (dark matter as cross-level norm content); Paper 4 (Higgs mechanism at H₄₈ completion); Paper 14 (Constraint Compatibility Condition); Appendix III (Φ-proximity detection methodology).*

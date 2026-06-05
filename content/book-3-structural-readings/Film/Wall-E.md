@@ -4,7 +4,7 @@
 **Director:** Andrew Stanton  
 **Medium:** Animated feature film  
 **Series:** Book 3 — Structural Readings / Movies  
-**Cross-references:** Paper 4 (the Constraint Cascade); Paper 5 §§2–4 (eigenvalue population; noise floor; catching orientation); Paper 7 (the Spirit as topological coherence); Suffering ✶✶ (Human Conditions); "Vanity of Vanities" ✶✶ (Aphorisms); The Lucifer Rebellion (Christian Doctrine)
+**Cross-references:** Paper 3½ (the Constraint Cascade); Paper 5 §§2–4 (eigenvalue population; noise floor; catching orientation); Paper 7 (the Spirit as topological coherence); Suffering ✶✶ (Human Conditions); "Vanity of Vanities" ✶✶ (Aphorisms); The Lucifer Rebellion (Christian Doctrine)
 
 ---
 

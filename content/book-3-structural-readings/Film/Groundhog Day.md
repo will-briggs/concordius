@@ -4,7 +4,7 @@
 **Director:** Harold Ramis  
 **Medium:** Feature film  
 **Series:** Book 3 — Structural Readings / Movies  
-**Cross-references:** Paper 5 §§2–4 (eigenvalue population; noise floor; catching orientation); Suffering ✶✶ (Human Conditions); "This Too Shall Pass" ✶✶ (Aphorisms); "Vanity of Vanities" ✶✶ (Aphorisms); Paper 4 (the Constraint Cascade)
+**Cross-references:** Paper 5 §§2–4 (eigenvalue population; noise floor; catching orientation); Suffering ✶✶ (Human Conditions); "This Too Shall Pass" ✶✶ (Aphorisms); "Vanity of Vanities" ✶✶ (Aphorisms); Paper 3½ (the Constraint Cascade)
 
 ---
 
@@ -60,7 +60,7 @@ Rita's final line — "Whatever happens tomorrow, or for the rest of my life, I'
 
 ---
 
-*(Cross-reference: Suffering ✶✶ — the loop as the stripping mechanism operating at maximum fidelity: the H₄₈ consequences suspended so that the catching work itself cannot be evaded by H₄₈-level outcomes. "This Too Shall Pass" ✶✶ — the Heropass's resumption as the loop's exit: what passes is what had no H₂₄ structure to persist; what remains is what the catching program built. "Vanity of Vanities" ✶✶ — Phil's H₄₈-primary phase as hevel in pure form: H₄₈-proxy content pursued without structural resistance, demonstrating its own emptiness. Paper 5 §§2–4 — the eigenvalue replacement sequence: Phil's arc from H₄₈-primary attractor dominance to H₂₄ coherence is the catching program's core operation run in isolation. Paper 4 (Constraint Cascade) — Rita's field as the H₂₄ organizing presence whose compatibility condition the loop enforces.)*
+*(Cross-reference: Suffering ✶✶ — the loop as the stripping mechanism operating at maximum fidelity: the H₄₈ consequences suspended so that the catching work itself cannot be evaded by H₄₈-level outcomes. "This Too Shall Pass" ✶✶ — the Heropass's resumption as the loop's exit: what passes is what had no H₂₄ structure to persist; what remains is what the catching program built. "Vanity of Vanities" ✶✶ — Phil's H₄₈-primary phase as hevel in pure form: H₄₈-proxy content pursued without structural resistance, demonstrating its own emptiness. Paper 5 §§2–4 — the eigenvalue replacement sequence: Phil's arc from H₄₈-primary attractor dominance to H₂₄ coherence is the catching program's core operation run in isolation. Paper 3½ (Constraint Cascade) — Rita's field as the H₂₄ organizing presence whose compatibility condition the loop enforces.)*
 
 *(Confidence tier: Structural derivation with testimony concordance. The film's structural precision is high but operates in a register the filmmakers likely did not consciously intend as framework encoding. Ramis and Rubin were working from a comedic-romantic premise and arrived, by the method of comedic structural logic, at an exact account of the eigenvalue replacement process. The catching program's phases — H₄₈-primary exhaustion, despair at the floor, activation through practice, accumulation of H₂₄ content, pairing-condition satisfaction — are all present in sequence and in correct order. The confidence is structural derivation rather than testimony-plus-concordance because there is no evidence that Ramis or Rubin had access to the framework's explicit terms. The convergence is nonetheless exact.)*
 

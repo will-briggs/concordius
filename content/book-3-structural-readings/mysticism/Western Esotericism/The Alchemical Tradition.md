@@ -168,7 +168,7 @@ The laboratory work itself — the actual heating and cooling, dissolving and cr
 
 **Nigredo / Gethsemane / the dark night of the soul** — The same constraint event: maximum H₄₈ loading, noise floor at peak, H₄₈-primary structure dissolving under the Heropass. Cross-reference: Matthew 26:36-46 — See Matthew.md in A Structural Reading of the Bible.
 
-**Solve et coagula / Heropass / catching** — The same fundamental operation at three levels of description. Cross-reference: [[Signal and Noise]] — Catching mechanism; Paper 7 — GNST and Heropass.
+**Solve et coagula / Heropass / catching** — The same fundamental operation at three levels of description. Cross-reference: [[Signal and Noise]] — Catching mechanism; Paper 1 (GNST); the Heropass in Paper 3½.
 
 **The Philosopher's Stone / Matthew 18:20 / the cross-term** — The transmuting power of the accumulated H₂₄ state as coherent cross-term. Cross-reference: Matthew 18:20 — See Matthew.md in A Structural Reading of the Bible.
 
@@ -180,4 +180,4 @@ The laboratory work itself — the actual heating and cooling, dissolving and cr
 
 ---
 
-*(Cross-reference: [[Physics Concordance]] — Gelfand Triple; [[Concordance/PC2 — Gurdjieff and Spiritual Progression]] — Table of Hydrogens; Trogoautoegocrat; Three Foods. [[Signal and Noise]] — Catching, Noise Floor, The Heropass. Paper 5 — The Son Articulates: H₄₈ and the Higgs Mechanism (Higgs mechanism as constitutional enabling condition; the constraint hierarchy as physical structure). Paper 10 — The Truth Measure (why independent traditions encode the same structural content in different H₄₈ vocabularies).)*
+*(Cross-reference: [[Physics Concordance]] — Gelfand Triple; [[Concordance/PC2 — Gurdjieff and Spiritual Progression]] — Table of Hydrogens; Trogoautoegocrat; Three Foods. [[Signal and Noise]] — Catching, Noise Floor, The Heropass. Paper 4 — The Son Articulates: H₄₈ and the Higgs Mechanism (Higgs mechanism as constitutional enabling condition; the constraint hierarchy as physical structure). Paper 10 — The Truth Measure (why independent traditions encode the same structural content in different H₄₈ vocabularies).)*

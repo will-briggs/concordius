@@ -14,7 +14,7 @@ The claim is structural, not prophetic. Gurdjieff's [[Appendix I - Dictionary of
 
 The second and more important claim is fractal: the individual always finds herself in the Si/Do interval of the current octave. Not occasionally. Not in some historical eras. Always. This is the structural condition of mortality under the [[Appendix I - Dictionary of Terms#Heropass|Heropass]]. The person asking "is there a direction — does the arc of a life bend toward anything?" is asking from within the gap. The answer does not arrive from within the octave. The answer is always an external shock or it is not yet an answer.
 
-*Cross-reference: Paper 7 (Law of Seven derivation); Paper 8 (Maximum Downward Entry as the [[Appendix I - Dictionary of Terms#Mi-Fa Interval|Mi-Fa]] shock); Paper 4 (Descent as [[Appendix I - Dictionary of Terms#Densification|Densification]] — the interval shock mechanism); Paper 2 (Cogito to [[Appendix I - Dictionary of Terms#Logos|Logos]] — consciousness as the ascending vector); Paper 20 (Eigenvalue Transmission Theorem — why each generation begins the octave again).*
+*Cross-reference: Paper 7 (Law of Seven derivation); Paper 8 (Maximum Downward Entry as the [[Appendix I - Dictionary of Terms#Mi-Fa Interval|Mi-Fa]] shock); Paper 3½ (Descent as [[Appendix I - Dictionary of Terms#Densification|Densification]] — the interval shock mechanism); Paper 2 (Cogito to [[Appendix I - Dictionary of Terms#Logos|Logos]] — consciousness as the ascending vector); Paper 20 (Eigenvalue Transmission Theorem — why each generation begins the octave again).*
 
 ---
 

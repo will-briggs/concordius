@@ -4,7 +4,7 @@
 **Directors:** The Wachowskis  
 **Medium:** Theatrical feature film  
 **Series:** Book 3 — Structural Readings / Film  
-**Cross-references:** Paper 4 (the constraint cascade; descent as densification); Paper 1 (Gelfand triple; H₄₈ geometry as one level, not the ground); Paper 5 (the noise floor; catching orientation; H₄₈ as fixed-geometry level); Paper 8 §7 (the interval shock; death and return); Plato's *Republic* — the Allegory of the Cave (Section III); 2001: A Space Odyssey (the machine as Lucifer-rebellion structure); The Lucifer Rebellion (Doctrine); Western Esotericism (the Gnostic structure)
+**Cross-references:** Paper 3½ (the constraint cascade; descent as densification); Paper 1 (Gelfand triple; H₄₈ geometry as one level, not the ground); Paper 5 (the noise floor; catching orientation; H₄₈ as fixed-geometry level); Paper 8 §7 (the interval shock; death and return); Plato's *Republic* — the Allegory of the Cave (Section III); 2001: A Space Odyssey (the machine as Lucifer-rebellion structure); The Lucifer Rebellion (Doctrine); Western Esotericism (the Gnostic structure)
 
 ---
 

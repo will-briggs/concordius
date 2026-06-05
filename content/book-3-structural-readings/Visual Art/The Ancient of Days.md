@@ -4,7 +4,7 @@
 **Medium:** Relief etching with watercolor  
 **Location:** Multiple copies; the British Museum holds the copy Blake made for himself in the year of his death (1827)  
 **Series:** Book 3 — Structural Readings / Visual Art  
-**Cross-references:** Paper 1 §§2–4 (⟨·,·⟩ as the Father; the constitutive inner product; the measuring function); Paper 2 §§13–16 (the Divine Names; the negative attributions and the positive relational names); Paper 4 §§1–3 (the constraint cascade; H₁ through H₄₈; the imposition of organizational structure on the undifferentiated); The Lucifer Rebellion (the perturbation of the constitutive relation; the organizational inversion)
+**Cross-references:** Paper 1 §§2–4 (⟨·,·⟩ as the Father; the constitutive inner product; the measuring function); Paper 2 §§13–16 (the Divine Names; the negative attributions and the positive relational names); Paper 3½ §§1–3 (the constraint cascade; H₁ through H₄₈; the imposition of organizational structure on the undifferentiated); The Lucifer Rebellion (the perturbation of the constitutive relation; the organizational inversion)
 
 <img src="/static/images/blake-ancient-of-days.jpg" alt="The Ancient of Days" style="max-width:100%;">
 

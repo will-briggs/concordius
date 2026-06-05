@@ -5,7 +5,7 @@
 *Case Study 2: The Fugal Form, Invertible Counterpoint, and the Permanent [[Appendix I - Dictionary of Terms#Si-Do Interval|Si-Do]] Gap*
 
 **Status:** Complete  
-**Cross-references:** Paper 11 ([[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]]; interval positions; fidelity gradient); Paper 9 ([[Appendix I - Dictionary of Terms#Gödel Incompleteness|Gödel incompleteness]]; the Si-Do gap at the formal level); Paper 12 (Hopkins case study — the structural reading method); Paper 5 (I-duality; Clifford algebra inversion); Structural Readings 03 (Matthew 18:20; [[Appendix I - Dictionary of Terms#Cross-Term|cross-term]] mechanism)
+**Cross-references:** Paper 11 ([[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]]; interval positions; fidelity gradient); Paper 9 ([[Appendix I - Dictionary of Terms#Gödel Incompleteness|Gödel incompleteness]]; the Si-Do gap at the formal level); Paper 12 (Hopkins case study — the structural reading method); Paper 4 (I-duality; Clifford algebra inversion); Structural Readings 03 (Matthew 18:20; [[Appendix I - Dictionary of Terms#Cross-Term|cross-term]] mechanism)
 
 ---
 
@@ -249,7 +249,7 @@ Second: the permanent Si-Do gap of *Contrapunctus XIV* introduces a structural c
 
 ---
 
-*Cross-references: Paper 10 (τ(D) defined; inexhaustibility as high-τ(D) evidence); Paper 9 (Gödel incompleteness; the truth set is not r.e.; the system cannot prove its own consistency); Paper 11 (Holographic Content Principle; interval positions; cross-scale self-similarity); Paper 12 (Hopkins case study; form enacting content; the case study method); Paper 14 (the cross-term mechanism; ⟨·,·⟩-symmetry; valence); Paper 5 (I-duality; Clifford algebra inversion); Structural Readings 03 (Matthew 18:20; coherent assembly and cross-terms)*
+*Cross-references: Paper 10 (τ(D) defined; inexhaustibility as high-τ(D) evidence); Paper 9 (Gödel incompleteness; the truth set is not r.e.; the system cannot prove its own consistency); Paper 11 (Holographic Content Principle; interval positions; cross-scale self-similarity); Paper 12 (Hopkins case study; form enacting content; the case study method); Paper 14 (the cross-term mechanism; ⟨·,·⟩-symmetry; valence); Paper 4 (I-duality; Clifford algebra inversion); Structural Readings 03 (Matthew 18:20; coherent assembly and cross-terms)*
 
 ---
 

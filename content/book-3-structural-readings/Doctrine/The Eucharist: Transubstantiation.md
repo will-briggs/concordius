@@ -146,4 +146,4 @@ The claim that this structural mechanism is what actually occurs at the eucharis
 
 ---
 
-*Cross-references: Paper 14, §5.1 (H₂₄-organized H₄₈ matter); Paper 14, §8 (burning bush — downward compatibility; intercessory prayer); Paper 14, OQ3 (downward direction of the CCC); Paper 14, OQ6 (architectural spheres as electromagnetically dark H₄₈ matter); Paper 7 (GNST; catching as volitional orientation); Paper 4 (Man No. 5 coherence threshold; morontial career)*
+*Cross-references: Paper 14, §5.1 (H₂₄-organized H₄₈ matter); Paper 14, §8 (burning bush — downward compatibility; intercessory prayer); Paper 14, OQ3 (downward direction of the CCC); Paper 14, OQ6 (architectural spheres as electromagnetically dark H₄₈ matter); Paper 7 (GNST; catching as volitional orientation); Paper 3½ (Man No. 5 coherence threshold; morontial career)*

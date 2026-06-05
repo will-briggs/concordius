@@ -4,7 +4,7 @@
 **Medium:** Tempera, pitch, and mastic on gesso  
 **Location:** Refectory, Santa Maria delle Grazie, Milan  
 **Series:** Book 3 — Structural Readings / Visual Art  
-**Cross-references:** Paper 8 §§3–5, OQ8 (the kenotic period; the cross-term mechanism; the overdeterminate condition and its observable signature); Paper 7 §4 (the bestowal sequence; the earthly ministry as a complete octave); Paper 3 (the Creative Choice; catching as the constitutive volitional act); The Lucifer Rebellion (the perturbation and opacity signature; Judas as H₄₈-scale overdetermination)
+**Cross-references:** Paper 8 §§3–5, OQ8 (the kenotic period; the cross-term mechanism; the overdeterminate condition and its observable signature); Paper 6½ §7 (the bestowal sequence; the earthly ministry as a complete octave); Paper 3 (the Creative Choice; catching as the constitutive volitional act); The Lucifer Rebellion (the perturbation and opacity signature; Judas as H₄₈-scale overdetermination)
 
 ---
 

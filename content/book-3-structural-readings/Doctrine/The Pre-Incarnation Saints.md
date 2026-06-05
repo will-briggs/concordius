@@ -1,7 +1,7 @@
 # The Pre-Incarnation Saints: A Structural Reading
 
 **Series:** Book 3 — Structural Readings / Doctrine  
-**Cross-references:** Paper 7 §§2–4 (the octave traversal; the Si-Do interval; the bestowal sequence); Paper 8 §§3–5 (the kenotic constraint; the cross-term mechanism at H₄₈ amplitude); Paper 8 OQ3 (the Heropass and eigenvalue coherence); Paper 14 §§6–8 (the Spirit of Truth; the complete bestowal sequence and its structural effects); The Lucifer Rebellion (the elevated noise floor; the quarantine structure of H₄₈)
+**Cross-references:** Paper 6½ §7 (the bestowal sequence; the seventh bestowal as a complete octave); Paper 8 §§3–5 (the kenotic constraint; the cross-term mechanism at H₄₈ amplitude); Paper 8 OQ3 (the Heropass and eigenvalue coherence); Paper 14 §§6–8 (the Spirit of Truth; the complete bestowal sequence and its structural effects); The Lucifer Rebellion (the elevated noise floor; the quarantine structure of H₄₈)
 
 ---
 

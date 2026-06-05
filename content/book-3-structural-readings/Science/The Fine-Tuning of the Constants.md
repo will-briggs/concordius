@@ -3,7 +3,7 @@
 **Subject:** The anthropic fine-tuning of the physical constants; the cosmological "fine-tuning problem"  
 **Field:** Cosmology; fundamental physics  
 **Series:** Book 3 — Structural Readings / Science  
-**Cross-references:** Paper 4 (the constraint cascade as a determinate mathematical descent); Paper 5 (H₄₈ as the catching-capable level); Reasonablenessism Features 1, 7, 10; the counterfeit reading of fine-tuning as proof (Syntheses — *The Devil Can Quote Scripture*)
+**Cross-references:** Paper 3½ (the constraint cascade as a determinate mathematical descent); Paper 5 (H₄₈ as the catching-capable level); Reasonablenessism Features 1, 7, 10; the counterfeit reading of fine-tuning as proof (Syntheses — *The Devil Can Quote Scripture*)
 
 ---
 

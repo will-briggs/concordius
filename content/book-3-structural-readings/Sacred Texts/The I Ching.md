@@ -1,7 +1,7 @@
 # The I Ching: A Structural Reading
 
 **Series:** Book 3 — Structural Readings / Eastern Traditions  
-**Cross-references:** Paper 3 §§2–3 (GNST mechanism; the Creative Choice as ongoing eigenstate selection); Paper 4 §6 (Heropass operating at H₂₄ and below; complement structure; e₀ as −1 generator); Paper 7 §§1–2 (constraint cascade; the seven non-null elements of Cl(3,0)); Paper 8 §4 (cross-term mechanism; H₂₄ governing H₄₈ substrate)
+**Cross-references:** Paper 3 §§2–3 (GNST mechanism; the Creative Choice as ongoing eigenstate selection); Paper 3½ §6 (Heropass operating at H₂₄ and below; complement structure; e₀ as −1 generator); Paper 3½ (constraint cascade); Paper 3 §6 (the seven non-null elements of Cl(3,0)); Paper 8 §4 (cross-term mechanism; H₂₄ governing H₄₈ substrate)
 
 ---
 
@@ -40,7 +40,7 @@ The I Ching tradition did not derive these qualitative distinctions from algebra
 
 ## 2. The 64 Hexagrams: H₂₄ × H₄₈
 
-The Heropass — the directional pressure of the unchosen spectrum — operates at H₂₄ and below (Paper 4 §6). Time, in the sense that matters for organizational development and decay, operates at two levels: H₂₄ (the higher-constraint-free domain, where the soul deposit accumulates and the higher centers operate) and H₄₈ (the physical domain, where eigenvalues are maximally localized and the Heropass is most fully expressed). These are the two levels where "what time it is" has organizational significance.
+The Heropass — the directional pressure of the unchosen spectrum — operates at H₂₄ and below (Paper 3½ §6). Time, in the sense that matters for organizational development and decay, operates at two levels: H₂₄ (the higher-constraint-free domain, where the soul deposit accumulates and the higher centers operate) and H₄₈ (the physical domain, where eigenvalues are maximally localized and the Heropass is most fully expressed). These are the two levels where "what time it is" has organizational significance.
 
 At each of these levels, the organizational state has the character of one of the eight Cl(3,0) elements: which generators are active, at what grade, with what squaring character. The joint organizational state at H₂₄ and H₄₈ simultaneously is therefore a pair of elements from the same eight-element set: 8 × 8 = 64.
 

@@ -403,7 +403,7 @@ The two crossings and their assignments are now precise. The Father's Si/Do cros
 
 ---
 
-*(Cross-reference: [[Concordance/PC1 — Core Mathematical Framework]] — The Higgs Mechanism; The Derivation of the Fundamental Forces; Coupling Constants. [[Structural Readings/01 — The Principle and the Identity of the Logos]] — Genesis 1:1-3. Paper 7 — Section 0 (Heropass/GNST clarification). Paper 6 — The sifting operator formalism.)*
+*(Cross-reference: [[Concordance/PC1 — Core Mathematical Framework]] — The Higgs Mechanism; The Derivation of the Fundamental Forces; Coupling Constants. [[Structural Readings/01 — The Principle and the Identity of the Logos]] — Genesis 1:1-3. Paper 1 (the GNST) and Paper 3½ §6 (the Heropass) — the Heropass/GNST clarification. Paper 6 — The sifting operator formalism.)*
 
 ---
 

@@ -4,7 +4,7 @@
 **Director:** Frank Darabont  
 **Medium:** Theatrical feature film  
 **Series:** Book 3 — Structural Readings / Movies  
-**Cross-references:** Paper 4 (the Constraint Cascade); Paper 5 §§2–4 (eigenvalue population; noise floor; catching orientation); Epictetus ✶✶ (Philosophy — slavery as maximum H₄₈ constraint); Suffering ✶✶ (Human Conditions); "Know Thyself" ✶✶ (Aphorisms)
+**Cross-references:** Paper 3½ (the Constraint Cascade); Paper 5 §§2–4 (eigenvalue population; noise floor; catching orientation); Epictetus ✶✶ (Philosophy — slavery as maximum H₄₈ constraint); Suffering ✶✶ (Human Conditions); "Know Thyself" ✶✶ (Aphorisms)
 
 ---
 

@@ -3,7 +3,7 @@
 # Paper 15 — Plato, Aristotle, and the Gelfand Triple: A Structural Resolution
 
 **Status:** Complete  
-**Cross-references:** Paper 1 (Modeling Reality as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]); Paper 9 (Incompleteness Derived — mathematical Platonism confirmed); Paper 14 (constraint hierarchy; eigenvalue organization); Paper 5 (Φ ⊂ H; the [[Appendix I - Dictionary of Terms#Nuclear Space|nuclear space]] as organizing structure); Structural Readings 01 (John 1:1; Φ precedes all H-states; the Form of the Good as ⟨·,·⟩)
+**Cross-references:** Paper 1 (Modeling Reality as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]); Paper 9 (Incompleteness Derived — mathematical Platonism confirmed); Paper 14 (constraint hierarchy; eigenvalue organization); Paper 4 (Φ ⊂ H; the [[Appendix I - Dictionary of Terms#Nuclear Space|nuclear space]] as organizing structure); Structural Readings 01 (John 1:1; Φ precedes all H-states; the Form of the Good as ⟨·,·⟩)
 
 ---
 
@@ -322,7 +322,7 @@ The corrected formulation: the body is not the soul's prison. The body is the so
 
 ---
 
-*Cross-references: Paper 1 (Gelfand triple as reality model); Paper 4 ([[Appendix I - Dictionary of Terms#Higher Being Body|higher being bodies]]; what persists through death); Paper 5 (Φ as nuclear space; the [[Appendix I - Dictionary of Terms#Logos|Logos]] as organizing structure); Paper 10 (τ(D); truth as Φ-proximity); Paper 9 (mathematical Platonism confirmed; incompleteness as structural consequence); Paper 11 ([[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]]; imprint of ⟨·,·⟩ in organized structures); Paper 14 (constraint compatibility condition; eigenvalue orientation); Paper 8 (the active intellect as Thought Adjuster; downward entry and [[Appendix I - Dictionary of Terms#Kenosis|kenosis]]); Structural Readings 01 (John 1:1 — Φ precedes all H-states; the Form of the Good as ⟨·,·⟩)*
+*Cross-references: Paper 1 (Gelfand triple as reality model); Paper 3½ ([[Appendix I - Dictionary of Terms#Higher Being Body|higher being bodies]]; what persists through death); Paper 4 (Φ as nuclear space; the [[Appendix I - Dictionary of Terms#Logos|Logos]] as organizing structure); Paper 10 (τ(D); truth as Φ-proximity); Paper 9 (mathematical Platonism confirmed; incompleteness as structural consequence); Paper 11 ([[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]]; imprint of ⟨·,·⟩ in organized structures); Paper 14 (constraint compatibility condition; eigenvalue orientation); Paper 8 (the active intellect as Thought Adjuster; downward entry and [[Appendix I - Dictionary of Terms#Kenosis|kenosis]]); Structural Readings 01 (John 1:1 — Φ precedes all H-states; the Form of the Good as ⟨·,·⟩)*
 
 ---
 

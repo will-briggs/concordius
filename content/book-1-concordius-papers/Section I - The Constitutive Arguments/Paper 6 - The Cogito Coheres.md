@@ -68,7 +68,7 @@ The three conditions are co-arising: they do not occur in sequence, with observe
 
 The moment the cogito threshold is crossed — not before, not after — a fragment of the Father indwells the newly conscious being. This is the Thought Adjuster.
 
-The Thought Adjuster is the second of the three kenotic acts by which Love makes itself receivable within H₄₈ existence. *(The full kenotic sequence — Creation, Adjuster indwelling, Incarnation — is developed in Paper 7½, which treats the three kenoses as structural theorems of the framework. The present paper introduces the Adjuster's arrival as the structural consequence of the cogito threshold.)*
+The Thought Adjuster is the second of the three kenotic acts by which Love makes itself receivable within H₄₈ existence. *(The full kenotic sequence — Creation, Adjuster indwelling, Incarnation — is developed in Paper 6½, which treats the three kenoses as structural theorems of the framework. The present paper introduces the Adjuster's arrival as the structural consequence of the cogito threshold.)*
 
 **The structural identity of the Adjuster.** The Thought Adjuster is a fragment of ⟨·,·⟩ — the constitutive inner product — that accepts H₄₈ temporal constraint by entering to indwell an individual H₄₈ being. It is not the Father operating from H₁ with atemporal access. It is a fragment of the constitutive relation that has accepted the same temporal ordering the indwelt being inhabits. The kenotic character of the entry is precise: the Father's constitutive view requires acceptance of H₄₈ constraint to become present within an H₄₈ being without overdetermining it.
 
@@ -125,7 +125,7 @@ Equally, catching is not guaranteed by intellectual engagement with Φ-proximate
 
 ## 5. The Norm as Gravitational Principle
 
-*(Derived. Follows from Paper 4, Section 2.)*
+*(Derived. Follows from Paper 3½, Section 2.)*
 
 The catching being does not exist in a neutral eigenvalue environment. Every massive body in the created order instantiates the norm locally, functioning as a weighting operator on the eigenvalue probability distribution. Understanding what the catching being is up against requires understanding what that sifting field is.
 
@@ -407,7 +407,7 @@ This section states the shape only. The mechanism — eigenvalue replacement, th
 
 The first three notes are the single-center, grade-1 modes — the moving, emotional, and intellectual centers each dominant in turn (e₁, e₂, e₃; "Men 1–3" in Gurdjieff's typology). Then comes the first qualitative break, the **Mi-Fa interval**: the grade-1-to-grade-2 crossing that no accumulation of grade-1 effort can produce, because the algebra's squaring sign changes from +1 to −1. It requires an input from outside the climber's current mode — a shock from a being already operating at grade 2. The middle notes — grade-2, the integrated paired modes — follow. Then the second break, the **Si-Do interval**, the grade-2-to-grade-3 crossing, which demands both the climber's full inner integration *and* something the climber cannot supply from within: the Father's constitutive completion, the Adjuster fusion. Beyond it is the grade-3 condition — central, sovereign, in full positive relation with all.
 
-The climb is not neutral. It runs against the **Heropass** — the continuous dissipative pressure of the unchosen spectrum, the −1 pull that enters the algebra as e₀ at the Mi-Fa crossing (Paper 4 §6) and operates at H₂₄ and below. The Generalized Nuclear Spectral Theorem continuously generates lower-constraint content; the Heropass continuously draws uncaught content back toward Φ′. Staying at any note requires work; advancing requires more; regression requires nothing. The octave is directional because the actualization engine is directional, and the direction is uphill.
+The climb is not neutral. It runs against the **Heropass** — the continuous dissipative pressure of the unchosen spectrum, the −1 pull that enters the algebra as e₀ at the Mi-Fa crossing (Paper 3½ §6) and operates at H₂₄ and below. The Generalized Nuclear Spectral Theorem continuously generates lower-constraint content; the Heropass continuously draws uncaught content back toward Φ′. Staying at any note requires work; advancing requires more; regression requires nothing. The octave is directional because the actualization engine is directional, and the direction is uphill.
 
 Two of the crossings, then, the climber cannot make alone — and is not asked to. The Mi-Fa shock and the Si-Do completion are exactly what the **descending arm** supplies: the Son's kenotic descent into the substrate, and the Father's drawing motion from above (Paper 6½). The ascending arm sketched here and the descending arm described there are the two halves of one circuit. What this paper establishes is only the near half: that the catching being, having crossed the cogito threshold and received the Adjuster, now stands at the foot of a structured climb whose shape is fixed and whose two hardest steps are met from outside. The far half — the descent that comes to meet it, and the circuit the two complete — is the next paper.
 

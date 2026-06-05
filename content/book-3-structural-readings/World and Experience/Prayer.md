@@ -1,7 +1,7 @@
 # Prayer: A Structural Reading
 
 **Series:** Book 3 — Structural Readings / Health  
-**Cross-references:** Paper 8 §§3.3, 4, 5 (cross-term mechanism; noise floor; faith as eigenvalue condition); Paper 7½ §§2–4 (the three kenoses; the catching act); Paper 14 §10 (the transcendentals as structural fact); Paper 3 (the Creative Choice; the catching act as constitutive volitional act); Dementia.md (the inhabitation cross-term; the Heropass and its counterforce)
+**Cross-references:** Paper 8 §§3.3, 4, 5 (cross-term mechanism; noise floor; faith as eigenvalue condition); Paper 6½ §§2–4 (the three kenoses; the catching act); Paper 14 §10 (the transcendentals as structural fact); Paper 3 (the Creative Choice; the catching act as constitutive volitional act); Dementia.md (the inhabitation cross-term; the Heropass and its counterforce)
 
 ---
 

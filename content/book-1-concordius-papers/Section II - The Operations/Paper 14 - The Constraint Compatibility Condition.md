@@ -3,7 +3,7 @@
 # Paper 14 — The Constraint Compatibility Condition: Chemistry, the Ray of Creation, and the Physics of Ascent
 
 **Status:** Complete  
-**Cross-references:** Paper 5 (Clifford algebra [[Appendix I - Dictionary of Terms#Cl(3,0)|Cl(3,0)]]; grade-generation mapping); Paper 4 ([[Appendix I - Dictionary of Terms#Higher Being Body|higher being bodies]]; constraint hierarchy); Paper 7 (GNST; [[Appendix I - Dictionary of Terms#Heropass|Heropass]]); Paper 11 ([[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]]); Structural Readings 05 ([[Appendix I - Dictionary of Terms#Philosopher's Stone|Philosopher's Stone]] [[Appendix I - Dictionary of Terms#Cross-Term|cross-term]]); Physics Concordance — Core Mathematical Framework
+**Cross-references:** Paper 4 (Clifford algebra [[Appendix I - Dictionary of Terms#Cl(3,0)|Cl(3,0)]]; grade-generation mapping); Paper 3½ ([[Appendix I - Dictionary of Terms#Higher Being Body|higher being bodies]]; constraint hierarchy); Paper 1 (GNST); the [[Appendix I - Dictionary of Terms#Heropass|Heropass]] in Paper 3½; Paper 11 ([[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]]); Structural Readings 05 ([[Appendix I - Dictionary of Terms#Philosopher's Stone|Philosopher's Stone]] [[Appendix I - Dictionary of Terms#Cross-Term|cross-term]]); Physics Concordance — Core Mathematical Framework
 
 ---
 

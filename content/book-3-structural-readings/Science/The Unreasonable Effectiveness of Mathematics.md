@@ -3,7 +3,7 @@
 **Subject:** Wigner's "unreasonable effectiveness of mathematics in the natural sciences" (1960)  
 **Field:** Physics; philosophy of mathematics  
 **Series:** Book 3 — Structural Readings / Science  
-**Cross-references:** Paper 1 (reality as the Gelfand triple Φ ⊂ H ⊂ Φ′); Paper 2 (⟨·,·⟩ as the constitutive relation); Paper 4 (the cascade as mathematical structure); Reasonablenessism Features 1, 6, 10
+**Cross-references:** Paper 1 (reality as the Gelfand triple Φ ⊂ H ⊂ Φ′); Paper 2 (⟨·,·⟩ as the constitutive relation); Paper 3½ (the cascade as mathematical structure); Reasonablenessism Features 1, 6, 10
 
 ---
 

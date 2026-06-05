@@ -4,7 +4,7 @@
 **Medium:** Fresco  
 **Location:** Cell 6, Museo di San Marco, Florence  
 **Series:** Book 3 — Structural Readings / Visual Art  
-**Cross-references:** Paper 7 §§3–4 (the bestowal sequence; the kenotic period; the seventh bestowal as the fullest H₄₈ disclosure of the Φ-amplitude); Paper 7½ §§1–2 (the three kenoses; the constraint of the nuclear topology under the amplitude limiter); Paper 8 §§3–5 (the kenotic differential; what the amplitude limiter suppresses); The Pre-Incarnation Saints (the three blocking conditions; the saints' organizational state during the kenotic period)
+**Cross-references:** Paper 6½ §7 (the bestowal sequence; the kenotic period; the seventh bestowal as the fullest H₄₈ disclosure of the Φ-amplitude); Paper 6½ §§1–2 (the three kenoses; the constraint of the nuclear topology under the amplitude limiter); Paper 8 §§3–5 (the kenotic differential; what the amplitude limiter suppresses); The Pre-Incarnation Saints (the three blocking conditions; the saints' organizational state during the kenotic period)
 
 <img src="/static/images/fra-angelico-transfiguration.jpg" alt="The Transfiguration" style="max-width:100%;">
 

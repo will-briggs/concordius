@@ -3,7 +3,7 @@
 **Subject:** Descent with modification by natural selection (Darwin, 1859; the modern synthesis)  
 **Field:** Evolutionary biology  
 **Series:** Book 3 — Structural Readings / Science  
-**Cross-references:** Paper 5 (catching as selective retention; the CCC); Paper 7 §0 (the Heropass / dissipation); Paper 4 (the constraint cascade, H₄₈ substrate); Reasonablenessism Features 1, 5, 10
+**Cross-references:** Paper 5 (catching as selective retention; the CCC); the Heropass in Paper 3½ (the Heropass / dissipation); Paper 3½ (the constraint cascade, H₄₈ substrate); Reasonablenessism Features 1, 5, 10
 
 ---
 
@@ -25,7 +25,7 @@ The boundary, plainly (Feature 10). Natural selection explains the diversity, fi
 
 ---
 
-*(Cross-reference: Paper 5 — catching as selective retention and the Catching-Compatibility Condition, of which natural selection is the H₄₈ instance; the genome as H₄₈-encoded organizational content. Paper 7 §0 — death/dissipation as the Heropass, here the engine of the generational cycle rather than its enemy. Paper 4 — the constraint cascade as self-generating mathematical descent, requiring no designer, the structural reason biology requires none either. Features 1 and 5 — the biology taken as evidence on its own terms; Feature 10 — the boundary between the mechanism (biology's) and the structural reading (the framework's).)*
+*(Cross-reference: Paper 5 — catching as selective retention and the Catching-Compatibility Condition, of which natural selection is the H₄₈ instance; the genome as H₄₈-encoded organizational content. Paper 3½ §6 — death/dissipation as the Heropass, here the engine of the generational cycle rather than its enemy. Paper 3½ — the constraint cascade as self-generating mathematical descent, requiring no designer, the structural reason biology requires none either. Features 1 and 5 — the biology taken as evidence on its own terms; Feature 10 — the boundary between the mechanism (biology's) and the structural reading (the framework's).)*
 
 *(Confidence tier: Concordance with an explicit boundary. The identification of natural selection with catching's structure at H₄₈ is offered as structural convergence, not as a revision of biology; the framework affirms the mechanism entire and adds no aim the data does not show. The claim that the same selective-retention structure operates above the biological level is marked as a framework claim about unmeasured levels, not a deduction from evolutionary theory.)*
 

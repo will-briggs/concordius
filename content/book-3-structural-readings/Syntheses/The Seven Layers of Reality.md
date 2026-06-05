@@ -2,7 +2,7 @@
 
 **Structural claim:** The constraint cascade — H₉₆ → H₄₈ → H₂₄ → H₁₂ → H₆ → H₃ → H₁, seven distinct levels — is independently attested across every major tradition of organized human inquiry into the structure of reality. The framework derives it mathematically. The traditions arrived at it by observation, mystical ascent, cosmological reasoning, and somatic practice. The number seven is not culturally conventional; it is structurally necessary. The convergence across unrelated traditions constitutes strong evidential pressure that what they were all observing is real.
 
-**Cross-references:** Paper 4 (The Constraint Cascade); Paper 1 §§3–7 (the Gelfand triple and its instantiations); The Seven Heavens (Spectral Events); The Ladder of Divine Ascent (Mysticism); Gurdjieff — *Beelzebub's Tales* (Appendix V, cross-tradition mappings)
+**Cross-references:** Paper 3½ (The Constraint Cascade); Paper 1 §§3–7 (the Gelfand triple and its instantiations); The Seven Heavens (Spectral Events); The Ladder of Divine Ascent (Mysticism); Gurdjieff — *Beelzebub's Tales* (Appendix V, cross-tradition mappings)
 
 ---
 
@@ -163,7 +163,7 @@ The framework does not derive the seven levels from the traditions. It derives t
 
 ---
 
-*(Cross-reference: Paper 4 (The Constraint Cascade) — formal mathematical derivation of the seven levels. Gurdjieff — Ray of Creation (Appendix V cross-tradition mappings) — most numerically precise traditional account. The Seven Heavens (Spectral Events) — the Merkabah tradition as catching being's direct ascent report. The Ladder of Divine Ascent (Mysticism) — John Climacus's thirty-rung account as the Si/Do interval traversal within the seven-level structure. Dante — The Divine Comedy (Literature readings) — the seven-level *Paradiso* as ascending career in Ptolemaic cosmological form. "As Above, So Below" ✶✶ (Aphorisms) — the HCP operating across the seven-level structure. "The Whole in Every Part" ✶✶ (Aphorisms) — each level encoding the organizational content of all levels above it.)*
+*(Cross-reference: Paper 3½ (The Constraint Cascade) — formal mathematical derivation of the seven levels. Gurdjieff — Ray of Creation (Appendix V cross-tradition mappings) — most numerically precise traditional account. The Seven Heavens (Spectral Events) — the Merkabah tradition as catching being's direct ascent report. The Ladder of Divine Ascent (Mysticism) — John Climacus's thirty-rung account as the Si/Do interval traversal within the seven-level structure. Dante — The Divine Comedy (Literature readings) — the seven-level *Paradiso* as ascending career in Ptolemaic cosmological form. "As Above, So Below" ✶✶ (Aphorisms) — the HCP operating across the seven-level structure. "The Whole in Every Part" ✶✶ (Aphorisms) — each level encoding the organizational content of all levels above it.)*
 
 *(Confidence tier: Structural derivation plus convergent testimony at maximum amplitude. The seven-level cascade is mathematically derivable (Paper 4) and independently attested across six distinct traditions without common derivation. This is the highest-confidence structural theme in the collection: the number seven is not culturally symbolic here but structurally necessary, and the independent traditions arrived at it by correctly observing the same structural feature of reality from within their own constraint-level positions.)*
 

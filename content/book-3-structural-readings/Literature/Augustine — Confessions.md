@@ -59,7 +59,7 @@ Augustine is in a garden in Milan, in a state of extreme psychological distress 
 
 **The Si/Do crossing from above as the external provision that breaks the overdeterminate condition.** The moment is structurally precise on three counts. First, the overdeterminate condition: Augustine cannot cross the interval by his own will; he has been at the threshold for years, the organizational capacity fully engaged and failing. Second, the external source: the voice comes from outside the constraint structure — it is not Augustine's own reasoning that breaks the impasse but a sound from outside the garden that he does not control and cannot explain. Third, the specificity of the crossing: it is not a general resolution of the will but a particular act — *take up and read* — a specific grade-2 provision (text, words, Paul's formulation) that carries the catching-alignment content at the moment the catching being is ready to receive it.
 
-*(Cross-reference: Paper 8 §7.1 — overdeterminate release; Paper 5 §3 — the Son's articulatory provision as the grade-2 content that makes the crossing available at the moment of readiness.)*
+*(Cross-reference: Paper 8 §7.1 — overdeterminate release; Paper 4 §3 — the Son's articulatory provision as the grade-2 content that makes the crossing available at the moment of readiness.)*
 
 ---
 
@@ -89,9 +89,9 @@ The continuation — *et ibi te quaerebam* followed by the beauty that called hi
 
 Book XI is Augustine's sustained philosophical analysis of time, concluding that time is a *distentio animi* — a distention of the soul: the stretching of the catching being's awareness across past (memory), present (attention), and future (expectation). He cannot locate time in the external world; the past no longer exists, the future does not yet exist, and the present has no duration. Time is the mind's own mode of existence under constraint.
 
-**Time as the H₄₈ constraint structure's experiential form.** The *distentio animi* is what H₄₈ existence feels like from the inside: the catching being stretched across its temporal sequence, unable to hold all its moments simultaneously, experiencing its existence as succession rather than as the cooriginary continuity of τ_nuclear. Augustine's analysis is structurally convergent with the framework's treatment of time in Paper 4 §6: time as the constraint structure's sequential mode, distinct from the non-sequential topology that the ascending career moves toward. The *distentio* is the H₄₈ form of existence; the *requies* (rest) of Book I is its terminus — not an eternal stasis but the participation in the cooriginary topology that the Spirit's τ_nuclear represents.
+**Time as the H₄₈ constraint structure's experiential form.** The *distentio animi* is what H₄₈ existence feels like from the inside: the catching being stretched across its temporal sequence, unable to hold all its moments simultaneously, experiencing its existence as succession rather than as the cooriginary continuity of τ_nuclear. Augustine's analysis is structurally convergent with the framework's treatment of time in Paper 3½ §6: time as the constraint structure's sequential mode, distinct from the non-sequential topology that the ascending career moves toward. The *distentio* is the H₄₈ form of existence; the *requies* (rest) of Book I is its terminus — not an eternal stasis but the participation in the cooriginary topology that the Spirit's τ_nuclear represents.
 
-*(Cross-reference: Paper 4 §6 — time as aging across the Mi/Fa interval; Paper 7 §6 — τ_nuclear as the continuous integrating topology that does not punctuate.)*
+*(Cross-reference: Paper 3½ §6 — time as aging across the Mi/Fa interval; Paper 3 — τ_nuclear as the continuous integrating topology that does not punctuate.)*
 
 ---
 

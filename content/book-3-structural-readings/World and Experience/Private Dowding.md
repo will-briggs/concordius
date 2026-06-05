@@ -1,7 +1,7 @@
 # Private Dowding: A Structural Reading
 
 **Series:** Book 3 — Structural Readings / Doctrine  
-**Cross-references:** Paper 4 §§8–9 (bifurcation at death; coherence threshold; soul deposit survival); Paper 5 (H₄₈ constraint structure); Paper 6 §§3–4 (H₄₈-primary orientation; the cogito threshold); Paper 7 §§1–2 (the ascending career; the Trogoautoegocrat circuit); Paper 8 §7.1 (overdeterminate release at H₄₈ terminus); Paper 20 (the family as spectral structure; relational eigenvalue overlap); [[The Lucifer Rebellion]] (quarantine conditions; organizational reserve under strain)
+**Cross-references:** Paper 3½ §§8–9 (bifurcation at death; coherence threshold; soul deposit survival); Paper 5 (H₄₈ constraint structure); Paper 6 §§3–4 (H₄₈-primary orientation; the cogito threshold); Paper 6 (the ascending career) and Paper 6½ (the descending arm of the Trogoautoegocrat); Paper 8 §7.1 (overdeterminate release at H₄₈ terminus); Paper 20 (the family as spectral structure; relational eigenvalue overlap); [[The Lucifer Rebellion]] (quarantine conditions; organizational reserve under strain)
 
 ---
 
@@ -25,7 +25,7 @@ Dowding's death was sudden — shellfire, almost instantaneous. The account begi
 
 But the reconstitution in H₂₄ matter has not yet occurred.
 
-The normal transition sequence, as the framework derives it from Paper 4 §8–9 and the Urantia account: H₄₈ dissolution → brief unconsciousness (soul translation — the eigenvalue content being reconstituted in H₂₄ matter by the transition facilitators, the seraphic guardian delivering the soul deposit to the mansion world supervisors) → awakening on the mansion worlds with full morontia form, in the presence of the Thought Adjuster, the guardian, and the resurrection apparatus. This unconscious interval — from the framework's perspective, the period during which the eigenvalue organization is being transferred from its H₄₈ substrate to its H₂₄ substrate — is normally brief and unremarkable.
+The normal transition sequence, as the framework derives it from Paper 3½ §8–9 and the Urantia account: H₄₈ dissolution → brief unconsciousness (soul translation — the eigenvalue content being reconstituted in H₂₄ matter by the transition facilitators, the seraphic guardian delivering the soul deposit to the mansion world supervisors) → awakening on the mansion worlds with full morontia form, in the presence of the Thought Adjuster, the guardian, and the resurrection apparatus. This unconscious interval — from the framework's perspective, the period during which the eigenvalue organization is being transferred from its H₄₈ substrate to its H₂₄ substrate — is normally brief and unremarkable.
 
 In Dowding's case, the transfer does not complete on the normal schedule. He is conscious at H₂₄ — the eigenvalue organization is present and operating — but the H₂₄ substrate attachment has not occurred. He is in an organizational state the framework has no established terminology for: a soul deposit operating in H₂₄ space without the morontia form that would give it a stable H₂₄ substrate interface. He can perceive H₂₄ organizational relationships. He cannot fully engage the H₂₄ environment in the way a fully reconstituted morontia being would.
 

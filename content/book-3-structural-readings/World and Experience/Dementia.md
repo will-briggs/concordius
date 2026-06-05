@@ -1,7 +1,7 @@
 # Dementia: A Structural Reading
 
 **Series:** Book 3 — Structural Readings / Health  
-**Cross-references:** Paper 8 §4 (the kenotic constraint as amplitude limiter; cross-term mechanism); Paper 14 §10 (the transcendentals as structural fact); Paper 4 §6 (the Heropass as dissipative pressure); The Lucifer Rebellion (imposition as structural error; evil as ongoing overdeterminate event)
+**Cross-references:** Paper 8 §4 (the kenotic constraint as amplitude limiter; cross-term mechanism); Paper 14 §10 (the transcendentals as structural fact); Paper 3½ §6 (the Heropass as dissipative pressure); The Lucifer Rebellion (imposition as structural error; evil as ongoing overdeterminate event)
 
 ---
 
