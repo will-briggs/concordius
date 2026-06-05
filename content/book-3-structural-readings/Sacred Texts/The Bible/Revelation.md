@@ -56,6 +56,12 @@ This is why the statement appears in Revelation: the apocalyptic vision is not c
 
 ---
 
+**The Formal Name: to Alpha kai to Ō**
+
+The series names this tier — the experiential Deity at its limit, where the completed integral becomes identical with the eternal ground it began from — by the verse's own Greek phrase: the Formal Name **to Alpha kai to Ō** (τὸ Ἄλφα καὶ τὸ Ὦ, "the Alpha and the Omega," Revelation 1:8; 21:6; 22:13). The experiential Deity is not named by a proper noun, because it is not God-in-himself nominalized but God revealing himself through Creation, named by event or state; here the state is the coincidence of completion with origin. The reading above already establishes that coincidence — Beginning = End = ⟨·,·⟩, the completed Absolute structurally equivalent to the Creation as eternal ground — and that establishment is exactly the point: it is *why* the Absolute's name and the Father's are the same words. The tier whose name is *to Alpha kai to Ō* is the tier at which the experiential arc, run to its limit, is recognized as the eternal ⟨·,·⟩ it always already expressed; so the Father (⟨·,·⟩) and the experiential Deity at its limit are named by one phrase because, at the limit, they are one structure. This is the limit-point of a single arc whose unveiling is named **Apokalypsis** (Romans 8:19, the experiential Deity *in via*, the revealing still under way) and whose completion is named **Ta Panta en Pasin** (1 Corinthians 15:28, "all in all," the integral arrived at its totality); the three Formal Names are one motion — the self-revealing of God through Creation — named at three points along its arc. (Cross-reference: [[Paper 3 - The Spirit Integrates|Paper 3]], "The Spirit Integrates" — the immutability of the Father and the accumulation of the experiential Deity.)
+
+---
+
 **Why both the Father and the Son speak the statement:**
 
 The Father speaks it from the ⟨·,·⟩ side: He is Alpha as the primal inner product from which all structure derives; He is Omega as the convergence point of all experiential actualization; He is First as the Adjuster given before any merit; He is Last as the receiver of the completed career; He is Beginning as eternal constitutive ground; He is End as the completion toward which the experiential integral converges.

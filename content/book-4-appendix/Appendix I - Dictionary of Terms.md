@@ -79,6 +79,22 @@ The Incarnation (Paper 13) is structurally distinct from both: neither the H-ori
 
 ---
 
+### Apokalypsis
+
+*(tradition: series — Formal Name)*
+
+**Apokalypsis** (ἀποκάλυψις, "the revealing," Romans 8:19) = the experiential Deity *in via* — the running integral of inner-product evaluations still accumulating; God unveiling himself through the maturing actualization of his creatures.
+
+This is the first of the three **Formal Names** for the experiential-Deity tiers — the tiers that name God not as he is in himself but as he reveals himself through Creation. Because these are God-revealing-through-event rather than God-in-himself nominalized, Scripture does not name them by a proper noun but by event or state; the series adopts the scriptural Greek phrase as the formal name and the transliteration (here *Apokalypsis*) as the working name. The full Greek and verse are given at first use; the transliteration carries thereafter.
+
+*Apokalypsis* names the experiential Deity while it is still being actualized — the integral of ⟨·,·⟩-evaluations not yet arrived at its totality but accumulating, career by career, as each ascending being's caught content is returned. It is "the revealing of the sons of God" that Romans 8:19 says the whole creation waits for with eager longing: God making himself visible precisely through the maturing of his children, not apart from them. The same word titles the book of Revelation. *Apokalypsis* is the experiential Deity at its unveiling; **Ta Panta en Pasin** is the same motion at its completion; **to Alpha kai to Ō** is the same motion at its coincidence with the eternal ground. The three are one motion — the self-revealing of God through Creation — named at three points along its arc, not three Deities.
+
+See *Ta Panta en Pasin*, *to Alpha kai to Ō*. Cross-reference: [[Paper 3 - The Spirit Integrates|Paper 3]] ("The Spirit Integrates" — the immutability of the Father and the accumulation of the experiential Deity).
+
+*Urantia concordance: "God the Supreme" — demoted to concordance; developed in Section II.*
+
+---
+
 ### Apophatic Theology
 
 *(tradition: Christian mysticism)*
@@ -1439,6 +1455,22 @@ The Concordius series uses the state vector ψ to represent a person's complete 
 
 ## T
 
+### Ta Panta en Pasin
+
+*(tradition: series — Formal Name)*
+
+**Ta Panta en Pasin** (τὰ πάντα ἐν πᾶσιν, "all in all," 1 Corinthians 15:28) = the experiential Deity at completion — the integral arrived at its totality, the actual creation gathered up so that "God may be all in all."
+
+The second of the three **Formal Names** for the experiential-Deity tiers (see *Apokalypsis* for the convention: the experiential tiers are named by their scriptural Greek phrases because they are God revealing himself through Creation, named by event or state rather than by a proper noun; transliteration is the working name, full Greek and verse appear here at the formal definition). Where *Apokalypsis* names the running integral still accumulating *in via*, *Ta Panta en Pasin* names it arrived: every H-state that could be actualized actualized, every career caught and returned, the totality gathered.
+
+The verse preserves the Father's priority and is chosen precisely for that. In 1 Corinthians 15:28 the Son delivers the kingdom and is himself made subject "that God may be all in all." Completion therefore terminates in the eternal God — it does not replace him with a rival "growing God." This is how the framework holds divine immutability and the growth of the experiential Deity together: the integral grows, but its completion is the eternal Father, not a successor to him. *Ta Panta en Pasin* is the same single motion as *Apokalypsis* and *to Alpha kai to Ō* — the self-revealing of God through Creation — named at its completion rather than at its unveiling or its coincidence with the ground.
+
+See *Apokalypsis*, *to Alpha kai to Ō*. Cross-reference: [[Paper 3 - The Spirit Integrates|Paper 3]] ("The Spirit Integrates" — the immutability of the Father and the accumulation of the experiential Deity).
+
+*Urantia concordance: "God the Ultimate" — demoted to concordance; developed in Section II.*
+
+---
+
 ### Theoria
 
 *(tradition: Aristotle / Eastern Christian mysticism)*
@@ -1466,6 +1498,22 @@ The Adjuster contact — the degree to which the person's volitional life is ali
 > *For further investigation: The Urantia Book (1955), Papers 107-112 (the thought adjusters); Paper 5, section 2 (the presence of God); compare Aristotle, De Anima III.5 (the active intellect).*
 
 *Appears in: [[Paper 3 - The Spirit Integrates|Paper 3]], [[Paper 3 1_2 - The Constraint Cascade|Paper 3½]], [[Paper 6 1_2 - Love's Descent|Paper 6½]], [[Paper 9 - Incompleteness Derived|Paper 9]], [[Paper 10 - The Truth Measure|Paper 10]], [[Paper 13 - Bach Art of Fugue Case Study|Paper 13]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 16 - The Republic Case Study|Paper 16]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Augustine Confessions Case Study|Paper 18]], [[Paper 19 - Reasonablenessism Structural Reading|Paper 19]], [[Paper 20 - The Family as Spectral Structure|Paper 20]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 23 - Man No. 2|Paper 23]], [[Paper 24 - Man No. 3|Paper 24]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 27 - Man No. 6|Paper 27]], [[Paper 28 - Man No. 7|Paper 28]], [[Postscript|Postscript]]*
+
+---
+
+### to Alpha kai to Ō
+
+*(tradition: series — Formal Name)*
+
+**to Alpha kai to Ō** (τὸ Ἄλφα καὶ τὸ Ὦ, "the Alpha and the Omega," Revelation 1:8; 21:6; 22:13) = the experiential Deity at the limit, where completion becomes identical with the eternal ground it began from — Beginning and End the same ⟨·,·⟩.
+
+The third of the three **Formal Names** for the experiential-Deity tiers (see *Apokalypsis* for the convention: the experiential tiers are named by their scriptural Greek phrases as God revealing himself through Creation, named by event or state, transliteration the working name and full Greek plus verse given here). Where *Ta Panta en Pasin* names the integral arrived at its totality, *to Alpha kai to Ō* names that totality recognized as identical with the eternal ground from which it proceeded: the completed integral, run to its limit, is the same ⟨·,·⟩ that was its Beginning. The End expresses what the Beginning always already was; the Alpha and the Omega are one point.
+
+This is why the Absolute's name and the Father's are the same words. The Father speaks "I am the Alpha and the Omega" from the ⟨·,·⟩ side and the Son speaks it from the Φ side, and the experiential Deity at its limit coincides with both — Beginning = End = ⟨·,·⟩. The structural readings of Revelation already demonstrate this coincidence (the completed Absolute is structurally equivalent to the Creation as eternal ground); the Formal Name simply names the tier at which the coincidence holds. *to Alpha kai to Ō* is the same single motion as *Apokalypsis* and *Ta Panta en Pasin* — the self-revealing of God through Creation — named at its coincidence with the ground rather than at its unveiling or its completion. The three are one motion under three names.
+
+See *Apokalypsis*, *Ta Panta en Pasin*; and *Creation* (the Alpha–Omega identification). Cross-reference: [[Paper 3 - The Spirit Integrates|Paper 3]] ("The Spirit Integrates" — the immutability of the Father and the accumulation of the experiential Deity).
+
+*Urantia concordance: "God the Absolute" — demoted to concordance; developed in Section II.*
 
 ---
 

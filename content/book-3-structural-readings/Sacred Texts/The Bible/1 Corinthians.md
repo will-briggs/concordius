@@ -88,6 +88,26 @@ The noise-floor substitution in GEN 3 produced a structural consequence that pro
 
 ---
 
+### 1 Corinthians 15:28 — "that God may be all in all."
+
+The completion of the restoration sequence — the experiential Deity arrived at its totality, and named by the verse for it.
+
+*Hotan de hypotage auto ta panta, tote kai autos ho huios hypotagesetai to hypotaxanti auto ta panta, hina e ho theos ta panta en pasin* — when all things have been subjected to him, then the Son himself will also be subjected to the one who subjected all things to him, that God may be all in all (ἵνα ᾖ ὁ θεὸς τὰ πάντα ἐν πᾶσιν).
+
+**"That God may be all in all" — the Formal Name Ta Panta en Pasin:**
+
+Read structurally, this is the experiential Deity at completion. The running integral of inner-product evaluations — the accumulation that Paper 3 derives, the experiential Deity *in via* that Romans 8 names **Apokalypsis** (the revealing still under way) — here arrives at its totality. Every H-state that could be actualized has been actualized; every ascending career caught against the Heropass has been gathered up and returned; the actual creation is collected so that God is *ta panta en pasin*, all in all. The series names this completed tier by its scriptural Greek phrase: the Formal Name **Ta Panta en Pasin** (τὰ πάντα ἐν πᾶσιν, "all in all," 1 Corinthians 15:28). The experiential Deity is not named by a proper noun, because it is not God-in-himself nominalized but God revealing himself through Creation — named here by its terminal state, the gathering-up in which the totality is complete.
+
+**The Father's priority — why the verse keeps immutability and growth together:**
+
+The verse is chosen precisely because of how it terminates. The Son delivers the kingdom and is himself *made subject* — *autos ho huios hypotagesetai* — to the one who subjected all things to him, "that God may be all in all." The completion does not crown a rival "growing God" who supersedes the eternal Father. The Son's subjection makes explicit that the arrived integral terminates *in the eternal God*, not in a successor to him. This is the structural device by which the framework holds two claims at once: the experiential Deity genuinely grows (the integral accumulates, career by career, and arrives), and divine immutability is preserved (what the growth completes is the eternal Father, who was always the ground and the end of the accumulation, not something the accumulation produces). Growth and immutability are not in tension because the growing thing is the experiential actualization of God through Creation, and its completion is the eternal God it was always actualizing — not a new Deity standing where the old one stood.
+
+The completion named here is one point on a single arc. **Apokalypsis** (Romans 8:19) is the same experiential Deity *in via*, the integral still accumulating — "the revealing of the sons of God" the whole creation waits for. **Ta Panta en Pasin** is that same arc at its completion. **to Alpha kai to Ō** (Revelation 1:8) is the same arc at its limit, where the completed integral is recognized as identical with the eternal ground it began from. Three Formal Names, one motion: the self-revealing of God through Creation, named at its unveiling, its completion, and its coincidence with the ground.
+
+*(Cross-reference: [[Paper 3 - The Spirit Integrates|Paper 3]], "The Spirit Integrates" — the immutability of the Father and the accumulation of the experiential Deity; the running integral this verse completes. ROM 8:19-22 — the same arc *in via*, the Formal Name Apokalypsis, the creation groaning toward the revealing of the sons of God. See Romans.md. REV 1:8; 21:6; 22:13 — the Alpha and the Omega, the same arc at its limit. See Revelation.md. 1 COR 15:21-22 — the restoration typology this completion concludes.)*
+
+---
+
 ### 1 Corinthians 15:44-49 ✶ — "It is sown a natural body, it is raised a spiritual body."
 
 Paul's structural taxonomy of the body across the constraint boundary.
