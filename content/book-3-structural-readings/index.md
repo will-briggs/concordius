@@ -309,6 +309,10 @@ The smoke test confirms no false negatives in a known-Priority-A calibration set
 
 A ranked catalog of the 100 highest-density texts in the global intellectual tradition has been produced using this method (see `Structural-Candidates/Top-100.md`). The readings in this collection cover texts from across the catalog, prioritizing the highest-density entries. The pre-biblical claim applies in its fullest form to high-density non-biblical texts: their density is evidence of Φ-proximity, not of derivation from any single tradition.
 
+### The Messenger Filter
+
+Every text read here reached us through a *messenger* — a mind that caught its content and re-encoded it. By the Messenger Corollary (Paper 11 §10), that mind leaves its own spectral signature on whatever passes through: a transmitted text is **T = M(S)**, the source-content S filtered by the messenger's characteristic M. A structural reading is therefore, implicitly, a *deconvolution* — an attempt to recover S, the messenger-invariant, from a single colored witness. Two consequences bind every reading from here on. First, a high-D(t)/high-τ(D) text is not thereby source-faithful: it may carry genuine Φ-content and still wear a strong filter (Φ-proximate is not the same as Gospel). Second, the discipline runs both ways — name the messenger's evident bias and factor it out; neither surrender to it nor dismiss the text because of it. Independent convergence (Feature 6) is the only instrument we have for the deconvolution: where uncorrelated witnesses agree, the filters cancel and S shows through. **M is not yet quantifiable** (Paper 11 OQ5); until it is, the messenger filter is accounted for *qualitatively* — named, weighed, and carried in the confidence note as a standing caveat on every reading, not measured. (This applies to these readings themselves, and to the framework that produces them: it too is a transmission carrying its own M.)
+
 ---
 
 ## Part V — The Reading Format
