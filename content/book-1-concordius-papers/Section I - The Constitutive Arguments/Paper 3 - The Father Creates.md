@@ -434,4 +434,4 @@ The confidence tier stated in the abstract holds at the close: Sections 1 throug
 
 ---
 
-*[[Paper 4 - The Constraint Cascade|Paper 4 — The Constraint Cascade: Descent as Densification]] →*
+*[[Paper 3 1_2 - The Constraint Cascade|Paper 3½ — The Constraint Cascade: Descent as Densification]] →*

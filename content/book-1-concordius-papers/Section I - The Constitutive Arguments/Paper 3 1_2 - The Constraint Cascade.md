@@ -2,11 +2,13 @@
 
 # The Constraint Cascade: Descent as Densification
 
-*Fourth paper in the Concordius series. Companion to "Modeling Reality as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]," "From the Cogito to the [[Appendix I - Dictionary of Terms#Logos|Logos]]," and "The Creative Choice."*
+*Paper 3½ of Section I — the Mi-Fa interval (the grade 1→2 crossing). Companion to "Modeling Reality as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]," "From the Cogito to the [[Appendix I - Dictionary of Terms#Logos|Logos]]," and "The Creative Choice."*
 
 ---
 
 ## Abstract
+
+This paper is **Paper 3½** — the Mi-Fa interval of Section I: the grade-1→grade-2 crossing of the octave. It describes the *descent* — the creative algebra densifying in one direction, down the constraint hierarchy from the single law to the most constrained level. The descent runs in the algebra but is *not yet instantiated*; instantiation — the descended algebra made physically real — is the work of Paper 4 (the Son's articulation at the Higgs VEV). That the crossing requires what cannot be supplied from within the prior grade is exactly the Mi-Fa character: the algebra descends, but only the Son's articulation brings it into existence.
 
 The first three papers in this series established the eternal structure (Paper 1), named its entities (Paper 2), and located where genuine freedom enters the creative act (Paper 3): not in whether to generate — that is constitutional — and not in which algebra, since Cl(3,0) is uniquely necessitated by the Son's own nature as Φ — but in which eigenstates are actualized at each GNST collapse event, the Father selecting continuously within the space the Son's algebra has fixed. This paper describes what follows from that act — not the history of creation, which belongs to a different order of inquiry, but the structural logic of descent: why the created order has the constraint hierarchy it has, why that hierarchy is dimensional rather than geographical, and what follows from the dimensional structure for perception, actualization, and the final disposition of matter. The [[Appendix I - Dictionary of Terms#Constraint Cascade|constraint cascade]] — the full sequence from 1 to 3 to 6 to 12 to 24 to 48 to 96 constraints — is identified in Section 3 as the archetypal [[Appendix I - Dictionary of Terms#Heptaparaparshinokh|Heptaparaparshinokh]]: the primary instance of the universal [[Appendix I - Dictionary of Terms#Law of Seven|Law of Seven]], from which every subsequent seven-fold process in the created order derives its form.
 
@@ -716,4 +718,4 @@ The differences are equally important. First, the H in Gurdjieff's notation stan
 
 ---
 
-*[[Paper 5 - The Son Articulates|Paper 5 — The Son Articulates: H₄₈ and the Higgs Mechanism]] →*
+*[[Paper 4 - The Son Articulates|Paper 4 — The Son Articulates: H₄₈ and the Higgs Mechanism]] →*

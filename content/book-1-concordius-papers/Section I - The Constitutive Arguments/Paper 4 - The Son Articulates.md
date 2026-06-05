@@ -1,8 +1,8 @@
-*← [[Paper 4 - The Constraint Cascade|Paper 4 — The Constraint Cascade: Descent as Densification]]*
+*← [[Paper 3 1_2 - The Constraint Cascade|Paper 3½ — The Constraint Cascade: Descent as Densification]]*
 
 # The Son Articulates: H₄₈ and the Higgs Mechanism
 
-*Fifth paper in the Concordius series. Companion to Papers 1–4.*
+*Paper 4 of Section I — position 4 of the octave (e₁e₂ = Father × Son = courage): the instantiation, where the descended algebra is articulated into physical existence. Companion to Papers 1–3 and 3½.*
 
 *Status: substantially developed. Sections 1–7 are derived or structurally grounded. Section 8 (grade-generation mapping) is a working hypothesis: the three-generation / three-grade alignment and the top quark prediction (y_t ≈ 1 from grade-3 = I) are on firm structural ground; the numerical hierarchy and the intra-grade / color-charge mapping are open. Section 9 (the sifting operator connection) is an open problem.*
 
@@ -10,7 +10,7 @@
 
 ## Abstract
 
-The preceding papers established the mathematical architecture of the created order (Papers 1–3) and the [[Appendix I - Dictionary of Terms#Constraint Cascade|constraint cascade]] governing descent (Paper 4). The gravitational sifting mechanism is derived in Paper 6; the [[Appendix I - Dictionary of Terms#Trogoautoegocrat|Trogoautoegocrat]] and the seven-fold grade structure are derived in Paper 7. This paper addresses a gap those papers left implicit: what physical event made the GNST's [[Appendix I - Dictionary of Terms#Eigenstate|eigenstate]] succession *structured* — hierarchical, level-differentiated, capable of sustaining an [[Appendix I - Dictionary of Terms#Ascending Career|ascending career]] — rather than a featureless continuum?
+The preceding papers established the mathematical architecture of the created order (Papers 1–3) and the [[Appendix I - Dictionary of Terms#Constraint Cascade|constraint cascade]] governing descent (Paper 3½). The gravitational sifting mechanism is derived in Paper 6; the [[Appendix I - Dictionary of Terms#Trogoautoegocrat|Trogoautoegocrat]] and the seven-fold grade structure are derived in Paper 7. This paper addresses a gap those papers left implicit: what physical event made the GNST's [[Appendix I - Dictionary of Terms#Eigenstate|eigenstate]] succession *structured* — hierarchical, level-differentiated, capable of sustaining an [[Appendix I - Dictionary of Terms#Ascending Career|ascending career]] — rather than a featureless continuum? Structurally this is **position 4** of the octave — the first product, e₁e₂ = Father × Son = courage. The descent (Paper 3½) ran in the algebra; here the Son articulates the Father's creation into physical existence. The Higgs VEV is the instantiation: where the algebra, having descended, is made real.
 
 The answer is electroweak symmetry breaking: the event in which the Higgs field acquired its vacuum expectation value.
 
