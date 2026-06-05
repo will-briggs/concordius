@@ -2,13 +2,13 @@
 
 # What We Know, What We Don't
 
-*Seventh paper in the Concordius series, and the close of Section I. It introduces nothing new. It gathers what the foregoing papers established, and states plainly the one thing they could not.*
+*Seventh paper in the Concordius series, and the close of Section I. It introduces nothing new. It gathers what the foregoing papers established, and states the one thing they could not.*
 
 ---
 
 ## Abstract
 
-This paper summarizes Section I and marks its single honest limit. The constitutive arguments began from one assumption and drew a great deal out of it. The summary below sets those results back in order, briefly. Then it returns to the assumption underneath them all — that reality can be modeled as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand triple]] — and observes that this first premise is the one claim in the whole series that cannot itself be established. Everything after it was argued. It was assumed. The section ends where it began, holding the same premise it started with, and no more certain of it.
+This paper summarizes Section I. The constitutive arguments began from one assumption and drew a great deal out of it. The summary below sets those results back in order, briefly, and then returns to the assumption underneath them all — that reality can be modeled as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand triple]] — and observes that this first premise is the one claim in the whole series that cannot itself be established. Everything after it was argued. It was assumed. The section ends where it began, holding the same premise it started with, and no more certain of it.
 
 ---
 
@@ -45,9 +45,9 @@ Almost everything above was argued. Granted the single premise, the rest followe
 
 But the premise itself was never argued. It was assumed on the first line of the first paper and never earned: *that reality can be modeled as a Gelfand triple.* Everything rests on it, and it rests on nothing further. There is no vantage outside the structure from which to confirm that reality really has this shape, because any confirmation would already be made from within it, using the very relation whose reality is the thing in question. The one claim the whole series most depends on is the one claim it can least support.
 
-This is not a flaw to be repaired in a later draft. It is where an honest argument of this kind has to end. A structure can describe everything it contains and still not reach the ground it stands on; the ground is presupposed by every description and captured by none. We have spent the section coming to know the place, and arrived, at the end, back at the one thing we began by taking on trust.
+This is not a flaw to be repaired. It is where an argument of this kind has to end. A structure can describe everything it contains and still not reach the ground it stands on; the ground is presupposed by every description and captured by none. We have spent the section coming to know the place, and arrived, at the end, back at the one thing we began by taking on trust.
 
-So the section closes as it opened — with a single assumption held in the open hand, neither proven nor abandoned, only better understood for everything that follows from it. We know a great deal, if it is true. Whether it is true is the one thing we do not, and from here cannot, know.
+So the section closes as it opened — with a single assumption, neither proven nor abandoned, only better understood for everything that follows from it. We know a great deal, if it is true. Whether it is true is the one thing we do not, and from here cannot, know.
 
 What can be done with a structure like this, once it is granted — and what happens when the same honest limit is met from the inside — is the work of the sections that follow.
 
