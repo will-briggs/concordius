@@ -169,6 +169,7 @@ H₆ sovereignty (credential at baptism) = administrative authority from above. 
 | Paracelsus: doctrine of signatures | HCP in diagnostic form: lower-constraint organizational principles legible in H₄₈ surface configurations to calibrated catching sensitivity |
 | Bhagavad Gita: Krishna as universal form | The nuclear space Φ as simultaneously the source of all organizational structure and the content of any genuine encounter with it |
 | Urantia morontia → spirit; Gurdjieff Kesdjan body → higher-being-body | The two higher states: H₂₄ (still aging, half Heropass rate) and H₁₂ (ageless — no e₀ in Cl(3,0)); the qualitative break is the loss of the −1 generator above Cl(3,1) |
+| Gurdjieff: Hanbledzoin (the "blood" of the Kesdjan body) | The H₂₄ *animating substance* of the Kesdjan/morontia (H₂₄) body — the caught, catching-built eigenvalue content that fills and circulates within it; distinct from the finer substance of the H₁₂ body. Mortal (ages, half Heropass rate) like the Kesdjan body it animates. |
 
 ---
 
