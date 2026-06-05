@@ -3,7 +3,7 @@
 **Subject:** Charismatic and Pentecostal ecstatic worship — glossolalia (speaking in tongues), being "slain in the Spirit," holy laughter, the bodily ecstasies of revival  
 **Medium:** Religious practice / experiential phenomenon  
 **Series:** Book 3 — Structural Readings / World and Experience  
-**Cross-references:** Paper 7 (the Spirit Integrates; τ_nuclear, the continuous Integrator); Pentecost / Acts 2 (τ_nuclear universalized; Appendix V §IV); Paper 9 (incompleteness; content exceeding H₄₈ syntactic closure); Paper 14 §4 (the gathered as the simplest morontial molecule, Matthew 18:20); [[World and Experience/Prayer|Prayer]]; [[Film/Blade Runner|Blade Runner]] (measuring the soul at the wrong level); the Mysticism readings (John of the Cross on consolations); Reasonablenessism Feature 3, Feature 12
+**Cross-references:** Paper 3 (the Spirit Integrates; τ_nuclear, the continuous Integrator); Pentecost / Acts 2 (τ_nuclear universalized; Appendix V §IV); Paper 9 (incompleteness; content exceeding H₄₈ syntactic closure); Paper 14 §4 (the gathered as the simplest morontial molecule, Matthew 18:20); [[World and Experience/Prayer|Prayer]]; [[Film/Blade Runner|Blade Runner]] (measuring the soul at the wrong level); the Mysticism readings (John of the Cross on consolations); Reasonablenessism Feature 3, Feature 12
 
 ---
 

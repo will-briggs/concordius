@@ -1,7 +1,7 @@
 # Private Dowding: A Structural Reading
 
 **Series:** Book 3 — Structural Readings / Doctrine  
-**Cross-references:** Paper 3½ §§8–9 (bifurcation at death; coherence threshold; soul deposit survival); Paper 5 (H₄₈ constraint structure); Paper 6 §§3–4 (H₄₈-primary orientation; the cogito threshold); Paper 6 (the ascending career) and Paper 6½ (the descending arm of the Trogoautoegocrat); Paper 8 §7.1 (overdeterminate release at H₄₈ terminus); Paper 20 (the family as spectral structure; relational eigenvalue overlap); [[The Lucifer Rebellion]] (quarantine conditions; organizational reserve under strain)
+**Cross-references:** Paper 3½ §§8–9 (bifurcation at death; coherence threshold; soul deposit survival); Paper 4 (H₄₈ constraint structure); Paper 6 §§3–4 (H₄₈-primary orientation; the cogito threshold); Paper 6 (the ascending career) and Paper 6½ (the descending arm of the Trogoautoegocrat); Paper 8 §7.1 (overdeterminate release at H₄₈ terminus); Paper 20 (the family as spectral structure; relational eigenvalue overlap); [[The Lucifer Rebellion]] (quarantine conditions; organizational reserve under strain)
 
 ---
 

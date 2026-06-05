@@ -3,7 +3,7 @@
 **Work:** *The Secret*, Rhonda Byrne, 2006 (film and book); the "law of attraction" tradition (Wattles, Hill, New Thought)  
 **Medium:** Self-help phenomenon  
 **Series:** Book 3 — Structural Readings / World and Experience  
-**Cross-references:** the Postscript (treasures on earth vs. in heaven); Paper 5 (orientation and eigenvalue investment); the Holographic Content Principle (Paper 11); Reasonablenessism Feature 12; Syntheses — The Devil Can Quote Scripture
+**Cross-references:** the Postscript (treasures on earth vs. in heaven); Paper 6 (orientation and eigenvalue investment); the Holographic Content Principle (Paper 11); Reasonablenessism Feature 12; Syntheses — The Devil Can Quote Scripture
 
 ---
 

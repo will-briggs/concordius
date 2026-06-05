@@ -3,7 +3,7 @@
 **Subject:** Descent with modification by natural selection (Darwin, 1859; the modern synthesis)  
 **Field:** Evolutionary biology  
 **Series:** Book 3 — Structural Readings / Science  
-**Cross-references:** Paper 5 (catching as selective retention; the CCC); the Heropass in Paper 3½ (the Heropass / dissipation); Paper 3½ (the constraint cascade, H₄₈ substrate); Reasonablenessism Features 1, 5, 10
+**Cross-references:** Paper 6 (catching as selective retention; the CCC); the Heropass in Paper 3½ (the Heropass / dissipation); Paper 3½ (the constraint cascade, H₄₈ substrate); Reasonablenessism Features 1, 5, 10
 
 ---
 

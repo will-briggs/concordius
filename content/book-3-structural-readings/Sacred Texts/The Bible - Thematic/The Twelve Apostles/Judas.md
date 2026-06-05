@@ -1,7 +1,7 @@
 # Judas: A Structural Reading
 
 **Series:** Book 3 — Structural Readings / Doctrine  
-**Cross-references:** Paper 8 §§3.1–3.3 (the taxonomy of structural developmental failure; abstention; the catching mechanism); Paper 7 (the catching act as constitutive volitional; the dual pairing); The Lucifer Rebellion (the overdeterminate condition; imposition as structural error; the thief on the cross as opposite limit case); The Last Supper (the compositional reading of Judas in Leonardo; the announcement as opacity resolving)
+**Cross-references:** Paper 8 §§3.1–3.3 (the taxonomy of structural developmental failure; abstention; the catching mechanism); Paper 6 (the catching act as constitutive volitional; the dual pairing); The Lucifer Rebellion (the overdeterminate condition; imposition as structural error; the thief on the cross as opposite limit case); The Last Supper (the compositional reading of Judas in Leonardo; the announcement as opacity resolving)
 
 ---
 

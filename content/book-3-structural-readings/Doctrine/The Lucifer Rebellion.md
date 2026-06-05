@@ -157,9 +157,9 @@ The H₄₈ beings make the same overdeterminate assertion as the H₁₂ beings
 
 The structural response to the propagation of the lie. The enmity between the serpent's offspring and the woman's offspring is not a punishment imposed; it is a structural reality declared. The organizational trajectories are now opposed: the serpent's organizational state operates toward Φ-dissolution; the ascending career operates toward Φ-proximity. The enmity is the natural consequence of the organizational opposition — the same trajectory expressed at H₄₈ scale generates friction between beings descending and beings ascending.
 
-"He will crush your head, and you will strike his heel" — the structural resolution declared at the moment of the lie's first H₄₈ application: the ascending program will accomplish the structural defeat of the downward trajectory, at cost to itself (heel-wound) through the mechanism described in Isaiah 52:13-53:12 and Paper 7 §3.
+"He will crush your head, and you will strike his heel" — the structural resolution declared at the moment of the lie's first H₄₈ application: the ascending program will accomplish the structural defeat of the downward trajectory, at cost to itself (heel-wound) through the mechanism described in Isaiah 52:13-53:12 and Paper 8 §7.1.
 
-*(Cross-reference: Gen 3:15 as the first announcement of the descent program: see Genesis.md. Paper 7 §3 — the Fourth Servant Song as the structural specification of the heel-wound mechanism.)*
+*(Cross-reference: Gen 3:15 as the first announcement of the descent program: see Genesis.md. Paper 8 §7.1 — the kenotic terminus as the structural specification of the heel-wound mechanism (cf. the Fourth Servant Song, Isaiah 53).)*
 
 ---
 

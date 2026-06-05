@@ -1,7 +1,7 @@
 # The Eleven and Matthias: A Structural Reading
 
 **Series:** Book 3 — Structural Readings / Doctrine / The Twelve Apostles  
-**Cross-references:** Paper 7 (the catching act; the dual pairing; the volitional alignment); Paper 8 §§3–5 (the cross-term mechanism; noise floor; the kenotic period); Paper 8 §9 (Pentecost; the Spirit's individually calibrated distribution); The Last Supper (the compositional reading of the inner disciples); Judas (abstention; proximity without performance)
+**Cross-references:** Paper 6 (the catching act; the dual pairing; the volitional alignment); Paper 8 §§3–5 (the cross-term mechanism; noise floor; the kenotic period); Paper 8 §9 (Pentecost; the Spirit's individually calibrated distribution); The Last Supper (the compositional reading of the inner disciples); Judas (abstention; proximity without performance)
 
 ---
 

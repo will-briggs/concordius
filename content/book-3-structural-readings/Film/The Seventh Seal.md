@@ -4,7 +4,7 @@
 **Director:** Ingmar Bergman  
 **Medium:** Black-and-white feature film  
 **Series:** Book 3 — Structural Readings / Movies  
-**Cross-references:** John of the Cross ✶✶ (Mysticism — Dark Night of the Spirit as the Si/Do description); Paper 6½ (Love's Descent); Paper 6 (The Cogito Coheres); Paper 28½ (The Si-Do Interval); "Know Thyself" ✶✶ (Aphorisms); Suffering ✶✶ (Human Conditions); Paper 5 §§2–4 (eigenvalue population; catching orientation)
+**Cross-references:** John of the Cross ✶✶ (Mysticism — Dark Night of the Spirit as the Si/Do description); Paper 6½ (Love's Descent); Paper 6 (The Cogito Coheres); Paper 28½ (The Si-Do Interval); "Know Thyself" ✶✶ (Aphorisms); Suffering ✶✶ (Human Conditions); Paper 6 (eigenvalue population; catching orientation)
 
 ---
 

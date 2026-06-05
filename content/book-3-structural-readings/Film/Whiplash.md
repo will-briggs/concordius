@@ -4,7 +4,7 @@
 **Director:** Damien Chazelle  
 **Medium:** Theatrical feature film  
 **Series:** Book 3 — Structural Readings / Movies  
-**Cross-references:** Suffering ✶✶ (Human Conditions — voluntary suffering section); Groundhog Day §4 (eigenvalue accumulation through repetition); Paper 14 (CCC — overdeterminate field); The Seventh Seal §3 (keeping the catching window open under maximum constraint); "Know Thyself" ✶✶ (Aphorisms); Paper 5 §§2–4 (eigenvalue population; noise floor; catching orientation)
+**Cross-references:** Suffering ✶✶ (Human Conditions — voluntary suffering section); Groundhog Day §4 (eigenvalue accumulation through repetition); Paper 14 (CCC — overdeterminate field); The Seventh Seal §3 (keeping the catching window open under maximum constraint); "Know Thyself" ✶✶ (Aphorisms); Paper 6 (eigenvalue population; noise floor; catching orientation)
 
 ---
 

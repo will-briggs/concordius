@@ -4,7 +4,7 @@
 **Director:** Christopher Nolan  
 **Medium:** Theatrical feature film  
 **Series:** Book 3 — Structural Readings / Movies  
-**Cross-references:** Paper 3½ (Constraint Cascade); Paper 5 §§2–4 (eigenvalue population; catching orientation); Paper 8 (Maximum Downward Entry); Paper 11 (HCP — the Whole in Every Part); Suffering ✶✶ (Human Conditions); The Seventh Seal §3 (game with Death as keeping the catching window open); "The Whole in Every Part" ✶✶ (Aphorisms)
+**Cross-references:** Paper 3½ (Constraint Cascade); Paper 6 (eigenvalue population; catching orientation); Paper 8 (Maximum Downward Entry); Paper 11 (HCP — the Whole in Every Part); Suffering ✶✶ (Human Conditions); The Seventh Seal §3 (game with Death as keeping the catching window open); "The Whole in Every Part" ✶✶ (Aphorisms)
 
 ---
 

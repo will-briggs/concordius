@@ -3,7 +3,7 @@
 **Work:** *Star Wars* (the original trilogy, 1977–1983), George Lucas / Lucasfilm  
 **Medium:** Theatrical feature films  
 **Series:** Book 3 — Structural Readings / Film  
-**Cross-references:** Paper 1 §5 (agape as ⟨·,·⟩; the Force as the relational ground); Paper 5 (catching; noise-floor reduction as letting go of fear and attachment); the higher being body (Paper 5; "luminous beings are we"); evil as active privation (Appendix V §III); the Lucifer Rebellion (Doctrine); Syntheses — The Devil Can Quote Scripture
+**Cross-references:** Paper 1 §5 (agape as ⟨·,·⟩; the Force as the relational ground); Paper 6 (catching; noise-floor reduction as letting go of fear and attachment); the higher being body (Paper 6; "luminous beings are we"); evil as active privation (Appendix V §III); the Lucifer Rebellion (Doctrine); Syntheses — The Devil Can Quote Scripture
 
 ---
 

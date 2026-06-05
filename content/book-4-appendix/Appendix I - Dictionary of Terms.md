@@ -75,7 +75,7 @@ The Incarnation (Paper 13) is structurally distinct from both: neither the H-ori
 
 *(Confidence tier: structural inference from the Gelfand triple's architecture. The H-origin / Φ'-origin distinction is derivable from the triple's constitution; the application to angelic and mortal beings is concordance-level, mapping the distinction onto convergent traditional accounts of the difference between these two kinds of personal being.)*
 
-> *Cross-references: Paper 3½ (descent and densification; embodiment as constitutive); Paper 7 (catching as volitional dual pairing across the Φ ↔ Φ' boundary); Paper 13 (maximum downward entry — Incarnation as Φ → H₄₈); Paper 14 (CCC — constraint compatibility for H-origin beings at lower levels); Appendix I: Dual Space (Φ'), Hilbert Space (H), Gelfand Triple, Thought Adjuster, Catching.*
+> *Cross-references: Paper 3½ (descent and densification; embodiment as constitutive); Paper 6 (catching as volitional dual pairing across the Φ ↔ Φ' boundary); Paper 13 (maximum downward entry — Incarnation as Φ → H₄₈); Paper 14 (CCC — constraint compatibility for H-origin beings at lower levels); Appendix I: Dual Space (Φ'), Hilbert Space (H), Gelfand Triple, Thought Adjuster, Catching.*
 
 ---
 
@@ -227,7 +227,7 @@ The institution's proper function is to maintain the Φ-proximal deposit in catc
 
 The community of believers is ontologically prior to any institution. All saints in any tradition — wherever independent catching outcomes converge on the same Φ-proximal content above the coherence threshold — are community members by this criterion, regardless of institutional affiliation.
 
-*Confidence tier: structural inference. Cross-references: Paper 7 (catching as volitional orientation; dual pairing for Φ′-origin beings); Structural Readings, Appendix VII (The Magisterium; Luther's imprecision; sola scriptura; longevity condition; saints metric; convergence criterion); Reasonablenessism, Feature 6 (Convergent Witness Principle); Appendix I — Convergent Witness Principle (this dictionary); Paper 14, OQ7 (catching as structurally necessary for Φ′-origin beings).*
+*Confidence tier: structural inference. Cross-references: Paper 6 (catching as volitional orientation; dual pairing for Φ′-origin beings); Structural Readings, Appendix VII (The Magisterium; Luther's imprecision; sola scriptura; longevity condition; saints metric; convergence criterion); Reasonablenessism, Feature 6 (Convergent Witness Principle); Appendix I — Convergent Witness Principle (this dictionary); Paper 14, OQ7 (catching as structurally necessary for Φ′-origin beings).*
 
 *Appears in: [[Paper 8 - The Maximum Downward Entry|Paper 8]]*
 
@@ -1359,7 +1359,7 @@ The series' term for the accumulated H₂₄ structural content built through ca
 
 The soul deposit has two key properties that distinguish it from ordinary experience: it accumulates (each genuine catching act adds to it), and it is subject to a slower Heropass rate than the H₄₈ content from which it was caught. The Heropass — the aging effect — operates at H₂₄ and below, at half the intensity in H₂₄ as in H₄₈, and ceases entirely at H₁₂ and above. The coherence threshold is the minimum organization level at which the soul deposit constitutes a structurally self-sustaining H₂₄ entity — above this threshold, the deposit survives H₄₈ dissolution because its H₂₄ organizational pattern persists at the H₂₄ Heropass rate; below it, the deposit requires the H₄₈ substrate for its continued organization.
 
-Matthew 6:19-21 ("Do not store up for yourselves treasures on earth, where moths and rust destroy… but store up for yourselves treasures in heaven") is read in Paper 28's addendum as the precise statement of the soul deposit principle: "treasures on earth" = H₄₈ eigenvalue accumulations subject to the most intensive Heropass rate; "treasures in heaven" = H₂₄ soul deposit subject to half that rate, surviving H₄₈ dissolution once above the coherence threshold; "where your treasure is, there your heart will be also" = the eigenvalue attraction principle of Paper 5 (the soul deposit determines what the catching function is oriented toward).
+Matthew 6:19-21 ("Do not store up for yourselves treasures on earth, where moths and rust destroy… but store up for yourselves treasures in heaven") is read in Paper 28's addendum as the precise statement of the soul deposit principle: "treasures on earth" = H₄₈ eigenvalue accumulations subject to the most intensive Heropass rate; "treasures in heaven" = H₂₄ soul deposit subject to half that rate, surviving H₄₈ dissolution once above the coherence threshold; "where your treasure is, there your heart will be also" = the eigenvalue attraction principle of Paper 6 (the soul deposit determines what the catching function is oriented toward).
 
 *Appears in: [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 23 - Man No. 2|Paper 23]], [[Paper 24 - Man No. 3|Paper 24]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 28 - Man No. 7|Paper 28]], [[Postscript|Postscript]]*
 

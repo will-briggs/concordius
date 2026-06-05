@@ -4,7 +4,7 @@
 **Medium:** Fresco  
 **Location:** Sistine Chapel ceiling, Vatican City  
 **Series:** Book 3 — Structural Readings / Visual Art  
-**Cross-references:** Paper 2 §§1–5 (the Cogito; the existence of awareness as the starting point; Φ as constitutive of awareness); Paper 3 (the Creative Choice; the constitutive decision and the relational structure it institutes); Paper 5 §§2–4 (the eigenvalue population; catching alignment as the constitutive volitional act; the noise floor)
+**Cross-references:** Paper 2 §§1–5 (the Cogito; the existence of awareness as the starting point; Φ as constitutive of awareness); Paper 3 (the Creative Choice; the constitutive decision and the relational structure it institutes); Paper 6 (the eigenvalue population; catching alignment as the constitutive volitional act; the noise floor)
 
 <img src="/static/images/michelangelo-creation-of-adam.jpg" alt="The Creation of Adam" style="max-width:100%;">
 

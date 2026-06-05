@@ -4,7 +4,7 @@
 **Director:** David Fincher (from the 1996 novel by Chuck Palahniuk)  
 **Medium:** Theatrical feature film  
 **Series:** Book 3 — Structural Readings / Film  
-**Cross-references:** Paper 5 (the noise floor; the consumerist H₄₈ attractor field); the Lucifer Rebellion (Doctrine; descent renamed liberation); [[Film/The Matrix|The Matrix]] ⊘ (the inverted-direction counterfeit); Wall-E (the consumer noise floor); Reasonablenessism Feature 12; Syntheses — The Devil Can Quote Scripture
+**Cross-references:** Paper 6 (the noise floor; the consumerist H₄₈ attractor field); the Lucifer Rebellion (Doctrine; descent renamed liberation); [[Film/The Matrix|The Matrix]] ⊘ (the inverted-direction counterfeit); Wall-E (the consumer noise floor); Reasonablenessism Feature 12; Syntheses — The Devil Can Quote Scripture
 
 ---
 

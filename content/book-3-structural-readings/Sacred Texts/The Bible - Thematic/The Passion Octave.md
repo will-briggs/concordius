@@ -1,7 +1,7 @@
 # The Passion Octave
 
 **Series:** Book 3 — Structural Readings / The Bible — Thematic  
-**Cross-references:** Paper 8 §§2–5 (the kenotic constraint; the maximum downward entry; the amplitude limiter and its partial lifts); Paper 8 §7.1 (the overdeterminate release at death); Paper 7 (the Law of Seven as heptaparaparshinokh; the interval positions); Paper 24½ (the Mi-Fa interval — the structural shock that prevents automatic degradation); Paper 28½ (the Si-Do interval — the gap that cannot be bridged from within); [[The Twelve Apostles/Judas]] (the structural account of Judas's trajectory; the kiss as organizational assertion); [[Doctrine/The Eucharist: Transubstantiation]] (the Do's relationship to the eucharistic elements); Paper 5 §§3–5 (the coherence threshold; noise floor and catching capacity); Paper 11 (the Holographic Content Principle — the Do as compressed whole)
+**Cross-references:** Paper 8 §§2–5 (the kenotic constraint; the maximum downward entry; the amplitude limiter and its partial lifts); Paper 8 §7.1 (the overdeterminate release at death); Paper 6½ §5 (the Heptaparaparshinokh as universal law; the interval positions); Paper 24½ (the Mi-Fa interval — the structural shock that prevents automatic degradation); Paper 28½ (the Si-Do interval — the gap that cannot be bridged from within); [[The Twelve Apostles/Judas]] (the structural account of Judas's trajectory; the kiss as organizational assertion); [[Doctrine/The Eucharist: Transubstantiation]] (the Do's relationship to the eucharistic elements); Paper 6 (the coherence threshold; noise floor and catching capacity); Paper 11 (the Holographic Content Principle — the Do as compressed whole)
 
 ---
 

@@ -3,7 +3,7 @@
 **Work:** The prosperity gospel / "health and wealth" / Word of Faith teaching (Kenyon, Hagin, and successors)  
 **Medium:** Doctrine; a movement within modern Christianity  
 **Series:** Book 3 — Structural Readings / Doctrine  
-**Cross-references:** the Postscript (Matthew 6:19–21, treasures in heaven vs. on earth); Paper 5 (eigenvalue investment and orientation); the Eucharist (Doctrine); Reasonablenessism Feature 12; Syntheses — The Devil Can Quote Scripture
+**Cross-references:** the Postscript (Matthew 6:19–21, treasures in heaven vs. on earth); Paper 6 (eigenvalue investment and orientation); the Eucharist (Doctrine); Reasonablenessism Feature 12; Syntheses — The Devil Can Quote Scripture
 
 ---
 
