@@ -613,4 +613,4 @@ What remains open: whether H-origin beings undergo their own form of development
 
 ---
 
-*[[book-1-concordius-papers/section-iv---the-seven-men/index|Section IV — The Seven Men]] →*
+*[[Paper 21 - What We Have Seen|Paper 21 — What We Have Seen, What We Have Not Done]] →*

@@ -218,4 +218,4 @@ Whether such a one is achievable within a single H₄₈ lifetime — particular
 
 ---
 
-*[[Postscript]] →*
+*[[Paper 28 - The First Note|Paper 28 — The First Note]] →*

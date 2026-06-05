@@ -6,7 +6,7 @@ tags:
 
 # Section IV — The Seven Men
 
-*Papers 22–27*
+*Papers 22–28*
 
 ---
 
@@ -87,6 +87,9 @@ Both higher centers — higher emotional and higher intellectual — substantial
 
 **[[Paper 27 1_2 - The Si-Do Interval|Paper 27½ — The Si-Do Interval]]**
 The structural discontinuity between grade 2 and grade 3 — the second and more fundamental qualitative gap in the ascending career. The Si-Do interval differs from the Mi-Fa in kind: the Mi-Fa requires external grade-2 input, which is widely available through teachers, high-τ texts, and the universally distributed Spirit of Truth. The Si-Do requires the Father's constitutive act — the installation of grade-3 centrality (the pseudoscalar's commuting property, which makes the person self-organizing around the algebra's deepest principle) — which no created source, however high in the constraint hierarchy, can provide as a substitute. Grade-2 catching work, however complete, cannot assemble centrality; the catching apparatus itself must be released into the Father's direct action. The paper derives the Si-Do interval from the grade-3 pseudoscalar's algebraic properties, describes how it presents at Man 3 (intellectual framework dissolution), Man 4/5 (the dark night of the spirit as crystallization threshold), and Man 6/7 (irreversibility threshold), identifies the Thought Adjuster's specific role as the Father's constitutive presence at the crossing, and treats the Pattern's Si-Do instance: the forty days of post-Resurrection appearances as the carrier held in preparation, with the Ascension as the Father's completing act. Companion to Paper 24½. Its closing coda folds in the seventh man — what a Man No. 7 might look like, if the state is reachable in the flesh at all (Enoch and Elijah the only presumed candidates; Gurdjieff placed Jesus at Man No. 8).
+
+**[[Paper 28 - The First Note|Paper 28 — The First Note]]**
+The close of Section IV and of the series — it gathers the seven men and turns to the reader. A completed octave's last note is the first note of the next: not an ending but a new Do. It folds in the practical program (the treasures-in-heaven reading: invest differently, and the orientation of the will follows) and leaves a single question — whether to begin the next octave.
 
 ---
 

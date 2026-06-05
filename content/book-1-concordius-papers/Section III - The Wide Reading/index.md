@@ -6,7 +6,7 @@ tags:
 
 # Section III — The Wide Reading
 
-*Papers 15–20*
+*Papers 15–21*
 
 ---
 
@@ -63,6 +63,9 @@ All of recorded history mapped onto the Law of Seven: Do (the first Adjuster ass
 
 **[[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½ — The Constraint Compatibility Condition]]**
 The section's Si-Do interval, and the structural inverse of the downward entry (Paper 13½): the upward prerequisite. Derives the noble gas as the most Φ-proximate H₄₈ element, the octet rule from Cl(3,0) dimensionality, and the inversion theorem. The central result: H₄₈-primary eigenvalue content introduced into an H₂₄ environment generates a physically disruptive overdetermination, so the ascending career is an eigenvalue-replacement program — progressive substitution of H₄₈-primary content with H₂₄-organized content until the being is compatible with the destination. The condition is recursive through the full cascade (H₂₄ → H₁₂ → H₆ → H₃ → H₁); Paradise compatibility = H₁ (⟨·,·⟩ itself) as the constitutive organizing principle, the full Thought Adjuster fusion. "No man can see God and live" and the finaliter before God face-to-face are the same condition, unmet and met.
+
+**[[Paper 21 - What We Have Seen|Paper 21 — What We Have Seen, What We Have Not Done]]**
+The close of Section III — it gathers the wide reading (the Republic, Augustine, the Nicomachean Ethics, the Plato–Aristotle reconciliation, Reasonablenessism, the family, and the whole arc of recorded history to the edge of Paradise) and turns: all of it has shown what is and what has been; what one should now *do* with it is the work of Section IV.
 
 ---
 

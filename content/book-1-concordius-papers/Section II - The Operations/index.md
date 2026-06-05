@@ -6,7 +6,7 @@ tags:
 
 # Section II — The Operations
 
-*Papers 8–13*
+*Papers 8–14*
 
 ---
 
@@ -62,7 +62,10 @@ Case Study 3 — the Laws made visible and bodily, carrying the method out of la
 **[[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½ — The Maximum Downward Entry]]**
 The section's downward-entry interval — its Si-Do crossing, mirroring Paper 6½ in Section I. Paper 4 identified kenosis as the taking-on of density but could not supply the structural mechanism: why specifically is constraint acceptance the necessary condition for non-disruptive descent? Paper 13½ derives it. The downward compatibility operation — the structural requirement that lower-constraint content accept H₄₈'s constraint structure to operate within H₄₈ without generating a disruptive overdetermination — is kenosis. The derivation is general before it is Christological: it holds for any lower-constraint content entering H₄₈, not only for Φ. The Incarnation is identified as the maximum case — Φ itself occupying the full spectral range of an H₄₈ vessel while maintaining complete Φ-coherence — and John 1:14 is read as the maximum downward entry theorem. The paper also derives the miracles as selective amplitude modulations of the kenotic constraint, and the Resurrection as its permanent lifting. The constraint compatibility condition governing the complementary upward direction is derived in Paper 20½.
 
+**[[Paper 14 - What We've Done, What Remains|Paper 14 — What We've Done, What Remains]]**
+The close of Section II — it introduces nothing new. It gathers the operations (incompleteness, the truth measure, the Laws of Three and Seven, the reading method, the three case studies, the downward entry) and turns outward: all of it was worked within the structure's own house, and the made world those operations were built to read is what comes next.
+
 ---
 
-*Section II ends. Section III (Papers 15–20) follows: The Wide Reading.*
+*Section II ends. Section III (Papers 15–21) follows: The Wide Reading.*
 

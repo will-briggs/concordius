@@ -560,4 +560,4 @@ The cascade descends through three levels — Si/Do claim, Mi/Fa provision remov
 
 ---
 
-*[[book-1-concordius-papers/section-iii---the-wide-reading/index|Section III — The Wide Reading]] →*
+*[[Paper 14 - What We've Done, What Remains|Paper 14 — What We've Done, What Remains]] →*
