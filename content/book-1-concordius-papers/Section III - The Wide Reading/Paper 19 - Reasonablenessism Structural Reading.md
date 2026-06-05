@@ -3,7 +3,7 @@
 # Paper 19 — The Method Reading Itself: A Structural Reading of Reasonablenessism
 
 **Status:** Complete  
-**Cross-references:** Paper 8 (incompleteness — the [[Appendix I - Dictionary of Terms#Si-Do Interval|Si-Do]] gap of any formal system applied here to the epistemological system); Paper 11 ([[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]] — theoretical basis for case studies); Papers 12–18 (the case study method the present paper turns back on its source); Paper 15 (Plato/Aristotle resolution — the Method/Model distinction as Φ ⊂ H; the Reasonable [[Appendix I - Dictionary of Terms#Person|Person]] as Φ-proximate attractor); Paper 17 (practical wisdom as recognitional, not definitional); Paper 20 (the [[Appendix I - Dictionary of Terms#Trogoautoegocrat|Trogoautoegocrat]] invoked by the Initiated Manifesto; false signals and their structural collapse)
+**Cross-references:** Paper 8 (incompleteness — the [[Appendix I - Dictionary of Terms#Si-Do Interval|Si-Do]] gap of any formal system applied here to the epistemological system); Paper 10½ ([[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]] — theoretical basis for case studies); Papers 12–18 (the case study method the present paper turns back on its source); Paper 15 (Plato/Aristotle resolution — the Method/Model distinction as Φ ⊂ H; the Reasonable [[Appendix I - Dictionary of Terms#Person|Person]] as Φ-proximate attractor); Paper 17 (practical wisdom as recognitional, not definitional); Paper 20 (the [[Appendix I - Dictionary of Terms#Trogoautoegocrat|Trogoautoegocrat]] invoked by the Initiated Manifesto; false signals and their structural collapse)
 
 ---
 

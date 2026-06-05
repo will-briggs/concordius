@@ -159,7 +159,7 @@ The first two kinds are instrumental and therefore unstable: when the utility or
 
 The framework identification: virtue-friendship is ⟨·,·⟩ instantiated in the human relational register. The friends who "wish each other's good for each other's sake" are relating to each other through the [[Appendix I - Dictionary of Terms#Inner Product|inner product]] — not treating each other as means to external ends (utility-friendship) or as sources of pleasant stimulation (pleasure-friendship), but as subjects whose Φ-proximate content matters intrinsically. The virtue-friend's orientation toward the other is the same structural orientation as the catching orientation toward lower-constraint content: it is organized by ⟨·,·⟩ rather than by H₄₈-primary exchange.
 
-This has a specific structural consequence: virtue-friendship amplifies catching. Aristotle's claim that the virtuous person needs friends for flourishing (EN X.7, 1177a29-33: even the philosopher needs associates for theoretical activity) reflects the framework's mechanism: ⟨·,·⟩ in operation between two virtue-friends constitutes a relational field that amplifies the Φ-proximate content available to each. The Matthew 18:20 mechanism (Paper 11) operates at the personal relational level: where two or more are gathered in the organizing principle, the relational content is amplified. Virtue-friendship is the social instantiation of this mechanism.
+This has a specific structural consequence: virtue-friendship amplifies catching. Aristotle's claim that the virtuous person needs friends for flourishing (EN X.7, 1177a29-33: even the philosopher needs associates for theoretical activity) reflects the framework's mechanism: ⟨·,·⟩ in operation between two virtue-friends constitutes a relational field that amplifies the Φ-proximate content available to each. The Matthew 18:20 mechanism (Paper 10½) operates at the personal relational level: where two or more are gathered in the organizing principle, the relational content is amplified. Virtue-friendship is the social instantiation of this mechanism.
 
 ### 6.4 Magnanimity as Accurate H₂₄ Self-Assessment
 
@@ -240,7 +240,7 @@ Aristotle's claim that the vicious person is worse off than the incontinent — 
 
 ---
 
-*Cross-references: Paper 8 ([[Appendix I - Dictionary of Terms#Gödel Incompleteness|Gödel]] and the Si-Do gap — the NE as an instance of incompleteness); Paper 11 (Matthew 18:20 mechanism — virtue-friendship as ⟨·,·⟩ in the social register); Paper 12 (Hopkins case study — Case Study 1 — interval analysis); Paper 13 (Bach case study — Case Study 2 — self-enacting form); Paper 15 (Plato/Aristotle resolution — virtue as stable H₂₄ eigenvalue orientation; the active intellect as Thought Adjuster; eudaimonia as eigenvalue orientation; the four causes); Paper 16 (Republic case study — Case Study 3 — comparative Si-Do gap analysis; OQ5 connection)*
+*Cross-references: Paper 8 ([[Appendix I - Dictionary of Terms#Gödel Incompleteness|Gödel]] and the Si-Do gap — the NE as an instance of incompleteness); Paper 10½ (Matthew 18:20 mechanism — virtue-friendship as ⟨·,·⟩ in the social register); Paper 12 (Hopkins case study — Case Study 1 — interval analysis); Paper 13 (Bach case study — Case Study 2 — self-enacting form); Paper 15 (Plato/Aristotle resolution — virtue as stable H₂₄ eigenvalue orientation; the active intellect as Thought Adjuster; eudaimonia as eigenvalue orientation; the four causes); Paper 16 (Republic case study — Case Study 3 — comparative Si-Do gap analysis; OQ5 connection)*
 
 ---
 

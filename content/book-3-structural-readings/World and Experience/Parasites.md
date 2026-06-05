@@ -84,7 +84,7 @@ The Lucifer rebellion did not cause all of these. It is the highest-scale instan
 | Field distortion amplified fitness of Trogoautoegocrat-violating life strategies | **[Speculative]** — structurally coherent, not derivable |
 | Parasitism would be absent on unaffected planets | **Unknown** — competitive extraction is available in any high-constraint evolutionary environment |
 
-*Cross-references: Paper 13½ §3.1 (Lucifer as ⟨·,·⟩ misidentification; the Trogoautoegocrat withdrawal); Paper 13½ OQ8 (evil as the ongoing overdeterminate event); Paper 11 (HCP — the same organizational imprint at every scale); Paper 27 §4 (the kenotic obligation and the temptation of the heights as personal-scale Trogoautoegocrat violation); Christian Doctrine / The Lucifer Rebellion (the three-level cascade and its H₄₈ effects).*
+*Cross-references: Paper 13½ §3.1 (Lucifer as ⟨·,·⟩ misidentification; the Trogoautoegocrat withdrawal); Paper 13½ OQ8 (evil as the ongoing overdeterminate event); Paper 10½ (HCP — the same organizational imprint at every scale); Paper 27 §4 (the kenotic obligation and the temptation of the heights as personal-scale Trogoautoegocrat violation); Christian Doctrine / The Lucifer Rebellion (the three-level cascade and its H₄₈ effects).*
 
 ---
 

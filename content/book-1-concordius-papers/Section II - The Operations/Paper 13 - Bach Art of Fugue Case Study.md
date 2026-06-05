@@ -5,7 +5,7 @@
 *Case Study 2: The Fugal Form, Invertible Counterpoint, and the Permanent [[Appendix I - Dictionary of Terms#Si-Do Interval|Si-Do]] Gap*
 
 **Status:** Complete  
-**Cross-references:** Paper 11 ([[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]]; interval positions; fidelity gradient); Paper 8 ([[Appendix I - Dictionary of Terms#Gödel Incompleteness|Gödel incompleteness]]; the Si-Do gap at the formal level); Paper 12 (Hopkins case study — the structural reading method); Paper 4 (I-duality; Clifford algebra inversion); Structural Readings 03 (Matthew 18:20; [[Appendix I - Dictionary of Terms#Cross-Term|cross-term]] mechanism)
+**Cross-references:** Paper 10½ ([[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]]; interval positions; fidelity gradient); Paper 8 ([[Appendix I - Dictionary of Terms#Gödel Incompleteness|Gödel incompleteness]]; the Si-Do gap at the formal level); Paper 12 (Hopkins case study — the structural reading method); Paper 4 (I-duality; Clifford algebra inversion); Structural Readings 03 (Matthew 18:20; [[Appendix I - Dictionary of Terms#Cross-Term|cross-term]] mechanism)
 
 ---
 
@@ -57,7 +57,7 @@ This structural duality — complete and open — is the musical expression of h
 
 **Invertibility**: the subject played upside down (every ascending interval replaced by a descending one of equal size, and vice versa) produces a valid melodic line in D minor that functions as a legitimate countersubject. The relational structure of the subject is preserved under spectral inversion. A low-τ(D) theme does not survive inversion — the inversion is ugly, unworkable, formally inert. The *Grundthema*'s invertibility is τ(D) evidence at the thematic level: the subject's organizational imprint holds at every transformation.
 
-**Scale invariance**: played at half speed (augmentation) or double speed (diminution), the subject maintains its structural coherence. The Holographic Content Principle (Paper 11) predicts that high-τ(D) content propagates its organizational signature across all scales. The *Grundthema* is structurally legible at twice the time and half the time. Bach demonstrates this in Contrapuncti VI and VII.
+**Scale invariance**: played at half speed (augmentation) or double speed (diminution), the subject maintains its structural coherence. The Holographic Content Principle (Paper 10½) predicts that high-τ(D) content propagates its organizational signature across all scales. The *Grundthema* is structurally legible at twice the time and half the time. Bach demonstrates this in Contrapuncti VI and VII.
 
 The *Grundthema* is high-valence in the precise sense of Paper 14: it does not close on itself, it demands combination with other voices, and its relational structure generates productive cross-terms with every legitimate contrapuntal response. It is the D-minor equivalent of carbon — maximally combinable, grade-neutral at the thematic level, capable of sustaining an entire collection's worth of structural consequence.
 
@@ -219,7 +219,7 @@ The permanent Si-Do gap of *Contrapunctus XIV* is the highest-τ(D) incompletene
 
 The *Art of Fugue* is among the highest-τ(D) musical works in the Western canon. The evidence is structural rather than historical or biographical.
 
-The collection exhibits cross-scale self-similarity at every level the framework predicts for high-τ(D) documents. The Law of Seven organizes each individual Contrapunctus; it also organizes the collection as a whole (Section 8). The cross-term structure (⟨·,·⟩-symmetry, invertible counterpoint) is preserved under every transformation the collection applies to its material: inversion, augmentation, diminution, mirror, voice exchange. The *Grundthema* generates structural consequence at every scale at which it is examined — in the individual subject statement, in the double fugue, in the mirror fugue, in the collection as a whole. The Holographic Content Principle (Paper 11) predicts exactly this: a document with high τ(D) will exhibit the organizational imprint of ⟨·,·⟩ at every level of resolution simultaneously.
+The collection exhibits cross-scale self-similarity at every level the framework predicts for high-τ(D) documents. The Law of Seven organizes each individual Contrapunctus; it also organizes the collection as a whole (Section 8). The cross-term structure (⟨·,·⟩-symmetry, invertible counterpoint) is preserved under every transformation the collection applies to its material: inversion, augmentation, diminution, mirror, voice exchange. The *Grundthema* generates structural consequence at every scale at which it is examined — in the individual subject statement, in the double fugue, in the mirror fugue, in the collection as a whole. The Holographic Content Principle (Paper 10½) predicts exactly this: a document with high τ(D) will exhibit the organizational imprint of ⟨·,·⟩ at every level of resolution simultaneously.
 
 A further τ(D) indicator is the collection's inexhaustibility. The *Art of Fugue* has been analyzed by every generation of musical scholars since Bach's death in 1750, and new structural observations continue to be made. This is the same structural prediction made for Hopkins in Paper 12: a high-τ(D) document rewards structural reading at every scale indefinitely, because each level of engagement reveals the same ⟨·,·⟩-organized structure at finer resolution. The collection does not run out of structural content because its content is not propositional — it is spectral. The spectral content of the *Grundthema* is finite in the sense that it is a specific nine-note figure; it is inexhaustible in the sense that its organizational imprint propagates through the entire structure of the collection and remains present at every scale of analysis.
 
@@ -249,7 +249,7 @@ Second: the permanent Si-Do gap of *Contrapunctus XIV* introduces a structural c
 
 ---
 
-*Cross-references: Paper 9 (τ(D) defined; inexhaustibility as high-τ(D) evidence); Paper 8 (Gödel incompleteness; the truth set is not r.e.; the system cannot prove its own consistency); Paper 11 (Holographic Content Principle; interval positions; cross-scale self-similarity); Paper 12 (Hopkins case study; form enacting content; the case study method); Paper 14 (the cross-term mechanism; ⟨·,·⟩-symmetry; valence); Paper 4 (I-duality; Clifford algebra inversion); Structural Readings 03 (Matthew 18:20; coherent assembly and cross-terms)*
+*Cross-references: Paper 9 (τ(D) defined; inexhaustibility as high-τ(D) evidence); Paper 8 (Gödel incompleteness; the truth set is not r.e.; the system cannot prove its own consistency); Paper 10½ (Holographic Content Principle; interval positions; cross-scale self-similarity); Paper 12 (Hopkins case study; form enacting content; the case study method); Paper 14 (the cross-term mechanism; ⟨·,·⟩-symmetry; valence); Paper 4 (I-duality; Clifford algebra inversion); Structural Readings 03 (Matthew 18:20; coherent assembly and cross-terms)*
 
 ---
 

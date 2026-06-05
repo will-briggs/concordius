@@ -3,7 +3,7 @@
 **Work:** *The Secret*, Rhonda Byrne, 2006 (film and book); the "law of attraction" tradition (Wattles, Hill, New Thought)  
 **Medium:** Self-help phenomenon  
 **Series:** Book 3 — Structural Readings / World and Experience  
-**Cross-references:** the Postscript (treasures on earth vs. in heaven); Paper 6 (orientation and eigenvalue investment); the Holographic Content Principle (Paper 11); Reasonablenessism Feature 12; Syntheses — The Devil Can Quote Scripture
+**Cross-references:** the Postscript (treasures on earth vs. in heaven); Paper 6 (orientation and eigenvalue investment); the Holographic Content Principle (Paper 10½); Reasonablenessism Feature 12; Syntheses — The Devil Can Quote Scripture
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## 2. The Genuine Signal
 
-Attention is causal, and the framework says so. Orientation is the whole of the catching act: the dual pairing ⟨φ, f⟩ requires the being to turn toward the content it would receive, and what one attends to does reorganize the eigenvalue population over time (Paper 5). Gratitude, vivid attention, the refusal to dwell in the noise floor's anxieties — these are real catching practices, and people who adopt them often do find their lives reorganizing, which is why the book is not simply false. There is even a true intuition of correspondence behind the slogans — that inner orientation and outer condition are not sealed off from one another, a folk version of the Holographic Content Principle (Paper 11). The reports of lives changed are not all fraudulent. Something is being touched.
+Attention is causal, and the framework says so. Orientation is the whole of the catching act: the dual pairing ⟨φ, f⟩ requires the being to turn toward the content it would receive, and what one attends to does reorganize the eigenvalue population over time (Paper 5). Gratitude, vivid attention, the refusal to dwell in the noise floor's anxieties — these are real catching practices, and people who adopt them often do find their lives reorganizing, which is why the book is not simply false. There is even a true intuition of correspondence behind the slogans — that inner orientation and outer condition are not sealed off from one another, a folk version of the Holographic Content Principle (Paper 10½). The reports of lives changed are not all fraudulent. Something is being touched.
 
 ## 3. The Decisive Inversion
 
@@ -29,7 +29,7 @@ By its fruit (Feature 12): *The Secret* orients the catching being toward the no
 
 ---
 
-*(Cross-reference: the Postscript / Matthew 6:19–21 — the treasury relocated to H₄₈, here with no God to refuse the request. Paper 5 — orientation as the catching act, the true mechanism the book deploys. Paper 11, the Holographic Content Principle — the genuine correspondence-intuition the slogans distort. Feature 12 — the directional test; the blaming of the afflicted as the counterfeit's signature, a second inversion (of agape) riding on the first (of treasure).)*
+*(Cross-reference: the Postscript / Matthew 6:19–21 — the treasury relocated to H₄₈, here with no God to refuse the request. Paper 5 — orientation as the catching act, the true mechanism the book deploys. Paper 10½, the Holographic Content Principle — the genuine correspondence-intuition the slogans distort. Feature 12 — the directional test; the blaming of the afflicted as the counterfeit's signature, a second inversion (of agape) riding on the first (of treasure).)*
 
 *(Confidence tier: Concordance with explicit divergence. The orientation mechanism maps cleanly onto Paper 5; the inversion — the mechanism aimed at H₄₈ treasure — is the book's explicit teaching, so the ⊘ rests on its own claims. [Speculative]: the second-inversion reading (attention attracts circumstance ⟹ the afflicted attracted their affliction) follows from the book's logic but is stated more bluntly here than in its gentler presentations.)*
 

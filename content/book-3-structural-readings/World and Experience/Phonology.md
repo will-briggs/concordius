@@ -67,7 +67,7 @@ The convergence is either a translation accident across sixteen centuries of ind
 | Framework application (HCP) | Structural persistence across language families predicted by HCP | [Speculative] |
 | Phonological openness → low-constraint | Connection between articulatory openness and information-theoretic constraint level | Suggestive; requires further argument |
 
-*Cross-references: Paper 2 §5 (the Father as ⟨·,·⟩, the non-relational face of the inner product); Paper 2 §14 (the Divine Names as modes of ⟨·,·⟩ encountered from different positions); Paper 11 (the Holographic Content Principle — organizational imprint preserved across substrates).*
+*Cross-references: Paper 2 §5 (the Father as ⟨·,·⟩, the non-relational face of the inner product); Paper 2 §14 (the Divine Names as modes of ⟨·,·⟩ encountered from different positions); Paper 10½ (the Holographic Content Principle — organizational imprint preserved across substrates).*
 
 ---
 

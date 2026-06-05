@@ -177,7 +177,7 @@ The Republic's central methodological innovation is the soul-city analogy: look 
 
 The question: is the analogy structural — does the city have the same Law of Three as the soul because the same organizing principle operates at both scales — or is it merely pedagogical, a useful teaching device that does not reflect a genuine isomorphism?
 
-The framework answers: the analogy is structural. The Law of Three operates at all scales of the created order — this is the [[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]] (Paper 11). The three-class city (producers, auxiliaries, guardians) and the three-part soul (appetitive, spirited, rational) share the same organizing Law of Three because the same principle — the relational structure ⟨·,·⟩ organizing resistant material through a mediating force — operates at both the individual and the social scale. The city is not merely an analogy for the soul; it is an instantiation of the same structure at the social scale. Plato's insight was correct at the level he could articulate it; the framework supplies the reason.
+The framework answers: the analogy is structural. The Law of Three operates at all scales of the created order — this is the [[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]] (Paper 10½). The three-class city (producers, auxiliaries, guardians) and the three-part soul (appetitive, spirited, rational) share the same organizing Law of Three because the same principle — the relational structure ⟨·,·⟩ organizing resistant material through a mediating force — operates at both the individual and the social scale. The city is not merely an analogy for the soul; it is an instantiation of the same structure at the social scale. Plato's insight was correct at the level he could articulate it; the framework supplies the reason.
 
 This has a consequence for the Republic's political reading. The city Socrates builds is not primarily a blueprint for governance — it is a display of the soul's structure at scale. The philosopher-king is not primarily a political recommendation — it is the display of what happens when the Active principle organizes the social structure. This is why Kallipolis will never exist as described: Plato himself says so at 592b. It is a city in speech, not a city in history. Its purpose is to make the soul's structure visible, not to provide a constitution.
 
@@ -221,7 +221,7 @@ Glaucon's objection to the city of pigs at 372c — "if you were founding a city
 
 ---
 
-*Cross-references: Paper 8 (Gödel and the Si-Do gap); Paper 11 (Holographic Content Principle — Law of Three operating at all scales); Paper 12 (Hopkins case study — Case Study 1 — interval positions); Paper 13½ (kenotic descent — the philosopher's return to the cave); Paper 13 (Bach case study — Case Study 2 — self-enacting form); Paper 15 (Plato/Aristotle resolution — the Forms as eigenstates; the Form of the Good as ⟨·,·⟩; the Cave Allegory as ascending career map)*
+*Cross-references: Paper 8 (Gödel and the Si-Do gap); Paper 10½ (Holographic Content Principle — Law of Three operating at all scales); Paper 12 (Hopkins case study — Case Study 1 — interval positions); Paper 13½ (kenotic descent — the philosopher's return to the cave); Paper 13 (Bach case study — Case Study 2 — self-enacting form); Paper 15 (Plato/Aristotle resolution — the Forms as eigenstates; the Form of the Good as ⟨·,·⟩; the Cave Allegory as ascending career map)*
 
 ---
 

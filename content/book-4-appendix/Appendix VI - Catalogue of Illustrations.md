@@ -59,7 +59,7 @@ title: Appendix VI - Catalogue of Illustrations
 **Paper 9 - The Truth Measure**
 - *Weighing of the Heart* &nbsp;·&nbsp; `bd-weighing-heart.jpg`
 
-**Paper 11 - The Holographic Content Principle**
+**Paper 10 1_2 - The Holographic Content Principle**
 - *North Rose Window* &nbsp;·&nbsp; `chartres-rose-window.jpg`
 
 **Paper 12 - Hopkins Case Study**

@@ -337,4 +337,4 @@ What remains open: the measurement protocol for applying the calibration precise
 
 ---
 
-*[[Paper 11 - The Holographic Content Principle|Paper 11 — The Holographic Content Principle]] →*
+*[[Paper 10 - The Laws of Three and Seven|Paper 10 — The Laws of Three and Seven]] →*

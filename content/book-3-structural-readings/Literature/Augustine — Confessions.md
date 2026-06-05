@@ -77,7 +77,7 @@ Augustine is in a garden in Milan, in a state of extreme psychological distress 
 
 The continuation — *et ibi te quaerebam* followed by the beauty that called him, the disfigurement that held him, the grace that he fled — is the Heropass's operation described from the inside, as lived experience. The H₄₈-primary content that constituted his noise floor was not external to him but organized him from within, and the source he sought was not external to the H₄₈ structure but was the ground of it.
 
-*(Cross-reference: Paper 11 — The Holographic Content Principle; Paracelsus — "signatures of all things I am here to read" as the same structural diagnosis from the esoteric tradition.)*
+*(Cross-reference: Paper 10½ — The Holographic Content Principle; Paracelsus — "signatures of all things I am here to read" as the same structural diagnosis from the esoteric tradition.)*
 
 ---
 
