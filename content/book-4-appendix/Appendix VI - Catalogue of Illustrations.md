@@ -79,7 +79,7 @@ title: Appendix VI - Catalogue of Illustrations
 **Paper 17 1_2 - Plato Aristotle and the Gelfand Triple**
 - *Bust of Plato* &nbsp;·&nbsp; `plato-bust.jpg`
 
-**Paper 16 - The Republic Case Study**
+**Paper 15 - The Republic Case Study**
 - *Jan Saenredam after Cornelis van Haarlem, Plato's Allegory of the Cave* (1604) &nbsp;·&nbsp; `platos-cave-saenredam.jpg`
 
 **Paper 17 - The Nicomachean Ethics Case Study**

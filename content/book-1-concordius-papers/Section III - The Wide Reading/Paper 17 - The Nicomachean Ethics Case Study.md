@@ -1,9 +1,9 @@
-*← [[Paper 16 - The Republic Case Study|Paper 16 — The Republic: Case Study]]*
+*← [[Paper 15 - The Republic Case Study|Paper 15 — The Republic: Case Study]]*
 
 # Paper 17 — The Nicomachean Ethics as Ascending Career: A Structural Reading
 
 **Status:** Complete  
-**Cross-references:** Paper 9 (τ(D) — truth as [[Appendix I - Dictionary of Terms#Φ-Proximity|Φ-proximity]]); Paper 8 (incompleteness and the [[Appendix I - Dictionary of Terms#Si-Do Interval|Si-Do]] gap); Paper 11 (Hopkins case study — Case Study 1); Paper 12 (Bach case study — Case Study 2); Paper 17½ (Plato, Aristotle, and the [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]] — the philosophical resolution; virtue as stable [[Appendix I - Dictionary of Terms#H₂₄|H₂₄]] [[Appendix I - Dictionary of Terms#Eigenstate|eigenvalue]] orientation; the active intellect as [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]]); Paper 16 (Republic case study — Case Study 3 — interval analysis; the Si-Do gap as structural feature)
+**Cross-references:** Paper 9 (τ(D) — truth as [[Appendix I - Dictionary of Terms#Φ-Proximity|Φ-proximity]]); Paper 8 (incompleteness and the [[Appendix I - Dictionary of Terms#Si-Do Interval|Si-Do]] gap); Paper 11 (Hopkins case study — Case Study 1); Paper 12 (Bach case study — Case Study 2); Paper 17½ (Plato, Aristotle, and the [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]] — the philosophical resolution; virtue as stable [[Appendix I - Dictionary of Terms#H₂₄|H₂₄]] [[Appendix I - Dictionary of Terms#Eigenstate|eigenvalue]] orientation; the active intellect as [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]]); Paper 15 (Republic case study — Case Study 3 — interval analysis; the Si-Do gap as structural feature)
 
 ---
 
@@ -240,7 +240,7 @@ Aristotle's claim that the vicious person is worse off than the incontinent — 
 
 ---
 
-*Cross-references: Paper 8 ([[Appendix I - Dictionary of Terms#Gödel Incompleteness|Gödel]] and the Si-Do gap — the NE as an instance of incompleteness); Paper 10½ (Matthew 18:20 mechanism — virtue-friendship as ⟨·,·⟩ in the social register); Paper 11 (Hopkins case study — Case Study 1 — interval analysis); Paper 12 (Bach case study — Case Study 2 — self-enacting form); Paper 17½ (Plato/Aristotle resolution — virtue as stable H₂₄ eigenvalue orientation; the active intellect as Thought Adjuster; eudaimonia as eigenvalue orientation; the four causes); Paper 16 (Republic case study — Case Study 3 — comparative Si-Do gap analysis; OQ5 connection)*
+*Cross-references: Paper 8 ([[Appendix I - Dictionary of Terms#Gödel Incompleteness|Gödel]] and the Si-Do gap — the NE as an instance of incompleteness); Paper 10½ (Matthew 18:20 mechanism — virtue-friendship as ⟨·,·⟩ in the social register); Paper 11 (Hopkins case study — Case Study 1 — interval analysis); Paper 12 (Bach case study — Case Study 2 — self-enacting form); Paper 17½ (Plato/Aristotle resolution — virtue as stable H₂₄ eigenvalue orientation; the active intellect as Thought Adjuster; eudaimonia as eigenvalue orientation; the four causes); Paper 15 (Republic case study — Case Study 3 — comparative Si-Do gap analysis; OQ5 connection)*
 
 ---
 

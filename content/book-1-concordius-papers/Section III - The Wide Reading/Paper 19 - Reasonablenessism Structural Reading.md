@@ -115,7 +115,7 @@ The framework identification: the Reasonable Person is the Φ-proximate attracto
 
 This is structurally the same as three other attractors identified in the series:
 - Aristotle's magnanimous person (Paper 17) — the accurate self-assessor whose stable orientation is toward truth; cannot be formally defined, only recognized
-- Plato's philosopher-king (Paper 16) — the one who has seen the sun and returns; the ideal that organizes the city's structure, not achievable as a political fact
+- Plato's philosopher-king (Paper 15) — the one who has seen the sun and returns; the ideal that organizes the city's structure, not achievable as a political fact
 - The active intellect's fully actualized state (Paper 17½) — the Adjuster at its proper constraint level, the target of the ascending career, not achievable within H₄₈
 
 All four are recognitional rather than definitional. All four are Φ-proximate attractors. The Reasonable Person is the epistemic instance of the same structural category. Reasonablenessism cannot define the Reasonable Person formally for the same structural reason that the Nicomachean Ethics cannot formally define phronesis: the Φ-proximate attractor is the organizing principle of the practice, not the rule that the practice follows.
