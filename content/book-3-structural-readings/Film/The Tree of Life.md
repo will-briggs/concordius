@@ -4,7 +4,7 @@
 **Director:** Terrence Malick  
 **Medium:** Theatrical feature film  
 **Series:** Book 3 — Structural Readings / Movies  
-**Cross-references:** Paper 3 (the Spirit Integrates); Paper 3½ (the Constraint Cascade); Paper 6 (the ascending integration); Paper 6 (eigenvalue population; noise floor; catching orientation); Paper 28 1/2 (Si/Do interval); Suffering ✶✶ (Human Conditions); The Seventh Seal §2 (Si/Do interval)
+**Cross-references:** Paper 3 (the Spirit Integrates); Paper 3½ (the Constraint Cascade); Paper 6 (the ascending integration); Paper 6 (eigenvalue population; noise floor; catching orientation); Paper 27 1/2 (Si/Do interval); Suffering ✶✶ (Human Conditions); The Seventh Seal §2 (Si/Do interval)
 
 ---
 

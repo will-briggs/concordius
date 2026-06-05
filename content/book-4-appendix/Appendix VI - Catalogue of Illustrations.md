@@ -123,7 +123,7 @@ title: Appendix VI - Catalogue of Illustrations
 **Paper 27 - Man No. 6**
 - *Gian Lorenzo Bernini, The Ecstasy of Saint Teresa* (1647–52) &nbsp;·&nbsp; `bernini-ecstasy.jpg`
 
-**Paper 28 - Man No. 7**
+**Paper 27 1_2 - The Si-Do Interval**
 - *Rembrandt van Rijn, The Return of the Prodigal Son* (c. 1668) &nbsp;·&nbsp; `rembrandt-prodigal-son.jpg`
 
 **Paper 27 1_2 - The Si-Do Interval**

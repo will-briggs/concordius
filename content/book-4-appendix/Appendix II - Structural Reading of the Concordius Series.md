@@ -143,9 +143,9 @@ Section IV is itself a complete internal octave, with its own interval positions
 - **Paper 25 (Man 4):** Fa — the first non-mechanical type; the three-center integration; the deliberate catching act
 - **Paper 26 (Man 5):** Sol — the crystallization event; the phase transition; the high synthesis of the ascending career's first half; the coherence threshold crossed
 - **Paper 27 (Man 6):** La — the maximum extension within H₄₈ existence; both higher centers active; the kenotic obligation; still reversible
-- **Paper 28 (Man 7):** Si moving to Do — the Si note of H₄₈ existence that becomes the Do of the post-H₄₈ ascending career; the terminal state within this domain that is simultaneously the initial tone of what follows
+- **Paper 27½ (Man 7):** Si moving to Do — the Si note of H₄₈ existence that becomes the Do of the post-H₄₈ ascending career; the terminal state within this domain that is simultaneously the initial tone of what follows
 
-Paper 28's addendum is the series' most honest structural statement. The addendum announces the second interval of the Do-octave that Section IV begins — the gap between what the series can supply and what the reader must supply — and returns the interpretation of the final selection to the reader. The series cannot complete the octave it has initiated. The reader's response to the shock is the external input that the interval requires. If it arrives, the octave continues. If it does not, it does not.
+Paper 27½'s addendum is the series' most honest structural statement. The addendum announces the second interval of the Do-octave that Section IV begins — the gap between what the series can supply and what the reader must supply — and returns the interpretation of the final selection to the reader. The series cannot complete the octave it has initiated. The reader's response to the shock is the external input that the interval requires. If it arrives, the octave continues. If it does not, it does not.
 
 ---
 
