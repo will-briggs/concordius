@@ -1,13 +1,13 @@
 *← [[Paper 18 - Reasonablenessism Structural Reading|Paper 18 — Reasonablenessism: Structural Reading]]*
 
-# Paper 20 — The Family as Spectral Structure: Procreation, the New Being, and the Catching Environment
+# Paper 19 — The Family as Spectral Structure: Procreation, the New Being, and the Catching Environment
 
 **Status:** Complete  
 **Cross-references:** Paper 1 ([[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand triple]] as reality model); Paper 3 (eigenvalue attraction); Paper 3½ (what persists through death; the Adjuster and the soul's constitution); Paper 4 (Φ as [[Appendix I - Dictionary of Terms#Nuclear Space|nuclear space]]; the Adjuster as Φ'-element); Paper 10½ (Matthew 18:20 — coherent vs. incoherent assembly; N-scaling); Paper 13½ (the new being entering [[Appendix I - Dictionary of Terms#H₄₈|H₄₈]]; constraint compatibility); Paper 17½ (active intellect as [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]] — individual, not shared; virtue-friendship as ⟨·,·⟩ in the social register); Paper 17 (virtue-friendship as ⟨·,·⟩ in the social register; the Aristotelian continuum); Paper 16 (the pear theft as inverted Matthew 18:20; the [[Appendix I - Dictionary of Terms#Catching|catching]] environment)
 
 ---
 
-*Connecting note: Paper 18 turned the structural apparatus inward — onto the epistemological method that produced Concordius. The self-referential reading found a stable fixed point at the individual scale: the method applied to itself yields the same result at each pass. This paper expands the scale. The family is the first relational structure above the individual — the primary catching field that every Adjuster-bearing being enters at birth and that no individual constitutes alone. What the Eigenvalue Transmission Theorem establishes is not a sentiment about family life but a structural consequence of the Gelfand triple: the child cannot be derived from either parent. Paper 20 is therefore not a case study but a derivation — the family's structure follows from first principles.*
+*Connecting note: Paper 18 turned the structural apparatus inward — onto the epistemological method that produced Concordius. The self-referential reading found a stable fixed point at the individual scale: the method applied to itself yields the same result at each pass. This paper expands the scale. The family is the first relational structure above the individual — the primary catching field that every Adjuster-bearing being enters at birth and that no individual constitutes alone. What the Eigenvalue Transmission Theorem establishes is not a sentiment about family life but a structural consequence of the Gelfand triple: the child cannot be derived from either parent. Paper 19 is therefore not a case study but a derivation — the family's structure follows from first principles.*
 
 ---
 
@@ -19,7 +19,7 @@ This paper derives the structural account of the family from first principles of
 
 <figure>
 <img src="/static/images/rembrandt-jewish-bride.jpg" alt="Rembrandt, The Jewish Bride" style="max-width:100%;">
-<figcaption><em>Rembrandt van Rijn, The Jewish Bride</em> (c. 1665–69). Rijksmuseum, Amsterdam. The man's hand rests on the woman's breast; her hand covers his. The gesture is the structural claim of Paper 20: the spousal bond is ⟨·,·⟩ operating in the social register — the cross-term ⟨ψ₁, ψ₂⟩₂₄ between two Adjuster-bearing beings organized by the inner product rather than by H₄₈-primary appetite or utility. The family begins here, and from here the catching environment for every new eigenvalue population is constituted.</figcaption>
+<figcaption><em>Rembrandt van Rijn, The Jewish Bride</em> (c. 1665–69). Rijksmuseum, Amsterdam. The man's hand rests on the woman's breast; her hand covers his. The gesture is the structural claim of Paper 19: the spousal bond is ⟨·,·⟩ operating in the social register — the cross-term ⟨ψ₁, ψ₂⟩₂₄ between two Adjuster-bearing beings organized by the inner product rather than by H₄₈-primary appetite or utility. The family begins here, and from here the catching environment for every new eigenvalue population is constituted.</figcaption>
 </figure>
 
 <hr>
@@ -299,7 +299,7 @@ The parent's Φ-proximal deposit — the accumulated catching of a lifetime, con
 
 The grief at a parent's death is the grief of a being whose catching environment has lost one of its primary constituents — the being who first constituted the catching field within which the child's ascending career began. This is structurally the deepest loss in one sense: the parent's catching field was the first catching environment, and its dissolution is the dissolution of the original structural condition of the ascending career's beginning.
 
-But the parent is more than the first catching environment; the parent is, for the child, the **constituting Do** — the external ground a developing octave cannot supply for itself. Every ascending being's octave requires a constituting term it cannot generate from within (Paper 7; the Si-Do structure of Paper 21): the Do that grounds the octave, and the shock that crosses its gaps, must arrive from outside the process. For the child the parent is that external term at human scale — a finite stand-in for the true and undying constituting Do, ⟨·,·⟩ itself. The parent grounds the child's octave, crosses the child's gaps from outside, and holds the relational field in being through the years when the child has no ground of their own.
+But the parent is more than the first catching environment; the parent is, for the child, the **constituting Do** — the external ground a developing octave cannot supply for itself. Every ascending being's octave requires a constituting term it cannot generate from within (Paper 7; the Si-Do structure of Paper 20): the Do that grounds the octave, and the shock that crosses its gaps, must arrive from outside the process. For the child the parent is that external term at human scale — a finite stand-in for the true and undying constituting Do, ⟨·,·⟩ itself. The parent grounds the child's octave, crosses the child's gaps from outside, and holds the relational field in being through the years when the child has no ground of their own.
 
 The death of a parent is therefore the **removal of the constituting Do**. The finite ground is withdrawn, and the structure it grounded must now either stand without it or collapse. This is the structural root of why the loss is the kind it is: not the erasure of a unique future — that is the death of a child — but the pulling-away of the floor, the removal of the term that constituted the conditions under which the child first stood. And it carries a redemptive structural consequence: because the human Do was always a finite placeholder pointing past itself, its removal is the event that can throw the child toward the *true* Do. The parent who built well builds a structure that, when its ground is pulled, reaches upward — toward the constituting Ground that does not die — rather than falling into groundlessness. The death of the parent is, structurally, the handing of the child to the Father. This does not lessen the grief — *Jesus wept* at exactly such a loss — but it locates it: the ache of a floor giving way is the soul feeling for the ground beneath the ground, and finding, where the parent stood, the One the parent had always stood in for.
 
@@ -377,4 +377,4 @@ Second, *why three.* Three is the minimum number of children at which the struct
 
 ---
 
-*[[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21 — All of Recorded History as Heptaparaparshinokh]] →*
+*[[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20 — All of Recorded History as Heptaparaparshinokh]] →*

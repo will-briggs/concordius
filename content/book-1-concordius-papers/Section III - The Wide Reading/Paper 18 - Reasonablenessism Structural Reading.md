@@ -3,7 +3,7 @@
 # Paper 18 — The Method Reading Itself: A Structural Reading of Reasonablenessism
 
 **Status:** Complete  
-**Cross-references:** Paper 8 (incompleteness — the [[Appendix I - Dictionary of Terms#Si-Do Interval|Si-Do]] gap of any formal system applied here to the epistemological system); Paper 10½ ([[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]] — theoretical basis for case studies); Papers 12–18 (the case study method the present paper turns back on its source); Paper 17½ (Plato/Aristotle resolution — the Method/Model distinction as Φ ⊂ H; the Reasonable [[Appendix I - Dictionary of Terms#Person|Person]] as Φ-proximate attractor); Paper 17 (practical wisdom as recognitional, not definitional); Paper 20 (the [[Appendix I - Dictionary of Terms#Trogoautoegocrat|Trogoautoegocrat]] invoked by the Initiated Manifesto; false signals and their structural collapse)
+**Cross-references:** Paper 8 (incompleteness — the [[Appendix I - Dictionary of Terms#Si-Do Interval|Si-Do]] gap of any formal system applied here to the epistemological system); Paper 10½ ([[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]] — theoretical basis for case studies); Papers 12–18 (the case study method the present paper turns back on its source); Paper 17½ (Plato/Aristotle resolution — the Method/Model distinction as Φ ⊂ H; the Reasonable [[Appendix I - Dictionary of Terms#Person|Person]] as Φ-proximate attractor); Paper 17 (practical wisdom as recognitional, not definitional); Paper 19 (the [[Appendix I - Dictionary of Terms#Trogoautoegocrat|Trogoautoegocrat]] invoked by the Initiated Manifesto; false signals and their structural collapse)
 
 ---
 
@@ -277,8 +277,8 @@ That is Reasonablenessism. It is how the material is approached. It is how a lif
 
 ---
 
-*Cross-references: Paper 8 (Gödel — every sufficiently rich formal system contains truths it cannot prove; the Si-Do gap of every epistemological system, including this one); Paper 17½ (Φ ⊂ H as the Method/Model relation; Third Man dissolution applied to the method-as-not-one-more-claim); Paper 17 (the Reasonable Person as phronesis — recognitional, not definitional; Aristotle's practical wisdom and the Φ-proximate attractor); Paper 16 (Feature 8 correction as the ascending career at the epistemological scale; the Adjuster's retrospective signature and Feature 4 as its epistemic analog); Paper 20 (the Trogoautoegocrat and the structural collapse of false signals — the Initiated Manifesto's account of pragmatism's failure)*
+*Cross-references: Paper 8 (Gödel — every sufficiently rich formal system contains truths it cannot prove; the Si-Do gap of every epistemological system, including this one); Paper 17½ (Φ ⊂ H as the Method/Model relation; Third Man dissolution applied to the method-as-not-one-more-claim); Paper 17 (the Reasonable Person as phronesis — recognitional, not definitional; Aristotle's practical wisdom and the Φ-proximate attractor); Paper 16 (Feature 8 correction as the ascending career at the epistemological scale; the Adjuster's retrospective signature and Feature 4 as its epistemic analog); Paper 19 (the Trogoautoegocrat and the structural collapse of false signals — the Initiated Manifesto's account of pragmatism's failure)*
 
 ---
 
-*[[Paper 20 - The Family as Spectral Structure|Paper 20 — The Family as Spectral Structure]] →*
+*[[Paper 19 - The Family as Spectral Structure|Paper 19 — The Family as Spectral Structure]] →*

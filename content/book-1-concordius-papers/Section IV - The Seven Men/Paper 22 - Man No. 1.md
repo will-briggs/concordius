@@ -1,4 +1,4 @@
-*← [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21 — All of Recorded History as Heptaparaparshinokh]]*
+*← [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20 — All of Recorded History as Heptaparaparshinokh]]*
 
 # Paper 22 — Man No. 1
 
@@ -8,7 +8,7 @@
 
 ## Preliminary Note: What This Section Is
 
-Papers 22 through 28 constitute a new kind of paper in the series. Papers 1–21 built the framework, showed it in operation, and applied it to the broadest available objects. The Seven Men papers turn the apparatus toward the individual: not the family (Paper 20), not all of history (Paper 21), but the concrete person asking the concrete question of what to do.
+Papers 22 through 28 constitute a new kind of paper in the series. Papers 1–21 built the framework, showed it in operation, and applied it to the broadest available objects. The Seven Men papers turn the apparatus toward the individual: not the family (Paper 19), not all of history (Paper 20), but the concrete person asking the concrete question of what to do.
 
 Gurdjieff designated seven types of person, numbered 1 through 7, by their characteristic center-of-gravity: which center dominates, how much soul material has been crystallized, and what the relationship between the individual's intentional effort and the automatic operation of the [[Appendix I - Dictionary of Terms#Heropass|Heropass]] is. The designation is not a [[Appendix I - Dictionary of Terms#Personality|personality]] taxonomy — it is a spectral description. Men 1, 2, and 3 are [[Appendix I - Dictionary of Terms#Mechanical vs. Volitional|mechanical]]: born as one type or another, their center-of-gravity determined by which center is dominant in their biological and developmental inheritance. Men 4 through 7 are products of intentional work: no person is born a [[Appendix I - Dictionary of Terms#Man No. 1 through Man No. 7|Man 4]]; Man 4 must be achieved through deliberate [[Appendix I - Dictionary of Terms#Catching|catching]] effort. Men 5, 6, and 7 represent increasing levels of [[Appendix I - Dictionary of Terms#H₂₄|H₂₄]] crystallization — the accumulated [[Appendix I - Dictionary of Terms#Soul Deposit|soul deposit]] that survives the dissolution of the [[Appendix I - Dictionary of Terms#H₄₈|H₄₈]] substrate and constitutes the being who can continue the [[Appendix I - Dictionary of Terms#Ascending Career|ascending career]] beyond this life.
 

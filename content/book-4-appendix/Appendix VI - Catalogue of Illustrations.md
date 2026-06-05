@@ -91,10 +91,10 @@ title: Appendix VI - Catalogue of Illustrations
 **Paper 18 - Reasonablenessism Structural Reading**
 - *Raphael, Disputation of the Holy Sacrament* (1509–10) &nbsp;·&nbsp; `raphael-disputa.jpg`
 
-**Paper 20 - The Family as Spectral Structure**
+**Paper 19 - The Family as Spectral Structure**
 - *Rembrandt van Rijn, The Jewish Bride* (c. 1665–69) &nbsp;·&nbsp; `rembrandt-jewish-bride.jpg`
 
-**Paper 21 - All of Recorded History as Heptaparaparshinokh**
+**Paper 20 - All of Recorded History as Heptaparaparshinokh**
 - *William Blake, The Great Red Dragon and the Woman Clothed with the Sun* (c. 1803–05) &nbsp;·&nbsp; `blake-great-red-dragon.jpg`
 
 ### Section IV

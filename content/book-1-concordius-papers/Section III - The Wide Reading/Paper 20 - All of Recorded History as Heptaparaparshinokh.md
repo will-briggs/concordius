@@ -1,6 +1,6 @@
-*← [[Paper 20 - The Family as Spectral Structure|Paper 20 — The Family as Spectral Structure]]*
+*← [[Paper 19 - The Family as Spectral Structure|Paper 19 — The Family as Spectral Structure]]*
 
-# Paper 21 — All of Recorded History as Heptaparaparshinokh
+# Paper 20 — All of Recorded History as Heptaparaparshinokh
 
 *Concordius Structural Series*
 
@@ -8,13 +8,13 @@
 
 ## Preliminary Note
 
-Papers 16–18 applied the structural apparatus to the Western tradition's three most carefully examined texts — descending from the Form, ascending from the particular, and transiting from within. Paper 18 turned the apparatus inward on the epistemological method that produced Concordius, finding a stable fixed point. Paper 20 derived the structure of the family from first principles, and the [[Appendix I - Dictionary of Terms#Eigenstate|Eigenvalue]] Transmission Theorem it established carries a structural implication that opens directly onto this paper: each new Adjuster-bearing being begins the [[Appendix I - Dictionary of Terms#Ascending Career|ascending career]] again from zero. Every generation starts fresh. If the individual [[Appendix I - Dictionary of Terms#Octave|octave]] always regenerates at its own interval positions, the question becomes whether the civilizational octave does the same — and if so, where we are in it. This paper turns the apparatus on the largest available object: all of recorded history, from the first Adjuster-capable being through the present moment.
+Papers 16–18 applied the structural apparatus to the Western tradition's three most carefully examined texts — descending from the Form, ascending from the particular, and transiting from within. Paper 18 turned the apparatus inward on the epistemological method that produced Concordius, finding a stable fixed point. Paper 19 derived the structure of the family from first principles, and the [[Appendix I - Dictionary of Terms#Eigenstate|Eigenvalue]] Transmission Theorem it established carries a structural implication that opens directly onto this paper: each new Adjuster-bearing being begins the [[Appendix I - Dictionary of Terms#Ascending Career|ascending career]] again from zero. Every generation starts fresh. If the individual [[Appendix I - Dictionary of Terms#Octave|octave]] always regenerates at its own interval positions, the question becomes whether the civilizational octave does the same — and if so, where we are in it. This paper turns the apparatus on the largest available object: all of recorded history, from the first Adjuster-capable being through the present moment.
 
 The claim is structural, not prophetic. Gurdjieff's [[Appendix I - Dictionary of Terms#Law of Seven|Law of Seven]] is not a mystical assertion — it is derived in Paper 7 as the necessary shape of any process operating in a space constituted by [[Appendix I - Dictionary of Terms#Cl(3,0)|Cl(3,0)]]. If it holds for a ministry, a fugue, a philosophical text, and an epistemology, it holds for the civilizational process. The question is only whether we can identify the stages, the interval positions, and the nature of the shocks. This paper makes that identification.
 
 The second and more important claim is fractal: the individual always finds herself in the Si/Do interval of the current octave. Not occasionally. Not in some historical eras. Always. This is the structural condition of mortality under the [[Appendix I - Dictionary of Terms#Heropass|Heropass]]. The person asking "is there a direction — does the arc of a life bend toward anything?" is asking from within the gap. The answer does not arrive from within the octave. The answer is always an external shock or it is not yet an answer.
 
-*Cross-reference: Paper 3 §6 (the Law of Seven derived from Cl(3,0)); Paper 13½ (Maximum Downward Entry as the [[Appendix I - Dictionary of Terms#Mi-Fa Interval|Mi-Fa]] shock); Paper 3½ (Descent as [[Appendix I - Dictionary of Terms#Densification|Densification]] — the interval shock mechanism); Paper 2 (Cogito to [[Appendix I - Dictionary of Terms#Logos|Logos]] — consciousness as the ascending vector); Paper 20 (Eigenvalue Transmission Theorem — why each generation begins the octave again).*
+*Cross-reference: Paper 3 §6 (the Law of Seven derived from Cl(3,0)); Paper 13½ (Maximum Downward Entry as the [[Appendix I - Dictionary of Terms#Mi-Fa Interval|Mi-Fa]] shock); Paper 3½ (Descent as [[Appendix I - Dictionary of Terms#Densification|Densification]] — the interval shock mechanism); Paper 2 (Cogito to [[Appendix I - Dictionary of Terms#Logos|Logos]] — consciousness as the ascending vector); Paper 19 (Eigenvalue Transmission Theorem — why each generation begins the octave again).*
 
 ---
 
@@ -247,7 +247,7 @@ The horizontal recurrence of the separation of powers (Aristotle, Polybius, Mont
 
 ---
 
-*Paper 21 of the Concordius series. This paper completes Section III (Papers 15–21). The series continues with Paper 22: [[Appendix I - Dictionary of Terms#Man No. 1 through Man No. 7|Man No. 1]].*
+*Paper 20 of the Concordius series. This paper completes Section III (Papers 15–21). The series continues with Paper 22: [[Appendix I - Dictionary of Terms#Man No. 1 through Man No. 7|Man No. 1]].*
 
 ---
 
