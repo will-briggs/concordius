@@ -170,6 +170,7 @@ H₆ sovereignty (credential at baptism) = administrative authority from above. 
 | Bhagavad Gita: Krishna as universal form | The nuclear space Φ as simultaneously the source of all organizational structure and the content of any genuine encounter with it |
 | Urantia morontia → spirit; Gurdjieff Kesdjan body → higher-being-body | The two higher states: H₂₄ (still aging, half Heropass rate) and H₁₂ (ageless — no e₀ in Cl(3,0)); the qualitative break is the loss of the −1 generator above Cl(3,1) |
 | Gurdjieff: Hanbledzoin (the "blood" of the Kesdjan body) | The H₂₄ *animating substance* of the Kesdjan/morontia (H₂₄) body — the caught, catching-built eigenvalue content that fills and circulates within it; distinct from the finer substance of the H₁₂ body. Mortal (ages, half Heropass rate) like the Kesdjan body it animates. |
+| The seven virtues (contrary-virtues tradition) ↔ Cl(3,0) Trinity-modes (Section IV) | **Generators** (grade-1, expression-virtues, +1, alone-able, universal): gratitude = Father-alone (e₁), charity = Son-alone (e₂), ordered love = Spirit-alone (e₃) — the three **transcendentals** Good / True / Beauty. **Products** (grade-2 bivectors, overcoming-virtues, −1, require resistance, fallen-world): courage = Father–Son (e₁e₂), temperance = Son–Spirit (e₂e₃), diligence = Father–Spirit (e₁e₃). **Pseudoscalar** (central): humility = I, the complete integration (its inversion is pride). Grade structure derivation (§8); virtue-names concordance. See *Overdetermination Capture* §6½. |
 
 ---
 
