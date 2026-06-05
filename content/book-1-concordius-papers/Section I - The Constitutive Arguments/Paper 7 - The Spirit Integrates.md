@@ -51,7 +51,7 @@ The Heropass and the GNST are related but distinct. Earlier in this series they 
 1. Φ — the [[Appendix I - Dictionary of Terms#Nuclear Space|nuclear space]]; the Son; the attractor
 2. H — the [[Appendix I - Dictionary of Terms#Hilbert Space|Hilbert space]]; the Deity Absolute; the domain of structured states
 3. Φ′ — the distributional dual; the [[Appendix I - Dictionary of Terms#Unqualified Absolute|Unqualified Absolute]]; infinite potential
-4. The GNST — the spectral decomposition mechanism; in continuous operation, the universal actualization engine
+4. The GNST — the spectral decomposition mechanism; in continuous operation, the universal actualization engine (named and defined in [[Paper 1 - Modeling Reality as a Gelfand Triple|Paper 1]] §3.3, §6)
 5. The [[Appendix I - Dictionary of Terms#Coherence Threshold|coherence threshold]] τ_n — the persistence condition at each constraint level
 
 The Heropass is not a sixth premise as a separate force. It is what emerges from the intersection of (4) and the complement structure of (3): the GNST operating below the Mi-Fa crossing in the presence of the −1 generator that the Creative Choice produced. It is not the GNST itself. It is the GNST in Cl(3,1) territory.

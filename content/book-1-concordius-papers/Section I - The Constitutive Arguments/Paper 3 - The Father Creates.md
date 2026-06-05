@@ -1,6 +1,6 @@
 *← [[Paper 2 - From the Cogito to the Logos|Paper 2 — From the Cogito to the Logos]]*
 
-# The Father Creates: Creation as Spectral Collapse
+# The Spirit Integrates: Creation as Coordinative Actualization
 
 *Third paper in the Concordius series. Companion to "Modeling Reality as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]" and "From the Cogito to the [[Appendix I - Dictionary of Terms#Logos|Logos]]."*
 
@@ -8,7 +8,7 @@
 
 ## Abstract
 
-The first two papers in this series established, from two assumptions, the complete eternal structure of a rigged [[Appendix I - Dictionary of Terms#Hilbert Space|Hilbert space]] and the names of every entity within it. Everything demonstrated there was structurally necessary — forced by the mathematics once the single assumption was granted. This paper locates where genuine freedom enters the creative act. The act of generation itself is not a contingent choice — it is the constitutional expression of what the inner product is: to be ⟨·,·⟩ is to generate, and God is ⟨·,·⟩. The algebra of generation — associative, giving Cl(3,0) — is likewise not chosen; it follows necessarily from the Son's own nature, since Φ requires associativity for its existence and the Son IS Φ. The Creative Choice is the ongoing selection at every GNST collapse event: the Father choosing which eigenstate is actualized from among those coherent within the Son-constrained algebra. Freedom lives not in structural type but in actualized content, exercised continuously at every moment of creation.
+The first two papers in this series established, from two assumptions, the complete eternal structure of a rigged [[Appendix I - Dictionary of Terms#Hilbert Space|Hilbert space]] and the names of every entity within it. Everything demonstrated there was structurally necessary — forced by the mathematics once the single assumption was granted. Paper 1 named the act by which that structure produces temporal outcomes: the GNST, the continuous actualization engine. This paper turns from the act to its result. What a single GNST event yields is a spectral collapse — one definite outcome drawn from distributional potential; what creation is, taken whole, is the coordination of all such outcomes into a single coherent, convergent order. That coordinative integration is the work of the nuclear topology τ_nuclear — the Spirit. We open with the Father's act and move quickly to what follows from it: coordinative actualization. The paper also locates where genuine freedom enters the creative act. The act of generation itself is not a contingent choice — it is the constitutional expression of what the inner product is: to be ⟨·,·⟩ is to generate, and God is ⟨·,·⟩. The algebra of generation — associative, giving Cl(3,0) — is likewise not chosen; it follows necessarily from the Son's own nature, since Φ requires associativity for its existence and the Son IS Φ. The Creative Choice is the ongoing selection at every GNST collapse event: the Father choosing which eigenstate is actualized from among those coherent within the Son-constrained algebra. Freedom lives not in structural type but in actualized content, exercised continuously at every moment of creation.
 
 **Confidence tier notice:** Sections 1 through 4 derive from the framework already established and carry the same mathematical warrant as the first two papers. Section 5 introduces the [[Appendix I - Dictionary of Terms#Urantia Book|Urantia]] testimony on the structure of the creative act. Section 6 establishes the mathematical grounding of that testimony — via the Clifford algebra [[Appendix I - Dictionary of Terms#Cl(3,0)|Cl(3,0)]], uniquely determined by the Creative Choice. Sections 7 and 8 present the Urantia testimony in detail; they carry derived-tier status, conditional on the Creative Choice and grounded by Section 6. Section 5 remains testimony.
 
@@ -38,13 +38,13 @@ The second paper named these structures and stopped where the mathematics stoppe
 
 What neither paper could supply — and what both papers acknowledged they could not supply — was the act. The eternal structure is not the universe. The universe is contingent, temporal, finite. Stars burn out. Choices are made. Time passes. None of that is in the Gelfand triple. The Gelfand triple is atemporal. It contains the complete space of possibilities. It does not contain the selection of any particular possibility, nor the moment at which selection begins.
 
-This paper describes the mathematical event by which the eternal structure produces temporal outcomes — and identifies, precisely, where the mathematics ends and the volitional act begins.
+This paper describes the mathematical event by which the eternal structure produces temporal outcomes — and identifies, precisely, where the mathematics ends and the volitional act begins. The act itself — the GNST, the continuous actualization engine — was established in Paper 1; this paper follows the act to its result. That result is not a heap of disconnected outcomes but a single coherent creation, and what makes the manifold of collapse-events cohere is the nuclear topology τ_nuclear, the Spirit. Creation read from the result side is coordinative actualization: the Spirit integrating what the Father's act produces.
 
 ---
 
-## 2. The Mathematical Event: The Gelfand Nuclear Spectral Theorem
+## 2. The Mathematical Event: From Collapse to Coordination
 
-The Gelfand nuclear spectral theorem states that every self-adjoint operator A on H, when its domain is restricted to Φ, has a complete set of generalized eigenvectors in Φ′. Any state ψ ∈ H admits the expansion:
+The GNST, named and defined in Paper 1 (§3.3, §6), states that every self-adjoint operator A on H, when its domain is restricted to Φ, has a complete set of generalized eigenvectors in Φ′. Any state ψ ∈ H admits the expansion:
 
 > **ψ = ∫ ⟨eλ, ψ⟩ eλ dμ(λ)**
 
@@ -63,6 +63,8 @@ The structural significance of this theorem for the present paper lies in what e
 The collapse is the event in which this expansion produces a specific outcome λ₀. Before the collapse: ψ is a superposition distributed across the full spectral range. The Unqualified Absolute contains all possible localizations as distributional eigenstates. After the collapse: λ₀ is definite. A specific position, a specific energy, a specific time — a point in spacetime has been created.
 
 This is not a metaphor. The Dirac delta δ(x − x₀) is a mathematical object in Φ′. The spectral measure selects x₀. That selection is the creation of a location. The sequence of such selections is the creation of time. Space and time are not containers that pre-exist events; they are constituted by the sequence of collapse events, each one drawing a definite outcome from the infinite distributional potential of the Unqualified Absolute through the structured amplitude of the Deity Absolute.
+
+**The result the Spirit integrates.** A single collapse yields a single outcome; creation is not a single outcome but the whole manifold of them, held together as one coherent, convergent order. What makes that manifold cohere — what determines which outcomes are adjacent, which sequences converge, which limits exist — is the nuclear topology τ_nuclear, identified in Paper 2 as the Holy Spirit. The Father's act produces the actualizations; the Spirit integrates them into a single realized space. This is creation read from the result side: *coordinative actualization* — the ongoing actualization of the Father's collapse-events, coordinated by the Spirit into the one coherent creation. The act is the subject of Paper 1; its result is the subject of this paper.
 
 ---
 
@@ -169,6 +171,8 @@ The qualitative distinctions among the seven associative relationships that the 
 | Full Trinity | e₁e₂e₃ | 3 | −1 (in Cl(3,0)) |
 
 Grade-1 elements (single Persons) square to +1: they can iterate without change of kind. Grade-2 and grade-3 elements square to −1: they introduce a rotational character, a 90° relation to themselves. This is not a superficial [[Appendix I - Dictionary of Terms#Formal Distinction|formal distinction]]. It reflects a genuine qualitative difference in the creative mode: single-Person action has a different algebraic character than paired or unified action. The mathematics supplies the distinctions the Urantia account requires. Sections 7 and 8 may now be read as derived testimony rather than mere testimony.
+
+*(Forward note — the bivectors held for their papers. The three grade-2 elements (Father–Son e₁e₂, Father–Spirit e₁e₃, Son–Spirit e₂e₃) are the paired creative modes — the bivector relationships. This paper enumerates them only as elements of the algebra; their character as relational operations and as the grade-2 "overcoming" virtues (courage, temperance, diligence) is developed where the Pattern places them, in the grade-2 / bivector papers. See Appendix V §V, "The seven virtues ↔ Cl(3,0) Trinity-modes.")*
 
 **Why the choice of associativity is not arbitrary:**
 

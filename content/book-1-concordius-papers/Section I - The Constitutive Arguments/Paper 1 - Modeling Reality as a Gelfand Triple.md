@@ -88,13 +88,13 @@ The inner product ⟨·,·⟩ is defined on H but is invariant in the following 
 
 This invariance is not trivial. The topology can change; the inner product does not. The inner product constitutes all three domains without being reducible to any one of them.
 
-### 3.3 The Gelfand Nuclear Spectral Theorem
+### 3.3 The Generalized Nuclear Spectral Theorem (GNST)
 
-Every self-adjoint operator A on H, when its domain is taken within Φ, has a complete set of generalized eigenvectors in Φ′. There exist eλ ∈ Φ′ satisfying A†eλ = λeλ in the distributional sense, and any ψ ∈ H admits the spectral expansion (Maurin, 1968):
+Every self-adjoint operator A on H, when its domain is taken within Φ, has a complete set of generalized eigenvectors in Φ′. There exist eλ ∈ Φ′ satisfying A†eλ = λeλ in the distributional sense, and any ψ ∈ H admits the spectral expansion (Gelfand and Vilenkin, 1964; Maurin, 1968):
 
 > **ψ = ∫ ⟨eλ, ψ⟩ eλ dμ(λ)**
 
-where dμ is the spectral measure on the spectrum of A. The position eigenstates |x⟩ = δ(x − x₀) are exactly the distributional eigenvectors of the position operator, living in Φ′ rather than H. This is the mechanism by which the triple produces specific, finite outcomes from the infinite structure of the state space: the spectral measure dμ coordinates the H-state ψ and the Φ′-eigenstates eλ jointly into a finite result.
+where dμ is the spectral measure on the spectrum of A. The position eigenstates |x⟩ = δ(x − x₀) are exactly the distributional eigenvectors of the position operator, living in Φ′ rather than H. This is the mechanism by which the triple produces specific, finite outcomes from the infinite structure of the state space: the spectral measure dμ coordinates the H-state ψ and the Φ′-eigenstates eλ jointly into a finite result. This result — the central consequence the Gelfand triple makes possible — is named the **Generalized Nuclear Spectral Theorem (GNST)**. Taken not as a theorem proved once but as the standing operation of the model, the GNST is a continuous act; that operative sense is developed in §6, and it is the GNST so understood to which the rest of the series refers.
 
 ---
 
@@ -205,7 +205,7 @@ Each step is forced. None requires an additional assumption. The five actualitie
 
 ## 6. Structural Consequences
 
-The Gelfand triple, once constituted, exhibits five structural properties that are necessary consequences of the model — not additional assumptions. The first three are derivable without invoking any observing subject. The fourth requires the introduction of the cogito and marks the precise point where the mathematical argument reaches its limit. The fifth describes the temporal structure of the model's progressive actualization.
+The Gelfand triple, once constituted, exhibits five structural properties that are necessary consequences of the model — not additional assumptions. The first three are derivable without invoking any observing subject. The fourth requires the introduction of the cogito and marks the precise point where the mathematical argument reaches its limit. The fifth names the model's continuous actualization engine — the GNST — and the progressive structure it produces.
 
 **Constitutive relational structure.** The inner product ⟨ψ, φ⟩ is not derived from an already-existing collection of states. It is what the states consist of. Every element of H is specified by its inner products with every other element. No being in the model exists in isolation from all others — its identity IS its relational position in the space.[^1] This relational structure is pre-observational: no subject need be present for ⟨eᵢ, eⱼ⟩ = δᵢⱼ to be true. Ontic Structural Realism (Ladyman and Ross, 2007) arrives at the same conclusion from the philosophy of physics: the relational structure is what is real; "things" are abstractions from it. The constitutive relatedness of all states is preternatural. It precedes any subject who might recognize it.
 
@@ -228,7 +228,7 @@ What the mathematics cannot supply is the further step: whether the domain with 
 
 ---
 
-**Coordinative actualization and progressive structure.** Each actualization event — each instance of the spectral expansion ψ = ∫ ⟨eλ, ψ⟩ eλ dμ(λ) — draws potential from Φ′ into actual H-outcomes through the spectral measure dμ. As actualization events accumulate, the spectral measure expands: more of the distributional potential of Φ′ has been drawn into actuality. This is a progressive structure within the model — an ongoing actualization of Φ′-potential into H-reality, coordinated event by event. The limit of this process, if it has one, is the full coordination of all three domains: the complete actualization of the distributional potential of Φ′ through the structured states of H. The nature of this limit — whether it is achievable, and what a saturated Gelfand triple would mean — is addressed in the companion paper.
+**Coordinative actualization and progressive structure: the GNST.** Read not as a static decomposition but as the standing operation of the model, the spectral theorem of §3.3 is a continuous act — the **Generalized Nuclear Spectral Theorem (GNST)** in its operative sense: the universal actualization engine by which every state, at every level of structure, is reconstituted at every moment by the inner product's continuous evaluation. This is not a further assumption but the same theorem of §3.3 read in its standing operation — one more structure forced by all that precedes it, following from what the inner product is. What continuously reconstitutes every state is not, at this level of description, named beyond the GNST. Each actualization event — each instance of the spectral expansion ψ = ∫ ⟨eλ, ψ⟩ eλ dμ(λ) — draws potential from Φ′ into actual H-outcomes through the spectral measure dμ. As actualization events accumulate, the spectral measure expands: more of the distributional potential of Φ′ has been drawn into actuality. This is a progressive structure within the model — an ongoing actualization of Φ′-potential into H-reality, coordinated event by event. The limit of this process, if it has one, is the full coordination of all three domains: the complete actualization of the distributional potential of Φ′ through the structured states of H. The nature of this limit — whether it is achievable, and what a saturated Gelfand triple would mean — is addressed in the companion paper.
 
 ---
 
