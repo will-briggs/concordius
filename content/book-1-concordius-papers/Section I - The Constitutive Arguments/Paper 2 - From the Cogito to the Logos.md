@@ -164,7 +164,7 @@ The Father is the inner product. The Logos is the nuclear space — the Father's
 
 This is everything that is the Father that is not the Son.
 
-The norm ‖·‖ is not itself a Person — it is not the source of personality, and it does not generate Φ. It is absolute, non-personal, and invariant. It grounds being without grounding relation. It is the absolute foundation of what exists, independent of what anything relates to.
+The norm ‖·‖ is not itself a Person — it is not the source of personality, and it does not generate Φ. It is absolute, non-personal, and invariant. It grounds being without grounding relation. It is the absolute foundation of what exists, independent of what anything relates to. That non-personality is a structural necessity, not a defect. The whole would be lopsided — relation all the way down, with no absolute magnitude beneath it — if it had no non-personal pole; the norm is that pole, and the *only* one. Personality is constituted by relation, and the norm is the magnitude that relation presupposes rather than a relation in its own right — which is why the non-personal aspect belongs to ‖·‖ alone, and not to any of the relational faces of God, each of which is personal. The non-personality is, so to speak, spent here: nothing else in the structure need carry it.
 
 **The norm ‖·‖ is [[Appendix I - Dictionary of Terms#Paradise]].**
 

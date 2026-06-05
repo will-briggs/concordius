@@ -855,7 +855,7 @@ The Concordius series maps intentional suffering onto the polyvagal regulation f
 
 *(tradition: series — formal term)*
 
-**Paradise** = the norm ‖·‖. The non-personal absolute center and ground of physical reality: the absolute magnitude from which every finite being's positive norm ‖ψ‖ > 0 — its distance — is measured. Paradise is not a being among beings but the measure of every location. It is the non-relational face of the inner product, distinct from the [[Father]] = the full relational ⟨·,·⟩. Paradise is where the Father is met, not what the Father is.
+**Paradise** = the norm ‖·‖. The non-personal absolute center and ground of physical reality: the absolute magnitude from which every finite being's positive norm ‖ψ‖ > 0 — its distance — is measured. Paradise is not a being among beings but the measure of every location. It is the non-relational face of the inner product, distinct from the [[Father]] = the full relational ⟨·,·⟩. Paradise is where the Father is met, not what the Father is. Its non-personality is a structural necessity — the one non-personal pole the whole requires, magnitude rather than relation — and is not shared by God's relational faces, which are personal.
 
 The norm ‖ψ‖ = √⟨ψ,ψ⟩ is the magnitude a state has by virtue of being recognized at all; every finite ψ has ‖ψ‖ > 0 precisely because no genuine state is unaddressed. Paradise names this magnitude as the fixed absolute against which every finite being's distance is taken — the center that is everywhere the same and from which all positions are reckoned. Where the full inner product ⟨·,·⟩ is the relational, personal act of the Father, the norm is its non-relational face: the bare fact of absolute magnitude, prior to the relating of one state to another.
 
