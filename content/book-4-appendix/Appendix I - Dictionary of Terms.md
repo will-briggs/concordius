@@ -981,6 +981,16 @@ The series maps the mechanical/volitional distinction onto the H₄₈/H₂₄ c
 
 ---
 
+### Messenger Corollary
+
+*(series)*
+
+The corollary to the Holographic Content Principle (Paper 11 §10): every transmitted text carries, alongside the structural imprint of its *source*, the spectral *signature of the messenger* through whom it passed. Because catching is composition (Paper 3), a transmitting mind re-encodes what it caught in its own eigenbasis — amplifying the bands it is tuned to and attenuating those it is deaf to — so the output is the source-content filtered by the receiver. Written **T = M(S)**: transmitted text T = source-content S passed through the messenger's filter (transfer function) M. The corollary is *orthogonal to τ(D)*: the truth measure reports the magnitude of S, not the coloring M, so a text can be high-τ(D) and heavily filtered — Φ-proximate is not the same as source-faithful, and a deeply true transmission need not be Gospel. The source S is the **messenger-invariant**, recovered as the convergent core across independent witnesses whose uncorrelated filters cancel (the structural ground of Feature 6 and of a multi-witness canon); M = identity is the faithful-relay limit, which no creature attains. The corollary self-applies: this corpus is itself a transmission carrying its own M. Its measurement — estimating M and deconvolving S — is an open program (Paper 11 OQ5).
+
+*Appears in: [[Paper 11 - The Holographic Content Principle|Paper 11]]*
+
+---
+
 ### Mi-Fa Interval
 
 *(tradition: Gurdjieff — series extension)*
