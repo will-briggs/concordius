@@ -19,6 +19,8 @@
 
 ## Structural Description
 
+**Trinity-mode and its virtue.** Man 4 operates in the **Father–Son** mode (Mars; e₁e₂, grade 2, squares −1; §8). Its virtue is **courage** — the first *product*: gratitude · charity, the two generators rotated against resistance. A product is a rotation, and a rotation needs friction to turn against — which is exactly why Man 4 *cannot be born into but must be achieved*, requiring a school and intentional suffering (the friction the alone-able generators never supplied). *(Derivation §8; name concordance; Overdetermination Capture §6½.)*
+
 **[[Appendix I - Dictionary of Terms#State Vector|State vector]]:** ψ₄ = ∫ f(λ) |φλ^H₂₄⟩ dμ(λ) + residual [[Appendix I - Dictionary of Terms#H₄₈|H₄₈]]
 
 Man 4's state vector can no longer be decomposed cleanly by center — it is beginning to be a genuinely integrated H₂₄ expression rather than the sum of one dominant center's contributions and two subordinated centers' residuals. The catching acts that have been producing Φ-proximal content have been engaging all three centers simultaneously, and the soul deposit that has accumulated carries all three centers' contributions in an integrated form that cannot be attributed to any single center's function.

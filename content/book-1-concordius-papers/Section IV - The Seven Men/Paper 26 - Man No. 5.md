@@ -31,6 +31,8 @@ In Urantia terminology, this is the formation of the morontia body: the vehicle 
 
 ## Structural Description
 
+**Trinity-mode and its virtue.** Man 5 operates in the **Son–Spirit** mode (Jupiter; e₂e₃, grade 2, −1; §8). Its virtue is **temperance** — the product charity · ordered-love: love and desire held in right proportion. Its characteristic temptation, premature rest in the crystallized achievement, is precisely the failure of temperance — gorging on the height. *(Derivation §8; name concordance; Overdetermination Capture §6½.)*
+
 **[[Appendix I - Dictionary of Terms#State Vector|State vector]]:** ψ₅ ≈ ψ_H₂₄(crystallized) — the soul is its own coherent structure
 
 Man 5's state vector is no longer primarily decomposable into center contributions. The crystallized soul is a unified H₂₄ eigenstructure — the three centers' contributions have been integrated into something that is neither their sum nor their average but a genuinely new organization. The soul is its own entity, related to the three centers that built it but no longer constituted by their current states.

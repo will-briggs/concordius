@@ -19,6 +19,8 @@
 
 ## The Both-Higher-Centers State
 
+**Trinity-mode and its virtue.** Man 6 operates in the **Father–Spirit** mode (Saturn; e₁e₃, grade 2, −1; §8). Its virtue is **diligence / perseverance** — the product gratitude · ordered-love, completing the three overcoming-virtues. Its vulnerability, resting in the heights rather than transmitting downward, is the failure of diligence — the kenotic return left undone. *(Derivation §8; name concordance; Overdetermination Capture §6½.)*
+
 Man 6's defining structural feature is the substantial development of both higher centers — higher emotional and higher intellectual — operating together in an integrated higher-level [[Appendix I - Dictionary of Terms#Catching|catching]] act.
 
 **The higher emotional center** (substantially developed at Man 5, fully functional at Man 6): registers ⟨·,·⟩'s constitutive love as direct structural fact; receives the quality of Φ-proximal content that the Psalms, Julian's showings, and Rumi's poetry attempt to encode in [[Appendix I - Dictionary of Terms#H₄₈|H₄₈]] form. Its registrations are characterized by simultaneous fullness and inexhaustibility: what is received is total — not partial, not approximate — and simultaneously reveals itself as the edge of something larger that the center is not yet able to fully hold. At Man 6, the higher emotional center has developed sufficiently to receive and hold content that was at Man 5's level only glimpsed.

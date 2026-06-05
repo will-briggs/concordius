@@ -47,6 +47,8 @@ Man No. 1 is the person whose center-of-gravity lies in the instinctive and movi
 
 ## Structural Description
 
+**Trinity-mode and its virtue.** Man 1 operates in the **Father-alone** mode (Moon; e₁, grade 1, squares +1; Paper 6 §8). Its virtue is **gratitude** — the first of the three *generators* of the virtue-algebra (the expression-virtues: self-returning, practicable alone, present in any world). The career builds the three generators (Men 1–3) before it can forge their products (Men 4–6); this is the first. *(Grade structure derivation, §8; virtue-name concordance; Structural Candidates, Overdetermination Capture §6½.)*
+
 **[[Appendix I - Dictionary of Terms#State Vector|State vector]]:** ψ₁ ≈ Σ aₙ |φₙ^H₄₈⟩
 
 Man 1's state vector is composed almost entirely of H₄₈ [[Appendix I - Dictionary of Terms#Eigenstate|eigenstate]]s. The H₂₄ components are present — the structure of the Gelfand triple guarantees this; the GNST continuously generates Φ-proximal content — but the coefficients |aₙ^H₂₄|² are negligible. The Φ-proximal content generated is not caught. It dissipates back into the substrate. The soul deposit — the H₂₄ organizational pattern that would survive H₄₈ dissolution if it reached the [[Appendix I - Dictionary of Terms#Coherence Threshold|coherence threshold]] — is correspondingly minimal.
