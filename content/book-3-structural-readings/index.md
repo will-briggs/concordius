@@ -39,6 +39,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 [[Sacred Texts/The Bible - Thematic/The Measure Is the Inner Product|V — The Measure Is the Inner Product]]
 [[Sacred Texts/The Bible - Thematic/The Passion Octave|The Passion Octave]]
 [[Sacred Texts/The Bible - Thematic/The Psalter|The Psalter]]
+[[Sacred Texts/The Bible - Thematic/The First Commandment|The First Commandment — No Other Gods]]
 
 **The Fruits of the Spirit**
 [[Sacred Texts/The Bible - Thematic/Fruits of the Spirit/Love (Agape)|Love (Agape)]] · [[Sacred Texts/The Bible - Thematic/Fruits of the Spirit/Joy (Chara)|Joy (Chara)]] · [[Sacred Texts/The Bible - Thematic/Fruits of the Spirit/Peace (Eirene)|Peace (Eirene)]] · [[Sacred Texts/The Bible - Thematic/Fruits of the Spirit/Forbearance (Makrothymia)|Forbearance (Makrothymia)]] · [[Sacred Texts/The Bible - Thematic/Fruits of the Spirit/Kindness (Chrestotes)|Kindness (Chrestotes)]] · [[Sacred Texts/The Bible - Thematic/Fruits of the Spirit/Goodness (Agathosyne)|Goodness (Agathosyne)]] · [[Sacred Texts/The Bible - Thematic/Fruits of the Spirit/Faithfulness (Pistis)|Faithfulness (Pistis)]] · [[Sacred Texts/The Bible - Thematic/Fruits of the Spirit/Gentleness (Praotes)|Gentleness (Praotes)]] · [[Sacred Texts/The Bible - Thematic/Fruits of the Spirit/Self-Control (Enkrateia)|Self-Control (Enkrateia)]]

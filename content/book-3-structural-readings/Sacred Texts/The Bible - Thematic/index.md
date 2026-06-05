@@ -33,6 +33,12 @@ Thematic readings across the biblical corpus, organized by subject rather than b
 
 ---
 
+**The Law**
+
+- [[The First Commandment|The First Commandment — No Other Gods]]
+
+---
+
 **The Parables of Jesus**
 
 - [[Parables/The Sower|The Sower]]
