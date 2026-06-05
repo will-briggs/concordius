@@ -138,7 +138,7 @@ The reader is asked to read Section 6 for the derivation, and Sections 7 and 8 f
 
 **The creative algebra — Cl(3,0) — is not chosen. It is the unique algebra necessarily produced by the Trinity's own constitution. The Son IS the associative property instantiated as Φ; Φ requires associativity for its existence; therefore any creative algebra in which the Son is present at the constitutional foundation is necessarily associative. Given three Persons, a positive-definite inner product, and the Son's associative nature, Cl(3,0) is uniquely determined. None of this is selected from alternatives. The Creative Choice is the ongoing act of selection at every GNST collapse event: the Father choosing which eigenstates are actualized, within the algebraic space the Son's nature has already fixed.**
 
-The chain of necessity from the inner product to the [[Appendix I - Dictionary of Terms#Heptaparaparshinokh|Heptaparaparshinokh]] can now be precisely traced, and the gap identified.
+The chain of necessity from the inner product to the seven-element grade structure of Cl(3,0) can now be precisely traced, and the gap identified.
 
 **What is fully necessary (no choice):**
 
@@ -154,7 +154,7 @@ The Urantia account describes seven "associative relationships" among the three 
 
 **What follows from the choice:**
 
-Given three Persons + positive-definite inner product + associativity, Cl(3,0) is the unique algebra satisfying all three conditions. Not one among equivalent options — the unique one. And Cl(3,0) determines everything that follows: seven non-null elements, the [[Appendix I - Dictionary of Terms#Constraint Cascade|constraint cascade]], the [[Appendix I - Dictionary of Terms#Octave|octave]] structure, the interval positions. The Heptaparaparshinokh is necessary given the Creative Choice. It is not necessary prior to it.
+Given three Persons + positive-definite inner product + associativity, Cl(3,0) is the unique algebra satisfying all three conditions. Not one among equivalent options — the unique one. And Cl(3,0) determines everything that follows: seven non-null elements, the [[Appendix I - Dictionary of Terms#Constraint Cascade|constraint cascade]], the grade topology, the qualitative crossings between grades. The seven-element grade structure is necessary given the Creative Choice. It is not necessary prior to it.
 
 **The grounding of Sections 7 and 8:**
 
@@ -197,9 +197,9 @@ Being is intelligible because the Trinity chose associativity, and associativity
 
 **The full chain:**
 
-⟨·,·⟩ → [necessary] → Five Inevitabilities + GNST → [necessary, from Son's nature as Φ] → Cl(3,0) → [necessary] → seven non-null elements, constraint cascade, Heptaparaparshinokh → [The Creative Choice: which states, at every collapse event] → this particular universe.
+⟨·,·⟩ → [necessary] → Five Inevitabilities + GNST → [necessary, from Son's nature as Φ] → Cl(3,0) → [necessary] → seven non-null elements, constraint cascade, the seven-element grade structure → [The Creative Choice: which states, at every collapse event] → this particular universe.
 
-The Heptaparaparshinokh is universal because Cl(3,0) is the constitutional algebra. Cl(3,0) is the constitutional algebra because the Trinity made the choice of association. The choice of association is the Creative Choice. Every octave in creation — every developmental sequence, every historical arc, every cosmic cascade — is an instance of the same structure, made universal by the first creative decision and necessary thereafter.
+The seven-element grade structure is universal because Cl(3,0) is the constitutional algebra. Cl(3,0) is the constitutional algebra because the Trinity made the choice of association. The choice of association is the Creative Choice. Every developmental sequence in creation — every historical arc, every cosmic cascade — is an instance of the same structure, made universal by the first creative decision and necessary thereafter.
 
 ---
 
@@ -251,13 +251,13 @@ This is the original [[Appendix I - Dictionary of Terms#Kenosis|kenotic]] act. E
 
 *Confidence tier: The identification of the constitutional step as the original kenotic act — and as the archetype of all subsequent descents — is the presenter's working-out. It is a structural inference from the framework, not a mathematical derivation, and is not explicitly stated in the Urantia account. It is not contradicted by the account; the structural parallel is genuine. The reader should hold this paragraph as a concordance-level claim rather than a derived result.*
 
-### The Father's Si/Do crossing
+### The Father's Constitutive Crossing
 
-The Heptaparaparshinokh (§6) distinguishes two structurally distinct interval positions in any Cl(3,0) process. The Mi/Fa interval requires external input from within the existing structure but above the current constraint level — a source that is outside the current process but inside the overall system. The Si/Do interval is categorically different: it cannot be bridged from within the system at any level, because the receiving space does not yet exist when the crossing is required. The Father's Si/Do crossing does not close a gap within an existing space. It creates the space within which gaps will subsequently exist.
+The seven-element grade structure (§6) distinguishes two structurally distinct qualitative crossings in any Cl(3,0) process. The grade-1→grade-2 crossing requires external input from within the existing structure but above the current constraint level — a source that is outside the current process but inside the overall system. The grade-2→grade-3 crossing is categorically different: it cannot be bridged from within the system at any level, because the receiving space does not yet exist when the crossing is required. The Father's constitutive crossing does not close a gap within an existing space. It creates the space within which gaps will subsequently exist.
 
-The Big Bang — the first GNST application, establishing H₃ — is the Father's Si/Do crossing. Nothing generates it from within a prior process, because there is no prior process, no prior space, no "within" anything. The Father crosses Si/Do at t = 0, and the structure that results — H₃, the first constraint level of the cascade — is what Paper 4 traces downward from there. All subsequent crossings in the cascade operate within the space the Father's crossing inaugurated.
+The Big Bang — the first GNST application, establishing H₃ — is the Father's grade-2→grade-3 constitutive crossing. Nothing generates it from within a prior process, because there is no prior process, no prior space, no "within" anything. The Father crosses at t = 0, and the structure that results — H₃, the first constraint level of the cascade — is what Paper 4 traces downward from there. All subsequent crossings in the cascade operate within the space the Father's crossing inaugurated.
 
-This is the structural ground for the assignment in Paper 2 §14: *the Father creates.* Constitution is the Si/Do operation: calling a space into being where nothing was. The Son's articulatory act — identified in Paper 5 — is the Mi/Fa crossing, occurring within a space already constituted. By the time the Son crosses, the algebraic structure exists; what is missing is physical specificity. The Father's crossing creates the space. The Son's crossing specifies it.
+This is the structural ground for the assignment in Paper 2 §14: *the Father creates.* Constitution is the grade-2→grade-3 operation: calling a space into being where nothing was. The Son's articulatory act — identified in Paper 5 — is the grade-1→grade-2 crossing, occurring within a space already constituted. By the time the Son crosses, the algebraic structure exists; what is missing is physical specificity. The Father's crossing creates the space. The Son's crossing specifies it.
 
 ### The complete partition
 
@@ -369,7 +369,7 @@ This gradient — from necessity to volition, from derivation to concordance —
 
 Each grade transition removes one bit. Each bit removal halves the accessible space. The descent from the full Trinity expression to the Father alone is a sequence of interior product operations, each one reducing optionality by a fixed factor.
 
-This provides the mathematical basis for a structural principle Gurdjieff states in cosmological language: each level of creation inherits all the constraints of the level above it and adds its own, producing a monotonic reduction of freedom as one descends through the created order. Man near the bottom of creation operates under accumulated constraint from every creative level above him. The [[Appendix I - Dictionary of Terms#Ascending Career|ascending career]] — the mansion worlds, the [[Appendix I - Dictionary of Terms#Morontia|morontia]] career, the approach to Paradise — is the reversal of this accumulation: each stage recovering one layer of freedom as the interior product operations are, in effect, undone.
+This provides the mathematical basis for a structural principle the traditional cosmologies state in their own language: each level of creation inherits all the constraints of the level above it and adds its own, producing a monotonic reduction of freedom as one descends through the created order. (The concordance with the traditional sevenfold accounts is taken up in Section II.) Man near the bottom of creation operates under accumulated constraint from every creative level above him. The [[Appendix I - Dictionary of Terms#Ascending Career|ascending career]] — the mansion worlds, the [[Appendix I - Dictionary of Terms#Morontia|morontia]] career, the approach to Paradise — is the reversal of this accumulation: each stage recovering one layer of freedom as the interior product operations are, in effect, undone.
 
 The exact coefficient of reduction at each step is a contingent feature of the specific Hamiltonian chosen in the creative choice, not a structural necessity. The principle — that optionality reduces by a fixed factor at each grade transition — is what the Clifford algebra forces. The factor itself belongs to the domain of free choice.
 
