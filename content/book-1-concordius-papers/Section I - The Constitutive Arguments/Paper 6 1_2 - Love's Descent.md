@@ -69,7 +69,7 @@ The constitutional step — the choice of associativity (Paper 3 §6), determini
 
 ### 3.1 The Kenotic Structure of the Indwelling
 
-The [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]] is a pre-personal fragment of the Father that indwells each human being at the moment of the first moral decision. The indwelling is itself a kenotic act: a fragment of ⟨·,·⟩ accepting H₄₈ temporal constraint by entering to operate from within the temporal experience of a specific H₄₈ being.
+The [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]] is a fragment of the Father — his own personal presence, not a separate personality — that indwells each human being at the moment of the first moral decision. The indwelling is itself a kenotic act: a fragment of ⟨·,·⟩ accepting H₄₈ temporal constraint by entering to operate from within the temporal experience of a specific H₄₈ being.
 
 The Adjuster is not the Father looking in from outside with full atemporal access. It has accepted H₄₈ temporal ordering as its operational constraint. This is the same kenotic structure as the Incarnation (§4), at a different scale and in an ongoing, repeating form: each indwelling is a fresh kenotic entry into a specific being's temporal experience. Where the Incarnation is singular and complete, the Adjuster's kenosis is partial (a fragment, not Φ itself) and distributed (repeating for every being who reaches the consciousness threshold).
 
