@@ -19,6 +19,8 @@
 
 ## Structural Description
 
+**Trinity-mode and its virtue.** Man 2 operates in the **Son-alone** mode (Mercury; e₂, grade 1, +1; §8). Its virtue is **charity** — the second *generator* (an expression-virtue). With gratitude (Man 1) it will, under resistance, compose into courage (Man 4). *(Derivation §8; name concordance; Overdetermination Capture §6½.)*
+
 **[[Appendix I - Dictionary of Terms#State Vector|State vector]]:** ψ₂ = Σ bₙ |φₙ^H₂₄(emotional)⟩ + Σ aₙ |φₙ^H₄₈⟩
 
 Man 2's state vector contains genuine H₂₄ components in the emotional register — more than Man 1, and qualitatively different. The emotional [[Appendix I - Dictionary of Terms#Eigenstate|eigenstate]]s have real [[Appendix I - Dictionary of Terms#Φ-Proximity|Φ-proximity]]: love, grief, awe, longing, tenderness, desolation are not merely H₄₈ phenomena dressed in feeling-language. They are H₂₄ registrations through the emotional center's transduction function. This is the structural basis for the mystical traditions' consistent claim that the emotional center — the heart — is the primary organ of spiritual perception in the early stages of the [[Appendix I - Dictionary of Terms#Ascending Career|ascending career]].

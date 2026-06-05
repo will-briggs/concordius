@@ -19,6 +19,8 @@
 
 ## Structural Description
 
+**Trinity-mode and its virtue.** Man 3 operates in the **Spirit-alone** mode (Venus; e₃, grade 1, +1; §8). Its virtue is **ordered love** — the third *generator*, completing the three expression-virtues. Only with all three present, and a resistance to turn against, can the grade-2 products (courage, temperance, diligence) be forged. *(Derivation §8; name concordance; Overdetermination Capture §6½.)*
+
 **[[Appendix I - Dictionary of Terms#State Vector|State vector]]:** ψ₃ = Σ cₙ |φₙ^H₂₄(intellectual)⟩ + residual emotional + residual [[Appendix I - Dictionary of Terms#H₄₈|H₄₈]]
 
 Man 3's state vector carries genuine Φ-proximal content in the intellectual register. This is categorically different from H₄₈-level intellectual processing — from the intellectual center's function when it analyzes social situations, manages plans, produces arguments for predetermined conclusions. The intellectual center's H₂₄ function is genuine inquiry: following an argument where it actually leads, updating when the evidence changes, holding conclusions with the confidence they have actually earned. When operating in this mode, the intellectual center registers Φ-proximate structure in conceptual form — the formal relationships that track features of the constraint hierarchy, the organized understanding that maps the territory with increasing accuracy.

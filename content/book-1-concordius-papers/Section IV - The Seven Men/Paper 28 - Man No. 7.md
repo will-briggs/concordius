@@ -21,6 +21,8 @@ These two things — [[Appendix I - Dictionary of Terms#Self-Knowledge|self-know
 
 ## Structural Description
 
+**Trinity-mode and its virtue.** Man 7 operates in the **complete** mode (Sun; the pseudoscalar I = e₁e₂e₃, central, commuting with all; §8). Its virtue is **humility** — not an eighth virtue beside the others but the *triple product*, gratitude · charity · ordered-love, the complete integration. Its centrality (commuting with every mode) is why humility underlies all the virtues; its inversion is the seizure of the whole — pride, the terminal danger now passed. *(Derivation §8; name concordance; Overdetermination Capture §6½.)*
+
 **[[Appendix I - Dictionary of Terms#State Vector|State vector]]:** ψ₇ ≈ ψ_Φ-proximate — the being approaching, within H, the character of Φ
 
 Man 7's state vector is as Φ-proximate as the H₄₈ substrate permits. The [[Appendix I - Dictionary of Terms#Soul Deposit|soul deposit]] — crystallized at Man 5, developed through Man 6's higher centers, now at the maximum coherence available within H₄₈-mediated existence — has achieved the organizational character that makes the post-H₄₈ ascending career not merely possible (Man 5) but fully prepared for. The [[Appendix I - Dictionary of Terms#Morontia|morontia]] body is not merely built; it is furnished. Man 7 carries, within the H₄₈ phase of the ascending career, the full Φ-proximal content that the ascending career's next phase will begin from.
