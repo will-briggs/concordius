@@ -1,8 +1,8 @@
-*← [[Paper 8 - The Maximum Downward Entry|Paper 8 — The Maximum Downward Entry]]*
+*← [[Paper 7 - What We Know|Paper 7 — What We Know, What We Don't]]*
 
-# What Cannot Be Proved: Gödel's Incompleteness Theorems as a Structural Consequence of the Constraint Hierarchy
+# What We Can't Know: Gödel's Incompleteness Theorems as a Structural Consequence of the Constraint Hierarchy
 
-*Ninth paper in the Concordius series. Companion to Papers 1–8. Depends on Papers 1–3 (constitutional structure; truth as [[Appendix I - Dictionary of Terms#Φ-Proximity|Φ-proximity]]) and Paper 8 (the downward entry analysis). The [[Appendix I - Dictionary of Terms#Truth Measure|truth measure]] τ(D) developed in Paper 10 formalizes the Φ-proximity concept this paper uses; Paper 10 follows as the quantitative elaboration of the graded distance this paper requires.*
+*Eighth paper in the Concordius series, opening Section II. Companion to Papers 1–7. Depends on Papers 1–3 (constitutional structure; truth as [[Appendix I - Dictionary of Terms#Φ-Proximity|Φ-proximity]]) and Paper 13½ (the downward entry analysis). The [[Appendix I - Dictionary of Terms#Truth Measure|truth measure]] τ(D) developed in Paper 10 formalizes the Φ-proximity concept this paper uses; Paper 10 follows as the quantitative elaboration of the graded distance this paper requires.*
 
 *Status: substantially developed. The derivation of both theorems from the three premises is structurally grounded. The philosophy of mathematics sections (Sections 8–10) are structural suggestions carrying the same confidence tier as their premises.*
 

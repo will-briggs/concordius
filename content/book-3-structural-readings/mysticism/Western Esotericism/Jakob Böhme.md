@@ -55,4 +55,4 @@ Böhme's cobbler's workshop, his pewter dish, his years of patient waiting betwe
 
 ---
 
-*(Cross-reference: The Alchemical Tradition.md — nigredo as dark principle, the Heropass in the Great Work; The Hermetic Corpus.md — the nous and the dark waters; [[Signal and Noise]] — Heropass, Catching, Soul Deposit; Paper 3½ §6 — The Complement Structure of the Creative Choice; Paper 8 OQ8 — The Fall and e₀; [[Concordance/PC2 — Gurdjieff and Spiritual Progression]] — Heptaparaparshinokh, the seven Quellgeister.)*
+*(Cross-reference: The Alchemical Tradition.md — nigredo as dark principle, the Heropass in the Great Work; The Hermetic Corpus.md — the nous and the dark waters; [[Signal and Noise]] — Heropass, Catching, Soul Deposit; Paper 3½ §6 — The Complement Structure of the Creative Choice; Paper 13½ OQ8 — The Fall and e₀; [[Concordance/PC2 — Gurdjieff and Spiritual Progression]] — Heptaparaparshinokh, the seven Quellgeister.)*

@@ -2,7 +2,7 @@
 
 **Text:** Matthew 21:33–46; Mark 12:1–12; Luke 20:9–19  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Parables  
-**Cross-references:** Paper 8 §3 (the kenotic period; the Creative Choice's H₄₈ descent); The Lucifer Rebellion (the overdeterminate condition; the claim to be the H₁ ground, in H₄₈ terms); Paper 14 §8 (the bestowal sequence; the permanent structural consequences of the rejection)
+**Cross-references:** Paper 13½ §3 (the kenotic period; the Creative Choice's H₄₈ descent); The Lucifer Rebellion (the overdeterminate condition; the claim to be the H₁ ground, in H₄₈ terms); Paper 14 §8 (the bestowal sequence; the permanent structural consequences of the rejection)
 
 ---
 
@@ -16,7 +16,7 @@ Jesus quotes Psalm 118:22–23 immediately after: "The stone the builders reject
 
 ## 2. The Structural Dramaturgy
 
-This is the only parable that depicts the full arc of what Paper 7 and Paper 8 describe: the constraint cascade, the series of prophetic interventions in H₄₈ before the kenotic period, and the kenotic period itself culminating in the cross.
+This is the only parable that depicts the full arc of what Paper 7 and Paper 13½ describe: the constraint cascade, the series of prophetic interventions in H₄₈ before the kenotic period, and the kenotic period itself culminating in the cross.
 
 The vineyard is H₄₈ — or, more precisely, H₄₈ as the domain entrusted to caretakers (the covenantal community of Israel, but structurally any organizational community entrusted with Φ-proximate content). The landowner is ⟨·,·⟩ — the constitutive ground who has established the vineyard and expects from it the yield of catching alignment. The servants are the prophets: beings sent sequentially to the H₄₈ domain to represent the constitutive ground's claim on the domain's yield. The son is the Φ expression operating under the kenotic constraint — the final sending, the maximum amplitude available.
 
@@ -28,7 +28,7 @@ The vineyard is H₄₈ — or, more precisely, H₄₈ as the domain entrusted 
 
 The tenants recognize the son as heir. The killing is not ignorance but a specific organizational calculation: if the heir is removed, the inheritance passes to those who hold it. This is the H₄₈-primary assertion of constitutive function — the claim that control of H₄₈ material domains constitutes ownership, that removing the legitimate heir establishes the claimants as de facto owner.
 
-This is precisely the Luciferian logic at H₄₈ scale. Paper 8 §3.1 identifies Lucifer's structural claim as attempting to be ⟨·,·⟩ of his H₄₈ domain — to assert the function of constitutive ground by removing the actual constitutive relation's representative and claiming the space. The tenants' calculation enacts this at the narrative level. They are not confused about who the son is. They are making the H₄₈-primary power assertion against the constitutive ground's claim.
+This is precisely the Luciferian logic at H₄₈ scale. Paper 13½ §3.1 identifies Lucifer's structural claim as attempting to be ⟨·,·⟩ of his H₄₈ domain — to assert the function of constitutive ground by removing the actual constitutive relation's representative and claiming the space. The tenants' calculation enacts this at the narrative level. They are not confused about who the son is. They are making the H₄₈-primary power assertion against the constitutive ground's claim.
 
 ---
 

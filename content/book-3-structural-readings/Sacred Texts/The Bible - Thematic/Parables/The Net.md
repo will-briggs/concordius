@@ -2,7 +2,7 @@
 
 **Text:** Matthew 13:47–50  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Parables  
-**Cross-references:** The Weeds among the Wheat (structural pair: mixed field, terminal separation); The Sower (four receiving conditions); Paper 8 OQ8 (coexistence of overdeterminate and catching-aligned beings during H₄₈)
+**Cross-references:** The Weeds among the Wheat (structural pair: mixed field, terminal separation); The Sower (four receiving conditions); Paper 13½ OQ8 (coexistence of overdeterminate and catching-aligned beings during H₄₈)
 
 ---
 

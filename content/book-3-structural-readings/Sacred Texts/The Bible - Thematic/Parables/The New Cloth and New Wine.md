@@ -2,7 +2,7 @@
 
 **Text:** Matthew 9:16–17; Mark 2:21–22; Luke 5:36–39  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Parables  
-**Cross-references:** Paper 8 §§3–5 (the kenotic period; the amplitude differential between H₁ organizational expression and H₄₈ receiving structures); Paper 3 (the Creative Choice as structural novelty, not continuation)
+**Cross-references:** Paper 13½ §§3–5 (the kenotic period; the amplitude differential between H₁ organizational expression and H₄₈ receiving structures); Paper 3 (the Creative Choice as structural novelty, not continuation)
 
 ---
 

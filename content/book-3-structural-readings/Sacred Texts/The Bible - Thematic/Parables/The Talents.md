@@ -2,7 +2,7 @@
 
 **Text:** Matthew 25:14–30  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Parables  
-**Cross-references:** The Ten Minas (Luke's parallel version); Paper 3 (the Creative Choice; eigenvalue accumulation as the structural purpose of H₄₈ inhabitation); Paper 8 OQ3 (the coherence threshold; what happens to below-threshold content); The Lucifer Rebellion (the noise floor as active dissolver)
+**Cross-references:** The Ten Minas (Luke's parallel version); Paper 3 (the Creative Choice; eigenvalue accumulation as the structural purpose of H₄₈ inhabitation); Paper 13½ OQ3 (the coherence threshold; what happens to below-threshold content); The Lucifer Rebellion (the noise floor as active dissolver)
 
 ---
 

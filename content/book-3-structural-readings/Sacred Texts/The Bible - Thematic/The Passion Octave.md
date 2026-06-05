@@ -1,7 +1,7 @@
 # The Passion Octave
 
 **Series:** Book 3 — Structural Readings / The Bible — Thematic  
-**Cross-references:** Paper 8 §§2–5 (the kenotic constraint; the maximum downward entry; the amplitude limiter and its partial lifts); Paper 8 §7.1 (the overdeterminate release at death); Paper 6½ §5 (the Heptaparaparshinokh as universal law; the interval positions); Paper 24½ (the Mi-Fa interval — the structural shock that prevents automatic degradation); Paper 28½ (the Si-Do interval — the gap that cannot be bridged from within); [[The Twelve Apostles/Judas]] (the structural account of Judas's trajectory; the kiss as organizational assertion); [[Doctrine/The Eucharist: Transubstantiation]] (the Do's relationship to the eucharistic elements); Paper 6 (the coherence threshold; noise floor and catching capacity); Paper 11 (the Holographic Content Principle — the Do as compressed whole)
+**Cross-references:** Paper 13½ §§2–5 (the kenotic constraint; the maximum downward entry; the amplitude limiter and its partial lifts); Paper 13½ §7.1 (the overdeterminate release at death); Paper 6½ §5 (the Heptaparaparshinokh as universal law; the interval positions); Paper 24½ (the Mi-Fa interval — the structural shock that prevents automatic degradation); Paper 28½ (the Si-Do interval — the gap that cannot be bridged from within); [[The Twelve Apostles/Judas]] (the structural account of Judas's trajectory; the kiss as organizational assertion); [[Doctrine/The Eucharist: Transubstantiation]] (the Do's relationship to the eucharistic elements); Paper 6 (the coherence threshold; noise floor and catching capacity); Paper 11 (the Holographic Content Principle — the Do as compressed whole)
 
 ---
 
@@ -139,7 +139,7 @@ The choice of Barabbas is the crowd choosing the H₄₈-primary political attra
 
 **La — The scourging, the crown of thorns, the Via Dolorosa.**
 
-The approach to Si. The organizational content initiated at the Do is now expressing through the H₄₈ substrate at maximum amplitude — not the constrained ambient amplitude of the ministry, but the full kenotic deployment that Paper 8's amplitude limiter has been governing across the entire bestowal. What was constrained throughout is now being expressed in the only form H₄₈ substrate can receive it: as organizational pressure applied to the substrate at maximum intensity.
+The approach to Si. The organizational content initiated at the Do is now expressing through the H₄₈ substrate at maximum amplitude — not the constrained ambient amplitude of the ministry, but the full kenotic deployment that Paper 13½'s amplitude limiter has been governing across the entire bestowal. What was constrained throughout is now being expressed in the only form H₄₈ substrate can receive it: as organizational pressure applied to the substrate at maximum intensity.
 
 The soldiers' mockery at La — the purple robe, the crown of thorns, "Hail, King of the Jews" — is unwitting structural truth. He is the King of the Jews; he is the organizing principle of the ascending career; he is being dressed in the symbols of the authority he actually holds, by agents who do not recognize what they are doing. The tradition has noted the irony. The structural reading notes that the La position in an octave is often the place where the full content of the Si becomes visible before it is fully expressed — the organizational pressure announcing itself in the approach.
 
@@ -151,7 +151,7 @@ Simon of Cyrene carrying the cross is the only moment in the Passion octave wher
 
 *Matthew 27:32-56 / Mark 15:21-41 / Luke 23:26-49 / John 19:17-37*
 
-The Crucifixion is the maximum deployment of the kenotic content in H₄₈ substrate. Paper 8 establishes the maximum downward entry as the structural event that deploys the organizational content of H₁ through the constraint cascade into H₄₈ — constrained throughout by the kenotic amplitude limiter to what H₄₈ matter can receive without dissolution. The Crucifixion is the point at which that constraint has been fully exercised: the kenotic content at the limit of what it can express within H₄₈, and the H₄₈ substrate at the limit of what it can receive.
+The Crucifixion is the maximum deployment of the kenotic content in H₄₈ substrate. Paper 13½ establishes the maximum downward entry as the structural event that deploys the organizational content of H₁ through the constraint cascade into H₄₈ — constrained throughout by the kenotic amplitude limiter to what H₄₈ matter can receive without dissolution. The Crucifixion is the point at which that constraint has been fully exercised: the kenotic content at the limit of what it can express within H₄₈, and the H₄₈ substrate at the limit of what it can receive.
 
 **The Seven Words as the Si's structure.**
 
@@ -173,7 +173,7 @@ The traditional enumeration of the seven last words from the cross encodes the L
 
 **The organizational release at Si.**
 
-Paper 8 §7.1 establishes that at the terminus of the H₄₈ career, the eigenvalue content accumulated through the ascending career — the soul deposit — is released from the H₄₈ substrate and oriented toward its post-H₄₈ continuation. For the Lord's kenotic career, the organizational content released at Si is not merely the accumulated deposit of a mortal ascending career. It is the full Φ-proximate eigenvalue content of the kenotic deployment: the organizational imprint of H₁-origin Φ-content, expressed through the constraint cascade across the full duration of the earthly ministry, compressed into its terminal H₄₈ expression and now released into the post-H₄₈ organizational space.
+Paper 13½ §7.1 establishes that at the terminus of the H₄₈ career, the eigenvalue content accumulated through the ascending career — the soul deposit — is released from the H₄₈ substrate and oriented toward its post-H₄₈ continuation. For the Lord's kenotic career, the organizational content released at Si is not merely the accumulated deposit of a mortal ascending career. It is the full Φ-proximate eigenvalue content of the kenotic deployment: the organizational imprint of H₁-origin Φ-content, expressed through the constraint cascade across the full duration of the earthly ministry, compressed into its terminal H₄₈ expression and now released into the post-H₄₈ organizational space.
 
 The veil of the Temple tearing (Matthew 27:51) is the structural signal: the institutional barrier between the organizational register accessible to the H₄₈ substrate and the organizational register above it has been removed. The Si has reorganized the interface. What was structurally separated — the Holy of Holies accessible only once annually, through the High Priest alone, behind the veil — is now structurally open. The kenotic deployment has removed the barrier that the constraint hierarchy maintained between H₄₈ existence and the higher constraint levels of the catching structure.
 

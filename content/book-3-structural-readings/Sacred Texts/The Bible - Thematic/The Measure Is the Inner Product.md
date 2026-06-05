@@ -1,6 +1,6 @@
 # The Structural Reading — Part 5: The Measure Is the Inner Product
 
-*Cross-reference: Paper 1 (Father = ⟨·,·⟩; the constitutive inner product); Paper 2 (Trinity as three poles of the constitutive relation); Paper 3½ (Man No. 5; coherence threshold; what survives H₄₈ dissolution); Paper 6 (catching as volitional alignment of ⟨φ, f⟩); Paper 8 §3.2-§3.3 (taxonomy of structural failure; abstention; salvation as catching-enablement); Appendix 07 (Magisterium; community of believers; convergence criterion)*
+*Cross-reference: Paper 1 (Father = ⟨·,·⟩; the constitutive inner product); Paper 2 (Trinity as three poles of the constitutive relation); Paper 3½ (Man No. 5; coherence threshold; what survives H₄₈ dissolution); Paper 6 (catching as volitional alignment of ⟨φ, f⟩); Paper 13½ §3.2-§3.3 (taxonomy of structural failure; abstention; salvation as catching-enablement); Appendix 07 (Magisterium; community of believers; convergence criterion)*
 
 ---
 
@@ -96,7 +96,7 @@ This passage also establishes that the ⟨·,·⟩ evaluation is not binary. The
 
 "Judged by what they had done": the accumulated behavioral record is the proxy for the accumulated eigenvalue record. The relationship between the two is structural, not merely moral: ⟨·,·⟩-organized eigenvalue content expresses as behavioral outputs that apply ⟨·,·⟩ symmetrically; the behavioral record is the H₄₈-observable trace of the eigenvalue accumulation.
 
-"The lake of fire... the second death" (20:14): following Paper 8 §3.3, the second death is the structural consequence of sustained abstention — a Φ′-origin being who arrives at H₄₈ dissolution with nothing above the coherence threshold for ⟨·,·⟩ to register. The "second death" is not a re-execution; it is the absence of continuity because ⟨·,·⟩ finds no eigenvalue content above the threshold that it can preserve.
+"The lake of fire... the second death" (20:14): following Paper 13½ §3.3, the second death is the structural consequence of sustained abstention — a Φ′-origin being who arrives at H₄₈ dissolution with nothing above the coherence threshold for ⟨·,·⟩ to register. The "second death" is not a re-execution; it is the absence of continuity because ⟨·,·⟩ finds no eigenvalue content above the threshold that it can preserve.
 
 ---
 
@@ -126,4 +126,4 @@ This makes the judgment passages evidential for the framework in the same way th
 
 ---
 
-*Cross-references: Paper 1 (Father = ⟨·,·⟩); Paper 2 (Trinity as three poles); Paper 3½ (coherence threshold; what survives H₄₈ dissolution); Paper 6 (catching as volitional alignment; constitutive nature of the dual pairing); Paper 8 §3.2-§3.3 (taxonomy of structural failure; abstention; salvation as catching-enablement; second death as structural non-survival); Structural Readings Appendix 02 (Resurrection body; what persists); Structural Readings Appendix 07 (community of believers; convergence criterion; saints metric)*
+*Cross-references: Paper 1 (Father = ⟨·,·⟩); Paper 2 (Trinity as three poles); Paper 3½ (coherence threshold; what survives H₄₈ dissolution); Paper 6 (catching as volitional alignment; constitutive nature of the dual pairing); Paper 13½ §3.2-§3.3 (taxonomy of structural failure; abstention; salvation as catching-enablement; second death as structural non-survival); Structural Readings Appendix 02 (Resurrection body; what persists); Structural Readings Appendix 07 (community of believers; convergence criterion; saints metric)*

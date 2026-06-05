@@ -4,7 +4,7 @@
 **Medium:** Byzantine mosaic (gold and glass tesserae)  
 **Location:** Apse, Cathedral of Cefalù, Sicily  
 **Series:** Book 3 — Structural Readings / Visual Art  
-**Cross-references:** Paper 1 §§2–4 (⟨·,·⟩ as the organizing center of the structure; the inner product generating the geometry of the space); Paper 2 §§8–10 (the Logos as the constitutive ground of organizational development; the relational identity of the Son); Paper 2 §§15–16 (the Divine Names of the Son; the Names of the Holy Spirit); Paper 8 §§3–4 (the kenotic period as the maximum downward entry; the Φ-proximate being present within H₄₈)
+**Cross-references:** Paper 1 §§2–4 (⟨·,·⟩ as the organizing center of the structure; the inner product generating the geometry of the space); Paper 2 §§8–10 (the Logos as the constitutive ground of organizational development; the relational identity of the Son); Paper 2 §§15–16 (the Divine Names of the Son; the Names of the Holy Spirit); Paper 13½ §§3–4 (the kenotic period as the maximum downward entry; the Φ-proximate being present within H₄₈)
 
 <img src="/static/images/pantocrator-cefalu.jpg" alt="Christ Pantocrator, Cefalù" style="max-width:100%;">
 
@@ -58,7 +58,7 @@ This is the same structural content as God's extended finger in the Creation of 
 
 In the left hand — the hand not actively blessing — the Pantocrator holds the open gospel. The text visible in many instances is from John: "I am the light of the world" or "I am the way, the truth, and the life" or "Come to me, all who labor." The specific verse varies by instance; the structural content of the open book does not.
 
-The gospel held open is the Φ-proximate organizational content made available in H₄₈ text — the catching mechanism distributed forward in time through the written transmission. The figure who holds the open book is, in the framework's account, the same figure whose kenotic period produced the content now encoded in the book. The Pantocrator is the post-kenotic identity of the being whose H₄₈ utterances were recorded and transmitted: the maximum downward entry (Paper 8) seen from the organizational position it occupies after the descent and ascent are complete.
+The gospel held open is the Φ-proximate organizational content made available in H₄₈ text — the catching mechanism distributed forward in time through the written transmission. The figure who holds the open book is, in the framework's account, the same figure whose kenotic period produced the content now encoded in the book. The Pantocrator is the post-kenotic identity of the being whose H₄₈ utterances were recorded and transmitted: the maximum downward entry (Paper 13½) seen from the organizational position it occupies after the descent and ascent are complete.
 
 The book is open. This is not a book being kept closed, a content being withheld. It is displayed, made available, extended toward the viewer in the same direction as the blessing hand. The constitutive content — both the organizational intent (the blessing) and the catching mechanism (the gospel) — is offered simultaneously and without condition.
 

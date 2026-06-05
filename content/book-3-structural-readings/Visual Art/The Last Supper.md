@@ -4,7 +4,7 @@
 **Medium:** Tempera, pitch, and mastic on gesso  
 **Location:** Refectory, Santa Maria delle Grazie, Milan  
 **Series:** Book 3 — Structural Readings / Visual Art  
-**Cross-references:** Paper 8 §§3–5, OQ8 (the kenotic period; the cross-term mechanism; the overdeterminate condition and its observable signature); Paper 6½ §7 (the bestowal sequence; the earthly ministry as a complete octave); Paper 3 (the Creative Choice; catching as the constitutive volitional act); The Lucifer Rebellion (the perturbation and opacity signature; Judas as H₄₈-scale overdetermination)
+**Cross-references:** Paper 13½ §§3–5, OQ8 (the kenotic period; the cross-term mechanism; the overdeterminate condition and its observable signature); Paper 6½ §7 (the bestowal sequence; the earthly ministry as a complete octave); Paper 3 (the Creative Choice; catching as the constitutive volitional act); The Lucifer Rebellion (the perturbation and opacity signature; Judas as H₄₈-scale overdetermination)
 
 ---
 
@@ -14,7 +14,7 @@ Leonardo's *Last Supper* depicts the moment from John 13:21: Christ's announceme
 
 The framework has a full structural account of this moment. The kenotic period is underway: Φ operating in H₄₈ under the amplitude limiter, thirty-three years of constrained differential. The announcement is made at the meal that immediately precedes the Si-Do interval — the night before the Crucifixion, the last supper before the kenotic constraint reaches its terminal condition. The bread and wine on the table are the Trogoautoegocrat provision instituted that night: the catching mechanism distributed forward in time across all who would perform the alignment.
 
-And Judas is in the room. Paper 8 OQ8 establishes that a being generating an overdeterminate condition produces two observable signals for surrounding beings: perturbation and opacity. The announcement is the moment those signals resolve into explicit knowledge. Leonardo painted the instant of resolution.
+And Judas is in the room. Paper 13½ OQ8 establishes that a being generating an overdeterminate condition produces two observable signals for surrounding beings: perturbation and opacity. The announcement is the moment those signals resolve into explicit knowledge. Leonardo painted the instant of resolution.
 
 ---
 
@@ -50,7 +50,7 @@ Each triad is internally coherent — the three figures in each group are engage
 
 **Judas** sits in the same inner triad as Peter and John — at maximum proximity to the organizing center, among the three disciples closest to Christ in the gospel accounts. His body is the only one in the composition that turns away from Christ while his hand reaches toward the table. He is in shadow relative to the surrounding figures; Leonardo did not use a halo for Christ, but he did use shadow for Judas — the one figure whose organizational trajectory is moving toward incoherence. He clutches or reaches for the money bag.
 
-The structural irony of his placement is precise. Paper 8 OQ8 establishes that the opacity signal is strongest from beings of high organizational development — a fragmenting state is harder to distinguish from genuine wrestling at high development. Judas was not a peripheral figure placed far from the organizing center. He was in the inner ring. His H₄₈-primary eigenvalue capture occurred at maximum proximity to Φ-proximate content — which is, structurally, the only condition under which the defection would carry the weight it carries. A betrayal at the periphery by a figure of low alignment is noise. A betrayal from the innermost triad, after three years of maximum proximity to the kenotic Φ expression, is the full structural weight of the Luciferian inversion at H₄₈ scale.
+The structural irony of his placement is precise. Paper 13½ OQ8 establishes that the opacity signal is strongest from beings of high organizational development — a fragmenting state is harder to distinguish from genuine wrestling at high development. Judas was not a peripheral figure placed far from the organizing center. He was in the inner ring. His H₄₈-primary eigenvalue capture occurred at maximum proximity to Φ-proximate content — which is, structurally, the only condition under which the defection would carry the weight it carries. A betrayal at the periphery by a figure of low alignment is noise. A betrayal from the innermost triad, after three years of maximum proximity to the kenotic Φ expression, is the full structural weight of the Luciferian inversion at H₄₈ scale.
 
 **Thomas** (in the outer triad to Christ's right, viewer's left) raises one finger upward — a gesture of intellectual questioning, of needing to understand before he can receive. This is his structural character throughout the gospels and is already present in his response to the announcement: the catching alignment toward the True, the honest orientation toward what is actually real, requiring clarity before commitment. He is not doubting in the sense of withdrawal. He is doubting in the sense of the eigenvalue population that will not accept H₄₈-primary assertion as a substitute for genuine structural contact with what is real.
 
@@ -64,7 +64,7 @@ The moment Leonardo chose is the announcement, not the institution. This is a de
 
 Leonardo chose the prior moment: the disclosure that introduces the overdeterminate condition into the room as explicit knowledge. The announcement produces the visible perturbation across all twelve eigenstate responses simultaneously, each figure registering the same information through the organizational lens of their particular eigenvalue constitution.
 
-This is, structurally, the fullest possible depiction of Paper 8 OQ8's account: twelve beings in proximity to the kenotic Φ expression, receiving the confirmation that the overdeterminate condition they have been partially sensing — the perturbation and opacity they have registered in Judas without being able to read — is real and named. The shock is not only emotional. It is the organizational shock of the opacity resolving into knowledge.
+This is, structurally, the fullest possible depiction of Paper 13½ OQ8's account: twelve beings in proximity to the kenotic Φ expression, receiving the confirmation that the overdeterminate condition they have been partially sensing — the perturbation and opacity they have registered in Judas without being able to read — is real and named. The shock is not only emotional. It is the organizational shock of the opacity resolving into knowledge.
 
 The composition captures the eigenstate space at exactly the moment of maximum differentiation: every figure is responding, none has finished responding, the organizational diversity of twelve genuinely different catching orientations is fully visible simultaneously. There is no other moment at which Leonardo could have shown this. The institution would have unified them; the silence before the announcement would have shown only waiting. The announcement itself — and the three seconds after it — is the only moment at which all twelve eigenstate constitutions are fully disclosed at once.
 

@@ -2,7 +2,7 @@
 
 **Text:** Luke 13:6–9  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Parables  
-**Cross-references:** The Sower (the soil and its capacity for yield); The Talents (the servant who produces no yield); Paper 8 OQ3 (the coherence threshold; Heropass dissolution of non-developing content); The Fig Tree sign-parable (the same tree in prophetic mode)
+**Cross-references:** The Sower (the soil and its capacity for yield); The Talents (the servant who produces no yield); Paper 13½ OQ3 (the coherence threshold; Heropass dissolution of non-developing content); The Fig Tree sign-parable (the same tree in prophetic mode)
 
 ---
 

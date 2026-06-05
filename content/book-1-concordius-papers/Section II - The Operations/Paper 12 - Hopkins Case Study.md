@@ -203,7 +203,7 @@ This paper is the first of a projected series of structural readings of non-theo
 
 ---
 
-*Cross-references: Paper 10 (τ(D) defined); Paper 9 (incompleteness as structural confirmation); Paper 11 (Holographic Content Principle; interval positions; fidelity gradient); Structural Readings 03 (noise floor reduction; 1 Kings 19; Gethsemane); Structural Readings 05 (Nigredo; solve et coagula); Structural Readings 01 (Matthew 6:25-32; eigenvalue attraction mechanism)*
+*Cross-references: Paper 10 (τ(D) defined); Paper 8 (incompleteness as structural confirmation); Paper 11 (Holographic Content Principle; interval positions; fidelity gradient); Structural Readings 03 (noise floor reduction; 1 Kings 19; Gethsemane); Structural Readings 05 (Nigredo; solve et coagula); Structural Readings 01 (Matthew 6:25-32; eigenvalue attraction mechanism)*
 
 ---
 

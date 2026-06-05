@@ -2,7 +2,7 @@
 
 **Text:** Luke 12:13–21  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Parables  
-**Cross-references:** The Talents (what H₄₈ inhabitation is for); The Rich Man and Lazarus (the continuation of H₄₈-primary trajectory past H₄₈ terminus); Paper 8 OQ3 (Heropass and what persists); The Sower (the thorny ground — deceitfulness of riches)
+**Cross-references:** The Talents (what H₄₈ inhabitation is for); The Rich Man and Lazarus (the continuation of H₄₈-primary trajectory past H₄₈ terminus); Paper 13½ OQ3 (Heropass and what persists); The Sower (the thorny ground — deceitfulness of riches)
 
 ---
 

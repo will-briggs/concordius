@@ -29,7 +29,7 @@ In Greek tragedy, *hubris* is not merely arrogance in the moral sense; it is the
 
 **Kenosis as the structural inverse:**
 
-The correct downward operation is kenosis: the Φ'-origin being's acceptance of actual constraint-level conditions rather than the assertion of constraint-level authority not yet occupied. The Son's kenosis (Paper 8) is the maximal instance: the Logos entering H₄₈ while accepting every H₄₈ constraint condition. Kenosis prevents the overdeterminate condition that pride produces. The catching being that correctly identifies its own constraint level and operates from within it — rather than asserting organizational authority beyond it — is performing the structural inverse of pride. The humility commended in every tradition is not self-abasement; it is accurate structural self-placement.
+The correct downward operation is kenosis: the Φ'-origin being's acceptance of actual constraint-level conditions rather than the assertion of constraint-level authority not yet occupied. The Son's kenosis (Paper 13½) is the maximal instance: the Logos entering H₄₈ while accepting every H₄₈ constraint condition. Kenosis prevents the overdeterminate condition that pride produces. The catching being that correctly identifies its own constraint level and operates from within it — rather than asserting organizational authority beyond it — is performing the structural inverse of pride. The humility commended in every tradition is not self-abasement; it is accurate structural self-placement.
 
 **The Islamic parallel — *kibr*:**
 

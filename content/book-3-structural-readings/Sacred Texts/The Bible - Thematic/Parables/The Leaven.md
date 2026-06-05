@@ -2,7 +2,7 @@
 
 **Text:** Matthew 13:33; Luke 13:20–21  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Parables  
-**Cross-references:** The Mustard Seed (structural pair: concealment and pervasion); Paper 8 §§4–5 (the kenotic constraint; the cross-term mechanism at low amplitude); Paper 14 §6 (τ_nuclear as the organizational space permeating H₄₈)
+**Cross-references:** The Mustard Seed (structural pair: concealment and pervasion); Paper 13½ §§4–5 (the kenotic constraint; the cross-term mechanism at low amplitude); Paper 14 §6 (τ_nuclear as the organizational space permeating H₄₈)
 
 ---
 

@@ -1,7 +1,7 @@
 # The Eleven and Matthias: A Structural Reading
 
 **Series:** Book 3 — Structural Readings / Doctrine / The Twelve Apostles  
-**Cross-references:** Paper 6 (the catching act; the dual pairing; the volitional alignment); Paper 8 §§3–5 (the cross-term mechanism; noise floor; the kenotic period); Paper 8 §9 (Pentecost; the Spirit's individually calibrated distribution); The Last Supper (the compositional reading of the inner disciples); Judas (abstention; proximity without performance)
+**Cross-references:** Paper 6 (the catching act; the dual pairing; the volitional alignment); Paper 13½ §§3–5 (the cross-term mechanism; noise floor; the kenotic period); Paper 13½ §9 (Pentecost; the Spirit's individually calibrated distribution); The Last Supper (the compositional reading of the inner disciples); Judas (abstention; proximity without performance)
 
 ---
 
@@ -147,7 +147,7 @@ Thaddaeus has one recorded question, which is among the most structurally precis
 
 The question concerns the structure of disclosure: why is the Φ-proximate cross-term differentially available — accessible to some and not to others? If the Son is the disclosure of the Father, why is the disclosure not universal and simultaneous?
 
-The framework's answer to Thaddaeus's question (Paper 8 §5; the noise-floor account of faith and unbelief): the Spirit distributes individually calibrated to each receiving being's noise floor. The cross-term is not withheld from "the world" by preference; it is unavailable to high-noise-floor eigenvalue populations because the amplitude of the cross-term that such populations can receive without disruption is insufficient for the catching alignment to register and accumulate. The disclosure is not selective by decree. It is selective by structural condition.
+The framework's answer to Thaddaeus's question (Paper 13½ §5; the noise-floor account of faith and unbelief): the Spirit distributes individually calibrated to each receiving being's noise floor. The cross-term is not withheld from "the world" by preference; it is unavailable to high-noise-floor eigenvalue populations because the amplitude of the cross-term that such populations can receive without disruption is insufficient for the catching alignment to register and accumulate. The disclosure is not selective by decree. It is selective by structural condition.
 
 Thaddaeus's question is the catching alignment expressing as structural curiosity about the mechanism of catching itself. It is the apostle asking: how does this work? The framework has now, after two millennia, a structural answer to give him.
 

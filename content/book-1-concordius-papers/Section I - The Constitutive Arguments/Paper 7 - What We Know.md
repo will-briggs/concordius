@@ -68,4 +68,4 @@ What can be done with a structure like this, once it is granted — and what hap
 
 ---
 
-*[[Section II - The Operations/Paper 8 - The Maximum Downward Entry|Section II → The Operations]] →*
+*[[Section II - The Operations/Paper 8 - What We Can't Know|Section II → The Operations]] →*

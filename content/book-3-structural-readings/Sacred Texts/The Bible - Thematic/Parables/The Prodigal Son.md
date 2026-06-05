@@ -2,7 +2,7 @@
 
 **Text:** Luke 15:11–32  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Parables  
-**Cross-references:** The Lost Sheep; The Lost Coin (Luke 15 trilogy); Paper 3 (the Creative Choice; eigenvalue fragmentation and return); Paper 8 OQ3 (the coherence threshold; eigenvalue states below and above it); The Workers in the Vineyard (the elder brother's complaint); Health/Dementia (the noise floor and its structural consequences)
+**Cross-references:** The Lost Sheep; The Lost Coin (Luke 15 trilogy); Paper 3 (the Creative Choice; eigenvalue fragmentation and return); Paper 13½ OQ3 (the coherence threshold; eigenvalue states below and above it); The Workers in the Vineyard (the elder brother's complaint); Health/Dementia (the noise floor and its structural consequences)
 
 ---
 

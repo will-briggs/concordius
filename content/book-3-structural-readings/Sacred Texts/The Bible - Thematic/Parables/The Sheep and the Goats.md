@@ -2,7 +2,7 @@
 
 **Text:** Matthew 25:31–46  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Parables  
-**Cross-references:** Paper 3 (the Creative Choice as volitional orientation expressed in action); The Good Samaritan (the concrete H₄₈ expression of Φ-proximate alignment); The Weeds among the Wheat (terminal separation); Paper 8 §3 (the kenotic expression in H₄₈)
+**Cross-references:** Paper 3 (the Creative Choice as volitional orientation expressed in action); The Good Samaritan (the concrete H₄₈ expression of Φ-proximate alignment); The Weeds among the Wheat (terminal separation); Paper 13½ §3 (the kenotic expression in H₄₈)
 
 ---
 

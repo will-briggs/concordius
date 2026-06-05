@@ -3,13 +3,13 @@
 **Subject:** Gödel's first and second incompleteness theorems (1931)  
 **Field:** Mathematical logic; the foundations of mathematics  
 **Series:** Book 3 — Structural Readings / Science  
-**Cross-references:** Paper 9 (incompleteness derived from the Gelfand triple); Paper 1 (Φ exceeds any H₄₈-level description); the Si/Do interval (the gap a system cannot cross from within); Reasonablenessism Features 1, 7, 10
+**Cross-references:** Paper 8 (incompleteness derived from the Gelfand triple); Paper 1 (Φ exceeds any H₄₈-level description); the Si/Do interval (the gap a system cannot cross from within); Reasonablenessism Features 1, 7, 10
 
 ---
 
 ## 1. The Structural Claim
 
-Gödel proved, with a rigor no one has overturned in nearly a century, that any formal system rich enough to contain arithmetic harbors true statements it cannot prove, and cannot establish its own consistency from within. The framework does not dispute the theorem; it claims the theorem is the cleanest formal witness it has. Paper 9 derives the same result from the Gelfand triple: *truth* — alignment with Φ, the nuclear space — and *provability* — closure under a formal system's own rules, an H₄₈-level operation — are not the same set, and the first exceeds the second. Gödel reached, by arithmetic alone and with no metaphysical intent, the framework's foundational claim: that the truth of a domain is not contained in the domain's own machinery. For the reader who trusts proof above all, this is the strongest possible meeting point, because it is a proof.
+Gödel proved, with a rigor no one has overturned in nearly a century, that any formal system rich enough to contain arithmetic harbors true statements it cannot prove, and cannot establish its own consistency from within. The framework does not dispute the theorem; it claims the theorem is the cleanest formal witness it has. Paper 8 derives the same result from the Gelfand triple: *truth* — alignment with Φ, the nuclear space — and *provability* — closure under a formal system's own rules, an H₄₈-level operation — are not the same set, and the first exceeds the second. Gödel reached, by arithmetic alone and with no metaphysical intent, the framework's foundational claim: that the truth of a domain is not contained in the domain's own machinery. For the reader who trusts proof above all, this is the strongest possible meeting point, because it is a proof.
 
 ## 2. Truth Exceeds Provability
 
@@ -25,9 +25,9 @@ The boundary, marked plainly (Feature 10). Gödel's theorems are about formal sy
 
 ---
 
-*(Cross-reference: Paper 9 — the structural derivation of incompleteness from the Gelfand triple, of which this reading is the popular face; truth (Φ) versus provability (H₄₈ closure). Paper 1 — Φ as exceeding any H₄₈-level formalization. The Si/Do interval / the Postscript — the gap a system cannot cross from within, here in formal-logical form. Feature 7 (the self-sealing test) — consistency as the one thing the system most needs and least can supply; Feature 10 — the boundary between what Gödel proves and what the framework reads.)*
+*(Cross-reference: Paper 8 — the structural derivation of incompleteness from the Gelfand triple, of which this reading is the popular face; truth (Φ) versus provability (H₄₈ closure). Paper 1 — Φ as exceeding any H₄₈-level formalization. The Si/Do interval / the Postscript — the gap a system cannot cross from within, here in formal-logical form. Feature 7 (the self-sealing test) — consistency as the one thing the system most needs and least can supply; Feature 10 — the boundary between what Gödel proves and what the framework reads.)*
 
-*(Confidence tier: Concordance with an explicit boundary. The identification of provability with H₄₈ closure and truth with Φ-proximity is developed rigorously in Paper 9; the theorems are not contested but read. The reading asserts nothing Gödel's results don't license, and marks the line where structural reading begins and mathematical proof ends.)*
+*(Confidence tier: Concordance with an explicit boundary. The identification of provability with H₄₈ closure and truth with Φ-proximity is developed rigorously in Paper 8; the theorems are not contested but read. The reading asserts nothing Gödel's results don't license, and marks the line where structural reading begins and mathematical proof ends.)*
 
 ---
 

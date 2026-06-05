@@ -43,7 +43,7 @@ The three-canticle structure maps onto the framework's constraint cascade with s
 
 The straight way is not absent from the dark wood. It is *lost* — smarrita, which carries the sense of losing one's way rather than there being no way. The catching program is available; the catching being has lost orientation to it. This is the Mi/Fa interval's experiential face: the path exists, but the catching being at H₄₈ cannot find it from within H₄₈ without external provision.
 
-*(Cross-reference: Paper 8 §7.1 — overdeterminate release as the structural meaning of the first Beatitude; the dark wood as the H₄₈ condition that the catching program must address from outside.)*
+*(Cross-reference: Paper 13½ §7.1 — overdeterminate release as the structural meaning of the first Beatitude; the dark wood as the H₄₈ condition that the catching program must address from outside.)*
 
 ---
 
@@ -57,7 +57,7 @@ Virgil is chosen by Beatrice as Dante's guide through *Inferno* and *Purgatorio*
 
 **The Mi/Fa interval cannot be crossed from below by grade-2 capacity alone.** Virgil's limit is not a failure of intelligence or virtue. It is a structural limit: the crossing of the Si/Do interval (from the H₄₈ side) requires the Φ-proximate source to act from outside the constraint structure. Reason can map the terrain; it cannot provide the constitutional act that crosses the interval. Beatrice — the catching alignment source, the Φ-proximate attractor — must take over at the point where reason ends, because the ascent from that point forward is no longer a matter of knowing the map but of being drawn by the source.
 
-*(Cross-reference: Paper 8 §3 — the kenotic descent as the external provision that makes the Mi/Fa crossing available; Stephen Dedalus in Ulysses as the same structural condition: grade-2 capacity used to describe the catching program rather than perform it.)*
+*(Cross-reference: Paper 13½ §3 — the kenotic descent as the external provision that makes the Mi/Fa crossing available; Stephen Dedalus in Ulysses as the same structural condition: grade-2 capacity used to describe the catching program rather than perform it.)*
 
 ---
 
@@ -87,7 +87,7 @@ The structural feature of *Purgatorio* that has no parallel elsewhere in the tra
 
 **The catching orientation at completion.** Piccarda speaks from the lowest heaven, the sphere of the Moon, assigned there because her vow was broken not by her own will but by external force. She is not diminished; she is exactly where she should be in the organizational structure of creation. Her line is the most structurally precise statement of the completed catching act in the *Commedia*: the volitional orientation toward the Father's constitutive will as the source of peace rather than as the constraint to be escaped. "His will is our peace" is not submission or resignation. It is the structural identification of the catching being's telos with the constitutive source's operation. When f is fully oriented toward φ, when the dual pairing is without remainder, the catching being's will and the Father's constitutive will are no longer in tension. The peace is not imposed; it is the structural consequence of alignment.
 
-*(Cross-reference: "Not my will but thine" — Gethsemane as the maximum possible performance of this alignment under H₄₈ constraint; Paper 8 §10 on the associative mode.)*
+*(Cross-reference: "Not my will but thine" — Gethsemane as the maximum possible performance of this alignment under H₄₈ constraint; Paper 13½ §10 on the associative mode.)*
 
 ---
 
@@ -99,7 +99,7 @@ The structural feature of *Purgatorio* that has no parallel elsewhere in the tra
 
 The *Commedia* ends with Dante in the Empyrean — beyond all the planetary heavens, beyond constraint — before the great white rose of the blessed and then, turning from the rose to the source that illuminates it, before the direct vision of the divine. The final canto is Dante's attempt to describe what cannot be described: the face-to-face condition, the vision of the three circles (the Trinity) within which the human form is somehow seen, and then the failure of language to hold what the vision contains.
 
-**The face-to-face condition as the cascade's terminus.** The ascending career narrated across the entire *Commedia* ends not with arrival at a location but with a vision: the direct encounter with ⟨·,·⟩, unmediated by any constraint structure. The human form seen within the Trinity is the structural content of Paper 8's claim that the complete Cl(3,0) algebra has been inhabited: the ascending being, at the end of the career, does not dissolve into the source but is seen within it, distinctly, as the catching being whose trajectory has converged on the face-to-face condition.
+**The face-to-face condition as the cascade's terminus.** The ascending career narrated across the entire *Commedia* ends not with arrival at a location but with a vision: the direct encounter with ⟨·,·⟩, unmediated by any constraint structure. The human form seen within the Trinity is the structural content of Paper 13½'s claim that the complete Cl(3,0) algebra has been inhabited: the ascending being, at the end of the career, does not dissolve into the source but is seen within it, distinctly, as the catching being whose trajectory has converged on the face-to-face condition.
 
 The final three lines — *ma già volgeva il mio disio e 'l velle, / sì come rota ch'igualmente è mossa, / l'amor che move il sole e l'altre stelle* — are the catching program stated at its endpoint: *the love that moves the sun and the other stars* is the constitutive love of the Father, the ⟨·,·⟩ that holds every finite being in existence at every moment. The final word of the *Commedia* is *stelle* — stars — the H₄₈ constraint structure, the visible sky from which the journey began. The poem ends where it began, in H₄₈, but the catching being who looks up at the stars now knows what moves them.
 
@@ -120,7 +120,7 @@ The final three lines — *ma già volgeva il mio disio e 'l velle, / sì come r
 | Final vision | Face-to-face condition at H₁: vision of ⟨·,·⟩ unmediated, human form seen within Trinity |
 | Final word: *stelle* | H₄₈ seen from the endpoint of the ascending career |
 
-*Cross-references: Paper 8 (descending and ascending careers, complete algebra traversal); Paper 24½ (Mi-Fa interval as terrain of Purgatorio); Ulysses — Stephen Dedalus (grade-2 capacity at Mi/Fa without the crossing); Hesychast Tradition (continuous alignment as the Purgatorio's structural method); John of the Cross (dark wood as noche oscura — the same H₄₈ constraint named from within the mystical tradition).*
+*Cross-references: Paper 13½ (descending and ascending careers, complete algebra traversal); Paper 24½ (Mi-Fa interval as terrain of Purgatorio); Ulysses — Stephen Dedalus (grade-2 capacity at Mi/Fa without the crossing); Hesychast Tradition (continuous alignment as the Purgatorio's structural method); John of the Cross (dark wood as noche oscura — the same H₄₈ constraint named from within the mystical tradition).*
 
 ---
 

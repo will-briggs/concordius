@@ -1,7 +1,7 @@
 # The I Ching: A Structural Reading
 
 **Series:** Book 3 — Structural Readings / Eastern Traditions  
-**Cross-references:** Paper 3 §§2–3 (GNST mechanism; the Creative Choice as ongoing eigenstate selection); Paper 3½ §6 (Heropass operating at H₂₄ and below; complement structure; e₀ as −1 generator); Paper 3½ (constraint cascade); Paper 3 §6 (the seven non-null elements of Cl(3,0)); Paper 8 §4 (cross-term mechanism; H₂₄ governing H₄₈ substrate)
+**Cross-references:** Paper 3 §§2–3 (GNST mechanism; the Creative Choice as ongoing eigenstate selection); Paper 3½ §6 (Heropass operating at H₂₄ and below; complement structure; e₀ as −1 generator); Paper 3½ (constraint cascade); Paper 3 §6 (the seven non-null elements of Cl(3,0)); Paper 13½ §4 (cross-term mechanism; H₂₄ governing H₄₈ substrate)
 
 ---
 
@@ -57,7 +57,7 @@ The 64 is not approximate or numerological. It is the exact count forced by:
 
 The I Ching's hexagram is built from two trigrams: the lower trigram (lines 1–3) and the upper trigram (lines 4–6). The tradition consistently identifies the upper trigram with Heaven, the governing principle, the direction from which the organizing influence descends; and the lower trigram with Earth, the governed domain, the substrate that receives and expresses that influence.
 
-This is structurally exact in the framework. H₂₄ governs H₄₈ through the cross-term mechanism (Paper 8 §4): the H₂₄ eigenvalue organization of an inhabiting being introduces a continuous low-amplitude organizing tendency into the H₄₈ substrate it inhabits, counteracting the substrate's default entropic dissolution. The H₂₄ state determines the character of the organizational cross-term. The H₄₈ state is what that cross-term acts on.
+This is structurally exact in the framework. H₂₄ governs H₄₈ through the cross-term mechanism (Paper 13½ §4): the H₂₄ eigenvalue organization of an inhabiting being introduces a continuous low-amplitude organizing tendency into the H₄₈ substrate it inhabits, counteracting the substrate's default entropic dissolution. The H₂₄ state determines the character of the organizational cross-term. The H₄₈ state is what that cross-term acts on.
 
 Upper trigram = H₂₄ state. Lower trigram = H₄₈ state. The upper governs the lower in the same structural sense that H₂₄ organizational content governs the H₄₈ substrate through the cross-term. The tradition preserved this relationship without deriving it; the framework derives it without having consulted the tradition.
 

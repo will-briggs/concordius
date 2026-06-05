@@ -2,7 +2,7 @@
 
 **Text:** Luke 19:11–27  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Parables  
-**Cross-references:** The Talents (Matthew's structural parallel and elaboration); Paper 3 (the Creative Choice; stewardship of constitutively entrusted capacity); Paper 8 §3 (the kenotic period as the time of entrusted organizational capacity)
+**Cross-references:** The Talents (Matthew's structural parallel and elaboration); Paper 3 (the Creative Choice; stewardship of constitutively entrusted capacity); Paper 13½ §3 (the kenotic period as the time of entrusted organizational capacity)
 
 ---
 

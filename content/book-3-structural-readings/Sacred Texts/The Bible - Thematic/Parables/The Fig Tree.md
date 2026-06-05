@@ -2,7 +2,7 @@
 
 **Text:** Matthew 24:32–35; Mark 13:28–31; Luke 21:29–33  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Parables  
-**Cross-references:** Paper 8 §§5–6 (the kenotic period as the Si-Do interval; terminal conditions and their observable precursors); The Pre-Incarnation Saints (stasis and release events); The Wicked Tenants (the vineyard's organizational state before the transfer)
+**Cross-references:** Paper 13½ §§5–6 (the kenotic period as the Si-Do interval; terminal conditions and their observable precursors); The Pre-Incarnation Saints (stasis and release events); The Wicked Tenants (the vineyard's organizational state before the transfer)
 
 ---
 
@@ -20,7 +20,7 @@ The parable is not an argument from nature to theology (that the seasonal patter
 
 When the fig tree's twigs become tender and its leaves appear, the organizational state of the tree is encoding information about the seasonal amplitude: summer is near. The tree does not assert that summer is near; it demonstrates it structurally, through observable H₄₈ symptoms. The symptoms are not the cause; they are the legible signal of a causal condition that is not directly visible.
 
-The Olivet Discourse establishes a set of observable organizational symptoms in H₄₈ — wars, rumors of wars, earthquakes, famines, persecution of the catching community, the abomination of desolation, the darkening of the sun and moon. These are the visible H₄₈ symptoms of a structural condition reaching a terminal point. The parable says: read these symptoms the way you read the fig tree. The causal condition producing them — the structural dynamics Paper 8 §§5–6 describes — is making itself visible through H₄₈ organizational signals.
+The Olivet Discourse establishes a set of observable organizational symptoms in H₄₈ — wars, rumors of wars, earthquakes, famines, persecution of the catching community, the abomination of desolation, the darkening of the sun and moon. These are the visible H₄₈ symptoms of a structural condition reaching a terminal point. The parable says: read these symptoms the way you read the fig tree. The causal condition producing them — the structural dynamics Paper 13½ §§5–6 describes — is making itself visible through H₄₈ organizational signals.
 
 ---
 

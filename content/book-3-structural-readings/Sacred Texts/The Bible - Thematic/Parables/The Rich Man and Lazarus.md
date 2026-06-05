@@ -2,7 +2,7 @@
 
 **Text:** Luke 16:19–31  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Parables  
-**Cross-references:** The Rich Fool (H₄₈-primary accumulation and its terminus); The Talents (what is accumulated in H₄₈ and what is not); Paper 8 OQ3 (eigenvalue coherence; what persists past H₄₈ terminus); The Pre-Incarnation Saints (the structural state between H₄₈ terminus and the final condition); Miracles (the final statement: they will not believe even if someone rises from the dead)
+**Cross-references:** The Rich Fool (H₄₈-primary accumulation and its terminus); The Talents (what is accumulated in H₄₈ and what is not); Paper 13½ OQ3 (eigenvalue coherence; what persists past H₄₈ terminus); The Pre-Incarnation Saints (the structural state between H₄₈ terminus and the final condition); Miracles (the final statement: they will not believe even if someone rises from the dead)
 
 ---
 

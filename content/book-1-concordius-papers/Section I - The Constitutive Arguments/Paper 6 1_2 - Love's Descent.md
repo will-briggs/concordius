@@ -2,15 +2,15 @@
 
 # Love's Descent: The Kenotic Arm
 
-*Paper 6½ of Section I — the descending arm of the Trogoautoegocrat. Where Paper 6 traces the mortal climbing, this paper traces Love coming down to meet it: the three kenoses and the Creator Son's bestowal descent, which together establish the external inputs the ascent cannot generate for itself. Companion to Paper 3 (Creation), Paper 6 (the ascending arm), and Paper 8 (the Incarnation in full).*
+*Paper 6½ of Section I — the descending arm of the Trogoautoegocrat. Where Paper 6 traces the mortal climbing, this paper traces Love coming down to meet it: the three kenoses and the Creator Son's bestowal descent, which together establish the external inputs the ascent cannot generate for itself. Companion to Paper 3 (Creation), Paper 6 (the ascending arm), and Paper 13½ (the Incarnation in full).*
 
 ---
 
 ## Abstract
 
-This paper is the **descending arm** of the Trogoautoegocrat — Love coming down to meet the mortal that Paper 6 traces climbing. It identifies three kenotic acts as the structural spine of the creative project, then traces the Creator Son's sevenfold bestowal descent, which establishes from within each mode the very external inputs the ascending career cannot supply for itself. Each is a descent of ⟨·,·⟩ into greater constraint, in the only form in which Love can reach a receiving level: accepting the constraint of the space it enters. The first kenosis is Creation itself — the Father constituting genuine otherness. The second is the Thought Adjuster's indwelling — a fragment of the Father accepting H₄₈ temporal constraint, triggered by and marking the birth of self-awareness. The third is the Incarnation, treated in full in Paper 8. A structural consequence is derived: the grade topology of Cl(3,0), as the constitutional algebra of the created order, applies universally — H₄₈ conditions modulate how the traversal proceeds but cannot alter the structure it traverses.
+This paper is the **descending arm** of the Trogoautoegocrat — Love coming down to meet the mortal that Paper 6 traces climbing. It identifies three kenotic acts as the structural spine of the creative project, then traces the Creator Son's sevenfold bestowal descent, which establishes from within each mode the very external inputs the ascending career cannot supply for itself. Each is a descent of ⟨·,·⟩ into greater constraint, in the only form in which Love can reach a receiving level: accepting the constraint of the space it enters. The first kenosis is Creation itself — the Father constituting genuine otherness. The second is the Thought Adjuster's indwelling — a fragment of the Father accepting H₄₈ temporal constraint, triggered by and marking the birth of self-awareness. The third is the Incarnation, treated in full in Paper 13½. A structural consequence is derived: the grade topology of Cl(3,0), as the constitutional algebra of the created order, applies universally — H₄₈ conditions modulate how the traversal proceeds but cannot alter the structure it traverses.
 
-**Confidence tier notice:** Sections 1 and 2 derive from the framework of Papers 1–3 and carry mathematical warrant. Section 3 (the Thought Adjuster) combines structural derivation with Urantia testimony and carries derived-tier status. Section 4 (the Incarnation) is a forward note to Paper 8, where the full treatment and confidence tier appear. Section 5 (universality of the grade structure) is structural derivation, with Matthew 5:45 as convergent testimony at concordance tier.
+**Confidence tier notice:** Sections 1 and 2 derive from the framework of Papers 1–3 and carry mathematical warrant. Section 3 (the Thought Adjuster) combines structural derivation with Urantia testimony and carries derived-tier status. Section 4 (the Incarnation) is a forward note to Paper 13½, where the full treatment and confidence tier appear. Section 5 (universality of the grade structure) is structural derivation, with Matthew 5:45 as convergent testimony at concordance tier.
 
 ---
 
@@ -34,7 +34,7 @@ This paper is the **descending arm** of the Trogoautoegocrat — Love coming dow
 
 Paper 3 establishes: Father = ⟨·,·⟩; God is love (1 John 4:8); therefore Love = ⟨·,·⟩. The inner product is constitutive — not a response to existence but prior to it, the relation that generates Φ, H, and Φ′ as its necessary domains.
 
-Paper 8 §3 establishes: any downward expression of higher-organizational-level content into a lower-constraint receiving space that does not accept the receiving environment's constraints generates an overdeterminate condition — an irresolvable incompatibility between two organizational law-sets that the space cannot sustain. The overdeterminate condition cannot be received. There is no third option between kenotic constraint acceptance and the overdeterminate condition.
+Paper 13½ §3 establishes: any downward expression of higher-organizational-level content into a lower-constraint receiving space that does not accept the receiving environment's constraints generates an overdeterminate condition — an irresolvable incompatibility between two organizational law-sets that the space cannot sustain. The overdeterminate condition cannot be received. There is no third option between kenotic constraint acceptance and the overdeterminate condition.
 
 The combination produces a structural theorem: **love is always kenotic.** Any downward act of Love either accepts the receiving constraint level or generates what cannot be received as love. Kenosis is not a style of relating, nor a choice among equivalent approaches. It is the only form in which Love is receivable at a level below its source. The tradition's intuition that power and love are in tension is structurally grounded here: power that refuses constraint acceptance cannot reach the other as a gift. It overwhelms.
 
@@ -125,7 +125,7 @@ Where the Adjuster's kenosis is partial (a fragment of ⟨·,·⟩), ongoing (re
 
 The foot-washing (John 13:1–17) demonstrates the same principle at the H₄₈ social level. H₄₈ social hierarchy roughly tracks organizational level; the master who washes the servant's feet inverts the social hierarchy to demonstrate that the higher level exists to serve the lower. This inversion is only possible from organizational stability: the self-lowering does not dissolve the one who performs it. Kenosis requires organizational depth as its precondition — you can only wash feet from a position secure enough that constraint acceptance does not destroy you.
 
-**Full treatment:** Paper 8 supplies the mechanism in detail: kenosis as the downward compatibility operation (§3), the constrained differential (§7), the Resurrection release as mode transition (§7), the Pattern as structural demonstration of traversability (§10), and the Son-Spirit association as the structural account of Pentecost (§9).
+**Full treatment:** Paper 13½ supplies the mechanism in detail: kenosis as the downward compatibility operation (§3), the constrained differential (§7), the Resurrection release as mode transition (§7), the Pattern as structural demonstration of traversability (§10), and the Son-Spirit association as the structural account of Pentecost (§9).
 
 ---
 
@@ -202,7 +202,7 @@ The Father is known last, and by no effort at all. The Father cannot be an objec
 
 The ontological order generates the created order from above. The epistemological order reverses it: coming-to-know proceeds from the most immediately given (the space one already inhabits) through the effortful (the catching act that orients toward Φ) to the unreachable-except-by-gift (the constitutive ground that comes to meet what no effort could reach). The coming-to-know is the inverse of the coming-to-be — which is exactly what the structure predicts. The constitutive ground is last to be known because it is first in everything else.
 
-*(Confidence tier: the identification of the grade-1→grade-2 crossing with the Son's kenotic entry follows from Paper 24½'s crossing mechanism and Paper 8's account of the Incarnation — derived tier. The identification of the grade-2→grade-3 crossing with the Father's drawing act follows from Paper 28½'s account of that crossing — derived tier, resolving OQ3. The Spirit as topological space follows from the identification of τ_nuclear with the Spirit in Papers 1–2 — structural derivation. The reverse epistemological order follows from the structural roles of the three Persons as derived — structural inference. The scriptural concordances — John 14:6, John 6:44, Acts 17:28, Luke 15:20 — are concordance-tier confirmations of the derived structure.)*
+*(Confidence tier: the identification of the grade-1→grade-2 crossing with the Son's kenotic entry follows from Paper 24½'s crossing mechanism and Paper 13½'s account of the Incarnation — derived tier. The identification of the grade-2→grade-3 crossing with the Father's drawing act follows from Paper 28½'s account of that crossing — derived tier, resolving OQ3. The Spirit as topological space follows from the identification of τ_nuclear with the Spirit in Papers 1–2 — structural derivation. The reverse epistemological order follows from the structural roles of the three Persons as derived — structural inference. The scriptural concordances — John 14:6, John 6:44, Acts 17:28, Luke 15:20 — are concordance-tier confirmations of the derived structure.)*
 
 ---
 
@@ -224,7 +224,7 @@ The descending arm has a specific cosmic form: the Creator Son's traversal of th
 
 The mortal incarnation — the seventh bestowal, at H₄₈ — is the grade-1 Father-alone mode: the single constitutive relation at the deepest point of eigenstate selection, the most constrained mode of existence within the creation, inhabited not from administrative distance but as a mortal subject to every constraint a mortal faces.
 
-**The seventh bestowal as a complete traversal of the sequence.** The Incarnation is not only a provision for others; it is itself a complete traversal of the grade structure, with its own grade-1→grade-2 and grade-2→grade-3 crossings marked by two forty-day intervals — the wilderness (the grade-1→grade-2 crossing) and the post-Resurrection appearances (the grade-2→grade-3 crossing). The full treatment is Paper 8. Here it suffices that the descending arm's deepest point is itself a complete traversal: both crossings made in correct sequence, from within the grade-1 mode, under the maximum H₄₈ constraint.
+**The seventh bestowal as a complete traversal of the sequence.** The Incarnation is not only a provision for others; it is itself a complete traversal of the grade structure, with its own grade-1→grade-2 and grade-2→grade-3 crossings marked by two forty-day intervals — the wilderness (the grade-1→grade-2 crossing) and the post-Resurrection appearances (the grade-2→grade-3 crossing). The full treatment is Paper 13½. Here it suffices that the descending arm's deepest point is itself a complete traversal: both crossings made in correct sequence, from within the grade-1 mode, under the maximum H₄₈ constraint.
 
 *(Confidence tier: the descending direction — grade 3 toward grade 1, terminating at the Father-alone mortal incarnation — is structurally derived. The specific Trinity combination of each individual bestowal rests on Urantia testimony, Papers 119–120 and 16–17, and is marked as such.)*
 
@@ -252,7 +252,7 @@ The two arms together form a single self-sustaining circuit — the **Trogoautoe
 
 ---
 
-*Cross-reference: [[Paper 3 - The Spirit Integrates]] §9; [[Paper 6 - The Cogito Coheres]] OQ8; [[Paper 6 1_2 - Love's Descent|Paper 6½]]; [[Paper 8 - The Maximum Downward Entry]] §§3, 7, 9, 10; [[Paper 24 1_2 - The Mi-Fa Interval]]; [[Paper 28 1_2 - The Si-Do Interval]]; [[Appendix I - Dictionary of Terms#Kenosis|Kenosis]]; [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]]*
+*Cross-reference: [[Paper 3 - The Spirit Integrates]] §9; [[Paper 6 - The Cogito Coheres]] OQ8; [[Paper 6 1_2 - Love's Descent|Paper 6½]]; [[Paper 13 1_2 - The Maximum Downward Entry]] §§3, 7, 9, 10; [[Paper 24 1_2 - The Mi-Fa Interval]]; [[Paper 28 1_2 - The Si-Do Interval]]; [[Appendix I - Dictionary of Terms#Kenosis|Kenosis]]; [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]]*
 
 ---
 

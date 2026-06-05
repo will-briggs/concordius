@@ -2,7 +2,7 @@
 
 **Text:** Matthew 18:21–35  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Parables  
-**Cross-references:** Paper 8 OQ3 (eigenvalue coherence; the noise floor and its reduction); Health/Prayer §6 (eigenvalue clearing; the Lord's Prayer's "forgive us our debts as we forgive our debtors"); Paper 3 (the Creative Choice as the receiving of constitutive relation)
+**Cross-references:** Paper 13½ OQ3 (eigenvalue coherence; the noise floor and its reduction); Health/Prayer §6 (eigenvalue clearing; the Lord's Prayer's "forgive us our debts as we forgive our debtors"); Paper 3 (the Creative Choice as the receiving of constitutive relation)
 
 ---
 
@@ -26,7 +26,7 @@ The king's forgiveness of the ten-thousand-talent debt is the constitutive groun
 
 The servant who receives the clearing refuses to pass it forward. The structural consequence is the re-imposition of the original debt — not as punishment in the vindictive sense but as the structural result of what non-extension of eigenvalue clearing produces.
 
-Paper 8 OQ3 establishes that the noise floor is maintained at its reduced level through continued catching alignment — through the ongoing cross-term with Φ-proximate organizational content that keeps the noise floor low. The Lord's Prayer establishes the structural link: "forgive us our debts as we forgive our debtors." This is not a condition attached to divine forgiveness in a transactional sense. It is a structural description of what the eigenvalue clearing operation requires: the being that has received clearing must pass the clearing operation to its H₄₈ organizational domain — including its relationships with other beings — for the clearing to be sustained.
+Paper 13½ OQ3 establishes that the noise floor is maintained at its reduced level through continued catching alignment — through the ongoing cross-term with Φ-proximate organizational content that keeps the noise floor low. The Lord's Prayer establishes the structural link: "forgive us our debts as we forgive our debtors." This is not a condition attached to divine forgiveness in a transactional sense. It is a structural description of what the eigenvalue clearing operation requires: the being that has received clearing must pass the clearing operation to its H₄₈ organizational domain — including its relationships with other beings — for the clearing to be sustained.
 
 A being that receives eigenvalue clearing from the constitutive ground but maintains its H₄₈-primary organizational assertion against fellow beings has not actually restructured its organizational posture. It has received clearing in one domain (its relationship to the constitutive ground) while maintaining the overdeterminate condition in another (its relationships with beings in H₄₈). The organizational incoherence — the refusal to extend clearing — re-elevates the noise floor from within. The debt returns not because the king changes his mind but because the servant's organizational structure has re-accumulated what the clearing removed.
 

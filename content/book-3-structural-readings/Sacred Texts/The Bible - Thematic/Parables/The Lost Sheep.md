@@ -2,7 +2,7 @@
 
 **Text:** Matthew 18:10–14; Luke 15:1–7  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Parables  
-**Cross-references:** The Lost Coin; The Prodigal Son (Luke 15 trilogy); Paper 3 (the Creative Choice; the constitutive ground's orientation toward its beings); Paper 8 OQ3 (eigenvalue coherence; what persists above threshold)
+**Cross-references:** The Lost Coin; The Prodigal Son (Luke 15 trilogy); Paper 3 (the Creative Choice; the constitutive ground's orientation toward its beings); Paper 13½ OQ3 (eigenvalue coherence; what persists above threshold)
 
 ---
 

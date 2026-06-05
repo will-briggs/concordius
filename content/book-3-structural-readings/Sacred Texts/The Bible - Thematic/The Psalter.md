@@ -49,7 +49,7 @@ The Psalter covers the full range of the catching being's H₄₈ states. The co
 
 Verse 24 resolves the structural tension: he has not hidden his face. The Father's constitutive act is uninterrupted — the H₄₈ experience of absence is not the structural reality of absence. The psalm ends in sustained praise (vv. 25–31). The arc of Psalm 22 is the full catching program: dereliction → maintained orientation → structural resolution → doxology. Jesus quotes the opening from the cross (Matthew 27:46 / Mark 15:34): the complete psalm, and its resolution, is the background.
 
-*(Cross-reference: Paper 8 §10 on the Gethsemane alignment — maintaining I under maximum H₄₈ pressure; the Passion Octave structural reading.)*
+*(Cross-reference: Paper 13½ §10 on the Gethsemane alignment — maintaining I under maximum H₄₈ pressure; the Passion Octave structural reading.)*
 
 ### ✶✶ — Psalm 139.1–12
 

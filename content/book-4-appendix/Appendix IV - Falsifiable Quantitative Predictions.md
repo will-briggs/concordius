@@ -179,7 +179,7 @@ The four transition epochs and their approximate peak GW frequencies:
 
 ## 8. An Epistemological Note
 
-The standard by which these predictions should be assessed is the same standard Paper 8 applies to truth-proximity generally: evidence from independent sources that converges without coordination constitutes more weight than the same evidence from a single source, and quantitative convergence is more weight than qualitative convergence.
+The standard by which these predictions should be assessed is the same standard Paper 13½ applies to truth-proximity generally: evidence from independent sources that converges without coordination constitutes more weight than the same evidence from a single source, and quantitative convergence is more weight than qualitative convergence.
 
 The cascade timing prediction illustrates this. The framework derived its cascade table from eigenspace ratios and the Cl(3,0) grade structure — two inputs that have nothing to do with cosmological phase transitions. The H₁₂→H₂₄ transition landed at ~10⁻³⁶ s, which is the GUT epoch. The GUT epoch was established by particle physics reasoning that has nothing to do with eigenspace ratios or Clifford algebras. The convergence is exact to the order of magnitude. This is the kind of independently-derived quantitative agreement that constitutes evidential weight.
 

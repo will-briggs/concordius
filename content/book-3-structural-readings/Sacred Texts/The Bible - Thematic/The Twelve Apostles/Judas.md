@@ -1,7 +1,7 @@
 # Judas: A Structural Reading
 
 **Series:** Book 3 — Structural Readings / Doctrine  
-**Cross-references:** Paper 8 §§3.1–3.3 (the taxonomy of structural developmental failure; abstention; the catching mechanism); Paper 6 (the catching act as constitutive volitional; the dual pairing); The Lucifer Rebellion (the overdeterminate condition; imposition as structural error; the thief on the cross as opposite limit case); The Last Supper (the compositional reading of Judas in Leonardo; the announcement as opacity resolving)
+**Cross-references:** Paper 13½ §§3.1–3.3 (the taxonomy of structural developmental failure; abstention; the catching mechanism); Paper 6 (the catching act as constitutive volitional; the dual pairing); The Lucifer Rebellion (the overdeterminate condition; imposition as structural error; the thief on the cross as opposite limit case); The Last Supper (the compositional reading of Judas in Leonardo; the announcement as opacity resolving)
 
 ---
 
@@ -17,7 +17,7 @@ The framework provides a structural account. It does not resolve every question 
 
 ## 2. His Position: Three Years at Maximum Amplitude
 
-Paper 8 §4 establishes that the kenotic constraint operates as a continuous amplitude limiter: Φ expressing in H₄₈ at a bounded but real amplitude throughout the earthly ministry. Every person in sustained proximity to the Incarnate Logos was receiving a continuous low-amplitude cross-term from the Φ-proximate eigenvalue content expressed through the kenotic constraint. This is not the miracle amplitude (partially lifted constraint); it is the normal inhabitation amplitude, continuous and cumulative across the duration of contact.
+Paper 13½ §4 establishes that the kenotic constraint operates as a continuous amplitude limiter: Φ expressing in H₄₈ at a bounded but real amplitude throughout the earthly ministry. Every person in sustained proximity to the Incarnate Logos was receiving a continuous low-amplitude cross-term from the Φ-proximate eigenvalue content expressed through the kenotic constraint. This is not the miracle amplitude (partially lifted constraint); it is the normal inhabitation amplitude, continuous and cumulative across the duration of contact.
 
 The Twelve were at maximum proximity for three years. Of all H₄₈ beings in history, they received the largest cumulative dose of Φ-proximate cross-term content at low amplitude — the continuous organizing influence of the kenotic Φ expression on their eigenvalue populations. This is what the formation of the disciples structurally was: three years of continuous low-amplitude cross-term with the H₆ Creator Son's Φ-content expressed at H₄₈.
 
@@ -29,7 +29,7 @@ Three years of maximum Φ-proximate cross-term amplitude was available to him. P
 
 ## 3. The Taxonomy: Abstention, Not Overdetermination
 
-Paper 8 §3.2 distinguishes three structurally distinct categories of developmental failure. Judas's failure belongs to the third category — abstention — not to overdetermination (the Luciferian category).
+Paper 13½ §3.2 distinguishes three structurally distinct categories of developmental failure. Judas's failure belongs to the third category — abstention — not to overdetermination (the Luciferian category).
 
 Lucifer is an H₁₂ being (a Lanonandek) who asserted the constitutive function over the H₄₈ worlds beneath him: an element attempting to become ⟨·,·⟩ of a domain it could only inhabit. The overdeterminate condition this generates disrupts the space itself.
 
@@ -49,7 +49,7 @@ The money is the specific H₄₈-primary content that achieved organizational d
 
 The betrayal signal is the kiss. This is structurally significant beyond the obvious irony.
 
-The kiss is the recognition gesture — the gesture of genuine knowing, of Φ-proximate identification. In the framework's terms, recognition events are cross-term contact events: specific Φ-level eigenvalue expressions generate a cross-term with the perceiver's Φ-proximate eigenvalue content, which registers the Φ identity directly. Paper 8 §7 identifies the post-Resurrection recognition events — Mary when her name is spoken, the disciples at Emmaus when the bread is broken — as exactly this: catching gestures that produce direct Φ-proximate eigenvalue contact.
+The kiss is the recognition gesture — the gesture of genuine knowing, of Φ-proximate identification. In the framework's terms, recognition events are cross-term contact events: specific Φ-level eigenvalue expressions generate a cross-term with the perceiver's Φ-proximate eigenvalue content, which registers the Φ identity directly. Paper 13½ §7 identifies the post-Resurrection recognition events — Mary when her name is spoken, the disciples at Emmaus when the bread is broken — as exactly this: catching gestures that produce direct Φ-proximate eigenvalue contact.
 
 The kiss is in this category of gesture. It is the catching act in its most immediate interpersonal form: the orientation of one being's eigenvalue population toward another's in recognition and acknowledgment.
 
@@ -73,7 +73,7 @@ The second movement — suicide — is the structural refusal to complete what t
 
 Judas correctly identified the error (repentance = accurate perception) but at the moment when the catching alignment toward ⟨·,·⟩ became available, chose instead to assert organizational authority over the continuation of his own existence. The catching alignment, just beginning to open, was closed by the terminal imposition act.
 
-The structural tragedy is not that he was unforgivable. The framework gives no structural grounds for that claim — Paper 8 §3.3 establishes that the catching mechanism is available to any Φ′-origin being for whom Φ-proximate content is accessible, and that the accumulated eigenvalue effect of a genuine catching act can reorganize even a significantly noise-floor-elevated eigenvalue population. The structural tragedy is that the repentance — the first genuine catching movement — was not allowed to proceed. The organizational change had begun. It was not completed.
+The structural tragedy is not that he was unforgivable. The framework gives no structural grounds for that claim — Paper 13½ §3.3 establishes that the catching mechanism is available to any Φ′-origin being for whom Φ-proximate content is accessible, and that the accumulated eigenvalue effect of a genuine catching act can reorganize even a significantly noise-floor-elevated eigenvalue population. The structural tragedy is that the repentance — the first genuine catching movement — was not allowed to proceed. The organizational change had begun. It was not completed.
 
 ---
 
@@ -127,7 +127,7 @@ The structural account: "the son of perdition" is a description of the organizat
 
 "That the scripture might be fulfilled" is the framework's account of structural pattern: the structural dynamics of the ascending career, the Luciferian lie, the organizational consequences of sustained abstention — these were described in the tradition before Judas enacted them. The structural prediction precedes the instantiation. When the instantiation occurs, the pattern is fulfilled. The prior description of the pattern is not its cause.
 
-This is the same resolution as Paper 8 §3.3's treatment of irresistible grace: the catching mechanism cannot be overridden without the being ceasing to be a Φ′-origin being orienting through the dual pairing. Grace provides catchable content — present at maximum amplitude in this case — and the catching must be chosen. The choice was available. It was not made.
+This is the same resolution as Paper 13½ §3.3's treatment of irresistible grace: the catching mechanism cannot be overridden without the being ceasing to be a Φ′-origin being orienting through the dual pairing. Grace provides catchable content — present at maximum amplitude in this case — and the catching must be chosen. The choice was available. It was not made.
 
 ---
 
@@ -151,10 +151,10 @@ Paper 7 establishes that the catching mechanism is available to any Φ′-origin
 
 Whether Judas's noise floor at that moment was low enough for the catching alignment to be available — whether the repentance had reduced the H₄₈-primary dominance enough for the volitional catching act to be accessible — the framework cannot determine from outside. What can be said structurally is that it was not completed, and that the terminal act closed what the repentance had briefly opened.
 
-The tradition that has prayed for Judas across centuries — from Origen to the present — is, on the framework's account, an intercessory catching act directed toward an organizational state whose terminal condition is uncertain. The structural grounds for that prayer: the catching alignment was beginning to become available; the terminal act intervened before it could complete; what remained at the transition interval that follows H₄₈ dissolution (Paper 8 §7.2) is not available to any organized being in the created order to know.
+The tradition that has prayed for Judas across centuries — from Origen to the present — is, on the framework's account, an intercessory catching act directed toward an organizational state whose terminal condition is uncertain. The structural grounds for that prayer: the catching alignment was beginning to become available; the terminal act intervened before it could complete; what remained at the transition interval that follows H₄₈ dissolution (Paper 13½ §7.2) is not available to any organized being in the created order to know.
 
 The Father knows.
 
 ---
 
-*(Confidence tier: The taxonomy of Judas's failure as abstention rather than overdetermination is structural derivation, following from Paper 8 §3.2's identification of the three failure categories and the framework's consistent classification of mortal beings as Φ′-origin. The structural account of the repentance as incomplete catching is structural concordance: it is the only reading of Matthew 27:3–5 consistent with both the framework's account of catching and the framework's account of suicide. The comparison with Peter is structural inference from the same categories. The predestination resolution is structural derivation from Paper 8 §3.3's treatment of grace and free will. The open question about Judas's terminal state is genuinely open: the framework predicts that the catching alignment was structurally available at the repentance moment, but whether it was accessed before the terminal act is not determinable from within the created order. The traditional practice of prayer for Judas is structurally coherent on the framework's account — not sentimental, but grounded in the same structural uncertainty that Paper 8 §7.2 establishes for the transition interval.)*
+*(Confidence tier: The taxonomy of Judas's failure as abstention rather than overdetermination is structural derivation, following from Paper 13½ §3.2's identification of the three failure categories and the framework's consistent classification of mortal beings as Φ′-origin. The structural account of the repentance as incomplete catching is structural concordance: it is the only reading of Matthew 27:3–5 consistent with both the framework's account of catching and the framework's account of suicide. The comparison with Peter is structural inference from the same categories. The predestination resolution is structural derivation from Paper 13½ §3.3's treatment of grace and free will. The open question about Judas's terminal state is genuinely open: the framework predicts that the catching alignment was structurally available at the repentance moment, but whether it was accessed before the terminal act is not determinable from within the created order. The traditional practice of prayer for Judas is structurally coherent on the framework's account — not sentimental, but grounded in the same structural uncertainty that Paper 13½ §7.2 establishes for the transition interval.)*

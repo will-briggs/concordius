@@ -19,7 +19,7 @@ Parasitism is the biological strategy in which an organism extracts resources fr
 
 ## The Structural Parallel
 
-The Trogoautoegocrat — Gurdjieff's term for the mutual reciprocal maintenance by which everything that genuinely participates in reality feeds and is fed — is the organizational principle of the ascending career at every scale. Every being in the circuit contributes to those below and receives from those above; the circuit is maintained by the universal participation in both directions. Paper 8 §3.1 identifies Lucifer's error as the archetypal Trogoautoegocrat violation: the withdrawal from the reciprocal maintenance circuit while retaining the benefits of organizational position. Lucifer took from the circuit — the authority, insight, and access to higher constraint content that his developmental level provided — without feeding the circuit, without contributing the downward transmission and kenotic return that his position required. The circuit was disrupted at the point of his withdrawal.
+The Trogoautoegocrat — Gurdjieff's term for the mutual reciprocal maintenance by which everything that genuinely participates in reality feeds and is fed — is the organizational principle of the ascending career at every scale. Every being in the circuit contributes to those below and receives from those above; the circuit is maintained by the universal participation in both directions. Paper 13½ §3.1 identifies Lucifer's error as the archetypal Trogoautoegocrat violation: the withdrawal from the reciprocal maintenance circuit while retaining the benefits of organizational position. Lucifer took from the circuit — the authority, insight, and access to higher constraint content that his developmental level provided — without feeding the circuit, without contributing the downward transmission and kenotic return that his position required. The circuit was disrupted at the point of his withdrawal.
 
 Parasitism is the same structural act at the biological level: the organism takes from the host's metabolic resources — energy, nutrients, structural materials — without contributing to the host's maintenance. The parasite benefits; the circuit is not maintained; the host is degraded. The structural identity with Lucifer's error is exact. Parasitism is the Trogoautoegocrat violation expressed in H₄₈ biology.
 
@@ -80,11 +80,11 @@ The Lucifer rebellion did not cause all of these. It is the highest-scale instan
 |---|---|
 | Lucifer creates parasites | **Incorrect** — creation requires Si/Do constitutive capacity belonging to the Father alone |
 | Parasitism is structurally identical to Lucifer's error | **Established** — both are Trogoautoegocrat violations at their respective scales |
-| Lucifer's rebellion distorted the organizational field of affected planets | **Established** (Paper 8 §3.1 and Lucifer rebellion section) |
+| Lucifer's rebellion distorted the organizational field of affected planets | **Established** (Paper 13½ §3.1 and Lucifer rebellion section) |
 | Field distortion amplified fitness of Trogoautoegocrat-violating life strategies | **[Speculative]** — structurally coherent, not derivable |
 | Parasitism would be absent on unaffected planets | **Unknown** — competitive extraction is available in any high-constraint evolutionary environment |
 
-*Cross-references: Paper 8 §3.1 (Lucifer as ⟨·,·⟩ misidentification; the Trogoautoegocrat withdrawal); Paper 8 OQ8 (evil as the ongoing overdeterminate event); Paper 11 (HCP — the same organizational imprint at every scale); Paper 27 §4 (the kenotic obligation and the temptation of the heights as personal-scale Trogoautoegocrat violation); Christian Doctrine / The Lucifer Rebellion (the three-level cascade and its H₄₈ effects).*
+*Cross-references: Paper 13½ §3.1 (Lucifer as ⟨·,·⟩ misidentification; the Trogoautoegocrat withdrawal); Paper 13½ OQ8 (evil as the ongoing overdeterminate event); Paper 11 (HCP — the same organizational imprint at every scale); Paper 27 §4 (the kenotic obligation and the temptation of the heights as personal-scale Trogoautoegocrat violation); Christian Doctrine / The Lucifer Rebellion (the three-level cascade and its H₄₈ effects).*
 
 ---
 

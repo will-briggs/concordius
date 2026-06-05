@@ -59,7 +59,7 @@ Augustine is in a garden in Milan, in a state of extreme psychological distress 
 
 **The Si/Do crossing from above as the external provision that breaks the overdeterminate condition.** The moment is structurally precise on three counts. First, the overdeterminate condition: Augustine cannot cross the interval by his own will; he has been at the threshold for years, the organizational capacity fully engaged and failing. Second, the external source: the voice comes from outside the constraint structure — it is not Augustine's own reasoning that breaks the impasse but a sound from outside the garden that he does not control and cannot explain. Third, the specificity of the crossing: it is not a general resolution of the will but a particular act — *take up and read* — a specific grade-2 provision (text, words, Paul's formulation) that carries the catching-alignment content at the moment the catching being is ready to receive it.
 
-*(Cross-reference: Paper 8 §7.1 — overdeterminate release; Paper 4 §3 — the Son's articulatory provision as the grade-2 content that makes the crossing available at the moment of readiness.)*
+*(Cross-reference: Paper 13½ §7.1 — overdeterminate release; Paper 4 §3 — the Son's articulatory provision as the grade-2 content that makes the crossing available at the moment of readiness.)*
 
 ---
 
@@ -107,7 +107,7 @@ Book XI is Augustine's sustained philosophical analysis of time, concluding that
 | *Distentio animi* | H₄₈ temporal constraint as the experiential form of the catching being's stretched existence |
 | Book XIII structure | Genesis 1 as the constraint cascade: creation as organizational descent from H₁ |
 
-*Cross-references: Dante (the ascending career as full narrative; the same *inquietum* as the dark wood of Inferno I); Meister Eckhart (the ground of the soul as the locus where ⟨·,·⟩ is most directly encountered, the same structural content as "intus eras"); The Hesychast Tradition (continuous alignment as the structural content of what Augustine performs throughout the Confessions); Paper 3 (the Father's constitutive act as the origin of the *ad te* orientation); Paper 8 §7.1 (the garden conversion as overdeterminate release at the Mi/Fa threshold).*
+*Cross-references: Dante (the ascending career as full narrative; the same *inquietum* as the dark wood of Inferno I); Meister Eckhart (the ground of the soul as the locus where ⟨·,·⟩ is most directly encountered, the same structural content as "intus eras"); The Hesychast Tradition (continuous alignment as the structural content of what Augustine performs throughout the Confessions); Paper 3 (the Father's constitutive act as the origin of the *ad te* orientation); Paper 13½ §7.1 (the garden conversion as overdeterminate release at the Mi/Fa threshold).*
 
 ---
 

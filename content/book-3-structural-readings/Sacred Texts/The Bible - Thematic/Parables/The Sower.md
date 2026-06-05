@@ -2,7 +2,7 @@
 
 **Text:** Matthew 13:1–23; Mark 4:1–20; Luke 8:4–15  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Parables  
-**Cross-references:** Paper 8 §§4–5 (the cross-term mechanism; amplitude at H₄₈; the kenotic period); Paper 3 (the Creative Choice; catching as constitutive volitional act); The Lucifer Rebellion (the elevated noise floor); Health/Prayer (noise-floor reduction as the structural purpose of composing practice)
+**Cross-references:** Paper 13½ §§4–5 (the cross-term mechanism; amplitude at H₄₈; the kenotic period); Paper 3 (the Creative Choice; catching as constitutive volitional act); The Lucifer Rebellion (the elevated noise floor); Health/Prayer (noise-floor reduction as the structural purpose of composing practice)
 
 ---
 

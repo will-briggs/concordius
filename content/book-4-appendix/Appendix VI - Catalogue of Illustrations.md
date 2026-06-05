@@ -50,10 +50,10 @@ title: Appendix VI - Catalogue of Illustrations
 **Section II - The Operations — index**
 - *The Ladder of Divine Ascent* (12th century) &nbsp;·&nbsp; `ladder-of-divine-ascent.jpg`
 
-**Paper 8 - The Maximum Downward Entry**
+**Paper 13 1_2 - The Maximum Downward Entry**
 - *Fra Angelico, The Transfiguration* (c. 1440–42) &nbsp;·&nbsp; `fra-angelico-transfiguration.jpg`
 
-**Paper 9 - Incompleteness Derived**
+**Paper 8 - What We Can't Know**
 - *Christoph Bernhard Francke, Portrait of Gottfried Wilhelm Leibniz* (c. 1695) &nbsp;·&nbsp; `leibniz-francke.jpg`
 
 **Paper 10 - The Truth Measure**
