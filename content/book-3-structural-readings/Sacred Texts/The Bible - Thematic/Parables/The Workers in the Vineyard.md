@@ -2,7 +2,7 @@
 
 **Text:** Matthew 20:1–16  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Parables  
-**Cross-references:** Paper 14 §8 (the permanent asymmetry; the constitutive ground as not subject to H₄₈-primary accounting); Paper 3 (the Creative Choice; catching alignment as the constitutive volitional act); The Prodigal Son (the elder brother's equivalent complaint)
+**Cross-references:** Paper 20½ §8 (the permanent asymmetry; the constitutive ground as not subject to H₄₈-primary accounting); Paper 3 (the Creative Choice; catching alignment as the constitutive volitional act); The Prodigal Son (the elder brother's equivalent complaint)
 
 ---
 

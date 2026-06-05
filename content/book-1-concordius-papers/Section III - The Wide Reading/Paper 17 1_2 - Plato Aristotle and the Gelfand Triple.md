@@ -3,7 +3,7 @@
 # Paper 17½ — Plato, Aristotle, and the Gelfand Triple: A Structural Resolution
 
 **Status:** Complete  
-**Cross-references:** Paper 1 (Modeling Reality as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]); Paper 8 (Incompleteness Derived — mathematical Platonism confirmed); Paper 14 (constraint hierarchy; eigenvalue organization); Paper 4 (Φ ⊂ H; the [[Appendix I - Dictionary of Terms#Nuclear Space|nuclear space]] as organizing structure); Structural Readings 01 (John 1:1; Φ precedes all H-states; the Form of the Good as ⟨·,·⟩)
+**Cross-references:** Paper 1 (Modeling Reality as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]); Paper 8 (Incompleteness Derived — mathematical Platonism confirmed); Paper 20½ (constraint hierarchy; eigenvalue organization); Paper 4 (Φ ⊂ H; the [[Appendix I - Dictionary of Terms#Nuclear Space|nuclear space]] as organizing structure); Structural Readings 01 (John 1:1; Φ precedes all H-states; the Form of the Good as ⟨·,·⟩)
 
 ---
 
@@ -191,7 +191,7 @@ The mapping:
 | The objects casting the shadows | H₄₈ particulars properly apprehended — the physical eigenstates themselves, rather than their projections onto the cave wall |
 | The fire | An intermediate light source — a lower-constraint energy expression within the cave; H₁₂ phenomena apprehensible with some noise floor reduction |
 | The freed prisoner turning toward the fire | The beginning of the ascending career — the initial noise floor reduction that makes the fire (rather than the shadows) visible |
-| The blinding sunlight outside | The full Φ-proximate eigenvalue content encountered at higher constraint levels — amplitude exceeding the initial noise floor tolerance (cf. Paper 14: the constraint compatibility condition) |
+| The blinding sunlight outside | The full Φ-proximate eigenvalue content encountered at higher constraint levels — amplitude exceeding the initial noise floor tolerance (cf. Paper 20½: the constraint compatibility condition) |
 | The gradual adjustment | Eigenvalue replacement — the progressive accumulation of Φ-proximal content that makes higher-amplitude Φ-contact tolerable (the ascending career as compatibility preparation) |
 | The sun | ⟨·,·⟩ itself — the Form of the Good, the organizing relational structure whose eigenstates are all the other Forms |
 | The return to the cave | The descending movement — the one who has caught Φ-proximate content returning to the H₄₈ domain to transmit it; the kenotic movement of Paper 13½ at the human scale |
@@ -322,7 +322,7 @@ The corrected formulation: the body is not the soul's prison. The body is the so
 
 ---
 
-*Cross-references: Paper 1 (Gelfand triple as reality model); Paper 3½ ([[Appendix I - Dictionary of Terms#Higher Being Body|higher being bodies]]; what persists through death); Paper 4 (Φ as nuclear space; the [[Appendix I - Dictionary of Terms#Logos|Logos]] as organizing structure); Paper 9 (τ(D); truth as Φ-proximity); Paper 8 (mathematical Platonism confirmed; incompleteness as structural consequence); Paper 10½ ([[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]]; imprint of ⟨·,·⟩ in organized structures); Paper 14 (constraint compatibility condition; eigenvalue orientation); Paper 13½ (the active intellect as Thought Adjuster; downward entry and [[Appendix I - Dictionary of Terms#Kenosis|kenosis]]); Structural Readings 01 (John 1:1 — Φ precedes all H-states; the Form of the Good as ⟨·,·⟩)*
+*Cross-references: Paper 1 (Gelfand triple as reality model); Paper 3½ ([[Appendix I - Dictionary of Terms#Higher Being Body|higher being bodies]]; what persists through death); Paper 4 (Φ as nuclear space; the [[Appendix I - Dictionary of Terms#Logos|Logos]] as organizing structure); Paper 9 (τ(D); truth as Φ-proximity); Paper 8 (mathematical Platonism confirmed; incompleteness as structural consequence); Paper 10½ ([[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]]; imprint of ⟨·,·⟩ in organized structures); Paper 20½ (constraint compatibility condition; eigenvalue orientation); Paper 13½ (the active intellect as Thought Adjuster; downward entry and [[Appendix I - Dictionary of Terms#Kenosis|kenosis]]); Structural Readings 01 (John 1:1 — Φ precedes all H-states; the Form of the Good as ⟨·,·⟩)*
 
 ---
 

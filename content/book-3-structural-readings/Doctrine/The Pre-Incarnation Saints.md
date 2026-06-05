@@ -1,7 +1,7 @@
 # The Pre-Incarnation Saints: A Structural Reading
 
 **Series:** Book 3 — Structural Readings / Doctrine  
-**Cross-references:** Paper 6½ §7 (the bestowal sequence; the seventh bestowal as a complete octave); Paper 13½ §§3–5 (the kenotic constraint; the cross-term mechanism at H₄₈ amplitude); Paper 13½ OQ3 (the Heropass and eigenvalue coherence); Paper 14 §§6–8 (the Spirit of Truth; the complete bestowal sequence and its structural effects); The Lucifer Rebellion (the elevated noise floor; the quarantine structure of H₄₈)
+**Cross-references:** Paper 6½ §7 (the bestowal sequence; the seventh bestowal as a complete octave); Paper 13½ §§3–5 (the kenotic constraint; the cross-term mechanism at H₄₈ amplitude); Paper 13½ OQ3 (the Heropass and eigenvalue coherence); Paper 20½ §§6–8 (the Spirit of Truth; the complete bestowal sequence and its structural effects); The Lucifer Rebellion (the elevated noise floor; the quarantine structure of H₄₈)
 
 ---
 
@@ -57,7 +57,7 @@ The pre-Incarnation saints had died in the faith that their alignment was not in
 
 **Condition 3: τ_nuclear H₄₈ Deployment Had Not Been Activated.**
 
-Paper 14 §6 establishes the structural dependency: the Son's words before the Passion are precise: "If I do not go away, the Comforter will not come to you." This is not a contingent arrangement. It is a structural dependency. τ_nuclear — the Spirit as topological coherence, the space in which eigenvalue organization occurs — cannot be fully deployed in H₄₈ until the Son's complete traversal of the constraint cascade has established H₄₈ as a reference point within the full Φ-H-Φ′ structure.
+Paper 20½ §6 establishes the structural dependency: the Son's words before the Passion are precise: "If I do not go away, the Comforter will not come to you." This is not a contingent arrangement. It is a structural dependency. τ_nuclear — the Spirit as topological coherence, the space in which eigenvalue organization occurs — cannot be fully deployed in H₄₈ until the Son's complete traversal of the constraint cascade has established H₄₈ as a reference point within the full Φ-H-Φ′ structure.
 
 Before Pentecost, τ_nuclear operates in H₄₈ — the Spirit moved over the waters, spoke through the prophets, gifted specific beings for specific purposes. But it is not fully deployed as the organizational space available to all beings in H₄₈ for ongoing catching and composing. The full deployment requires the Son to have returned, establishing the connection between H₄₈ and H₁ that makes τ_nuclear's H₄₈ presence structurally stable.
 

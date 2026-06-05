@@ -1,7 +1,7 @@
 # Miracles: A Structural Reading
 
 **Series:** Book 3 — Structural Readings / Doctrine  
-**Cross-references:** Paper 13½ §§3–6 (the kenotic constraint; the cross-term mechanism; amplitude at H₄₈; the kenotic period as compressed differential); Paper 3 (catching as the constitutive volitional act; the Creative Choice); Paper 14 §§6–8 (the Spirit of Truth; τ_nuclear H₄₈ deployment); The Lucifer Rebellion (the elevated noise floor; Heropass as universal dissolver); The Eucharist (Trogoautoegocrat as the catching mechanism distributed forward in time)
+**Cross-references:** Paper 13½ §§3–6 (the kenotic constraint; the cross-term mechanism; amplitude at H₄₈; the kenotic period as compressed differential); Paper 3 (catching as the constitutive volitional act; the Creative Choice); Paper 20½ §§6–8 (the Spirit of Truth; τ_nuclear H₄₈ deployment); The Lucifer Rebellion (the elevated noise floor; Heropass as universal dissolver); The Eucharist (Trogoautoegocrat as the catching mechanism distributed forward in time)
 
 ---
 

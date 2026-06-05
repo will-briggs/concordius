@@ -2,7 +2,7 @@
 
 **Text:** Matthew 13:44  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Parables  
-**Cross-references:** The Pearl of Great Price (structural pair); Paper 3 (the Creative Choice; the volitional structure of catching alignment); Paper 14 §8 (the permanent asymmetry; what Φ-proximate organizational content is worth)
+**Cross-references:** The Pearl of Great Price (structural pair); Paper 3 (the Creative Choice; the volitional structure of catching alignment); Paper 20½ §8 (the permanent asymmetry; what Φ-proximate organizational content is worth)
 
 ---
 

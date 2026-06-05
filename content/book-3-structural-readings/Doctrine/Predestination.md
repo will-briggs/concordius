@@ -1,6 +1,6 @@
 # Predestination: A Structural Reading
 
-*Cross-reference: Paper 3 (the Father's free will; the one law — the Gelfand spectral theorem); Paper 6 (the cogito coheres; consciousness as ⟨·,·⟩-contact); Paper 13½ (the synergist catching account — "the framework does not adjudicate the Calvinist/Arminian debate; it supplies structural precision for the terms"); Paper 9 (free will as the volitional degree of freedom — the genuine "otherwise"); Paper 14 §6 (grace and works); Paper 16, OQ3 (the constitutive attractor is not a guarantee of arrival); Sacred Texts — Thematic — The Measure Is the Inner Product (judgment as ⟨·,·⟩ evaluation); Structural-Candidates — Overdetermination Capture — The Geography of Hell (the three end-states; resolvability; the Adjuster as the floor); Romans 8–9; Ephesians 1.*
+*Cross-reference: Paper 3 (the Father's free will; the one law — the Gelfand spectral theorem); Paper 6 (the cogito coheres; consciousness as ⟨·,·⟩-contact); Paper 13½ (the synergist catching account — "the framework does not adjudicate the Calvinist/Arminian debate; it supplies structural precision for the terms"); Paper 9 (free will as the volitional degree of freedom — the genuine "otherwise"); Paper 20½ §6 (grace and works); Paper 16, OQ3 (the constitutive attractor is not a guarantee of arrival); Sacred Texts — Thematic — The Measure Is the Inner Product (judgment as ⟨·,·⟩ evaluation); Structural-Candidates — Overdetermination Capture — The Geography of Hell (the three end-states; resolvability; the Adjuster as the floor); Romans 8–9; Ephesians 1.*
 
 ---
 
@@ -16,7 +16,7 @@ The framework concedes the Reformed instinct more than Arminianism usually does 
 
 - **Sovereignty.** The entire structure of reality is God's constitution. The one law under which even the Absolute creates is the Gelfand nuclear spectral theorem — "the one law is what he is" (Paper 3). There is no court above the structure; it is his through and through.
 - **Determinism of the law.** The constitutive operator ⟨·,·⟩ is invariant and binding. The rules are fixed once, for all.
-- **Grace, not merit.** The measure that evaluates a soul is ⟨·,·⟩ itself — sheer given grace, not a merit tally. No one bootstraps their own standing; the very content a being catches is contact *with* the ground. The anti-boasting motive is honored at the root (Paper 13½; Paper 14 §6).
+- **Grace, not merit.** The measure that evaluates a soul is ⟨·,·⟩ itself — sheer given grace, not a merit tally. No one bootstraps their own standing; the very content a being catches is contact *with* the ground. The anti-boasting motive is honored at the root (Paper 13½; Paper 20½ §6).
 
 A Reformed reader can affirm all of this. The divergence is not over sovereignty, nor over grace. It is over a single word: *decree*.
 

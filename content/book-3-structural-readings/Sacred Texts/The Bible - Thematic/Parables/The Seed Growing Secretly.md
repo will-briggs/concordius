@@ -2,7 +2,7 @@
 
 **Text:** Mark 4:26–29  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Parables  
-**Cross-references:** The Sower (the seed as Φ-proximate content; the receiving condition); The Mustard Seed (growth trajectory); Paper 14 §6 (τ_nuclear operation as not directly observable)
+**Cross-references:** The Sower (the seed as Φ-proximate content; the receiving condition); The Mustard Seed (growth trajectory); Paper 20½ §6 (τ_nuclear operation as not directly observable)
 
 ---
 

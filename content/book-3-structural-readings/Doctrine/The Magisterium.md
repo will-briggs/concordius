@@ -1,6 +1,6 @@
 # The Magisterium
 
-*Cross-reference: Paper 14 (CCC; H₂₄-organized H₄₈ matter); Appendix II, Part VI (Law of Seven applied to H₂₄-encoded artifact creation); Paper 3½ (Man No. 5; coherence threshold); Paper 1 (GNST); Paper 6 (catching as volitional act); Structural Readings, Appendix VI (The Eucharist)*
+*Cross-reference: Paper 20½ (CCC; H₂₄-organized H₄₈ matter); Appendix II, Part VI (Law of Seven applied to H₂₄-encoded artifact creation); Paper 3½ (Man No. 5; coherence threshold); Paper 1 (GNST); Paper 6 (catching as volitional act); Structural Readings, Appendix VI (The Eucharist)*
 
 ---
 
@@ -204,4 +204,4 @@ The saints metric — sustained production of individuals organizing above the c
 
 ---
 
-*Cross-references: Paper 14 (CCC; H₂₄-organized H₄₈ matter; eigenvalue replacement); Appendix II, Part VI (Law of Seven applied to artifact creation); Paper 3½ (Man No. 5; coherence threshold; transformation above H₄₈); Paper 1 (GNST); Paper 6 (catching as volitional orientation); Structural Readings, Appendix VI (The Eucharist: Transubstantiation)*
+*Cross-references: Paper 20½ (CCC; H₂₄-organized H₄₈ matter; eigenvalue replacement); Appendix II, Part VI (Law of Seven applied to artifact creation); Paper 3½ (Man No. 5; coherence threshold; transformation above H₄₈); Paper 1 (GNST); Paper 6 (catching as volitional orientation); Structural Readings, Appendix VI (The Eucharist: Transubstantiation)*

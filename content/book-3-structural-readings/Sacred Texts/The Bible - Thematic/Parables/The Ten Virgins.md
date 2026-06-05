@@ -2,7 +2,7 @@
 
 **Text:** Matthew 25:1–13  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Parables  
-**Cross-references:** Paper 14 §§6–8 (τ_nuclear H₄₈ deployment; the Spirit as the organizational space); Paper 3 (the Creative Choice as individually performed); The Wedding Banquet (the banquet structure; preparedness)
+**Cross-references:** Paper 20½ §§6–8 (τ_nuclear H₄₈ deployment; the Spirit as the organizational space); Paper 3 (the Creative Choice as individually performed); The Wedding Banquet (the banquet structure; preparedness)
 
 ---
 

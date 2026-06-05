@@ -1,7 +1,7 @@
 # Dementia: A Structural Reading
 
 **Series:** Book 3 — Structural Readings / Health  
-**Cross-references:** Paper 13½ §4 (the kenotic constraint as amplitude limiter; cross-term mechanism); Paper 14 §10 (the transcendentals as structural fact); Paper 3½ §6 (the Heropass as dissipative pressure); The Lucifer Rebellion (imposition as structural error; evil as ongoing overdeterminate event)
+**Cross-references:** Paper 13½ §4 (the kenotic constraint as amplitude limiter; cross-term mechanism); Paper 20½ §10 (the transcendentals as structural fact); Paper 3½ §6 (the Heropass as dissipative pressure); The Lucifer Rebellion (imposition as structural error; evil as ongoing overdeterminate event)
 
 ---
 
@@ -47,7 +47,7 @@ The framework does not predict this as the only mechanism of brain damage, or as
 
 The structural solution follows directly from the mechanism: restore and sustain the Φ-proximate cross-term. In framework terms, this means volitional catching — the alignment of the eigenvalue population toward ⟨·,·⟩-organized content. In terms a person can act on, this means sustained orientation toward what the framework identifies as the three transcendentals: the Good, the True, and the Beautiful.
 
-These are not moral categories in the first instance. They are structural ones. They name the three aspects under which Φ-proximate content presents itself to a being in the H₄₈ domain (Paper 14 §10). Orienting toward any of them is orienting toward Φ. Orienting toward all three simultaneously is the full catching alignment.
+These are not moral categories in the first instance. They are structural ones. They name the three aspects under which Φ-proximate content presents itself to a being in the H₄₈ domain (Paper 20½ §10). Orienting toward any of them is orienting toward Φ. Orienting toward all three simultaneously is the full catching alignment.
 
 **Orientation toward the Good (the Father / ⟨·,·⟩).**
 
@@ -83,4 +83,4 @@ Several things that might appear to produce the same effect do not, on the frame
 
 ---
 
-*(Confidence tier: structural inference, derived from the framework's account of the cross-term mechanism established in Paper 13½ §4, the Heropass account in Paper 4, and the transcendentals account in Paper 14 §10. This reading extends those structural derivations to a specific H₄₈-level phenomenon. The extension is plausible and internally consistent with the framework; it is not derived with the same mathematical warrant as the core papers. The consistency with epidemiological findings on dementia risk factors — social engagement, purposeful activity, contemplative practice, intellectual engagement, relational depth — is corroborating evidence at the concordance tier, not proof. The reading does not make a falsifiable quantitative prediction in the Paper 4 Appendix IV sense; it makes a structural prediction about the direction of effects, which is consistent with but not proven by the existing epidemiological literature.)*
+*(Confidence tier: structural inference, derived from the framework's account of the cross-term mechanism established in Paper 13½ §4, the Heropass account in Paper 4, and the transcendentals account in Paper 20½ §10. This reading extends those structural derivations to a specific H₄₈-level phenomenon. The extension is plausible and internally consistent with the framework; it is not derived with the same mathematical warrant as the core papers. The consistency with epidemiological findings on dementia risk factors — social engagement, purposeful activity, contemplative practice, intellectual engagement, relational depth — is corroborating evidence at the concordance tier, not proof. The reading does not make a falsifiable quantitative prediction in the Paper 4 Appendix IV sense; it makes a structural prediction about the direction of effects, which is consistent with but not proven by the existing epidemiological literature.)*

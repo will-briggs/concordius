@@ -2,7 +2,7 @@
 
 **Text:** Matthew 13:45–46  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Parables  
-**Cross-references:** The Hidden Treasure (structural pair); Paper 3 (the Creative Choice; deliberate vs. accidental catching); Paper 14 §8 (the permanent asymmetry; what Φ-proximate organizational content is worth)
+**Cross-references:** The Hidden Treasure (structural pair); Paper 3 (the Creative Choice; deliberate vs. accidental catching); Paper 20½ §8 (the permanent asymmetry; what Φ-proximate organizational content is worth)
 
 ---
 

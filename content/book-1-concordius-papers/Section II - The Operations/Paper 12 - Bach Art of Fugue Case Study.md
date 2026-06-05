@@ -59,7 +59,7 @@ This structural duality — complete and open — is the musical expression of h
 
 **Scale invariance**: played at half speed (augmentation) or double speed (diminution), the subject maintains its structural coherence. The Holographic Content Principle (Paper 10½) predicts that high-τ(D) content propagates its organizational signature across all scales. The *Grundthema* is structurally legible at twice the time and half the time. Bach demonstrates this in Contrapuncti VI and VII.
 
-The *Grundthema* is high-valence in the precise sense of Paper 14: it does not close on itself, it demands combination with other voices, and its relational structure generates productive cross-terms with every legitimate contrapuntal response. It is the D-minor equivalent of carbon — maximally combinable, grade-neutral at the thematic level, capable of sustaining an entire collection's worth of structural consequence.
+The *Grundthema* is high-valence in the precise sense of Paper 20½: it does not close on itself, it demands combination with other voices, and its relational structure generates productive cross-terms with every legitimate contrapuntal response. It is the D-minor equivalent of carbon — maximally combinable, grade-neutral at the thematic level, capable of sustaining an entire collection's worth of structural consequence.
 
 ---
 
@@ -275,7 +275,7 @@ Second: the permanent Si-Do gap of *Contrapunctus XIV* introduces a structural c
 
 ---
 
-*Cross-references: Paper 9 (τ(D) defined; inexhaustibility as high-τ(D) evidence); Paper 8 (Gödel incompleteness; a system cannot complete itself from within; the system cannot prove its own consistency; the life-octave's Si-Do gap as the developmental form of the result); Paper 10½ (Holographic Content Principle; interval positions; cross-scale self-similarity; the name at the gap as holographic signature); Paper 11 (the two poems; form enacting content; the case study method); Paper 13½ (the Maximum Downward Entry; the completing element entering from outside the system); Paper 6½ (grace; the gift that crosses the gap the sequence cannot cross); Paper 14 (the cross-term mechanism; ⟨·,·⟩-symmetry; valence); Paper 4 (I-duality; Clifford algebra inversion); Structural Readings 03 (Matthew 18:20; coherent assembly and cross-terms)*
+*Cross-references: Paper 9 (τ(D) defined; inexhaustibility as high-τ(D) evidence); Paper 8 (Gödel incompleteness; a system cannot complete itself from within; the system cannot prove its own consistency; the life-octave's Si-Do gap as the developmental form of the result); Paper 10½ (Holographic Content Principle; interval positions; cross-scale self-similarity; the name at the gap as holographic signature); Paper 11 (the two poems; form enacting content; the case study method); Paper 13½ (the Maximum Downward Entry; the completing element entering from outside the system); Paper 6½ (grace; the gift that crosses the gap the sequence cannot cross); Paper 20½ (the cross-term mechanism; ⟨·,·⟩-symmetry; valence); Paper 4 (I-duality; Clifford algebra inversion); Structural Readings 03 (Matthew 18:20; coherent assembly and cross-terms)*
 
 ---
 

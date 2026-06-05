@@ -251,4 +251,4 @@ The horizontal recurrence of the separation of powers (Aristotle, Polybius, Mont
 
 ---
 
-*[[book-1-concordius-papers/section-iv---the-seven-men/index|Section IV — The Seven Men]] →*
+*[[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½ — The Constraint Compatibility Condition]] →*

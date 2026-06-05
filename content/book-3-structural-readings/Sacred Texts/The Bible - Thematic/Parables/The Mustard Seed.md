@@ -2,7 +2,7 @@
 
 **Text:** Matthew 13:31–32; Mark 4:30–32; Luke 13:18–19  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Parables  
-**Cross-references:** Paper 13½ §§4–6 (the kenotic constraint; amplitude progression; the cross-term mechanism over time); Paper 14 §§6–8 (τ_nuclear H₄₈ deployment and its progressive effects); The Leaven (structural pair: smallest beginning, largest eventual structure)
+**Cross-references:** Paper 13½ §§4–6 (the kenotic constraint; amplitude progression; the cross-term mechanism over time); Paper 20½ §§6–8 (τ_nuclear H₄₈ deployment and its progressive effects); The Leaven (structural pair: smallest beginning, largest eventual structure)
 
 ---
 

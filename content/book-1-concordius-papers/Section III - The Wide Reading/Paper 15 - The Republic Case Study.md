@@ -1,4 +1,4 @@
-*← [[Paper 14 - The Constraint Compatibility Condition|Paper 14 — The Constraint Compatibility Condition]]*
+*← [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½ — The Constraint Compatibility Condition]]*
 
 # Paper 15 — The Republic as Ascending Career: A Structural Reading
 

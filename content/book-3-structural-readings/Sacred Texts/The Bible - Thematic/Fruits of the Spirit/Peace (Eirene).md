@@ -7,7 +7,7 @@ tags: [fruits-of-the-spirit, peace, shalom, overdetermination, H₂₄-coherence
 
 **Text:** Galatians 5:22; Philippians 4:7; John 14:27; Isaiah 26:3  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Fruits of the Spirit  
-**Cross-references:** Pride Goes Before a Fall (Aphorisms); The Constraint Compatibility Condition (Paper 14)
+**Cross-references:** Pride Goes Before a Fall (Aphorisms); The Constraint Compatibility Condition (Paper 20½)
 
 ---
 

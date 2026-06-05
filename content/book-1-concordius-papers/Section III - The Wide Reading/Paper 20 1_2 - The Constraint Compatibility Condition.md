@@ -1,6 +1,6 @@
-*← [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½ — The Maximum Downward Entry]]*
+*← [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20 — All of Recorded History as Heptaparaparshinokh]]*
 
-# Paper 14 — The Constraint Compatibility Condition: Chemistry, the Ray of Creation, and the Physics of Ascent
+# Paper 20½ — The Constraint Compatibility Condition: Chemistry, the Ray of Creation, and the Physics of Ascent
 
 **Status:** Complete  
 **Cross-references:** Paper 4 (Clifford algebra [[Appendix I - Dictionary of Terms#Cl(3,0)|Cl(3,0)]]; grade-generation mapping); Paper 3½ ([[Appendix I - Dictionary of Terms#Higher Being Body|higher being bodies]]; constraint hierarchy); Paper 1 (GNST); the [[Appendix I - Dictionary of Terms#Heropass|Heropass]] in Paper 3½; Paper 10½ ([[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]]); Structural Readings 05 ([[Appendix I - Dictionary of Terms#Philosopher's Stone|Philosopher's Stone]] [[Appendix I - Dictionary of Terms#Cross-Term|cross-term]]); Physics Concordance — Core Mathematical Framework
@@ -15,7 +15,7 @@ This paper develops three connected structural results. First: the noble gases a
 
 <figure>
 <img src="/static/images/mendeleev-portrait.jpg" alt="Dmitri Mendeleev portrait" style="max-width:100%;">
-<figcaption><em>Dmitri Mendeleev</em>, Manchester, 1887. The periodic table is the most precisely organized H₄₈ taxonomic structure known. Paper 14 reads it structurally: the noble gases are the most Φ-proximate elements (J = 0 ground state; Cl(3,0) closure; minimal polarizability), and the octet rule — 2³ = 8 valence electrons for a complete shell — is the H₄₈ expression of the Clifford algebra Cl(3,0)'s dimensionality. Mendeleev organized the table by atomic weight; the framework shows why the table has the organizational structure it does.</figcaption>
+<figcaption><em>Dmitri Mendeleev</em>, Manchester, 1887. The periodic table is the most precisely organized H₄₈ taxonomic structure known. Paper 20½ reads it structurally: the noble gases are the most Φ-proximate elements (J = 0 ground state; Cl(3,0) closure; minimal polarizability), and the octet rule — 2³ = 8 valence electrons for a complete shell — is the H₄₈ expression of the Clifford algebra Cl(3,0)'s dimensionality. Mendeleev organized the table by atomic weight; the framework shows why the table has the organizational structure it does.</figcaption>
 </figure>
 
 <hr>
@@ -613,4 +613,4 @@ What remains open: whether H-origin beings undergo their own form of development
 
 ---
 
-*[[book-1-concordius-papers/section-iii---the-wide-reading/index|Section III — The Wide Reading]] →*
+*[[book-1-concordius-papers/section-iv---the-seven-men/index|Section IV — The Seven Men]] →*

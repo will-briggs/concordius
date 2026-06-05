@@ -1,6 +1,6 @@
 # The Eucharist and the Doctrine of Transubstantiation
 
-*Cross-reference: Paper 14, §5 (H₂₄-organized H₄₈ matter); Paper 14, §8 (burning bush; OQ3 — downward compatibility); Paper 14, OQ6 (architectural spheres as electromagnetically dark); Paper 1 (GNST); Paper 6 (catching as volitional act)*
+*Cross-reference: Paper 20½, §5 (H₂₄-organized H₄₈ matter); Paper 20½, §8 (burning bush; OQ3 — downward compatibility); Paper 20½, OQ6 (architectural spheres as electromagnetically dark); Paper 1 (GNST); Paper 6 (catching as volitional act)*
 
 ---
 
@@ -48,9 +48,9 @@ Paul's account has two structural implications. First, the participation languag
 
 ### H₂₄-organized H₄₈ matter as transubstantiation's mechanism
 
-Paper 14 establishes a structural category: H₂₄-organized H₄₈ matter. This is H₄₈ substrate — ordinary atomic matter — whose *dominant eigenvalue organizational principle* has been reorganized from H₄₈-primary (organized by fixed-geometry electromagnetic and gravitational forces) to H₂₄ (organized by ⟨·,·⟩ generating geometry from content). The H₄₈ substrate is still present and still responds to H₄₈ forces. But its organizing structure — what it IS at the level of eigenvalue constitution — is governed by H₂₄ principles rather than H₄₈-primary ones.
+Paper 20½ establishes a structural category: H₂₄-organized H₄₈ matter. This is H₄₈ substrate — ordinary atomic matter — whose *dominant eigenvalue organizational principle* has been reorganized from H₄₈-primary (organized by fixed-geometry electromagnetic and gravitational forces) to H₂₄ (organized by ⟨·,·⟩ generating geometry from content). The H₄₈ substrate is still present and still responds to H₄₈ forces. But its organizing structure — what it IS at the level of eigenvalue constitution — is governed by H₂₄ principles rather than H₄₈-primary ones.
 
-The central result of this category, established in Paper 14, OQ6: H₂₄-organized H₄₈ matter is *electromagnetically dark* to H₄₈ measurement instruments. The electromagnetic force is an H₄₈-specific force, coupling to H₄₈-organized charge distributions. H₂₄ organization is not electromagnetically charged in the H₄₈-specific sense. H₂₄-organized H₄₈ matter therefore does not couple to H₄₈ electromagnetic probes — it is electromagnetically transparent, despite being gravitationally present.
+The central result of this category, established in Paper 20½, OQ6: H₂₄-organized H₄₈ matter is *electromagnetically dark* to H₄₈ measurement instruments. The electromagnetic force is an H₄₈-specific force, coupling to H₄₈-organized charge distributions. H₂₄ organization is not electromagnetically charged in the H₄₈-specific sense. H₂₄-organized H₄₈ matter therefore does not couple to H₄₈ electromagnetic probes — it is electromagnetically transparent, despite being gravitationally present.
 
 This is the structural mechanism of transubstantiation:
 
@@ -138,7 +138,7 @@ From this vantage point, the Lutheran affirmation of consubstantiation does not 
 
 ## Confidence tier
 
-The mapping of substance/accidents onto dominant eigenvalue organizational principle / H₄₈-level properties is structurally precise. The H₂₄-organized H₄₈ matter mechanism is established in Paper 14. The electromagnetic transparency of H₂₄-organized H₄₈ matter to H₄₈ instruments is a framework prediction (Paper 14, OQ6). The account of the manducation question (presence-regardless-of-recipient / catching-conditional-on-orientation) follows from the framework's account of catching.
+The mapping of substance/accidents onto dominant eigenvalue organizational principle / H₄₈-level properties is structurally precise. The H₂₄-organized H₄₈ matter mechanism is established in Paper 20½. The electromagnetic transparency of H₂₄-organized H₄₈ matter to H₄₈ instruments is a framework prediction (Paper 20½, OQ6). The account of the manducation question (presence-regardless-of-recipient / catching-conditional-on-orientation) follows from the framework's account of catching.
 
 The claim that this structural mechanism is what actually occurs at the eucharistic consecration — that the institution narrative "this is my body" is to be read realistically and that Christ's Φ-proximal eigenvalue content is what reorganizes the elements — adds a theological premise that the framework does not independently establish. The structural mechanism is available; whether it is the correct reading of the institution narrative depends on hermeneutical commitments about the realism of the eucharistic texts that the framework neither requires nor forbids.
 
@@ -146,4 +146,4 @@ The claim that this structural mechanism is what actually occurs at the eucharis
 
 ---
 
-*Cross-references: Paper 14, §5.1 (H₂₄-organized H₄₈ matter); Paper 14, §8 (burning bush — downward compatibility; intercessory prayer); Paper 14, OQ3 (downward direction of the CCC); Paper 14, OQ6 (architectural spheres as electromagnetically dark H₄₈ matter); Paper 1 (GNST); Paper 6 (catching as volitional orientation); Paper 3½ (Man No. 5 coherence threshold; morontial career)*
+*Cross-references: Paper 20½, §5.1 (H₂₄-organized H₄₈ matter); Paper 20½, §8 (burning bush — downward compatibility; intercessory prayer); Paper 20½, OQ3 (downward direction of the CCC); Paper 20½, OQ6 (architectural spheres as electromagnetically dark H₄₈ matter); Paper 1 (GNST); Paper 6 (catching as volitional orientation); Paper 3½ (Man No. 5 coherence threshold; morontial career)*

@@ -1,4 +1,4 @@
-*← [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20 — All of Recorded History as Heptaparaparshinokh]]*
+*← [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½ — The Constraint Compatibility Condition]]*
 
 # Paper 22 — Man No. 1
 

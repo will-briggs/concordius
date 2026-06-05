@@ -2,7 +2,7 @@
 
 **Text:** Luke 15:8–10  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Parables  
-**Cross-references:** The Lost Sheep (Luke 15 trilogy, Part 1); The Prodigal Son (Luke 15 trilogy, Part 3); Paper 14 §6 (τ_nuclear as active searcher)
+**Cross-references:** The Lost Sheep (Luke 15 trilogy, Part 1); The Prodigal Son (Luke 15 trilogy, Part 3); Paper 20½ §6 (τ_nuclear as active searcher)
 
 ---
 

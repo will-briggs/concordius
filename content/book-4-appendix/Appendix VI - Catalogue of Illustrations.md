@@ -68,7 +68,7 @@ title: Appendix VI - Catalogue of Illustrations
 **Paper 12 - Bach Art of Fugue Case Study**
 - *Elias Gottlob Haussmann, Johann Sebastian Bach* (1748) &nbsp;·&nbsp; `bach-portrait.jpg`
 
-**Paper 14 - The Constraint Compatibility Condition**
+**Paper 20 1_2 - The Constraint Compatibility Condition**
 - *Dmitri Mendeleev* &nbsp;·&nbsp; `mendeleev-portrait.jpg`
 
 ### Section III
