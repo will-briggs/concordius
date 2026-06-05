@@ -288,5 +288,5 @@ This is the structural ground of **Feature 6** (independent convergence), and th
 
 ---
 
-*[[Paper 12 - Hopkins Case Study|Paper 12 — Hopkins Case Study]] →*
+*[[Paper 11 - Two Poems|Paper 11 — Hopkins Case Study]] →*
 

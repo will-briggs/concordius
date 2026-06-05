@@ -12,7 +12,7 @@ Not texts or artifacts but features of lived and empirical reality, read for the
 [[World and Experience/Phonology|Phonology]]
 [[World and Experience/Miracles|Miracles]]
 [[World and Experience/Auras and the Luminous Field|Auras and the Luminous Field]]
-[[World and Experience/The Body|The Body]]
+[[Paper 13 - The Last Supper and the Body|The Body]]
 [[World and Experience/Parasites|Parasites]]
 [[World and Experience/Private Dowding|Private Dowding]]
 [[World and Experience/The Secret|The Secret]] ⊘

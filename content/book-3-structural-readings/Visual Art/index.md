@@ -26,7 +26,7 @@ The readings collected here apply the Concordius framework to visual works that 
 
 **The Kenotic Period**
 
-- [[The Last Supper]] — Leonardo da Vinci, c. 1495–1498
+- [[Paper 13 - The Last Supper and the Body|The Last Supper]] — Leonardo da Vinci, c. 1495–1498
 - [[The Transfiguration]] — Fra Angelico, c. 1440–1442
 
 **The Organizational Structure of Existence**

@@ -3,7 +3,7 @@
 # Paper 16 — The Republic as Ascending Career: A Structural Reading
 
 **Status:** Complete  
-**Cross-references:** Paper 9 (τ(D) — truth as [[Appendix I - Dictionary of Terms#Φ-Proximity|Φ-proximity]]); Paper 8 (incompleteness and the [[Appendix I - Dictionary of Terms#Si-Do Interval|Si-Do]] gap); Paper 12 (Hopkins case study — Case Study 1); Paper 13½ ([[Appendix I - Dictionary of Terms#Kenosis|kenosis]] as descending movement; the returning prisoner); Paper 13 (Bach case study — Case Study 2); Paper 15 (Plato, Aristotle, and the [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]] — the philosophical resolution this case study extends)
+**Cross-references:** Paper 9 (τ(D) — truth as [[Appendix I - Dictionary of Terms#Φ-Proximity|Φ-proximity]]); Paper 8 (incompleteness and the [[Appendix I - Dictionary of Terms#Si-Do Interval|Si-Do]] gap); Paper 11 (Hopkins case study — Case Study 1); Paper 13½ ([[Appendix I - Dictionary of Terms#Kenosis|kenosis]] as descending movement; the returning prisoner); Paper 12 (Bach case study — Case Study 2); Paper 15 (Plato, Aristotle, and the [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]] — the philosophical resolution this case study extends)
 
 ---
 
@@ -221,7 +221,7 @@ Glaucon's objection to the city of pigs at 372c — "if you were founding a city
 
 ---
 
-*Cross-references: Paper 8 (Gödel and the Si-Do gap); Paper 10½ (Holographic Content Principle — Law of Three operating at all scales); Paper 12 (Hopkins case study — Case Study 1 — interval positions); Paper 13½ (kenotic descent — the philosopher's return to the cave); Paper 13 (Bach case study — Case Study 2 — self-enacting form); Paper 15 (Plato/Aristotle resolution — the Forms as eigenstates; the Form of the Good as ⟨·,·⟩; the Cave Allegory as ascending career map)*
+*Cross-references: Paper 8 (Gödel and the Si-Do gap); Paper 10½ (Holographic Content Principle — Law of Three operating at all scales); Paper 11 (Hopkins case study — Case Study 1 — interval positions); Paper 13½ (kenotic descent — the philosopher's return to the cave); Paper 12 (Bach case study — Case Study 2 — self-enacting form); Paper 15 (Plato/Aristotle resolution — the Forms as eigenstates; the Form of the Good as ⟨·,·⟩; the Cave Allegory as ascending career map)*
 
 ---
 

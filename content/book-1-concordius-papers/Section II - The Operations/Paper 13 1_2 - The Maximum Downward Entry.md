@@ -1,4 +1,4 @@
-*← [[Paper 13 - Bach Art of Fugue Case Study|Paper 13 — Bach Case Study: The Art of Fugue]]*
+*← [[Paper 13 - The Last Supper and the Body|Paper 13 — The Last Supper and the Body]]*
 
 # Paper 13½ — The Maximum Downward Entry: Kenosis, the Miracles, and the Resurrection Body
 

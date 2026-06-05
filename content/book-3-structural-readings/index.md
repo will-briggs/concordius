@@ -90,7 +90,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ### Visual Art
 
-[[Visual Art/The Creation of Adam|The Creation of Adam]] · [[Visual Art/The Last Supper|The Last Supper]] · [[Visual Art/The Transfiguration|The Transfiguration]] · [[Visual Art/The School of Athens|The School of Athens]] · [[Visual Art/Christ Pantocrator, Cefalù|Christ Pantocrator, Cefalù]] · [[Visual Art/Hildegard — Scivias|Hildegard — Scivias]] · [[Visual Art/The Ancient of Days|The Ancient of Days]] · [[Visual Art/Blake — The Great Red Dragon|Blake — The Great Red Dragon]] · [[Visual Art/Blake — Satan Smiting Job|Blake — Satan Smiting Job]] · [[Visual Art/Doré — Lucifer|Doré — Lucifer]] · [[Visual Art/Doré — The Empyrean|Doré — The Empyrean]]
+[[Visual Art/The Creation of Adam|The Creation of Adam]] · [[Paper 13 - The Last Supper and the Body|The Last Supper]] · [[Visual Art/The Transfiguration|The Transfiguration]] · [[Visual Art/The School of Athens|The School of Athens]] · [[Visual Art/Christ Pantocrator, Cefalù|Christ Pantocrator, Cefalù]] · [[Visual Art/Hildegard — Scivias|Hildegard — Scivias]] · [[Visual Art/The Ancient of Days|The Ancient of Days]] · [[Visual Art/Blake — The Great Red Dragon|Blake — The Great Red Dragon]] · [[Visual Art/Blake — Satan Smiting Job|Blake — Satan Smiting Job]] · [[Visual Art/Doré — Lucifer|Doré — Lucifer]] · [[Visual Art/Doré — The Empyrean|Doré — The Empyrean]]
 
 ### Film
 
@@ -134,7 +134,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ## World & Experience
 
-[[World and Experience/Suffering|Suffering]] · [[World and Experience/Dementia|Dementia]] · [[World and Experience/Prayer|Prayer]] · [[World and Experience/Phonology|Phonology]] · [[World and Experience/Miracles|Miracles]] · [[World and Experience/Auras and the Luminous Field|Auras and the Luminous Field]] · [[World and Experience/The Body|The Body]] · [[World and Experience/Parasites|Parasites]] · [[World and Experience/Private Dowding|Private Dowding]] · [[World and Experience/The Secret|The Secret]] ⊘ · [[World and Experience/Astrology|Astrology]] · [[World and Experience/Holy Rollers|Holy Rollers]] · [[World and Experience/Diana and the Distrust of the Moon|Diana and the Distrust of the Moon]] · [[World and Experience/Influencers|Influencers]]
+[[World and Experience/Suffering|Suffering]] · [[World and Experience/Dementia|Dementia]] · [[World and Experience/Prayer|Prayer]] · [[World and Experience/Phonology|Phonology]] · [[World and Experience/Miracles|Miracles]] · [[World and Experience/Auras and the Luminous Field|Auras and the Luminous Field]] · [[Paper 13 - The Last Supper and the Body|The Body]] · [[World and Experience/Parasites|Parasites]] · [[World and Experience/Private Dowding|Private Dowding]] · [[World and Experience/The Secret|The Secret]] ⊘ · [[World and Experience/Astrology|Astrology]] · [[World and Experience/Holy Rollers|Holy Rollers]] · [[World and Experience/Diana and the Distrust of the Moon|Diana and the Distrust of the Moon]] · [[World and Experience/Influencers|Influencers]]
 
 ---
 

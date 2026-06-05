@@ -62,10 +62,10 @@ title: Appendix VI - Catalogue of Illustrations
 **Paper 10 1_2 - The Holographic Content Principle**
 - *North Rose Window* &nbsp;·&nbsp; `chartres-rose-window.jpg`
 
-**Paper 12 - Hopkins Case Study**
+**Paper 11 - Two Poems**
 - *Gerard Manley Hopkins* &nbsp;·&nbsp; `gerard-manley-hopkins.jpg`
 
-**Paper 13 - Bach Art of Fugue Case Study**
+**Paper 12 - Bach Art of Fugue Case Study**
 - *Elias Gottlob Haussmann, Johann Sebastian Bach* (1748) &nbsp;·&nbsp; `bach-portrait.jpg`
 
 **Paper 14 - The Constraint Compatibility Condition**
