@@ -49,7 +49,7 @@ This is not a flaw to be repaired. It is where an argument of this kind has to e
 
 So the section closes as it opened — with a single assumption, neither proven nor abandoned, only better understood for everything that follows from it. We know a great deal, if it is true. Whether it is true is the one thing we do not, and from here cannot, know.
 
-What can be done with a structure like this, once it is granted — and what happens when the same honest limit is met from the inside — is the work of the sections that follow.
+What can be done with a structure like this, once it is granted — and what happens when the same limit is met from the inside — is the work of the sections that follow.
 
 ---
 
