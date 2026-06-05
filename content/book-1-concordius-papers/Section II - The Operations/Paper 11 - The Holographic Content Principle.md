@@ -360,6 +360,8 @@ This method of reading is an independent τ(D) assessment: it reads the fidelity
 
 This explains the tradition's consistent testimony that the greatest works are received rather than constructed — that the composer heard it, the mathematician saw it, the poet was given it. The receiving is the Mi-Fa shock: the genuine input from outside the system that allows the work to continue past where H₄₈ procedure alone would stall. The completion is the Si-Do act: the commitment to close, to stop, to call it done — the volitional decision that no algorithm makes.
 
+But reading is never of the source alone. Every document reaches its reader through a messenger who caught and re-encoded it, and the structural reading is therefore incomplete until it accounts for the messenger's signature as well as the source's imprint. This is the Messenger Corollary, developed next (§10): the reading is, implicitly, a deconvolution.
+
 ---
 
 ## 10. The Messenger Corollary: The Signature of the Channel

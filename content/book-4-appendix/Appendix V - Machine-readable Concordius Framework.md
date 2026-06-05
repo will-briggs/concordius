@@ -236,6 +236,16 @@ and name where it appears in the passage.]
 
 **What it is:** Does this passage identify a structural feature of the Concordius framework's account of reality? If so, which feature, how precisely, and at what confidence tier?
 
+### The Messenger Filter (Messenger Corollary)
+
+Every reading is implicitly a deconvolution. A transmitted text is **T = M(S)** — source-content S filtered by the messenger's signature M (Paper 11 §10; §III). Standing method rule for every reading:
+
+1. High D(t)/τ(D) does **not** certify source-fidelity — Φ-proximate ≠ Gospel; do not promote one colored witness to the source.
+2. Name the messenger's evident band-bias and factor it out — do not surrender to it, do not dismiss the text for it.
+3. Recover S only across **independent** witnesses, where uncorrelated filters cancel (Feature 6).
+
+M is **not yet quantifiable** (Paper 11 OQ5): account for the messenger filter qualitatively, as a named caveat in the confidence note, not as a measurement. Applies to this corpus too (it is itself a transmission carrying its own M).
+
 ---
 
 *This file is Appendix V of Book 4. For full derivations, see the Concordius Papers (Book 1). For the technical vocabulary in full, see Appendix I — Dictionary of Terms. For the reading method in full, see the Framework and Method section of Book 3 — Structural Readings.*
