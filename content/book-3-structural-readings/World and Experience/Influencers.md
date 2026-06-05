@@ -3,7 +3,7 @@
 **Subject:** Influence as such — the celestial orbs of astrology, the "stars" of fame, the social-media "influencer" — read for what influence technically *is*, and for the one thing it is never: power
 **Medium:** Cultural phenomenon, lived experience, and the language itself
 **Series:** Book 3 — Structural Readings / World and Experience
-**Cross-references:** *Overdetermination Capture — The Geography of Hell* §6½–§6¾ (band-modulation; field vs. driver) [Structural Candidates]; Paper 3 (the one constitutive act); Paper 6 §§7–13 (the celestial sifting bodies); the *Predestination* reading (free will; no decisions at run-time); the *First Commandment* reading (no other constitutive ground); Paper 8 §3 (the Thought Adjuster's non-overdetermining indwelling); Paper 7½ (the kenoses); [[World and Experience/Astrology|Astrology]] ⊘ (the boundary — influence mistaken for force); Reasonablenessism Feature 6
+**Cross-references:** *Overdetermination Capture — The Geography of Hell* §6½–§6¾ (band-modulation; field vs. driver) [Structural Candidates]; Paper 3 (the one constitutive act); Paper 6 §§7–13 (the celestial sifting bodies); the *Predestination* reading (free will; no decisions at run-time); the *First Commandment* reading (no other constitutive ground); Paper 8 §3 (the Thought Adjuster's non-overdetermining indwelling); Paper 7½ (the kenoses); [[World and Experience/Astrology|Astrology]] (the boundary — influence mistaken for force); Reasonablenessism Feature 6
 
 ---
 
