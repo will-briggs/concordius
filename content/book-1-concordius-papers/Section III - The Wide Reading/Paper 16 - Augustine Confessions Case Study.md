@@ -1,6 +1,6 @@
-*← [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½ — Plato, Aristotle, and the Gelfand Triple]]*
+*← [[Paper 15 - The Republic Case Study|Paper 15 — The Republic: Case Study]]*
 
-# Paper 18 — The Ascending Career as Autobiography: A Structural Reading of Augustine's *Confessions*
+# Paper 16 — The Ascending Career as Autobiography: A Structural Reading of Augustine's *Confessions*
 
 **Status:** Complete  
 **Cross-references:** Paper 3 (eigenvalue attraction — all things tend toward their Φ-proximate attractor); Paper 10½ ([[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]] — theoretical basis for case studies); Paper 11 (Hopkins — Case Study 1; [[Appendix I - Dictionary of Terms#Noise Floor|noise floor]] reduction enacted in form); Paper 13½ (kenotic descent; the downward movement); Paper 12 (Bach — Case Study 2; self-enacting form); Paper 17½ (active intellect as [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]]; virtue as stable [[Appendix I - Dictionary of Terms#H₂₄|H₂₄]] eigenvalue orientation); Paper 15 (Republic — Case Study 3; [[Appendix I - Dictionary of Terms#Si-Do Interval|Si-Do]] gap and the reaching-outside); Paper 17 (NE — Case Study 4; [[Appendix I - Dictionary of Terms#Theoria|theoria]] too divine for man; akrasia as eigenvalue instability)
@@ -287,4 +287,4 @@ The *City of God* extends the ascending career analysis across historical time: 
 
 ---
 
-*[[Paper 19 - Reasonablenessism Structural Reading|Paper 19 — Reasonablenessism: Structural Reading]] →*
+*[[Paper 17 - The Nicomachean Ethics Case Study|Paper 17 — The Nicomachean Ethics: Case Study]] →*

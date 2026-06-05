@@ -1,4 +1,4 @@
-*← [[Paper 15 - The Republic Case Study|Paper 15 — The Republic: Case Study]]*
+*← [[Paper 16 - Augustine Confessions Case Study|Paper 16 — Augustine's Confessions: Case Study]]*
 
 # Paper 17 — The Nicomachean Ethics as Ascending Career: A Structural Reading
 

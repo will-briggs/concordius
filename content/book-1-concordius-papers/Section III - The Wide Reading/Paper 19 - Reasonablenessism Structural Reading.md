@@ -1,4 +1,4 @@
-*← [[Paper 18 - Augustine Confessions Case Study|Paper 18 — Augustine's Confessions: Case Study]]*
+*← [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½ — Plato, Aristotle, and the Gelfand Triple]]*
 
 # Paper 19 — The Method Reading Itself: A Structural Reading of Reasonablenessism
 
@@ -61,7 +61,7 @@ The two Manifestos are not two documents arguing different positions. They are t
 
 | Force | Identification | Function in epistemological inquiry |
 |---|---|---|
-| Active | The reality being inquired about — the truth available to be caught; the Φ-level content that genuine inquiry reaches toward; "the questions are real" | The constitutive pull of the inquiry; what the method aims at; the [[Appendix I - Dictionary of Terms#Active Force|Active force]] is present in every inquiry precisely as the dissatisfaction with insufficient answers — the restlessness (Paper 18) that no H₄₈-primary substitute for truth can resolve |
+| Active | The reality being inquired about — the truth available to be caught; the Φ-level content that genuine inquiry reaches toward; "the questions are real" | The constitutive pull of the inquiry; what the method aims at; the [[Appendix I - Dictionary of Terms#Active Force|Active force]] is present in every inquiry precisely as the dissatisfaction with insufficient answers — the restlessness (Paper 16) that no H₄₈-primary substitute for truth can resolve |
 | Passive | The human evaluating mind — with its institutional allegiances, credulous tendencies, ego investment, comfort-seeking, H₄₈-primary noise floor, and the social pressure to reach conclusions that cost nothing to hold | The resistant material of epistemology; the mind as it actually operates before the method disciplines it; the endoxa of the epistemic life — the things that seem true by default, by upbringing, by professional formation, by social cost minimization |
 | Reconciling | Reasonablenessism — the 12-feature method that mediates between what is real and available and what the human evaluating mind can receive and honestly assess | The synthesis that neither the Active force (reality) nor the Passive force (the undisciplined mind) could produce alone; each feature is one structural element of the Reconciling operation; together they constitute the epistemic method that makes contact with reality possible for a biased, finite, credulous, fear-driven, honest human mind |
 
@@ -277,7 +277,7 @@ That is Reasonablenessism. It is how the material is approached. It is how a lif
 
 ---
 
-*Cross-references: Paper 8 (Gödel — every sufficiently rich formal system contains truths it cannot prove; the Si-Do gap of every epistemological system, including this one); Paper 17½ (Φ ⊂ H as the Method/Model relation; Third Man dissolution applied to the method-as-not-one-more-claim); Paper 17 (the Reasonable Person as phronesis — recognitional, not definitional; Aristotle's practical wisdom and the Φ-proximate attractor); Paper 18 (Feature 8 correction as the ascending career at the epistemological scale; the Adjuster's retrospective signature and Feature 4 as its epistemic analog); Paper 20 (the Trogoautoegocrat and the structural collapse of false signals — the Initiated Manifesto's account of pragmatism's failure)*
+*Cross-references: Paper 8 (Gödel — every sufficiently rich formal system contains truths it cannot prove; the Si-Do gap of every epistemological system, including this one); Paper 17½ (Φ ⊂ H as the Method/Model relation; Third Man dissolution applied to the method-as-not-one-more-claim); Paper 17 (the Reasonable Person as phronesis — recognitional, not definitional; Aristotle's practical wisdom and the Φ-proximate attractor); Paper 16 (Feature 8 correction as the ascending career at the epistemological scale; the Adjuster's retrospective signature and Feature 4 as its epistemic analog); Paper 20 (the Trogoautoegocrat and the structural collapse of false signals — the Initiated Manifesto's account of pragmatism's failure)*
 
 ---
 

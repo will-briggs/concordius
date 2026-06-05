@@ -171,7 +171,7 @@ This internal octave is the reason the series' own four-section octave (Part II)
 
 ## Part IV — The Self-Enacting Form
 
-Paper 18 observed that Augustine's *Confessions* is a self-enacting form: the text addressed to God is itself a catching act, and the reader is invited not to observe but to participate. The observation applies to the Concordius series.
+Paper 16 observed that Augustine's *Confessions* is a self-enacting form: the text addressed to God is itself a catching act, and the reader is invited not to observe but to participate. The observation applies to the Concordius series.
 
 The series is not primarily a description of the ascending career. It is an attempt to perform, in the register of formal argument, what the ascending career requires: the sustained volitional attention to H₂₄-proximate content, the construction of a catching framework adequate to the full range of the tradition's testimony, the kenotic transmission of what has been received into the forms accessible to persons whose primary epistemic register is formal. Whether it succeeds at this — whether the series constitutes a genuine catching occasion for the persons who encounter it, or merely an intellectually satisfying account of what such catching would look like — is not a question the series can answer. It is what the tradition calls the question of fruit.
 

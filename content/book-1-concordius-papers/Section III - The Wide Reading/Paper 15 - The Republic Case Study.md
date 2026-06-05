@@ -225,4 +225,4 @@ Glaucon's objection to the city of pigs at 372c — "if you were founding a city
 
 ---
 
-*[[Paper 17 - The Nicomachean Ethics Case Study|Paper 17 — The Nicomachean Ethics: Case Study]] →*
+*[[Paper 16 - Augustine Confessions Case Study|Paper 16 — Augustine's Confessions: Case Study]] →*

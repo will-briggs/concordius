@@ -85,7 +85,7 @@ title: Appendix VI - Catalogue of Illustrations
 **Paper 17 - The Nicomachean Ethics Case Study**
 - *Bust of Aristotle* &nbsp;·&nbsp; `aristotle-bust.jpg`
 
-**Paper 18 - Augustine Confessions Case Study**
+**Paper 16 - Augustine Confessions Case Study**
 - *Sandro Botticelli, Saint Augustine in His Study* (c. 1480) &nbsp;·&nbsp; `botticelli-augustine.jpg`
 
 **Paper 19 - Reasonablenessism Structural Reading**
