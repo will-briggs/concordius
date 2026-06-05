@@ -181,8 +181,8 @@ When the abstract H-structure commits to its first concrete instantiation, five 
 | Inevitability | Mathematical identity | Name |
 |---|---|---|
 | The three-fold relational structure of ⟨·,·⟩ | The Father (initiating pole), the Logos (responding pole), the Holy Spirit (relational product — the scalar) | The Trinity |
-| The self-inner-product ⟨ψ,ψ⟩^½ = ‖ψ‖ | The norm — the absolute center of measurement | The Isle of Paradise |
-| The nuclear topology Φ itself | The most organized instantiation; the pattern from which all subsequent levels are derived | Havona |
+| The self-inner-product ⟨ψ,ψ⟩^½ = ‖ψ‖ | The norm — the absolute center of measurement | Paradise |
+| The nuclear topology Φ itself | The most organized instantiation; the pattern from which all subsequent levels are derived | Heaven |
 
 Together these five constitute **H₁ = Φ** — the first and most refined concrete instantiation of H, the level at which ⟨·,·⟩ is the only organizational structure. At H₁, no independently-prior geometric constraint exists. Pure relational organization: the inner product is everything.
 
@@ -190,7 +190,7 @@ The constraint hierarchy descends from H₁ through progressively denser levels,
 
 | Level | Cosmological scale | Structural character |
 |---|---|---|
-| **H₁** (Havona) | Central universe / Paradise | ⟨·,·⟩ sole organizational structure; five inevitabilities instantiated |
+| **H₁** (Heaven) | Central universe / Paradise | ⟨·,·⟩ sole organizational structure; five inevitabilities instantiated |
 | **H₃** | All worlds | — |
 | **H₆** | All suns | — |
 | **H₁₂** | Our sun | Geometry subordinated to ⟨·,·⟩; forces beyond general relativity operative |
@@ -218,7 +218,7 @@ The subscript number is the constraint count: the number of independently-operat
 
 **The Constraint Compatibility Condition (CCC)** — Higher-constraint eigenvalues introduced into a lower-constraint environment generate an overdetermined geometric condition (two incompatible law-sets governing the same region). The ascending career is the progressive resolution of this condition: eigenvalue replacement at each level until the being's dominant eigenvalue content is organized by the principles governing the destination level. The CCC is recursive through the full constraint cascade.
 
-**The face-to-face condition** — The H₁ (Havona) state in which no fixed-geometry intermediary stands between the catching being's organizing principle and the Φ-level source. The CCC resolved at H₁ is not merely the absence of destructive overdetermination but the positive condition for direct relational perception: ⟨·,·⟩ is not opaque to itself. "Now through a glass darkly; then face to face" (1 Cor 13:12) — the glass is the constraint-layer mediation; its progressive dissolution is the ascending career; its absence is H₁.
+**The face-to-face condition** — The H₁ (Heaven) state in which no fixed-geometry intermediary stands between the catching being's organizing principle and the Φ-level source. The CCC resolved at H₁ is not merely the absence of destructive overdetermination but the positive condition for direct relational perception: ⟨·,·⟩ is not opaque to itself. "Now through a glass darkly; then face to face" (1 Cor 13:12) — the glass is the constraint-layer mediation; its progressive dissolution is the ascending career; its absence is H₁.
 
 ---
 

@@ -37,7 +37,7 @@ Agape  =  ⟨·,·⟩ expressed laterally at H₄₈: the relational orientation
 
 | Level | Subscript | Identity | Structural character |
 |---|---|---|---|
-| H₁ | 1 | Havona / central universe | ⟨·,·⟩ sole organizational structure; five inevitabilities instantiated; face-to-face condition |
+| H₁ | 1 | Heaven / central universe | ⟨·,·⟩ sole organizational structure; five inevitabilities instantiated; face-to-face condition |
 | H₃ | 3 | Superuniverse | — |
 | H₆ | 6 | Local universe (Nebadon) | Administrative level of Creator Sons before bestowal completion |
 | H₁₂ | 12 | Local system / suns | Geometry subordinated to ⟨·,·⟩; forces beyond GR operative |

@@ -85,7 +85,7 @@ The Incarnation (Paper 13) is structurally distinct from both: neither the H-ori
 
 Also called *negative theology* or the *via negativa*. The approach to describing God by stating what God is not, rather than what God is, on the grounds that no positive predication adequately captures what exceeds all finite categories. Pseudo-Dionysius the Areopagite is its most systematic exponent in the Western tradition; it is also central to the Eastern Christian hesychast tradition and has parallels in Islamic, Jewish, and Hindu mysticism.
 
-The Concordius series relates apophatic theology to the mathematical structure of the dual space Φ': what cannot be finitely represented within the nuclear space Φ is precisely what apophatic theology is gesturing toward. The series' structural account does not eliminate apophatic theology — it explains why apophatic theology is structurally necessary given the Gelfand triple's constitution. The Unqualified Absolute (Φ') contains what Φ cannot finitely express; the via negativa is the honest epistemological response to this containment.
+The Concordius series relates apophatic theology to the mathematical structure of the dual space Φ': what cannot be finitely represented within the nuclear space Φ is precisely what apophatic theology is gesturing toward. The series' structural account does not eliminate apophatic theology — it explains why apophatic theology is structurally necessary given the Gelfand triple's constitution. El Shaddai (Φ') contains what Φ cannot finitely express; the via negativa is the honest epistemological response to this containment.
 
 > *For further investigation: Pseudo-Dionysius the Areopagite, The Mystical Theology (c. 500 CE); Vladimir Lossky, The Mystical Theology of the Eastern Church (1944).*
 
@@ -95,7 +95,7 @@ The Concordius series relates apophatic theology to the mathematical structure o
 
 *(tradition: Urantia Book — series extension)*
 
-The *Urantia Book*'s term for the post-mortem journey of the surviving soul through progressively higher domains of reality, moving from the material world through the morontia worlds toward eventual union with God on the Isle of Paradise. The Urantia Book describes this as a vast educational journey across multiple levels of existence, spanning what it terms the "grand universe."
+The *Urantia Book*'s term for the post-mortem journey of the surviving soul through progressively higher domains of reality, moving from the material world through the morontia worlds toward eventual union with God on Paradise. The Urantia Book describes this as a vast educational journey across multiple levels of existence, spanning what it terms the "grand universe."
 
 The Concordius series uses the term more broadly to mean the full arc of development available to a person — both within H₄₈ (physical) existence and beyond it. Within H₄₈ existence, the ascending career corresponds to the sequence from Man 1 through Man 7. Beyond H₄₈ dissolution, the career continues in the morontia career (H₂₄-organized H₄₈ matter — physical reconstitution in the same spacetime, not migration to a separate domain), accessible to those whose H₂₄ organizational pattern exceeds the coherence threshold at death. The series treats the ascending career as structurally real — derivable from the Gelfand triple's constitution — rather than as a doctrinal claim requiring prior commitment to the *Urantia Book*.
 
@@ -127,7 +127,7 @@ The Concordius series maps the Axial Age onto the Mi stage of the historical Hep
 
 The direct, unmediated apprehension of God — the final state of the blessed in heaven, in which the veil between finite and infinite is lifted and the soul perceives God as God is, not through the mediation of concepts or images. Aquinas treats it as the intellect's participation in God's own self-knowledge, made possible by the *lumen gloriae* (light of glory) that elevates the finite intellect beyond its natural capacity.
 
-In the Concordius structural account, the Beatific Vision corresponds to the terminal fusion event of the ascending career — not Man 7's achievement within H₄₈ (which is the nearest H₄₈ approach) but the Isle of Paradise union that the *Urantia Book* describes as the career's completion. The series treats the Beatific Vision and the Isle of Paradise fusion as descriptions of the same structural event in different vocabularies: the finite state's complete resolution into the inner product ⟨·,·⟩ that constituted it.
+In the Concordius structural account, the Beatific Vision corresponds to the terminal fusion event of the ascending career — not Man 7's achievement within H₄₈ (which is the nearest H₄₈ approach) but Paradise union that the *Urantia Book* describes as the career's completion. The series treats the Beatific Vision and Paradise fusion as descriptions of the same structural event in different vocabularies: the finite state's complete resolution into the inner product ⟨·,·⟩ that constituted it.
 
 > *For further investigation: Thomas Aquinas, Summa Theologiae I-II, q. 3, a. 8; Ia, q. 12; Bernard Lonergan, The Triune God: Systematics (2007).*
 
@@ -161,7 +161,7 @@ A sequence of elements {ψₙ} in a metric space such that the elements become a
 
 The significance for the Gelfand triple is that a Hilbert space H is by definition *complete*: every Cauchy sequence in H converges to an element that is already in H. Completeness is what distinguishes H from merely pre-Hilbert inner product spaces — it guarantees that no limit is "missing," that the space closes on itself under the taking of limits. The Cauchy sequence criterion is the standard way of making completeness precise in a metric or normed space, and it is the property that ensures H is a stable, well-behaved analytical domain rather than one with gaps at its limit points.
 
-In the context of the series' mapping, completeness — the guarantee that all Cauchy sequences converge within H — corresponds to the Deity Absolute's role as the domain of all stable, fully determinate states: nothing that genuinely converges toward H-membership falls outside H. The nuclear space Φ satisfies a stronger condition: not only do Cauchy sequences converge, but the projective limit of all Sobolev norms simultaneously converges, making Φ the domain of maximum regularity within H.
+In the context of the series' mapping, completeness — the guarantee that all Cauchy sequences converge within H — corresponds to the Creation's role as the domain of all stable, fully determinate states: nothing that genuinely converges toward H-membership falls outside H. The nuclear space Φ satisfies a stronger condition: not only do Cauchy sequences converge, but the projective limit of all Sobolev norms simultaneously converges, making Φ the domain of maximum regularity within H.
 
 > *For further investigation: Walter Rudin, Principles of Mathematical Analysis (1976), chapter 3; Reed and Simon, Methods of Modern Mathematical Physics, Vol. I (1972).*
 
@@ -323,27 +323,29 @@ The prescription for both dark nights is the same: do not modify practice; do no
 
 ---
 
-### Deity Absolute
+### Creation
 
-*(tradition: Urantia cosmology — series mapping)*
+*(tradition: series — formal term)*
 
-The Urantia Book's term for the domain of all actualized, structured, God-knowable reality — the totality of what the Father can know within the domain of finite states. In the Concordius series, the Deity Absolute is identified with the Hilbert space H in the Gelfand triple.
+**Creation** = the Hilbert space H: the domain of all actualized, structured, God-knowable finite reality — the totality of finite beings and states, each with a well-defined norm and inner product.
 
-**The structural identification.** H is a complete inner product space: every finite being, every stable and unique state in the model is an H-state vector. The Father — ⟨·,·⟩, the inner product — fully measures every element of H. The Deity Absolute is H precisely because it is the domain in which every state is, in principle, fully knowable by the inner product. Nothing that genuinely converges toward H-membership falls outside it: completeness (all Cauchy sequences converge within H) is the mathematical expression of the Deity Absolute's role as the domain of all stable, fully determinate states.
+**The structural identification.** H is a complete inner product space: every finite being, every stable and unique state in the model is an H-state vector. The Father — ⟨·,·⟩, the inner product — fully measures every element of H. Creation is H precisely because it is the domain in which every state is, in principle, fully knowable by the inner product. Nothing that genuinely converges toward H-membership falls outside it: completeness (all Cauchy sequences converge within H) is the mathematical expression of Creation's role as the domain of all stable, fully determinate states.
 
-**Distinguished from the Father.** The Deity Absolute is not the Father. The Father is ⟨·,·⟩ — the inner product relation, the constitutive act of recognition and measurement. The Deity Absolute is what the Father fully measures: the domain of states available to the inner product's complete kenning. The Father is the relation; the Deity Absolute is the relational domain. This is the same distinction as between a measuring act and the space in which what is measured exists.
+**Distinguished from the Father.** Creation is not the Father. The Father is ⟨·,·⟩ — the inner product relation, the constitutive act of recognition and measurement. Creation is what the Father fully measures: the domain of states available to the inner product's complete kenning. The Father is the relation; Creation is the relational domain. This is the same distinction as between a measuring act and the space in which what is measured exists.
 
-**The three Absolutes.** The Deity Absolute is one of three Absolutes in Urantia cosmology, each mapped by the series to a component of the Gelfand triple (Paper 2 §8):
+**The triad.** Creation is one of three formal components of the Gelfand triple (Paper 2 §8):
 
-- *Deity Absolute* = H: the domain of structured, actualized, fully knowable states
-- *[[Unqualified Absolute]]* = Φ′: the domain of unstructured distributional potential — everything that could become an H-state, extended to its maximum, not yet actualized
-- *Universal Absolute* = the spectral coordinative mechanism: the active relation between the Deity Absolute and the Unqualified Absolute that makes each coherent in relation to the other
+- *Creation* = H: the domain of structured, actualized, fully knowable states
+- *[[El Shaddai]]* = Φ′: the domain of unstructured distributional potential — everything that could become an H-state, extended to its maximum, not yet actualized
+- *[[Elohim]]* = the spectral coordinative mechanism: the active relation between Creation and El Shaddai that makes each coherent in relation to the other
 
-The three Absolutes are not three separate divine beings. They are the Father viewed from three angles — the same ⟨·,·⟩ considered as: the structured domain it fully measures, the infinite potential it draws from, and the coordinative structure by which the two are held in relation.
+These are not three separate divine beings. They are the Father viewed from three angles — the same ⟨·,·⟩ considered as: the structured domain it fully measures, the infinite potential it draws from, and the coordinative structure by which the two are held in relation.
 
-**The Deity Absolute and the completed Absolute.** Paper 3 and the structural readings of Revelation identify an eschatological equivalence: the completed Absolute — all experiential deity fully actualized through the ascending career at every constraint level — is structurally equivalent to the Deity Absolute as eternal ground. H, fully expressed through time, is what H always already was. This is the structural basis for the Alpha-Omega identification: the Beginning (H as eternal potential) and the End (H fully expressed through the experiential process) are the same structure, with the universe constituting what happened between them.
+**Creation and the completed ground.** Paper 3 and the structural readings of Revelation identify an eschatological equivalence: all experiential reality fully actualized through the ascending career at every constraint level is structurally equivalent to Creation as eternal ground. H, fully expressed through time, is what H always already was. This is the structural basis for the Alpha-Omega identification: the Beginning (H as eternal potential) and the End (H fully expressed through the experiential process) are the same structure, with the universe constituting what happened between them.
 
-See also *Hilbert Space*, *Unqualified Absolute*, *Universal Absolute*, *Father*, *Gelfand Triple*.
+See also *Hilbert Space*, *El Shaddai*, *Elohim*, *Father*, *Gelfand Triple*.
+
+*Urantia concordance: "the Deity Absolute" — demoted to concordance; developed in Section II.*
 
 *Appears in: [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 3 - The Spirit Integrates|Paper 3]], [[Paper 6 1_2 - Love's Descent|Paper 6½]]*
 
@@ -385,7 +387,7 @@ In functional analysis, the dual of a topological vector space is the space of a
 
 The intuitive picture: Φ' is the space of everything that can be defined by what it does to elements of Φ, even if it cannot be directly represented as one of them. The Dirac delta function is a classical example: it cannot be defined as an ordinary function, but it can be defined by its action on test functions (it returns the function's value at the origin). The dual space contains what the nuclear space cannot directly represent but can be "addressed" through the nuclear space.
 
-In the Concordius mapping, Φ' is identified with the Unqualified Absolute — the domain that contains what the Logos (Φ) cannot finitely express, what apophatic theology gestures toward, what exceeds all positive predication. See *Gelfand Triple* and *Unqualified Absolute*.
+In the Concordius mapping, Φ' is identified with El Shaddai — the domain that contains what the Logos (Φ) cannot finitely express, what apophatic theology gestures toward, what exceeds all positive predication. See *Gelfand Triple* and *El Shaddai*.
 
 > *For further investigation: Israel Gelfand and Naum Vilenkin, Generalized Functions, Volume 4 (1964) for the mathematical treatment; the series itself (Papers 1, 9-10) for the philosophical mapping.*
 
@@ -408,6 +410,18 @@ The Concordius series uses eigenvalues and eigenstates to characterize the conte
 > *For further investigation: Paul Dirac, The Principles of Quantum Mechanics (1930) for the physicist's formulation; Roger Penrose, The Road to Reality (2004), chapters 21-22, for an accessible mathematical treatment.*
 
 *Appears in: [[Paper 1 - Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 3 - The Spirit Integrates|Paper 3]], [[Paper 3 1_2 - The Constraint Cascade|Paper 3½]], [[Paper 4 - The Son Articulates|Paper 4]], [[Paper 6 - The Cogito Coheres|Paper 6]], [[Paper 6 1_2 - Love's Descent|Paper 6½]], [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 9 - Incompleteness Derived|Paper 9]], [[Paper 10 - The Truth Measure|Paper 10]], [[Paper 11 - The Holographic Content Principle|Paper 11]], [[Paper 12 - Hopkins Case Study|Paper 12]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 16 - The Republic Case Study|Paper 16]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Augustine Confessions Case Study|Paper 18]], [[Paper 19 - Reasonablenessism Structural Reading|Paper 19]], [[Paper 20 - The Family as Spectral Structure|Paper 20]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 23 - Man No. 2|Paper 23]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 27 - Man No. 6|Paper 27]], [[Postscript|Postscript]]*
+
+---
+
+### Elohim
+
+*(tradition: series — formal term)*
+
+**Elohim** = the spectral coordinative mechanism dμ: the coordination that makes [[Creation]] (H-states) and [[El Shaddai]] (Φ′ potential) commensurable — God in the active, creative mode (the Trinity engaging the Creative Choice), the relation holding actuality and potential in correspondence, through which the Father's constitutive relation operates.
+
+The spectral measure dμ is what lets the structured states of H and the unstructured potential of Φ′ be referred to one another: it is the coordinative structure by which every actuality is matched to its source in potential and every potential to its possible actualization. Elohim names God under this active aspect — not the domain of finite reality (Creation) nor the reservoir of potential (El Shaddai), but the creative act that holds the two in correspondence. This is the mode in which the Trinity engages the Creative Choice: the Father's constitutive relation ⟨·,·⟩ operates *through* dμ, which is why Elohim is God taken precisely as creating rather than as the created domain or the potential drawn upon.
+
+*Urantia concordance: "the Universal Absolute" — demoted to concordance; developed in Section II.*
 
 ---
 
@@ -595,7 +609,7 @@ The nuclear space Φ consists of the "well-behaved" elements — smooth, rapidly
 
 The Generalized Nuclear Spectral Theorem (GNST) — the central mathematical result that the Gelfand triple makes possible — states that every self-adjoint operator on H has a complete set of generalized eigenvectors in Φ', with the spectral expansion ψ = ∫ ⟨eλ, ψ⟩ eλ dμ(λ) holding in the Gelfand triple's sense. The GNST has two inseparable senses, both introduced formally in [[Paper 1 - Modeling Reality as a Gelfand Triple|Paper 1]]: the *theorem* (Paper 1 §3.3) and the *continuous actualization engine* (Paper 1 §6) — the standing operation by which every state, at every level, is reconstituted at every moment. The Heropass is the GNST's dissipative aging effect below the Mi-Fa crossing, distinguished from the GNST itself in Paper 3½ §6.
 
-The Concordius series' foundational claim (Paper 1) is that reality has the structure of a Gelfand triple: Father = ⟨·,·⟩ (inner product), Son-Logos = Φ (nuclear space), finite beings = H (Hilbert space vectors), Unqualified Absolute = Φ' (dual space). This is the series' primary identification, from which all other structural claims are derived.
+The Concordius series' foundational claim (Paper 1) is that reality has the structure of a Gelfand triple: Father = ⟨·,·⟩ (inner product), Son-Logos = Φ (nuclear space), finite beings = H (Hilbert space vectors), El Shaddai = Φ' (dual space). This is the series' primary identification, from which all other structural claims are derived.
 
 > *For further investigation: Israel Gelfand and Naum Vilenkin, Generalized Functions, Volume 4: Applications of Harmonic Analysis (1964); Arno Böhm and M. Gadella, Dirac Kets, Gamow Vectors and Gel'fand Triplets (1989) for the physics application.*
 
@@ -644,6 +658,18 @@ The series' notation for the physical-constraint domain — the domain of ordina
 H₄₈ is the domain within which human beings in their ordinary condition operate. The physical body, ordinary consciousness, ordinary emotional and intellectual life — all are H₄₈ processes. The Heropass — the aging effect — operates at H₂₄ and below, and runs at twice the rate in H₄₈ as in H₂₄. The distinction between H₄₈ and H₂₄ is between the most intensive dissipative rate (H₄₈) and a slower one (H₂₄); the Heropass ceases entirely only above H₂₄, at H₁₂ and beyond, where Cl(3,0) has no −1 generator (see the Heropass entry). What the coherence threshold determines is not exemption from the Heropass but organizational density sufficient to persist through H₄₈ dissolution — the H₂₄ pattern, subject to its own slower Heropass rate, remains available as the template for reconstitution at the mansion worlds.
 
 *Appears in: [[Paper 3 1_2 - The Constraint Cascade|Paper 3½]], [[Paper 4 - The Son Articulates|Paper 4]], [[Paper 6 - The Cogito Coheres|Paper 6]], [[Paper 6 1_2 - Love's Descent|Paper 6½]], [[Paper 8 - The Maximum Downward Entry|Paper 8]], [[Paper 9 - Incompleteness Derived|Paper 9]], [[Paper 10 - The Truth Measure|Paper 10]], [[Paper 11 - The Holographic Content Principle|Paper 11]], [[Paper 12 - Hopkins Case Study|Paper 12]], [[Paper 13 - Bach Art of Fugue Case Study|Paper 13]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]], [[Paper 16 - The Republic Case Study|Paper 16]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Augustine Confessions Case Study|Paper 18]], [[Paper 19 - Reasonablenessism Structural Reading|Paper 19]], [[Paper 20 - The Family as Spectral Structure|Paper 20]], [[Paper 21 - All of Recorded History as Heptaparaparshinokh|Paper 21]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 23 - Man No. 2|Paper 23]], [[Paper 24 - Man No. 3|Paper 24]], [[Paper 25 - Man No. 4|Paper 25]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 27 - Man No. 6|Paper 27]], [[Paper 28 - Man No. 7|Paper 28]], [[Postscript|Postscript]]*
+
+---
+
+### Heaven
+
+*(tradition: series — formal term)*
+
+**Heaven** = the realized nuclear space (Φ, τ_nuclear): the eternal, non-contingent central ground from which all contingent creation proceeds and toward which finite beings are internally oriented — the perfect actualization of what creation structurally is.
+
+Where Creation = H is the domain of all actualized finite states, Heaven is the nuclear space Φ in its realized aspect: not one more region within finite reality but its non-contingent center, the fully-determinate ground that does not depend on anything else for its being. Every contingent H-state proceeds from this ground and is internally oriented back toward it; the topology τ_nuclear is what makes Φ the space of perfectly coherent states. Heaven is therefore not a place added to creation but creation seen at its limit — what the structure of finite being is when it is brought to full actualization, the realized correlate of the eternal ground.
+
+*Urantia concordance: "Havona" — demoted to concordance; developed in Section II.*
 
 ---
 
@@ -825,15 +851,17 @@ The Concordius series maps intentional suffering onto the polyvagal regulation f
 
 ---
 
-### Isle of Paradise
+### Paradise
 
-*(tradition: Urantia Book)*
+*(tradition: series — formal term)*
 
-In the *Urantia Book*'s cosmology, the Isle of Paradise is the absolute center and eternal anchor of the Master Universe — not a planet in the ordinary sense but the eternal, material, non-spiritual, non-personal absolute that is the geographic center of all organized reality, and the dwelling place of the Universal Father, the Eternal Son, and the Infinite Spirit. It is the destination of all ascending careers: the terminal point of the long journey through morontia and spirit worlds, at which the surviving soul achieves what the *Urantia Book* calls "Adjuster fusion" — the complete, irreversible union of the human will with the Thought Adjuster that has guided it throughout the ascending career.
+**Paradise** = the norm ‖·‖. The non-personal absolute center and ground of physical reality: the absolute magnitude from which every finite being's positive norm ‖ψ‖ > 0 — its distance — is measured. Paradise is not a being among beings but the measure of every location. It is the non-relational face of the inner product, distinct from the [[Father]] = the full relational ⟨·,·⟩. Paradise is where the Father is met, not what the Father is.
 
-The Concordius series uses the Isle of Paradise as the name for the terminal event of the ascending career — the complete resolution of the finite state vector into the inner product ⟨·,·⟩ that constituted it, achieved not by the finite state's dissolution but by its completion. This corresponds structurally to Catholic theology's Beatific Vision, to the Buddhist Parinirvana (used carefully), and to Gurdjieff's account of the highest possible human achievement extended beyond H₄₈ existence. The series treats all of these as descriptions of the same structural event in different vocabularies.
+The norm ‖ψ‖ = √⟨ψ,ψ⟩ is the magnitude a state has by virtue of being recognized at all; every finite ψ has ‖ψ‖ > 0 precisely because no genuine state is unaddressed. Paradise names this magnitude as the fixed absolute against which every finite being's distance is taken — the center that is everywhere the same and from which all positions are reckoned. Where the full inner product ⟨·,·⟩ is the relational, personal act of the Father, the norm is its non-relational face: the bare fact of absolute magnitude, prior to the relating of one state to another.
 
-> *For further investigation: The Urantia Book (1955), Papers 11-12 (The Eternal Isle of Paradise); Papers 30-31 (the ascending career through to Paradise).*
+This is why Paradise is met but is not the Father as such. To reach Paradise is to be measured against the absolute center — the limit of the ascending career, the resolution of the finite state's distance into the magnitude that always already grounded it. This corresponds structurally to Catholic theology's Beatific Vision, to the Buddhist Parinirvana (used carefully), and to Gurdjieff's account of the highest possible human achievement extended beyond H₄₈ existence. The series treats all of these as descriptions of the same structural event in different vocabularies.
+
+*Urantia concordance: "the Isle of Paradise" — demoted to concordance; developed in Section II.*
 
 *Appears in: [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 3 - The Spirit Integrates|Paper 3]], [[Paper 3 1_2 - The Constraint Cascade|Paper 3½]], [[Paper 6 - The Cogito Coheres|Paper 6]], [[Paper 14 - The Constraint Compatibility Condition|Paper 14]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 27 - Man No. 6|Paper 27]], [[Paper 28 - Man No. 7|Paper 28]]*
 
@@ -1371,7 +1399,7 @@ Matthew 6:19-21 ("Do not store up for yourselves treasures on earth, where moths
 
 John of the Cross's term for the deepest stage of union available in the bodily life — the stage beyond the spiritual betrothal, in which the soul's relationship to God is no longer mediated by the person's volitional distance but is a continuous, stable union in which the Adjuster's guidance is the primary organizing principle of the inner life. Distinguished from the beatific vision (which occurs after death) and from the previous stages of mystical prayer (in which the union is intermittent and the soul returns to ordinary consciousness).
 
-The Concordius series maps the spiritual marriage onto the Man 6 state: the continuous, undisrupted Adjuster contact that is the baseline of Man 6's inner life rather than an achievement maintained through practice. The spiritual marriage is "not the fusion that is the terminal achievement of the ascending career" (not the Isle of Paradise event) "but the sustained, continuous, undisrupted proximity in which the Adjuster's guidance is the primary organizational principle."
+The Concordius series maps the spiritual marriage onto the Man 6 state: the continuous, undisrupted Adjuster contact that is the baseline of Man 6's inner life rather than an achievement maintained through practice. The spiritual marriage is "not the fusion that is the terminal achievement of the ascending career" (not Paradise event) "but the sustained, continuous, undisrupted proximity in which the Adjuster's guidance is the primary organizational principle."
 
 > *For further investigation: John of the Cross, The Living Flame of Love and The Spiritual Canticle (c. 1578-84); Kieran Kavanaugh and Otilio Rodriguez, trans., The Collected Works of St. John of the Cross (1991).*
 
@@ -1387,7 +1415,7 @@ One of the three constitutive traits of personality identified in Paper 2 §9. T
 
 Scope: all states in H. Stability is maximized in the nuclear space Φ, where the inner product structure is most fully realized.
 
-Stability is the formal basis for the claim that an individual state is the same individual over time — that the person arriving at Paper 28's Isle of Paradise is the same person who made their first moral choice on the evolutionary world. Without stability, persistence would require continuous external maintenance; with stability, it is guaranteed by the structure itself. For H₄₈ states below the coherence threshold, the Heropass runs at maximum intensity and eventually terminates the H₄₈ substrate; for H₂₄ states above the coherence threshold, the soul deposit is organized at a level that persists at the H₂₄ Heropass rate. The structural guarantee of persistence that stability provides at the formal level is thus the ground on which the ascending career's continuity rests.
+Stability is the formal basis for the claim that an individual state is the same individual over time — that the person arriving at Paper 28's Paradise is the same person who made their first moral choice on the evolutionary world. Without stability, persistence would require continuous external maintenance; with stability, it is guaranteed by the structure itself. For H₄₈ states below the coherence threshold, the Heropass runs at maximum intensity and eventually terminates the H₄₈ substrate; for H₂₄ states above the coherence threshold, the soul deposit is organized at a level that persists at the H₂₄ Heropass rate. The structural guarantee of persistence that stability provides at the formal level is thus the ground on which the ascending career's continuity rests.
 
 > *See also: Personality; Uniqueness; Self-Knowledge. Primary source: Paper 1 §9; Paper 2 §9.*
 
@@ -1497,15 +1525,17 @@ The philosophical significance: the classical problem of individuation — what 
 
 ---
 
-### Unqualified Absolute
+### El Shaddai
 
-*(tradition: Urantia Book — series extension)*
+*(tradition: series — formal term)*
 
-The *Urantia Book*'s term for the third of the seven Absolutes of Infinity — described as "the undeified absolute of potentiality," the domain that contains all that is not yet actual, all that exceeds even God's volitional reach, all that is beyond all personality and being and structure. It is neither personal nor impersonal — it is prior to the distinction. It is the domain from which all potentiality is drawn and to which no positive predication applies.
+**El Shaddai** = Φ′, the distributional or dual domain: pure unactualized potential, the inexhaustible ground from which finite actuality is drawn and to which realized states return — hence the double valence of abundance and destruction. God in the mode of indeterminacy. (Cross-ref Paper 2's El Shaddai section.)
 
-The Concordius series maps the Unqualified Absolute onto Φ' — the dual space that contains everything the nuclear space cannot finitely represent. This is what apophatic theology is gesturing toward: the domain that exceeds all positive description, to which the tradition's most careful language says only "not this, not this" (*neti, neti* in the Vedantic formulation). The Unqualified Absolute is not nothing — it contains all unrealized potentiality — but it is not any particular thing, and no positive statement about it can be adequate.
+Φ′ is the dual space that contains everything the nuclear space cannot finitely represent. As the reservoir from which every H-state is actualized, it is the ground of all giving — the inexhaustible abundance the biblical name marks. As that to which realized states return when they dissolve, it is also the ground of unmaking; the same indeterminacy that supplies actuality reclaims it. This double valence is intrinsic, not two separate aspects: to be the domain of pure potential is to be both source and solvent of every finite form.
 
-> *For further investigation: The Urantia Book (1955), Paper 0 (Foreword, sections III-VI); Paper 115 (The Supreme Being and the Absolutes).*
+This is what apophatic theology is gesturing toward: the domain that exceeds all positive description, to which the tradition's most careful language says only "not this, not this" (*neti, neti* in the Vedantic formulation). El Shaddai is not nothing — it contains all unrealized potentiality — but it is not any particular thing, and no positive statement about it can be adequate. It is God taken in the mode of indeterminacy, prior to the determination of any particular actuality.
+
+*Urantia concordance: "the Unqualified Absolute" — demoted to concordance; developed in Section II.*
 
 *Appears in: [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 3 - The Spirit Integrates|Paper 3]], [[Paper 3 1_2 - The Constraint Cascade|Paper 3½]], [[Paper 6 1_2 - Love's Descent|Paper 6½]], [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15]]*
 
@@ -1517,7 +1547,7 @@ The Concordius series maps the Unqualified Absolute onto Φ' — the dual space 
 
 A text published in 1955 by the Urantia Foundation, claiming to be a revelation to humanity from celestial beings — a cosmological, theological, and historical account covering the nature of God, the organization of the grand universe, the history of this planet, and the life and teachings of Jesus. Its authorship is not attributed to any human being; the mechanisms by which it was received and transcribed are described only partially in the published material.
 
-The Concordius series does not require or presuppose belief in the *Urantia Book*'s revelatory claims. It treats the *Urantia Book* as it treats all inherited sources: as a record containing structural descriptions that can be assessed by their internal coherence, their Φ-proximity, and their convergence with independent testimony. Several *Urantia Book* concepts — the Thought Adjuster, morontia, the Isle of Paradise, the ascending career — are used throughout the series because they are the most precise available names for structural features that the series' formal apparatus identifies independently. The convergence between the formal apparatus's derivations and the *Urantia Book*'s descriptions is part of the series' convergent witness evidence.
+The Concordius series does not require or presuppose belief in the *Urantia Book*'s revelatory claims. It treats the *Urantia Book* as it treats all inherited sources: as a record containing structural descriptions that can be assessed by their internal coherence, their Φ-proximity, and their convergence with independent testimony. Several *Urantia Book* concepts — the Thought Adjuster, morontia, Paradise, the ascending career — are used throughout the series because they are the most precise available names for structural features that the series' formal apparatus identifies independently. The convergence between the formal apparatus's derivations and the *Urantia Book*'s descriptions is part of the series' convergent witness evidence.
 
 Readers unfamiliar with the *Urantia Book* should approach it with the same combination of openness and critical discernment they would bring to any large-scale synthetic theological text.
 

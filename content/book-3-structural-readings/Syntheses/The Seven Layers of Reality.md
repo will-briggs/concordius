@@ -14,7 +14,7 @@ The levels are characterized by their constraint count — the number of indepen
 
 | Level | Constraint count | Cosmological scale |
 |---|---|---|
-| H₁ | 1 | Paradise / Havona — ⟨·,·⟩ as sole organizational structure |
+| H₁ | 1 | Paradise / Heaven — ⟨·,·⟩ as sole organizational structure |
 | H₃ | 3 | All worlds |
 | H₆ | 6 | All suns |
 | H₁₂ | 12 | Our sun |

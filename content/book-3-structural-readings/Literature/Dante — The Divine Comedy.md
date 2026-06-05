@@ -103,7 +103,7 @@ The *Commedia* ends with Dante in the Empyrean — beyond all the planetary heav
 
 The final three lines — *ma già volgeva il mio disio e 'l velle, / sì come rota ch'igualmente è mossa, / l'amor che move il sole e l'altre stelle* — are the catching program stated at its endpoint: *the love that moves the sun and the other stars* is the constitutive love of the Father, the ⟨·,·⟩ that holds every finite being in existence at every moment. The final word of the *Commedia* is *stelle* — stars — the H₄₈ constraint structure, the visible sky from which the journey began. The poem ends where it began, in H₄₈, but the catching being who looks up at the stars now knows what moves them.
 
-*(Cross-reference: Paper 2 §5 — Isle of Paradise as ‖·‖, the Father as ⟨·,·⟩; the face-to-face encounter as relational event with ⟨·,·⟩ at the locus of Paradise.)*
+*(Cross-reference: Paper 2 §5 — Paradise as ‖·‖, the Father as ⟨·,·⟩; the face-to-face encounter as relational event with ⟨·,·⟩ at the locus of Paradise.)*
 
 ---
 
