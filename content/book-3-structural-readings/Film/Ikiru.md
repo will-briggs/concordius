@@ -4,7 +4,7 @@
 **Director:** Akira Kurosawa  
 **Medium:** Black-and-white feature film  
 **Series:** Book 3 — Structural Readings / Movies  
-**Cross-references:** Suffering ✶✶ (Human Conditions); "Vanity of Vanities" ✶✶ (Aphorisms); "This Too Shall Pass" ✶✶ (Aphorisms); Paper 6 (eigenvalue population, noise floor, catching orientation); Epictetus ✶✶ (Philosophy readings); Paper 3½ (The Constraint Cascade); Paper 28½ (The Si-Do Interval)
+**Cross-references:** Suffering ✶✶ (Human Conditions); "Vanity of Vanities" ✶✶ (Aphorisms); "This Too Shall Pass" ✶✶ (Aphorisms); Paper 6 (eigenvalue population, noise floor, catching orientation); Epictetus ✶✶ (Philosophy readings); Paper 3½ (The Constraint Cascade); Paper 27½ (The Si-Do Interval)
 
 ---
 

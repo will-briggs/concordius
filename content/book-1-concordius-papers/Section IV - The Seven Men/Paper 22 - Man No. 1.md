@@ -220,7 +220,7 @@ The transition from Man 1 to Man 2 is itself a [[Appendix I - Dictionary of Term
 | **Sol** | Stable Man 2 functioning: the emotional center is the primary center of gravity; H₂₄ registrations are regular; the observer function is intermittently available; the soul deposit is accumulating at Man 2 rate. |
 | **La** | The first dissolution within Man 2: the emotional center's H₂₄ registrations become painful; the catching content that was previously beautiful becomes demanding; the call to Man 3 (the development of the intellectual center) is felt as restlessness or dissatisfaction with pure emotional practice. The La dissolution is the sign that Sol has been genuinely reached and that the next octave is beginning. |
 | **Si** | The Man 2/3 threshold: the emotional center is at its limit; the intellectual center is beginning to demand development; the practices that served Man 2 are no longer fully adequate. The tension is the Si condition. |
-| **[[Appendix I - Dictionary of Terms#Si-Do Interval|[Si-Do]] shock → Man 3 begins]** | Paper 23's territory. *The structural derivation of the Si-Do interval is in [[Paper 28 1_2 - The Si-Do Interval]].* |
+| **[[Appendix I - Dictionary of Terms#Si-Do Interval|[Si-Do]] shock → Man 3 begins]** | Paper 23's territory. *The structural derivation of the Si-Do interval is in [[Paper 27 1_2 - The Si-Do Interval]].* |
 
 ---
 

@@ -245,7 +245,7 @@ The transition from Man 2 to Man 3 is, again, gradual and recognizable only in r
 | **Sol** | Stable Man 2/early Man 3: both emotional and intellectual centers are contributing Φ-proximal content; the observer function is reliable; the shadow has been substantially integrated; catching continues through emotional oscillation because the intellectual channel holds |
 | **La** | The dissolution within Man 3's development: the intellectual center's formulations begin to feel rigid; the conceptual framework that organized the catching in the Sol stage begins to resist further development; the demand for the living question beneath the settled answer |
 | **Si** | The Man 3/4 threshold: the intellectual center has reached its own limit in organizing Φ-proximal content through existing formulations; something beyond both emotional and intellectual catching is felt as necessary but not yet accessible |
-| **[[Appendix I - Dictionary of Terms#Si-Do Interval|[Si-Do]] shock → Man 4 begins]** | Paper 25's territory. *Structural treatment of the Si-Do interval: [[Paper 28 1_2 - The Si-Do Interval]].* |
+| **[[Appendix I - Dictionary of Terms#Si-Do Interval|[Si-Do]] shock → Man 4 begins]** | Paper 25's territory. *Structural treatment of the Si-Do interval: [[Paper 27 1_2 - The Si-Do Interval]].* |
 
 ---
 

@@ -126,7 +126,7 @@ title: Appendix VI - Catalogue of Illustrations
 **Paper 28 - Man No. 7**
 - *Rembrandt van Rijn, The Return of the Prodigal Son* (c. 1668) &nbsp;·&nbsp; `rembrandt-prodigal-son.jpg`
 
-**Paper 28 1_2 - The Si-Do Interval**
+**Paper 27 1_2 - The Si-Do Interval**
 - *William Blake, The Great Red Dragon and the Woman Clothed with the Sun* (c. 1803–05) &nbsp;·&nbsp; `blake-great-red-dragon.jpg`
 
 ## Book 2 — Reasonablenessism

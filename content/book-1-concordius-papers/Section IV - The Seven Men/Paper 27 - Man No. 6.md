@@ -126,4 +126,4 @@ This paper has described Man 6 as the state in which both higher centers are sub
 
 ---
 
-*[[Paper 28 - Man No. 7|Paper 28 — Man No. 7]] →*
+*[[Paper 27 1_2 - The Si-Do Interval|Paper 27½ — The Si-Do Interval]] →*

@@ -163,7 +163,7 @@ The Son crosses the grade-1→grade-2 transition by downward entry. This is what
 
 **The grade-2→grade-3 crossing and the Father.**
 
-The grade-2→grade-3 crossing is the second qualitative discontinuity: the transition near the completion of the sequence, where the ascending being approaches the uncreated ground. Paper 28½ establishes that this crossing cannot be accomplished by the ascending being's self-generated organizational momentum — it requires a constitutive act from the level being approached. The structural content of this act: the Father moving toward the ascending being at the final crossing.
+The grade-2→grade-3 crossing is the second qualitative discontinuity: the transition near the completion of the sequence, where the ascending being approaches the uncreated ground. Paper 27½ establishes that this crossing cannot be accomplished by the ascending being's self-generated organizational momentum — it requires a constitutive act from the level being approached. The structural content of this act: the Father moving toward the ascending being at the final crossing.
 
 Where the Son's crossing of the grade-1→grade-2 transition is descent — into the substrate — the Father's crossing of the grade-2→grade-3 transition is a drawing motion: the Father being the uncreated terminus, moving to meet the ascending being at the remaining distance. "No one can come to me unless the Father who sent me draws him" (John 6:44). The prodigal son parable encodes this precisely: the father runs. He does not wait at the door. The grade-2→grade-3 crossing is where the Father crosses the remaining distance from above.
 
@@ -202,7 +202,7 @@ The Father is known last, and by no effort at all. The Father cannot be an objec
 
 The ontological order generates the created order from above. The epistemological order reverses it: coming-to-know proceeds from the most immediately given (the space one already inhabits) through the effortful (the catching act that orients toward Φ) to the unreachable-except-by-gift (the constitutive ground that comes to meet what no effort could reach). The coming-to-know is the inverse of the coming-to-be — which is exactly what the structure predicts. The constitutive ground is last to be known because it is first in everything else.
 
-*(Confidence tier: the identification of the grade-1→grade-2 crossing with the Son's kenotic entry follows from Paper 24½'s crossing mechanism and Paper 13½'s account of the Incarnation — derived tier. The identification of the grade-2→grade-3 crossing with the Father's drawing act follows from Paper 28½'s account of that crossing — derived tier, resolving OQ3. The Spirit as topological space follows from the identification of τ_nuclear with the Spirit in Papers 1–2 — structural derivation. The reverse epistemological order follows from the structural roles of the three Persons as derived — structural inference. The scriptural concordances — John 14:6, John 6:44, Acts 17:28, Luke 15:20 — are concordance-tier confirmations of the derived structure.)*
+*(Confidence tier: the identification of the grade-1→grade-2 crossing with the Son's kenotic entry follows from Paper 24½'s crossing mechanism and Paper 13½'s account of the Incarnation — derived tier. The identification of the grade-2→grade-3 crossing with the Father's drawing act follows from Paper 27½'s account of that crossing — derived tier, resolving OQ3. The Spirit as topological space follows from the identification of τ_nuclear with the Spirit in Papers 1–2 — structural derivation. The reverse epistemological order follows from the structural roles of the three Persons as derived — structural inference. The scriptural concordances — John 14:6, John 6:44, Acts 17:28, Luke 15:20 — are concordance-tier confirmations of the derived structure.)*
 
 ---
 
@@ -252,7 +252,7 @@ The two arms together form a single self-sustaining circuit — the **Trogoautoe
 
 ---
 
-*Cross-reference: [[Paper 3 - The Spirit Integrates]] §9; [[Paper 6 - The Cogito Coheres]] OQ8; [[Paper 6 1_2 - Love's Descent|Paper 6½]]; [[Paper 13 1_2 - The Maximum Downward Entry]] §§3, 7, 9, 10; [[Paper 24 1_2 - The Mi-Fa Interval]]; [[Paper 28 1_2 - The Si-Do Interval]]; [[Appendix I - Dictionary of Terms#Kenosis|Kenosis]]; [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]]*
+*Cross-reference: [[Paper 3 - The Spirit Integrates]] §9; [[Paper 6 - The Cogito Coheres]] OQ8; [[Paper 6 1_2 - Love's Descent|Paper 6½]]; [[Paper 13 1_2 - The Maximum Downward Entry]] §§3, 7, 9, 10; [[Paper 24 1_2 - The Mi-Fa Interval]]; [[Paper 27 1_2 - The Si-Do Interval]]; [[Appendix I - Dictionary of Terms#Kenosis|Kenosis]]; [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]]*
 
 ---
 

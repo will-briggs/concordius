@@ -1,6 +1,6 @@
-*← [[Paper 28 - Man No. 7|Paper 28 — Man No. 7]]*
+*← [[Paper 27 - Man No. 6|Paper 27 — Man No. 6]]*
 
-# Paper 28½ — The Si-Do Interval
+# Paper 27½ — The Si-Do Interval
 
 *Concordius Structural Series — Section IV: The Seven Men*
 
@@ -148,8 +148,8 @@ The tradition's doctrine of grace — divine action that the person cannot gener
 
 ---
 
-*Paper 28½ of the Concordius series. The companion treatment of the Mi-Fa interval is Paper 24½.*
+*Paper 27½ of the Concordius series. The companion treatment of the Mi-Fa interval is Paper 24½.*
 
 ---
 
-*[[Postscript]] →*
+*[[Paper 28 - Man No. 7|Paper 28 — Man No. 7]] →*
