@@ -21,5 +21,6 @@ The confidence tier varies by reading. Some doctrinal claims follow from the fra
 - [[The Lucifer Rebellion]]
 - [[The Magisterium]]
 - [[The Pre-Incarnation Saints]]
+- [[Predestination]]
 - [[The Prosperity Gospel]] ⊘
 - [[Scientology]] ⊘
