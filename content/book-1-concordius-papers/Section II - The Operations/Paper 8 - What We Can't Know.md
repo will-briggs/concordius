@@ -2,7 +2,7 @@
 
 # What We Can't Know: Gödel's Incompleteness Theorems as a Structural Consequence of the Constraint Hierarchy
 
-*Eighth paper in the Concordius series, opening Section II. Companion to Papers 1–7. Depends on Papers 1–3 (constitutional structure; truth as [[Appendix I - Dictionary of Terms#Φ-Proximity|Φ-proximity]]) and Paper 13½ (the downward entry analysis). The [[Appendix I - Dictionary of Terms#Truth Measure|truth measure]] τ(D) developed in Paper 10 formalizes the Φ-proximity concept this paper uses; Paper 10 follows as the quantitative elaboration of the graded distance this paper requires.*
+*Eighth paper in the Concordius series, opening Section II. Companion to Papers 1–7. Depends on Papers 1–3 (constitutional structure; truth as [[Appendix I - Dictionary of Terms#Φ-Proximity|Φ-proximity]]) and Paper 13½ (the downward entry analysis). The [[Appendix I - Dictionary of Terms#Truth Measure|truth measure]] τ(D) developed in Paper 9 formalizes the Φ-proximity concept this paper uses; Paper 9 follows as the quantitative elaboration of the graded distance this paper requires.*
 
 *Status: substantially developed. The derivation of both theorems from the three premises is structurally grounded. The philosophy of mathematics sections (Sections 8–10) are structural suggestions carrying the same confidence tier as their premises.*
 
@@ -105,7 +105,7 @@ The set of theorems of F is therefore H₄₈-computably enumerable — it is th
 
 **Premise 1 — Truth is Φ-proximity:**
 
-From Paper 10: a statement is true to the degree that its H₄₈ encoding carries spectral weight in the Φ-region under the ⟨·,·⟩-generated GNST decomposition. A statement is simply true — τ > 0 — if it has any lower-constraint spectral content at all. The truth of a mathematical statement is a structural feature of that statement's encoding, not a property attributed by a speaker or verified by a procedure. Mathematical truth is real, independent of minds, and determined by the statement's spectral relation to Φ.
+From Paper 9: a statement is true to the degree that its H₄₈ encoding carries spectral weight in the Φ-region under the ⟨·,·⟩-generated GNST decomposition. A statement is simply true — τ > 0 — if it has any lower-constraint spectral content at all. The truth of a mathematical statement is a structural feature of that statement's encoding, not a property attributed by a speaker or verified by a procedure. Mathematical truth is real, independent of minds, and determined by the statement's spectral relation to Φ.
 
 **Premise 2 — Provability is H₄₈ syntactic closure:**
 
@@ -117,7 +117,7 @@ This is the structural core. Why is the set of true mathematical statements not 
 
 Because truth is Φ-proximity, and Φ-proximity is evaluated from Φ — from outside H₄₈. The Φ-proximity of a statement cannot be computed by an H₄₈ process, because H₄₈ processes do not have access to the lower-constraint spectral content that determines how much of Φ's structure a statement accurately encodes. No H₄₈ algorithm can assess this, because Φ is not accessible from within H₄₈. Φ ⊂ H ⊂ Φ': Φ is inside H, but accessible only in the limit of the full [[Appendix I - Dictionary of Terms#Constraint Cascade|constraint cascade]] — not accessible to any H₄₈-level finite computation.
 
-This maps precisely onto Tarski's undefinability theorem (formalized in connection with this framework in Paper 10): a language cannot define its own truth predicate because the truth predicate requires access to a meta-level that the language cannot reach from within. The meta-level is Φ. The language is the H₄₈ encoding. No H₄₈ computation can decide truth because truth requires Φ-level assessment.
+This maps precisely onto Tarski's undefinability theorem (formalized in connection with this framework in Paper 9): a language cannot define its own truth predicate because the truth predicate requires access to a meta-level that the language cannot reach from within. The meta-level is Φ. The language is the H₄₈ encoding. No H₄₈ computation can decide truth because truth requires Φ-level assessment.
 
 Since the truth set cannot be decided by any H₄₈ computation, it cannot be H₄₈-computably enumerable. (A recursively enumerable set that is also co-recursively-enumerable is decidable — if the truth set were r.e., its complement would also be r.e. by symmetric argument, making truth decidable. Since truth is not decidable by P3, the truth set is not r.e.)
 
@@ -137,7 +137,7 @@ The argument:
 
 **The Gödel sentence locates the gap:** The argument above shows the gap exists but does not exhibit it. Gödel's construction exhibits it: G is the particular true statement that witnesses the gap in F. The existence of such a statement is guaranteed by the argument above; Gödel's proof is the construction that makes it explicit.
 
-**The independence of the premises:** P1 (truth = Φ-proximity) is from Paper 10. P2 (provability = r.e. closure) is from the definition of effective formal systems. P3 (truth set not r.e.) follows from P1 and the structural properties of Φ. The derivation does not use any features of arithmetic specifically — it uses only the general structure of formal systems (H₄₈ encodings) and the general structure of truth (Φ-proximity). The theorem holds for any formal system that satisfies the effective presentation condition and is consistent, in any sufficiently expressive domain.
+**The independence of the premises:** P1 (truth = Φ-proximity) is from Paper 9. P2 (provability = r.e. closure) is from the definition of effective formal systems. P3 (truth set not r.e.) follows from P1 and the structural properties of Φ. The derivation does not use any features of arithmetic specifically — it uses only the general structure of formal systems (H₄₈ encodings) and the general structure of truth (Φ-proximity). The theorem holds for any formal system that satisfies the effective presentation condition and is consistent, in any sufficiently expressive domain.
 
 ---
 
@@ -319,8 +319,8 @@ The paper cannot prove its own consistency. Neither could Gödel's. Neither can 
 
 ---
 
-*(Cross-reference: [[Concordance/PC3 — External Sources and Language]] — Gödel/Tarski/Russell entry; Language, LLMs, and Structural Conditions for Consciousness. Paper 10 — The Truth Measure (τ(D) definition, Tarski correspondence, the Logos as limit). Papers 1–3 — Constitutional structure, Φ and the Gelfand triple. [[Signal and Noise]] — Free Will and Catching.)*
+*(Cross-reference: [[Concordance/PC3 — External Sources and Language]] — Gödel/Tarski/Russell entry; Language, LLMs, and Structural Conditions for Consciousness. Paper 9 — The Truth Measure (τ(D) definition, Tarski correspondence, the Logos as limit). Papers 1–3 — Constitutional structure, Φ and the Gelfand triple. [[Signal and Noise]] — Free Will and Catching.)*
 
 ---
 
-*[[Paper 10 - The Truth Measure|Paper 10 — The Truth Measure]] →*
+*[[Paper 9 - The Truth Measure|Paper 9 — The Truth Measure]] →*

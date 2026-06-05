@@ -378,7 +378,7 @@ The following terms appear throughout these readings with consistent technical m
 
 **Coherence threshold** — The minimum H₂₄ eigenvalue coherence required for the higher being body to anchor new H₄₈ substrate at the next station of the ascending career. The "narrow gate" of Matthew 7:14 is the structural description of the coherence threshold: it is not an arbitrary qualification but a physical compatibility condition.
 
-**τ(D)** — The truth measure (Paper 10): the fraction of a document's spectral energy residing in the Φ-proximate region. High-τ(D) documents carry high Φ-proximate content. The density estimator D(t) is a proxy for τ(D) at the corpus level.
+**τ(D)** — The truth measure (Paper 9): the fraction of a document's spectral energy residing in the Φ-proximate region. High-τ(D) documents carry high Φ-proximate content. The density estimator D(t) is a proxy for τ(D) at the corpus level.
 
 ---
 

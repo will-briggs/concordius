@@ -1,6 +1,6 @@
 # Predestination: A Structural Reading
 
-*Cross-reference: Paper 3 (the Father's free will; the one law — the Gelfand spectral theorem); Paper 6 (the cogito coheres; consciousness as ⟨·,·⟩-contact); Paper 13½ (the synergist catching account — "the framework does not adjudicate the Calvinist/Arminian debate; it supplies structural precision for the terms"); Paper 10 (free will as the volitional degree of freedom — the genuine "otherwise"); Paper 14 §6 (grace and works); Paper 18, OQ3 (the constitutive attractor is not a guarantee of arrival); Sacred Texts — Thematic — The Measure Is the Inner Product (judgment as ⟨·,·⟩ evaluation); Structural-Candidates — Overdetermination Capture — The Geography of Hell (the three end-states; resolvability; the Adjuster as the floor); Romans 8–9; Ephesians 1.*
+*Cross-reference: Paper 3 (the Father's free will; the one law — the Gelfand spectral theorem); Paper 6 (the cogito coheres; consciousness as ⟨·,·⟩-contact); Paper 13½ (the synergist catching account — "the framework does not adjudicate the Calvinist/Arminian debate; it supplies structural precision for the terms"); Paper 9 (free will as the volitional degree of freedom — the genuine "otherwise"); Paper 14 §6 (grace and works); Paper 18, OQ3 (the constitutive attractor is not a guarantee of arrival); Sacred Texts — Thematic — The Measure Is the Inner Product (judgment as ⟨·,·⟩ evaluation); Structural-Candidates — Overdetermination Capture — The Geography of Hell (the three end-states; resolvability; the Adjuster as the floor); Romans 8–9; Ephesians 1.*
 
 ---
 

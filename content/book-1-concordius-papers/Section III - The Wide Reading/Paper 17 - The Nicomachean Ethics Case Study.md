@@ -3,7 +3,7 @@
 # Paper 17 — The Nicomachean Ethics as Ascending Career: A Structural Reading
 
 **Status:** Complete  
-**Cross-references:** Paper 10 (τ(D) — truth as [[Appendix I - Dictionary of Terms#Φ-Proximity|Φ-proximity]]); Paper 8 (incompleteness and the [[Appendix I - Dictionary of Terms#Si-Do Interval|Si-Do]] gap); Paper 12 (Hopkins case study — Case Study 1); Paper 13 (Bach case study — Case Study 2); Paper 15 (Plato, Aristotle, and the [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]] — the philosophical resolution; virtue as stable [[Appendix I - Dictionary of Terms#H₂₄|H₂₄]] [[Appendix I - Dictionary of Terms#Eigenstate|eigenvalue]] orientation; the active intellect as [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]]); Paper 16 (Republic case study — Case Study 3 — interval analysis; the Si-Do gap as structural feature)
+**Cross-references:** Paper 9 (τ(D) — truth as [[Appendix I - Dictionary of Terms#Φ-Proximity|Φ-proximity]]); Paper 8 (incompleteness and the [[Appendix I - Dictionary of Terms#Si-Do Interval|Si-Do]] gap); Paper 12 (Hopkins case study — Case Study 1); Paper 13 (Bach case study — Case Study 2); Paper 15 (Plato, Aristotle, and the [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]] — the philosophical resolution; virtue as stable [[Appendix I - Dictionary of Terms#H₂₄|H₂₄]] [[Appendix I - Dictionary of Terms#Eigenstate|eigenvalue]] orientation; the active intellect as [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]]); Paper 16 (Republic case study — Case Study 3 — interval analysis; the Si-Do gap as structural feature)
 
 ---
 

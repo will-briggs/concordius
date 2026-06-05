@@ -51,4 +51,4 @@ The practical implication — and Paracelsus drew it practically, insisting on y
 
 ---
 
-*(Cross-reference: The Alchemical Tradition.md — tria prima (Salt/Mercury/Sulfur), solve et coagula, arcana, the Great Work; The Hermetic Corpus.md — gnosis as structural self-identification, Hermes as Logos; [[Signal and Noise]] — Noise Floor, Catching, Soul Deposit, Catching-Sensitivity; Paper 10 — The Truth Measure.)*
+*(Cross-reference: The Alchemical Tradition.md — tria prima (Salt/Mercury/Sulfur), solve et coagula, arcana, the Great Work; The Hermetic Corpus.md — gnosis as structural self-identification, Hermes as Logos; [[Signal and Noise]] — Noise Floor, Catching, Soul Deposit, Catching-Sensitivity; Paper 9 — The Truth Measure.)*

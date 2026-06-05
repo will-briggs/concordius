@@ -129,7 +129,7 @@ The second half of the octave — Fa through La — is the full deployment of th
 
 Peter's denial — three times, precisely — runs in counterpoint to Jesus's three volitional renewals at Mi. The Lord surrendered three times and held. Peter denied three times and broke. The structural contrast is not a moral judgment but a spectral report: the difference between an eigenvalue population constituted above the coherence threshold (the Mi-level volitional surrender possible and performed) and one still in the process of formation (the H₄₈-primary instinct reasserting under the noise of the night's pressure).
 
-The night trial before the Sanhedrin is the H₄₈ institutional structure encountering the Φ-proximate content at the organizational level and responding with the response Paper 10 predicts: the truth measure failing at the institutional level. "Ecce homo" has not yet been spoken, but the procedure is already organized around a conclusion — the τ(D) of the proceedings is near zero, because the conclusion preceded the inquiry.
+The night trial before the Sanhedrin is the H₄₈ institutional structure encountering the Φ-proximate content at the organizational level and responding with the response Paper 9 predicts: the truth measure failing at the institutional level. "Ecce homo" has not yet been spoken, but the procedure is already organized around a conclusion — the τ(D) of the proceedings is near zero, because the conclusion preceded the inquiry.
 
 **Sol — Pilate, Barabbas, the formal condemnation.**
 

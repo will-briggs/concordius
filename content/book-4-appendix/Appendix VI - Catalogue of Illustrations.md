@@ -56,7 +56,7 @@ title: Appendix VI - Catalogue of Illustrations
 **Paper 8 - What We Can't Know**
 - *Christoph Bernhard Francke, Portrait of Gottfried Wilhelm Leibniz* (c. 1695) &nbsp;·&nbsp; `leibniz-francke.jpg`
 
-**Paper 10 - The Truth Measure**
+**Paper 9 - The Truth Measure**
 - *Weighing of the Heart* &nbsp;·&nbsp; `bd-weighing-heart.jpg`
 
 **Paper 11 - The Holographic Content Principle**

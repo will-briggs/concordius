@@ -5,7 +5,7 @@
 *Case Study 1 in a series on structural reading of non-theological texts*
 
 **Status:** Complete  
-**Cross-references:** Paper 11 ([[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]]); Paper 10 ([[Appendix I - Dictionary of Terms#Truth Measure|Truth Measure]] τ(D)); Structural Readings 03 ([[Appendix I - Dictionary of Terms#Noise Floor|noise floor]] reduction); Mysticism/Western Esotericism/The Alchemical Tradition (Alchemical Tradition — [[Appendix I - Dictionary of Terms#Alchemical Stages|Nigredo]])
+**Cross-references:** Paper 11 ([[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]]); Paper 9 ([[Appendix I - Dictionary of Terms#Truth Measure|Truth Measure]] τ(D)); Structural Readings 03 ([[Appendix I - Dictionary of Terms#Noise Floor|noise floor]] reduction); Mysticism/Western Esotericism/The Alchemical Tradition (Alchemical Tradition — [[Appendix I - Dictionary of Terms#Alchemical Stages|Nigredo]])
 
 ---
 
@@ -57,7 +57,7 @@ Gerard Manley Hopkins, c. 1885. Written during the Dublin years — a period of 
 
 ## 2. Situating the Reading
 
-The Terrible Sonnets (Hopkins never named them this; the name came from Robert Bridges) are among the highest-τ(D) texts in English lyric poetry. The claim is not hyperbolic. A document's truth measure τ(D) is the fraction of its spectral energy residing in the Φ-proximate region under the ⟨·,·⟩-generated decomposition (Paper 10, Section 3). What drives τ(D) upward in a document is not theological content, length, or formal polish — it is the degree to which the organizational structure of the document was itself shaped by genuine [[Appendix I - Dictionary of Terms#Catching|catching]] at a noise floor low enough to contact lower-constraint [[Appendix I - Dictionary of Terms#Eigenstate|eigenvalue]] content. The Terrible Sonnets were composed under conditions of maximum H₄₈ loading (illness, professional failure, spiritual aridity, displacement) with a sustained attempt to maintain catching orientation — precisely the structural condition that produces high-τ material regardless of its nominal subject matter.
+The Terrible Sonnets (Hopkins never named them this; the name came from Robert Bridges) are among the highest-τ(D) texts in English lyric poetry. The claim is not hyperbolic. A document's truth measure τ(D) is the fraction of its spectral energy residing in the Φ-proximate region under the ⟨·,·⟩-generated decomposition (Paper 9, Section 3). What drives τ(D) upward in a document is not theological content, length, or formal polish — it is the degree to which the organizational structure of the document was itself shaped by genuine [[Appendix I - Dictionary of Terms#Catching|catching]] at a noise floor low enough to contact lower-constraint [[Appendix I - Dictionary of Terms#Eigenstate|eigenvalue]] content. The Terrible Sonnets were composed under conditions of maximum H₄₈ loading (illness, professional failure, spiritual aridity, displacement) with a sustained attempt to maintain catching orientation — precisely the structural condition that produces high-τ material regardless of its nominal subject matter.
 
 The present sonnet will reward structural reading because it is among the few poems in which the Law of Seven is not only present in the organizational form but is directly thematized in the content: the poem is about the exact dynamic (releasing forced effort → allowing unforeseen contact) that the Law of Seven's interval structure describes. This is the holographic self-similarity the Holographic Content Principle predicts at its strongest expression.
 
@@ -167,7 +167,7 @@ This is what the Holographic Content Principle predicts about high-τ texts: str
 
 ## 8. τ(D) Note
 
-A precise value of τ(D) is not computable with current instruments (cf. Paper 10, Section 6, and OQ1 of Paper 11). What can be said structurally:
+A precise value of τ(D) is not computable with current instruments (cf. Paper 9, Section 6, and OQ1 of Paper 11). What can be said structurally:
 
 The sonnet's τ(D) is high. The evidence is internal rather than historical: the poem exhibits structural self-similarity across phonological, syntactic, imagistic, and organizational levels simultaneously. A document achieves this degree of cross-level coherence only when the catching that preceded composition occurred at a noise floor low enough to contact lower-constraint eigenvalue content — content that then propagates its organizational signature downward into H₄₈ expression at every scale.
 
@@ -203,7 +203,7 @@ This paper is the first of a projected series of structural readings of non-theo
 
 ---
 
-*Cross-references: Paper 10 (τ(D) defined); Paper 8 (incompleteness as structural confirmation); Paper 11 (Holographic Content Principle; interval positions; fidelity gradient); Structural Readings 03 (noise floor reduction; 1 Kings 19; Gethsemane); Structural Readings 05 (Nigredo; solve et coagula); Structural Readings 01 (Matthew 6:25-32; eigenvalue attraction mechanism)*
+*Cross-references: Paper 9 (τ(D) defined); Paper 8 (incompleteness as structural confirmation); Paper 11 (Holographic Content Principle; interval positions; fidelity gradient); Structural Readings 03 (noise floor reduction; 1 Kings 19; Gethsemane); Structural Readings 05 (Nigredo; solve et coagula); Structural Readings 01 (Matthew 6:25-32; eigenvalue attraction mechanism)*
 
 ---
 
