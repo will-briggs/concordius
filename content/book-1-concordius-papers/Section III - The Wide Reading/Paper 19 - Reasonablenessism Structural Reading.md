@@ -3,15 +3,15 @@
 # Paper 19 — The Method Reading Itself: A Structural Reading of Reasonablenessism
 
 **Status:** Complete  
-**Cross-references:** Paper 8 (incompleteness — the [[Appendix I - Dictionary of Terms#Si-Do Interval|Si-Do]] gap of any formal system applied here to the epistemological system); Paper 10½ ([[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]] — theoretical basis for case studies); Papers 12–18 (the case study method the present paper turns back on its source); Paper 15 (Plato/Aristotle resolution — the Method/Model distinction as Φ ⊂ H; the Reasonable [[Appendix I - Dictionary of Terms#Person|Person]] as Φ-proximate attractor); Paper 17 (practical wisdom as recognitional, not definitional); Paper 20 (the [[Appendix I - Dictionary of Terms#Trogoautoegocrat|Trogoautoegocrat]] invoked by the Initiated Manifesto; false signals and their structural collapse)
+**Cross-references:** Paper 8 (incompleteness — the [[Appendix I - Dictionary of Terms#Si-Do Interval|Si-Do]] gap of any formal system applied here to the epistemological system); Paper 10½ ([[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]] — theoretical basis for case studies); Papers 12–18 (the case study method the present paper turns back on its source); Paper 17½ (Plato/Aristotle resolution — the Method/Model distinction as Φ ⊂ H; the Reasonable [[Appendix I - Dictionary of Terms#Person|Person]] as Φ-proximate attractor); Paper 17 (practical wisdom as recognitional, not definitional); Paper 20 (the [[Appendix I - Dictionary of Terms#Trogoautoegocrat|Trogoautoegocrat]] invoked by the Initiated Manifesto; false signals and their structural collapse)
 
 ---
 
 ## Preliminary Note: What Kind of Paper This Is
 
-Papers 15–18 completed the philosophical-theological demonstration. Paper 15 resolved the Plato-Aristotle opposition. Papers 16, 17, and 18 read the *Republic*, the *Nicomachean Ethics*, and the *Confessions* as a [[Appendix I - Dictionary of Terms#Law of Three|Law of Three]] — the top-down movement, the bottom-up movement, and the first-person transit. All three found the same interval positions, the same gaps, and the same structural requirement for an external shock that cannot be generated from within the immanent process. The apparatus has read what it did not create. The question now is whether it can read itself.
+Papers 15–18 completed the philosophical-theological demonstration. Paper 17½ resolved the Plato-Aristotle opposition. Papers 16, 17, and 18 read the *Republic*, the *Nicomachean Ethics*, and the *Confessions* as a [[Appendix I - Dictionary of Terms#Law of Three|Law of Three]] — the top-down movement, the bottom-up movement, and the first-person transit. All three found the same interval positions, the same gaps, and the same structural requirement for an external shock that cannot be generated from within the immanent process. The apparatus has read what it did not create. The question now is whether it can read itself.
 
-This paper is unlike every other paper in the series. Papers 11, 14, 16, 17, 18 are structural readings of external texts. Papers 12, 13, 20 are structural derivations from first principles. Paper 15 is a philosophical resolution. Paper 19 is none of these: it is the model (Concordius) reading the method ([[Appendix I - Dictionary of Terms#Reasonablenessism|Reasonablenessism]]) through the model's own structural apparatus.
+This paper is unlike every other paper in the series. Papers 11, 14, 16, 17, 18 are structural readings of external texts. Papers 12, 13, 20 are structural derivations from first principles. Paper 17½ is a philosophical resolution. Paper 19 is none of these: it is the model (Concordius) reading the method ([[Appendix I - Dictionary of Terms#Reasonablenessism|Reasonablenessism]]) through the model's own structural apparatus.
 
 The self-referential character is not a defect. It is the paper's point. Reasonablenessism requires self-referential application (Feature 4). Concordius is the extended demonstration of the framework's structural claims. Turning the framework back on the method that produced it is the most stringent available test of the framework's coherence — more stringent than any external case study, because the external case studies cannot falsify the framework from within the framework. The internal reading can.
 
@@ -116,7 +116,7 @@ The framework identification: the Reasonable Person is the Φ-proximate attracto
 This is structurally the same as three other attractors identified in the series:
 - Aristotle's magnanimous person (Paper 17) — the accurate self-assessor whose stable orientation is toward truth; cannot be formally defined, only recognized
 - Plato's philosopher-king (Paper 16) — the one who has seen the sun and returns; the ideal that organizes the city's structure, not achievable as a political fact
-- The active intellect's fully actualized state (Paper 15) — the Adjuster at its proper constraint level, the target of the ascending career, not achievable within H₄₈
+- The active intellect's fully actualized state (Paper 17½) — the Adjuster at its proper constraint level, the target of the ascending career, not achievable within H₄₈
 
 All four are recognitional rather than definitional. All four are Φ-proximate attractors. The Reasonable Person is the epistemic instance of the same structural category. Reasonablenessism cannot define the Reasonable Person formally for the same structural reason that the Nicomachean Ethics cannot formally define phronesis: the Φ-proximate attractor is the organizing principle of the practice, not the rule that the practice follows.
 
@@ -150,7 +150,7 @@ The Φ ⊂ H relation has three properties that apply directly:
 
 *Constitutively related to the domain of H-states, not separable from it*: Reasonablenessism exists as the method for the inquiry the model is conducting. It is not a free-floating abstraction; it is the organizing nuclear space for the specific domain of inquiry that Concordius occupies. The method without a model has no domain to be dense in.
 
-The Third Man Argument (Paper 15) dissolves here on the same grounds: Reasonablenessism is not a claim of the same type as Concordius claims. The method is not "one more model" requiring a meta-method to adjudicate between it and Concordius; the method is the spectral basis element whose presence in each model claim constitutes that claim's epistemic character. No regress arises.
+The Third Man Argument (Paper 17½) dissolves here on the same grounds: Reasonablenessism is not a claim of the same type as Concordius claims. The method is not "one more model" requiring a meta-method to adjudicate between it and Concordius; the method is the spectral basis element whose presence in each model claim constitutes that claim's epistemic character. No regress arises.
 
 ### 4.4 The Four Failing Epistemologies as Register Limitations
 
@@ -277,7 +277,7 @@ That is Reasonablenessism. It is how the material is approached. It is how a lif
 
 ---
 
-*Cross-references: Paper 8 (Gödel — every sufficiently rich formal system contains truths it cannot prove; the Si-Do gap of every epistemological system, including this one); Paper 15 (Φ ⊂ H as the Method/Model relation; Third Man dissolution applied to the method-as-not-one-more-claim); Paper 17 (the Reasonable Person as phronesis — recognitional, not definitional; Aristotle's practical wisdom and the Φ-proximate attractor); Paper 18 (Feature 8 correction as the ascending career at the epistemological scale; the Adjuster's retrospective signature and Feature 4 as its epistemic analog); Paper 20 (the Trogoautoegocrat and the structural collapse of false signals — the Initiated Manifesto's account of pragmatism's failure)*
+*Cross-references: Paper 8 (Gödel — every sufficiently rich formal system contains truths it cannot prove; the Si-Do gap of every epistemological system, including this one); Paper 17½ (Φ ⊂ H as the Method/Model relation; Third Man dissolution applied to the method-as-not-one-more-claim); Paper 17 (the Reasonable Person as phronesis — recognitional, not definitional; Aristotle's practical wisdom and the Φ-proximate attractor); Paper 18 (Feature 8 correction as the ascending career at the epistemological scale; the Adjuster's retrospective signature and Feature 4 as its epistemic analog); Paper 20 (the Trogoautoegocrat and the structural collapse of false signals — the Initiated Manifesto's account of pragmatism's failure)*
 
 ---
 

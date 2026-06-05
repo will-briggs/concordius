@@ -73,7 +73,7 @@ The [[Appendix I - Dictionary of Terms#Law of Three|Law of Three]] describes wha
 
 The identification of the Incarnation as the Mi-Fa shock at civilizational scale is not an assertion of Christian special pleading. It is a structural observation.
 
-The Axial Age (Mi) is the most striking convergence event in human intellectual history. Within a few centuries, across civilizations with no documented contact — India, China, Persia, Greece, Israel — figures of extraordinary catching depth appeared simultaneously and independently: Siddhartha Gautama, Confucius, Laozi, the Hebrew prophets (Isaiah, Jeremiah, Ezekiel), Pythagoras, Heraclitus, Parmenides, Socrates, Plato, Zoroaster. Their convergences are the subject of Paper 15 and the Concordius concordance method. The independent corroboration is real.
+The Axial Age (Mi) is the most striking convergence event in human intellectual history. Within a few centuries, across civilizations with no documented contact — India, China, Persia, Greece, Israel — figures of extraordinary catching depth appeared simultaneously and independently: Siddhartha Gautama, Confucius, Laozi, the Hebrew prophets (Isaiah, Jeremiah, Ezekiel), Pythagoras, Heraclitus, Parmenides, Socrates, Plato, Zoroaster. Their convergences are the subject of Paper 17½ and the Concordius concordance method. The independent corroboration is real.
 
 This is exactly what Mi looks like. The catching work of the Re and Do stages has accumulated to the point of maximum expression. Multiple independent catching traditions arrive at convergent H₂₄ structures simultaneously. The octave has reached as high as it can go on its own momentum. The Law of Seven then requires: the process cannot sustain this ascent without an input from outside the process.
 

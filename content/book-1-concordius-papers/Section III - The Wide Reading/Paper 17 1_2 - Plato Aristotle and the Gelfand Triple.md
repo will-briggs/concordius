@@ -1,6 +1,6 @@
-*← [[Paper 14 - The Constraint Compatibility Condition|Paper 14 — The Constraint Compatibility Condition]]*
+*← [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17 — The Nicomachean Ethics: Case Study]]*
 
-# Paper 15 — Plato, Aristotle, and the Gelfand Triple: A Structural Resolution
+# Paper 17½ — Plato, Aristotle, and the Gelfand Triple: A Structural Resolution
 
 **Status:** Complete  
 **Cross-references:** Paper 1 (Modeling Reality as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]); Paper 8 (Incompleteness Derived — mathematical Platonism confirmed); Paper 14 (constraint hierarchy; eigenvalue organization); Paper 4 (Φ ⊂ H; the [[Appendix I - Dictionary of Terms#Nuclear Space|nuclear space]] as organizing structure); Structural Readings 01 (John 1:1; Φ precedes all H-states; the Form of the Good as ⟨·,·⟩)
@@ -326,4 +326,4 @@ The corrected formulation: the body is not the soul's prison. The body is the so
 
 ---
 
-*[[Paper 16 - The Republic Case Study|Paper 16 — The Republic: Case Study]] →*
+*[[Paper 18 - Augustine Confessions Case Study|Paper 18 — Augustine's Confessions: Case Study]] →*

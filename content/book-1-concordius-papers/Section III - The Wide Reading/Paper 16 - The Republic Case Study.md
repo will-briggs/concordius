@@ -1,9 +1,9 @@
-*← [[Paper 15 - Plato Aristotle and the Gelfand Triple|Paper 15 — Plato, Aristotle, and the Gelfand Triple]]*
+*← [[Paper 14 - The Constraint Compatibility Condition|Paper 14 — The Constraint Compatibility Condition]]*
 
 # Paper 16 — The Republic as Ascending Career: A Structural Reading
 
 **Status:** Complete  
-**Cross-references:** Paper 9 (τ(D) — truth as [[Appendix I - Dictionary of Terms#Φ-Proximity|Φ-proximity]]); Paper 8 (incompleteness and the [[Appendix I - Dictionary of Terms#Si-Do Interval|Si-Do]] gap); Paper 11 (Hopkins case study — Case Study 1); Paper 13½ ([[Appendix I - Dictionary of Terms#Kenosis|kenosis]] as descending movement; the returning prisoner); Paper 12 (Bach case study — Case Study 2); Paper 15 (Plato, Aristotle, and the [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]] — the philosophical resolution this case study extends)
+**Cross-references:** Paper 9 (τ(D) — truth as [[Appendix I - Dictionary of Terms#Φ-Proximity|Φ-proximity]]); Paper 8 (incompleteness and the [[Appendix I - Dictionary of Terms#Si-Do Interval|Si-Do]] gap); Paper 11 (Hopkins case study — Case Study 1); Paper 13½ ([[Appendix I - Dictionary of Terms#Kenosis|kenosis]] as descending movement; the returning prisoner); Paper 12 (Bach case study — Case Study 2); Paper 17½ (Plato, Aristotle, and the [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]] — the philosophical resolution this case study extends)
 
 ---
 
@@ -31,7 +31,7 @@ Plato's *Republic* is conventionally read as a political treatise, a theory of j
 
 ## 1. The Text
 
-Paper 15 established the structural ground: Plato and Aristotle are not rivals but complementary traversals of the Gelfand triple — one descending from ⟨·,·⟩, one ascending from H. This paper is the first of three case studies that verify that reading in full. Papers 16–18 are themselves a Law of Three: the *Republic* (Active — the top-down movement from the Form of the Good), the *Nicomachean Ethics* (Passive — the bottom-up movement from the particular human being), and the *Confessions* (Reconciling — the ascending career undergone from within). The *Republic* is the Active term. Plato's argument descends from the highest principle and organizes the resistant material around it; the philosopher has been outside the cave and returns; every structural interval position in the text is a location where the immanent argument reaches its ceiling.
+Paper 17½ established the structural ground: Plato and Aristotle are not rivals but complementary traversals of the Gelfand triple — one descending from ⟨·,·⟩, one ascending from H. This paper is the first of three case studies that verify that reading in full. Papers 16–18 are themselves a Law of Three: the *Republic* (Active — the top-down movement from the Form of the Good), the *Nicomachean Ethics* (Passive — the bottom-up movement from the particular human being), and the *Confessions* (Reconciling — the ascending career undergone from within). The *Republic* is the Active term. Plato's argument descends from the highest principle and organizes the resistant material around it; the philosopher has been outside the cave and returns; every structural interval position in the text is a location where the immanent argument reaches its ceiling.
 
 Plato's *Republic* (Πολιτεία, c. 375 BCE) is the longest and most systematic of the Platonic dialogues. Its stated subject is justice (δικαιοσύνη) — what it is, and whether the just life is better than the unjust even apart from consequences. To answer this question, Socrates proposes examining justice in a city (a "larger letters" version of the soul) and then in the soul by analogy. The dialogue proceeds through ten books, founding a city in speech (Kallipolis), identifying justice as each part of city and soul doing its proper function, then defending the philosopher-king as the only ruler capable of knowing and implementing justice, and concluding with a vision of the soul's immortality and the eschatological reward of the just life.
 
@@ -141,7 +141,7 @@ The soul's three parts — rational (λογιστικόν), spirited (θυμοε
 
 | Soul part | Law of Three | Framework identification |
 |---|---|---|
-| Rational (λογιστικόν) | Active | The Φ-proximate organizing principle; the part that catches and accumulates Φ-proximal content; the seat of the passive intellect (Paper 15, Section 11.3) under the [[Appendix I - Dictionary of Terms#Thought Adjuster|Adjuster]]'s illumination |
+| Rational (λογιστικόν) | Active | The Φ-proximate organizing principle; the part that catches and accumulates Φ-proximal content; the seat of the passive intellect (Paper 17½, Section 11.3) under the [[Appendix I - Dictionary of Terms#Thought Adjuster|Adjuster]]'s illumination |
 | Spirited (θυμοειδές) | Reconciling | The mediating force — neither pure appetite nor pure reason; the part that in a well-ordered soul amplifies the rational direction against the appetitive pull; courage and indignation as its proper expressions |
 | Appetitive (ἐπιθυμητικόν) | Passive | The H₄₈-primary drive structure; the seat of desire for food, sex, money, comfort; the resistant material that must be organized by the rational, not suppressed but properly directed |
 
@@ -187,7 +187,7 @@ This has a consequence for the Republic's political reading. The city Socrates b
 
 *Republic* Book VI (509b) contains the most precise statement of the Form of the Good's structural position: "The Good is not being, but is still beyond being in dignity and power" (οὐκ οὐσίας ὄντος τοῦ ἀγαθοῦ, ἀλλ᾽ ἔτι ἐπέκεινα τῆς οὐσίας πρεσβείᾳ καὶ δυνάμει ὑπερέχοντος).
 
-This is the single most precisely stated claim in the entire dialogue. The Good is not among the beings (not an element of H, not even a Form among Forms); it is beyond being (ἐπέκεινα τῆς οὐσίας) in dignity and power. Paper 15 identified this as ⟨·,·⟩: the [[Appendix I - Dictionary of Terms#Inner Product|inner product]] is not an element of H; it is the organizing relational structure that generates the eigenstates of Φ and makes H a [[Appendix I - Dictionary of Terms#Hilbert Space|Hilbert space]]. "Beyond being" = not an element of any space in the Gelfand triple. "Source of being and truth" = generates the eigenstates (the Forms) whose truth-value is assessed by the spectral decomposition that ⟨·,·⟩ enables.
+This is the single most precisely stated claim in the entire dialogue. The Good is not among the beings (not an element of H, not even a Form among Forms); it is beyond being (ἐπέκεινα τῆς οὐσίας) in dignity and power. Paper 17½ identified this as ⟨·,·⟩: the [[Appendix I - Dictionary of Terms#Inner Product|inner product]] is not an element of H; it is the organizing relational structure that generates the eigenstates of Φ and makes H a [[Appendix I - Dictionary of Terms#Hilbert Space|Hilbert space]]. "Beyond being" = not an element of any space in the Gelfand triple. "Source of being and truth" = generates the eigenstates (the Forms) whose truth-value is assessed by the spectral decomposition that ⟨·,·⟩ enables.
 
 The Analogy of the Sun (507b-509c) maps directly: as the sun is to the visible world (it gives both visibility and being to visible things, but is not itself a visible thing), so the Form of the Good is to the intelligible world (it gives both knowability and being to the Forms, but is not itself a Form). ⟨·,·⟩ gives intelligibility to Φ (the eigenstates are defined by the inner product that makes them eigenstates) and generates the spectral ordering of H (the truth assessment τ(D) is ⟨·,·⟩-organized), but ⟨·,·⟩ is not itself an eigenstate — it is the relational structure that generates eigenstates.
 
@@ -221,7 +221,7 @@ Glaucon's objection to the city of pigs at 372c — "if you were founding a city
 
 ---
 
-*Cross-references: Paper 8 (Gödel and the Si-Do gap); Paper 10½ (Holographic Content Principle — Law of Three operating at all scales); Paper 11 (Hopkins case study — Case Study 1 — interval positions); Paper 13½ (kenotic descent — the philosopher's return to the cave); Paper 12 (Bach case study — Case Study 2 — self-enacting form); Paper 15 (Plato/Aristotle resolution — the Forms as eigenstates; the Form of the Good as ⟨·,·⟩; the Cave Allegory as ascending career map)*
+*Cross-references: Paper 8 (Gödel and the Si-Do gap); Paper 10½ (Holographic Content Principle — Law of Three operating at all scales); Paper 11 (Hopkins case study — Case Study 1 — interval positions); Paper 13½ (kenotic descent — the philosopher's return to the cave); Paper 12 (Bach case study — Case Study 2 — self-enacting form); Paper 17½ (Plato/Aristotle resolution — the Forms as eigenstates; the Form of the Good as ⟨·,·⟩; the Cave Allegory as ascending career map)*
 
 ---
 

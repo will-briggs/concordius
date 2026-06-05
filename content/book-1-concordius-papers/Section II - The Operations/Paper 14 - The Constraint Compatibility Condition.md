@@ -597,7 +597,7 @@ The CCC (Section 6) now has a deeper structural home: the compatibility conditio
 
 What remains open: whether H-origin beings undergo their own form of development within H — whether there is an H-internal ascending trajectory analogous to the Φ′ → H career — is not derivable from the framework's current state. The structural claim established here is the asymmetry in mechanism: Φ′-origin beings must catch because catching is their only mode of contact with ⟨·,·⟩; H-origin beings have that contact constitutively.
 
-*(Cross-references: Paper 2, §13 — H-origin / Φ′-origin structural derivation; Paper 7 — catching as volitional act; Paper 15, OQ6 — the soma-sema doctrine inverted by this distinction)*
+*(Cross-references: Paper 2, §13 — H-origin / Φ′-origin structural derivation; Paper 7 — catching as volitional act; Paper 17½, OQ6 — the soma-sema doctrine inverted by this distinction)*
 
 ---
 

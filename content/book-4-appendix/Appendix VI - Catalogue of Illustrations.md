@@ -76,7 +76,7 @@ title: Appendix VI - Catalogue of Illustrations
 **Section III - The Wide Reading — index**
 - *Andrea Bonaiuto, Triumph of St. Thomas Aquinas* (1365) &nbsp;·&nbsp; `bonaiuto-triumph-aquinas.jpg`
 
-**Paper 15 - Plato Aristotle and the Gelfand Triple**
+**Paper 17 1_2 - Plato Aristotle and the Gelfand Triple**
 - *Bust of Plato* &nbsp;·&nbsp; `plato-bust.jpg`
 
 **Paper 16 - The Republic Case Study**
