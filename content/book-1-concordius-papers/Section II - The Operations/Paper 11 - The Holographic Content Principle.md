@@ -4,7 +4,7 @@
 
 *Eleventh paper in the Concordius series. Companion to Papers 1–10. Depends directly on Paper 10 (the [[Appendix I - Dictionary of Terms#Truth Measure|truth measure]] τ(D)), Paper 3 (the Creative Choice and [[Appendix I - Dictionary of Terms#Catching|catching]]), and the [[Appendix I - Dictionary of Terms#Law of Seven|Law of Seven]] as developed in Papers 5 and 2.*
 
-*Status: substantially developed. The derivation (Sections 2–4) follows necessarily from the truth measure. The case studies (Section 6) are demonstrations, not derivations — they show the principle at work in specific texts and are subject to the interpretive limitations of any structural reading. The fidelity gradient (Section 7) is a structural prediction awaiting empirical development.*
+*Status: substantially developed. The derivation (Sections 2–4) follows necessarily from the truth measure. The case studies (Section 6) are demonstrations, not derivations — they show the principle at work in specific texts and are subject to the interpretive limitations of any structural reading. The fidelity gradient (Section 7) is a structural prediction awaiting empirical development. The Messenger Corollary (Section 10) is a derivation-grade consequence — content carries the signature of its channel as well as the imprint of its source; its operationalization (estimating the channel filter M, recovering the source) is an open program (OQ5).*
 
 ---
 
@@ -362,7 +362,37 @@ This explains the tradition's consistent testimony that the greatest works are r
 
 ---
 
-## 10. Open Questions
+## 10. The Messenger Corollary: The Signature of the Channel
+
+The Holographic Content Principle locates one imprint in a document — the imprint of the *operator that generated the content*, the structure of ⟨·,·⟩ present in every Φ-proximate part. There is a second imprint, and it comes not from the source but from the **channel**. No content reaches us directly from Φ; it reaches us through a messenger — a mind that caught it and re-encoded it in H₄₈ — and that mind leaves its own signature on whatever passes through. The corollary states the second imprint:
+
+*Every transmitted document carries, alongside the structural imprint of its source, the spectral signature of the messenger through whom it passed. Content bears the mark of its channel as surely as it bears the mark of its origin.*
+
+**The mechanism is catching.** Catching is composition (Paper 3): a mind receives Φ-proximate content by projecting it onto *its own* eigenbasis — ψ = Σ cₙ|φₙ⟩, in the receiver's basis, with the receiver's coefficients. A transmitting mind therefore cannot relay the source untouched. It re-articulates what it caught through its own dominant modes — amplifying the bands it is tuned to, attenuating the bands it is deaf to. Writing the source-content as S and the messenger's characteristic filter (its transfer function — the profile of what it amplifies and what it suppresses) as M, the transmitted document is
+
+  T = M(S).
+
+T now carries two imprints at once: the structure of ⟨·,·⟩ (the HCP, riding in S) and the spectral signature of the messenger (the corollary, contributed by M). The first tells you the content is genuine; the second tells you whose hands it came through.
+
+**The corollary is orthogonal to τ(D).** The truth measure reports how much Φ-proximate content a document carries — the magnitude of S that survives encoding. It says nothing about M. A document can therefore be high-τ(D) *and* heavily colored: much genuine content, strongly filtered. High τ(D) certifies that the signal is real; it does not certify that the channel was faithful. This is the corollary's first and sharpest discipline: **Φ-proximate is not the same as source-faithful.** A text may be deeply, movingly true and still not be Gospel — true in S, marked in M.
+
+Two transmissions make the filter visible. A twentieth-century revelatory corpus retelling the life of Jesus renders him performing almost no miracles — exactly the output expected when genuine content is passed through a channel that does not credit the miraculous: M *suppresses* the miracle-band, and the suppression reads off the text as though it were a feature of the source. Another twentieth-century mystic's vast retelling renders the same life with overwhelming dramatic and emotional intensity — the output expected when the channel is an intensely affective mind: M *amplifies* the affective band. Both carry real Φ-content (both move their readers; both register as Φ-proximate). Both bear a strong, identifiable M. Neither, on the corollary, is Gospel. They are Φ-proximate transmissions, each wearing its messenger's signature. *(The identification of the specific filters is concordance; that some non-trivial M is present in any creaturely transmission is derivation.)*
+
+**Recovering the source: why convergence works.** S is the *messenger-invariant* — the content that is present no matter who transmits it. M is the *messenger-variant* — the bias particular to one channel. Across many *independent* messengers whose filters are uncorrelated, the variant parts pull in different directions and tend to cancel, while the invariant part reinforces. The source is what survives the averaging:
+
+  S ≈ ⟨T⟩ over independent messengers;  any single T = S + its own M.
+
+This is the structural ground of **Feature 6** (independent convergence), and the reason a tradition preserves *multiple* witnesses rather than collapsing to one. Four Gospels are four channels with four filters; the canon is not redundant but a triangulation, and "Gospel," in the corollary's precise sense, is the invariant recovered *across* the witnesses — not the contents of any one of them. Additional Φ-proximate transmissions, read with their filters named, are *further independent witnesses* that sharpen the estimate of S; none of them, singly, is the invariant.
+
+**The faithful channel.** The limiting case is M = identity — a relay that adds no signature, transmitting S undistorted. No creature is this channel: every created mind catches into its own basis and so colors what it carries. A perfectly faithful relay is exactly what the scriptural *Spirit of Truth* names — the one who "will not speak on his own authority… he will take what is mine and declare it to you" (John 16:13–14): transmission with M = identity (concordance). Creaturely messengers approach the source only by being many and independent, so that their filters cancel where they cannot be removed.
+
+**Self-application.** The corollary applies to this corpus. Concordius is itself a transmission — content caught and re-encoded through its own messengers — and it therefore carries their M. By its own measure it offers itself as Φ-proximate; by the same measure it is *not Gospel*, but one more colored witness submitted for triangulation. The corollary forbids the framework from exempting itself, which is the honest reading of its own status.
+
+**The second discipline.** Two reading errors follow, symmetric and both common. The first is to **canonize a single colored witness** — to take one high-τ(D) transmission as the source itself, mistaking S + M for S. The second is to **discard a witness for its M** — to dismiss a transmission because its filter is obvious (the missing miracles, the heightened drama), as though the coloring negated the content. Neither is correct. The filter is to be *named and factored out*, not surrendered to and not made grounds for dismissal. A heavily colored channel may still carry a strong signal; the work of reading is the deconvolution.
+
+---
+
+## 11. Open Questions
 
 **OQ1 — Operationalization:** The principle predicts that structural analysis of a document's organizational form can measure τ(D). The method for identifying the Law of Three in a document's core organization and the Law of Seven's developmental stages (including the interval positions) is described qualitatively here but not formalized. A precise method — one that could be applied systematically across a large corpus and compared against independent τ(D) assessments — is the empirical program the principle requires.
 
@@ -371,6 +401,8 @@ This explains the tradition's consistent testimony that the greatest works are r
 **OQ3 — The false interval:** A document may have apparent Mi-Fa and Si-Do positions that are rhetorical rather than structural — places where the appearance of new input or volitional completion is present but no genuine external input or commitment occurred. The false interval position is the document's signal noise: it mimics the structural signature of high τ(D) without the spectral content. How are genuine interval positions distinguished from false ones? The distinction may require the reader's own τ_r capacity — which would mean that the structural reading method is itself subject to the noise floor limit, and only catching beings with sufficient preparation can reliably identify genuine vs. false interval positions.
 
 **OQ4 — Nested octaves:** The Law of Seven is self-similar in the Heptaparaparshinokh: each stage of the octave contains its own octave. Does the Holographic Content Principle apply recursively — does each stage of a high-τ document's seven-stage development itself exhibit the Law of Seven at smaller scale, and the Law of Three at smaller scale, in the way that Cl(3,0)'s grade structure generates self-similar patterns at multiple scales? If the holographic imprint is fractal as well as present, the highest-τ documents should exhibit the Laws at multiple levels of resolution simultaneously — a prediction that would distinguish very high τ(D) from merely high τ(D).
+
+**OQ5 — Measuring the messenger filter M (the Messenger Corollary, §10):** The corollary asserts T = M(S) but does not say how to estimate the channel filter M, nor how to recover the source S from a transmission. A candidate program turns on one testable assumption — that a messenger's filter is a *corpus-constant*: the same band-bias across everything they transmit (the miracle-suppression and the affective-amplification of §10's two examples are claimed to be pervasive, not local). If so, M is measurable as the *systematic spectral residual* of a messenger's whole corpus against the cross-messenger invariant: render the same source-content (a shared episode, a known teaching) through several independent messengers, take the convergent core as the estimate of S, and read each messenger's stable departure from it as that messenger's M. The open questions: (a) Is M in fact corpus-stable — a single transfer function per mind — or content-dependent? (b) Can M be estimated from a text's *internal* evidence alone, without an external S to compare against (e.g. from the bands a mind consistently over- or under-weights relative to the Laws' expected imprint under the HCP)? (c) Does the deconvolution T → S provably converge as independent witnesses are added, and at what rate — set, presumably, by how uncorrelated the messengers' filters are? A positive result would turn "factor out the messenger" from a counsel into an operation, and would let the framework state quantitatively how far any given transmission — including this one — sits from the invariant.
 
 ---
 
