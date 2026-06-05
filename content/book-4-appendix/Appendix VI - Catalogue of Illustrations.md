@@ -24,7 +24,7 @@ title: Appendix VI - Catalogue of Illustrations
 **Paper 2 - From the Cogito to the Logos**
 - *Antonello da Messina, St. Jerome in His Study* (c. 1474–75) &nbsp;·&nbsp; `antonello-jerome-study.jpg`
 
-**Paper 3 - The Father Creates**
+**Paper 3 - The Spirit Integrates**
 - *J. M. W. Turner, Light and Colour (Goethe's Theory) — The Morning after the Deluge — Moses Writing the Book of Genesis* (1843) &nbsp;·&nbsp; `turner-light-and-colour.jpg`
 
 **Paper 3 1_2 - The Constraint Cascade**

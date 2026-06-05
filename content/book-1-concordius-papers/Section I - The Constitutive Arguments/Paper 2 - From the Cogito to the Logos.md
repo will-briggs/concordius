@@ -566,4 +566,4 @@ The nuclear topology τ_nuclear is the least visible structural entity in the Ge
 
 ---
 
-*[[Paper 3 - The Father Creates|Paper 3 — The Father Creates]] →*
+*[[Paper 3 - The Spirit Integrates|Paper 3 — The Spirit Integrates: Creation as Coordinative Actualization]] →*

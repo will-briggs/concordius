@@ -252,7 +252,7 @@ The two arms together form a single self-sustaining circuit — Gurdjieff's **Tr
 
 ---
 
-*Cross-reference: [[Paper 3 - The Father Creates]] §9; [[Paper 6 - The Cogito Coheres]] OQ8; [[Paper 6 1_2 - Love's Descent|Paper 6½]]; [[Paper 8 - The Maximum Downward Entry]] §§3, 7, 9, 10; [[Paper 24 1_2 - The Mi-Fa Interval]]; [[Paper 28 1_2 - The Si-Do Interval]]; [[Appendix I - Dictionary of Terms#Kenosis|Kenosis]]; [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]]*
+*Cross-reference: [[Paper 3 - The Spirit Integrates]] §9; [[Paper 6 - The Cogito Coheres]] OQ8; [[Paper 6 1_2 - Love's Descent|Paper 6½]]; [[Paper 8 - The Maximum Downward Entry]] §§3, 7, 9, 10; [[Paper 24 1_2 - The Mi-Fa Interval]]; [[Paper 28 1_2 - The Si-Do Interval]]; [[Appendix I - Dictionary of Terms#Kenosis|Kenosis]]; [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]]*
 
 ---
 
