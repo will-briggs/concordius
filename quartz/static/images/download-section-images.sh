@@ -255,6 +255,19 @@ dl feature-12-basket-of-fruit.jpg \
 
 echo ""
 echo "Verifying all downloads..."
+# ─── New Section I figures (Papers 5, 6½, 7) ──────────────────
+dl trouvelot-orion-nebula.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Trouvelot-_The_great_nebula_in_Orion_-_1875.jpg?width=1400" \
+  "Paper 5: E. L. Trouvelot - The Great Nebula in Orion (1882)"
+
+dl geertgen-nativity-night.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Geertgen_tot_Sint_Jans,_The_Nativity_at_Night,_c_1490.jpg?width=1400" \
+  "Paper 6.5: Geertgen tot Sint Jans - The Nativity at Night (c. 1490)"
+
+dl rembrandt-philosopher-meditation.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt_-_The_Philosopher_in_Meditation.jpg?width=1400" \
+  "Paper 7: Rembrandt - The Philosopher in Meditation (1632)"
+
 for f in \
   antonello-jerome-study.jpg \
   masaccio-trinity.jpg ladder-of-divine-ascent.jpg \
@@ -268,7 +281,8 @@ for f in \
   durer-praying-hands.jpg bruegel-tower-of-babel.jpg \
   rembrandt-two-old-men-disputing.jpg holbein-the-ambassadors.jpg \
   friedrich-monk-by-the-sea.jpg \
-  feature-01-vermeer-balance.jpg feature-02-forge-of-vulcan.jpg feature-03-incredulity-of-thomas.jpg feature-04-las-meninas.jpg feature-05-moneylender.jpg feature-06-pentecost.jpg feature-07-ouroboros.png feature-08-air-pump.jpg feature-09-great-chain-of-being.png feature-10-carta-marina.jpg feature-11-william-of-ockham.jpg feature-12-basket-of-fruit.jpg; do
+  feature-01-vermeer-balance.jpg feature-02-forge-of-vulcan.jpg feature-03-incredulity-of-thomas.jpg feature-04-las-meninas.jpg feature-05-moneylender.jpg feature-06-pentecost.jpg feature-07-ouroboros.png feature-08-air-pump.jpg feature-09-great-chain-of-being.png feature-10-carta-marina.jpg feature-11-william-of-ockham.jpg feature-12-basket-of-fruit.jpg \
+  trouvelot-orion-nebula.jpg geertgen-nativity-night.jpg rembrandt-philosopher-meditation.jpg; do
   check_image "$f"
 done
 

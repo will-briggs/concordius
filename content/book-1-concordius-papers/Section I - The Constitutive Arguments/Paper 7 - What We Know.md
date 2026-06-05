@@ -12,6 +12,13 @@ This paper summarizes Section I. The constitutive arguments began from one assum
 
 ---
 
+<figure>
+<img src="/static/images/rembrandt-philosopher-meditation.jpg" alt="Rembrandt, The Philosopher in Meditation" style="max-width:100%;">
+<figcaption><em>Rembrandt, The Philosopher in Meditation</em> (1632). Louvre, Paris. The room is fully drawn; the stair winds up into a dark the picture does not light.</figcaption>
+</figure>
+
+<hr>
+
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
 > **"We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time."**

@@ -12,6 +12,13 @@ This paper traces the unbroken material sequence from the moment particles acqui
 
 ---
 
+<figure>
+<img src="/static/images/trouvelot-orion-nebula.jpg" alt="Trouvelot, The Great Nebula in Orion" style="max-width:100%;">
+<figcaption><em>É. L. Trouvelot, The Great Nebula in Orion</em> (1882). Drawn by hand from years at the eyepiece, before astrophotography — a region where the elements this paper follows are still being made.</figcaption>
+</figure>
+
+<hr>
+
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
 > **"There is grandeur in this view of life… from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved."**

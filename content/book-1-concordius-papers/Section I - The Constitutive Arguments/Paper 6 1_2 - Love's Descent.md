@@ -15,8 +15,8 @@ This paper is the **descending arm** of the Trogoautoegocrat — Love coming dow
 ---
 
 <figure>
-<img src="/static/images/fra-angelico-transfiguration.jpg" alt="The Transfiguration" style="max-width:100%;">
-<figcaption><em>Fra Angelico, The Transfiguration</em> (c. 1440–42). Convent of San Marco, Florence. The three kenoses are partially visible here: the amplitude limiter momentarily suspended, the Φ-proximate content expressing above the kenotic constraint, the disciples' organizational perturbation registering the cross-term mechanism at an amplitude H₄₈ rarely receives.</figcaption>
+<img src="/static/images/geertgen-nativity-night.jpg" alt="Geertgen tot Sint Jans, The Nativity at Night" style="max-width:100%;">
+<figcaption><em>Geertgen tot Sint Jans, The Nativity at Night</em> (c. 1490). National Gallery, London. The only light in the room comes from the child on the floor.</figcaption>
 </figure>
 
 <hr>
