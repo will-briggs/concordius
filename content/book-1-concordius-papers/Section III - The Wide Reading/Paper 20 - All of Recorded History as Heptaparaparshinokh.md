@@ -215,16 +215,6 @@ What the structural reading licenses as diagnosis:
 
 ---
 
-## Self-Enacting Form
-
-This paper is itself inside the gap it describes. It cannot be written from the next Do. It is written from within the Si/Do interval, applying the apparatus of Papers 1–20 to the largest available object. The model reading history is itself a moment in the history the model is reading.
-
-This is not a vicious circularity. It is the self-referential character of any genuine inquiry conducted from within its own subject matter. The Reasonable Person (Paper 18) always operates from within the evidence she is evaluating. The paper does not pretend to be outside the gap — it explicitly locates itself inside it. This is the honest position. The paper's [[Appendix I - Dictionary of Terms#Stability|stability]] is not provided by a view from nowhere. It is provided by the convergence of the apparatus (Papers 1–20) with the object (history), evaluated by the Reasonable Person applying honest scrutiny to the total available evidence.
-
-The paper ends where history currently ends: in the gap, looking toward a Do that the paper cannot describe in advance of its arrival. This is the correct terminal position for a paper written in the Si/Do interval.
-
----
-
 ## Open Questions
 
 **OQ1: The Axial Age as Mi — is the identification warranted?**

@@ -4,6 +4,10 @@
 
 ---
 
+> **The magician's reveal — read this last, if at all.** Everywhere else, the series performs its structure and leaves you to notice it; the noticing is part of what the series is for. This appendix is the one place the method is shown outright — the trick explained, after it has been done. Nothing in the series depends on reading it. If you have not yet read the series, or would rather let the structure work on you before you watch how it works, stop here and come back when you are done. If you want to see the machinery, read on.
+
+---
+
 ## Prefatory Note
 
 The series has read Plato's *Republic*, Aristotle's *Nicomachean Ethics*, Augustine's *Confessions*, Bach's *Art of Fugue*, and all of recorded history as structural objects — applying the Laws of Three and Seven to find the interval positions, the force identifications, and the self-enacting properties that the objects themselves could not name while they were being written. It would be a structural inconsistency to exempt the series from the same reading. This appendix applies the apparatus to its own source.
