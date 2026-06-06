@@ -572,13 +572,11 @@ But a careful naming of *this* structure cannot end as a catalogue, because the 
 
 9. **Gospel of John.** [The primary source for the structural readings in Section 10.]
 
-10. **The Urantia Book.** (1955). Urantia Foundation. [Urantia cosmological vocabulary: Isle of Paradise, Havona, the three Absolutes — Deity, Unqualified, Universal; concordance-tier source, concordance developed in Section II.]
+10. **Aquinas, T.** *Summa Theologica*, I, Q. 27–43. [The classical articulation of Trinitarian processions — the Filioque controversy in its original formulation.]
 
-11. **Aquinas, T.** *Summa Theologica*, I, Q. 27–43. [The classical articulation of Trinitarian processions — the Filioque controversy in its original formulation.]
+11. **Maudlin, T.** (2007). *The Metaphysics Within Physics.* Oxford University Press. [Structural realism as the appropriate philosophical stance toward mathematical models of reality.]
 
-12. **Maudlin, T.** (2007). *The Metaphysics Within Physics.* Oxford University Press. [Structural realism as the appropriate philosophical stance toward mathematical models of reality.]
-
-13. **Ladyman, J., and Ross, D.** (2007). *Every Thing Must Go.* Oxford University Press. [Ontic structural realism — the view that structure is the ground of being, not the other way around.]
+12. **Ladyman, J., and Ross, D.** (2007). *Every Thing Must Go.* Oxford University Press. [Ontic structural realism — the view that structure is the ground of being, not the other way around.]
 
 ---
 
