@@ -432,7 +432,7 @@ That question is not rhetorical. It has a structural answer. The self-sustaining
 
 ---
 
-*Cross-reference: [[Paper 1 - Modeling Reality as a Gelfand Triple]]; [[Paper 2 - From the Cogito to the Logos]]; [[Paper 3 - The Spirit Integrates]]; [[Paper 4 - Descent as Densification]] — Section 2 (norm as gravity); [[Paper 6 1_2 - Love's Descent|Paper 6½]] — Section 3 (Master Spirits as cosmic instantiation), Open Question 4 (grade structure of planetary sequence); [[Paper 6 1_2 - Love's Descent|Paper 6½]] — the full kenotic sequence; [[Episodes/Season 1/S1E3 - The Superuniverse: Seven from Three]]; [[Episodes/Season 1/S1E4 - Clifford Algebra in Time: The Seven Bestowal Missions]]; [[The Structural Reading]] — norm and Paradise entries; [[Physics Concordance]] — Paradise, norm, eigenvalue spectrum entries*
+*Cross-reference: [[Paper 1 - Modeling Reality as a Gelfand Triple]]; [[Paper 2 - From the Cogito to the Logos]]; [[Paper 3 - The Spirit Integrates|Paper 3 — Coordinative Actualization]]; [[Paper 4 - Descent as Densification]] — Section 2 (norm as gravity); [[Paper 6 1_2 - Love's Descent|Paper 6½]] — Section 3 (Master Spirits as cosmic instantiation), Open Question 4 (grade structure of planetary sequence); [[Paper 6 1_2 - Love's Descent|Paper 6½]] — the full kenotic sequence; [[Episodes/Season 1/S1E3 - The Superuniverse: Seven from Three]]; [[Episodes/Season 1/S1E4 - Clifford Algebra in Time: The Seven Bestowal Missions]]; [[The Structural Reading]] — norm and Paradise entries; [[Physics Concordance]] — Paradise, norm, eigenvalue spectrum entries*
 
 ---
 

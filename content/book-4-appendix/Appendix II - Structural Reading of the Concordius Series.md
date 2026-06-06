@@ -60,7 +60,7 @@ Paper 1's Do contains a feature that the series does not announce until Paper 18
 
 ---
 
-### Re — Papers 2–3: *Cogito to Logos / The Spirit Integrates*
+### Re — Papers 2–3: *Cogito to Logos / Coordinative Actualization*
 
 The Re stage develops the Do's initial identification in the first directions that immediately present themselves: the epistemological argument and the volitional argument. Paper 2 takes the one undeniable fact — consciousness, the Cartesian cogito — and derives the Logos from it. Paper 3 turns from the creative act to its result — the Spirit's integration of the actualized world into one coherent order — and locates within it what the Creative Choice had to be, given what the Do established about freedom and self-constitution. The Re stage is the Do's most direct implications worked out: given the Gelfand triple, what follows about knowledge and about freedom?
 

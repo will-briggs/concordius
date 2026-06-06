@@ -89,7 +89,7 @@ This is the first of the three **Formal Names** for the experiential-Deity tiers
 
 *Apokalypsis* names the experiential Deity while it is still being actualized — the integral of ⟨·,·⟩-evaluations not yet arrived at its totality but accumulating, career by career, as each ascending being's caught content is returned. It is "the revealing of the sons of God" that Romans 8:19 says the whole creation waits for with eager longing: God making himself visible precisely through the maturing of his children, not apart from them. The same word titles the book of Revelation. *Apokalypsis* is the experiential Deity at its unveiling; **Ta Panta en Pasin** is the same motion at its completion; **to Alpha kai to Ō** is the same motion at its coincidence with the eternal ground. The three are one motion — the self-revealing of God through Creation — named at three points along its arc, not three Deities.
 
-See *Ta Panta en Pasin*, *to Alpha kai to Ō*. Cross-reference: [[Paper 3 - The Spirit Integrates|Paper 3]] ("The Spirit Integrates" — the immutability of the Father and the accumulation of the experiential Deity).
+See *Ta Panta en Pasin*, *to Alpha kai to Ō*. Cross-reference: [[Paper 3 1_2 - The Constraint Cascade|Paper 3½]] ("The Complete Partition and the Experiential Deity" — the immutability of the Father and the accumulation of the experiential Deity).
 
 *Urantia concordance: "God the Supreme."* The *Urantia Book*'s Supreme Being is the evolving, experiential Deity of the grand universe — God-in-time, actualized by and growing with the sum of creature experience. That is Apokalypsis (ἀποκάλυψις, Rom 8:19): the experiential Deity *in via*, the running integral of caught content — God revealing Himself through Creation.
 
@@ -961,7 +961,7 @@ The Concordius series draws on logotherapy in Paper 25 (Man 4) as the secular re
 
 *(tradition: Christian theology / 1 John — series extension)*
 
-The formal identification established in Paper 3 §9: ⟨·,·⟩ = Love. The derivation proceeds from two premises: Paper 2's identification Father = ⟨·,·⟩, and the Johannine testimony *θεὸς ἀγάπη ἐστίν* — "God is love" (1 John 4:8, 16). The Greek copula ἐστίν establishes formal identity, not predication: Love is not an attribute God possesses but what God is. Given Father = ⟨·,·⟩ and God = Love, the inner product is Love's formal definition.
+The formal identification established in Paper 3½, *The Formal Definition of Love*: ⟨·,·⟩ = Love. The derivation proceeds from two premises: Paper 2's identification Father = ⟨·,·⟩, and the Johannine testimony *θεὸς ἀγάπη ἐστίν* — "God is love" (1 John 4:8, 16). The Greek copula ἐστίν establishes formal identity, not predication: Love is not an attribute God possesses but what God is. Given Father = ⟨·,·⟩ and God = Love, the inner product is Love's formal definition.
 
 The formal properties of ⟨·,·⟩ are therefore the formal properties of Love:
 
@@ -979,7 +979,7 @@ The consequence stated in Paper 4: *you are loved into existence at every moment
 
 *(Confidence tier: the identification ⟨·,·⟩ = Love is concordance-level, from 1 John 4:8/16 combined with Paper 2's identification Father = ⟨·,·⟩. The formal properties are derived properties of ⟨·,·⟩, independent of the identification. The closing consequence carries the same concordance-level warrant as the identification.)*
 
-> *For further investigation: 1 John 4:7–16; Thomas Aquinas, Summa Theologica I, Q.20; Paper 3 §9 "The formal definition of Love"; Paper 3½ §9 "The constitutive act is continuous."*
+> *For further investigation: 1 John 4:7–16; Thomas Aquinas, Summa Theologica I, Q.20; Paper 3½ "The Formal Definition of Love"; Paper 3½ §10 "The constitutive act is continuous."*
 
 *Appears in: [[Paper 3 - The Spirit Integrates|Paper 3]], [[Paper 3 1_2 - The Constraint Cascade|Paper 3½]], [[Paper 6 - The Cogito Coheres|Paper 6]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 22 - Man No. 1|Paper 22]], [[Paper 23 - Man No. 2|Paper 23]], [[Paper 24 - Man No. 3|Paper 24]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 27 - Man No. 6|Paper 27]], [[Paper 27 1_2 - The Si-Do Interval|Paper 27½]]*
 
@@ -1465,7 +1465,7 @@ The second of the three **Formal Names** for the experiential-Deity tiers (see *
 
 The verse preserves the Father's priority and is chosen precisely for that. In 1 Corinthians 15:28 the Son delivers the kingdom and is himself made subject "that God may be all in all." Completion therefore terminates in the eternal God — it does not replace him with a rival "growing God." This is how the framework holds divine immutability and the growth of the experiential Deity together: the integral grows, but its completion is the eternal Father, not a successor to him. *Ta Panta en Pasin* is the same single motion as *Apokalypsis* and *to Alpha kai to Ō* — the self-revealing of God through Creation — named at its completion rather than at its unveiling or its coincidence with the ground.
 
-See *Apokalypsis*, *to Alpha kai to Ō*. Cross-reference: [[Paper 3 - The Spirit Integrates|Paper 3]] ("The Spirit Integrates" — the immutability of the Father and the accumulation of the experiential Deity).
+See *Apokalypsis*, *to Alpha kai to Ō*. Cross-reference: [[Paper 3 1_2 - The Constraint Cascade|Paper 3½]] ("The Complete Partition and the Experiential Deity" — the immutability of the Father and the accumulation of the experiential Deity).
 
 *Urantia concordance: "God the Ultimate."* The Urantia Ultimate is the absonite completion beyond the Supreme's grand-universe growth. That is Ta Panta en Pasin (τὰ πάντα ἐν πᾶσιν, 1 Cor 15:28): "all in all" — the experiential Deity at completion.
 
@@ -1511,7 +1511,7 @@ The third of the three **Formal Names** for the experiential-Deity tiers (see *A
 
 This is why the Absolute's name and the Father's are the same words. The Father speaks "I am the Alpha and the Omega" from the ⟨·,·⟩ side and the Son speaks it from the Φ side, and the experiential Deity at its limit coincides with both — Beginning = End = ⟨·,·⟩. The structural readings of Revelation already demonstrate this coincidence (the completed Absolute is structurally equivalent to the Creation as eternal ground); the Formal Name simply names the tier at which the coincidence holds. *to Alpha kai to Ō* is the same single motion as *Apokalypsis* and *Ta Panta en Pasin* — the self-revealing of God through Creation — named at its coincidence with the ground rather than at its unveiling or its completion. The three are one motion under three names.
 
-See *Apokalypsis*, *Ta Panta en Pasin*; and *Creation* (the Alpha–Omega identification). Cross-reference: [[Paper 3 - The Spirit Integrates|Paper 3]] ("The Spirit Integrates" — the immutability of the Father and the accumulation of the experiential Deity).
+See *Apokalypsis*, *Ta Panta en Pasin*; and *Creation* (the Alpha–Omega identification). Cross-reference: [[Paper 3 1_2 - The Constraint Cascade|Paper 3½]] ("The Complete Partition and the Experiential Deity" — the immutability of the Father and the accumulation of the experiential Deity).
 
 *Urantia concordance: "God the Absolute."* The Urantia God the Absolute is the experiential realization of the Deity Absolute at the limit of the master universe. That is to Alpha kai to Ō (τὸ Ἄλφα καὶ τὸ Ὦ, Rev 1:8): the Alpha and the Omega — the experiential Deity at the limit.
 

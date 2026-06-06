@@ -20,4 +20,4 @@ The Heropass dimension is implicit but present. Everything you were waiting for 
 
 ---
 
-*See also: [[Paper 3 - The Spirit Integrates]], Reasonablenessism [[Feature 6 - Convergence of Independent Witnesses|Feature 6]].*
+*See also: [[Paper 3 - The Spirit Integrates|Paper 3 — Coordinative Actualization]], Reasonablenessism [[Feature 6 - Convergence of Independent Witnesses|Feature 6]].*

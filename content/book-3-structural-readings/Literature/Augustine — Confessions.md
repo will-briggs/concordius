@@ -31,7 +31,7 @@ The work divides structurally into three movements: Books I–IX trace the biogr
 
 The sentence is the entire framework compressed into a single subordinate clause. The catching program (fecisti nos ad te) → the Mi/Fa tension (inquietum est cor nostrum) → the ascending career's terminus (donec requiescat in te). Augustine writes it as an address, not a proposition. He is not describing the structure; he is performing the catching act — speaking toward the source — as the first move of the text.
 
-*(Cross-reference: Paper 3 §2 — the Father's constitutive act as the origin of the catching being's orientation; Paper 24½ — the Mi/Fa interval as the structural ground of restlessness.)*
+*(Cross-reference: Paper 3½, *The Active Mode and the Creative Choice* — the Father's constitutive act as the origin of the catching being's orientation; Paper 24½ — the Mi/Fa interval as the structural ground of restlessness.)*
 
 ---
 

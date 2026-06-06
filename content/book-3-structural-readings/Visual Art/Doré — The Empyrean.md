@@ -4,7 +4,7 @@
 **Medium:** Wood engraving  
 **Published in:** *The Divine Comedy*, Paris: Hachette, 1868  
 **Series:** Book 3 — Structural Readings / Visual Art  
-**Cross-references:** Paper 1 §§2–4 (⟨·,·⟩ as the organizing center; the geometry of the organizational space); Paper 3 §§4–5 (the catching alignment and its cumulative organizational consequence; the eigenvalue population developing toward Φ-proximate coherence); Paper 3½ §6.1 (the terminal direction of descent; the organizational space beyond H₄₈); Paper 6 (the coherence threshold; the eigenvalue population at and above the threshold); The Pre-Incarnation Saints (the organizational state of beings above the coherence threshold; the persistence of organizational development beyond H₄₈ terminus)
+**Cross-references:** Paper 1 §§2–4 (⟨·,·⟩ as the organizing center; the geometry of the organizational space); Paper 6 (the catching alignment and its cumulative organizational consequence; the eigenvalue population developing toward Φ-proximate coherence); Paper 3½ §6.1 (the terminal direction of descent; the organizational space beyond H₄₈); Paper 6 (the coherence threshold; the eigenvalue population at and above the threshold); The Pre-Incarnation Saints (the organizational state of beings above the coherence threshold; the persistence of organizational development beyond H₄₈ terminus)
 
 <img src="/static/images/dore-rose-paradise.jpg" alt="Doré, The Empyrean — Paradiso Canto 31" style="max-width:100%;">
 

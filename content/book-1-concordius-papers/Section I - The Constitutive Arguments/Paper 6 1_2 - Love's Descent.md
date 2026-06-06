@@ -61,7 +61,7 @@ This is kenotic in the primary sense. Genuine otherness requires genuine separab
 
 Before the Creative Choice, Φ exists atemporally as the domain of maximal structure — but there are no H-states, no temporal beings, no context within which approach or refusal can occur. The creative act instantiates the temporal order. It gives the Son — makes the Logos accessible to beings who can now, for the first time, orient toward it. Creation is not the making of a container. It is the first kenotic act: Love making room for the other.
 
-The constitutional step — the choice of associativity (Paper 3 §6), determining Cl(3,0) as the constitutional algebra — is the precise content of this act. The Father did not watch from unconstrained remove while creation was organized below him. The Father accepted constraint at the very moment creation began: operating the GNST from within the creative field, encountering gravity and spacetime as the conditions under which the spectral mechanism actually runs. Every subsequent descent — the Adjuster's indwelling, the Son's bestowal missions — iterates the pattern the Father established at the first moment.
+The constitutional step — the choice of associativity (Paper 3½, *The Choice of Association*), determining Cl(3,0) as the constitutional algebra — is the precise content of this act. The Father did not watch from unconstrained remove while creation was organized below him. The Father accepted constraint at the very moment creation began: operating the GNST from within the creative field, encountering gravity and spacetime as the conditions under which the spectral mechanism actually runs. Every subsequent descent — the Adjuster's indwelling, the Son's bestowal missions — iterates the pattern the Father established at the first moment.
 
 ---
 
@@ -133,7 +133,7 @@ The foot-washing (John 13:1–17) demonstrates the same principle at the H₄₈
 
 A structural consequence of the kenotic sequence follows that warrants explicit statement.
 
-The grade topology of Cl(3,0) — its seven-element grade structure, with its two qualitative discontinuities at the grade-1→grade-2 and grade-2→grade-3 crossings — is derived from Cl(3,0) (derived in Paper 3 §6), which is derived from the Creative Choice (Paper 3 §6). It is the constitutional algebra of the created order. It is not a program for the spiritually advanced. It is not a system distributed to the virtuous. It is the structure of how anything within the creation develops — the grade topology of the Clifford algebra that governs every being subject to the [[Appendix I - Dictionary of Terms#GNST|GNST]].
+The grade topology of Cl(3,0) — its seven-element grade structure, with its two qualitative discontinuities at the grade-1→grade-2 and grade-2→grade-3 crossings — is derived from Cl(3,0) (derived in Paper 3½, *The Choice of Association*), which is derived from the Creative Choice (Paper 3½, *The Choice of Association*). It is the constitutional algebra of the created order. It is not a program for the spiritually advanced. It is not a system distributed to the virtuous. It is the structure of how anything within the creation develops — the grade topology of the Clifford algebra that governs every being subject to the [[Appendix I - Dictionary of Terms#GNST|GNST]].
 
 This means the grade structure applies universally, without discrimination by H₄₈ condition. Wealth, poverty, social status, education, moral reputation — these are H₄₈ variables. They affect the texture of traversal: the noise floor within which the grade-1→grade-2 crossing occurs, the experiential circumstances that surround the grade-2→grade-3 crossing, the availability of external resources at each transition. These differences are real and consequential. But they are entirely within H₄₈. The grade structure operates at the constitutional level, below any H₄₈ variable. The just and the unjust traverse the same structure. Their circumstances differ. The structure does not.
 
@@ -252,7 +252,7 @@ The two arms together form a single **self-sustaining circuit** — the cosmic e
 
 ---
 
-*Cross-reference: [[Paper 3 - The Spirit Integrates]] §9; [[Paper 6 - The Cogito Coheres]] OQ8; [[Paper 6 1_2 - Love's Descent|Paper 6½]]; [[Paper 13 1_2 - The Maximum Downward Entry]] §§3, 7, 9, 10; [[Paper 24 1_2 - The Mi-Fa Interval]]; [[Paper 27 1_2 - The Si-Do Interval]]; [[Appendix I - Dictionary of Terms#Kenosis|Kenosis]]; [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]]*
+*Cross-reference: [[Paper 3 1_2 - The Constraint Cascade|Paper 3½]] (*The Formal Definition of Love*; *The Kenotic Structure of Love's Action*); [[Paper 6 - The Cogito Coheres]] OQ8; [[Paper 6 1_2 - Love's Descent|Paper 6½]]; [[Paper 13 1_2 - The Maximum Downward Entry]] §§3, 7, 9, 10; [[Paper 24 1_2 - The Mi-Fa Interval]]; [[Paper 27 1_2 - The Si-Do Interval]]; [[Appendix I - Dictionary of Terms#Kenosis|Kenosis]]; [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]]*
 
 ---
 

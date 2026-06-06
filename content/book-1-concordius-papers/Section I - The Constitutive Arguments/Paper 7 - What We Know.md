@@ -62,7 +62,7 @@ What can be done with a structure like this, once it is granted — and what hap
 
 ## References
 
-1. **Companion papers**: the constitutive arguments of Section I — *Modeling Reality as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]*; *From the Cogito to the [[Appendix I - Dictionary of Terms#Logos|Logos]]*; *The Spirit Integrates: Creation as Coordinative Actualization*; *The Constraint Cascade*; *The Son Articulates*; *The Long Ascent*; *The Cogito Coheres*; *Love's Descent*. This paper summarizes them and adds nothing of its own.
+1. **Companion papers**: the constitutive arguments of Section I — *Modeling Reality as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]*; *From the Cogito to the [[Appendix I - Dictionary of Terms#Logos|Logos]]*; *Coordinative Actualization*; *The Constraint Cascade*; *The Son Articulates*; *The Long Ascent*; *The Cogito Coheres*; *Love's Descent*. This paper summarizes them and adds nothing of its own.
 
 2. **Eliot, T. S.** (1943). *Four Quartets.* Harcourt, Brace. ["Little Gidding" — arriving where we started.]
 
