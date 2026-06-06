@@ -8,7 +8,7 @@
 
 ## Abstract
 
-This paper traces the unbroken material sequence from the moment particles acquired mass to the last animal ancestor that stood immediately before the human line — roughly 13.8 billion years, reconstructed from light, rock, isotopes, and genomes. It is a deliberate pause in the series: the previous papers worked downward through the constraint structure to the electroweak vacuum; the next paper takes up the emergence of the self-aware, tool-thinking human. Between those two lies the long ascent — the slow accumulation of structure by which a universe of hydrogen and helium became, on at least one planet, a creature capable of asking where it came from. The account is presented as science, with current dates and citations, and with its major uncertainties flagged: the unknown mechanism of baryogenesis, the unresolved lithium problem, the JWST early-galaxy tension, the contested origin of life, the molecular-versus-fossil dating gap, and the genuinely disputed date and anatomy of the human–chimpanzee last common ancestor. The animal climb ends at the australopithecine grade — bipedal body, ape-grade brain — the last state before the genus *Homo*; the emergence of the knowing, choosing person is the thread of the companion paper. This paper follows the other thread — the body — one step past where biology usually stops: to a particular human body, and, by the same physiology that ends any body, to its death on a cross and its laying in a tomb.
+This paper traces the unbroken material sequence from the moment particles acquired mass to the last animal ancestor that stood immediately before the human line — roughly 13.8 billion years, reconstructed from light, rock, isotopes, and genomes. It is a deliberate pause in the series: the previous papers worked downward through the constraint structure to the electroweak vacuum; the next paper takes up the emergence of the self-aware, tool-thinking human. Between those two lies the long ascent — the slow accumulation of structure by which a universe of hydrogen and helium became, on at least one planet, a creature capable of asking where it came from. The account is presented as science, with current dates and citations, and with its major uncertainties flagged: the unknown mechanism of baryogenesis, the unresolved lithium problem, the JWST early-galaxy tension, the contested origin of life, the molecular-versus-fossil dating gap, and the genuinely disputed date and anatomy of the human–chimpanzee last common ancestor. The animal climb ends at the australopithecine grade — bipedal body, ape-grade brain — the last state before the genus *Homo*; the emergence of the knowing, choosing person is the thread of the companion paper. This paper follows the other thread — the body — past where biology usually stops: through the peopling of the world and the opening of recorded history, then down a single line of descent — the people of Israel, whom the tradition marks as set apart to carry the line — traced through the history of ancient Israel to a body born in Roman Judea, and, by the same physiology that ends any body, to its death on a cross and its laying in a tomb. The historicity debates along that line — the patriarchs, the Exodus, the scale of the united monarchy — are named, not smoothed.
 
 ---
 
@@ -183,11 +183,31 @@ Here the animal climb reaches its last rung. The australopithecine grade — a c
 
 ## 17. The body becomes human
 
-The body-line ran on from the australopithecines through the genus *Homo*, the brain enlarging, the frame settling into its modern proportions, until — by about **300,000 years ago**, the date of the earliest *Homo sapiens* fossils from Jebel Irhoud in Morocco (Hublin et al. 2017) — there existed a body anatomically indistinguishable from the reader's. This paper makes no claim here about the *mind* that came to inhabit that body: the knowing, choosing, self-aware person is the thread of the companion paper, and the question of when and how matter came to host an interior is its question, not this one. On the material thread there is only the body, and the body is now a human one — some thirty-seven trillion cells, the iron in its blood and the calcium in its bones forged in stars that died before the Sun, an organism continuous in every tissue with the long climb behind it, and continuous with every other animal in the one respect that matters here: it can die, and by the ordinary physics of dying.
+The body-line ran on from the australopithecines through the genus *Homo*, the brain enlarging, the frame settling into its modern proportions, until — by about **300,000 years ago**, the date of the earliest *Homo sapiens* fossils from Jebel Irhoud in Morocco (Hublin et al. 2017) — there existed a body anatomically indistinguishable from the reader's. This paper makes no claim here about the *mind* that came to inhabit that body: the knowing, choosing, self-aware person is the thread of the companion paper, and the question of when and how matter came to host an interior is its question, not this one. On the material thread there is only the body, and the body is now a human one — some thirty-seven trillion cells, the iron in its blood and the calcium in its bones forged in stars that died before the Sun, an organism continuous in every tissue with the long climb behind it, and continuous with every other animal in the one respect that will matter at the end: it can die. But the end is not yet. First the body is a link in a line — it would beget others, and they others — and it is the line, now, that the thread follows.
 
 ---
 
-## 18. The death of a body
+## 18. Out of the climb and into history
+
+The species the last section left at three hundred thousand years did what living things do: it bred, and it spread. Sometime after about seventy thousand years ago a population carrying fully modern behavior moved out of Africa and, over tens of millennia, peopled the rest of the planet — reaching Australia by roughly fifty thousand years ago and the Americas by at least sixteen thousand, interbreeding along the way with the Neanderthals and Denisovans it met, whose DNA the reader still carries in traces. Then, beginning around twelve thousand years ago and independently in several places — the Fertile Crescent first among them — came the largest change in the human way of life since the body itself: **agriculture**. Settled villages replaced the moving band; stored surplus made possible specialists, then towns, then, by about five thousand years ago in Mesopotamia and Egypt, cities and **writing**. With writing the long silent climb acquires, for the first time, a documentary record of itself. Recorded history begins.
+
+The thread the rest of this paper follows narrows here, and the narrowing should be named for what it is. The story so far has been the story of everything alive, then of one species. But it is going toward one body — a single human being, born at one place and one time — and to reach that body it must leave the general history of the species and follow a single line of descent: parents to children, down one chain among the billions, across the centuries from the first cities to the first century of the common era. Of all those chains, this paper follows the one that the tradition which produced the body marks as the line set apart to carry it. That line is the people of Israel.
+
+---
+
+## 19. The line: the people of Israel
+
+The tradition's account of the line begins with a herdsman called **Abraham**, who in the early second millennium BCE — by the tradition's own reckoning; the patriarchal narratives were written down a great deal later, and how much history stands behind them is genuinely debated — left Mesopotamia for the land of Canaan under a promise. The promise is the reason the line is followed at all: *in thee shall all families of the earth be blessed* (Genesis 12:3) — a covenant that the blessing of all peoples would descend through his offspring. Through Isaac, through Jacob (renamed **Israel**), and through Jacob's twelve sons the promise is carried; and within it a narrower line is marked early, the line of the fourth son, **Judah**, to whom the scepter is promised (Genesis 49:10). From the very start the tradition is tracing not merely a people but a line of descent inside it.
+
+The narrative goes down into Egypt in famine, multiplies there into a people, and is delivered out of bondage in the **Exodus** under Moses — the constitutive memory of the nation and the setting of the Law given at Sinai. As history this is the hardest stretch to anchor: an event of the magnitude the text describes has left no direct archaeological trace, and its historicity and scale are debated; what is not in doubt is that the memory of it became the spine of a people's identity. By about **1200 BCE** a people called Israel is on the ground in the central highlands of Canaan — and named in stone: the Egyptian **Merneptah Stele**, c. 1208 BCE, records a people "Israel" there, the earliest mention of the name outside the Bible.
+
+Out of a loose confederation came a monarchy: Saul, then **David** around 1000 BCE, then Solomon and the first Temple in Jerusalem. The scale and splendor of that united kingdom are contested between archaeologists who read the record maximally and those who read it minimally — but that a Davidic dynasty was real is no longer in serious doubt: the ninth-century BCE **Tel Dan inscription** names the "House of David" (Biran & Naveh 1993). David is the figure the line bends toward, because the promise narrows onto him — an everlasting throne (2 Samuel 7) — and from here the awaited deliverer is expected to come of David's line. The kingdom then split, Israel in the north and Judah in the south; **Assyria** destroyed and deported the north in 722 BCE; Judah, carrying the Davidic line, lasted another century and more.
+
+Then Judah fell too. **Babylon** took Jerusalem and burned the Temple in 586 BCE and carried the people into **exile** — the catastrophe that, paradoxically, forged the tradition into its lasting form, as the exiles gathered and edited the scriptures that held the line's memory. When **Persia** broke Babylon, Cyrus let the exiles return (from 538 BCE); a second Temple rose, the Torah was consolidated, and the people re-rooted under a succession of empires — Persian, then Greek after Alexander (332 BCE), then, after the **Maccabean** revolt won a brief independence (from 167 BCE) under the Hasmoneans, **Roman**. Pompey took Jerusalem for Rome in 63 BCE; by the line's last stretch the land was a client kingdom under Herod the Great and then a Roman province. It is into this people, in this province, at the turn of the era, that the body the next sections follow was born — a Jew of the tribe of Judah and, the tradition holds, of the house of David, the genealogies of Matthew 1 and Luke 3 tracing the descent down to him. Two thousand years of one line, bodies begetting bodies from Abraham, arrive here.
+
+---
+
+## 20. The death of a body
 
 The material thread ends not at a summit but at a particular death. One human body, in a Roman province in the first century, was put to death by crucifixion — a form of execution well enough attested in the period, and confirmed in the ground: the heel bone of a crucified man named Yehohanan, still transfixed by an iron nail, was recovered at Giv'at ha-Mivtar near Jerusalem in 1968 (Haas 1970; reappraised by Zias & Sekeles 1985). What such a death does to a body is a question the medical literature has taken up directly, and — in the manner of this paper — without full agreement.
 
@@ -199,7 +219,7 @@ The material thread reaches its end here, and the framework adds to the clinical
 
 ---
 
-## 19. Taken down
+## 21. Taken down
 
 The body was taken down before sundown, in keeping with the law against leaving it overnight (Deuteronomy 21:23; John 19:31), wrapped in linen with burial spices, and laid in a rock-hewn tomb. There the material thread of this paper goes quiet. The long climb that began with the first particles to carry mass — that built the elements in stars, assembled a planet, lit the first cell, and raised a body up through four billion years of living forms — comes to rest in a cool chamber of limestone, behind a stone. What it is to keep watch at that stone, and to read the three days the body lay behind it, is the work of the companion paper to this one.
 
@@ -317,7 +337,17 @@ Wilson Mantilla, G.P., et al. (2021). Earliest Palaeocene purgatoriids and the i
 
 Zhu, M., et al. (2022). The oldest complete jawed vertebrates from the early Silurian of China. *Nature* 609, 954–958.
 
-*Added for §§17–19 (the human body and the physiology of the death):*
+*Added for §§18–19 (the peopling and the line of Israel):*
+
+Biran, A., Naveh, J. (1993). An Aramaic stele fragment from Tel Dan. *Israel Exploration Journal* 43, 81–98. [The "House of David" inscription.]
+
+Dever, W.G. (2003). *Who Were the Early Israelites and Where Did They Come From?* Eerdmans. [A centrist synthesis of the archaeology of early Israel.]
+
+Finkelstein, I., Silberman, N.A. (2001). *The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts.* Free Press. [A minimalist-leaning synthesis; cited for the live debates, not as the settled view.]
+
+Hasel, M.G. (1994). Israel in the Merneptah Stela. *Bulletin of the American Schools of Oriental Research* 296, 45–61. [The earliest extrabiblical mention of Israel, c. 1208 BCE.]
+
+*Added for §§20–21 (the human body and the physiology of the death):*
 
 Barbet, P. (1953). *A Doctor at Calvary: The Passion of Our Lord Jesus Christ as Described by a Surgeon.* P.J. Kenedy. [The asphyxia hypothesis; a primary source for one side of the debate, not a current consensus.]
 
