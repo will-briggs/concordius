@@ -984,4 +984,4 @@ The eternal structure is necessary. The creative choice is volitional. The creat
 
 ---
 
-*[[Paper 4 - The Son Articulates|Paper 4 — The Son Articulates: The Word and the Forming of the World]] →*
+*[[Paper 4 - The Son Articulates|Paper 4 — The Word Made Flesh]] →*

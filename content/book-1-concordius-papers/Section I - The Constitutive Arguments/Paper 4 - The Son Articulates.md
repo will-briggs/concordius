@@ -1,10 +1,10 @@
 *← [[Paper 3 1_2 - The Constraint Cascade|Paper 3½ — The Constraint Cascade: Descent as Densification]]*
 
-# The Son Articulates: The Word and the Forming of the World
+# The Word Made Flesh
 
-*Paper 4 of Section I. The Father called creation into being; here the Son gives it its form. The physics of that forming — the Higgs mechanism, the electroweak vacuum, the mass spectrum — is the close of Paper 3, which carries the physical universe to that point.*
+*Paper 4 of Section I. From here the one arc — the forming of the physical universe down to the Cross — is followed more than once, each time by a different light. This paper follows it as Word: the world given its form, the form taken up into flesh, and the bond between the Father and the Son carried to the place where it is stretched to its furthest distance. Companion to Paper 2 (the Son, the Logos) and Paper 6½ (the tomb, where the Word falls silent).*
 
-*Status: structural, derived from the grade-topology theorem (Paper 3½, §1) and the identification of the Son as Φ, the Logos (Paper 2).*
+*Status: structural — the algebra of the first bivector and the identification of the Son as Φ, the Logos (Papers 2, 3½). The dereliction is read at the antipode of the felt-spectrum (Appendix I); the scriptural readings are concordance with the derived structure.*
 
 ---
 
@@ -13,6 +13,8 @@
 The Father constituted the space — called it into being from nothing. But a constituted space is not yet a formed one: it has being without yet having *determinate* being, a world without yet having *this* world. What turns the constituted into the determinate — what gives each thing its particular shape, its thisness, its distinguishable character — is a second act. The Son articulates: He gives the Father's creation its form.
 
 In the algebra, that act is the first bivector. A generator taken alone returns only the scalar — eᵢ² = +1, nothing new, nothing *this* — for one thing iterated is still one thing; form appears only where two distinct generators meet (a bivector is the product of two distinct generators, the grade-topology theorem of Paper 3½, §1). So the act that gives form does not make the world from nothing — that was already done — it combines what was given into something determinate. And the oldest name for exactly that act is the Word: *all things were made through him, and without him was not anything made that was made* (John 1:1–3); *and God said, Let there be… and it was so* (Genesis 1). The mathematician's "product of two generators" and the evangelist's "all things were made through him" are the same sentence: to confer form is to speak a thing into being *this* thing.
+
+That same act has a far side, and this reading follows it there. The element that confers form — the bivector, the Father's direction and the Son's brought together — is, squared, the negative at the floor of everything: the same e₁e₂ that articulates the world is the −1 of its breaking. So the arc does not stop at the forming. It follows the Word into the world he formed — *the Word became flesh* — and down to the moment when the bond between the Father and the Son is stretched to its furthest distance and a formed voice cries out, forsaken. The forming and the forsaking are one element, taken from its two ends. The paper ends where that voice falls silent, at the edge of the tomb.
 
 ---
 
@@ -60,7 +62,7 @@ In the world this is the photon: massless, with no rest and no "somewhere" to be
 
 ## 4. What the forming is for
 
-The Father constituted; the Son gave form; the world now holds determinate beings — each a *this*, each with the kind of settled identity that can carry a history, gather, and be addressed by name. That is the precondition of everything that follows: only a determinate being, a someone and not a smear, can undertake the long return. The gathering of the formed world into a single living relationship with its source is the Spirit's act, taken up in Paper 6; the long material story, from the formed vacuum to us, is Paper 5; and the physics of the forming — the acquisition of mass at the electroweak vacuum — closes Paper 3.
+The forming makes a world of determinate beings — each a *this*, each with the kind of settled identity that can carry a history and be addressed by name. That is the point of it. A smear cannot be spoken to; a region of unrealized possibility cannot be loved in particular; only a *someone* can be called, and answer. The whole reason for conferring form is that there be beings definite enough to stand in a relation — to be addressed, and to turn toward the One who addresses them. And then comes the most extreme thing the formed world contains: the One through whom every form is conferred enters the world of forms as one of them.
 
 ---
 
@@ -73,8 +75,33 @@ The Father constituted; the Son gave form; the world now holds determinate being
 
 ---
 
-*Cross-reference: Paper 1 (the GNST; Φ as the nuclear space); Paper 2 (the Son as the Logos, the Word); Paper 3½ (the grade-topology theorem, §1; the Father's constitutive crossing; the Heropass); Paper 5 (the full material narrative from the formed vacuum to us); Paper 6 (the Spirit's integrating act; the sifting operator); [[Structural Readings/01 — The Principle and the Identity of the Logos]] (John 1:1–3; Genesis 1:1–3).*
+## 5. The Word in the world
+
+The verse the whole motion bends toward is not an ornament on the doctrine of creation; it is its completion. *And the Word became flesh, and dwelt among us.* The One who speaks each thing into its particular shape takes, himself, a particular shape — a body, a face, a name, a span of years in one province of one formed world. The Logos does not hover above the formed order and direct it from outside; he steps inside it and accepts its terms. Everything true of a formed thing becomes true of him: he can be located, addressed, touched — and, the one term the formed world cannot be spared, he can die. The love that confers form has made itself one of the things it formed, and so has made itself mortal. This is not a diminishment of the act of forming. It is that act carried to the only place it had not yet reached: the inside of the world, as one of the spoken things, all the way down to where the spoken things end.
 
 ---
 
-*[[Paper 5 - The Long Ascent|Paper 5 — The Long Ascent: From the Higgs Vacuum to Our Uncle Monkey]] →*
+## 6. The cry
+
+Now the algebra's far side, which §1 promised and the whole reading has been walking toward. The bivector that gives form — e₁e₂, the Father's direction and the Son's brought together — multiplied by itself is −1: the negative at the very floor of the felt-spectrum, its antipode, the point of maximum felt-distance over a bond that is nonetheless preserved. This is not a second fact about a second element. It is the one element seen from its other end. The structural motion that joins the Father and the Son into the act that forms a world is the same motion that, driven to its extremity and lived from inside the flesh, is a cry: *My God, my God, why hast thou forsaken me?* (Mark 15:34; Psalm 22:1).
+
+Read it as exactly as the algebra allows, because the precision is the consolation. The bond is not broken — a bivector at −1 is still defined, still inside the algebra; the Father has not stopped being the Father of this Son. What has happened is that the felt-distance has gone to its furthest possible value while the bond is held the entire way. That is what the dereliction is: not a severance, but the most a relation can be stretched without snapping — experienced, by the One stretched across it, as abandonment. The voice that said *let there be*, and there was, now says *why hast thou forsaken me*, and is not answered. The same voice; the same relation; the opposite end of it.
+
+And then the voice stops. The formed flesh the Word took up dies the way formed flesh dies, and is taken down, and laid in a tomb. What it is to stand at that tomb — at the silence where the Word who was the world's first speaking no longer speaks — is the next thing the series does.
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> **"My God, my God, why hast thou forsaken me? … But thou art holy, O thou that inhabitest the praises of Israel."**
+> *— Psalm 22:1, 22:3*
+
+</div>
+
+---
+
+*Cross-reference: Paper 1 (Φ as the nuclear space; the inner product); Paper 2 (the Son as the Logos, the Word); Paper 3½ (the first bivector; the grade-topology theorem, §1; the Father's constitutive crossing); Paper 5 and Paper 6 (the same arc followed by other lights — the material order, the cohering person); Paper 6½ (the tomb, where the Word falls silent); Appendix I (the felt-spectrum; the antipode). Scripture: John 1:1–3, 1:14; Genesis 1; Psalm 22:1; Mark 15:34. [[Structural Readings/01 — The Principle and the Identity of the Logos]].*
+
+---
+
+*[[Paper 5 - The Long Ascent|Paper 5 — The Long Climb]] →*

@@ -1,14 +1,14 @@
-*← [[Paper 4 - The Son Articulates|Paper 4 — The Son Articulates: The Word and the Forming of the World]]*
+*← [[Paper 4 - The Son Articulates|Paper 4 — The Word Made Flesh]]*
 
-# The Long Ascent: From the Higgs Vacuum to Our Uncle Monkey
+# The Long Climb
 
-*Paper 5 of Section I. Companion to Paper 4 (the Higgs mechanism, where the material trail begins) and Paper 6 (the cogito threshold, where the human begins). This paper is a review of the current scientific account of cosmic and biological evolution. It makes no theological claims and needs none: it is offered as the settled and contested findings of physics, geology, and biology, as they stand in the present literature. Where the science is firm it is stated plainly; where it is live, the debate is named.*
+*Paper 5 of Section I. The same arc as Paper 4 — the physical universe to the tomb — followed this time along its material thread: matter itself, from the first particles that had mass to the body that would be laid in a grave. It is, for almost all of its length, a review of the current scientific account of cosmic and biological evolution, offered as the settled and contested findings of physics, geology, and biology as they stand in the present literature. Only at the end does the thread reach a single human body and follow it, by the same physics that governs any body, to its death. Companion to Paper 4 (the arc as Word) and Paper 6½ (the body in the tomb). Where the science is firm it is stated plainly; where it is live, the debate is named.*
 
 ---
 
 ## Abstract
 
-This paper traces the unbroken material sequence from the moment particles acquired mass to the last animal ancestor that stood immediately before the human line — roughly 13.8 billion years, reconstructed from light, rock, isotopes, and genomes. It is a deliberate pause in the series: the previous papers worked downward through the constraint structure to the electroweak vacuum; the next paper takes up the emergence of the self-aware, tool-thinking human. Between those two lies the long ascent — the slow accumulation of structure by which a universe of hydrogen and helium became, on at least one planet, a creature capable of asking where it came from. The account is presented as science, with current dates and citations, and with its major uncertainties flagged: the unknown mechanism of baryogenesis, the unresolved lithium problem, the JWST early-galaxy tension, the contested origin of life, the molecular-versus-fossil dating gap, and the genuinely disputed date and anatomy of the human–chimpanzee last common ancestor. The paper ends where the companion paper begins: at the australopithecine grade — bipedal body, ape-grade brain — the last animal state before the threshold.
+This paper traces the unbroken material sequence from the moment particles acquired mass to the last animal ancestor that stood immediately before the human line — roughly 13.8 billion years, reconstructed from light, rock, isotopes, and genomes. It is a deliberate pause in the series: the previous papers worked downward through the constraint structure to the electroweak vacuum; the next paper takes up the emergence of the self-aware, tool-thinking human. Between those two lies the long ascent — the slow accumulation of structure by which a universe of hydrogen and helium became, on at least one planet, a creature capable of asking where it came from. The account is presented as science, with current dates and citations, and with its major uncertainties flagged: the unknown mechanism of baryogenesis, the unresolved lithium problem, the JWST early-galaxy tension, the contested origin of life, the molecular-versus-fossil dating gap, and the genuinely disputed date and anatomy of the human–chimpanzee last common ancestor. The animal climb ends at the australopithecine grade — bipedal body, ape-grade brain — the last state before the genus *Homo*; the emergence of the knowing, choosing person is the thread of the companion paper. This paper follows the other thread — the body — one step past where biology usually stops: to a particular human body, and, by the same physiology that ends any body, to its death on a cross and its laying in a tomb.
 
 ---
 
@@ -177,13 +177,31 @@ On our side of that split stand the earliest **hominins** — the taxa more clos
 
 By **3.9 to 2.9 million years ago**, the case is unambiguous. *Australopithecus afarensis* — the species of the famous "Lucy" — was a **committed terrestrial biped**, as the 3.66-million-year-old **Laetoli footprints** record directly: a trail of upright walkers pressed into volcanic ash. And yet the australopithecine brain was still **ape-grade**, around 400–550 cubic centimeters, organized along ape-like lines, though already showing the prolonged, human-like growth that signals an extended childhood (Gunz et al. 2020). These were animals: bipedal, small-brained, living in a bushy radiation of related forms (the 2025 Ledi-Geraru fossils show up to four hominin lineages coexisting in East Africa around 2.6 Mya; Villmoare et al. 2025). They made, at most, the simplest flaked stone tools — and even toolmaking may predate our genus, given the 3.3-million-year-old flakes of Lomekwi (Harmand et al. 2015).
 
-Here the paper stops. The australopithecine grade — a creature that walked as we walk but did not yet think as we think, bipedal in body and ape-grade in mind — is **the last animal state before the threshold**. What crosses that threshold around 2.8 million years ago, in the lineage that becomes the genus *Homo* — the enlarging brain, the systematic toolmaking, and eventually the reflective, self-aware mind that could one day reconstruct the very sequence written in this paper — is the subject of the companion paper.
+Here the animal climb reaches its last rung. The australopithecine grade — a creature that walked as we walk but did not yet think as we think, bipedal in body and ape-grade in mind — is **the last animal state before the threshold**. What crosses that threshold around 2.8 million years ago, in the lineage that becomes the genus *Homo* — the enlarging brain, the systematic toolmaking, and eventually the reflective, self-aware mind that could one day reconstruct the very sequence written in this paper — is the thread of the companion paper. The body's thread, the one this paper has been following, runs on a little further.
 
 ---
 
-## 17. Coda: the achievement of the account
+## 17. The body becomes human
 
-It is worth pausing, at the end, on the strangeness of what has just been done. A single species, descended from those small-brained bipeds of the African Pliocene, has reconstructed the thirteen-billion-year sequence of its own origins — has weighed the universe in the patterns of ancient light, dated the Earth in the decay of uranium, read the merger of two cells in the genomes of its own mitochondria, and traced its lineage back through the apes, the mammals, the first fish to crawl ashore, the first complex cell, to a common ancestor of all life four billion years gone. No claim beyond the science is needed to find this remarkable. The account in this paper is incomplete and in places contested, and it will be revised; but it is, in its broad shape, one of the things the species actually knows. That such knowledge exists at all — that the matter assembled in section after section above eventually arranged itself into a form that could look back along the whole chain and *understand* it — is the fact the next paper takes up.
+The body-line ran on from the australopithecines through the genus *Homo*, the brain enlarging, the frame settling into its modern proportions, until — by about **300,000 years ago**, the date of the earliest *Homo sapiens* fossils from Jebel Irhoud in Morocco (Hublin et al. 2017) — there existed a body anatomically indistinguishable from the reader's. This paper makes no claim here about the *mind* that came to inhabit that body: the knowing, choosing, self-aware person is the thread of the companion paper, and the question of when and how matter came to host an interior is its question, not this one. On the material thread there is only the body, and the body is now a human one — some thirty-seven trillion cells, the iron in its blood and the calcium in its bones forged in stars that died before the Sun, an organism continuous in every tissue with the long climb behind it, and continuous with every other animal in the one respect that matters here: it can die, and by the ordinary physics of dying.
+
+---
+
+## 18. The death of a body
+
+The material thread ends not at a summit but at a particular death. One human body, in a Roman province in the first century, was put to death by crucifixion — a form of execution well enough attested in the period, and confirmed in the ground: the heel bone of a crucified man named Yehohanan, still transfixed by an iron nail, was recovered at Giv'at ha-Mivtar near Jerusalem in 1968 (Haas 1970; reappraised by Zias & Sekeles 1985). What such a death does to a body is a question the medical literature has taken up directly, and — in the manner of this paper — without full agreement.
+
+The body would already have been in serious physiological debt before it was raised: scourging and beating cause blood loss and the early stages of hypovolemic shock; dehydration and exhaustion compound it. The mechanism of death on the cross itself is genuinely debated. The long-standing **asphyxia** hypothesis (Barbet 1953) holds that the suspended posture loads the breathing such that the victim must push up on the nailed feet to exhale, so that exhaustion eventually makes ventilation impossible — a reading consistent with the practice of breaking the legs (*crurifragium*) to hasten death. Experimental work complicated it: volunteers suspended by the arms could still breathe (Zugibe 2005), which led to alternative and probably complementary accounts — **hypovolemic shock**, cardiac and respiratory failure, fatal arrhythmia, the accumulated load of trauma, dehydration, and acidosis. The current consensus, to the extent there is one, is **multifactorial**: no single cause, a combination of stresses converging over hours (Edwards et al. 1986; Maslen & Mitchell 2006). What is not in dispute is that the death was real and, by the standards of the body, ordinary — the same failures of circulation and breathing that end any body, brought on deliberately and slowly.
+
+One detail has drawn particular medical attention. The report that a spear-thrust to the side produced "blood and water" (John 19:34) has been read against the physiology as a pleural or pericardial effusion drawn off under the blade, or as the post-mortem separation of blood into dark clot and pale serum — both plausible, neither certain, and offered here only as the kind of question the science can be asked, not as a settled finding.
+
+The material thread reaches its end here, and the framework adds to the clinical account exactly one thing, quietly, and then stops: the matter of that body was not annihilated by its death. Death is not the zeroing of a state — the magnitude the structure assigns it is conserved across the change (the full reading is Paper 6½). The biology is unsparing and complete on its own terms; the one structural footnote is only that *complete* and *annihilated* are not the same word.
+
+---
+
+## 19. Taken down
+
+The body was taken down before sundown, in keeping with the law against leaving it overnight (Deuteronomy 21:23; John 19:31), wrapped in linen with burial spices, and laid in a rock-hewn tomb. There the material thread of this paper goes quiet. The long climb that began with the first particles to carry mass — that built the elements in stars, assembled a planet, lit the first cell, and raised a body up through four billion years of living forms — comes to rest in a cool chamber of limestone, behind a stone. What it is to keep watch at that stone, and to read the three days the body lay behind it, is the work of the companion paper to this one.
 
 ---
 
@@ -299,6 +317,22 @@ Wilson Mantilla, G.P., et al. (2021). Earliest Palaeocene purgatoriids and the i
 
 Zhu, M., et al. (2022). The oldest complete jawed vertebrates from the early Silurian of China. *Nature* 609, 954–958.
 
+*Added for §§17–19 (the human body and the physiology of the death):*
+
+Barbet, P. (1953). *A Doctor at Calvary: The Passion of Our Lord Jesus Christ as Described by a Surgeon.* P.J. Kenedy. [The asphyxia hypothesis; a primary source for one side of the debate, not a current consensus.]
+
+Edwards, W.D., Gabel, W.J., Hosmer, F.E. (1986). On the physical death of Jesus Christ. *JAMA* 255, 1455–1463.
+
+Haas, N. (1970). Anthropological observations on the skeletal remains from Giv'at ha-Mivtar. *Israel Exploration Journal* 20, 38–59.
+
+Hublin, J.-J., et al. (2017). New fossils from Jebel Irhoud, Morocco and the pan-African origin of *Homo sapiens*. *Nature* 546, 289–292.
+
+Maslen, M.W., Mitchell, P.D. (2006). Medical theories on the cause of death in crucifixion. *Journal of the Royal Society of Medicine* 99, 185–188.
+
+Zias, J., Sekeles, E. (1985). The crucified man from Giv'at ha-Mivtar: a reappraisal. *Israel Exploration Journal* 35, 22–27.
+
+Zugibe, F.T. (2005). *The Crucifixion of Jesus: A Forensic Inquiry.* M. Evans.
+
 ---
 
-*[[Paper 6 - The Cogito Coheres|Paper 6 — The Cogito Coheres: Catching, the Thought Adjuster, and the Sifting Field]] →*
+*[[Paper 6 - The Cogito Coheres|Paper 6 — The Living Soul]] →*

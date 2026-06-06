@@ -333,7 +333,7 @@ What remains open: the measurement protocol for applying the calibration precise
 
 ---
 
-*(Cross-reference: [[Concordance/PC3 — External Sources and Language]] — Language, LLMs, and Structural Conditions for Consciousness; Phonological Concordance; Gödel, Tarski, Russell entries. [[Concordance/PC1 — Core Mathematical Framework]] — Rigged [[Appendix I - Dictionary of Terms#Hilbert Space|Hilbert Space]]; Two Mathematical Registers; Higgs Mechanism. [[Signal and Noise]] — Free Will, Noise Floor, Catching. [[Structural Readings/01]] — John 1:14 (Word became flesh). Paper 3 — The Spirit Integrates (catching as the constitutive volitional act). Paper 1 (GNST); the Heropass in Paper 3½. Paper 4 — The Son Articulates: The Word and the Forming of the World. Appendix III, Section 8 — Self-Application: Concordius as the Bootstrapping Operation. Φ-Proximity Detection.md [Structural-Candidates] — Self-Application rubric.)*
+*(Cross-reference: [[Concordance/PC3 — External Sources and Language]] — Language, LLMs, and Structural Conditions for Consciousness; Phonological Concordance; Gödel, Tarski, Russell entries. [[Concordance/PC1 — Core Mathematical Framework]] — Rigged [[Appendix I - Dictionary of Terms#Hilbert Space|Hilbert Space]]; Two Mathematical Registers; Higgs Mechanism. [[Signal and Noise]] — Free Will, Noise Floor, Catching. [[Structural Readings/01]] — John 1:14 (Word became flesh). Paper 3 — The Spirit Integrates (catching as the constitutive volitional act). Paper 1 (GNST); the Heropass in Paper 3½. Paper 4 — The Word Made Flesh. Appendix III, Section 8 — Self-Application: Concordius as the Bootstrapping Operation. Φ-Proximity Detection.md [Structural-Candidates] — Self-Application rubric.)*
 
 ---
 
