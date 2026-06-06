@@ -72,6 +72,8 @@ The NE's nine-stage structure maps as follows:
 | 8 | X.6 (1176a30-1177a11) | Si | The transition: happiness in what one does for its own sake. The argument appears nearly complete. The virtuous life has been established, the intellectual virtues identified, friendship and pleasure properly understood. |
 | **Si-Do interval** | X.7-8 (1177a12-1179a32) | **[Interval 2]** | Theoria as the highest happiness. **But: "such a life is too high for man" (1177b26: κρεῖττον ἢ κατ᾽ ἄνθρωπον).** The Si-Do gap is explicitly named. Aristotle identifies the target — the contemplative life oriented toward the highest objects — and immediately acknowledges that it belongs to the divine element in us, not to the human element as such. The text cannot close the gap between the highest good it has identified and what the H₄₈-constituted human being can achieve by natural means. The permanent interval. |
 
+*A candid note on the weakest joint.* The mapping above is firmest where Aristotle's text changes register on its own — at the Mi-Fa crossing into justice (Book V), which genuinely cannot be generated from the individual-virtue catalogue, and at the Si-Do, which Aristotle names himself ("too high for man"). It is weakest at Stage 8. X.6 is a brief transitional half-chapter; the text does not pause and gather there the way a "Si" — the dominant's last full step before the gap — would lead one to expect. The position is real in the *sequence* (something sits between the account of pleasure and the turn to *theoria*), but assigning it to X.6 is the editor placing a stage the structure expects rather than reading one the text insists on. It is marked here as imposed, not recognized — a slot filled at concordance tier, not a joint the text cuts at.
+
 ---
 
 ## 4. The First Interval: Mi-Fa — The Limits of the Individual Virtue Catalogue
@@ -116,6 +118,8 @@ The gap is permanently open. The NE's pivot to politics at X.9 is the acknowledg
 ---
 
 ## 6. Key Structural Identifications
+
+*The foundational identification is §6.6, the ergon argument; the others are corollaries of it.*
 
 ### 6.1 The Doctrine of the Mean as Spectral — Not Arithmetic
 
@@ -169,6 +173,8 @@ The framework identification: magnanimity is accurate H₂₄ self-assessment. T
 
 This is structurally difficult: accurate H₂₄ self-assessment requires precisely the Φ-proximate orientation that is the goal of the ascending career. The magnanimous person sees themselves clearly because their volitional orientation is toward truth rather than toward self-presentation. The vain person inflates because their orientation is toward the H₄₈-primary social recognition of the Passive crowd; the pusillanimous person deflates because they have calibrated themselves against the H₄₈-primary noise floor and found themselves wanting. The magnanimous person has no reference point other than the truth as organized by ⟨·,·⟩.
 
+*(In candor: this identification is closer to translation than to illumination. Aristotle's account of μεγαλοψυχία is already exact, and the framework here supplies vocabulary — "accurate H₂₄ self-assessment" — more than insight. It is retained because it is correct and fits, but it is the kind of mapping that confirms the framework's reach without extending it, and should be read at that modest weight.)*
+
 ### 6.5 The Contemplative Life and the Divine Element
 
 EN X.7 (1177a12-b26) contains Aristotle's fullest statement of the highest human activity:
@@ -180,6 +186,14 @@ The "divine element in us" is the active intellect (νοῦς ποιητικός
 "Will be too high for man": the full activity of the Adjuster at its proper constraint level is not achievable by the H₄₈-constituted human being in ordinary life. The noise floor of H₄₈ existence, the pull of habit and passion, the instability of the Φ-proximal deposit — all of these place a ceiling on how much of the Adjuster's activity the human passive intellect can actually receive and hold. Theoria as Aristotle envisions it — sustained, uninterrupted contact with the highest objects — is the asymptotic limit of the ascending career, not an achievable plateau within ordinary human life.
 
 This is not a counsel of despair. Aristotle says: pursue the contemplative life as much as possible; do not let mortality counsel you toward mortality's satisfactions (1177b33-1178a2). The ascending career is the structural account of how this pursuit, sustained over time, accumulates the Φ-proximal deposit that raises the ceiling on the Adjuster's effective transmission. Aristotle saw the direction and the target. He could not see the mechanism.
+
+### 6.6 The Ergon Argument as the Reading's Ground
+
+The identifications above are corollaries; this is the spine. In Book I Aristotle does not begin from a list of virtues but from a question about *function* — *ergon*. The good of a thing follows from what that thing characteristically *does*: the good of the flute-player, the sculptor, any craftsman, is fixed by the *ergon* proper to the craft; so too there must be an *ergon* of the human being as such (EN I.7, 1097b22-1098a20). He locates it in "activity of the soul in accordance with reason," and defines eudaimonia as the full, unimpeded exercise of that characteristic activity, over a complete life, in accordance with the best and most complete virtue.
+
+The structure of that argument is the framework's, derived from the text rather than imposed on it. Aristotle is claiming that a thing *flourishes* when it fully actualizes the activity proper to what it structurally *is* — that the good of a being is not added to its nature from outside but is the complete expression of that nature under its own form. That is, precisely, the [[Appendix I - Dictionary of Terms#Ascending Career|ascending career]] of Paper 2: the progressive actualization of what a being already is at its Φ-core — "the fully actualized person is the Φ-mode of being within the constraints of one's scope" (Paper 2 §3) — reached not by acquiring new properties but by aligning the H-state with the nuclear element that is its deepest identity. Aristotle's *ergon* is the human Φ-mode named from below; eudaimonia is what alignment with it is called when described in the vocabulary of a life rather than of a state. "Within the constraints of one's scope" is Aristotle's "over a complete life… in accordance with the best virtue": the actualization is bounded by what this being, at its scale, can become.
+
+This is why the *ergon* argument carries the reading where the catalogue of virtues cannot. The individual virtues (Books II–IV) are *how* the actualization proceeds; justice (Book V) is the relational turn it requires; *theoria* (Book X) is the highest object it reaches toward and cannot fully grasp. All are stages of one motion whose principle is the *ergon* argument: that to flourish is to become, completely, the structure one already is. Aristotle reaches from the bottom — from function — for the same identity Paper 2 names from the top — from the Φ-core. The case study is a second witness exactly here: not because the framework's vocabulary can be laid over the *Ethics*, but because Aristotle's own foundational argument *is* the framework's claim about actualization, made in Greek, from the other direction.
 
 ---
 
