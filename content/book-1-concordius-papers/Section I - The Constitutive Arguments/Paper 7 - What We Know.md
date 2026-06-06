@@ -8,7 +8,7 @@
 
 ## Abstract
 
-The previous paper ended at a sealed tomb and a silence it said could only be broken from outside. This paper reports what the tradition says broke it. It does so carefully, because here more than anywhere the series is repeating testimony rather than deriving a result: no one now living witnessed the morning, the earliest accounts differ in their particulars, and what they hold in common is stranger than what they dispute. The framework can say what *kind* of event the tradition is describing — an input that enters a closed descent from beyond it, the one passage nothing inside the structure can make for itself — but it cannot, and does not, claim to show that the event occurred. That remains testimony. And underneath the testimony lies the deeper admission with which the section must close: that everything built here rests on a single premise, assumed on the first page and never proven — that reality can be modeled this way at all. We know a great deal, if it is true. Whether it is true is the one thing we cannot, from here, know.
+The previous paper ended at a sealed tomb and a silence it said could only be broken from outside. This paper reports what the tradition says broke it. It does so carefully, because here more than anywhere the series is repeating testimony rather than deriving a result: no one now living witnessed the morning, the earliest accounts differ in their particulars, and what they hold in common is stranger than what they dispute. The series, at this point, has no means to say more about that event than the tradition itself does — and, as the close of this paper admits, it has not even secured the ground on which any such reading would have to stand. So the morning is held here for exactly what it is: testimony, received as testimony, neither dissolved into proof nor dressed up as derivation. And underneath the testimony lies the deeper admission with which the section must close: that everything built here rests on a single premise, assumed on the first page and never proven — that reality can be modeled this way at all. We know a great deal, if it is true. Whether it is true is the one thing we cannot, from here, know.
 
 ---
 
@@ -38,13 +38,13 @@ And notice the shape of the recognition, because the whole section has been poin
 
 ---
 
-## 2. What the tradition claims, and what the structure makes of it
+## 2. What the tradition claims
 
 The claim itself is simple and immense: that the descent reversed. The body that the last paper followed down — form driven to its negative, the material order running out, the Son carried to the lowest place there is — was, on the third day, alive, and not resuscitated back into the old life to die again, but carried *through* death into a mode the tradition struggles to describe and does not pretend to explain.
 
-The framework can say one thing about this, and it should say only that one thing, and quietly. The previous paper argued that the silence of the tomb was a particular kind: a descent has no self-generated turn, a grave does not unseal from within, and so if anything ended the silence it had to arrive from outside. A resurrection is precisely the name for an input from outside a closed descent — structurally, the one passage the algebra cannot make for itself, the crossing into the whole that nothing within the parts can reach (the pseudoscalar, the new beginning, the light that the death could not weigh down). The tradition's claim and the structure's deepest gap have, at minimum, the same shape: the place where the series said only an act from outside could reach is exactly the place the tradition says an act from outside reached.
+What little can be said about the *shape* of such a claim takes no apparatus at all, and it is only the grammar of the claim, not a reading of it: a sealed tomb does not open from within, and a descent does not, of its own motion, turn back up. So whatever the tradition is reporting, it reports — on its own account — something that came from outside the closed fact of the death. That is simply what the claim says about itself. It is not an analysis of it.
 
-That correspondence is striking, and it is also the limit of what can be claimed. A matching shape is not a demonstration. The structure can tell you what kind of event a resurrection would have to be; it cannot tell you that the event happened. The difference between *this is the shape such a thing would take* and *such a thing took place* is the entire difference between a derivation and a testimony, and the series will not blur it. What the morning is, it is on the strength of the witness. We have set the structure beside the testimony and found them facing the same way. We have not turned testimony into proof, and we are not going to pretend we have.
+Beyond that grammar the series is in no position to go, and it should say so plainly rather than reach. It has built no instrument that could weigh an event of this kind, and — as the next section opens by admitting — it has not so much as secured the one premise on which it has stood the whole way. To offer a structural account of the Resurrection *here*, at the very moment the section is about to confess it cannot confirm its own ground, would be exactly the overreach the series has tried not to commit. If there is ever a place in this work to ask what such an event would *be* — to set a built and warranted structure beside the testimony and see whether they face the same way — it is far downstream of here, after the tools exist and have earned their keep, not on the strength of a framework that does not yet stand. For now the morning is testimony, and is held as testimony, and the series sets down its instruments and does not pretend to more.
 
 ---
 
@@ -68,7 +68,7 @@ That limit is not the end of the work. It is the beginning of the next part of i
 
 ## References
 
-1. **Companion papers:** the constitutive arguments of Section I — *Modeling Reality as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]*; *From the Cogito to the [[Appendix I - Dictionary of Terms#Logos|Logos]]*; *The Big Bang*; *The Constraint Cascade*; *The Son Articulates*; *The Long Ascent*; *The Cogito Coheres*; *Love's Descent: The Three Days in the Tomb*.
+1. **Companion papers:** the constitutive arguments of Section I — *Modeling Reality as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]*; *From the Cogito to the [[Appendix I - Dictionary of Terms#Logos|Logos]]*; *The Big Bang*; *The Constraint Cascade*; *The Word Made Flesh*; *The Long Climb*; *The Living Soul*; *Love's Descent: The Three Days in the Tomb*.
 
 2. **Scripture:** John 20:1–18 (the empty tomb; Mary and the gardener; the naming); Matthew 28:1–10; Mark 16:1–8; Luke 24:1–12.
 
