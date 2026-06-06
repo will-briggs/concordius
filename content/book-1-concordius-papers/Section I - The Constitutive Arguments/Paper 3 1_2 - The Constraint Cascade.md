@@ -1,4 +1,4 @@
-*← [[Paper 3 - The Spirit Integrates|Paper 3 — Coordinative Actualization]]*
+*← [[Paper 3 - The Big Bang|Paper 3 — The Big Bang]]*
 
 # The Constraint Cascade: Descent as Densification
 
@@ -955,7 +955,7 @@ The eternal structure is necessary. The creative choice is volitional. The creat
 
 [^hydro]: The series' Hₙ subscripts denote the Hilbert space of quantum mechanics indexed by the number of constraints operating at each level; the subscript numbers — H₃, H₆, H₁₂, H₂₄, H₄₈, H₉₆ — appear in order with a doubling between each step. These subscripts are derived from the mathematics of eigenstate selection (Section 3), not assigned from observation: the constraint doubling follows from the information-theoretic structure of binary spectral collapse. The notation describes only between-level structure; it does not attempt to name within-level refinements. (The concordance with the traditional accounts that assign density numbers to grades of matter on the same doubling sequence — and the relation of those numbers to the present subscripts — is taken up in Section II.)
 
-*Cross-reference: [[Paper 1 - Modeling Reality as a Gelfand Triple]]; [[Paper 2 - From the Cogito to the Logos]]; [[Paper 3 - The Spirit Integrates|Paper 3 — Coordinative Actualization]]; [[The Structural Reading]]; [[Episodes/Season 1/S1E4 - Clifford Algebra in Time: The Seven Bestowal Missions]]*
+*Cross-reference: [[Paper 1 - Modeling Reality as a Gelfand Triple]]; [[Paper 2 - From the Cogito to the Logos]]; [[Paper 3 - The Big Bang|Paper 3 — The Big Bang]]; [[The Structural Reading]]; [[Episodes/Season 1/S1E4 - Clifford Algebra in Time: The Seven Bestowal Missions]]*
 
 ---
 
