@@ -197,9 +197,9 @@ The ancient association of blood moons with war, death, and catastrophe is the e
 
 ## 8. The Chaldean Order Derivation: Assigning Planets to Clifford Elements
 
-*(Derived. Two independent paths; convergent result.)*
+*(Mixed tier — read carefully. The grade partition (3+1+3) and the Chaldean order are each fixed independently — one by the algebra, one by astronomy — and their alignment, the Sun falling at the center, is a genuine structural result. But mapping Chaldean *position* onto Clifford *grade* is an interpretive identification, not a theorem; and the element-by-element assignments, with their match to the planets' traditional qualities, are concordance with the astrological tradition. Read this as a strong concordance on a derived skeleton — not as a derivation of astrology.)*
 
-The planetary assignments are not adopted from the tradition and then accommodated by the framework. They are derived from it. The derivation proceeds in two independent steps that converge on the same result.
+The skeleton of the assignment is the framework's to claim: the grade partition and the Chaldean order are fixed independently of each other and of astrology, and their alignment is not borrowed from the tradition. The flesh — which element goes to which body, and why each body's character matches the tradition's — is concordance. The account below marks, step by step, where the structure does the work and where the tradition does.
 
 **Step one: the Chaldean order as independent variable.**
 
@@ -243,17 +243,17 @@ Within grade 2 (Mars, Jupiter, Saturn = three paired expressions), the element a
 
 **The convergence.**
 
-Two independent derivation paths arrive at the same result. The first path uses only the Chaldean order (astronomical observation) and the grade partition (Clifford algebra). The second path uses only the algebraic character of each element and its natural spectral coupling. They agree on every body. That agreement was not arranged — it emerged from the mathematics.
+Two paths arrive at the same result, but they are not fully independent, and the claim is held at that tier. The first uses only the Chaldean order (astronomical observation) and the grade partition (Clifford algebra); it fixes the structure — three, one, three, the Sun at the center. The second reads each element's algebraic character against its spectral coupling — but "the coupling an element naturally has" is itself read partly through the qualities the tradition assigns, so this path leans on the very concordance it is being checked against. What can honestly be said: the skeleton is forced, the fleshing-out is a strong concordance, and the two were not arranged to agree.
 
 The Urantia identification of the Trinity persons (Son = Heart, Spirit = Mind) produces a further structural confirmation: the developmental sequence across the seven grade positions ([[Appendix I - Dictionary of Terms#Man No. 1 through Man No. 7|Section IV]]) follows the Chaldean order exactly throughout all seven positions — Moon → Mercury → Venus → Mars → Jupiter → Saturn → Sun — without transposition at any position. The Urantia correction removes the only internal inconsistency in the correspondence, which is itself evidence that the assignment is correct.
 
-The traditional qualities are therefore predictions from the derivation, not inputs to it. The spectral coupling parameter for each body is determined by which Clifford element it instantiates, which follows from its position in the Chaldean order. The tradition was not consulted until the derivation was complete. It can now be consulted as a test.
+Where the structure fixes a feature independently — the grade skeleton, the Sun at the center — the traditional qualities function as a test of it. Where the assignment was itself read through those qualities, the match is concordance confirming concordance and carries no independent weight. That division is the point: the skeleton predicts; the element-by-element character is checked against the tradition, not derived ahead of it.
 
 ---
 
 ## 9. Planetary Spectral Ranges: Predictions
 
-*(Derived tier. The traditional qualities listed below are predictions from Section 8, not inputs to it. Concordance with the astrological tradition is the empirical test.)*
+*(Concordance tier. The grade and ordering behind the list are derived (Section 8); the planet-by-planet qualities below are the tradition's, set beside each element's structural character to be checked — not derived from it. A systematic failure of the qualities to match would count against the assignment.)*
 
 **Moon (Father-alone, e₁)**: Mechanical range. The bare substrate level — automatic, instinctive, body-governed actualization. Traditional qualities: body, instinct, habit, the lunar cycles of organic life, the automatic layer of emotional response. The Concordius framework adds: the Moon's sifting preferentially weights the catching being toward the mechanical end of the accessible spectrum.
 
@@ -273,7 +273,7 @@ The traditional qualities are therefore predictions from the derivation, not inp
 
 ## 10. Aspect Geometry
 
-*(Derived structurally; applications are working-hypothesis tier.)*
+*(Mixed tier. The combination geometry of two directional sifting fields is structural; the identification of its special angles with the astrological aspects, and their traditional meanings, is concordance. The formalization below is a target, not a result.)*
 
 An aspect is the angular relationship between two bodies as observed from a point in the creative field (Earth). Since each body's gravitational sifting field has a direction — it acts on the eigenvalue spectrum from the direction of the body relative to the point of observation — the combined sifting effect of two bodies depends on their vector relationship.
 
@@ -293,7 +293,7 @@ The primary aspects:
 
 ## 11. Probabilistic Structure and Free Will
 
-*(Derived from the GNST framework.)*
+*(The probabilistic core is derived from the GNST; the astrological application is concordance — see the close of the section.)*
 
 The central epistemological claim of this paper: the gravitational sifting field is real as a shift in probability distributions; it is not determination of outcomes. This follows directly from the structure established in Sections 3–4.
 
@@ -301,19 +301,19 @@ The GNST selects eigenstates: ψ = ∫ ⟨eλ, ψ⟩ eλ dμ(λ). The measure d�
 
 The consequence: a being under strong Saturnine sifting encounters a probability field weighted toward constrained, densely mechanical actualization. It does not mechanically actualize there. A being with developed catching capacity — higher-order eigenspace accessible, morontial coupling active — can actualize in the developmental range even under Saturnine weighting. The effort required is greater; the field is tilted; the free act remains.
 
-This is a structural prediction: astrological influence should be most determinative for beings with the least developed catching capacity (the lowest grade positions; most automatic, most subject to mechanical-range weighting) and least determinative for beings with the most developed catching capacity (the highest grade positions, with wider accessible eigenspace). The tradition's differential treatment of nativity charts for ordinary people vs. adepts is the empirical record of this prediction.
+The probabilistic structure itself — that the sifting biases the measure without determining the outcome — is derived from the GNST. Its application to astrological influence is concordance: *if* the planetary sifting is real, it should be most determinative for beings with the least developed catching capacity and least for the most developed. The tradition's differential treatment of nativity charts for ordinary people versus adepts is consistent with this — but it is anecdotal, a record compatible with the prediction, not a controlled test of it.
 
 ---
 
 ## 12. The Blood Moon and the Empirical Record
 
-*(Concordance tier.)*
+*(Concordance tier — and, as stated here, the most exposed empirical claim in the paper. It is offered as testable and, as yet, untested; it is not offered as established.)*
 
-The full moon / blood moon analysis of Section 7 is the clearest structural demonstration available. It is testable: the claim is that blood moons should correlate with elevated incidence of violent conflict and death — not because they cause war, but because maximum Moon sifting creates conditions in which the mechanical eigenvalue range is most heavily weighted, increasing the probability of mechanical-range actualization relative to the developmental range.
+The full-moon / blood-moon analysis of Section 7 yields the paper's most directly checkable prediction: periods of maximum lunar sifting should show a measurable elevation in mechanical-range outcomes — concretely, in the incidence of violent conflict and death — relative to a matched baseline. Because the mechanism is a shift in a probability measure, the prediction is statistical: an elevated rate across many events, not a one-to-one trigger on any single one.
 
-The historical record is extensive: blood moons appear throughout the oldest astrological and astronomical traditions as markers associated with war, famine, and death. The Concordius framework does not derive these associations; it provides the mechanism that would explain them. The antiquity and cross-cultural consistency of the record is evidence that the sifting mechanism has been operating observably for as long as humans have kept records.
+The historical record is suggestive — blood moons recur across the oldest astronomical and astrological traditions as markers of war, famine, and death — but that record is anecdotal and selection-biased: the memorable conjunctions of eclipse and catastrophe are exactly the ones preserved, and the chronicle of all the blood moons followed by nothing was never written. It does not establish the claim.
 
-*(Verification target: systematic survey of historical blood moon events correlated with major conflicts. Note that the framework predicts correlation, not causation — the blood moon does not cause the war; both the blood moon's sifting conditions and the outbreak of war are driven by the eigenvalue distribution. The lunar conditions make mechanical actualization more probable at scale; concentrated human populations in states of stress are the medium through which the probability plays out.)*
+*(What would make it wrong, stated plainly: a properly controlled survey — blood-moon periods against matched control periods, outcome measures fixed in advance, correction for reporting bias — that finds no elevation would count against the lunar sifting mechanism at this scale. The framework does not get to retreat to an unobservable common cause if the correlation fails; here the correlation is the test. Until such a study exists, this is a concordance with a long anecdotal record and no controlled confirmation, and should be read at exactly that weight.)*
 
 ---
 
