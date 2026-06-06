@@ -231,9 +231,7 @@ The seventh relationship — the full Trinity acting as one — is the limiting 
 
 ### What this paper achieved
 
-The spectral theorem, read against the framework of the first two papers, gives a precise mathematical account of the event by which the eternal structure produces temporal outcomes. The Father's inner product, operating in its active coordinative mode as Elohim, draws definite outcomes from the distributional potential of El Shaddai through the structured states of the Creation. Time and space are constituted by the sequence of these events. Creation is continuous, not past.
-
-The seam between necessity and volition is precisely located — and it is narrower than a prior framing might suggest. The eternal structure is necessary. The act of generation is also necessary, as the constitutional expression of what the inner product is: ⟨·,·⟩ generates because that is what it is to be ⟨·,·⟩. The algebra of generation is also necessary — Cl(3,0) is uniquely determined by the Trinity's constitution, with the Son's associative nature as Φ fixing associativity as a structural consequence rather than a creative option. What is not necessary is which states within that algebra are actualized. The Creative Choice — the Father's selection at each GNST collapse event of which eigenstate becomes actual, constrained by but not determined by the Son's algebra — is where genuine freedom is located. The mathematics describes the mechanism and its consequences. It cannot make the selections.
+The spectral theorem, read against the first two papers, gives a precise account of the event by which the eternal structure produces temporal outcomes: the Father's inner product, in its active coordinative mode as Elohim, draws definite outcomes from the distributional potential of El Shaddai through the structured states of the Creation, and time and space are constituted by the sequence of these events. Creation is continuous, not past. The seam between necessity and volition is exactly located: the eternal structure, the act of generation, and the algebra of generation (Cl(3,0)) are all necessary — to be ⟨·,·⟩ is to generate, and the Son's associative nature fixes the algebra — while *which* states are actualized is not. The Creative Choice, the Father's selection at each collapse event from among the states the Son's algebra makes coherent, is where freedom lives. The mathematics describes the mechanism; it cannot make the selections.
 
 ### Why Generation Is Constitutional
 
@@ -379,7 +377,7 @@ The exact coefficient of reduction at each step is a contingent feature of the s
 
 ### Where this paper stands
 
-The first two papers held full mathematical rigor throughout. This paper holds full rigor in its first four sections and in Section 6. The mathematical basis for the seven associative relationships has been established in Section 6 via the Clifford algebra Cl(3,0). The qualitative distinctions among the seven are grounded in the algebraic characters of the seven non-null elements. The Urantia testimony in Sections 7 and 8 converges with the derived structure in Section 6. Sections 7 and 8 carry derived-tier status, conditional on the Creative Choice.
+The paper holds full rigor in §§1–4 and §6; the seven associative relationships are grounded in §6 via Cl(3,0), and the Urantia testimony of §§7–8 converges with that derived structure at derived tier, conditional on the Creative Choice.
 
 ---
 
