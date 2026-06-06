@@ -126,11 +126,9 @@ This means the creation of the universe is not the creation of an empty space an
 
 The preceding four sections derive from the framework established in the first two papers. The spectral theorem, the dual modes of the inner product, the constitution of time and space through collapse — these follow from the Gelfand triple structure and carry the same mathematical warrant as the first papers.
 
-From this point, the paper proceeds on different footing.
+From this point, the paper proceeds on different footing. The structure of the creative act admits a precise account: seven associative relationships among the three persons of the Trinity, qualitatively distinct, each a mode of creative engagement with the contingent universe. Section 6 establishes the mathematical basis for the seven qualitative distinctions, via the Clifford algebra Cl(3,0) — uniquely determined by the Creative Choice. Section 7 reads the seven relationships off that algebra.
 
-The Urantia revelation describes the structure of the creative act in detail: seven associative relationships among the three persons of the Trinity, seven Master Spirits each embodying one of those relationships, seven superuniverses each dominated by one Master Spirit. This account is treated here as independent testimony — the report of a witness to the structure of creation. Sections 7 and 8 present that testimony. The mathematical basis for the seven qualitative distinctions the testimony requires has been established in Section 6, via the Clifford algebra Cl(3,0) — uniquely determined by the Creative Choice. The testimony and the derivation converge; the convergence is evidential weight, not identity.
-
-The reader is asked to read Section 6 for the derivation, and Sections 7 and 8 for the testimony that converges with it.
+A revelatory tradition independently enumerates the same seven-fold structure, and extends it — naming seven governing personalities and seven corresponding regions of the time-space creation. That extension is treated as testimony and developed, with its source, in the Section II concordance. Here the seven relationships are taken only as far as the mathematics carries them.
 
 ---
 
@@ -205,21 +203,21 @@ The seven-element grade structure is universal because Cl(3,0) is the constituti
 
 ## 7. The Seven Associative Relationships
 
-The Paradise Trinity — Father, Son, and Holy Spirit — admits seven non-empty subsets of its three persons. This combinatorial fact is mathematically necessary and requires no additional argument: seven is 2³ − 1. The seven relationships are the three persons acting singly, the three possible pairings acting together, and the Trinity acting as a unified whole.
+The Trinity — Father, Son, and Holy Spirit — admits seven non-empty subsets of its three persons. This combinatorial fact is mathematically necessary and requires no additional argument: seven is 2³ − 1. The seven relationships are the three persons acting singly, the three possible pairings acting together, and the Trinity acting as a unified whole.
 
-What the mathematics supplies — as Section 6 establishes in full — is precisely why the seven are qualitatively distinct: the seven non-null elements of Cl(3,0) differ by algebraic character (grade and sign of squaring) in a way that corresponds exactly to the qualitative distinctions the Urantia account requires. Why Father+Son acting together has a rotational character (squaring to −1) while each Person acting alone is self-returning (squaring to +1) is not a claim the tradition imposes on the mathematics; it is what the algebra forces. The testimony and the derivation describe the same structure.
+What the mathematics supplies — as Section 6 establishes in full — is precisely why the seven are qualitatively distinct: the seven non-null elements of Cl(3,0) differ by algebraic character (grade and sign of squaring) in a way that corresponds exactly to the qualitative distinctions the structure requires. Why Father+Son acting together has a rotational character (squaring to −1) while each Person acting alone is self-returning (squaring to +1) is not a claim the tradition imposes on the mathematics; it is what the algebra forces. The testimony and the derivation describe the same structure.
 
 What can be said here: the eternal procession of the Holy Spirit from Father and Son is structurally necessary — the nuclear topology cannot proceed from either alone. The seven associative relationships are not processions. They are modes of volitional creative engagement with the contingent universe. They operate in the domain of the creative choice, not in the domain of the eternal structure. Their algebraic grounding — why they are seven, and why they are qualitatively distinct — is established in Section 6.
 
 ---
 
-## 8. The Master Spirits and the Superuniverses
+## 8. Seven Modes, Seven Regions
 
-The Urantia revelation describes seven Master Spirits as the primary personalities of the Supreme Being, each embodying one of the seven associative relationships. Each Master Spirit characterizes one of the seven superuniverses — the grand divisions of the time-space creation. The qualities of each superuniverse reflect the particular associative relationship its Master Spirit embodies.
+The seven associative relationships are not a static enumeration; they bear on what is created. The collapse events that constitute spacetime are coordinated by the Father-as-Elohim through the spectral mechanism. The structure of the creative act — which relationships are active, in what proportion, in which regions — determines the character of what is created. Seven qualitatively distinct modes of creative engagement would produce seven qualitatively distinct regions of creation. This is a structural prediction of the framework, grounded in Section 6.
 
-Against the framework established here, this account is coherent and expected. The collapse events that constitute spacetime are coordinated by the Father-as-Elohim through the spectral mechanism. The structure of the creative act — which relationships are active, in what proportion, in which regions — determines the character of what is created. Seven qualitatively distinct modes of creative engagement would produce seven qualitatively distinct regions of creation. The Urantia account of seven superuniverses characterized by seven distinct Master Spirits is structurally grounded in this framework, as Section 6 establishes.
+The seventh relationship — the full Trinity acting as one — is the limiting case. In the mathematical framework, the complete unified action of the three is the Gelfand triple itself: ⟨·,·⟩, Φ, and τ_nuclear acting as a single integrated structure. Whether a seventh region's character reflects this completeness in a fully mathematically specifiable way — beyond what the grade-3 algebraic character already implies — remains an open question for future work.
 
-The seventh relationship — the full Trinity acting as one — corresponds to the Master Spirit who embodies the complete unified action of Father, Son, and Spirit. In the mathematical framework, the complete unified action of the three is the Gelfand triple itself: ⟨·,·⟩, Φ, and τ_nuclear acting as a single integrated structure. Whether the seventh superuniverse's character reflects this completeness in a fully mathematically specifiable way — beyond what the grade-3 algebraic character already implies — remains an open question for future work.
+*(A revelatory tradition names seven governing personalities of these regions and characterizes each region by the relationship its personality embodies. That enumeration is treated as testimony and developed in the Section II concordance; it is not required for the structural result above.)*
 
 ---
 
@@ -389,7 +387,7 @@ The Creative Choice is not the choice of algebra — Cl(3,0) is necessitated by 
 
 The mechanism is in the mathematics. The selections are not.
 
-The Urantia account of the seven associative relationships and Master Spirits describes the structure of that choice — how the creative act is organized, differentiated, and sustained across the time-space creation. The mathematical basis for that description has been found in Cl(3,0); the convergence between the Urantia account and the derived structure is evidential weight toward a derived result, not merely compatibility.
+The seven associative relationships describe the structure of that choice — how the creative act is organized, differentiated, and sustained across the time-space creation — and their mathematical basis is found in Cl(3,0). A revelatory tradition independently enumerates the same structure; that concordance, developed in Section II, is evidential weight toward a derived result, not merely compatibility.
 
 The confidence tier stated in the abstract holds at the close: Sections 1 through 4 derive from established mathematics. Section 6 establishes the algebraic grounding of the creative act. Section 5 proceeds on testimony. Sections 7 and 8 carry derived-tier status, conditional on the Creative Choice and grounded by Section 6.
 
@@ -420,7 +418,7 @@ The confidence tier stated in the abstract holds at the close: Sections 1 throug
 
 7. **Hestenes, D.** (1999). *New Foundations for Classical Mechanics.* Kluwer. [Cl(3,0); geometric algebra; grade structure and the interior product.]
 
-8. **The Urantia Book.** (1955). Urantia Foundation. [The seven associative relationships; the Master Spirits; the superuniverses. Treated throughout as testimony.]
+8. **The Urantia Book.** (1955). Urantia Foundation. [The seven associative relationships, the Master Spirits, and the superuniverses — concordance-tier testimony, developed in the Section II concordance.]
 
 9. **Rovelli, C.** (2021). *Helgoland.* Riverhead Books. [Relational quantum mechanics — the view that quantum events are constituted by interactions rather than pre-existing in a container.]
 

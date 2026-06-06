@@ -238,6 +238,10 @@ The Triamazikamno names the *source* — three forces, three Persons, the three 
 
 This is the decisive concordance result of the paper. Where the tradition saw two laws standing side by side, the algebra shows a single structure read from two ends: the operator's term-count (three) and the operator's eigenvalue grade-organization (seven), which are not independent facts but the same fact stated at two levels. Three binary generators necessarily produce exactly seven non-null associative combinations. The Seven is the Three, elaborated.
 
+### 6.6 — The Trogoautoegocrat is the Self-Sustaining Circuit
+
+Gurdjieff's third great cosmological term, the *Trogoautoegocrat* — the cosmic economy of reciprocal maintenance by which the universe sustains itself — is the framework's **self-sustaining circuit**: the descending arm (Love's kenotic descent, supplying the external inputs the ascent cannot generate) and the ascending arm (the catching career, doing the work of the positions and generating the return flow), closed at the top by the Father's completion. Section I derives the circuit's two arms and their closure (Papers 6, 6½) without naming it; the name is Gurdjieff's, the structure the same reciprocal maintenance he described. What the completed circuit feeds upward — the actualization of the experiential Deity *in via* — is the subject of the operations (Paper 20½).
+
 ---
 
 ## 7. Confidence Tiers

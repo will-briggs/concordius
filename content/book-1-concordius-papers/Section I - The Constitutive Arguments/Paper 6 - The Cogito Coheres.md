@@ -443,7 +443,7 @@ Dark matter constitutes approximately 5× baryonic matter by mass-energy (27% vs
 
 Total dark matter: 8+8+6+4 = **26 units**. Total baryonic: **5 units**. Predicted ratio: **5.2:1**.
 
-The observed ratio is 5.4:1 — a 3.7% discrepancy. The more structurally plausible primary candidate for the residual gap is the architectural spheres of the inhabited universe (Paper 20½, OQ6): the mansion worlds and the broader inhabited sphere infrastructure are H₂₄-organized H₄₈ matter, gravitationally active but electromagnetically dark to H₄₈ observers. A secondary candidate is the Trogoautoegocrat circuit (Paper 7), which continuously returns undeveloped H₄₈ content to lower-constraint levels at physical death. *(Mathematical development required.)*
+The observed ratio is 5.4:1 — a 3.7% discrepancy. The more structurally plausible primary candidate for the residual gap is the architectural spheres of the inhabited universe (Paper 20½, OQ6): the mansion worlds and the broader inhabited sphere infrastructure are H₂₄-organized H₄₈ matter, gravitationally active but electromagnetically dark to H₄₈ observers. A secondary candidate is the self-sustaining circuit (Paper 7), which continuously returns undeveloped H₄₈ content to lower-constraint levels at physical death. *(Mathematical development required.)*
 
 A three-sector picture is also structurally available: baryonic matter (H₄₈), dark matter (H₃ through H₂₄ dropout populations), and dark energy as Φ′-level content — the distributional domain above H, constitutively outside the constraint cascade. The observed 68%/27%/5% energy distribution maps onto Φ′/lower-constraint-dropout/H₄₈ content without additional stipulation. *(Mathematical development required.)*
 
@@ -469,7 +469,7 @@ The framework does not rule out suffering in what follows physical life — the 
 
 **The ascending and descending sequences.** The ascending developmental sequence across the seven grade positions follows the Chaldean order throughout all seven positions: Moon → Mercury → Venus → Mars → Jupiter → Saturn → Sun. The descending sequence for the Creator Son's seven bestowals runs in reverse: Sun → Saturn → Jupiter → Mars → Venus → Mercury → Moon, corresponding to the descent from the complete expression through each paired mode down to the Father-alone ground. The Chaldean order is the ascending creature's sequence; its reverse is the descending Creator's sequence.
 
-**The Trogoautoegocrat dimension.** The Creator descends through each planetary spectral mode from the inside, establishing a demonstrated passage. The creature ascending through that mode has the Creator's demonstrated traversal available as the structural ground of the input that makes the crossing traversable. The grade-1→grade-2 input — the external teaching that cannot be generated from within the grade-1 modes — is structurally available because the Creator has inhabited the Father-Son mode (Mars) from the inside. The creature cannot generate the Mars-mode passage from within Mercury or Venus. The Creator's descent provides it.
+**The self-sustaining circuit's descending dimension.** The Creator descends through each planetary spectral mode from the inside, establishing a demonstrated passage. The creature ascending through that mode has the Creator's demonstrated traversal available as the structural ground of the input that makes the crossing traversable. The grade-1→grade-2 input — the external teaching that cannot be generated from within the grade-1 modes — is structurally available because the Creator has inhabited the Father-Son mode (Mars) from the inside. The creature cannot generate the Mars-mode passage from within Mercury or Venus. The Creator's descent provides it.
 
 **A corollary: the bestowal terminus.** The descending sequence raises a question this paper is positioned to answer: why does the series terminate at H₄₈ rather than continuing to H₉₆? The sifting analysis answers it. H₉₆ is the level toward which gravitational selection removes catching-capable eigenvalue content. A bestowal at H₉₆ would not be a kenotic entry into experience; it would be a descent into the level at which the conditions for consciousness are constitutively absent. There is no interiority at H₉₆ to enter. The Creator's sovereign knowledge of a constraint level requires entering the experience of beings at that level from the inside; H₉₆ has no such inside. The bestowal series terminates at H₄₈ because H₄₈ is where genuine experience — and catching — is possible. The Moon's gravitational sifting, established in this paper, is the mechanism by which H₉₆ remains constitutively below that threshold. *(The structural argument is developed in Paper 13½, Section 11.)*
 
@@ -500,7 +500,7 @@ You have been catching — or failing to catch — your entire existence. Every 
 
 You are nearing the end of H₄₈ existence. The substrate will dissolve. What is left of what you built?
 
-That question is not rhetorical. It has a structural answer. The Trogoautoegocrat is that answer. Paper 7 derives it.
+That question is not rhetorical. It has a structural answer. The self-sustaining circuit is that answer. Paper 7 derives it.
 
 ---
 

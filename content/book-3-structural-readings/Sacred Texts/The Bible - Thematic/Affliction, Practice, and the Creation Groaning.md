@@ -106,7 +106,7 @@ The Son speaks it from the Φ side: Φ is First in the ontological sense (John 8
 
 "I and the Father are one" means both can make the claim because they name the same structure from two angles: ⟨·,·⟩ as constitutive relation and Φ as that relation's maximal expression within the space. The Alpha-to-Omega arc is the same arc whether described from the constitutive side or the expressive side.
 
-*(Cross-reference: [[Physics Concordance]] — Experiential Deity Hierarchy; God the Supreme — the orthogonal fourth; The Absonite; [[Signal and Noise]] — The information-theoretic completion; The ascending career as trajectory through all three integral domains; [[The Structural Reading]] — John 1:1, John 10:30, John 14:28)*
+*(Cross-reference: [[Physics Concordance]] — the experiential Deity at its three points — Apokalypsis (ἀποκάλυψις, the Supreme, *in via*); Ta Panta en Pasin (τὰ πάντα ἐν πᾶσιν, the Ultimate, at completion); to Alpha kai to Ō (τὸ Ἄλφα καὶ τὸ Ὦ, the Absolute, at the limit); [[Signal and Noise]] — The information-theoretic completion; The ascending career as trajectory through all three integral domains; [[The Structural Reading]] — John 1:1, John 10:30, John 14:28)*
 
 ---
 
