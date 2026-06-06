@@ -67,4 +67,4 @@ The wide reading is where we go now — out of the house at last, and gladly.
 
 ---
 
-*[[book-1-concordius-papers/section-iii---the-wide-reading/index|Section III → The Wide Reading]] →*
+*[[book-1-concordius-papers/section-ii---the-wide-reading/index|Section III → The Wide Reading]] →*

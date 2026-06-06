@@ -1,10 +1,10 @@
 ---
-title: Section II — The Operations
+title: Section III — The Operations
 tags:
-  - nav-order::3
+  - nav-order::4
 ---
 
-# Section II — The Operations
+# Section III — The Operations
 
 *Papers 8–14*
 

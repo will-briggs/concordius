@@ -1,10 +1,10 @@
 ---
-title: Section III — The Wide Reading
+title: Section II — The Wide Reading
 tags:
-  - nav-order::4
+  - nav-order::3
 ---
 
-# Section III — The Wide Reading
+# Section II — The Wide Reading
 
 *Papers 15–21*
 

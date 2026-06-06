@@ -76,4 +76,4 @@ That limit is not the end of the work. It is the beginning of the next part of i
 
 ---
 
-*[[Section II - The Operations/Paper 8 - What We Can't Know|Section II → The Operations]] →*
+*[[Paper 8 - What We Can't Know|Section II → The Operations]] →*
