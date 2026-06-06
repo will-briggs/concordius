@@ -292,7 +292,25 @@ Neither Plato nor Aristotle was wrong about what they perceived. Both were wrong
 
 ---
 
-## 13. Open Questions
+## 13. The Three Figures and the Single-Generator Reader
+
+A convention older than the dispute treats Plato and Aristotle — and Augustine with them — as instances of one kind, *the philosophers*, differing in doctrine but not in faculty. The framework makes that grouping a category error. The three are not three answers to one question. They are three different organs of access, and the difference is structural, not stylistic.
+
+Plato begins from first principles — the Form of the Good, prior to and illuminating all that is known (*Republic* 509b), which this paper identifies with ⟨·,·⟩, the relation that is not itself a being. His native motion is downward from the unhypothetical: the mathematician's motion. The *Republic*, rebuilt in Paper 15, stands not on any borrowed conclusion but on Plato's own argument at 369a — read justice in the city because its larger letters show the same form the soul shows in smaller ones. That is a scale-invariance claim, a mathematician's instrument before it is a political one.
+
+Augustine begins from the heart. The certainty he reaches is not deduced but undergone — *si fallor, sum*, the self disclosed to itself in the very act of doubting — and his motion is inward, toward the One nearer to him than he is to himself. The *Confessions*, rebuilt in Paper 16, stands on the *distentio animi*: time as the soul's own stretching, which the framework reads as norm preservation under the unitary flow, ‖U(t)ψ‖ = ‖ψ‖. The argument is the believer's, taken at the register where it was made — the heart's, not the proof's.
+
+Aristotle begins from the world. He looks at the living thing and asks what it is for; the *ergon* argument grounds the good of a being in the function proper to its kind (*EN* I.7), which this paper reads as eigenvalue orientation. The *Nicomachean Ethics*, rebuilt in Paper 17, stands on that function argument — the scientist's procedure: observation of the natural case, rising to the universal already in it.
+
+The Good, the True, the Beautiful. The mathematician, the believer, the scientist. These are the three doors of Papers 1, 2, and 3 — and, in the algebra those papers build, the three grade-1 generators e₁, e₂, e₃: the single vectors, each irreducible, none derivable from the others. To call all three *philosophers* is to mistake three orthogonal generators for three points along one axis.
+
+What follows from the algebra is left to the reader who holds it. A generator multiplied by itself returns a scalar — e₁e₁ = 1, no new grade. The paired modes — the bivectors of grade 2, the matter of Papers 4 through 6 — are products of *distinct* generators, e₁e₂ and e₂e₃ and e₃e₁, and the grade-2 subspace is spanned only where all three are present to be multiplied. A reader who has come in through one door alone holds one generator. The Mi–Fa interval (Paper 3½) is the grade-1→grade-2 crossing; what is reachable from a single generator, and what is not, the algebra has already settled.
+
+This is why the three case studies converge rather than echo. Each was rebuilt on its own figure's native argument — scale invariance, norm preservation, function — and those three arguments are not one argument in three idioms. They are three independent generators of a single structure, recovered separately and found to be the three the framework had already named.
+
+---
+
+## 14. Open Questions
 
 **OQ1 — The neo-Platonist tradition.** Plotinus (Enneads) develops a Platonic system with three hypostases: the One (beyond being), the Intellect (νοῦς), and the Soul (ψυχή). These map straightforwardly onto ⟨·,·⟩, Φ, and H respectively, with emanation as the GNST operating downward. The neo-Platonist tradition is arguably closer to the Gelfand triple than either Plato or Aristotle individually. A full structural reading of the Enneads would either confirm this mapping or reveal where it breaks down.
 
