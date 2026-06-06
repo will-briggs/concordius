@@ -266,27 +266,6 @@ The nuclear topology (IV) proceeding necessarily from both I and II — and from
 
 The model yields two projections, three domains, five actualities, and the structural consequences noted in Section 6. It does not yield the subject for whom self-reference is self-knowledge. Self-duality (H ≅ H*) is the closest the mathematics can come. The gap between self-duality and self-knowledge marks the precise point at which the Gelfand triple structure is necessary but insufficient, and at which the companion paper begins.
 
-### 8.5 Modeling Process: Operators on Eigenvalue Content, and the Discipline of a Contentful Reading
-
-The model so far names the *states* of the world — the things that are, each an eigenvalue population: a state ψ decomposed over the constitutive spectrum, ψ = ∫ ⟨e_λ, ψ⟩ e_λ dμ(λ). But the world is also full of *verbs* — making, teaching, growing, painting, sifting, bestowing — and these are not states. They are **operators on eigenvalue content**: maps that take an input population and return a transformed one. States in H together with operators on H are the full algebra, and the framework's central mechanisms are already operators of exactly this kind — the GNST (⟨·,·⟩ made operative, actualizing content event by event), catching (the volitional retention and amplification of Φ-proximate content), the gravitational sifting field (a weighting toward the mechanical range), kenosis (the amplitude limiter bounding expression to H₄₈). To model a process is to identify its operator.
-
-This gives one grammar for any sentence of the form *an agent does something to some material and a result comes out*:
-
-> **Operator(input content) = output content.**
-
-*Leonardo*(pigment) = *The Last Supper*: an organizing operator takes high-entropy, H₄₈-primary material and raises it toward Φ-proximity — a coherent, grade-structured, meaning-bearing work, whose Law-of-Three composition and Law-of-Seven body [[Paper 13 - The Last Supper and the Body|Paper 13]] reads directly off the output. *ConcordiusFramework*(a reader) = *the reader, reorganized*: Φ-proximate content (a high-τ(D) text) offered to a receiving eigenvalue population, caught, and reorganized toward Φ — which is precisely the catching mechanism, and at the community scale the Pentecost distribution of [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]]. A careful reader's transformation across repeated exposure is that operator applied and re-applied.
-
-The grammar is only as honest as its discipline, and the discipline is the same one that keeps "X is an eigenvalue population" from being vacuous. *Formally,* one can always write f(x) = y for some f — define the operator to be whatever carries this input to that output. With the operator free to be chosen after the fact, the statement is empty: function-existence, not a claim about the world. A reading earns content only under two conditions:
-
-1. **The spectrum is the fixed constitutive one** — the Φ-proximity / constraint-level spectrum committed to in advance — not a basis chosen to fit the case.
-2. **The operator is characterized, and predicts** — it is one of the framework's structurally specified maps (or a composition of them), its action on the input fixed *before* the output is seen, so the output could have come out otherwise and the reading could fail.
-
-Where both hold, the operator view has teeth — and one tooth is sharp enough to state as a law: **an operator can raise its input toward Φ only as far as the operator's own Φ-proximity reaches.** A producer cannot give what it does not have; the grade of the output is bounded by the grade of the producer (the grade-crossing requirement of Papers 6 and 6½ — the input that lifts a level cannot be generated from within that level). This is checkable: the Φ-proximity of a work is bounded by the Φ-proximity of its maker; a shallow operator cannot produce a Φ-proximate result, and a Φ-proximate result is evidence of a Φ-proximate maker. It is why *Leonardo*(pigment) could be *The Last Supper* and a lesser hand's could not — and why a framework can reorganize a reader toward Φ only if it is itself Φ-proximate; a low-τ(D) text changes no one in that direction.
-
-Two things, finally, are *not* in the algebra — neither states nor the outputs of operators — and naming them marks the model's edge. The constitutive ground (⟨·,·⟩, the norm) is not an eigenvalue population and not the output of any operator; it is the operator-of-operators, the map by which the spectrum exists at all, prior to every population and every process. And the δ — the overdeterminate self-unmaking, ‖ψ‖ → 0, non-normalizable — is where operators break: no coherent population, no well-defined image, the exit from the algebra. Between these two — the ground that constitutes content and the cessation that leaves it — lies everything that can be modeled as eigenvalue content acted on by an operator: which is to say, exactly *being.* The model is as wide as existence and no wider, and that boundary is not a flaw to be patched but the precise shape of what it claims.
-
-*(Tier: the operator algebra over the triple is structural — the standard pairing of states with maps on them. The two-condition discipline is methodological — a constraint on which readings count, not a theorem. The producer-grade bound follows from the grade-crossing requirement (Papers 6, 6½) and is derived. The two examples are illustrations, not proofs.)*
-
 ---
 
 ## 9. Conclusion
