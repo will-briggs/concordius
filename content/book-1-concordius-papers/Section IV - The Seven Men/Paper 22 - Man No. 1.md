@@ -30,7 +30,7 @@ Each paper in this section has the following structure:
 - The warning: what does not work for this type (common false transitions)
 - A practical regime: phase-by-phase, concrete, actionable
 
-*Cross-reference: Paper 4 (The Son Articulates: H₄₈ and the Higgs Mechanism — the physical substrate enabling the ascending career); Papers 6 and 6½ (The [[Appendix I - Dictionary of Terms#Trogoautoegocrat|Trogoautoegocrat]] — the octave structure of the Men 1-7 sequence); Paper 3½ (Descent as [[Appendix I - Dictionary of Terms#Densification|Densification]] — what it means to receive content from a lower-constraint domain); Paper 3 (the Creative Choice — the constitutive [[Appendix I - Dictionary of Terms#Love|love]] that makes the ascending career available to Man 1).*
+*Cross-reference: Paper 4 (The Son Articulates: The Word and the Forming of the World — the physical substrate enabling the ascending career); Papers 6 and 6½ (The [[Appendix I - Dictionary of Terms#Trogoautoegocrat|Trogoautoegocrat]] — the octave structure of the Men 1-7 sequence); Paper 3½ (Descent as [[Appendix I - Dictionary of Terms#Densification|Densification]] — what it means to receive content from a lower-constraint domain); Paper 3 (the Creative Choice — the constitutive [[Appendix I - Dictionary of Terms#Love|love]] that makes the ascending career available to Man 1).*
 
 ---
 

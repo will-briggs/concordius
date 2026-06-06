@@ -1,4 +1,4 @@
-*← [[Paper 4 - The Son Articulates|Paper 4 — The Son Articulates: H₄₈ and the Higgs Mechanism]]*
+*← [[Paper 4 - The Son Articulates|Paper 4 — The Son Articulates: The Word and the Forming of the World]]*
 
 # The Long Ascent: From the Higgs Vacuum to Our Uncle Monkey
 
