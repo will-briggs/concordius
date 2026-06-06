@@ -91,7 +91,7 @@ This is the first of the three **Formal Names** for the experiential-Deity tiers
 
 See *Ta Panta en Pasin*, *to Alpha kai to Ō*. Cross-reference: [[Paper 3 - The Spirit Integrates|Paper 3]] ("The Spirit Integrates" — the immutability of the Father and the accumulation of the experiential Deity).
 
-*Urantia concordance: "God the Supreme" — demoted to concordance; developed in Section II.*
+*Urantia concordance: "God the Supreme."* The *Urantia Book*'s Supreme Being is the evolving, experiential Deity of the grand universe — God-in-time, actualized by and growing with the sum of creature experience. That is Apokalypsis (ἀποκάλυψις, Rom 8:19): the experiential Deity *in via*, the running integral of caught content — God revealing Himself through Creation.
 
 ---
 
@@ -361,7 +361,7 @@ These are not three separate divine beings. They are the Father viewed from thre
 
 See also *Hilbert Space*, *El Shaddai*, *Elohim*, *Father*, *Gelfand Triple*.
 
-*Urantia concordance: "the Deity Absolute" — demoted to concordance; developed in Section II.*
+*Urantia concordance: "the Deity Absolute."* In Urantia cosmology the Deity Absolute is the domain of all actualized, structured, God-knowable reality — every state in principle fully knowable by the inner product, the complete actualization of the structured. That is H, the space of realized states (Creation).
 
 *Appears in: [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 3 - The Spirit Integrates|Paper 3]], [[Paper 6 1_2 - Love's Descent|Paper 6½]]*
 
@@ -437,7 +437,7 @@ The Concordius series uses eigenvalues and eigenstates to characterize the conte
 
 The spectral measure dμ is what lets the structured states of H and the unstructured potential of Φ′ be referred to one another: it is the coordinative structure by which every actuality is matched to its source in potential and every potential to its possible actualization. Elohim names God under this active aspect — not the domain of finite reality (Creation) nor the reservoir of potential (El Shaddai), but the creative act that holds the two in correspondence. This is the mode in which the Trinity engages the Creative Choice: the Father's constitutive relation ⟨·,·⟩ operates *through* dμ, which is why Elohim is God taken precisely as creating rather than as the created domain or the potential drawn upon.
 
-*Urantia concordance: "the Universal Absolute" — demoted to concordance; developed in Section II.*
+*Urantia concordance: "the Universal Absolute."* The Urantia Universal Absolute is neither the domain of actuality (the Deity Absolute) nor of potential (the Unqualified Absolute), but the coordinative principle holding both in mutual relation — the active relation between the two, not a third domain. That is the spectral coordinative mechanism dμ (Elohim): the Father in creative action.
 
 ---
 
@@ -685,7 +685,7 @@ H₄₈ is the domain within which human beings in their ordinary condition oper
 
 Where Creation = H is the domain of all actualized finite states, Heaven is the nuclear space Φ in its realized aspect: not one more region within finite reality but its non-contingent center, the fully-determinate ground that does not depend on anything else for its being. Every contingent H-state proceeds from this ground and is internally oriented back toward it; the topology τ_nuclear is what makes Φ the space of perfectly coherent states. Heaven is therefore not a place added to creation but creation seen at its limit — what the structure of finite being is when it is brought to full actualization, the realized correlate of the eternal ground.
 
-*Urantia concordance: "Havona" — demoted to concordance; developed in Section II.*
+*Urantia concordance: "Havona."* The *Urantia Book*'s Havona is the eternal, non-contingent central universe — not created in time, not a destination approached from outside, but the necessary and direct expression of the joint activity of the Father and the Son through the Spirit, the perfect actualization of what creation structurally is. That is the realized nuclear space (Φ, τ_nuclear): the term carries exactly the structural content the identification requires, where "heaven" alone would admit too many readings.
 
 ---
 
@@ -877,7 +877,7 @@ The norm ‖ψ‖ = √⟨ψ,ψ⟩ is the magnitude a state has by virtue of bei
 
 This is why Paradise is met but is not the Father as such. To reach Paradise is to be measured against the absolute center — the limit of the ascending career, the resolution of the finite state's distance into the magnitude that always already grounded it. This corresponds structurally to Catholic theology's Beatific Vision, to the Buddhist Parinirvana (used carefully), and to Gurdjieff's account of the highest possible human achievement extended beyond H₄₈ existence. The series treats all of these as descriptions of the same structural event in different vocabularies.
 
-*Urantia concordance: "the Isle of Paradise" — demoted to concordance; developed in Section II.*
+*Urantia concordance: "the Isle of Paradise."* The *Urantia Book*'s Isle of Paradise is more structurally precise than the ordinary sense of "paradise": not a prize at the journey's end but the eternal, non-spatial absolute center of the master universe — the ground from which all existence is measured, the origin finite beings are oriented toward from the beginning, and the locus at which the encounter with the Father occurs. This is the norm ‖·‖ exactly: the measure of all distances, itself at no distance. Paradise is the Father's residence (where the Father is met), not what the Father *is* (the inner product ⟨·,·⟩).
 
 *Appears in: [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 3 - The Spirit Integrates|Paper 3]], [[Paper 3 1_2 - The Constraint Cascade|Paper 3½]], [[Paper 6 - The Cogito Coheres|Paper 6]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 26 - Man No. 5|Paper 26]], [[Paper 27 - Man No. 6|Paper 27]], [[Paper 27 1_2 - The Si-Do Interval|Paper 27½]]*
 
@@ -1467,7 +1467,7 @@ The verse preserves the Father's priority and is chosen precisely for that. In 1
 
 See *Apokalypsis*, *to Alpha kai to Ō*. Cross-reference: [[Paper 3 - The Spirit Integrates|Paper 3]] ("The Spirit Integrates" — the immutability of the Father and the accumulation of the experiential Deity).
 
-*Urantia concordance: "God the Ultimate" — demoted to concordance; developed in Section II.*
+*Urantia concordance: "God the Ultimate."* The Urantia Ultimate is the absonite completion beyond the Supreme's grand-universe growth. That is Ta Panta en Pasin (τὰ πάντα ἐν πᾶσιν, 1 Cor 15:28): "all in all" — the experiential Deity at completion.
 
 ---
 
@@ -1513,7 +1513,7 @@ This is why the Absolute's name and the Father's are the same words. The Father 
 
 See *Apokalypsis*, *Ta Panta en Pasin*; and *Creation* (the Alpha–Omega identification). Cross-reference: [[Paper 3 - The Spirit Integrates|Paper 3]] ("The Spirit Integrates" — the immutability of the Father and the accumulation of the experiential Deity).
 
-*Urantia concordance: "God the Absolute" — demoted to concordance; developed in Section II.*
+*Urantia concordance: "God the Absolute."* The Urantia God the Absolute is the experiential realization of the Deity Absolute at the limit of the master universe. That is to Alpha kai to Ō (τὸ Ἄλφα καὶ τὸ Ὦ, Rev 1:8): the Alpha and the Omega — the experiential Deity at the limit.
 
 ---
 
@@ -1583,7 +1583,7 @@ The philosophical significance: the classical problem of individuation — what 
 
 This is what apophatic theology is gesturing toward: the domain that exceeds all positive description, to which the tradition's most careful language says only "not this, not this" (*neti, neti* in the Vedantic formulation). El Shaddai is not nothing — it contains all unrealized potentiality — but it is not any particular thing, and no positive statement about it can be adequate. It is God taken in the mode of indeterminacy, prior to the determination of any particular actuality.
 
-*Urantia concordance: "the Unqualified Absolute" — demoted to concordance; developed in Section II.*
+*Urantia concordance: "the Unqualified Absolute."* The Urantia Unqualified Absolute is the domain of unactualized, undifferentiated potential — not chaotic, but not yet structured into the finite; the infinite reservoir from which finite actuality is drawn. That is Φ′, the distributional dual: God in the mode of indeterminacy (El Shaddai), the Father unlimited rather than a separate being. The double valence of abundance and destruction is a structural consequence of what Φ′ is.
 
 *Appears in: [[Paper 2 - From the Cogito to the Logos|Paper 2]], [[Paper 3 - The Spirit Integrates|Paper 3]], [[Paper 3 1_2 - The Constraint Cascade|Paper 3½]], [[Paper 6 1_2 - Love's Descent|Paper 6½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]]*
 
