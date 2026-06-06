@@ -183,7 +183,11 @@ Here the animal climb reaches its last rung. The australopithecine grade — a c
 
 ## 17. The body becomes human
 
-The body-line ran on from the australopithecines through the genus *Homo*, the brain enlarging, the frame settling into its modern proportions, until — by about **300,000 years ago**, the date of the earliest *Homo sapiens* fossils from Jebel Irhoud in Morocco (Hublin et al. 2017) — there existed a body anatomically indistinguishable from the reader's. This paper makes no claim here about the *mind* that came to inhabit that body: the knowing, choosing, self-aware person is the thread of the companion paper, and the question of when and how matter came to host an interior is its question, not this one. On the material thread there is only the body, and the body is now a human one — some thirty-seven trillion cells, the iron in its blood and the calcium in its bones forged in stars that died before the Sun, an organism continuous in every tissue with the long climb behind it, and continuous with every other animal in the one respect that will matter at the end: it can die. But the end is not yet. First the body is a link in a line — it would beget others, and they others — and it is the line, now, that the thread follows.
+The body-line ran on from the australopithecines through the genus *Homo*, the brain enlarging, the frame settling into its modern proportions, until — by about **300,000 years ago**, the date of the earliest *Homo sapiens* fossils from Jebel Irhoud in Morocco (Hublin et al. 2017) — there existed a body anatomically indistinguishable from the reader's.
+
+The material record can trace one further thing about this body, though only in its shadow: the behavior that betrays a mind. Through the African Middle Stone Age the human line began to do things that seem to need an interior to explain — grinding and engraving pigment and piercing shell beads at Blombos Cave around seventy-five to a hundred thousand years ago (Henshilwood et al. 2002); and, in the later flowering the European caves made famous, painting walls and carving figurines (Chauvet, the Hohle Fels figure, the Sulawesi panels, forty-odd thousand years old and now matched by finds across Africa and Asia), and burying the dead with evident care. Whether this marks a sudden "revolution" or — as the evidence now leans — a long, gradual, mosaic accumulation reaching back toward the body's own origin is genuinely debated (McBrearty & Brooks 2000). It is as much of a historical account of the arrival of consciousness as the rock affords, and it comes with two honest limits: the record dates *behavior*, not the interior — a bead or a burial shows that a mind was at work, not what it was like to be that mind — and there is no first moment in it, no stratum where the lights demonstrably come on. What the interior *is*, and whether it had a first waking the rock cannot see, is the companion paper's question.
+
+On the material thread there is only the body — some thirty-seven trillion cells, the iron in its blood and the calcium in its bones forged in stars that died before the Sun, an organism continuous in every tissue with the long climb behind it, and continuous with every other animal in the one respect that will matter at the end: it can die. But the end is not yet. First the body is a link in a line — it would beget others, and they others — and it is the line, now, that the thread follows.
 
 ---
 
@@ -336,6 +340,12 @@ White, T.D., et al. (2009). *Ardipithecus ramidus* and the paleobiology of early
 Wilson Mantilla, G.P., et al. (2021). Earliest Palaeocene purgatoriids and the initial radiation of stem primates. *Royal Society Open Science* 8, 210050.
 
 Zhu, M., et al. (2022). The oldest complete jawed vertebrates from the early Silurian of China. *Nature* 609, 954–958.
+
+*Added for §17 (the behavioral record of consciousness):*
+
+Henshilwood, C.S., et al. (2002). Emergence of modern human behaviour: Middle Stone Age engravings from South Africa. *Science* 295, 1278–1280.
+
+McBrearty, S., Brooks, A.S. (2000). The revolution that wasn't: a new interpretation of the origin of modern human behavior. *Journal of Human Evolution* 39, 453–563.
 
 *Added for §§18–19 (the peopling and the line of Israel):*
 
