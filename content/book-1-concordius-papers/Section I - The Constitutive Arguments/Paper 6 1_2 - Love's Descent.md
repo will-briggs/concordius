@@ -76,4 +76,4 @@ So the series sets down its tools and waits at the stone, with the women, in the
 
 ---
 
-*[[Paper 7 - What We Know|Paper 7 — What We Know, What We Don't]] →*
+*[[Paper 7 - What We Know|Paper 7 — The Resurrection: Called By Name]] →*

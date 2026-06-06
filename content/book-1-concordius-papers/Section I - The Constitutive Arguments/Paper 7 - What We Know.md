@@ -1,6 +1,6 @@
 *← [[Paper 6 1_2 - Love's Descent|Paper 6½ — Love's Descent: The Three Days in the Tomb]]*
 
-# The Resurrection: What We Know, What We Don't
+# The Resurrection: Called By Name
 
 *Seventh paper, and the close of Section I. It tells the morning as the tradition hands it down — and no more surely than the tradition can — and then turns, in the same breath, to the one thing the whole section took on trust and never earned. What can be done with the structure once it is granted, and why that one thing can never be confirmed from inside, is the work of Section II.*
 
