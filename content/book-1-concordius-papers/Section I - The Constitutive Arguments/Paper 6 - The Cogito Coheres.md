@@ -436,4 +436,4 @@ That question is not rhetorical. It has a structural answer. The self-sustaining
 
 ---
 
-*[[Paper 6 1_2 - Love's Descent|Paper 6½ — Love's Descent: The Kenotic Arm]] →*
+*[[Paper 6 1_2 - Love's Descent|Paper 6½ — Love's Descent: The Three Days in the Tomb]] →*
