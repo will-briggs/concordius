@@ -2,7 +2,7 @@
 
 # Love's Descent: The Three Days in the Tomb
 
-*Paper 6½ of Section I. The three readings of the death have been set down — the cry, the body, the consummation (Papers 4, 5, 6). Here the series stands at the sealed tomb and looks at what was laid in it. It looks more than once, because there is more than one way to look at a grave; and then it admits the one thing the looking cannot reach. Companion to Papers 4–6 (the Cross) and Paper 7 (the morning).*
+*Paper 6½ of Section I. The death has been set down; here the series stands at the sealed tomb and looks at what was laid in it. It looks more than once, because there is more than one way to look at a grave; and then it admits the one thing the looking cannot reach. Companion to Papers 4–6 (the Cross) and Paper 7 (the morning).*
 
 ---
 
@@ -62,7 +62,7 @@ The cloth is placed here for exactly what it is and nothing more: a contested ob
 
 ## 4. The three days we cannot see
 
-Set the three looks side by side. The bond between the Father and the Son: held at its furthest distance, not severed. The body: really dead, really not let go of. The descent: all the way down, and the ground already there. Three readings of one sealed tomb, and they converge — not on an answer, but on a silence.
+Set the three looks side by side. The bond between the Father and the Son: held at its furthest distance, not severed. The body: really dead, really not let go of. The descent: all the way down, and the ground already there. Three looks at one sealed tomb, and they converge — not on an answer, but on a silence.
 
 For this is the plain fact under all of it: the Gospels do not narrate the three days. They tell the death in detail and the morning in detail and leave the middle dark. The descent among the dead is in the creed but not in any reporter's account; its content is confessed, not described. The body's three days are inferred from how bodies behave, not witnessed. The cloth is contested. Everything in this paper that is not structure is reverent guesswork, and it should be read as such: we do not know what happened in that tomb. No one was shown it. The most careful thing the series can say about the interval is that it is an interval — a held silence between a death that is documented and a morning that is documented, with nothing given to fill it.
 

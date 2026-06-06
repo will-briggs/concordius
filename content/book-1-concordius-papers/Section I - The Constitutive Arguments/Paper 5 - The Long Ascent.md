@@ -2,7 +2,7 @@
 
 # The Long Climb
 
-*Paper 5 of Section I. The same arc as Paper 4 — the physical universe to the tomb — followed this time along its material thread: matter itself, from the first particles that had mass to the body that would be laid in a grave. It is, for almost all of its length, a review of the current scientific account of cosmic and biological evolution, offered as the settled and contested findings of physics, geology, and biology as they stand in the present literature. Only at the end does the thread reach a single human body and follow it, by the same physics that governs any body, to its death. Companion to Paper 4 (the arc as Word) and Paper 6½ (the body in the tomb). Where the science is firm it is stated plainly; where it is live, the debate is named.*
+*Paper 5 of Section I. The material thread — matter itself, from the first particles that had mass to a human body, and the death of that body. For almost all of its length a review of the current scientific account of cosmic and biological evolution, offered as the settled and contested findings of physics, geology, and biology as they stand in the present literature; only at the end does the thread reach a single human body and follow it, by the same physics that governs any body, to its death. The place where the scientific reader enters. Where the science is firm it is stated plainly; where it is live, the debate is named. Companion to Paper 6½ (the body in the tomb).*
 
 ---
 

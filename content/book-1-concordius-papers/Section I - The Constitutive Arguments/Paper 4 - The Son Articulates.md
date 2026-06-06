@@ -2,7 +2,7 @@
 
 # The Word Made Flesh
 
-*Paper 4 of Section I. From here the one arc — the forming of the physical universe down to the Cross — is followed more than once, each time by a different light. This paper follows it as Word: the world given its form, the form taken up into flesh, and the bond between the Father and the Son carried to the place where it is stretched to its furthest distance. Companion to Paper 2 (the Son, the Logos) and Paper 6½ (the tomb, where the Word falls silent).*
+*Paper 4 of Section I. The world is spoken into its form; the form is taken up into flesh; and the bond between the Father and the Son is carried to the place where it is stretched to its furthest distance, and a formed voice cries out, forsaken. Companion to Paper 2 (the Son, the Logos) and Paper 6½ (the tomb, where the Word falls silent).*
 
 *Status: structural — the algebra of the first bivector and the identification of the Son as Φ, the Logos (Papers 2, 3½). The dereliction is read at the antipode of the felt-spectrum (Appendix I); the scriptural readings are concordance with the derived structure.*
 
@@ -14,7 +14,7 @@ The Father constituted the space — called it into being from nothing. But a co
 
 In the algebra, that act is the first bivector. A generator taken alone returns only the scalar — eᵢ² = +1, nothing new, nothing *this* — for one thing iterated is still one thing; form appears only where two distinct generators meet (a bivector is the product of two distinct generators, the grade-topology theorem of Paper 3½, §1). So the act that gives form does not make the world from nothing — that was already done — it combines what was given into something determinate. And the oldest name for exactly that act is the Word: *all things were made through him, and without him was not anything made that was made* (John 1:1–3); *and God said, Let there be… and it was so* (Genesis 1). The mathematician's "product of two generators" and the evangelist's "all things were made through him" are the same sentence: to confer form is to speak a thing into being *this* thing.
 
-That same act has a far side, and this reading follows it there. The element that confers form — the bivector, the Father's direction and the Son's brought together — is, squared, the negative at the floor of everything: the same e₁e₂ that articulates the world is the −1 of its breaking. So the arc does not stop at the forming. It follows the Word into the world he formed — *the Word became flesh* — and down to the moment when the bond between the Father and the Son is stretched to its furthest distance and a formed voice cries out, forsaken. The forming and the forsaking are one element, taken from its two ends. The paper ends where that voice falls silent, at the edge of the tomb.
+That same act has a far side, and this paper follows it there. The element that confers form — the bivector, the Father's direction and the Son's brought together — is, squared, the negative at the floor of everything: the same e₁e₂ that articulates the world is the −1 of its breaking. So the arc does not stop at the forming. It follows the Word into the world he formed — *the Word became flesh* — and down to the moment when the bond between the Father and the Son is stretched to its furthest distance and a formed voice cries out, forsaken. The forming and the forsaking are one element, taken from its two ends. The paper ends where that voice falls silent, at the edge of the tomb.
 
 ---
 
@@ -100,7 +100,7 @@ And then the voice stops. The formed flesh the Word took up dies the way formed 
 
 ---
 
-*Cross-reference: Paper 1 (Φ as the nuclear space; the inner product); Paper 2 (the Son as the Logos, the Word); Paper 3½ (the first bivector; the grade-topology theorem, §1; the Father's constitutive crossing); Paper 5 and Paper 6 (the same arc followed by other lights — the material order, the cohering person); Paper 6½ (the tomb, where the Word falls silent); Appendix I (the felt-spectrum; the antipode). Scripture: John 1:1–3, 1:14; Genesis 1; Psalm 22:1; Mark 15:34. [[Structural Readings/01 — The Principle and the Identity of the Logos]].*
+*Cross-reference: Paper 1 (Φ as the nuclear space; the inner product); Paper 2 (the Son as the Logos, the Word); Paper 3½ (the first bivector; the grade-topology theorem, §1; the Father's constitutive crossing); Paper 5 (the material order) and Paper 6 (the cohering person); Paper 6½ (the tomb, where the Word falls silent); Appendix I (the felt-spectrum; the antipode). Scripture: John 1:1–3, 1:14; Genesis 1; Psalm 22:1; Mark 15:34. [[Structural Readings/01 — The Principle and the Identity of the Logos]].*
 
 ---
 

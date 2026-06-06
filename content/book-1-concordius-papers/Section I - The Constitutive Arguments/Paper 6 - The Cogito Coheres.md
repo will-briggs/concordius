@@ -2,7 +2,7 @@
 
 # The Living Soul
 
-*Paper 6 of Section I. The same arc once more — the physical universe to the tomb — followed now along the thread Paper 5 set aside: not the body but the person, the knowing and loving someone that the body came to host. It asks the question the material account left open — when, and how, does matter become a self? — holds it where the science honestly leaves it, and follows the thread of the person to its own end at the Cross: the work finished, the breath given up. Companion to Paper 5 (the body) and Paper 6½ (the descent among the dead).*
+*Paper 6 of Section I. The person — the knowing and loving someone that matter came to host. It takes up the question the body's account left open: when, and how, does matter become a self? It holds that question where the science honestly leaves it, sets beside it the oldest name for the result, and follows the person to its own end at the Cross: the work finished, the breath given up. Companion to Paper 5 (the body) and Paper 6½ (the descent among the dead).*
 
 ---
 
