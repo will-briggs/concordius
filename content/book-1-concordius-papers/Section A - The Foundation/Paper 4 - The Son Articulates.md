@@ -2,7 +2,7 @@
 
 # The Word Made Flesh
 
-*Paper 4 of Section I. The world is spoken into its form; the form is taken up into flesh; and the One through whom all things were made enters the world he formed, as one of the spoken things. This is the first of three lenses on one arc — the mathematician's and the theologian's together — and it runs from the forming of the world to the Word made flesh, the entrance from outside. Companion to Paper 2 (the Son, the Logos) and Paper 7 (the life the Word made flesh then lives).*
+*Paper 4 of Section A. The world is spoken into its form; the form is taken up into flesh; and the One through whom all things were made enters the world he formed, as one of the spoken things. This is the first of three lenses on one arc — the mathematician's and the theologian's together — and it runs from the forming of the world to the Word made flesh, the entrance from outside. Companion to Paper 2 (the Son, the Logos) and Paper 7 (the life the Word made flesh then lives).*
 
 *Status: structural — the algebra of the first bivector and the identification of the Son as Φ, the Logos (Papers 2, 3½). The Incarnation is read as Φ instantiated at the maximum accuracy H₄₈ can hold; the scriptural readings are concordance with the derived structure. The far side of the same element — the −1 at the antipode, the cry — is named here but followed in Paper 7, the life.*
 

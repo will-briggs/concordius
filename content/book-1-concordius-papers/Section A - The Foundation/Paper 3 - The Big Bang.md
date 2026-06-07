@@ -2,7 +2,7 @@
 
 # The Big Bang: When Spacetime Began
 
-*Paper 3 of Section I. It is, for most of its length, a review of the current scientific account of the earliest universe — the evidence that spacetime had a beginning, the physics of the first fraction of a second, and the precise place where known methods run out. It is offered as physics, with current dates and citations, and with its live debates named rather than smoothed over. Only at the end does it take the single step the rest of the series rests on, and that step is marked where it is taken. Companion to Paper 1 (the structure that is here given a beginning in time) and Paper 5 (which picks up the material trail at the electroweak vacuum and carries it to us).*
+*Paper 3 of Section A. It is, for most of its length, a review of the current scientific account of the earliest universe — the evidence that spacetime had a beginning, the physics of the first fraction of a second, and the precise place where known methods run out. It is offered as physics, with current dates and citations, and with its live debates named rather than smoothed over. Only at the end does it take the single step the rest of the series rests on, and that step is marked where it is taken. Companion to Paper 1 (the structure that is here given a beginning in time) and Paper 5 (which picks up the material trail at the electroweak vacuum and carries it to us).*
 
 ---
 

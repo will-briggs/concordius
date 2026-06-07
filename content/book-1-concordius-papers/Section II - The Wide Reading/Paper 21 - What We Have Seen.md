@@ -63,4 +63,4 @@ How the road is walked rather than read — the actual ascent, taken step by ste
 
 ---
 
-*[[book-1-concordius-papers/section-iv---the-seven-men/index|Section IV → The Seven Men]] →*
+*[[book-1-concordius-papers/section-g---the-practice/index|Section G → The Practice]] →*

@@ -2,7 +2,7 @@
 
 # The Resurrection: Called By Name
 
-*Paper 8 of Section I, and its close — the Do of the next tonic: the new beginning the descent could not generate from inside, the input that arrives from outside the closed tomb. It tells the morning as the tradition hands it down — and no more surely than the tradition can — and then turns, in the same breath, to the one thing the whole section took on trust and never earned. What can be done with the structure once it is granted, and why that one thing can never be confirmed from inside, is the work of Section II.*
+*Paper 8 of Section A, and its close — the Do of the next tonic: the new beginning the descent could not generate from inside, the input that arrives from outside the closed tomb. It tells the morning as the tradition hands it down — and no more surely than the tradition can — and then turns, in the same breath, to the one thing the whole section took on trust and never earned. What can be done with the structure once it is granted, and why that one thing can never be confirmed from inside, is the work of Section II.*
 
 ---
 
@@ -34,7 +34,7 @@ She came while it was still dark. The stone was moved, and the place where they 
 
 That is the account the tradition places first, and it is worth saying plainly how we hold it. We were not there; nor was anyone who could tell us now. The earliest sources do not agree on the particulars — how many women came, what they saw, whom they told and when — and a careful reader notices that they were never harmonized into a clean single story, which is not how a fabrication is usually left. What they agree on is odd in a way that is hard to account for as invention: that the tomb was found empty, and that the first witness to the risen man, in a world where a woman's testimony carried little legal weight, was a woman. One does not normally forge a charter document and sign it with the least credible witness available. None of this proves anything. It is only to say that the testimony has the texture of testimony, not of a tidy claim, and that is the honest starting place.
 
-And notice the shape of the recognition, because the whole section has been pointing at it without naming it. She does not know him by his face. She knows him when he says her name. The series began by arguing that to name is to confer a determinate identity — that you are someone, and not a smear of possibility, because you were spoken into a particular form and called (Papers 2, 4). The morning, if the tradition has it right, turns on exactly that and nothing else: the Word who named the world names one grieving woman, and in being named she knows the namer. Recognition runs the way the whole structure said it runs — not from the seen to the known, but from the Word, outward. It is the naming arc come all the way round, and it is the last thing Section I has to show before it admits what it cannot.
+And notice the shape of the recognition, because the whole section has been pointing at it without naming it. She does not know him by his face. She knows him when he says her name. The series began by arguing that to name is to confer a determinate identity — that you are someone, and not a smear of possibility, because you were spoken into a particular form and called (Papers 2, 4). The morning, if the tradition has it right, turns on exactly that and nothing else: the Word who named the world names one grieving woman, and in being named she knows the namer. Recognition runs the way the whole structure said it runs — not from the seen to the known, but from the Word, outward. It is the naming arc come all the way round, and it is the last thing Section A has to show before it admits what it cannot.
 
 ---
 
@@ -52,7 +52,7 @@ Beyond that grammar the series is in no position to go, and it should say so pla
 
 Having gone all the way down with the argument and, on the tradition's word, back up, the section must now turn and look at the ground it has been standing on the whole time.
 
-Almost everything in Section I was argued. Granted the premise, the rest followed — some of it by derivation, some by strong inference, some by the convergence of independent witnesses, each marked where it stood, every step open to a reader's check. But the premise itself was never argued. It was assumed on the first line of the first paper and never earned: *that reality can be modeled as a Gelfand triple.* Everything rests on it; it rests on nothing further. There is no vantage outside the structure from which to confirm that reality really has this shape, because any confirmation would already be working from inside it, using the very relation whose reality is the thing in question. The claim the whole series most depends on is the one it can least support.
+Almost everything in Section A was argued. Granted the premise, the rest followed — some of it by derivation, some by strong inference, some by the convergence of independent witnesses, each marked where it stood, every step open to a reader's check. But the premise itself was never argued. It was assumed on the first line of the first paper and never earned: *that reality can be modeled as a Gelfand triple.* Everything rests on it; it rests on nothing further. There is no vantage outside the structure from which to confirm that reality really has this shape, because any confirmation would already be working from inside it, using the very relation whose reality is the thing in question. The claim the whole series most depends on is the one it can least support.
 
 This bears with special weight on the morning. The Resurrection is the hinge the entire arc was bending toward, and it rests doubly on what cannot be established from here: on testimony we did not witness, and beneath that, on a premise we did not earn. The series is not embarrassed by this. It is the honest position. A structure can describe everything it contains and still not reach the ground it stands on, because the ground is presupposed by every description and captured by none. We have spent a whole section coming to know the place, and we arrive, at the end, back at the one thing we began by taking on trust — knowing it, now, for the first time, as an assumption, and seeing exactly how much hangs from it.
 
@@ -60,7 +60,7 @@ This bears with special weight on the morning. The Resurrection is the hinge the
 
 ## 4. Where the section ends, and what opens
 
-So Section I closes the way it opened: with a single premise, neither proven nor abandoned, only far better understood for everything that has unfolded from it. We know a great deal, if it is true. Whether it is true is the one thing we do not, and from here cannot, know. The morning, if it happened, is the one event that would settle the matter from outside — which is the very reason it cannot be settled from inside.
+So Section A closes the way it opened: with a single premise, neither proven nor abandoned, only far better understood for everything that has unfolded from it. We know a great deal, if it is true. Whether it is true is the one thing we do not, and from here cannot, know. The morning, if it happened, is the one event that would settle the matter from outside — which is the very reason it cannot be settled from inside.
 
 That limit is not the end of the work. It is the beginning of the next part of it. Section II turns and meets the same wall from within, deliberately, and asks what can still be done in full view of it. The first paper there states the limit exactly — why a structure like this one can never, by its own means, confirm its own ground — and builds from the limit outward. We do not leave the assumption behind. We learn what can be made while standing on it, eyes open.
 
@@ -68,7 +68,7 @@ That limit is not the end of the work. It is the beginning of the next part of i
 
 ## References
 
-1. **Companion papers:** the constitutive arguments of Section I — *Modeling Reality as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]*; *From the Cogito to the [[Appendix I - Dictionary of Terms#Logos|Logos]]*; *The Big Bang*; *The Constraint Cascade*; *The Word Made Flesh*; *The Long Climb*; *The Living Soul*; *Love's Descent: The Three Days in the Tomb*.
+1. **Companion papers:** the constitutive arguments of Section A — *Modeling Reality as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]*; *From the Cogito to the [[Appendix I - Dictionary of Terms#Logos|Logos]]*; *The Big Bang*; *The Constraint Cascade*; *The Word Made Flesh*; *The Long Climb*; *The Living Soul*; *Love's Descent: The Three Days in the Tomb*.
 
 2. **Scripture:** John 20:1–18 (the empty tomb; Mary and the gardener; the naming); Matthew 28:1–10; Mark 16:1–8; Luke 24:1–12.
 

@@ -13,9 +13,9 @@ title: Appendix VI - Catalogue of Illustrations
 **Postscript**
 - *Caspar David Friedrich, Wanderer above the Sea of Fog* (c. 1818) &nbsp;·&nbsp; `friedrich-wanderer.jpg`
 
-### Section I
+### Section A
 
-**Section I - The Constitutive Arguments — index**
+**Section A - The Foundation — index**
 - *Masaccio, The Trinity* (c. 1427–28) &nbsp;·&nbsp; `masaccio-trinity.jpg`
 
 **Paper 1 - Modeling Reality as a Gelfand Triple**
@@ -97,9 +97,9 @@ title: Appendix VI - Catalogue of Illustrations
 **Paper 20 - All of Recorded History as Heptaparaparshinokh**
 - *William Blake, The Great Red Dragon and the Woman Clothed with the Sun* (c. 1803–05) &nbsp;·&nbsp; `blake-great-red-dragon.jpg`
 
-### Section IV
+### Section G
 
-**Section IV - The Seven Men — index**
+**Section G - The Practice — index**
 - *William Blake, Glad Day / The Dance of Albion* (c. 1796) &nbsp;·&nbsp; `blake-glad-day.jpg`
 
 **Paper 22 - Man No. 1**

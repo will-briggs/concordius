@@ -3,7 +3,7 @@
 **Work:** The mature philosophy of Friedrich Nietzsche — *Thus Spoke Zarathustra* (1883–85), *Beyond Good and Evil* (1886), *On the Genealogy of Morals* (1887), and the *Nachlass* published as *The Will to Power*  
 **Medium:** Philosophy  
 **Series:** Book 3 — Structural Readings / Philosophy  
-**Cross-references:** the ascending career (Paper 5; the Seven Men, Book 1 Section IV); Paper 1 §5 (agape as ⟨·,·⟩); the Lucifer Rebellion (Doctrine; the ⟨·,·⟩/H₁ ground-prerogative asserted from below, by an H₁₂ being); Wall-E (the last man as perfected noise floor); Reasonablenessism Features 1, 2, 12; Syntheses — The Devil Can Quote Scripture
+**Cross-references:** the ascending career (Paper 5; the Seven Men, Book 1 Section G); Paper 1 §5 (agape as ⟨·,·⟩); the Lucifer Rebellion (Doctrine; the ⟨·,·⟩/H₁ ground-prerogative asserted from below, by an H₁₂ being); Wall-E (the last man as perfected noise floor); Reasonablenessism Features 1, 2, 12; Syntheses — The Devil Can Quote Scripture
 
 ---
 

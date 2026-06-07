@@ -2,7 +2,7 @@
 
 # The Life: The Form of a Servant
 
-*Paper 7 of Section I. The three lenses — the Word, the body, the soul — each carried one arc from the forming of the world to a single birth. This paper follows the one life that begins there, told not in three views but as one story, and the story is humility itself: the One through whom all things were made, entered as an infant from outside, living downward — the form of God taken into the form of a servant — to the cry. The three faces of the death the earlier lenses set aside meet here, at the cross, in one life. Companion to Papers 4–6 (which end at the birth) and Paper 7½ (the tomb the cry hands on to).*
+*Paper 7 of Section A. The three lenses — the Word, the body, the soul — each carried one arc from the forming of the world to a single birth. This paper follows the one life that begins there, told not in three views but as one story, and the story is humility itself: the One through whom all things were made, entered as an infant from outside, living downward — the form of God taken into the form of a servant — to the cry. The three faces of the death the earlier lenses set aside meet here, at the cross, in one life. Companion to Papers 4–6 (which end at the birth) and Paper 7½ (the tomb the cry hands on to).*
 
 *Status: mostly testimony, held as testimony — the life as the Gospels hand it down, no more surely than they can. The structural readings gathered at the cross are concordance with the derived structure, at their tiers: the cry at the antipode of the felt-spectrum (e₁e₂ squared to −1, Paper 4); the death real and not annihilation (Paper 5); the consummation as a breath freely returned (Paper 6). The spine is the kenotic hymn (Philippians 2), read as the shape of humility.*
 

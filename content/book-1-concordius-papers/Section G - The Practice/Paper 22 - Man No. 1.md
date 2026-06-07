@@ -2,7 +2,7 @@
 
 # Paper 22 — Man No. 1
 
-*Concordius Structural Series — Section IV: The Seven Men*
+*Concordius Structural Series — Section G: The Practice*
 
 ---
 
@@ -243,7 +243,7 @@ The paper prescribes community practice where available. The structural reason i
 
 ---
 
-*Paper 22 of the Concordius series. Section IV continues with Paper 23: Man No. 2.*
+*Paper 22 of the Concordius series. Section G continues with Paper 23: Man No. 2.*
 
 ---
 

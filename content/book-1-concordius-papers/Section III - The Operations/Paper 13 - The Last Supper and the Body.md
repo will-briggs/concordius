@@ -5,7 +5,7 @@
 *Case Study 3: Two readings — the Law of Three made visible in arranged space (Leonardo's *Last Supper*), and the Law of Seven embodied in the flesh (the human body as Cl(3,0)).*
 
 **Status:** Complete  
-**Cross-references:** Paper 10 (the [[Appendix I - Dictionary of Terms#Law of Three|Law of Three]] and [[Appendix I - Dictionary of Terms#Law of Seven|Law of Seven]]); Paper 10½ ([[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]]; interval positions; the Messenger Corollary, §10); Paper 11 (poems — the structural reading method); Paper 12 (Bach — the fugal form); Paper 13½ §§3–5 (the maximum downward entry; the cross-term mechanism; the overdeterminate condition and its observable signature); Paper 20½ (the constraint compatibility condition; the ascending career's terminus; Adjuster fusion); Paper 6 §8 (the Clifford-element assignment; the Chaldean order); Section IV — The Seven Men
+**Cross-references:** Paper 10 (the [[Appendix I - Dictionary of Terms#Law of Three|Law of Three]] and [[Appendix I - Dictionary of Terms#Law of Seven|Law of Seven]]); Paper 10½ ([[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]]; interval positions; the Messenger Corollary, §10); Paper 11 (poems — the structural reading method); Paper 12 (Bach — the fugal form); Paper 13½ §§3–5 (the maximum downward entry; the cross-term mechanism; the overdeterminate condition and its observable signature); Paper 20½ (the constraint compatibility condition; the ascending career's terminus; Adjuster fusion); Paper 6 §8 (the Clifford-element assignment; the Chaldean order); Section G — The Practice
 
 ---
 
@@ -143,7 +143,7 @@ And the two interval-shocks of the octave fall precisely on the two grade-bounda
 
 ## 10. Alignment and Non-Alignment with Gurdjieff's Seven Men
 
-The Seven Men (Section IV) and the seven centres are **the same Cl(3,0), read on two different axes.** Section IV grades the Men exactly as the body grades: Men 1–3 are the grade-1 generators, Men 4–6 the grade-2 bivectors, Man 7 the grade-3 pseudoscalar. The generators agree (e₁ = Father, e₂ = Son, e₃ = Spirit in both). The first overcoming-virtue agrees: courage = e₁e₂ = Man 4 = the heart. And the virtue↔bivector identity is the same in both readings: courage = e₁e₂, temperance = e₂e₃, diligence = e₁e₃.
+The Seven Men (Section G) and the seven centres are **the same Cl(3,0), read on two different axes.** Section G grades the Men exactly as the body grades: Men 1–3 are the grade-1 generators, Men 4–6 the grade-2 bivectors, Man 7 the grade-3 pseudoscalar. The generators agree (e₁ = Father, e₂ = Son, e₃ = Spirit in both). The first overcoming-virtue agrees: courage = e₁e₂ = Man 4 = the heart. And the virtue↔bivector identity is the same in both readings: courage = e₁e₂, temperance = e₂e₃, diligence = e₁e₃.
 
 The decisive difference is the **axis**. The Men are a *developmental ladder* — a level of being, what a person has *become*, ascended one position at a time. The chakras are a *bodily map* — all seven present at once in everyone, what a person is *made of*. The same seven, read once as attainment and once as anatomy. This is the [[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]] (Paper 10½): one grade structure legible in the career and in the flesh simultaneously.
 

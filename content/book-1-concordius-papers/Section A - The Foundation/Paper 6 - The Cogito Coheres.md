@@ -2,7 +2,7 @@
 
 # The Living Soul
 
-*Paper 6 of Section I. The person — the knowing and loving someone that matter came to host. It takes up the question the body's account left open: when, and how, does matter become a self? It holds that question where the science honestly leaves it, sets beside it the oldest name for the result, and follows the person to the same place its companion lenses reach: the birth — the arrival, in one infant, of a complete human interior, a living soul made flesh. This is the third of three lenses on one arc, the theologian's and the scientist's together. Companion to Paper 5 (the body) and Paper 7 (the life that someone then lives).*
+*Paper 6 of Section A. The person — the knowing and loving someone that matter came to host. It takes up the question the body's account left open: when, and how, does matter become a self? It holds that question where the science honestly leaves it, sets beside it the oldest name for the result, and follows the person to the same place its companion lenses reach: the birth — the arrival, in one infant, of a complete human interior, a living soul made flesh. This is the third of three lenses on one arc, the theologian's and the scientist's together. Companion to Paper 5 (the body) and Paper 7 (the life that someone then lives).*
 
 ---
 

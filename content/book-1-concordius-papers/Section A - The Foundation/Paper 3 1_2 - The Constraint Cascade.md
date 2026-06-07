@@ -2,13 +2,13 @@
 
 # The Constraint Cascade: Descent as Densification
 
-*Paper 3½ of Section I — the grade-1→grade-2 crossing of the created order. Companion to "Modeling Reality as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]," "From the Cogito to the [[Appendix I - Dictionary of Terms#Logos|Logos]]," and "The Creative Choice."*
+*Paper 3½ of Section A — the grade-1→grade-2 crossing of the created order. Companion to "Modeling Reality as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]," "From the Cogito to the [[Appendix I - Dictionary of Terms#Logos|Logos]]," and "The Creative Choice."*
 
 ---
 
 ## Abstract
 
-This paper is **Paper 3½** — the grade-1→grade-2 crossing of Section I: the first qualitative discontinuity of the cascade. It describes the *descent* — the creative algebra densifying in one direction, down the constraint hierarchy from the single law to the most constrained level. The descent runs in the algebra but is *not yet instantiated*; instantiation — the descended algebra made physically real — is the work of Paper 4 (the Son's articulation at the Higgs VEV). That the crossing requires what cannot be supplied from within the prior grade is exactly the character of this discontinuity: the algebra descends, but only the Son's articulation brings it into existence.
+This paper is **Paper 3½** — the grade-1→grade-2 crossing of Section A: the first qualitative discontinuity of the cascade. It describes the *descent* — the creative algebra densifying in one direction, down the constraint hierarchy from the single law to the most constrained level. The descent runs in the algebra but is *not yet instantiated*; instantiation — the descended algebra made physically real — is the work of Paper 4 (the Son's articulation at the Higgs VEV). That the crossing requires what cannot be supplied from within the prior grade is exactly the character of this discontinuity: the algebra descends, but only the Son's articulation brings it into existence.
 
 The paper proceeds in three parts. **Part One — The Algebra** sets down, in the one language that needs no name for it, the constitutional algebra Cl(3,0). **Part Two — The Naming** says what the algebra is: the creative act and its modes, and, at its depth, the One whose nature the structure turns out to be — the formal definition of Love, the Father's constitutive crossing, and the experiential Deity. **Part Three — The Descent to the Physical** traces the named structure down the constraint hierarchy to the edge of the physical world, the cascade arriving at the vacuum from which mass and matter come.
 

@@ -1,10 +1,10 @@
 ---
-title: Section I — The Constitutive Arguments
+title: Section A — The Foundation
 tags:
   - nav-order::2
 ---
 
-# Section I — The Constitutive Arguments
+# Section A — The Foundation
 
 *Papers 1–8*
 
@@ -72,4 +72,4 @@ The one life that begins at the birth, told not in three views but as a single s
 The descent reaches its lowest point. This paper stands at the sealed tomb and looks at what was laid in it more than once — at the bond between the Father and the Son, held at its furthest distance and not severed; at the body itself, really dead by the same material order that carried it up, and really not let go of; and at the descent of the Son among the dead, where the one physical trace the tradition has claimed, the burial cloth, is weighed and left in its honest doubt. The three looks converge on a silence: the three days the Gospels do not narrate. The paper ends by saying so plainly, and by naming why this silence is of the kind that cannot be broken from inside — a descent generates no turn of its own; if anything ends it, it must arrive from outside the tomb.
 
 **[[Paper 8 - The Resurrection|Paper 8 — The Resurrection: Called By Name]]**
-The close of Section I, and the Do of the next tonic — the new beginning the descent could not generate from inside. It reports the morning the tradition says broke the silence of the tomb — the empty grave, Mary mistaking him for the gardener, the recognition that comes not by sight but when he speaks her name, the naming arc of the whole section come round. It holds this as testimony, not proof: no one now living witnessed it, the earliest accounts differ in their particulars, and the series declines to offer a structural reading of the event at all — it has built no instrument that could weigh it, and is about to admit it cannot even confirm its own founding premise, so any such reading would be premature and is deferred far downstream, after the tools exist. Then it turns to that assumption beneath everything: that reality can be modeled as a Gelfand triple, assumed on the first page and never earned, the one claim the series cannot establish from within. Section II meets the same limit from the inside, and its first paper says exactly why it can never be crossed by the structure's own means.
+The close of Section A, and the Do of the next tonic — the new beginning the descent could not generate from inside. It reports the morning the tradition says broke the silence of the tomb — the empty grave, Mary mistaking him for the gardener, the recognition that comes not by sight but when he speaks her name, the naming arc of the whole section come round. It holds this as testimony, not proof: no one now living witnessed it, the earliest accounts differ in their particulars, and the series declines to offer a structural reading of the event at all — it has built no instrument that could weigh it, and is about to admit it cannot even confirm its own founding premise, so any such reading would be premature and is deferred far downstream, after the tools exist. Then it turns to that assumption beneath everything: that reality can be modeled as a Gelfand triple, assumed on the first page and never earned, the one claim the series cannot establish from within. Section II meets the same limit from the inside, and its first paper says exactly why it can never be crossed by the structure's own means.

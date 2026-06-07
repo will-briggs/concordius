@@ -2,7 +2,7 @@
 
 # The Long Climb
 
-*Paper 5 of Section I. The material thread — matter itself, from the first particles that had mass to a human body born in Roman Judea. For almost all of its length a review of the current scientific account of cosmic and biological evolution, offered as the settled and contested findings of physics, geology, and biology as they stand in the present literature; only at the end does the thread narrow to a single line of descent and arrive at one body, born. This is the second of three lenses on one arc — the mathematician's and the scientist's together — and, like the others, it runs from the forming of the world to the birth. The place where the scientific reader enters. Where the science is firm it is stated plainly; where it is live, the debate is named. Companion to Paper 7 (the life that body then lives).*
+*Paper 5 of Section A. The material thread — matter itself, from the first particles that had mass to a human body born in Roman Judea. For almost all of its length a review of the current scientific account of cosmic and biological evolution, offered as the settled and contested findings of physics, geology, and biology as they stand in the present literature; only at the end does the thread narrow to a single line of descent and arrive at one body, born. This is the second of three lenses on one arc — the mathematician's and the scientist's together — and, like the others, it runs from the forming of the world to the birth. The place where the scientific reader enters. Where the science is firm it is stated plainly; where it is live, the debate is named. Companion to Paper 7 (the life that body then lives).*
 
 ---
 

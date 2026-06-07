@@ -2,13 +2,13 @@
 
 # The First Note
 
-*Twenty-eighth paper in the Concordius series, the close of Section IV — and of the series. It introduces nothing new. It gathers the seven men the section described, and turns at the end to the one thing the description was never able to do.*
+*Twenty-eighth paper in the Concordius series, the close of Section G — and of the series. It introduces nothing new. It gathers the seven men the section described, and turns at the end to the one thing the description was never able to do.*
 
 ---
 
 ## Abstract
 
-This paper closes Section IV, and with it the whole series. Section IV took the structure built across the foregoing sections and traced it through a single human life, level by level, from the first stirring of the catching capacity to the last reach an embodied being can make toward Φ. The summary below sets those seven stages back in order, briefly. Then it observes what the section could not put into a paper: that to have learned the seven men is not yet to have walked them, and that the reader who has reached the end of the description stands not at a wall to be mourned but at a beginning — the place where, the shape of the road now known whole, the road itself can at last be set out upon. A completed octave does not return to where it began. Its last note is the first note of the next.
+This paper closes Section G, and with it the whole series. Section G took the structure built across the foregoing sections and traced it through a single human life, level by level, from the first stirring of the catching capacity to the last reach an embodied being can make toward Φ. The summary below sets those seven stages back in order, briefly. Then it observes what the section could not put into a paper: that to have learned the seven men is not yet to have walked them, and that the reader who has reached the end of the description stands not at a wall to be mourned but at a beginning — the place where, the shape of the road now known whole, the road itself can at last be set out upon. A completed octave does not return to where it began. Its last note is the first note of the next.
 
 ---
 
@@ -30,7 +30,7 @@ This paper closes Section IV, and with it the whole series. Section IV took the 
 
 ## 1. The argument, in brief
 
-Section IV took a person — the person reading — and asked where in the ascending career that person stands, and what, from there, the work is. It answered the question seven times, once for each position the [[Appendix I - Dictionary of Terms#Heptaparaparshinokh|Heptaparaparshinokh]] makes available within H₄₈ existence, and twice more for the two places where the octave does not continue by degrees but must be crossed.
+Section G took a person — the person reading — and asked where in the ascending career that person stands, and what, from there, the work is. It answered the question seven times, once for each position the [[Appendix I - Dictionary of Terms#Heptaparaparshinokh|Heptaparaparshinokh]] makes available within H₄₈ existence, and twice more for the two places where the octave does not continue by degrees but must be crossed.
 
 **[[Paper 22 - Man No. 1|Paper 22]]** described Man No. 1 — the baseline: the moving and instinctive centers dominant, [[Appendix I - Dictionary of Terms#Thought Adjuster|Adjuster]] contact effectively zero, the noise floor at its loudest relative to any signal. Not a deficient state, but the register in which the work must actually begin: the body, the physical practice, the H₂₄-structured movement that can be engaged before any understanding makes it available.
 
@@ -48,7 +48,7 @@ Section IV took a person — the person reading — and asked where in the ascen
 
 **[[Paper 27 1_2 - The Si-Do Interval|Paper 27½]]** treated the second crossing — the [[Appendix I - Dictionary of Terms#Si-Do Interval|Si-Do interval]], the gap between grade 2 and grade 3 — and it differs from the first in kind. The Mi-Fa needs external grade-2 input, which is everywhere available. The Si-Do needs the [[Appendix I - Dictionary of Terms#Father|Father]]'s constitutive act: the installation of grade-3 centrality, which no created source can supply as a substitute, and which the catching apparatus cannot assemble from its own operation but must release into the Father's direct action. Its closing coda turned to the seventh man — what a Man No. 7 would even be, and whether the state is reachable while still in the flesh; the Western canon holds only Enoch and Elijah as candidates, both taken rather than died, and Gurdjieff placed Jesus beyond the count entirely.
 
-That is Section IV. One life, walked the whole way up, described as far as a description can go. You have learned the seven men.
+That is Section G. One life, walked the whole way up, described as far as a description can go. You have learned the seven men.
 
 ---
 
@@ -56,7 +56,7 @@ That is Section IV. One life, walked the whole way up, described as far as a des
 
 It is worth being exact about what learning them is, and what it is not.
 
-To have read the seven men is to hold the map. The map is good — built carefully, checked against the tradition's whole record, consistent with everything the foregoing sections derived. A reader is entitled to trust it as far as a map can be trusted. But the map is not the country, and reading the map is not the walk. Everything in Section IV was a description of catching. None of it was the catching. The understanding the section delivered is not the [[Appendix I - Dictionary of Terms#Soul Deposit|deposit]]; it is, at most, the lowered noise floor against which a deposit might now be made. This is not a shortfall in the section. It is what a section of this kind is for, and where one of this kind has to end. A text can describe everything the catching apparatus is, how it works, what it produces, and what a complete human life oriented toward it looks like in seven stages — and it cannot catch on anyone's behalf. The shock cannot come from within the text. It has reached its structural limit.
+To have read the seven men is to hold the map. The map is good — built carefully, checked against the tradition's whole record, consistent with everything the foregoing sections derived. A reader is entitled to trust it as far as a map can be trusted. But the map is not the country, and reading the map is not the walk. Everything in Section G was a description of catching. None of it was the catching. The understanding the section delivered is not the [[Appendix I - Dictionary of Terms#Soul Deposit|deposit]]; it is, at most, the lowered noise floor against which a deposit might now be made. This is not a shortfall in the section. It is what a section of this kind is for, and where one of this kind has to end. A text can describe everything the catching apparatus is, how it works, what it produces, and what a complete human life oriented toward it looks like in seven stages — and it cannot catch on anyone's behalf. The shock cannot come from within the text. It has reached its structural limit.
 
 So the question is what to make of that limit. The series spent its last papers reading every octave it found — the individual career, the historical octave, the Law of Seven itself — and finding each one, at its top, holding a Si it could not turn into a Do from within its own resources. It would be a misreading to take this whole series as one more such octave that simply stops short, a climb that ends at a gap and asks the reader to grieve it.
 
@@ -86,7 +86,7 @@ The text cannot answer it. That is not its failure; it is the shape of the thing
 
 ## References
 
-1. **Companion papers**: the seven men of Section IV — *Man No. 1*; *Man No. 2*; *Man No. 3*; *The Mi-Fa Interval*; *Man No. 4*; *Man No. 5*; *Man No. 6*; *The Si-Do Interval*. This paper gathers them and adds nothing of its own.
+1. **Companion papers**: the seven men of Section G — *Man No. 1*; *Man No. 2*; *Man No. 3*; *The Mi-Fa Interval*; *Man No. 4*; *Man No. 5*; *Man No. 6*; *The Si-Do Interval*. This paper gathers them and adds nothing of its own.
 
 2. **[[Paper 6 - The Cogito Coheres|Paper 6]]** — *The Cogito Coheres.* [The catching principle: the will follows the investment.]
 

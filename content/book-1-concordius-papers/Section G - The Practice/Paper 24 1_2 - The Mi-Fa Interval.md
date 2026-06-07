@@ -2,7 +2,7 @@
 
 # Paper 24½ — The Mi-Fa Interval
 
-*Concordius Structural Series — Section IV: The Seven Men*
+*Concordius Structural Series — Section G: The Practice*
 
 ---
 

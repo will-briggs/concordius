@@ -2,7 +2,7 @@
 
 # Paper 27½ — The Si-Do Interval
 
-*Concordius Structural Series — Section IV: The Seven Men*
+*Concordius Structural Series — Section G: The Practice*
 
 ---
 
@@ -214,7 +214,7 @@ Whether such a one is achievable within a single H₄₈ lifetime — particular
 
 ---
 
-*Paper 27½ of the Concordius series, and the closing paper of Section IV: The Seven Men. The companion treatment of the Mi-Fa interval is Paper 24½.*
+*Paper 27½ of the Concordius series, and the closing paper of Section G: The Practice. The companion treatment of the Mi-Fa interval is Paper 24½.*
 
 ---
 

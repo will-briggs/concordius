@@ -2,7 +2,7 @@
 
 # Paper 27 — Man No. 6
 
-*Concordius Structural Series — Section IV: The Seven Men*
+*Concordius Structural Series — Section G: The Practice*
 
 ---
 
@@ -122,7 +122,7 @@ This paper has described Man 6 as the state in which both higher centers are sub
 
 ---
 
-*Paper 27 of the Concordius series. Section IV pauses here. Paper 27½ (Man No. 7) follows after reflection.*
+*Paper 27 of the Concordius series. Section G pauses here. Paper 27½ (Man No. 7) follows after reflection.*
 
 ---
 

@@ -2,7 +2,7 @@
 
 # Paper 25 — Man No. 4
 
-*Concordius Structural Series — Section IV: The Seven Men*
+*Concordius Structural Series — Section G: The Practice*
 
 ---
 
@@ -202,7 +202,7 @@ Man 4's deliberate three-center work is easily imagined as an interior project �
 
 ---
 
-*Paper 25 of the Concordius series. Section IV continues with Paper 26: Man No. 5.*
+*Paper 25 of the Concordius series. Section G continues with Paper 26: Man No. 5.*
 
 ---
 

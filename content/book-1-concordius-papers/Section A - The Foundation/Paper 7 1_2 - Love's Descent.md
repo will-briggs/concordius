@@ -2,7 +2,7 @@
 
 # Love's Descent: The Three Days in the Tomb
 
-*Paper 7½ of Section I. The life has come to its cry and the body has been taken down; here the series stands at the sealed tomb and looks at what was laid in it. It looks more than once, because there is more than one way to look at a grave; and then it admits the one thing the looking cannot reach. Companion to Paper 7 (the life, and the cross it ends at) and Paper 8 (the morning).*
+*Paper 7½ of Section A. The life has come to its cry and the body has been taken down; here the series stands at the sealed tomb and looks at what was laid in it. It looks more than once, because there is more than one way to look at a grave; and then it admits the one thing the looking cannot reach. Companion to Paper 7 (the life, and the cross it ends at) and Paper 8 (the morning).*
 
 ---
 

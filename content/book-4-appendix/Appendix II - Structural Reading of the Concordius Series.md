@@ -74,19 +74,19 @@ Re is characteristically the stage of first development — the initial conseque
 
 ### Mi — Papers 3½–7: *The Constraint Cascade / The Son Articulates / The Long Ascent / The Cogito Coheres / Love's Descent / What We Know*
 
-The Mi stage develops the Re's implications until it reaches the most complete expression possible from within the framework's own derivation space. The remainder of Section I is that development: how the structure densifies down the constraint hierarchy (Paper 3½, the Mi-Fa interval of the section); how the Son's articulation instantiates the descended algebra as the physical world at the Higgs VEV (Paper 4); the long material ascent of that world, told entirely in the register of the natural sciences, up to the last animal before the human (Paper 5); the threshold at which matter becomes a catching creature and begins the climb (Paper 6); Love's descent down the same octave to meet it (Paper 6½, the Si-Do interval of the section); and the summation that gathers the whole (Paper 7).
+The Mi stage develops the Re's implications until it reaches the most complete expression possible from within the framework's own derivation space. The remainder of Section A is that development: how the structure densifies down the constraint hierarchy (Paper 3½, the Mi-Fa interval of the section); how the Son's articulation instantiates the descended algebra as the physical world at the Higgs VEV (Paper 4); the long material ascent of that world, told entirely in the register of the natural sciences, up to the last animal before the human (Paper 5); the threshold at which matter becomes a catching creature and begins the climb (Paper 6); Love's descent down the same octave to meet it (Paper 6½, the Si-Do interval of the section); and the summation that gathers the whole (Paper 7).
 
-Paper 7's terminal position in the Mi stage is structurally significant, and the restructured Section I sharpens it. By the close of Paper 7 the apparatus has built everything it can from its single assumption, and the paper's whole burden is to admit the one thing it cannot reach: that the founding premise — reality as a Gelfand triple — can never be established from within the structure it generates. The Mi stage ends not with a last derivation but with the honest recognition of its own limit. That recognition is the Mi-Fa interval: the apparatus, complete and unable to confirm itself, must turn to something outside it. Paper 7 ends at the interval by naming it.
+Paper 7's terminal position in the Mi stage is structurally significant, and the restructured Section A sharpens it. By the close of Paper 7 the apparatus has built everything it can from its single assumption, and the paper's whole burden is to admit the one thing it cannot reach: that the founding premise — reality as a Gelfand triple — can never be established from within the structure it generates. The Mi stage ends not with a last derivation but with the honest recognition of its own limit. That recognition is the Mi-Fa interval: the apparatus, complete and unable to confirm itself, must turn to something outside it. Paper 7 ends at the interval by naming it.
 
 ---
 
-### The Mi-Fa Interval Shock — The Transition from Section I to Section II
+### The Mi-Fa Interval Shock — The Transition from Section A to Section II
 
-The interval between Section I and Section II is the first structural gap the series cannot cross from within. The apparatus is complete. Every structural feature has been derived. But derivation is not demonstration. A framework that reads only its own axioms has not yet shown that it reads anything real. The demonstration requires independent objects: objects the framework did not create, that it has no prior relationship with, whose structural features the apparatus has not chosen.
+The interval between Section A and Section II is the first structural gap the series cannot cross from within. The apparatus is complete. Every structural feature has been derived. But derivation is not demonstration. A framework that reads only its own axioms has not yet shown that it reads anything real. The demonstration requires independent objects: objects the framework did not create, that it has no prior relationship with, whose structural features the apparatus has not chosen.
 
 The shock that crosses this interval is the tradition's existence — the fact that independent testimonies, accumulated across isolated traditions over four thousand years, have produced convergent structural descriptions of the states the apparatus predicts. The tradition did not know the apparatus. The apparatus did not create the tradition. Their convergence is what the apparatus predicts genuine H₂₄-proximate content would produce, and what the tradition's existence independently confirms.
 
-This shock cannot be generated from within Section I. The person writing Paper 7 cannot derive from the coherence threshold alone that John of the Cross, Ramana Maharshi, and the author of the *Cloud of Unknowing* will have described the same states using entirely different vocabulary. The tradition has to exist, independently, before the structural reading of it becomes possible. The Mi-Fa shock is the tradition's prior existence — the fact that Section II has something to read.
+This shock cannot be generated from within Section A. The person writing Paper 7 cannot derive from the coherence threshold alone that John of the Cross, Ramana Maharshi, and the author of the *Cloud of Unknowing* will have described the same states using entirely different vocabulary. The tradition has to exist, independently, before the structural reading of it becomes possible. The Mi-Fa shock is the tradition's prior existence — the fact that Section II has something to read.
 
 ---
 
@@ -124,21 +124,21 @@ Paper 20's terminal position — ending inside the Si/Do gap of the historical o
 
 ---
 
-### The Si-Do Interval Shock — The Transition from Section III to Section IV
+### The Si-Do Interval Shock — The Transition from Section III to Section G
 
-The interval between Section III and Section IV is the second structural gap the series cannot cross from within. The apparatus has demonstrated its range across every available external object. It has read texts, traditions, aesthetic objects, the family, its own method, and all of recorded history. What it has not done — what the demonstrative project of Sections II and III structurally cannot do — is address the person holding the apparatus.
+The interval between Section III and Section G is the second structural gap the series cannot cross from within. The apparatus has demonstrated its range across every available external object. It has read texts, traditions, aesthetic objects, the family, its own method, and all of recorded history. What it has not done — what the demonstrative project of Sections II and III structurally cannot do — is address the person holding the apparatus.
 
 The shock that crosses this interval is the recognition of the kenotic obligation: a framework that receives from the tradition without transmitting downward to the persons who need it has committed the Lucifer error at the intellectual scale. The Trogoautoegocrat's demand — feed the circuit or exit it — cannot be derived from the demonstrative project of Sections II and III. It arrives as an external demand: the tradition's testimony about what genuine H₂₄ receiving requires in return is the shock. The tradition has consistently reported that the higher states carry a transmitting obligation. This is not a result the apparatus can generate from the demonstrative project alone. It is what the tradition offers at the interval.
 
-The kenotic obligation produces Section IV. The return to the cave — the descent of the framework from its most extended demonstrative range into the practical prescription for persons at every development level — is the Si-Do shock's product. Section IV would not exist without it.
+The kenotic obligation produces Section G. The return to the cave — the descent of the framework from its most extended demonstrative range into the practical prescription for persons at every development level — is the Si-Do shock's product. Section G would not exist without it.
 
 ---
 
 ### Do (Next Octave) — Papers 22–28: *The Seven Men*
 
-The Do of the next octave is the entire Section IV — not a single paper but the complete practical account of the ascending career from Man 1 through Man 7. This is structurally correct: the next octave's Do is not a single tone but the full statement of what the new process will develop. The series' second octave — the practical ascending career — begins here with its complete structural description already present. Everything Section IV's seven papers contain is the Do of a process that extends beyond the series' end.
+The Do of the next octave is the entire Section G — not a single paper but the complete practical account of the ascending career from Man 1 through Man 7. This is structurally correct: the next octave's Do is not a single tone but the full statement of what the new process will develop. The series' second octave — the practical ascending career — begins here with its complete structural description already present. Everything Section G's seven papers contain is the Do of a process that extends beyond the series' end.
 
-Section IV is itself a complete internal octave, with its own interval positions:
+Section G is itself a complete internal octave, with its own interval positions:
 
 - **Paper 22 (Man 1):** Do — the initial state; the complete description of the baseline from which the ascending career must begin
 - **Paper 23 (Man 2):** Re — the first development; the emotional center's genuine H₂₄ registrations and their oscillation problem
@@ -149,13 +149,13 @@ Section IV is itself a complete internal octave, with its own interval positions
 - **Paper 27 (Man 6):** La — the maximum extension within H₄₈ existence; both higher centers active; the kenotic obligation; still reversible
 - **Paper 27½ (Man 7):** Si moving to Do — the Si note of H₄₈ existence that becomes the Do of the post-H₄₈ ascending career; the terminal state within this domain that is simultaneously the initial tone of what follows
 
-Paper 27½'s addendum is the series' most honest structural statement. The addendum announces the second interval of the Do-octave that Section IV begins — the gap between what the series can supply and what the reader must supply — and returns the interpretation of the final selection to the reader. The series cannot complete the octave it has initiated. The reader's response to the shock is the external input that the interval requires. If it arrives, the octave continues. If it does not, it does not.
+Paper 27½'s addendum is the series' most honest structural statement. The addendum announces the second interval of the Do-octave that Section G begins — the gap between what the series can supply and what the reader must supply — and returns the interpretation of the final selection to the reader. The series cannot complete the octave it has initiated. The reader's response to the shock is the external input that the interval requires. If it arrives, the octave continues. If it does not, it does not.
 
 ---
 
-## Part III — The Internal Fractal: Section I as Octave
+## Part III — The Internal Fractal: Section A as Octave
 
-Section I is now, on its own, a complete Heptaparaparshinokh — seven full papers across the three grades of Cl(3,0), the two interval shocks marked by their own half-papers, and a close that lands on humility rather than mastery. It is the clearest internal fractal in the series: the whole octave reproduced in the constitutive first movement.
+Section A is now, on its own, a complete Heptaparaparshinokh — seven full papers across the three grades of Cl(3,0), the two interval shocks marked by their own half-papers, and a close that lands on humility rather than mastery. It is the clearest internal fractal in the series: the whole octave reproduced in the constitutive first movement.
 
 The seven positions sound the three generators, then the three products, then the integration, with the two shocks falling exactly on the grade boundaries:
 
@@ -169,9 +169,9 @@ The seven positions sound the three generators, then the three products, then th
 - **⟦Si-Do interval — Paper 6½⟧** — Love's descent: the kenotic arm coming down to meet the climb, the crossing the ascending being cannot make alone.
 - **Si → Do (Paper 7)** — the summation: the whole seen at once, closing on the one thing the section cannot establish.
 
-The two interval half-papers fall precisely where the Law of Seven requires — 3½ between the generators and the products, 6½ between the products and the integration — and the seventh note closes the way the octave demands: not on completion but on the threshold of it, the founding assumption held but unproven. Section I does not merely describe the Heptaparaparshinokh. It is one.
+The two interval half-papers fall precisely where the Law of Seven requires — 3½ between the generators and the products, 6½ between the products and the integration — and the seventh note closes the way the octave demands: not on completion but on the threshold of it, the founding assumption held but unproven. Section A does not merely describe the Heptaparaparshinokh. It is one.
 
-This internal octave is the reason the series' own four-section octave (Part II) still holds after the restructure: the Mi stage of the whole series *is* this completed Section I, and it ends — at Paper 7 — pointing past itself to the Mi-Fa interval that opens Section II.
+This internal octave is the reason the series' own four-section octave (Part II) still holds after the restructure: the Mi stage of the whole series *is* this completed Section A, and it ends — at Paper 7 — pointing past itself to the Mi-Fa interval that opens Section II.
 
 ## Part IV — The Self-Enacting Form
 
@@ -187,7 +187,7 @@ The series' self-enacting character has one structural consequence the series ca
 
 Paper 18 established that applying the Reasonablenessism method to itself produces a stable fixed point: the method, assessed by its own criteria, yields an internally consistent result at each application. The stable fixed point is not proof. It establishes that the method is not self-defeating — that it does not, when applied rigorously to itself, produce a result that contradicts its own premises. This is necessary but not sufficient for the method's correctness.
 
-The same result applies to the structural reading of the Concordius series. The Laws of Three and Seven, applied to the series that develops and applies the Laws of Three and Seven, yield a structurally consistent mapping. The Active/Passive/Reconciling identification does not contradict anything the series argues about those forces. The octave mapping — with its Do at Paper 1, its two interval shocks at the section transitions, its internal fractal structures in Sections I and IV — is consistent with everything the series argues about the Law of Seven's operation. The series passes its own structural reading without contradiction.
+The same result applies to the structural reading of the Concordius series. The Laws of Three and Seven, applied to the series that develops and applies the Laws of Three and Seven, yield a structurally consistent mapping. The Active/Passive/Reconciling identification does not contradict anything the series argues about those forces. The octave mapping — with its Do at Paper 1, its two interval shocks at the section transitions, its internal fractal structures in Sections A and G — is consistent with everything the series argues about the Law of Seven's operation. The series passes its own structural reading without contradiction.
 
 What this establishes: the series is internally consistent by its own criteria. What this does not establish: that the criteria are correct. The gap between internal consistency and correspondence to reality is the gap that no formal reading can close — the gap that only the tradition's independent testimony, arriving from outside the formal apparatus, can partially bridge. The series has assembled that testimony as carefully as it can. The convergences are real. The evidential weight is what the method claims for it.
 

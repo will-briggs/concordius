@@ -2,7 +2,7 @@
 
 # Paper 24 — Man No. 3
 
-*Concordius Structural Series — Section IV: The Seven Men*
+*Concordius Structural Series — Section G: The Practice*
 
 ---
 
@@ -265,7 +265,7 @@ The paper identifies the Pharisee as Man 3's archetype of framework calcificatio
 
 ---
 
-*Paper 24 of the Concordius series. Section IV continues with Paper 25: Man No. 4.*
+*Paper 24 of the Concordius series. Section G continues with Paper 25: Man No. 4.*
 
 ---
 
