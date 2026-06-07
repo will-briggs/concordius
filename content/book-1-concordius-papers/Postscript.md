@@ -1,4 +1,4 @@
-*← [[Paper G6: The First Note|Paper G6: The First Note]]*
+*← [[Paper G7: The First Note|Paper G7: The First Note]]*
 
 # Postscript
 

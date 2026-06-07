@@ -1,6 +1,6 @@
-*← [[Paper G4: Man No. 5|Paper G4: Man No. 5]]*
+*← [[Paper G4: The Restraint-Centered Man|Paper G4: The Restraint-Centered Man]]*
 
-# Paper G5: Man No. 6
+# Paper G5: The Diligence-Centered Man
 
 *Concordius Structural Series — Section G: The Practice*
 

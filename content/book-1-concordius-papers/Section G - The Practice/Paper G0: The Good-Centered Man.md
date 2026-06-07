@@ -1,6 +1,6 @@
 *← [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½ — The Constraint Compatibility Condition]]*
 
-# Paper G0: Man No. 1
+# Paper G0: The Good-Centered Man
 
 *Concordius Structural Series — Section G: The Practice*
 
@@ -243,8 +243,8 @@ The paper prescribes community practice where available. The structural reason i
 
 ---
 
-*Paper G0 of the Concordius series. Section G continues with Paper G1: Man No. 2.*
+*Paper G0 of the Concordius series. Section G continues with Paper G1: The True-Centered Man.*
 
 ---
 
-*[[Paper G1: Man No. 2|Paper G1: Man No. 2]] →*
+*[[Paper G1: The True-Centered Man|Paper G1: The True-Centered Man]] →*

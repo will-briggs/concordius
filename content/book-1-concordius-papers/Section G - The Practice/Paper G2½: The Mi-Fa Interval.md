@@ -1,4 +1,4 @@
-*← [[Paper G2: Man No. 3|Paper G2: Man No. 3]]*
+*← [[Paper G2: The Beautiful-Centered Man|Paper G2: The Beautiful-Centered Man]]*
 
 # Paper G2½: The Mi-Fa Interval
 
@@ -86,9 +86,9 @@ The individual papers' Law of Seven tables describe the Mi-Fa interval from with
 
 | Man | Mi-Fa content | Source |
 |---|---|---|
-| Man 1 (Paper G0) | The external input that carries the transition through the Mi plateau. Cannot be generated internally. May arrive through teacher, high-τ text, absorbing suffering, or Adjuster's direct action. | [[Paper G0: Man No. 1]] |
-| Man 2 (Paper G1) | The dark night's first arrival: consolations withdraw; emotional center's automatic contact suspended; relational field does not resolve the darkness; nothing in Man 2's existing practice restores contact; the Adjuster provides endurance below the emotional center's detection. | [[Paper G1: Man No. 2]] |
-| Man 3 (Paper G2) | The encounter with genuine intellectual limit: adversary's framework that cannot be incorporated, or contact event that bypasses the intellectual center entirely (Damascus; Aquinas's vision; Weil in affliction). Cannot be generated from within the framework; arrives from outside it. | [[Paper G2: Man No. 3]] |
+| Man 1 (Paper G0) | The external input that carries the transition through the Mi plateau. Cannot be generated internally. May arrive through teacher, high-τ text, absorbing suffering, or Adjuster's direct action. | [[Paper G0: The Good-Centered Man]] |
+| Man 2 (Paper G1) | The dark night's first arrival: consolations withdraw; emotional center's automatic contact suspended; relational field does not resolve the darkness; nothing in Man 2's existing practice restores contact; the Adjuster provides endurance below the emotional center's detection. | [[Paper G1: The True-Centered Man]] |
+| Man 3 (Paper G2) | The encounter with genuine intellectual limit: adversary's framework that cannot be incorporated, or contact event that bypasses the intellectual center entirely (Damascus; Aquinas's vision; Weil in affliction). Cannot be generated from within the framework; arrives from outside it. | [[Paper G2: The Beautiful-Centered Man]] |
 
 The convergence across these three descriptions: in every case, the external input arrives at the level of the transition from below, the dominant center's detection or management function is bypassed, and what is required of the person is the maintenance of a volitional orientation whose result she cannot yet feel. In every case, the continuation of practice through the interval is the structure's requirement, not the consolation of seeing the crossing occur.
 
@@ -137,4 +137,4 @@ The Heptaparaparshinokh operates at every scale, which means a Mi-Fa interval ap
 
 ---
 
-*[[Paper G3: Man No. 4|Paper G3: Man No. 4]] →*
+*[[Paper G3: The Courage-Centered Man|Paper G3: The Courage-Centered Man]] →*

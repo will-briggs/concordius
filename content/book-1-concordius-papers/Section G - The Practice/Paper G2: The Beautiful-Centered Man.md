@@ -1,6 +1,6 @@
-*← [[Paper G1: Man No. 2|Paper G1: Man No. 2]]*
+*← [[Paper G1: The True-Centered Man|Paper G1: The True-Centered Man]]*
 
-# Paper G2: Man No. 3
+# Paper G2: The Beautiful-Centered Man
 
 *Concordius Structural Series — Section G: The Practice*
 
@@ -265,8 +265,8 @@ The paper identifies the Pharisee as Man 3's archetype of framework calcificatio
 
 ---
 
-*Paper G2 of the Concordius series. Section G continues with Paper G3: Man No. 4.*
+*Paper G2 of the Concordius series. Section G continues with Paper G3: The Courage-Centered Man.*
 
 ---
 
-*[[Paper G3: Man No. 4|Paper G3: Man No. 4]] →*
+*[[Paper G3: The Courage-Centered Man|Paper G3: The Courage-Centered Man]] →*

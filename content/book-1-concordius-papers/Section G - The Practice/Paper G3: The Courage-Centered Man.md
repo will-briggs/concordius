@@ -1,6 +1,6 @@
-*← [[Paper G2: Man No. 3|Paper G2: Man No. 3]]*
+*← [[Paper G2: The Beautiful-Centered Man|Paper G2: The Beautiful-Centered Man]]*
 
-# Paper G3: Man No. 4
+# Paper G3: The Courage-Centered Man
 
 *Concordius Structural Series — Section G: The Practice*
 
@@ -202,8 +202,8 @@ Man 4's deliberate three-center work is easily imagined as an interior project �
 
 ---
 
-*Paper G3 of the Concordius series. Section G continues with Paper G4: Man No. 5.*
+*Paper G3 of the Concordius series. Section G continues with Paper G4: The Restraint-Centered Man.*
 
 ---
 
-*[[Paper G4: Man No. 5|Paper G4: Man No. 5]] →*
+*[[Paper G4: The Restraint-Centered Man|Paper G4: The Restraint-Centered Man]] →*

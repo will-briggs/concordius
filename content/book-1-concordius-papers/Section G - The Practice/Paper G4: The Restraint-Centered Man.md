@@ -1,6 +1,6 @@
-*← [[Paper G3: Man No. 4|Paper G3: Man No. 4]]*
+*← [[Paper G3: The Courage-Centered Man|Paper G3: The Courage-Centered Man]]*
 
-# Paper G4: Man No. 5
+# Paper G4: The Restraint-Centered Man
 
 *Concordius Structural Series — Section G: The Practice*
 
@@ -126,8 +126,8 @@ The crystallized soul's persistence through H₄₈ dissolution changes the stru
 
 ---
 
-*Paper G4 of the Concordius series. Section G continues with Paper G5: Man No. 6.*
+*Paper G4 of the Concordius series. Section G continues with Paper G5: The Diligence-Centered Man.*
 
 ---
 
-*[[Paper G5: Man No. 6|Paper G5: Man No. 6]] →*
+*[[Paper G5: The Diligence-Centered Man|Paper G5: The Diligence-Centered Man]] →*

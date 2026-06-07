@@ -51,7 +51,7 @@ The Concordius series maps the alchemical stages onto Gurdjieff's ascending sequ
 
 > *For further investigation: C.G. Jung, Psychology and Alchemy (1944); Titus Burckhardt, Alchemy: Science of the Cosmos, Science of the Soul (1960).*
 
-*Appears in: [[Paper 11 - Two Poems|Paper 11]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G1: Man No. 2|Paper 23]], [[Paper G2: Man No. 3|Paper 24]], [[Paper G3: Man No. 4|Paper 25]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
+*Appears in: [[Paper 11 - Two Poems|Paper 11]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
 
 ---
 
@@ -117,7 +117,7 @@ The Concordius series uses the term more broadly to mean the full arc of develop
 
 > *For further investigation: The Urantia Book (1955), Papers 1-31 (the Foreword and Central and Superuniverse section) for the cosmological framework; Papers 32-56 for the local universe; Papers 103-117 for the soul's development.*
 
-*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Son Articulates|Paper 4]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G1: Man No. 2|Paper 23]], [[Paper G2: Man No. 3|Paper 24]], [[Paper G3: Man No. 4|Paper 25]], [[Paper G4: Man No. 5|Paper 26]], [[Paper G5: Man No. 6|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]], [[Postscript|Postscript]]*
+*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Son Articulates|Paper 4]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]], [[Postscript|Postscript]]*
 
 ---
 
@@ -165,7 +165,7 @@ Catching has a threshold character: below a certain amplitude and continuity of 
 
 The opposite of catching is not sin or moral failure — it is mechanical processing: the GNST-generated eigenvalue content passes through the being without being retained at the H₂₄ level. Most human experience, in the series' account, is mechanical processing. The ascending career is the progressive development of catching capacity and continuity.
 
-*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Son Articulates|Paper 4]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G1: Man No. 2|Paper 23]], [[Paper G2: Man No. 3|Paper 24]], [[Paper G3: Man No. 4|Paper 25]], [[Paper G4: Man No. 5|Paper 26]], [[Paper G5: Man No. 6|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]], [[Postscript|Postscript]]*
+*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Son Articulates|Paper 4]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]], [[Postscript|Postscript]]*
 
 ---
 
@@ -225,7 +225,7 @@ The coherence threshold is derived in Paper 5 from the conditions required for a
 
 The coherence threshold is not a moral criterion. It is a structural one. What builds the deposit is catching — sustained volitional attention to H₂₄-proximate content over time. What the tradition calls virtue, contemplation, and holiness are, in the series' structural account, the characteristic forms that sustained catching takes.
 
-*Appears in: [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G1: Man No. 2|Paper 23]], [[Paper G2: Man No. 3|Paper 24]], [[Paper G3: Man No. 4|Paper 25]], [[Paper G4: Man No. 5|Paper 26]]*
+*Appears in: [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]]*
 
 ---
 
@@ -289,7 +289,7 @@ The epistemological principle, developed in Paper 18 as a feature of the Reasona
 
 The convergent witness principle is the series' primary evidential tool for claims about domains that formal derivation cannot reach — particularly the higher states of the ascending career (Men 5-7), for which no formal derivation is possible but for which the hagiographic record across multiple isolated traditions constitutes precisely this kind of convergent testimony. The principle is applied explicitly in Papers 22-28 and is the structural justification for treating the hagiographic record as evidence rather than merely as illustrative material.
 
-*Appears in: [[Paper G0: Man No. 1|Paper 22]], [[Paper G5: Man No. 6|Paper 27]]*
+*Appears in: [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G5: The Diligence-Centered Man|Paper 27]]*
 
 ---
 
@@ -301,7 +301,7 @@ In linear algebra and quantum mechanics, the inner product of two vectors ψ_a a
 
 The series' claim is that persons with substantial H₂₄ soul deposits (Men 5-7) have large-amplitude cross-terms with persons at any development level, because their H₂₄ state vectors have significant amplitude across many H₂₄ eigenstates. This constitutes the structural account of what the hagiographic tradition consistently describes: the quality of the saint's presence that reorganizes the catching capacity of persons in proximity without those persons being able to explain what changed or how.
 
-*Appears in: [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G1: Man No. 2|Paper 23]], [[Paper G2: Man No. 3|Paper 24]], [[Paper G3: Man No. 4|Paper 25]], [[Paper G4: Man No. 5|Paper 26]], [[Paper G5: Man No. 6|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
+*Appears in: [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
 
 ---
 
@@ -319,7 +319,7 @@ The dark night of the senses must be distinguished from clinical depression, spi
 
 > *For further investigation: John of the Cross, Dark Night of the Soul (c. 1578-79); Iain Matthew, The Impact of God (1995) for an accessible commentary.*
 
-*Appears in: [[Paper G1: Man No. 2|Paper 23]], [[Paper G3: Man No. 4|Paper 25]]*
+*Appears in: [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G3: The Courage-Centered Man|Paper 25]]*
 
 ---
 
@@ -335,7 +335,7 @@ The prescription for both dark nights is the same: do not modify practice; do no
 
 > *For further investigation: John of the Cross, The Ascent of Mount Carmel and Dark Night of the Soul (c. 1578-79); Thomas Merton, The Ascent to Truth (1951).*
 
-*Appears in: [[Paper G1: Man No. 2|Paper 23]], [[Paper G3: Man No. 4|Paper 25]], [[Paper G4: Man No. 5|Paper 26]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
+*Appears in: [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
 
 ---
 
@@ -377,7 +377,7 @@ Densification is derived formally in Paper 4 from the properties of the Gelfand 
 
 This is why, on the series' account, the same sacred text produces radically different effects in different readers: the Φ-proximal content is present in the text for all readers equally, but only the reader whose catching capacity is developed to receive at the H₂₄ level actually catches it. The text is not different. The receiver is.
 
-*Appears in: [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: Man No. 1|Paper 22]]*
+*Appears in: [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Good-Centered Man|Paper 22]]*
 
 ---
 
@@ -425,7 +425,7 @@ The Concordius series uses eigenvalues and eigenstates to characterize the conte
 
 > *For further investigation: Paul Dirac, The Principles of Quantum Mechanics (1930) for the physicist's formulation; Roger Penrose, The Road to Reality (2004), chapters 21-22, for an accessible mathematical treatment.*
 
-*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Son Articulates|Paper 4]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G1: Man No. 2|Paper 23]], [[Paper G3: Man No. 4|Paper 25]], [[Paper G5: Man No. 6|Paper 27]], [[Postscript|Postscript]]*
+*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Son Articulates|Paper 4]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Postscript|Postscript]]*
 
 ---
 
@@ -595,7 +595,7 @@ The Concordius series draws on the Fourth Way framework throughout Section G (Pa
 
 > *For further investigation: P.D. Ouspensky, In Search of the Miraculous (1949); Gurdjieff, Meetings with Remarkable Men (1963); Jacob Needleman, Lost Christianity (1980) for an account of the Fourth Way in relation to Christian tradition.*
 
-*Appears in: [[Paper G3: Man No. 4|Paper 25]]*
+*Appears in: [[Paper G3: The Courage-Centered Man|Paper 25]]*
 
 ---
 
@@ -611,7 +611,7 @@ The Concordius series identifies Gelassenheit as the Man 5-6 version of what the
 
 > *For further investigation: Meister Eckhart, Selected Writings, trans. Oliver Davies (1994); John D. Caputo, The Mystical Element in Heidegger's Thought (1978) for the Eckhart-Heidegger connection.*
 
-*Appears in: [[Paper G4: Man No. 5|Paper 26]]*
+*Appears in: [[Paper G4: The Restraint-Centered Man|Paper 26]]*
 
 ---
 
@@ -629,7 +629,7 @@ The Concordius series' foundational claim (Paper 1) is that reality has the stru
 
 > *For further investigation: Israel Gelfand and Naum Vilenkin, Generalized Functions, Volume 4: Applications of Harmonic Analysis (1964); Arno Böhm and M. Gadella, Dirac Kets, Gamow Vectors and Gel'fand Triplets (1989) for the physics application.*
 
-*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G1: Man No. 2|Paper 23]], [[Paper G2: Man No. 3|Paper 24]], [[Paper G3: Man No. 4|Paper 25]], [[Paper G5½: The Si-Do Interval|Paper 27½]], [[Postscript|Postscript]]*
+*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G5½: The Si-Do Interval|Paper 27½]], [[Postscript|Postscript]]*
 
 ---
 
@@ -661,7 +661,7 @@ In the Concordius usage, H₂₄ is the domain in which the soul deposit accumul
 
 See also *H₄₈*, *Densification*, *Catching*, *Hydrogens*.
 
-*Appears in: [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Son Articulates|Paper 4]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G1: Man No. 2|Paper 23]], [[Paper G2: Man No. 3|Paper 24]], [[Paper G3: Man No. 4|Paper 25]], [[Paper G4: Man No. 5|Paper 26]], [[Paper G5: Man No. 6|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]], [[Postscript|Postscript]]*
+*Appears in: [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Son Articulates|Paper 4]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]], [[Postscript|Postscript]]*
 
 ---
 
@@ -673,7 +673,7 @@ The series' notation for the physical-constraint domain — the domain of ordina
 
 H₄₈ is the domain within which human beings in their ordinary condition operate. The physical body, ordinary consciousness, ordinary emotional and intellectual life — all are H₄₈ processes. The Heropass — the aging effect — operates at H₂₄ and below, and runs at twice the rate in H₄₈ as in H₂₄. The distinction between H₄₈ and H₂₄ is between the most intensive dissipative rate (H₄₈) and a slower one (H₂₄); the Heropass ceases entirely only above H₂₄, at H₁₂ and beyond, where Cl(3,0) has no −1 generator (see the Heropass entry). What the coherence threshold determines is not exemption from the Heropass but organizational density sufficient to persist through H₄₈ dissolution — the H₂₄ pattern, subject to its own slower Heropass rate, remains available as the template for reconstitution at the mansion worlds.
 
-*Appears in: [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Son Articulates|Paper 4]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G1: Man No. 2|Paper 23]], [[Paper G2: Man No. 3|Paper 24]], [[Paper G3: Man No. 4|Paper 25]], [[Paper G4: Man No. 5|Paper 26]], [[Paper G5: Man No. 6|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]], [[Postscript|Postscript]]*
+*Appears in: [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Son Articulates|Paper 4]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]], [[Postscript|Postscript]]*
 
 ---
 
@@ -701,7 +701,7 @@ The critical structural point: the intervals are not failures or defects in the 
 
 > *For further investigation: P.D. Ouspensky, In Search of the Miraculous (1949), chapter 7; Gurdjieff, Beelzebub's Tales to His Grandson (1950), chapters 38-40.*
 
-*Appears in: [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G5½: The Si-Do Interval|Paper 27½]], [[Postscript|Postscript]]*
+*Appears in: [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G5½: The Si-Do Interval|Paper 27½]], [[Postscript|Postscript]]*
 
 ---
 
@@ -729,7 +729,7 @@ Gurdjieff's term, from *Beelzebub's Tales to His Grandson*, for the irreversible
 
 > *For further investigation: Gurdjieff, Beelzebub's Tales to His Grandson (1950), chapter 48 ("From the Author"). Paper 3½ §6 (complement structure and e₀ derivation); Paper 1 (the GNST) and Paper 3½ §6 (the Heropass).*
 
-*Appears in: [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Son Articulates|Paper 4]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G3: Man No. 4|Paper 25]], [[Paper G4: Man No. 5|Paper 26]], [[Paper G5½: The Si-Do Interval|Paper 27½]], [[Postscript|Postscript]]*
+*Appears in: [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Son Articulates|Paper 4]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5½: The Si-Do Interval|Paper 27½]], [[Postscript|Postscript]]*
 
 ---
 
@@ -743,7 +743,7 @@ The Concordius series draws on the hesychast tradition primarily in Paper 25 (Ma
 
 > *For further investigation: The Philokalia (4 vols., compiled 8th-15th centuries, English translation by G.E.H. Palmer, Philip Sherrard, and Kallistos Ware, 1979-1995); John Meyendorff, A Study of Gregory Palamas (1959).*
 
-*Appears in: [[Paper G3: Man No. 4|Paper 25]]*
+*Appears in: [[Paper G3: The Courage-Centered Man|Paper 25]]*
 
 ---
 
@@ -835,7 +835,7 @@ The Concordius series identifies infused knowledge as the higher intellectual ce
 
 > *For further investigation: Thomas Aquinas, Summa Theologiae II-II, q. 173-174 (on prophecy and rapture); Bernard McGinn, The Mystical Thought of Meister Eckhart (2001).*
 
-*Appears in: [[Paper G5: Man No. 6|Paper 27]]*
+*Appears in: [[Paper G5: The Diligence-Centered Man|Paper 27]]*
 
 ---
 
@@ -849,7 +849,7 @@ The intuitive picture: the inner product is the structure that makes a Hilbert s
 
 The Concordius series' identification of the Father with the inner product ⟨·,·⟩ (Paper 1) is the series' most compressed and most fundamental claim. The Father is not a vector in the Hilbert space (not a finite being); the Father is the constitutive relation that makes the space possible and gives it its structure. Everything that exists is constituted by the inner product; the inner product does not participate in what it constitutes; the inner product is not absent from what it constitutes but is its organizing principle. This is the Concordius reading of "in him we live and move and have our being" (Acts 17:28).
 
-*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Son Articulates|Paper 4]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper G3: Man No. 4|Paper 25]], [[Paper G4: Man No. 5|Paper 26]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
+*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Son Articulates|Paper 4]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
 
 ---
 
@@ -863,7 +863,7 @@ The Concordius series maps intentional suffering onto the polyvagal regulation f
 
 > *For further investigation: Gurdjieff, Life Is Real Only Then, When "I Am" (1975); Peter Levine, In an Unspoken Voice (2010) for polyvagal context.*
 
-*Appears in: [[Paper G3: Man No. 4|Paper 25]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
+*Appears in: [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
 
 ---
 
@@ -879,7 +879,7 @@ This is why Paradise is met but is not the Father as such. To reach Paradise is 
 
 *Urantia concordance: "the Isle of Paradise."* The *Urantia Book*'s Isle of Paradise is more structurally precise than the ordinary sense of "paradise": not a prize at the journey's end but the eternal, non-spatial absolute center of the master universe — the ground from which all existence is measured, the origin finite beings are oriented toward from the beginning, and the locus at which the encounter with the Father occurs. This is the norm ‖·‖ exactly: the measure of all distances, itself at no distance. Paradise is the Father's residence (where the Father is met), not what the Father *is* (the inner product ⟨·,·⟩).
 
-*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper G4: Man No. 5|Paper 26]], [[Paper G5: Man No. 6|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
+*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
 
 ---
 
@@ -897,7 +897,7 @@ The Concordius series extends kenosis beyond Christology to describe the structu
 
 > *For further investigation: Philippians 2:5-11; Sarah Coakley, "Kenōsis and Subversion" in Powers and Submissions (2002); von Balthasar, Mysterium Paschale (1970); Paper 13½ §3-§3.1.*
 
-*Appears in: [[Paper A2: The Big Bang|Paper 3]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper G5: Man No. 6|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
+*Appears in: [[Paper A2: The Big Bang|Paper 3]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
 
 ---
 
@@ -909,7 +909,7 @@ The Concordius series extends kenosis beyond Christology to describe the structu
 
 See *Heptaparaparshinokh*. The Concordius series prefers "Law of Seven" as the more accessible term in most contexts, reserving "Heptaparaparshinokh" for contexts where Gurdjieff's specific teaching is being directly engaged.
 
-*Appears in: [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
+*Appears in: [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
 
 ---
 
@@ -923,7 +923,7 @@ The Concordius series maps the Law of Three onto the Trinity: Father (⟨·,·�
 
 > *For further investigation: P.D. Ouspensky, In Search of the Miraculous (1949), chapters 8-9.*
 
-*Appears in: [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G1: Man No. 2|Paper 23]]*
+*Appears in: [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G1: The True-Centered Man|Paper 23]]*
 
 ---
 
@@ -939,7 +939,7 @@ The theological term *Son* names the same structural feature from a different re
 
 > *For further investigation: The Gospel of John, chapter 1 (the Johannine prologue); Justin Martyr, First Apology (c. 150 CE) for early Christian Logos theology; Origen, On First Principles (c. 220 CE); Thomas Aquinas, Summa Theologiae Ia, q. 34 (on the Word).*
 
-*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Son Articulates|Paper 4]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G2: Man No. 3|Paper 24]], [[Paper G3: Man No. 4|Paper 25]], [[Postscript|Postscript]]*
+*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Son Articulates|Paper 4]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Postscript|Postscript]]*
 
 ---
 
@@ -953,7 +953,7 @@ The Concordius series draws on logotherapy in Paper 25 (Man 4) as the secular re
 
 > *For further investigation: Viktor Frankl, Man's Search for Meaning (1946); The Will to Meaning (1969).*
 
-*Appears in: [[Paper G4: Man No. 5|Paper 26]]*
+*Appears in: [[Paper G4: The Restraint-Centered Man|Paper 26]]*
 
 ---
 
@@ -981,7 +981,7 @@ The consequence stated in Paper 4: *you are loved into existence at every moment
 
 > *For further investigation: 1 John 4:7–16; Thomas Aquinas, Summa Theologica I, Q.20; Paper 3½ "The Formal Definition of Love"; Paper 3½ §10 "The constitutive act is continuous."*
 
-*Appears in: [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G1: Man No. 2|Paper 23]], [[Paper G2: Man No. 3|Paper 24]], [[Paper G4: Man No. 5|Paper 26]], [[Paper G5: Man No. 6|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
+*Appears in: [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
 
 ---
 
@@ -997,7 +997,7 @@ The term "magnetic" is apt: the person with a developed magnetic center is orien
 
 > *For further investigation: P.D. Ouspensky, In Search of the Miraculous (1949), chapter 14.*
 
-*Appears in: [[Paper G3: Man No. 4|Paper 25]]*
+*Appears in: [[Paper G3: The Courage-Centered Man|Paper 25]]*
 
 ---
 
@@ -1009,7 +1009,7 @@ Gurdjieff's typology of seven levels of human development, organized around the 
 
 The seven types form an ascending sequence, but the transitions are not continuous development — each transition from one type to the next involves a discontinuous structural change (a dark night, a crystallization event, an irreversibility threshold). Men 1-3 are born into; Men 4-7 are achieved. See individual entries for each type, and see Papers 22-28 for the full treatment.
 
-*Appears in: [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G1: Man No. 2|Paper 23]], [[Paper G2: Man No. 3|Paper 24]], [[Paper G3: Man No. 4|Paper 25]], [[Paper G4: Man No. 5|Paper 26]], [[Paper G5: Man No. 6|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]], [[Postscript|Postscript]]*
+*Appears in: [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]], [[Postscript|Postscript]]*
 
 ---
 
@@ -1021,7 +1021,7 @@ Gurdjieff's distinction between behavior determined by the centers' automatic op
 
 The series maps the mechanical/volitional distinction onto the H₄₈/H₂₄ catching distinction: mechanical operation is the default H₄₈ processing of GNST-generated eigenvalues (which do not build the soul deposit); volitional operation is the catching act (which does). Man 4's work of three-center integration is, in part, the development of sustained volitional operation — the ability to maintain the observer function across extended periods of ordinary activity.
 
-*Appears in: [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G2: Man No. 3|Paper 24]], [[Paper G3: Man No. 4|Paper 25]], [[Paper G4: Man No. 5|Paper 26]], [[Paper G5: Man No. 6|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
+*Appears in: [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
 
 ---
 
@@ -1043,7 +1043,7 @@ The first of the two structural gaps in any genuine developmental process accord
 
 Applications in the Concordius series: the transition between Section A and Section II of the series (the apparatus complete but untested, requiring the tradition's prior existence to begin demonstration); the Man 3→4 transition (the framework reaching its limit, requiring the dark night of the senses to cross); the Axial Age as the civilizational Mi stage; the Incarnation as the civilizational Mi-Fa shock; and numerous textual examples (the introduction of the philosopher-king in the Republic's Book V as the Mi-Fa shock of Plato's argument; the tolle lege moment in Augustine's Book VIII).
 
-*Appears in: [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G1: Man No. 2|Paper 23]], [[Paper G2: Man No. 3|Paper 24]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
+*Appears in: [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
 
 ---
 
@@ -1069,7 +1069,7 @@ The Concordius series treats the morontia career as conducted in H₂₄-organiz
 
 > *For further investigation: The Urantia Book (1955), Papers 37-56 (the local universe) and Papers 47-48 (the morontia life).*
 
-*Appears in: [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G1: Man No. 2|Paper 23]], [[Paper G4: Man No. 5|Paper 26]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
+*Appears in: [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
 
 ---
 
@@ -1087,7 +1087,7 @@ The series' term for the ambient level of H₄₈ stimulation, distraction, and 
 
 The series argues (Paper 20, Paper 22) that the current Si/Do interval of the historical octave corresponds to a civilizational noise floor at its maximum — the density of H₄₈ stimulation available in the current technological environment exceeds any previous period's by orders of magnitude. This does not make catching impossible, but it raises the threshold of catching practice required to exceed the noise floor. The prescription for Man 1 (Paper 22) is designed specifically for the maximum noise floor environment: the work must begin below the noise floor's level, in the body itself, before the signal can be heard.
 
-*Appears in: [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G1: Man No. 2|Paper 23]], [[Paper G2: Man No. 3|Paper 24]], [[Paper G3: Man No. 4|Paper 25]], [[Paper G5: Man No. 6|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
+*Appears in: [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
 
 ---
 
@@ -1143,7 +1143,7 @@ In music theory, the interval between a pitch and the pitch at exactly double it
 
 The Concordius series uses "octave" as the general term for any complete Heptaparaparshinokh cycle — any process that runs from its initial tone through the two interval shocks to its completion and the initiation of the next cycle. Octaves are nested: each stage of a larger octave contains within it its own complete octave. This fractal structure is developed in Paper 20 (the historical octave containing the individual ascending career as its fractal mirror) and is visible in Section G (Papers 22-28 as an octave whose stages are themselves the ascending career's full octave).
 
-*Appears in: [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G5: Man No. 6|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]], [[Postscript|Postscript]]*
+*Appears in: [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]], [[Postscript|Postscript]]*
 
 ---
 
@@ -1185,7 +1185,7 @@ The term carries two distinct applications in the Concordius framework.
 
 The distinction between *person* (the individual subject) and *personality* (the unique identifying character given by the Father) is developed in the entry below. See also *Personality*.
 
-*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A3: The Son Articulates|Paper 4]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G3: Man No. 4|Paper 25]]*
+*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A3: The Son Articulates|Paper 4]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G3: The Courage-Centered Man|Paper 25]]*
 
 ---
 
@@ -1211,7 +1211,7 @@ In the Concordius mapping, personality corresponds to the unique Adjuster-consti
 
 > *For further investigation: The Urantia Book (1955), Paper 5 §6 (Personality and Reality); Paper 16 §8 (The Urantia Concept of Personality); Paper 112 §0–2 (Personality Survival). See also: Person; Uniqueness; Stability; Self-Knowledge; Thought Adjuster; Soul Deposit.*
 
-*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G1: Man No. 2|Paper 23]], [[Paper G4: Man No. 5|Paper 26]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
+*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
 
 ---
 
@@ -1223,7 +1223,7 @@ A change in the organizational structure of a system without change in its compo
 
 The Concordius series uses the phase transition as the primary model for the crystallization event at Man 5: the same accumulated soul deposit, reorganized discontinuously at the coherence threshold into a structurally different mode of organization that has properties unavailable to any sub-threshold state. The person does not gradually become Man 5; they are Man 4 and then, at the crossing of the coherence threshold, the organizational structure changes. The transition may be experienced as gradual in prospect (the accumulation approaches the threshold over years) but is structurally discontinuous at the moment of crossing.
 
-*Appears in: [[Paper G4: Man No. 5|Paper 26]]*
+*Appears in: [[Paper G4: The Restraint-Centered Man|Paper 26]]*
 
 ---
 
@@ -1235,7 +1235,7 @@ In classical Western alchemy, the Philosopher's Stone (*lapis philosophorum*) is
 
 The Concordius series identifies the Philosopher's Stone with Man 5's crystallized soul deposit and the transmuting field it constitutes. The Philosopher's Stone's transmuting property corresponds to Man 5's (and especially Man 6's) capacity to reorganize the catching capacity of persons in proximity without direct action — the cross-term ⟨ψ₅, ψ_other⟩₂₄ that constitutes the transmuting field. The immortality-conferring property corresponds to the coherence threshold crossing: what has crystallized at Man 5 survives H₄₈ dissolution. The Great Work is the ascending career from Man 1 through crystallization.
 
-*Appears in: [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G3: Man No. 4|Paper 25]], [[Paper G4: Man No. 5|Paper 26]], [[Paper G5: Man No. 6|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
+*Appears in: [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
 
 ---
 
@@ -1275,7 +1275,7 @@ The series' term for the degree to which a domain, text, or claim is close to th
 
 The practical application: the convergent witness principle (see above) functions by identifying testimonies from independent sources that converge on the same structural description. This convergence constitutes evidence of Φ-proximity: if independent sources that could not have influenced each other are describing the same structural feature, the most parsimonious explanation is that they are describing a real feature — that their shared testimony is Φ-proximate.
 
-*Appears in: [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G1: Man No. 2|Paper 23]], [[Paper G2: Man No. 3|Paper 24]], [[Paper G3: Man No. 4|Paper 25]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
+*Appears in: [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
 
 ---
 
@@ -1295,7 +1295,7 @@ The Concordius series treats the quarantine condition as a structural descriptio
 
 > *For further investigation: The Urantia Book (1955), Papers 53-54 (the Lucifer Rebellion); Paper 67 (the planetary rebellion); Paper 13½ §3.1 (structural mechanism of the Fall); Paper 3½ §6 (formal derivation: quarantine as structural necessity).*
 
-*Appears in: [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G3: Man No. 4|Paper 25]], [[Paper G5: Man No. 6|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
+*Appears in: [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
 
 ---
 
@@ -1325,7 +1325,7 @@ The epistemological method developed in Paper 18 as the method that produced the
 
 The Reasonable Person — Reasonablenessism's central epistemic attractor — is defined recognitionally rather than by specifiable criteria: an ideal inquirer who is simultaneously honest about what cannot be proven, attentive to genuine evidence from any source, and willing to hold commitments with appropriate confidence without either dogmatism or skeptical withdrawal. The Reasonable Person is not the average person or the median opinion; the Reasonable Person is the standard that all inquiry is implicitly appealing to when it claims to be making progress.
 
-*Appears in: [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G2: Man No. 3|Paper 24]], [[Paper G5: Man No. 6|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
+*Appears in: [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
 
 ---
 
@@ -1361,7 +1361,7 @@ The Concordius series maps self-remembering onto the development of the catching
 
 > *For further investigation: P.D. Ouspensky, In Search of the Miraculous (1949), chapters 4, 8; A.R. Orage, Psychological Exercises (1930).*
 
-*Appears in: [[Paper G3: Man No. 4|Paper 25]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
+*Appears in: [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
 
 ---
 
@@ -1373,7 +1373,7 @@ The second and larger of the two structural gaps in any genuine developmental pr
 
 The Concordius series applies the Si-Do interval to: the current moment in the historical octave (modernity as the Si stage, the current moment as the gap, the Do of the next octave as the completion the series cannot describe from inside the gap); the transition from Section III to Section G of the series (the demonstrative apparatus at its maximum range requiring the kenotic shock to cross into practical application); the Man 4→5 transition's dark night of the spirit; and the mortal ascending career's completion in H₄₈ dissolution (the Si-Do gap that requires H₂₄ survival above the coherence threshold for the octave to continue).
 
-*Appears in: [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G1: Man No. 2|Paper 23]], [[Paper G2: Man No. 3|Paper 24]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
+*Appears in: [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
 
 ---
 
@@ -1405,7 +1405,7 @@ The soul deposit has two key properties that distinguish it from ordinary experi
 
 Matthew 6:19-21 ("Do not store up for yourselves treasures on earth, where moths and rust destroy… but store up for yourselves treasures in heaven") is read in Paper 27½'s addendum as the precise statement of the soul deposit principle: "treasures on earth" = H₄₈ eigenvalue accumulations subject to the most intensive Heropass rate; "treasures in heaven" = H₂₄ soul deposit subject to half that rate, surviving H₄₈ dissolution once above the coherence threshold; "where your treasure is, there your heart will be also" = the eigenvalue attraction principle of Paper 6 (the soul deposit determines what the catching function is oriented toward).
 
-*Appears in: [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G1: Man No. 2|Paper 23]], [[Paper G2: Man No. 3|Paper 24]], [[Paper G3: Man No. 4|Paper 25]], [[Paper G4: Man No. 5|Paper 26]], [[Paper G5½: The Si-Do Interval|Paper 27½]], [[Postscript|Postscript]]*
+*Appears in: [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5½: The Si-Do Interval|Paper 27½]], [[Postscript|Postscript]]*
 
 ---
 
@@ -1419,7 +1419,7 @@ The Concordius series maps the spiritual marriage onto the Man 6 state: the cont
 
 > *For further investigation: John of the Cross, The Living Flame of Love and The Spiritual Canticle (c. 1578-84); Kieran Kavanaugh and Otilio Rodriguez, trans., The Collected Works of St. John of the Cross (1991).*
 
-*Appears in: [[Paper G4: Man No. 5|Paper 26]], [[Paper G5: Man No. 6|Paper 27]]*
+*Appears in: [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]]*
 
 ---
 
@@ -1435,7 +1435,7 @@ Stability is the formal basis for the claim that an individual state is the same
 
 > *See also: Personality; Uniqueness; Self-Knowledge. Primary source: Paper 1 §9; Paper 2 §9.*
 
-*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G3: Man No. 4|Paper 25]], [[Paper G4: Man No. 5|Paper 26]], [[Paper G5: Man No. 6|Paper 27]]*
+*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]]*
 
 ---
 
@@ -1449,7 +1449,7 @@ The state vector is not itself directly observable — measurement collapses the
 
 The Concordius series uses the state vector ψ to represent a person's complete structural description — the spectral composition of their soul deposit and ordinary being taken together. The H₂₄ component of the state vector is the soul deposit; the H₄₈ component is the ordinary psychological and physical constitution. The person's development level (Man 1 through Man 7) corresponds to the spectral composition of their state vector across H₂₄ eigenstates.
 
-*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G1: Man No. 2|Paper 23]], [[Paper G2: Man No. 3|Paper 24]], [[Paper G3: Man No. 4|Paper 25]], [[Paper G4: Man No. 5|Paper 26]], [[Paper G5: Man No. 6|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
+*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
 
 ---
 
@@ -1497,7 +1497,7 @@ The Adjuster contact — the degree to which the person's volitional life is ali
 
 > *For further investigation: The Urantia Book (1955), Papers 107-112 (the thought adjusters); Paper 5, section 2 (the presence of God); compare Aristotle, De Anima III.5 (the active intellect).*
 
-*Appears in: [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G1: Man No. 2|Paper 23]], [[Paper G2: Man No. 3|Paper 24]], [[Paper G3: Man No. 4|Paper 25]], [[Paper G4: Man No. 5|Paper 26]], [[Paper G5: Man No. 6|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]], [[Postscript|Postscript]]*
+*Appears in: [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]], [[Postscript|Postscript]]*
 
 ---
 
@@ -1525,7 +1525,7 @@ The series' term for the capacity of a person with substantial H₂₄ soul depo
 
 The transmuting field is not charisma, intelligence, or social influence. Persons changed by genuine contact with Man 6-7 figures consistently report that what changed was not the content of what was said, nor the warmth of the encounter, but something more direct: a sense of being seen at a level below surface presentation; a shift in what they noticed and cared about that they could not fully explain. This is the cross-term mechanism: the high-amplitude H₂₄ state vector of the Man 5-6 person amplifies the H₂₄ eigenstates in persons who come into proximity — the catching occasions that were available to them but not being caught begin to be caught.
 
-*Appears in: [[Paper G5: Man No. 6|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
+*Appears in: [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
 
 ---
 
@@ -1539,7 +1539,7 @@ The Concordius series uses the Trogoautoegocrat as the structural basis for the 
 
 > *For further investigation: Gurdjieff, Beelzebub's Tales to His Grandson (1950), chapters 17, 40.*
 
-*Appears in: [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Son Articulates|Paper 4]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G3: Man No. 4|Paper 25]], [[Paper G4: Man No. 5|Paper 26]], [[Paper G5: Man No. 6|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
+*Appears in: [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Son Articulates|Paper 4]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
 
 ---
 
@@ -1551,7 +1551,7 @@ The series' formal criterion (Paper 9) for assessing the degree to which a domai
 
 The truth measure is not intended to replace formal verification where formal verification is possible. It is the series' tool for domains — including theology, mystical testimony, and hagiographic record — where formal verification is not possible but claims can still be ranked by their Φ-proximity. The convergent witness principle (see above) is one of the primary tools for estimating τ(D) in non-formal domains.
 
-*Appears in: [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper G2: Man No. 3|Paper 24]], [[Paper G5½: The Si-Do Interval|Paper 27½]], [[Postscript|Postscript]]*
+*Appears in: [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G5½: The Si-Do Interval|Paper 27½]], [[Postscript|Postscript]]*
 
 ---
 
@@ -1601,7 +1601,7 @@ Readers unfamiliar with the *Urantia Book* should approach it with the same comb
 
 > *For further investigation: The Urantia Book (1955), available at urantia.org; Saskia Praamsma, The Center and Source (2011) for an accessible introduction.*
 
-*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper G0: Man No. 1|Paper 22]], [[Paper G4: Man No. 5|Paper 26]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
+*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Cogito Coheres|Paper 6]], [[Paper A6½: Love's Descent|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5½: The Si-Do Interval|Paper 27½]]*
 
 ---
 
