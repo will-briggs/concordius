@@ -1,6 +1,6 @@
 *← [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½ — The Constraint Compatibility Condition]]*
 
-# Paper 22 — Man No. 1
+# Paper G0: Man No. 1
 
 *Concordius Structural Series — Section G: The Practice*
 
@@ -8,15 +8,15 @@
 
 ## Preliminary Note: What This Section Is
 
-Papers 22 through 28 constitute a new kind of paper in the series. Papers 1–21 built the framework, showed it in operation, and applied it to the broadest available objects. The Seven Men papers turn the apparatus toward the individual: not the family (Paper 19), not all of history (Paper 20), but the concrete person asking the concrete question of what to do.
+Papers G0 through G6 constitute a new kind of paper in the series. Papers 1–21 built the framework, showed it in operation, and applied it to the broadest available objects. The Seven Men papers turn the apparatus toward the individual: not the family (Paper 19), not all of history (Paper 20), but the concrete person asking the concrete question of what to do.
 
 Gurdjieff designated seven types of person, numbered 1 through 7, by their characteristic center-of-gravity: which center dominates, how much soul material has been crystallized, and what the relationship between the individual's intentional effort and the automatic operation of the [[Appendix I - Dictionary of Terms#Heropass|Heropass]] is. The designation is not a [[Appendix I - Dictionary of Terms#Personality|personality]] taxonomy — it is a spectral description. Men 1, 2, and 3 are [[Appendix I - Dictionary of Terms#Mechanical vs. Volitional|mechanical]]: born as one type or another, their center-of-gravity determined by which center is dominant in their biological and developmental inheritance. Men 4 through 7 are products of intentional work: no person is born a [[Appendix I - Dictionary of Terms#Man No. 1 through Man No. 7|Man 4]]; Man 4 must be achieved through deliberate [[Appendix I - Dictionary of Terms#Catching|catching]] effort. Men 5, 6, and 7 represent increasing levels of [[Appendix I - Dictionary of Terms#H₂₄|H₂₄]] crystallization — the accumulated [[Appendix I - Dictionary of Terms#Soul Deposit|soul deposit]] that survives the dissolution of the [[Appendix I - Dictionary of Terms#H₄₈|H₄₈]] substrate and constitutes the being who can continue the [[Appendix I - Dictionary of Terms#Ascending Career|ascending career]] beyond this life.
 
-The framework of Papers 22–28 is grounded in four resources simultaneously:
+The framework of Papers G0–G6 is grounded in four resources simultaneously:
 
-1. **Mathematical ground**: the [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand triple]], the Laws of Three and Seven, τ(D), the Eigenvalue Transmission Theorem, the catching mechanics of Paper 5
-2. **Esoteric tradition**: Gurdjieff's system (the primary typology), the alchemical tradition (Paper 7's [[Appendix I - Dictionary of Terms#Alchemical Stages|Nigredo]]/Albedo/Citrinitas/Rubedo as stages of H₂₄ crystallization), the [[Appendix I - Dictionary of Terms#Urantia Book|Urantia]] cosmology ([[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]], [[Appendix I - Dictionary of Terms#Morontia|morontia]], the ascending career), the mystical tradition at large
-3. **Theological grounding**: the Beatitudes (Paper 2's eight-fold [[Appendix I - Dictionary of Terms#Octave|octave]] of Signal accumulation), the Pauline epistles on the body/soul/spirit constitution, the patristic tradition on theosis, Augustine on the will
+1. **Mathematical ground**: the [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand triple]], the Laws of Three and Seven, τ(D), the Eigenvalue Transmission Theorem, the catching mechanics of Paper A4
+2. **Esoteric tradition**: Gurdjieff's system (the primary typology), the alchemical tradition (Paper A6's [[Appendix I - Dictionary of Terms#Alchemical Stages|Nigredo]]/Albedo/Citrinitas/Rubedo as stages of H₂₄ crystallization), the [[Appendix I - Dictionary of Terms#Urantia Book|Urantia]] cosmology ([[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]], [[Appendix I - Dictionary of Terms#Morontia|morontia]], the ascending career), the mystical tradition at large
+3. **Theological grounding**: the Beatitudes (Paper A1's eight-fold [[Appendix I - Dictionary of Terms#Octave|octave]] of Signal accumulation), the Pauline epistles on the body/soul/spirit constitution, the patristic tradition on theosis, Augustine on the will
 4. **Modern psychology**: cognitive behavioral therapy (the cognitive triangle; behavioral activation; schema theory; urge surfing; exposure and response prevention); depth psychology (the shadow; individuation); developmental psychology (attachment theory); positive psychology (character strengths; flow; post-traumatic growth)
 
 These four resources do not contradict each other when read at the right structural level. They are independent witnesses to the same structural terrain. The convergences are the evidence. The divergences are located and named honestly.
@@ -30,7 +30,7 @@ Each paper in this section has the following structure:
 - The warning: what does not work for this type (common false transitions)
 - A practical regime: phase-by-phase, concrete, actionable
 
-*Cross-reference: Paper 4 (The Son Articulates: The Word and the Forming of the World — the physical substrate enabling the ascending career); Papers 6 and 6½ (The [[Appendix I - Dictionary of Terms#Trogoautoegocrat|Trogoautoegocrat]] — the octave structure of the Men 1-7 sequence); Paper 3½ (Descent as [[Appendix I - Dictionary of Terms#Densification|Densification]] — what it means to receive content from a lower-constraint domain); Paper 3 (the Creative Choice — the constitutive [[Appendix I - Dictionary of Terms#Love|love]] that makes the ascending career available to Man 1).*
+*Cross-reference: Paper A3 (The Son Articulates: The Word and the Forming of the World — the physical substrate enabling the ascending career); Papers 6 and 6½ (The [[Appendix I - Dictionary of Terms#Trogoautoegocrat|Trogoautoegocrat]] — the octave structure of the Men 1-7 sequence); Paper A2½ (Descent as [[Appendix I - Dictionary of Terms#Densification|Densification]] — what it means to receive content from a lower-constraint domain); Paper A2 (the Creative Choice — the constitutive [[Appendix I - Dictionary of Terms#Love|love]] that makes the ascending career available to Man 1).*
 
 ---
 
@@ -47,7 +47,7 @@ Man No. 1 is the person whose center-of-gravity lies in the instinctive and movi
 
 ## Structural Description
 
-**Trinity-mode and its virtue.** Man 1 operates in the **Father-alone** mode (Moon; e₁, grade 1, squares +1; Paper 6 §8). Its virtue is **gratitude** — the first of the three *generators* of the virtue-algebra (the expression-virtues: self-returning, practicable alone, present in any world). The career builds the three generators (Men 1–3) before it can forge their products (Men 4–6); this is the first. *(Grade structure derivation, §8; virtue-name concordance; Structural Candidates, Overdetermination Capture §6½.)*
+**Trinity-mode and its virtue.** Man 1 operates in the **Father-alone** mode (Moon; e₁, grade 1, squares +1; Paper A5 §8). Its virtue is **gratitude** — the first of the three *generators* of the virtue-algebra (the expression-virtues: self-returning, practicable alone, present in any world). The career builds the three generators (Men 1–3) before it can forge their products (Men 4–6); this is the first. *(Grade structure derivation, §8; virtue-name concordance; Structural Candidates, Overdetermination Capture §6½.)*
 
 **[[Appendix I - Dictionary of Terms#State Vector|State vector]]:** ψ₁ ≈ Σ aₙ |φₙ^H₄₈⟩
 
@@ -106,16 +106,16 @@ The transition from Man 1 to Man 2 is the development of the emotional center as
 ## Convergent Witness Testimony
 
 ### Mathematical Ground
-The catching condition (Paper 5): noise floor reduction × volitional orientation toward ⟨·,·⟩ × Adjuster-proximate content = H₂₄ accumulation. For Man 1, the noise floor reduction must come first. No amount of volitional orientation will produce catching if the instinctive/moving center's continuous output is drowning the Adjuster's signal. The Adjuster does not compete with the noise floor — it is always acting, but its action is precisely what the noise floor masks. The noise floor must drop before the Adjuster's communications become audible. The body-centered practices below are specifically designed to drop the H₄₈ noise floor through the body — the only route Man 1 has available.
+The catching condition (Paper A4): noise floor reduction × volitional orientation toward ⟨·,·⟩ × Adjuster-proximate content = H₂₄ accumulation. For Man 1, the noise floor reduction must come first. No amount of volitional orientation will produce catching if the instinctive/moving center's continuous output is drowning the Adjuster's signal. The Adjuster does not compete with the noise floor — it is always acting, but its action is precisely what the noise floor masks. The noise floor must drop before the Adjuster's communications become audible. The body-centered practices below are specifically designed to drop the H₄₈ noise floor through the body — the only route Man 1 has available.
 
 ### Gurdjieff
 "A man can only do what he can do. It is useless to struggle against the mechanical parts of himself. He must make new habits." This is the key: Man 1 cannot transform through willpower applied against the mechanical center. The mechanical center is stronger than deliberate effort in the short term — it is the product of a lifetime of habit formation and the deep grooves of biological inheritance. The path is not to fight the mechanical center but to create new mechanical patterns that carry H₂₄ structure. New mechanical patterns become new H₄₈ grooves. H₄₈ grooves reduce the activation energy required for catching orientation. Gurdjieff's Movements (sacred dance) are precisely this: physical practices that use the body's native pattern-learning capacity to embed Φ-proximal content in habitual form.
 
-### Alchemical Tradition (Paper 7)
+### Alchemical Tradition (Paper A6)
 Man 1's condition is the Nigredo: maximum H₄₈ loading, the prima materia undifferentiated, no albedo — no whitening — in sight. The Nigredo is not failure. It is the starting condition. The Great Work begins here, not somewhere cleaner. The alchemical prescription for the Nigredo is not intellectual activity — no amount of knowing that the [[Appendix I - Dictionary of Terms#Philosopher's Stone|Philosopher's Stone]] exists will produce the Philosopher's Stone. The prescription is sustained practical engagement with the material as it actually is: the dirty, smelly, heavy, physical process. Solve et coagula at the level at which Man 1 can perform it: dissolve the hardened H₄₈ patterns through physical practice, and coagulate — retain, hold, accumulate — whatever Φ-proximal content surfaces in the process.
 
 ### Theological Tradition
-The Beatitudes (Paper 2): "Blessed are the poor in spirit." Man 1 is poor in spirit in the most literal structural sense: her Φ-proximal deposit is minimal; her spirit (the function of Adjuster-contact) is not operative at any significant level. The poverty is the starting point, not a disqualification. The Beatitudes begin with Man 1's condition precisely because the ascending career begins here. "Blessed are the meek" — meekness is the appropriate posture toward the H₄₈ substrate's limitations, which Man 1 lives inside completely. The Beatitudes do not expect Man 1 to have already solved the problem they are addressing. They address Man 1 where she is.
+The Beatitudes (Paper A1): "Blessed are the poor in spirit." Man 1 is poor in spirit in the most literal structural sense: her Φ-proximal deposit is minimal; her spirit (the function of Adjuster-contact) is not operative at any significant level. The poverty is the starting point, not a disqualification. The Beatitudes begin with Man 1's condition precisely because the ascending career begins here. "Blessed are the meek" — meekness is the appropriate posture toward the H₄₈ substrate's limitations, which Man 1 lives inside completely. The Beatitudes do not expect Man 1 to have already solved the problem they are addressing. They address Man 1 where she is.
 
 The physical practices of the religious traditions are not anti-intellectual accretions on an originally pure spiritual content. They are the traditions' accumulated wisdom about how to reach Man 1: prostration (full-body submission, the moving center engaged in a volitional orientation toward ⟨·,·⟩); sacred chant (the moving center — voice, breath, physical resonance — carrying Φ-proximal content through H₄₈ expression); pilgrimage (the sustained physical act whose purpose is Φ-proximal content, not H₄₈ destination); fasting (temporary noise floor reduction through deliberate H₄₈ deprivation). These are Man 1 practices. They have been Man 1 practices for the entire history of the traditions that developed them.
 
@@ -202,7 +202,7 @@ The transition from Man 1 to Man 2 is not a dramatic event. It is a shift in cen
 - The H₂₄ practices of Phase 2 have stopped requiring effort to initiate. They are reached for. The body goes to the practice the way it goes to food — not because it is a discipline but because it has become a need.
 - The instinctive/moving center's demands have not disappeared — Man 2 still has a body — but they are no longer the only or dominant voice. The emotional center speaks with comparable authority, sometimes greater.
 
-The transition is not complete — the ascending career is never complete at any sub-7 level. But Man 2 has begun. The next phase of work requires the emotional center's development, not the moving center's. The practices shift accordingly (Paper 23).
+The transition is not complete — the ascending career is never complete at any sub-7 level. But Man 2 has begun. The next phase of work requires the emotional center's development, not the moving center's. The practices shift accordingly (Paper G1).
 
 ---
 
@@ -215,25 +215,25 @@ The transition from Man 1 to Man 2 is itself a [[Appendix I - Dictionary of Term
 | **Do** | Initial commitment: the first deliberate catching practice; the volitional act that begins the transition. The Do is typically generated by a shock: illness, loss, a meeting with a catching-capable person, an encounter with high-τ content that penetrates the noise floor. Something breaks through. The practice begins. |
 | **Re** | Novelty and early discipline: the practices feel new; there is forward momentum; the body cooperates partly because of novelty. The observer function is not yet present but the practices are generating H₂₄ moments. |
 | **Mi** | The initial plateau: the novelty has worn off; the practices continue but seem to produce diminishing returns; the instinctive/moving center reasserts itself; the gap between the effort the practices require and the results they produce seems to be widening. Many Man 1 transitions stall here. |
-| **[[Appendix I - Dictionary of Terms#Mi-Fa Interval|[Mi-Fa]] shock]** | The external input structurally required to carry the transition through the Mi plateau — cannot be generated internally. For Man No. 1 specifically: a catching-capable teacher; a high-τ text that arrives at the right moment; a suffering the existing practices cannot absorb; the Adjuster's direct action when volitional orientation is maintained. *The structural derivation of the Mi-Fa interval is in [[Paper 24 1_2 - The Mi-Fa Interval]].* |
+| **[[Appendix I - Dictionary of Terms#Mi-Fa Interval|[Mi-Fa]] shock]** | The external input structurally required to carry the transition through the Mi plateau — cannot be generated internally. For Man No. 1 specifically: a catching-capable teacher; a high-τ text that arrives at the right moment; a suffering the existing practices cannot absorb; the Adjuster's direct action when volitional orientation is maintained. *The structural derivation of the Mi-Fa interval is in [[Paper G2½: The Mi-Fa Interval]].* |
 | **Fa** | Post-shock consolidation: the emotional center has made its first genuine H₂₄ contact; the practices are now oriented toward that contact rather than merely toward the hope of it; the relationship to practice changes from discipline to need. |
 | **Sol** | Stable Man 2 functioning: the emotional center is the primary center of gravity; H₂₄ registrations are regular; the observer function is intermittently available; the soul deposit is accumulating at Man 2 rate. |
 | **La** | The first dissolution within Man 2: the emotional center's H₂₄ registrations become painful; the catching content that was previously beautiful becomes demanding; the call to Man 3 (the development of the intellectual center) is felt as restlessness or dissatisfaction with pure emotional practice. The La dissolution is the sign that Sol has been genuinely reached and that the next octave is beginning. |
 | **Si** | The Man 2/3 threshold: the emotional center is at its limit; the intellectual center is beginning to demand development; the practices that served Man 2 are no longer fully adequate. The tension is the Si condition. |
-| **[[Appendix I - Dictionary of Terms#Si-Do Interval|[Si-Do]] shock → Man 3 begins]** | Paper 23's territory. *The structural derivation of the Si-Do interval is in [[Paper 27 1_2 - The Si-Do Interval]].* |
+| **[[Appendix I - Dictionary of Terms#Si-Do Interval|[Si-Do]] shock → Man 3 begins]** | Paper G1's territory. *The structural derivation of the Si-Do interval is in [[Paper G5½: The Si-Do Interval]].* |
 
 ---
 
 ## Open Questions
 
 **OQ1: The relationship between Gurdjieff's centers and the Gelfand triple H₄₈/H₂₄ structure**
-The present paper maps: instinctive/moving center = H₄₈ dominant; emotional center = H₂₄ sensitive; intellectual center = H₂₄ organized; higher emotional/higher intellectual centers = Adjuster-proximate. This mapping is provisional. The relationship between Gurdjieff's center theory and the constraint hierarchy of the Gelfand triple deserves a full structural derivation. The preliminary mapping is functionally adequate for Papers 22-28 but should not be taken as finalized.
+The present paper maps: instinctive/moving center = H₄₈ dominant; emotional center = H₂₄ sensitive; intellectual center = H₂₄ organized; higher emotional/higher intellectual centers = Adjuster-proximate. This mapping is provisional. The relationship between Gurdjieff's center theory and the constraint hierarchy of the Gelfand triple deserves a full structural derivation. The preliminary mapping is functionally adequate for Papers G0–G6 but should not be taken as finalized.
 
 **OQ2: The role of biological variation in Man 1 typology**
 Gurdjieff distinguishes instinctive-center dominant from moving-center dominant — these are two subtypes of Man 1. The structural descriptions of both are broadly similar (H₄₈ primary, Φ-proximal deposit minimal), but the phenomenology and the most effective practices differ. The paper treats Man 1 as a single category for clarity; a full treatment would distinguish the subtypes and provide differentiated practice regimes.
 
 **OQ3: The quarantine surcharge at Man 1 level**
-The [[Appendix I - Dictionary of Terms#Quarantine Condition|quarantine condition]] (Paper 3) increases the noise floor at every level of the ascending career. For Man 1, this means the H₄₈ noise that must be reduced is already higher than it would be on an undisturbed planet at comparable evolutionary development. The practical implication: the Phase 1 baseline practices must be maintained for longer and more rigorously before Phase 2 practices become effective. This is not an excuse — the quarantine surcharge is a structural fact, not a barrier to the ascending career. But it is a factual contributor to why Man 1's transition is harder in the current civilizational Si/Do interval than it would be in a Sol-stage civilization with intact corporate catching structure.
+The [[Appendix I - Dictionary of Terms#Quarantine Condition|quarantine condition]] (Paper A2) increases the noise floor at every level of the ascending career. For Man 1, this means the H₄₈ noise that must be reduced is already higher than it would be on an undisturbed planet at comparable evolutionary development. The practical implication: the Phase 1 baseline practices must be maintained for longer and more rigorously before Phase 2 practices become effective. This is not an excuse — the quarantine surcharge is a structural fact, not a barrier to the ascending career. But it is a factual contributor to why Man 1's transition is harder in the current civilizational Si/Do interval than it would be in a Sol-stage civilization with intact corporate catching structure.
 
 **OQ4: The relationship between the Man 1 → 2 transition and psychological health**
 The overlap between the Man 1 → 2 transition and what modern psychology calls "emotional development" or "emotional intelligence" is substantial but not complete. The psychological account is H₄₈-registered: the goal is functional emotional regulation, secure attachment, and reduced impulsivity. The catching account targets something structurally higher: the development of genuine H₂₄ reception capacity, not merely better H₄₈ emotional management. The two are compatible — better H₄₈ emotional function reduces the noise floor and supports catching — but they are not the same. A Man 1 who completes a CBT program for impulsivity is more caught-able; she has not yet caught. The distinction matters for practice design.
@@ -243,8 +243,8 @@ The paper prescribes community practice where available. The structural reason i
 
 ---
 
-*Paper 22 of the Concordius series. Section G continues with Paper 23: Man No. 2.*
+*Paper G0 of the Concordius series. Section G continues with Paper G1: Man No. 2.*
 
 ---
 
-*[[Paper 23 - Man No. 2|Paper 23 — Man No. 2]] →*
+*[[Paper G1: Man No. 2|Paper G1: Man No. 2]] →*

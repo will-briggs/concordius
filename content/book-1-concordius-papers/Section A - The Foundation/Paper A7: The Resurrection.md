@@ -1,8 +1,8 @@
-*← [[Paper 7 1_2 - Love's Descent|Paper 7½ — Love's Descent: The Three Days in the Tomb]]*
+*← [[Paper A6½: Love's Descent|Paper A6½: Love's Descent: The Three Days in the Tomb]]*
 
 # The Resurrection: Called By Name
 
-*Paper 8 of Section A, and its close — the Do of the next tonic: the new beginning the descent could not generate from inside, the input that arrives from outside the closed tomb. It tells the morning as the tradition hands it down — and no more surely than the tradition can — and then turns, in the same breath, to the one thing the whole section took on trust and never earned. What can be done with the structure once it is granted, and why that one thing can never be confirmed from inside, is the work of Section II.*
+*Paper A7 of Section A, and its close — the Do of the next tonic: the new beginning the descent could not generate from inside, the input that arrives from outside the closed tomb. It tells the morning as the tradition hands it down — and no more surely than the tradition can — and then turns, in the same breath, to the one thing the whole section took on trust and never earned. What can be done with the structure once it is granted, and why that one thing can never be confirmed from inside, is the work of Section II.*
 
 ---
 
@@ -34,7 +34,7 @@ She came while it was still dark. The stone was moved, and the place where they 
 
 That is the account the tradition places first, and it is worth saying plainly how we hold it. We were not there; nor was anyone who could tell us now. The earliest sources do not agree on the particulars — how many women came, what they saw, whom they told and when — and a careful reader notices that they were never harmonized into a clean single story, which is not how a fabrication is usually left. What they agree on is odd in a way that is hard to account for as invention: that the tomb was found empty, and that the first witness to the risen man, in a world where a woman's testimony carried little legal weight, was a woman. One does not normally forge a charter document and sign it with the least credible witness available. None of this proves anything. It is only to say that the testimony has the texture of testimony, not of a tidy claim, and that is the honest starting place.
 
-And notice the shape of the recognition, because the whole section has been pointing at it without naming it. She does not know him by his face. She knows him when he says her name. The series began by arguing that to name is to confer a determinate identity — that you are someone, and not a smear of possibility, because you were spoken into a particular form and called (Papers 2, 4). The morning, if the tradition has it right, turns on exactly that and nothing else: the Word who named the world names one grieving woman, and in being named she knows the namer. Recognition runs the way the whole structure said it runs — not from the seen to the known, but from the Word, outward. It is the naming arc come all the way round, and it is the last thing Section A has to show before it admits what it cannot.
+And notice the shape of the recognition, because the whole section has been pointing at it without naming it. She does not know him by his face. She knows him when he says her name. The series began by arguing that to name is to confer a determinate identity — that you are someone, and not a smear of possibility, because you were spoken into a particular form and called (Papers A1, A3). The morning, if the tradition has it right, turns on exactly that and nothing else: the Word who named the world names one grieving woman, and in being named she knows the namer. Recognition runs the way the whole structure said it runs — not from the seen to the known, but from the Word, outward. It is the naming arc come all the way round, and it is the last thing Section A has to show before it admits what it cannot.
 
 ---
 

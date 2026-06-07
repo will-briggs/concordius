@@ -1,8 +1,8 @@
-*← [[Paper 7 - The Life|Paper 7 — The Life: The Form of a Servant]]*
+*← [[Paper A6: The Life|Paper A6: The Life: The Form of a Servant]]*
 
 # Love's Descent: The Three Days in the Tomb
 
-*Paper 7½ of Section A. The life has come to its cry and the body has been taken down; here the series stands at the sealed tomb and looks at what was laid in it. It looks more than once, because there is more than one way to look at a grave; and then it admits the one thing the looking cannot reach. Companion to Paper 7 (the life, and the cross it ends at) and Paper 8 (the morning).*
+*Paper A6½ of Section A. The life has come to its cry and the body has been taken down; here the series stands at the sealed tomb and looks at what was laid in it. It looks more than once, because there is more than one way to look at a grave; and then it admits the one thing the looking cannot reach. Companion to Paper A6 (the life, and the cross it ends at) and Paper A7 (the morning).*
 
 ---
 
@@ -10,7 +10,7 @@
 
 The work is finished and the body is in the ground. This paper holds the interval between the death and whatever follows it — the part of the story the Gospels do not narrate. It looks at the sealed tomb three ways: at the bond between the Father and the Son, now driven to its furthest distance and held there; at the body itself, subject to the same material order that carried it up from the first vacuum, now running down; and at the descent of the Son among the dead, where the one physical trace the tradition has ever claimed — the burial cloth — is weighed and left in its doubt. The three looks converge on a silence. We do not know what happened in those three days. The paper ends by saying so plainly, and by naming why the silence is the kind that cannot be broken from inside.
 
-**Confidence.** The structural readings — the preserved norm, the held antipode, the descent as the floor of the felt-spectrum — are derived from Papers 1–6 and carry their warrant. The treatment of the Shroud of Turin is held at the lowest tier: a contested artifact, presented with its doubt intact, claiming nothing. The closing section is marked, explicitly and throughout, as speculation about a thing not given to be known.
+**Confidence.** The structural readings — the preserved norm, the held antipode, the descent as the floor of the felt-spectrum — are derived from Papers A0–A5 and carry their warrant. The treatment of the Shroud of Turin is held at the lowest tier: a contested artifact, presented with its doubt intact, claiming nothing. The closing section is marked, explicitly and throughout, as speculation about a thing not given to be known.
 
 ---
 
@@ -32,11 +32,11 @@ The work is finished and the body is in the ground. This paper holds the interva
 
 ## 1. The Word, silent
 
-A single direction multiplied by itself returns the scalar and tells you nothing new; meaning enters only where two distinct things are brought together, and the first such joining — the first bivector, e₁e₂ — was the act by which the Son gave the Father's creation its form (Paper 4). That same element, squared, is −1. The act that articulates the world and the negative at the floor of the felt-spectrum are the *same element* taken two ways: to bring distinct things together is to make form; to drive that union to its extremity is the Cross. The death is not a different mathematics from the creating. It is the creating mathematics at its turning point.
+A single direction multiplied by itself returns the scalar and tells you nothing new; meaning enters only where two distinct things are brought together, and the first such joining — the first bivector, e₁e₂ — was the act by which the Son gave the Father's creation its form (Paper A3). That same element, squared, is −1. The act that articulates the world and the negative at the floor of the felt-spectrum are the *same element* taken two ways: to bring distinct things together is to make form; to drive that union to its extremity is the Cross. The death is not a different mathematics from the creating. It is the creating mathematics at its turning point.
 
 So consider what is in the tomb. The One through whom all things were made is now a made thing among made things — the Word that spoke every particular into its shape, itself wordless, laid out in the dark with the rest of what dies. *And the Word became flesh* reaches here the last inch of its meaning: the flesh it became is dead flesh. There is no homiletic softening available. The Logos is silent.
 
-And yet attend to what the algebra does *not* say. A bivector that squares to −1 has not ceased to be defined. The negative is real, and it is held — it is a value in the structure, not a hole torn in it. The inner product that constitutes the Father and the Son is prior to existence, not a transaction within it (Paper 1); it is not the kind of thing a death can annul. What the death does is drive the felt-distance between them to its maximum — the antipode, −p, the dereliction already cried from the Cross — and then *hold* it. The face is hidden. The bond is not severed. To say it in the one breath the matter requires: the Son is wordless in the grave, and the relation that makes him the Son has not been withdrawn from him there. He is held in a silence, not dropped into a void. Even the −1 is inside the algebra.
+And yet attend to what the algebra does *not* say. A bivector that squares to −1 has not ceased to be defined. The negative is real, and it is held — it is a value in the structure, not a hole torn in it. The inner product that constitutes the Father and the Son is prior to existence, not a transaction within it (Paper A0); it is not the kind of thing a death can annul. What the death does is drive the felt-distance between them to its maximum — the antipode, −p, the dereliction already cried from the Cross — and then *hold* it. The face is hidden. The bond is not severed. To say it in the one breath the matter requires: the Son is wordless in the grave, and the relation that makes him the Son has not been withdrawn from him there. He is held in a silence, not dropped into a void. Even the −1 is inside the algebra.
 
 ---
 
@@ -44,7 +44,7 @@ And yet attend to what the algebra does *not* say. A bivector that squares to �
 
 Look at the body as a body, because the tenderness here depends on not flinching from the physics.
 
-The burial was an ordinary one for its time and place. The body was taken down before sundown, wrapped in linen with about a hundred Roman pounds of myrrh and aloes (John 19:39–40), and laid in a rock-hewn tomb with a stone rolled across the entrance — first-century Judean practice, attested and unremarkable. What follows, follows by the same physics for this body as for any. Circulation stops; the warmth goes out of it over the first hours toward the temperature of the cool limestone around it; the muscles stiffen and then, a day or so on, release; the cells, no longer maintained, begin to break themselves down. This is the material order of death. It is the exact order Paper 5 traced *upward* — vacuum to atom to cell to a living human frame — now running in reverse, the long ascent letting go of its highest rung.
+The burial was an ordinary one for its time and place. The body was taken down before sundown, wrapped in linen with about a hundred Roman pounds of myrrh and aloes (John 19:39–40), and laid in a rock-hewn tomb with a stone rolled across the entrance — first-century Judean practice, attested and unremarkable. What follows, follows by the same physics for this body as for any. Circulation stops; the warmth goes out of it over the first hours toward the temperature of the cool limestone around it; the muscles stiffen and then, a day or so on, release; the cells, no longer maintained, begin to break themselves down. This is the material order of death. It is the exact order Paper A4 traced *upward* — vacuum to atom to cell to a living human frame — now running in reverse, the long ascent letting go of its highest rung.
 
 The framework adds one thing to this, and only one, and it adds it without softening any of the above. The norm is preserved. ‖·‖ — the magnitude the inner product assigns to a state — does not go to zero when the body dies; annihilation and death are not the same operation. To be at all is to be evaluated as positive by ⟨·,·⟩ (positive-definiteness: every non-zero state has strictly positive value), and that evaluation is not a reward the living earn and the dead forfeit. The bivector here, e₁e₃, squares to −1 like the others; the body has gone to the negative. But the magnitude the Father's ground assigns it is conserved across the change. The plainest statement holds both halves at once: the body in that tomb was really dead, by the same biology that kills anything, and it was not for one instant let go of. The ground that made it does not spare it the material order. It holds it through it.
 
@@ -72,8 +72,8 @@ So the series sets down its tools and waits at the stone, with the women, in the
 
 ---
 
-*Cross-reference: Paper 4 (the Son's articulating act; the first bivector); Paper 5 (the material order of life, here running down); Paper 6 (the cohering self, now undone); Paper 2 (the Word, the naming); Appendix I (the felt-spectrum; the antipode; the preserved norm). Scripture: John 19:38–42; 1 Peter 3:18–19; Psalm 139:7–8; Matthew 27:57–66.*
+*Cross-reference: Paper A3 (the Son's articulating act; the first bivector); Paper A4 (the material order of life, here running down); Paper A5 (the cohering self, now undone); Paper A1 (the Word, the naming); Appendix I (the felt-spectrum; the antipode; the preserved norm). Scripture: John 19:38–42; 1 Peter 3:18–19; Psalm 139:7–8; Matthew 27:57–66.*
 
 ---
 
-*[[Paper 8 - The Resurrection|Paper 8 — The Resurrection: Called By Name]] →*
+*[[Paper A7: The Resurrection|Paper A7: The Resurrection: Called By Name]] →*

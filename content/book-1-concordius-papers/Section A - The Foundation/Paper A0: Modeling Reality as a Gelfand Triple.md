@@ -321,4 +321,4 @@ von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer
 
 ---
 
-*[[Paper 2 - From the Cogito to the Logos|Paper 2 — From the Cogito to the Logos]] →*
+*[[Paper A1: From the Cogito to the Logos|Paper A1: From the Cogito to the Logos]] →*

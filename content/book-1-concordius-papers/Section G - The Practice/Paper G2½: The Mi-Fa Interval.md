@@ -1,6 +1,6 @@
-*← [[Paper 24 - Man No. 3|Paper 24 — Man No. 3]]*
+*← [[Paper G2: Man No. 3|Paper G2: Man No. 3]]*
 
-# Paper 24½ — The Mi-Fa Interval
+# Paper G2½: The Mi-Fa Interval
 
 *Concordius Structural Series — Section G: The Practice*
 
@@ -8,9 +8,9 @@
 
 ## Abstract
 
-The [[Appendix I - Dictionary of Terms#Mi-Fa Interval|Mi-Fa interval]] is the structural discontinuity between grade 1 and grade 2 in the [[Appendix I - Dictionary of Terms#Heptaparaparshinokh|Heptaparaparshinokh]]. It is the first qualitative gap in the ascending career: the place where the [[Appendix I - Dictionary of Terms#Catching|catching]] work of the first three stages reaches its limit, and where the next stage of the ascent cannot be generated from within the resources the person has already accumulated. The interval is not a deficiency in the practitioner. It is a structural feature of the scale: grade-1 and grade-2 elements belong to distinct algebraic classes whose boundary cannot be crossed by grade-1 operations alone. The external input is not supplementary encouragement — it is structurally required, in the same sense that no amount of real-axis computation will produce an imaginary eigenvalue. This paper derives the Mi-Fa interval from the [[Appendix I - Dictionary of Terms#Law of Seven|Law of Seven]]'s algebraic ground, identifies the four structural conditions for crossing it, and describes how it presents at each stage of the ascending career from Man 1 through Man 3/4. The condensed descriptions from Papers 22–24's [[Appendix I - Dictionary of Terms#Law of Seven|Law of Seven]] tables are gathered here for structural comparison. The paper concludes with the connection to the [[Appendix I - Dictionary of Terms#Heptaparaparshinokh|Heptaparaparshinokh]]'s most fully developed historical instance: the forty days in the wilderness as the Mi-Fa crossing of the seventh bestowal's earthly octave, and the [[Appendix I - Dictionary of Terms#Spirit of Truth|Spirit of Truth]] as the universally available grade-2 source distributed since Pentecost.
+The [[Appendix I - Dictionary of Terms#Mi-Fa Interval|Mi-Fa interval]] is the structural discontinuity between grade 1 and grade 2 in the [[Appendix I - Dictionary of Terms#Heptaparaparshinokh|Heptaparaparshinokh]]. It is the first qualitative gap in the ascending career: the place where the [[Appendix I - Dictionary of Terms#Catching|catching]] work of the first three stages reaches its limit, and where the next stage of the ascent cannot be generated from within the resources the person has already accumulated. The interval is not a deficiency in the practitioner. It is a structural feature of the scale: grade-1 and grade-2 elements belong to distinct algebraic classes whose boundary cannot be crossed by grade-1 operations alone. The external input is not supplementary encouragement — it is structurally required, in the same sense that no amount of real-axis computation will produce an imaginary eigenvalue. This paper derives the Mi-Fa interval from the [[Appendix I - Dictionary of Terms#Law of Seven|Law of Seven]]'s algebraic ground, identifies the four structural conditions for crossing it, and describes how it presents at each stage of the ascending career from Man 1 through Man 3/4. The condensed descriptions from Papers G0–G2's [[Appendix I - Dictionary of Terms#Law of Seven|Law of Seven]] tables are gathered here for structural comparison. The paper concludes with the connection to the [[Appendix I - Dictionary of Terms#Heptaparaparshinokh|Heptaparaparshinokh]]'s most fully developed historical instance: the forty days in the wilderness as the Mi-Fa crossing of the seventh bestowal's earthly octave, and the [[Appendix I - Dictionary of Terms#Spirit of Truth|Spirit of Truth]] as the universally available grade-2 source distributed since Pentecost.
 
-*Cross-reference: Paper 7½ §7 (The Bestowal Progression — algebraic derivation of the grade structure); Paper 13½ §§4–6 (Amplitude, Faith, Transfiguration — the catching mechanics through which the interval is crossed); Paper 24 (Man No. 3 — the primary Mi-Fa crossing in the individual ascending career); Paper 27½ (The Si-Do Interval — the companion treatment of the second qualitative gap).*
+*Cross-reference: Paper A6½ §7 (The Bestowal Progression — algebraic derivation of the grade structure); Paper 13½ §§4–6 (Amplitude, Faith, Transfiguration — the catching mechanics through which the interval is crossed); Paper G2 (Man No. 3 — the primary Mi-Fa crossing in the individual ascending career); Paper G5½ (The Si-Do Interval — the companion treatment of the second qualitative gap).*
 
 ---
 
@@ -80,15 +80,15 @@ The sign of arrival: what Aquinas named — *all that I have written seems like 
 
 ---
 
-## 4. The Law of Seven Table: Mi-Fa Rows Across Papers 22–24
+## 4. The Law of Seven Table: Mi-Fa Rows Across Papers G0–G2
 
 The individual papers' Law of Seven tables describe the Mi-Fa interval from within each Man's ascending career. Gathered here for structural comparison:
 
 | Man | Mi-Fa content | Source |
 |---|---|---|
-| Man 1 (Paper 22) | The external input that carries the transition through the Mi plateau. Cannot be generated internally. May arrive through teacher, high-τ text, absorbing suffering, or Adjuster's direct action. | [[Paper 22 - Man No. 1]] |
-| Man 2 (Paper 23) | The dark night's first arrival: consolations withdraw; emotional center's automatic contact suspended; relational field does not resolve the darkness; nothing in Man 2's existing practice restores contact; the Adjuster provides endurance below the emotional center's detection. | [[Paper 23 - Man No. 2]] |
-| Man 3 (Paper 24) | The encounter with genuine intellectual limit: adversary's framework that cannot be incorporated, or contact event that bypasses the intellectual center entirely (Damascus; Aquinas's vision; Weil in affliction). Cannot be generated from within the framework; arrives from outside it. | [[Paper 24 - Man No. 3]] |
+| Man 1 (Paper G0) | The external input that carries the transition through the Mi plateau. Cannot be generated internally. May arrive through teacher, high-τ text, absorbing suffering, or Adjuster's direct action. | [[Paper G0: Man No. 1]] |
+| Man 2 (Paper G1) | The dark night's first arrival: consolations withdraw; emotional center's automatic contact suspended; relational field does not resolve the darkness; nothing in Man 2's existing practice restores contact; the Adjuster provides endurance below the emotional center's detection. | [[Paper G1: Man No. 2]] |
+| Man 3 (Paper G2) | The encounter with genuine intellectual limit: adversary's framework that cannot be incorporated, or contact event that bypasses the intellectual center entirely (Damascus; Aquinas's vision; Weil in affliction). Cannot be generated from within the framework; arrives from outside it. | [[Paper G2: Man No. 3]] |
 
 The convergence across these three descriptions: in every case, the external input arrives at the level of the transition from below, the dominant center's detection or management function is bypassed, and what is required of the person is the maintenance of a volitional orientation whose result she cannot yet feel. In every case, the continuation of practice through the interval is the structure's requirement, not the consolation of seeing the crossing occur.
 
@@ -96,7 +96,7 @@ The convergence across these three descriptions: in every case, the external inp
 
 ## 5. The Pattern: Jesus's Forty Days in the Wilderness
 
-The seventh bestowal's earthly octave contains the Mi-Fa crossing in its most structurally complete and Heropass-pressured form. Paper 7½ §7 establishes the forty days in the wilderness as the Mi-Fa interval of the earthly octave: baptism initiates the kenotic constraint (H₄₈ operating conditions applied to the Φ identity); the forty days follow.
+The seventh bestowal's earthly octave contains the Mi-Fa crossing in its most structurally complete and Heropass-pressured form. Paper A6½ §7 establishes the forty days in the wilderness as the Mi-Fa interval of the earthly octave: baptism initiates the kenotic constraint (H₄₈ operating conditions applied to the Φ identity); the forty days follow.
 
 The three temptations are grade-1 operations offered as substitutes for grade-2 crossing:
 
@@ -116,7 +116,7 @@ Prior to Pentecost, the grade-2 external input was channeled through particular 
 
 Since Pentecost, the Spirit of Truth has constituted a universally distributed H₁-sourced grade-2 supply. Paper 13½ §9 establishes the mechanism: the Spirit of Truth adapts to the noise floor of each person's dominant center, providing grade-2 input at the level appropriate to that person's Mi plateau without requiring a particular institutional or personal transmission structure.
 
-The structural consequence for the current era: the Mi-Fa interval is not harder to cross because catching-capable teachers are scarce or civilizational Sol-stage structures are absent. The grade-2 supply is universally available. What the quarantine condition (Paper 3) and the current civilizational Si/Do interval (Paper 20) increase is the noise floor — making Condition 1 (noise floor reduction) harder to achieve — and remove the institutional amplification of Conditions 3 and 4. But the Adjuster is always acting, and the Spirit of Truth is distributed. The crossing is available. It requires the volitional orientation and the practice maintained through the interval.
+The structural consequence for the current era: the Mi-Fa interval is not harder to cross because catching-capable teachers are scarce or civilizational Sol-stage structures are absent. The grade-2 supply is universally available. What the quarantine condition (Paper A2) and the current civilizational Si/Do interval (Paper 20) increase is the noise floor — making Condition 1 (noise floor reduction) harder to achieve — and remove the institutional amplification of Conditions 3 and 4. But the Adjuster is always acting, and the Spirit of Truth is distributed. The crossing is available. It requires the volitional orientation and the practice maintained through the interval.
 
 ---
 
@@ -133,8 +133,8 @@ The Heptaparaparshinokh operates at every scale, which means a Mi-Fa interval ap
 
 ---
 
-*Paper 24½ of the Concordius series. The companion treatment of the Si-Do interval is Paper 27½.*
+*Paper G2½ of the Concordius series. The companion treatment of the Si-Do interval is Paper G5½.*
 
 ---
 
-*[[Paper 25 - Man No. 4|Paper 25 — Man No. 4]] →*
+*[[Paper G3: Man No. 4|Paper G3: Man No. 4]] →*

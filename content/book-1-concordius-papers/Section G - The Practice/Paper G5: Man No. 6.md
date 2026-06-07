@@ -1,6 +1,6 @@
-*← [[Paper 26 - Man No. 5|Paper 26 — Man No. 5]]*
+*← [[Paper G4: Man No. 5|Paper G4: Man No. 5]]*
 
-# Paper 27 — Man No. 6
+# Paper G5: Man No. 6
 
 *Concordius Structural Series — Section G: The Practice*
 
@@ -117,13 +117,13 @@ The great Man 6 figures are consistently in complex relationships with the insti
 **OQ3: The community of Man 6 beings in the current civilizational Si/Do interval**
 Paper 20 identified the current moment as the Si/Do interval of the historical [[Appendix I - Dictionary of Terms#Octave|octave]]: the corporate catching structure is absent; the [[Appendix I - Dictionary of Terms#Noise Floor|noise floor]] is at its civilizational peak; the [[Appendix I - Dictionary of Terms#Quarantine Condition|quarantine condition]] imposes a surcharge. The question: does the current Si/Do interval affect the Man 6 terrain, and if so how? The preliminary position: the Man 6 terrain is less affected by the civilizational noise floor than the Man 1-4 terrain, because the higher centers' contact is not mediated through the H₄₈ civilizational structures the way the lower centers' catching is. Man 6 does not need the Sol-stage corporate catching structure to maintain the higher centers' contact — that contact is sustained by the Adjuster's continuous presence, which is not affected by civilizational conditions. What the current interval does affect is Man 6's transmitting function: the organizational containers through which Man 6 has historically transmitted to persons at lower development levels (the monastery, the Sufi order, the ashram, the school) are absent or calcified. Man 6's transmitting function in the current era must find or create new containers for the descent — which is, structurally, exactly what the philosopher-king's return to the cave requires in a cave whose wall-lights have been turned off.
 
-**OQ4: The relationship between Man 6 and Paper 27½ (Man 7)**
-This paper has described Man 6 as the state in which both higher centers are substantially developed, the Adjuster contact is continuous, the [[Appendix I - Dictionary of Terms#Transmuting Field|transmuting field]] is active, and the kenotic return is the primary work — but in which fallback is still possible. Paper 27½ will describe the state in which fallback is no longer possible. The structural question this paper cannot answer: what constitutes irreversibility? Is it the full fusion of the human will with the Adjuster's direction — the complete alignment that still falls short of Paradise fusion but makes reversal structurally impossible? Is it the development of the higher centers to a level at which their contact cannot be refused? The paper will address this. What the present paper can say: the distinction between Man 6 and Man 7 is not one of achievement — Man 6 has achieved more than most persons in recorded history — but of fixity. Man 7 is Man 6 become irreversible. The content is the same. The [[Appendix I - Dictionary of Terms#Stability|stability]] is different.
+**OQ4: The relationship between Man 6 and Paper G5½ (Man 7)**
+This paper has described Man 6 as the state in which both higher centers are substantially developed, the Adjuster contact is continuous, the [[Appendix I - Dictionary of Terms#Transmuting Field|transmuting field]] is active, and the kenotic return is the primary work — but in which fallback is still possible. Paper G5½ will describe the state in which fallback is no longer possible. The structural question this paper cannot answer: what constitutes irreversibility? Is it the full fusion of the human will with the Adjuster's direction — the complete alignment that still falls short of Paradise fusion but makes reversal structurally impossible? Is it the development of the higher centers to a level at which their contact cannot be refused? The paper will address this. What the present paper can say: the distinction between Man 6 and Man 7 is not one of achievement — Man 6 has achieved more than most persons in recorded history — but of fixity. Man 7 is Man 6 become irreversible. The content is the same. The [[Appendix I - Dictionary of Terms#Stability|stability]] is different.
 
 ---
 
-*Paper 27 of the Concordius series. Section G pauses here. Paper 27½ (Man No. 7) follows after reflection.*
+*Paper G5 of the Concordius series. Section G pauses here. Paper G5½ (Man No. 7) follows after reflection.*
 
 ---
 
-*[[Paper 27 1_2 - The Si-Do Interval|Paper 27½ — The Si-Do Interval]] →*
+*[[Paper G5½: The Si-Do Interval|Paper G5½: The Si-Do Interval]] →*

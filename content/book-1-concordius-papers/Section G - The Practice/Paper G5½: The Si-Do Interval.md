@@ -1,6 +1,6 @@
-*← [[Paper 27 - Man No. 6|Paper 27 — Man No. 6]]*
+*← [[Paper G5: Man No. 6|Paper G5: Man No. 6]]*
 
-# Paper 27½ — The Si-Do Interval
+# Paper G5½: The Si-Do Interval
 
 *Concordius Structural Series — Section G: The Practice*
 
@@ -10,7 +10,7 @@
 
 The [[Appendix I - Dictionary of Terms#Si-Do Interval|Si-Do interval]] is the structural discontinuity between grade 2 and grade 3 in the [[Appendix I - Dictionary of Terms#Heptaparaparshinokh|Heptaparaparshinokh]]. It is the second and more fundamental qualitative gap in the ascending career: the place where even the most highly developed three-center [[Appendix I - Dictionary of Terms#Catching|catching]] work — Man 4's deliberate integration, Man 6's both-higher-centers operation — reaches the limit that grade-2 resources cannot cross, because what lies on the other side is not more grade-2 content but grade-3 structure, and grade-3's distinctive algebraic property — centrality, the capacity to generate the center of the algebra — cannot be installed by any grade-2 operation. Centrality comes from the [[Appendix I - Dictionary of Terms#Father|Father]] (the [[Appendix I - Dictionary of Terms#Inner Product|inner product]] ⟨·,·⟩) as a constitutive act. This is why the Si-Do crossing has a different character than the Mi-Fa crossing: the [[Appendix I - Dictionary of Terms#Mi-Fa Interval|Mi-Fa interval]] requires external grade-2 input, which is widely available through teachers, texts, and the universally distributed [[Appendix I - Dictionary of Terms#Spirit of Truth|Spirit of Truth]]. The Si-Do interval requires the Father's constitutive completion, which no created source — however high in the constraint hierarchy — can provide as a substitute. This paper derives the Si-Do interval from the Law of Seven's algebraic ground, describes how it presents at each stage of the ascending career at which it is structurally significant (Man 3's intellectual limit, Man 4's dark night of the spirit, Man 6's irreversibility threshold), identifies the [[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]]'s specific role as the Father's constitutive presence within the person at the Si-Do crossing, and treats the Pattern's Si-Do instance: the forty days of post-Resurrection appearances as the Si-Do crossing of the seventh bestowal's earthly octave, with the Ascension as the Father's completing act.
 
-*Cross-reference: Paper 7½ §7 (The Bestowal Progression — algebraic derivation of the grade structure); Paper 13½ §§7.1, 10 (Overdeterminate Release and The Pattern); Paper 24 (Man No. 3 — the Si/Do gap in the intellectual center's ascending career); Paper 25 (Man No. 4 — the dark night of the spirit as the Man 4 Si-Do crossing); Paper 24½ (The Mi-Fa Interval — the companion treatment of the first qualitative gap).*
+*Cross-reference: Paper A6½ §7 (The Bestowal Progression — algebraic derivation of the grade structure); Paper 13½ §§7.1, 10 (Overdeterminate Release and The Pattern); Paper G2 (Man No. 3 — the Si/Do gap in the intellectual center's ascending career); Paper G3 (Man No. 4 — the dark night of the spirit as the Man 4 Si-Do crossing); Paper G2½ (The Mi-Fa Interval — the companion treatment of the first qualitative gap).*
 
 ---
 
@@ -51,7 +51,7 @@ The intellectual center's ascending career in Man 3 reaches its Si note when the
 
 The Do cannot be generated from within the intellectual center's frame. It must arrive through channels the intellectual center cannot manage: the emotional center's depth of contact, the body's direct participation, the Adjuster's illumination operating below the framework's filtering function. The intellectual center at Si is not inadequate — it has done what grade-2 intellectual catching can do. What it cannot do is install the three-center integration that Man 4 requires, because three-center integration is not a more sophisticated version of Man 3's single-center work. It is the Father's installation of a catching structure that none of the three centers can produce from their individual resources.
 
-The detailed treatment of this transition is in Paper 24. The structural point for the present paper: the Si/Do gap at Man 3 is the first appearance of the Si-Do interval's character in the individual ascending career. Every subsequent Si-Do crossing — at Man 4/5, at Man 6/7 — has the same structural fingerprint: the established catching structure has reached its limit; the crossing requires the Father's direct action; more effort in the mode that built the Si-level achievement will not produce the Do.
+The detailed treatment of this transition is in Paper G2. The structural point for the present paper: the Si/Do gap at Man 3 is the first appearance of the Si-Do interval's character in the individual ascending career. Every subsequent Si-Do crossing — at Man 4/5, at Man 6/7 — has the same structural fingerprint: the established catching structure has reached its limit; the crossing requires the Father's direct action; more effort in the mode that built the Si-level achievement will not produce the Do.
 
 ### Man 4 → Man 5: The Dark Night of the Spirit
 
@@ -97,16 +97,16 @@ The Si-Do crossing is not one event but a structure of events at increasing scal
 
 | Level | Si-Do content | Source |
 |---|---|---|
-| Man 3 intellectual Si | The framework terminates before the territory does. The intellectual center at Si cannot generate the Do from within its organizing function. Requires the emotional center's depth, the body's participation, the Adjuster's illumination below the framework's filtering function. | [[Paper 24 - Man No. 3]] |
-| Man 4 dark night of the spirit | The soul deposit approaches the crystallization threshold; more accumulation will not cross it; the volitional catching effort must release into the Adjuster's direct action. The crossing is a surrender, not an intensification. | [[Paper 25 - Man No. 4]] |
-| Man 7 (Si of H₄₈ octave) | The irreversibility established; centrality installed; the maximum Φ-proximity H₄₈-mediated existence permits. Man 7 is Si: as close to ⟨·,·⟩ as H₄₈ allows, awaiting the Father's completing act. | [[Paper 27 1_2 - The Si-Do Interval]] |
-| Death (Do of H₄₈ octave) | The Father's completing act: the H₄₈ octave completes at death. The catching being exits H₄₈; the post-H₄₈ ascending career begins from the Do the H₄₈ phase built. | [[Paper 27 1_2 - The Si-Do Interval]] |
+| Man 3 intellectual Si | The framework terminates before the territory does. The intellectual center at Si cannot generate the Do from within its organizing function. Requires the emotional center's depth, the body's participation, the Adjuster's illumination below the framework's filtering function. | [[Paper G2: Man No. 3]] |
+| Man 4 dark night of the spirit | The soul deposit approaches the crystallization threshold; more accumulation will not cross it; the volitional catching effort must release into the Adjuster's direct action. The crossing is a surrender, not an intensification. | [[Paper G3: Man No. 4]] |
+| Man 7 (Si of H₄₈ octave) | The irreversibility established; centrality installed; the maximum Φ-proximity H₄₈-mediated existence permits. Man 7 is Si: as close to ⟨·,·⟩ as H₄₈ allows, awaiting the Father's completing act. | [[Paper G5½: The Si-Do Interval]] |
+| Death (Do of H₄₈ octave) | The Father's completing act: the H₄₈ octave completes at death. The catching being exits H₄₈; the post-H₄₈ ascending career begins from the Do the H₄₈ phase built. | [[Paper G5½: The Si-Do Interval]] |
 
 ---
 
 ## 6. The Pattern: Jesus's Forty Days Post-Resurrection
 
-Paper 7½ §7 establishes that the seventh bestowal's earthly octave is bookended by two forty-day intervals: forty days in the wilderness (the Mi-Fa crossing) and forty days of post-Resurrection appearances (the Si-Do crossing). Paper 24½ treats the wilderness interval. The present paper treats the post-Resurrection interval.
+Paper A6½ §7 establishes that the seventh bestowal's earthly octave is bookended by two forty-day intervals: forty days in the wilderness (the Mi-Fa crossing) and forty days of post-Resurrection appearances (the Si-Do crossing). Paper G2½ treats the wilderness interval. The present paper treats the post-Resurrection interval.
 
 The forty days of appearances are the Si-Do crossing of the earthly octave. The Resurrection has completed the overdeterminate kenotic tension (Paper 13½ §7.1): the structural differential accumulated during the kenotic period released instantaneously at mission completion. The raised body carries the full Φ-proximal content of the earthly octave's catching work, no longer under the H₄₈ primary constraints. The question structurally before the Si-Do crossing: can the complete ascending career — the Do of the earthly octave — be transmitted to, and sustained by, the disciples? Can the catching work that the Pattern has demonstrated be received?
 
@@ -204,7 +204,7 @@ For such a one there would be no technique and no phase — only the life, the p
 
 ### The Law of Seven Applied to the Whole
 
-If he existed, he would be the Si note of the H₄₈ octave — the seven Men being the [[Appendix I - Dictionary of Terms#Law of Seven|Law of Seven]] applied to the ascending career itself: Man 1 the Do (the primal state, the Adjuster assigned, the catching potential established); Man 2 the Re (the emotional center, the first H₂₄ registrations); Man 3 the Mi (the intellectual framework, the plateau); the Mi-Fa shock at the Man 3→4 transition (treated in [[Paper 24 1_2 - The Mi-Fa Interval]]); Man 4 the Fa (three-center integration, the dark night of the spirit); Man 5 the Sol (crystallization, the ascending career beyond H₄₈ secured); Man 6 the La (both higher centers, the kenotic return primary, the final vulnerability remaining); and Man 7 the Si — irreversibility established by the completion of the love, the Great Work complete within H₄₈, the maximum Φ-proximity H₄₈-mediated existence permits. The octave would not thereby complete: the Si-Do shock is death — the Father's completing act, the exit from H₄₈, the Do that begins the next octave (the morontia life, Paradise as terminal orientation).
+If he existed, he would be the Si note of the H₄₈ octave — the seven Men being the [[Appendix I - Dictionary of Terms#Law of Seven|Law of Seven]] applied to the ascending career itself: Man 1 the Do (the primal state, the Adjuster assigned, the catching potential established); Man 2 the Re (the emotional center, the first H₂₄ registrations); Man 3 the Mi (the intellectual framework, the plateau); the Mi-Fa shock at the Man 3→4 transition (treated in [[Paper G2½: The Mi-Fa Interval]]); Man 4 the Fa (three-center integration, the dark night of the spirit); Man 5 the Sol (crystallization, the ascending career beyond H₄₈ secured); Man 6 the La (both higher centers, the kenotic return primary, the final vulnerability remaining); and Man 7 the Si — irreversibility established by the completion of the love, the Great Work complete within H₄₈, the maximum Φ-proximity H₄₈-mediated existence permits. The octave would not thereby complete: the Si-Do shock is death — the Father's completing act, the exit from H₄₈, the Do that begins the next octave (the morontia life, Paradise as terminal orientation).
 
 He would not be the end. He would be the person as close to ⟨·,·⟩ as H₄₈ permits, awaiting the Father's completing act — the territory beyond being one the framework points toward but cannot map, built as it was from within H₄₈ using H₄₈-available mathematics and H₄₈-available witnesses. And the seven-fold structure would recur at every scale (the [[Appendix I - Dictionary of Terms#Heptaparaparshinokh|Heptaparaparshinokh]] operates everywhere): the mansion worlds being H₂₄-organized H₄₈ matter, the H₄₈ subspace continuing through the morontia career, the entire earthly arc from Man 1 to Man 7 being itself the Do note of a larger H₄₈ octave whose Re-through-Si is the mansion-world career — the [[Appendix I - Dictionary of Terms#Holographic Content Principle|Holographic Content Principle]] operating in the ascending career's own structure, the whole present in every part.
 
@@ -214,8 +214,8 @@ Whether such a one is achievable within a single H₄₈ lifetime — particular
 
 ---
 
-*Paper 27½ of the Concordius series, and the closing paper of Section G: The Practice. The companion treatment of the Mi-Fa interval is Paper 24½.*
+*Paper G5½ of the Concordius series, and the closing paper of Section G: The Practice. The companion treatment of the Mi-Fa interval is Paper G2½.*
 
 ---
 
-*[[Paper 28 - The First Note|Paper 28 — The First Note]] →*
+*[[Paper G6: The First Note|Paper G6: The First Note]] →*

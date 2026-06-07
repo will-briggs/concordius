@@ -20,4 +20,4 @@ The Heropass dimension is implicit but present. Everything you were waiting for 
 
 ---
 
-*See also: [[Paper 3 - The Big Bang|Paper 3 — The Big Bang]], Reasonablenessism [[Feature 6 - Convergence of Independent Witnesses|Feature 6]].*
+*See also: [[Paper A2: The Big Bang|Paper A2: The Big Bang]], Reasonablenessism [[Feature 6 - Convergence of Independent Witnesses|Feature 6]].*

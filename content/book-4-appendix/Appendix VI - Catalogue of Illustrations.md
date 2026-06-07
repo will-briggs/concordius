@@ -18,28 +18,28 @@ title: Appendix VI - Catalogue of Illustrations
 **Section A - The Foundation — index**
 - *Masaccio, The Trinity* (c. 1427–28) &nbsp;·&nbsp; `masaccio-trinity.jpg`
 
-**Paper 1 - Modeling Reality as a Gelfand Triple**
+**Paper A0: Modeling Reality as a Gelfand Triple**
 - *Raphael, The School of Athens* (1509–11) &nbsp;·&nbsp; `raphael-school-of-athens.jpg`
 
-**Paper 2 - From the Cogito to the Logos**
+**Paper A1: From the Cogito to the Logos**
 - *Antonello da Messina, St. Jerome in His Study* (c. 1474–75) &nbsp;·&nbsp; `antonello-jerome-study.jpg`
 
 **Paper 3 - Coordinative Actualization**
 - *J. M. W. Turner, Light and Colour (Goethe's Theory) — The Morning after the Deluge — Moses Writing the Book of Genesis* (1843) &nbsp;·&nbsp; `turner-light-and-colour.jpg`
 
-**Paper 3 1_2 - The Constraint Cascade**
+**Paper A2½: The Constraint Cascade**
 - *William Blake, The Ancient of Days* (1794) &nbsp;·&nbsp; `blake-ancient-of-days.jpg`
 
-**Paper 4 - The Son Articulates**
+**Paper A3: The Son Articulates**
 - *Christ Pantocrator* &nbsp;·&nbsp; `pantocrator-cefalu.jpg`
 
-**Paper 5 - The Long Ascent**
+**Paper A4: The Long Ascent**
 - *É. L. Trouvelot, The Great Nebula in Orion* (1882) &nbsp;·&nbsp; `trouvelot-orion-nebula.jpg`
 
-**Paper 6 - The Cogito Coheres**
+**Paper A5: The Cogito Coheres**
 - *Hildegard von Bingen receiving the vision* &nbsp;·&nbsp; `hildegard-scivias.jpg`
 
-**Paper 6 1_2 - Love's Descent**
+**Paper A6½: Love's Descent**
 - *Geertgen tot Sint Jans, The Nativity at Night* (c. 1490) &nbsp;·&nbsp; `geertgen-nativity-night.jpg`
 
 **Paper 7 - What We Know**
@@ -102,31 +102,31 @@ title: Appendix VI - Catalogue of Illustrations
 **Section G - The Practice — index**
 - *William Blake, Glad Day / The Dance of Albion* (c. 1796) &nbsp;·&nbsp; `blake-glad-day.jpg`
 
-**Paper 22 - Man No. 1**
+**Paper G0: Man No. 1**
 - *Polychrome Bison* &nbsp;·&nbsp; `altamira-bison.jpg`
 
-**Paper 23 - Man No. 2**
+**Paper G1: Man No. 2**
 - *Giotto di Bondone, The Lamentation of Christ* (c. 1305) &nbsp;·&nbsp; `giotto-lamentation.jpg`
 
-**Paper 24 - Man No. 3**
+**Paper G2: Man No. 3**
 - *Hans Holbein the Younger, Portrait of Erasmus of Rotterdam* (c. 1523) &nbsp;·&nbsp; `holbein-erasmus.jpg`
 
-**Paper 24 1_2 - The Mi-Fa Interval**
+**Paper G2½: The Mi-Fa Interval**
 - *William Blake, Satan Smiting Job with Sore Boils* (c. 1826) &nbsp;·&nbsp; `blake-satan-job.jpg`
 
-**Paper 25 - Man No. 4**
+**Paper G3: Man No. 4**
 - *Andrei Rublev, Trinity Icon* (c. 1410) &nbsp;·&nbsp; `rublev-trinity.jpg`
 
-**Paper 26 - Man No. 5**
+**Paper G4: Man No. 5**
 - *El Greco, The Burial of the Count of Orgaz* (1586–88) &nbsp;·&nbsp; `el-greco-burial.jpg`
 
-**Paper 27 - Man No. 6**
+**Paper G5: Man No. 6**
 - *Gian Lorenzo Bernini, The Ecstasy of Saint Teresa* (1647–52) &nbsp;·&nbsp; `bernini-ecstasy.jpg`
 
-**Paper 27 1_2 - The Si-Do Interval**
+**Paper G5½: The Si-Do Interval**
 - *Rembrandt van Rijn, The Return of the Prodigal Son* (c. 1668) &nbsp;·&nbsp; `rembrandt-prodigal-son.jpg`
 
-**Paper 27 1_2 - The Si-Do Interval**
+**Paper G5½: The Si-Do Interval**
 - *William Blake, The Great Red Dragon and the Woman Clothed with the Sun* (c. 1803–05) &nbsp;·&nbsp; `blake-great-red-dragon.jpg`
 
 ## Book 2 — Reasonablenessism

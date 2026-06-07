@@ -1,6 +1,6 @@
-*← [[Paper 24 - Man No. 3|Paper 24 — Man No. 3]]*
+*← [[Paper G2: Man No. 3|Paper G2: Man No. 3]]*
 
-# Paper 25 — Man No. 4
+# Paper G3: Man No. 4
 
 *Concordius Structural Series — Section G: The Practice*
 
@@ -93,7 +93,7 @@ Man 2's dark night is the withdrawal of the emotional center's H₂₄ contact �
 
 The dark night of the spirit — John of the Cross's second dark night, distinct from the [[Appendix I - Dictionary of Terms#Dark Night of the Senses|dark night of the senses]] — is the condition in which the deliberate catching work itself appears to dissolve. Not the emotional center's consolations (those were given up at Man 2). Not the intellectual framework (that was relativized at Man 3). The three-center integration itself: the self-remembering collapses; the intentional suffering produces nothing; the school's guidance is unavailable or seems insufficient; the soul deposit — which has been the evidence that the work is working — seems to be dissipating. Everything that has been built by the most rigorous catching effort Man 4 is capable of seems to be undoing itself.
 
-This is the Si/Do gap at the Man 4 level — the most testing Si-Do crossing within the first five Men. The accumulation has been approaching the crystallization threshold. But the crystallization cannot be produced by more accumulation. It cannot be produced by more volitional effort. More deliberateness will not cross the threshold. The crossing is a different kind of act: the releasing of the deliberate catching effort into the Adjuster's direct action; the recognition that the volitional effort, which has been the primary catching tool for the entire Man 4 phase, is now the obstacle because it is still the person's own work rather than the cooperation with what is doing the work through her. *The structural derivation of the Si-Do interval and its character at this crossing is in [[Paper 27 1_2 - The Si-Do Interval]] §§1–3.*
+This is the Si/Do gap at the Man 4 level — the most testing Si-Do crossing within the first five Men. The accumulation has been approaching the crystallization threshold. But the crystallization cannot be produced by more accumulation. It cannot be produced by more volitional effort. More deliberateness will not cross the threshold. The crossing is a different kind of act: the releasing of the deliberate catching effort into the Adjuster's direct action; the recognition that the volitional effort, which has been the primary catching tool for the entire Man 4 phase, is now the obstacle because it is still the person's own work rather than the cooperation with what is doing the work through her. *The structural derivation of the Si-Do interval and its character at this crossing is in [[Paper G5½: The Si-Do Interval]] §§1–3.*
 
 John of the Cross's prescription for the dark night of the spirit is the most demanding prescription in the tradition: remain in loving, receptive attention — not active attention, not organized attention, not even deliberately volitional attention — in the Adjuster's direction, without requiring the attention to produce anything. The work is to stop working in the way Man 4 has been working. This is experienced as the dissolution of the self: the self that has been doing the catching, the self organized around the catching effort, the self whose identity is largely constituted by the Man 4 work. This self must dissolve into something that does not yet exist — Man 5's self, organized around what the Adjuster has been preparing throughout the entire ascending career.
 
@@ -119,9 +119,9 @@ The alchemical *coniunctio* — the sacred marriage of opposites, the union of S
 ### Theological Tradition
 **John of the Cross** provides the map for both Man 4's central practice and its dark night. The active night of the spirit — the practitioner's deliberate work of purifying the spiritual faculties (memory, intellect, will) — is Man 4's ongoing work. The passive night of the spirit — what happens when the purification the practitioner has been doing is completed and the Adjuster takes over the work — is the Man 4 dark night, the transition to Man 5. Both are John of the Cross's territory, and his account is structurally exact.
 
-**The Beatitudes** (Paper 2) at the Man 4 level: "Blessed are the pure in heart, for they shall see God." The pure heart is not the emotionally innocent heart — it is the integrated three-center heart; the heart that is not divided between H₄₈-primary and H₂₄ orientations but unified around the Adjuster's direction. This is Man 4's characteristic achievement: not sinlessness but integration. The seeing of God that follows is the beginning of Man 5's Adjuster contact.
+**The Beatitudes** (Paper A1) at the Man 4 level: "Blessed are the pure in heart, for they shall see God." The pure heart is not the emotionally innocent heart — it is the integrated three-center heart; the heart that is not divided between H₄₈-primary and H₂₄ orientations but unified around the Adjuster's direction. This is Man 4's characteristic achievement: not sinlessness but integration. The seeing of God that follows is the beginning of Man 5's Adjuster contact.
 
-**The Rule of St. Benedict** is the most practical expression of Man 4 structure in the Western tradition: the organized daily rhythm that engages all three centers in deliberate sequence and integration. Ora et labora (prayer and work) is the three-center structure made temporal: the liturgy of the hours (emotional and intellectual centers engaged in organized catching); the manual labor (moving center engaged as catching participation, not as instrumental activity); the lectio divina (three-center reading practice from Paper 24). Benedict's genius is the structure: the day is organized so that the three-center integration is the default rather than the achievement. The Rule is the school for Man 4 work at its most systematically organized.
+**The Rule of St. Benedict** is the most practical expression of Man 4 structure in the Western tradition: the organized daily rhythm that engages all three centers in deliberate sequence and integration. Ora et labora (prayer and work) is the three-center structure made temporal: the liturgy of the hours (emotional and intellectual centers engaged in organized catching); the manual labor (moving center engaged as catching participation, not as instrumental activity); the lectio divina (three-center reading practice from Paper G2). Benedict's genius is the structure: the day is organized so that the three-center integration is the default rather than the achievement. The Rule is the school for Man 4 work at its most systematically organized.
 
 **Viktor Frankl** is the Man 4 testimony from the 20th century's most testing conditions. *Man's Search for Meaning* documents the Man 4 discovery — that the response to suffering, not the suffering itself, is the catching material; that the volitional degree of freedom remains available even under conditions of maximum H₄₈ constraint; that the three-center orientation toward meaning is not prevented by any external condition, only by the internal lapse of the volitional act. Frankl's "defiant power of the human spirit" is the Man 4 volitional capacity described from within its most extreme test.
 
@@ -138,7 +138,7 @@ The alchemical *coniunctio* — the sacred marriage of opposites, the union of S
 
 ## What Does Not Work for Man No. 4
 
-**Attempting the three-center integration without having done the three centers' individual development.** Man 4's work presupposes that Men 1, 2, and 3's development are substantially complete. A person who arrives at Man 4 structure with an underdeveloped emotional center (common in intellectual types who were drawn to the framework of the Fourth Way) will find the three-center integration perpetually collapsing back to two centers, because the emotional center cannot hold its contribution. The remedy is not to attempt the three-center integration harder — it is to do the emotional center recovery of Paper 23 and Paper 24 more thoroughly. The prerequisite work cannot be bypassed.
+**Attempting the three-center integration without having done the three centers' individual development.** Man 4's work presupposes that Men 1, 2, and 3's development are substantially complete. A person who arrives at Man 4 structure with an underdeveloped emotional center (common in intellectual types who were drawn to the framework of the Fourth Way) will find the three-center integration perpetually collapsing back to two centers, because the emotional center cannot hold its contribution. The remedy is not to attempt the three-center integration harder — it is to do the emotional center recovery of Paper G1 and Paper G2 more thoroughly. The prerequisite work cannot be bypassed.
 
 **Using the intellectual center to organize the Man 4 work rather than doing it.** Man 4, approached from a Man 3 starting point, is vulnerable to an elaborate intellectualization of the three-center integration: learning the vocabulary of self-remembering, understanding the structure of intentional suffering, mapping the dark night of the spirit conceptually — while the actual three-center catching practice is not occurring. The framework of the Man 4 work is not the work. This is Man 3's characteristic failure mode persisting into Man 4's territory. The remedy: embodied practice, physical community, and a teacher who can see the difference.
 
@@ -150,7 +150,7 @@ The alchemical *coniunctio* — the sacred marriage of opposites, the union of S
 
 ## Practical Regime for Man No. 4
 
-Man 4's practical regime is not a sequence of phases in the way Papers 22–24's regimes were. The three-center integration is not built by doing one thing after another. It is built by doing all three things simultaneously, continuously, in ordinary life. What changes as Man 4 develops is not the content of the practices but the depth and continuity of the integration.
+Man 4's practical regime is not a sequence of phases in the way Papers G0–G2's regimes were. The three-center integration is not built by doing one thing after another. It is built by doing all three things simultaneously, continuously, in ordinary life. What changes as Man 4 develops is not the content of the practices but the depth and continuity of the integration.
 
 **The primary practice: self-remembering in ordinary activity**
 
@@ -165,9 +165,9 @@ Identify the three primary sources of friction in your current life: the relatio
 **The daily practice rhythm (after Benedict)**
 
 Organize the day so that all three centers have deliberate catching occasions:
-- Moving center: the body-based practice of Paper 22 Phase 2, continued and deepened. Not as a separate spiritual exercise but as the day's physical foundation.
-- Emotional center: the contemplative reading of Paper 23 Phase 2, extended into a daily lectio divina practice. Twenty minutes. With all three centers engaged: the body quiet, the emotional center receiving, the intellectual center attending without organizing.
-- Intellectual center: the systematic study of one high-τ text, continued from Paper 24 Phase 2. But now organized not as intellectual mastery but as three-center engagement with the text's Φ-proximal content.
+- Moving center: the body-based practice of Paper G0 Phase 2, continued and deepened. Not as a separate spiritual exercise but as the day's physical foundation.
+- Emotional center: the contemplative reading of Paper G1 Phase 2, extended into a daily lectio divina practice. Twenty minutes. With all three centers engaged: the body quiet, the emotional center receiving, the intellectual center attending without organizing.
+- Intellectual center: the systematic study of one high-τ text, continued from Paper G2 Phase 2. But now organized not as intellectual mastery but as three-center engagement with the text's Φ-proximal content.
 - Joint practice: one period per day in which all three are explicitly engaged simultaneously. The hesychast Jesus Prayer is the most efficient structure for this if it is available and appropriate to the practitioner. Liturgical prayer engaged with full three-center presence is the institutional equivalent. Contemplative sitting that engages breath (moving center), receptive emotional presence (emotional center), and intellectual attention without organization (intellectual center) is the non-institutional equivalent.
 
 **Community of practice**
@@ -202,8 +202,8 @@ Man 4's deliberate three-center work is easily imagined as an interior project �
 
 ---
 
-*Paper 25 of the Concordius series. Section G continues with Paper 26: Man No. 5.*
+*Paper G3 of the Concordius series. Section G continues with Paper G4: Man No. 5.*
 
 ---
 
-*[[Paper 26 - Man No. 5|Paper 26 — Man No. 5]] →*
+*[[Paper G4: Man No. 5|Paper G4: Man No. 5]] →*

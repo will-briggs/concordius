@@ -55,4 +55,4 @@ The subsequent Hermetic texts (CH IV, XIII, and others) elaborate the forms of g
 
 ---
 
-*(Cross-reference: The Alchemical Tradition.md — prima materia, Hermes Trismegistus as principle, solve et coagula; [[Concordance/PC2 — Gurdjieff and Spiritual Progression]] — Table of Hydrogens, the ascending and descending octaves; Paper 1 (GNST); the Heropass in Paper 3½; Paper 4 — The Son Articulates: The Word and the Forming of the World; [[Signal and Noise]] — Noise Floor, Catching, Soul Deposit.)*
+*(Cross-reference: The Alchemical Tradition.md — prima materia, Hermes Trismegistus as principle, solve et coagula; [[Concordance/PC2 — Gurdjieff and Spiritual Progression]] — Table of Hydrogens, the ascending and descending octaves; Paper 1 (GNST); the Heropass in Paper 3½; Paper A3: The Son Articulates: The Word and the Forming of the World; [[Signal and Noise]] — Noise Floor, Catching, Soul Deposit.)*

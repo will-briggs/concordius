@@ -1,10 +1,10 @@
-*← [[Paper 6 - The Cogito Coheres|Paper 6 — The Living Soul]]*
+*← [[Paper A5: The Cogito Coheres|Paper A5 — The Living Soul]]*
 
 # The Life: The Form of a Servant
 
-*Paper 7 of Section A. The three lenses — the Word, the body, the soul — each carried one arc from the forming of the world to a single birth. This paper follows the one life that begins there, told not in three views but as one story, and the story is humility itself: the One through whom all things were made, entered as an infant from outside, living downward — the form of God taken into the form of a servant — to the cry. The three faces of the death the earlier lenses set aside meet here, at the cross, in one life. Companion to Papers 4–6 (which end at the birth) and Paper 7½ (the tomb the cry hands on to).*
+*Paper A6 of Section A. The three lenses — the Word, the body, the soul — each carried one arc from the forming of the world to a single birth. This paper follows the one life that begins there, told not in three views but as one story, and the story is humility itself: the One through whom all things were made, entered as an infant from outside, living downward — the form of God taken into the form of a servant — to the cry. The three faces of the death the earlier lenses set aside meet here, at the cross, in one life. Companion to Papers A3–A5 (which end at the birth) and Paper A6½ (the tomb the cry hands on to).*
 
-*Status: mostly testimony, held as testimony — the life as the Gospels hand it down, no more surely than they can. The structural readings gathered at the cross are concordance with the derived structure, at their tiers: the cry at the antipode of the felt-spectrum (e₁e₂ squared to −1, Paper 4); the death real and not annihilation (Paper 5); the consummation as a breath freely returned (Paper 6). The spine is the kenotic hymn (Philippians 2), read as the shape of humility.*
+*Status: mostly testimony, held as testimony — the life as the Gospels hand it down, no more surely than they can. The structural readings gathered at the cross are concordance with the derived structure, at their tiers: the cry at the antipode of the felt-spectrum (e₁e₂ squared to −1, Paper A3); the death real and not annihilation (Paper A4); the consummation as a breath freely returned (Paper A5). The spine is the kenotic hymn (Philippians 2), read as the shape of humility.*
 
 ---
 
@@ -28,7 +28,7 @@
 
 The three lenses each ended at a birth, and they ended there together because the birth is not the middle of the climb but a break in it — a thing that enters from outside the closed arc the earlier papers traced. Creation, left to itself, produces no such entrance; a world articulated, grown, and woken does not, of its own motion, receive its own Maker as one of its members. That had to come in from beyond the sequence, and it did, the way the only other turns that matter in this series come — not generated from within but given from without. The Incarnation is the smaller of the two such entrances the section contains. It is the quieter one, and it comes first.
 
-And it comes small. This is the first thing to say about the life, because it sets the key for all of it: the entrance from outside is an infant, born to a young woman in an occupied province, laid in a feeding-trough because there was no room (Luke 2:7). The One through whom every form was conferred enters the formed world with no form anyone would notice — no station, no power, nothing the world counts. The descent the framework has tracked since Paper 3½ — Φ rendered into the high-constraint register of H₄₈, the most accurate state the human level can carry — is lived, from its first instant, as *lowliness*. The structure called it densification; the life calls it humility; they are the same motion. To be born is already to begin the self-emptying the whole life will be.
+And it comes small. This is the first thing to say about the life, because it sets the key for all of it: the entrance from outside is an infant, born to a young woman in an occupied province, laid in a feeding-trough because there was no room (Luke 2:7). The One through whom every form was conferred enters the formed world with no form anyone would notice — no station, no power, nothing the world counts. The descent the framework has tracked since Paper A2½ — Φ rendered into the high-constraint register of H₄₈, the most accurate state the human level can carry — is lived, from its first instant, as *lowliness*. The structure called it densification; the life calls it humility; they are the same motion. To be born is already to begin the self-emptying the whole life will be.
 
 ---
 
@@ -74,10 +74,10 @@ One thing remains to be said before the stone, and it is the consolation the who
 
 ## References
 
-1. **Companion papers:** Papers 4–6 (the three lenses, each ending at the birth — the Word made flesh, the body born, the someone born); Paper 3½ (descent as densification; the kenotic mechanism); Paper 7½ (the tomb); Paper 8 (the morning). Appendix I (the felt-spectrum; the antipode at −1).
+1. **Companion papers:** Papers A3–A5 (the three lenses, each ending at the birth — the Word made flesh, the body born, the someone born); Paper A2½ (descent as densification; the kenotic mechanism); Paper A6½ (the tomb); Paper A7 (the morning). Appendix I (the felt-spectrum; the antipode at −1).
 
 2. **Scripture:** Philippians 2:6–8 (the kenotic hymn, the spine); Luke 2:7 (the birth); Mark 10:45; John 13:4–15 (the washing of feet); Luke 9:51; Zechariah 9:9, Matthew 21:5 (the entry); Luke 22:19–20 (the supper); Luke 22:42–44 (Gethsemane); John 19:30 (*tetelestai*); Luke 23:46 (the commended spirit); Mark 15:34, Psalm 22:1 (the cry); John 11:5, 13:23; Luke 10:21; John 15:11 (the felt life).
 
 ---
 
-*[[Paper 7 1_2 - Love's Descent|Paper 7½ — Love's Descent: The Three Days in the Tomb]] →*
+*[[Paper A6½: Love's Descent|Paper A6½: Love's Descent: The Three Days in the Tomb]] →*

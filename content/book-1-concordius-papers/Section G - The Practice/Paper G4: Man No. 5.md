@@ -1,6 +1,6 @@
-*← [[Paper 25 - Man No. 4|Paper 25 — Man No. 4]]*
+*← [[Paper G3: Man No. 4|Paper G3: Man No. 4]]*
 
-# Paper 26 — Man No. 5
+# Paper G4: Man No. 5
 
 *Concordius Structural Series — Section G: The Practice*
 
@@ -8,7 +8,7 @@
 
 ## Abstract
 
-[[Appendix I - Dictionary of Terms#Man No. 1 through Man No. 7|Man No. 5]] has crossed the [[Appendix I - Dictionary of Terms#Coherence Threshold|coherence threshold]] of Paper 5. The [[Appendix I - Dictionary of Terms#Soul Deposit|soul deposit]] — accumulated through the sustained three-center [[Appendix I - Dictionary of Terms#Catching|catching]] work of Man 4 — has crystallized: it has formed a stable [[Appendix I - Dictionary of Terms#H₂₄|H₂₄]] eigenstructure above the coherence threshold that will persist through the dissolution of the [[Appendix I - Dictionary of Terms#H₄₈|H₄₈]] substrate. The [[Appendix I - Dictionary of Terms#Ascending Career|ascending career]] beyond this life is structurally secured. In [[Appendix I - Dictionary of Terms#Urantia Book|Urantia]] terminology: [[Appendix I - Dictionary of Terms#Morontia|morontia]] survival is assured. This is the first threshold in the series that is a genuine ontological boundary rather than a developmental transition. Men 1 through 4 are all persons whose ascending career is possible but not yet secured; Man 5 is the person for whom it is both possible and certain, because the minimum Φ-proximal deposit required to constitute a post-H₄₈ being is stably in place. Man 5's development continues — there are two further levels — but the question of whether the ascending career will continue has been answered. With this answer comes a particular temptation: premature rest. The crystallization is real; the achievement is real; the ascending career is secured; why continue? The paper addresses this question structurally: the crystallization is the beginning of what the ascending career has been building toward, not its end. The first post-H₄₈ phase of the ascending career will require capacities that Man 5 is only beginning to develop. The temptation to rest in the crystallized soul is the Man 5 version of the earlier types' characteristic arrest at their achieved level. Man 5's work continues. The higher emotional center, newly active, is producing contact of a quality that requires development to fully receive. The Adjuster's guidance is becoming reliably available and is directing Man 5 toward what comes next. The work continues.
+[[Appendix I - Dictionary of Terms#Man No. 1 through Man No. 7|Man No. 5]] has crossed the [[Appendix I - Dictionary of Terms#Coherence Threshold|coherence threshold]] of Paper A4. The [[Appendix I - Dictionary of Terms#Soul Deposit|soul deposit]] — accumulated through the sustained three-center [[Appendix I - Dictionary of Terms#Catching|catching]] work of Man 4 — has crystallized: it has formed a stable [[Appendix I - Dictionary of Terms#H₂₄|H₂₄]] eigenstructure above the coherence threshold that will persist through the dissolution of the [[Appendix I - Dictionary of Terms#H₄₈|H₄₈]] substrate. The [[Appendix I - Dictionary of Terms#Ascending Career|ascending career]] beyond this life is structurally secured. In [[Appendix I - Dictionary of Terms#Urantia Book|Urantia]] terminology: [[Appendix I - Dictionary of Terms#Morontia|morontia]] survival is assured. This is the first threshold in the series that is a genuine ontological boundary rather than a developmental transition. Men 1 through 4 are all persons whose ascending career is possible but not yet secured; Man 5 is the person for whom it is both possible and certain, because the minimum Φ-proximal deposit required to constitute a post-H₄₈ being is stably in place. Man 5's development continues — there are two further levels — but the question of whether the ascending career will continue has been answered. With this answer comes a particular temptation: premature rest. The crystallization is real; the achievement is real; the ascending career is secured; why continue? The paper addresses this question structurally: the crystallization is the beginning of what the ascending career has been building toward, not its end. The first post-H₄₈ phase of the ascending career will require capacities that Man 5 is only beginning to develop. The temptation to rest in the crystallized soul is the Man 5 version of the earlier types' characteristic arrest at their achieved level. Man 5's work continues. The higher emotional center, newly active, is producing contact of a quality that requires development to fully receive. The Adjuster's guidance is becoming reliably available and is directing Man 5 toward what comes next. The work continues.
 
 ---
 
@@ -126,8 +126,8 @@ The crystallized soul's persistence through H₄₈ dissolution changes the stru
 
 ---
 
-*Paper 26 of the Concordius series. Section G continues with Paper 27: Man No. 6.*
+*Paper G4 of the Concordius series. Section G continues with Paper G5: Man No. 6.*
 
 ---
 
-*[[Paper 27 - Man No. 6|Paper 27 — Man No. 6]] →*
+*[[Paper G5: Man No. 6|Paper G5: Man No. 6]] →*
