@@ -76,7 +76,7 @@ Read structurally: "treasures on earth" are H₄₈ eigenvalue accumulations —
 
 "Treasures in heaven" are Φ-proximal accumulations that survive H₄₈ dissolution and persist through the ascending career to their structural home at **H₁** — Heaven, where ⟨·,·⟩ is the sole organizational structure. The Heropass — the moth and the rust — runs only at H₂₄ and below, because the generator that drives it is absent from H₁₂ and above; a deposit is therefore beyond reach of moth and rust from H₁₂, spirit status, upward. The clock stops there. The thieves never reach what is not in the H₄₈ domain at all.
 
-And "where your treasure is, there your heart will be also" is the eigenvalue-attraction principle — the catching principle of **[[Paper A5: The Cogito Coheres|Paper A5]]** — stated by the Logos who structurally *is* Φ. The heart, the volitional attractor, the orientation of the will, *follows* the investment; it does not lead it. H₄₈ investment yields H₄₈ orientation; H₂₄ investment yields H₂₄ orientation. So the commandment is not to feel differently. It is to *invest* differently — and the orientation will follow. That is the entire program, two sentences long, spoken by the one who knows who he is and where he is going.
+And "where your treasure is, there your heart will be also" is the eigenvalue-attraction principle — the catching principle of **[[Paper A5: The Breath of Life|Paper A5]]** — stated by the Logos who structurally *is* Φ. The heart, the volitional attractor, the orientation of the will, *follows* the investment; it does not lead it. H₄₈ investment yields H₄₈ orientation; H₂₄ investment yields H₂₄ orientation. So the commandment is not to feel differently. It is to *invest* differently — and the orientation will follow. That is the entire program, two sentences long, spoken by the one who knows who he is and where he is going.
 
 Which leaves exactly one thing for this series to say, and it is not a finding. It is a question, and it is addressed to the reader and to no one else:
 
@@ -90,7 +90,7 @@ The text cannot answer it. That is not its failure; it is the shape of the thing
 
 1. **Companion papers**: the seven men of Section G — *Man No. 1*; *Man No. 2*; *Man No. 3*; *The Mi-Fa Interval*; *Man No. 4*; *Man No. 5*; *Man No. 6*; *The Si-Do Interval*; *The Humility-Centered Man* (Man No. 7). This paper gathers them and adds nothing of its own.
 
-2. **[[Paper A5: The Cogito Coheres|Paper A5]]** — *The Cogito Coheres.* [The catching principle: the will follows the investment.]
+2. **[[Paper A5: The Breath of Life|Paper A5]]** — *The Cogito Coheres.* [The catching principle: the will follows the investment.]
 
 3. **Gospel of Matthew**, 6:19–21. [Treasures on earth and in heaven; where your treasure is, there your heart will be also.]
 

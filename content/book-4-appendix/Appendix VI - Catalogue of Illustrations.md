@@ -30,13 +30,13 @@ title: Appendix VI - Catalogue of Illustrations
 **Paper A2½: The Constraint Cascade**
 - *William Blake, The Ancient of Days* (1794) &nbsp;·&nbsp; `blake-ancient-of-days.jpg`
 
-**Paper A3: The Son Articulates**
+**Paper A3: The Word Made Flesh**
 - *Christ Pantocrator* &nbsp;·&nbsp; `pantocrator-cefalu.jpg`
 
-**Paper A4: The Long Ascent**
+**Paper A4: The Ascent of Man**
 - *É. L. Trouvelot, The Great Nebula in Orion* (1882) &nbsp;·&nbsp; `trouvelot-orion-nebula.jpg`
 
-**Paper A5: The Cogito Coheres**
+**Paper A5: The Breath of Life**
 - *Hildegard von Bingen receiving the vision* &nbsp;·&nbsp; `hildegard-scivias.jpg`
 
 **Paper A6½: Love's Descent**
@@ -102,25 +102,25 @@ title: Appendix VI - Catalogue of Illustrations
 **Section G - The Practice — index**
 - *William Blake, Glad Day / The Dance of Albion* (c. 1796) &nbsp;·&nbsp; `blake-glad-day.jpg`
 
-**Paper G0: Man No. 1**
+**Paper G0: The Good-Centered Man**
 - *Polychrome Bison* &nbsp;·&nbsp; `altamira-bison.jpg`
 
-**Paper G1: Man No. 2**
+**Paper G1: The True-Centered Man**
 - *Giotto di Bondone, The Lamentation of Christ* (c. 1305) &nbsp;·&nbsp; `giotto-lamentation.jpg`
 
-**Paper G2: Man No. 3**
+**Paper G2: The Beautiful-Centered Man**
 - *Hans Holbein the Younger, Portrait of Erasmus of Rotterdam* (c. 1523) &nbsp;·&nbsp; `holbein-erasmus.jpg`
 
 **Paper G2½: The Mi-Fa Interval**
 - *William Blake, Satan Smiting Job with Sore Boils* (c. 1826) &nbsp;·&nbsp; `blake-satan-job.jpg`
 
-**Paper G3: Man No. 4**
+**Paper G3: The Courage-Centered Man**
 - *Andrei Rublev, Trinity Icon* (c. 1410) &nbsp;·&nbsp; `rublev-trinity.jpg`
 
-**Paper G4: Man No. 5**
+**Paper G4: The Restraint-Centered Man**
 - *El Greco, The Burial of the Count of Orgaz* (1586–88) &nbsp;·&nbsp; `el-greco-burial.jpg`
 
-**Paper G5: Man No. 6**
+**Paper G5: The Diligence-Centered Man**
 - *Gian Lorenzo Bernini, The Ecstasy of Saint Teresa* (1647–52) &nbsp;·&nbsp; `bernini-ecstasy.jpg`
 
 **Paper G5½: The Si-Do Interval**

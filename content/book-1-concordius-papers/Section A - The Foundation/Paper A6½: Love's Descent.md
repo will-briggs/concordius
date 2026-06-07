@@ -1,4 +1,4 @@
-*← [[Paper A6: The Life|Paper A6: The Life: The Form of a Servant]]*
+*← [[Paper A6: The Son of Man|Paper A6: The Son of Man: Maximum Kenosis]]*
 
 # Love's Descent: The Three Days in the Tomb
 

@@ -176,7 +176,7 @@ The universe had a beginning, hot and dense and finite in the past, and the fact
 
 ---
 
-*Cross-reference: [[Modeling Reality as a Gelfand Triple]]; [[From the Cogito to the Logos]]; [[Paper A2½: The Constraint Cascade|Paper A2½: The Constraint Cascade]] (the structural descent the beginning initiates, and the three readings gathered); [[Paper A4: The Long Ascent|Paper A4: The Long Ascent]] (the material trail from the electroweak vacuum to us)*
+*Cross-reference: [[Modeling Reality as a Gelfand Triple]]; [[From the Cogito to the Logos]]; [[Paper A2½: The Constraint Cascade|Paper A2½: The Constraint Cascade]] (the structural descent the beginning initiates, and the three readings gathered); [[Paper A4: The Ascent of Man|Paper A4: The Ascent of Man]] (the material trail from the electroweak vacuum to us)*
 
 ---
 

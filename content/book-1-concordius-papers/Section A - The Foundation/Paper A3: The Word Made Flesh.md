@@ -1,6 +1,6 @@
 *← [[Paper A2½: The Constraint Cascade|Paper A2½: The Constraint Cascade: Descent as Densification]]*
 
-# The Word Made Flesh
+# The Word Made Flesh: The Logos Enters His Making
 
 *Paper A3 of Section A. The world is spoken into its form; the form is taken up into flesh; and the One through whom all things were made enters the world he formed, as one of the spoken things. This is the first of three lenses on one arc — the mathematician's and the theologian's together — and it runs from the forming of the world to the Word made flesh, the entrance from outside. Companion to Paper A1 (the Son, the Logos) and Paper A6 (the life the Word made flesh then lives).*
 
@@ -99,4 +99,4 @@ But that extremity is reached only by a life carried all the way to it, and the 
 
 ---
 
-*[[Paper A4: The Long Ascent|Paper A4 — The Long Climb]] →*
+*[[Paper A4: The Ascent of Man|Paper A4 — The Ascent of Man]] →*
