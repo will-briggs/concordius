@@ -42,7 +42,25 @@ This paper does not solve that, and will not pretend to. It marks the transition
 
 ---
 
-## 2. The one thing that cannot be doubted
+## 2. The schools of the self
+
+The science that has mapped all this is young — younger than the railway — and it is worth setting its short, quarrelsome history down here, for two reasons. It is the empirical map of the human substrate that the rest of the series stands on; and the practical tools that Section G later puts into a person's hands, for the actual work of the ascent, are its hard-won fruit, so the ground for them is best laid now.
+
+Psychology as a discipline is usually dated to 1879, when Wilhelm Wundt opened the first laboratory devoted to the mind, in Leipzig, and began timing reactions and training students to report, carefully, what passed through their own awareness. A decade later William James, in America, wrote the *Principles of Psychology* — still unsurpassed as prose — and gave the field its lasting images: the *stream of consciousness*, the self as something continually done rather than merely had, the will as attention sustained against distraction. Then the young discipline split, and split again, each school seizing one real part of the self and, in the seizing, letting the others go — which is what a science circling something larger than its method does.
+
+The first split went downward. Freud, in Vienna, found that the self is not transparent to itself: that beneath the lit room of awareness runs a vast dark traffic the conscious mind does not author and barely glimpses, a house divided against itself. Jung carried the dark further down and out, into the archetypes and the long labor of *individuation*, the integration of the divided self toward a center. Whatever one makes of their machinery — and much of it has not aged well — they had caught something true and permanent: the self the cogito knows it *is* is not a self it transparently *sees*.
+
+In reaction came the behaviorists, who judged all talk of an unseen interior unscientific and resolved to study only what could be measured — the relation of a stimulus to a response. Pavlov's conditioned dogs, Thorndike's cats working the latch, Watson's manifesto, and above all B. F. Skinner's patient mapping of how reward and consequence shape what a creature does, built a rigorous and genuinely powerful science of *conditioning* — of how the substrate is trained. And here the series' own thesis is confirmed from the inside: the school that, on principle, bracketed the felt interior out of its method produced real and durable knowledge of the *mechanism* and reached, by design, exactly nothing of the someone undergoing it. The behaviorist mapped the learning of the H₄₈ substrate with great precision and could not, in his own terms, say that anyone was home — which is not a failure of the work but the boundary the work drew around itself.
+
+The interior returned in two waves. The "third force" humanists put meaning and the higher reaches of the self back at the center: Abraham Maslow with his hierarchy of needs rising to *self-actualization* and, in his last work, to *self-transcendence* and the *peak experiences* he studied at the summit of it; Carl Rogers with the person met simply as a person; and Viktor Frankl, who carried his theory into Auschwitz and brought it back out again as *logotherapy* — the finding that a human being can endure almost any *how* if he has a *why*. And the *cognitive revolution* of the 1950s and after — George Miller, Ulric Neisser, Herbert Simon, and Noam Chomsky's demolition of Skinner's account of language — recovered the inner machinery the behaviorists had banned, now modeled as information: attention, memory, representation, the mind as a processor of structured content.
+
+Out of all of it came the part the later sections of the work actually use. The field's clinical edge learned, by trial and outcome more than by theory, how to help a divided self do the work of changing — and that operational knowledge is the toolkit Section G draws on, openly and gratefully, as the human-level *how* of the climb. From the cognitive therapy of Aaron Beck and Albert Ellis came the so-called third wave: Marsha Linehan's *dialectical behavior therapy*, built to hold a self being torn between extremes; Steven Hayes's *acceptance and commitment therapy*, which teaches a person to stop wrestling the contents of his own mind and act toward what he values anyway; Jeffrey Young's *schema therapy*; the *narrative* therapies that let a person re-author the story he is living inside. Beside them the body's own regulation was charted — Stephen Porges's *polyvagal* account of how safety and threat tune the nervous system beneath all deliberate thought — and the structure of skill itself was studied, in Anders Ericsson's work on *deliberate practice*, the patient, feedback-corrected effort by which any capacity is actually built. How the substrate bonds, conforms, and errs was filled in too: Bowlby and Ainsworth on attachment, Asch and Milgram on the crowd's pull, Kahneman and Tversky on the biases folded into ordinary judgment.
+
+Read together, the whole quarrelsome history is the one science circling the H₄₈ self — each school catching a genuine piece of the substrate (its conditioning, its divided depths, its information-processing, its hierarchy of needs, its bodily regulation) and none of them, by the nature of the instruments, reaching the two things this paper has already set at the edge: the felt interior, and the free volitional turn that the sections below name as the deepest thing a soul is for. That edge is no reproach to the science; it is the honest boundary of an empirical study of a substrate. What lies inside the boundary is real, hard-won, and indispensable — and it is precisely *because* it is the true map of the H₄₈ self that Section G can take up its clinical tools as the practical means of the ascent: the lowering of the noise floor, the steadying of the centers, the deliberate practice by which a person becomes able to make, and then to sustain, the turn.
+
+---
+
+## 3. The one thing that cannot be doubted
 
 There is, however, one fact on the far side of that transition that is not in the dark at all — that is, in fact, the most certain thing any of us has.
 
@@ -50,7 +68,7 @@ Whatever can be doubted about the mind from the outside, from the inside there i
 
 ---
 
-## 3. The living soul
+## 4. The living soul
 
 Now set beside that the oldest account of the same thing, and notice that it is the same thing.
 
@@ -64,7 +82,7 @@ None of this is offered as the answer, because there is no honest answer to offe
 
 ---
 
-## 4. What a person is for
+## 5. What a person is for
 
 A self integrated enough to know, and addressable enough to be called, is a self that can do the things that are the whole substance of a human life — and not one of them is the kind of thing the instruments reach. It can love, and know itself loved. It can make: a tool, a sentence, a child, a piece of music that was not in the world before. It can mean — hold a purpose, give itself to something, find a life worth or not worth the living. These are not soft words laid over the hard facts of neurochemistry; they are the facts, the ones each of us actually lives among, and the methods that can trace every mechanism beneath them fall silent before the experience of them. No measurement reaches what it is to be loved. This is the second mystery, the one on the inward side, and it is as deep as the one the science names on the outward side — and the person is exactly the place the two meet. Only a someone can stand there: not a smear of possibility, not a process running in the dark, but a unified, knowing being who can turn, as a whole, toward another. The coherence of a self is not its own end; a self holds together so that there is someone there to give, and to be given to, freely, because nothing in the integration forces the turn. That free turn toward the Good is the deepest thing the living soul is for, and the whole reason it was worth the long climb to make a someone rather than only a something.
 
@@ -72,7 +90,7 @@ And once more the most extreme thing follows. The companion paper watched the On
 
 ---
 
-## 5. The someone born
+## 6. The someone born
 
 And so the third lens lands where the other two land: at the birth. Paper A3 watched the Word made flesh; Paper A4 watched the body, drawn out of the long climb and the line of Israel; and here, from the side of the person, the same entrance is the arrival of a *someone* — a living soul made flesh, a complete human interior begun. The one born is not only a Word and not only a body but a self: an interior with a point of view, who will know and choose and love as a man, and who will feel from the inside the whole range a human can feel.
 
@@ -80,7 +98,7 @@ What that interior then lived — every joy and grief and dread of it, the lovin
 
 ---
 
-*Cross-reference: Paper A1 (the cogito; the Son as the Logos, the principle of meaning); Paper A3 (the Word made flesh — the same entrance seen as form); Paper A4 (the material thread; the human body, born); Paper A6 (the life that someone lives, where the whole felt interior — and the cry — is followed). Scripture: Genesis 1:27, 2:7 (and the first named, Genesis 2–3). The science of the mind is cited as a large and active field whose one open residue is the felt interior (Chalmers 1995; Seth & Bayne 2022), not as evidence for the theological reading; the concordance with Genesis 2:7 is offered as a fit, not an answer.*
+*Cross-reference: Paper A1 (the cogito; the Son as the Logos, the principle of meaning); Paper A3 (the Word made flesh — the same entrance seen as form); Paper A4 (the material thread; the human body, born); Paper A6 (the life that someone lives, where the whole felt interior — and the cry — is followed). §2 lays down the short history of modern psychology — Wundt and James; the psychoanalytic, behaviorist, humanistic, and cognitive schools; and the clinical "third wave" (DBT, ACT, schema and narrative therapies, polyvagal regulation, deliberate practice) — as the empirical map of the H₄₈ self whose practical tools **Section G** takes up as the human-level means of the ascent. Scripture: Genesis 1:27, 2:7 (and the first named, Genesis 2–3). The science of the mind is cited as a large and active field whose one open residue is the felt interior (Chalmers 1995; Seth & Bayne 2022), and whose schools each map a real piece of the substrate while none reach the felt interior or the free turn — not as evidence for the theological reading; the concordance with Genesis 2:7 is offered as a fit, not an answer.*
 
 ---
 
