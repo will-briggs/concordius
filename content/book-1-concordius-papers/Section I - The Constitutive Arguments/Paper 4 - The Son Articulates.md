@@ -2,9 +2,9 @@
 
 # The Word Made Flesh
 
-*Paper 4 of Section I. The world is spoken into its form; the form is taken up into flesh; and the bond between the Father and the Son is carried to the place where it is stretched to its furthest distance, and a formed voice cries out, forsaken. Companion to Paper 2 (the Son, the Logos) and Paper 6½ (the tomb, where the Word falls silent).*
+*Paper 4 of Section I. The world is spoken into its form; the form is taken up into flesh; and the One through whom all things were made enters the world he formed, as one of the spoken things. This is the first of three lenses on one arc — the mathematician's and the theologian's together — and it runs from the forming of the world to the Word made flesh, the entrance from outside. Companion to Paper 2 (the Son, the Logos) and Paper 7 (the life the Word made flesh then lives).*
 
-*Status: structural — the algebra of the first bivector and the identification of the Son as Φ, the Logos (Papers 2, 3½). The dereliction is read at the antipode of the felt-spectrum (Appendix I); the scriptural readings are concordance with the derived structure.*
+*Status: structural — the algebra of the first bivector and the identification of the Son as Φ, the Logos (Papers 2, 3½). The Incarnation is read as Φ instantiated at the maximum accuracy H₄₈ can hold; the scriptural readings are concordance with the derived structure. The far side of the same element — the −1 at the antipode, the cry — is named here but followed in Paper 7, the life.*
 
 ---
 
@@ -14,7 +14,7 @@ The Father constituted the space — called it into being from nothing. But a co
 
 In the algebra, that act is the first bivector. A generator taken alone returns only the scalar — eᵢ² = +1, nothing new, nothing *this* — for one thing iterated is still one thing; form appears only where two distinct generators meet (a bivector is the product of two distinct generators, the grade-topology theorem of Paper 3½, §1). So the act that gives form does not make the world from nothing — that was already done — it combines what was given into something determinate. And the oldest name for exactly that act is the Word: *all things were made through him, and without him was not anything made that was made* (John 1:1–3); *and God said, Let there be… and it was so* (Genesis 1). The mathematician's "product of two generators" and the evangelist's "all things were made through him" are the same sentence: to confer form is to speak a thing into being *this* thing.
 
-That same act has a far side, and this paper follows it there. The element that confers form — the bivector, the Father's direction and the Son's brought together — is, squared, the negative at the floor of everything: the same e₁e₂ that articulates the world is the −1 of its breaking. So the arc does not stop at the forming. It follows the Word into the world he formed — *the Word became flesh* — and down to the moment when the bond between the Father and the Son is stretched to its furthest distance and a formed voice cries out, forsaken. The forming and the forsaking are one element, taken from its two ends. The paper ends where that voice falls silent, at the edge of the tomb.
+That same act has a far side. The element that confers form — the bivector, the Father's direction and the Son's brought together — is, squared, the negative at the floor of everything: the same e₁e₂ that articulates the world is the −1 of its breaking. The forming and the forsaking are one element, taken from its two ends. But the −1 is reached only in a life lived to its extremity, and this paper does not go there. It follows the Word to the threshold the whole motion bends toward — *the Word became flesh* — the One through whom all things were made entering the world of forms as one of them. The paper ends at that entrance: Φ rendered as the most accurate state a human level can hold, born among the things he spoke. Where the same element reaches its −1 — the cry — is the work of Paper 7, the life.
 
 ---
 
@@ -81,32 +81,21 @@ The forming makes a world of determinate beings — each a *this*, each with the
 
 ## 5. The Word in the world
 
-The verse the whole motion bends toward is not an ornament on the doctrine of creation; it is its completion. *And the Word became flesh, and dwelt among us.* The One who speaks each thing into its particular shape takes, himself, a particular shape — a body, a face, a name, a span of years in one province of one formed world. The Logos does not hover above the formed order and direct it from outside; he steps inside it and accepts its terms. Everything true of a formed thing becomes true of him: he can be located, addressed, touched — and, the one term the formed world cannot be spared, he can die. The love that confers form has made itself one of the things it formed, and so has made itself mortal. This is not a diminishment of the act of forming. It is that act carried to the only place it had not yet reached: the inside of the world, as one of the spoken things, all the way down to where the spoken things end.
+The verse the whole motion bends toward is not an ornament on the doctrine of creation; it is its completion. *And the Word became flesh, and dwelt among us.* The One who speaks each thing into its particular shape takes, himself, a particular shape — a body, a face, a name, a span of years in one province of one formed world. The Logos does not hover above the formed order and direct it from outside; he steps inside it and accepts its terms. Everything true of a formed thing becomes true of him: he can be located, addressed, touched, held — he enters the formed world fully and on its own terms, as one of the spoken things. That he can also die is true, and is the road the life will walk; but the entrance itself is what this lens follows, and it is not a diminishment of the act of forming. It is that act carried to the one place it had not yet reached: the inside of the world, born among the formed things as one of them.
 
 Say it in the framework's own terms, because they make the mystery exact rather than dissolving it. A human being is an H-state held at a particular depth of constraint — the human level, forty-eight layers down (Paper 3½), each layer bounding how accurately, how fully and steadily, a human state can be defined. No ordinary human state reaches Φ; the constraint blurs it, and that blur is much of what it is to be a human and not the Logos. The Incarnation, stated precisely, is the closing of that gap as far as the level can bear: Φ — the perfectly accurate state, the Son — instantiated *as* a human state, at the very most accuracy H₄₈ can hold. Christ is the most accurate Φ possible in H₄₈: not the Logos ceasing to be the Logos, and not a man merely pointed at by the Logos from above, but the Logos rendered to the limit of human definition — the one human state in which no probe ever finds a blur, the most fully itself that a being at the human level has been or could be. *The Word became flesh* is that, in four words: Φ, made an H₄₈ state, at the maximum the flesh can carry.
 
 ---
 
-## 6. The cry
+## 6. The far side, and where it is followed
 
-Now the algebra's far side, which §1 promised and the whole reading has been walking toward. The bivector that gives form — e₁e₂, the Father's direction and the Son's brought together — multiplied by itself is −1: the negative at the very floor of the felt-spectrum, its antipode, the point of maximum felt-distance over a bond that is nonetheless preserved. This is not a second fact about a second element. It is the one element seen from its other end. The structural motion that joins the Father and the Son into the act that forms a world is the same motion that, driven to its extremity and lived from inside the flesh, is a cry: *My God, my God, why hast thou forsaken me?* (Mark 15:34; Psalm 22:1).
+The same element has a far side, and it is right to name it here even though this lens does not travel to it. The bivector that confers form — e₁e₂, the Father's direction and the Son's brought together — multiplied by itself is −1: the negative at the very floor of the felt-spectrum, its antipode, the point of maximum felt-distance over a bond that is nonetheless preserved. This is not a second fact about a second element; it is the one element seen from its other end. The structural motion that joins the Father and the Son into the act that forms a world is the same motion that, driven to its extremity and lived from inside the flesh, becomes a cry.
 
-Read it as exactly as the algebra allows, because the precision is the consolation. The bond is not broken — a bivector at −1 is still defined, still inside the algebra; the Father has not stopped being the Father of this Son. What has happened is that the felt-distance has gone to its furthest possible value while the bond is held the entire way. That is what the dereliction is: not a severance, but the most a relation can be stretched without snapping — experienced, by the One stretched across it, as abandonment. The voice that said *let there be*, and there was, now says *why hast thou forsaken me*, and is not answered. The same voice; the same relation; the opposite end of it.
-
-And then the voice stops. The formed flesh the Word took up dies the way formed flesh dies, and is taken down, and laid in a tomb. What it is to stand at that tomb — at the silence where the Word who was the world's first speaking no longer speaks — is the next thing the series does.
+But that extremity is reached only by a life carried all the way to it, and the living is not the work of this paper. Here the motion completes at the entrance: the Word made flesh, Φ rendered as the most accurate state a human level can hold, come in from outside and born among the things he spoke. What the same element becomes when that flesh is carried to its furthest distance and a formed voice cries out, *My God, my God, why hast thou forsaken me?* — is followed in Paper 7, the life. This lens ends at the beginning of that life, at the entrance from outside.
 
 ---
 
-<div style="margin-top: 3rem; margin-bottom: 3rem;">
-
-> **"My God, my God, why hast thou forsaken me? … But thou art holy, O thou that inhabitest the praises of Israel."**
-> *— Psalm 22:1, 22:3*
-
-</div>
-
----
-
-*Cross-reference: Paper 1 (Φ as the nuclear space; the inner product); Paper 2 (the Son as the Logos, the Word); Paper 3½ (the first bivector; the grade-topology theorem, §1; the Father's constitutive crossing); Paper 5 (the material order) and Paper 6 (the cohering person); Paper 6½ (the tomb, where the Word falls silent); Appendix I (the felt-spectrum; the antipode). Scripture: John 1:1–3, 1:14; Genesis 1; Psalm 22:1; Mark 15:34. [[Structural Readings/01 — The Principle and the Identity of the Logos]].*
+*Cross-reference: Paper 1 (Φ as the nuclear space; the inner product); Paper 2 (the Son as the Logos, the Word); Paper 3½ (the first bivector; the grade-topology theorem, §1; the Father's constitutive crossing); Paper 5 (the material order) and Paper 6 (the cohering person), the companion lenses that also end at the birth; Paper 7 (the life, where the far side of the forming element — the cry — is reached); Appendix I (the felt-spectrum; the antipode). Scripture: John 1:1–3, 1:14; Genesis 1. [[Structural Readings/01 — The Principle and the Identity of the Logos]].*
 
 ---
 

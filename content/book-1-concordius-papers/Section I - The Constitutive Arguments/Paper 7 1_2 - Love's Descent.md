@@ -1,8 +1,8 @@
-*← [[Paper 6 - The Cogito Coheres|Paper 6 — The Cogito Coheres]]*
+*← [[Paper 7 - The Life|Paper 7 — The Life: The Form of a Servant]]*
 
 # Love's Descent: The Three Days in the Tomb
 
-*Paper 6½ of Section I. The death has been set down; here the series stands at the sealed tomb and looks at what was laid in it. It looks more than once, because there is more than one way to look at a grave; and then it admits the one thing the looking cannot reach. Companion to Papers 4–6 (the Cross) and Paper 7 (the morning).*
+*Paper 7½ of Section I. The life has come to its cry and the body has been taken down; here the series stands at the sealed tomb and looks at what was laid in it. It looks more than once, because there is more than one way to look at a grave; and then it admits the one thing the looking cannot reach. Companion to Paper 7 (the life, and the cross it ends at) and Paper 8 (the morning).*
 
 ---
 
@@ -76,4 +76,4 @@ So the series sets down its tools and waits at the stone, with the women, in the
 
 ---
 
-*[[Paper 7 - What We Know|Paper 7 — The Resurrection: Called By Name]] →*
+*[[Paper 8 - The Resurrection|Paper 8 — The Resurrection: Called By Name]] →*

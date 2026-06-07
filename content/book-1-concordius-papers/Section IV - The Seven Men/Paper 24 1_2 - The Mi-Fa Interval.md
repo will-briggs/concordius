@@ -10,7 +10,7 @@
 
 The [[Appendix I - Dictionary of Terms#Mi-Fa Interval|Mi-Fa interval]] is the structural discontinuity between grade 1 and grade 2 in the [[Appendix I - Dictionary of Terms#Heptaparaparshinokh|Heptaparaparshinokh]]. It is the first qualitative gap in the ascending career: the place where the [[Appendix I - Dictionary of Terms#Catching|catching]] work of the first three stages reaches its limit, and where the next stage of the ascent cannot be generated from within the resources the person has already accumulated. The interval is not a deficiency in the practitioner. It is a structural feature of the scale: grade-1 and grade-2 elements belong to distinct algebraic classes whose boundary cannot be crossed by grade-1 operations alone. The external input is not supplementary encouragement — it is structurally required, in the same sense that no amount of real-axis computation will produce an imaginary eigenvalue. This paper derives the Mi-Fa interval from the [[Appendix I - Dictionary of Terms#Law of Seven|Law of Seven]]'s algebraic ground, identifies the four structural conditions for crossing it, and describes how it presents at each stage of the ascending career from Man 1 through Man 3/4. The condensed descriptions from Papers 22–24's [[Appendix I - Dictionary of Terms#Law of Seven|Law of Seven]] tables are gathered here for structural comparison. The paper concludes with the connection to the [[Appendix I - Dictionary of Terms#Heptaparaparshinokh|Heptaparaparshinokh]]'s most fully developed historical instance: the forty days in the wilderness as the Mi-Fa crossing of the seventh bestowal's earthly octave, and the [[Appendix I - Dictionary of Terms#Spirit of Truth|Spirit of Truth]] as the universally available grade-2 source distributed since Pentecost.
 
-*Cross-reference: Paper 6½ §7 (The Bestowal Progression — algebraic derivation of the grade structure); Paper 13½ §§4–6 (Amplitude, Faith, Transfiguration — the catching mechanics through which the interval is crossed); Paper 24 (Man No. 3 — the primary Mi-Fa crossing in the individual ascending career); Paper 27½ (The Si-Do Interval — the companion treatment of the second qualitative gap).*
+*Cross-reference: Paper 7½ §7 (The Bestowal Progression — algebraic derivation of the grade structure); Paper 13½ §§4–6 (Amplitude, Faith, Transfiguration — the catching mechanics through which the interval is crossed); Paper 24 (Man No. 3 — the primary Mi-Fa crossing in the individual ascending career); Paper 27½ (The Si-Do Interval — the companion treatment of the second qualitative gap).*
 
 ---
 
@@ -96,7 +96,7 @@ The convergence across these three descriptions: in every case, the external inp
 
 ## 5. The Pattern: Jesus's Forty Days in the Wilderness
 
-The seventh bestowal's earthly octave contains the Mi-Fa crossing in its most structurally complete and Heropass-pressured form. Paper 6½ §7 establishes the forty days in the wilderness as the Mi-Fa interval of the earthly octave: baptism initiates the kenotic constraint (H₄₈ operating conditions applied to the Φ identity); the forty days follow.
+The seventh bestowal's earthly octave contains the Mi-Fa crossing in its most structurally complete and Heropass-pressured form. Paper 7½ §7 establishes the forty days in the wilderness as the Mi-Fa interval of the earthly octave: baptism initiates the kenotic constraint (H₄₈ operating conditions applied to the Φ identity); the forty days follow.
 
 The three temptations are grade-1 operations offered as substitutes for grade-2 crossing:
 

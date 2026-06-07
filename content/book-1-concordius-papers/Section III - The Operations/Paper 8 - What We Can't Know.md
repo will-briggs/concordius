@@ -1,4 +1,4 @@
-*← [[Paper 7 - What We Know|Paper 7 — The Resurrection: Called By Name]]*
+*← [[Paper 8 - The Resurrection|Paper 8 — The Resurrection: Called By Name]]*
 
 # What We Can't Know: Gödel's Incompleteness Theorems as a Structural Consequence of the Constraint Hierarchy
 

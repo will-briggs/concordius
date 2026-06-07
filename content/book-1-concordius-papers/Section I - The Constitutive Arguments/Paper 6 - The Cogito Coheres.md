@@ -2,15 +2,15 @@
 
 # The Living Soul
 
-*Paper 6 of Section I. The person — the knowing and loving someone that matter came to host. It takes up the question the body's account left open: when, and how, does matter become a self? It holds that question where the science honestly leaves it, sets beside it the oldest name for the result, and follows the person to its own end at the Cross: the work finished, the breath given up. Companion to Paper 5 (the body) and Paper 6½ (the descent among the dead).*
+*Paper 6 of Section I. The person — the knowing and loving someone that matter came to host. It takes up the question the body's account left open: when, and how, does matter become a self? It holds that question where the science honestly leaves it, sets beside it the oldest name for the result, and follows the person to the same place its companion lenses reach: the birth — the arrival, in one infant, of a complete human interior, a living soul made flesh. This is the third of three lenses on one arc, the theologian's and the scientist's together. Companion to Paper 5 (the body) and Paper 7 (the life that someone then lives).*
 
 ---
 
 ## Abstract
 
-Paper 5 carried the body the whole way and named, but did not enter, the one transition it could not treat as physics: the arrival of an interior — a someone for whom the body is a point of view. This paper takes up that thread, and it is where two kinds of knowing meet. On one side is what the sciences of the mind actually know, which is a great deal and growing fast: the mechanisms of perception, memory, and attention, the integrated and self-modeling brain. On the other is what those sciences, by their very method, do not reach — the life as it is lived from the inside: loving and being loved, making things that were not there before, meaning, purpose, and beneath all of them the plain felt fact of an interior at all. There is deep mystery on both sides, and this paper resolves neither and claims neither resolved. It sets the known science beside the oldest name for the lived reality — a *living soul* — and offers the fit between them as a fit, not as an answer. Then it follows the thread of the person to the same place the body's thread ended, a death on a cross, and reads there what the body's account could not: a life that loved and was loved and felt the whole of what a human feels, a work brought to completion, a spirit freely given up — and it closes on the consolation the record leaves, that whatever you feel, he felt.
+Paper 5 carried the body the whole way and named, but did not enter, the one transition it could not treat as physics: the arrival of an interior — a someone for whom the body is a point of view. This paper takes up that thread, and it is where two kinds of knowing meet. On one side is what the sciences of the mind actually know, which is a great deal and growing fast: the mechanisms of perception, memory, and attention, the integrated and self-modeling brain. On the other is what those sciences, by their very method, do not reach — the life as it is lived from the inside: loving and being loved, making things that were not there before, meaning, purpose, and beneath all of them the plain felt fact of an interior at all. There is deep mystery on both sides, and this paper resolves neither and claims neither resolved. It sets the known science beside the oldest name for the lived reality — a *living soul* — and offers the fit between them as a fit, not as an answer. Then it follows the thread of the person to the place its companion lenses reach: the birth — the arrival, from the side of the interior, of a *someone*, a living soul made flesh. What that someone went on to feel and to suffer — the whole of what a human feels, all the way to the cry — is the work of the life, Paper 7; this lens ends where the others end, at the cradle.
 
-**Confidence.** The science of the mind is presented as a large and growing body of real knowledge whose one open residue is the felt interior — not as a mystery wholesale, and not as support for any conclusion. The lived realities of love, making, and meaning are presented as undeniable from within and unreachable by the instruments — mystery on that side too. The identification of the integrated, knowing self with the *living soul* of Scripture is offered as concordance — two descriptions facing the same way — explicitly not as derivation and not as an answer to either mystery. The reading of the consummation is testimony held beside structure, in the manner of the section's close.
+**Confidence.** The science of the mind is presented as a large and growing body of real knowledge whose one open residue is the felt interior — not as a mystery wholesale, and not as support for any conclusion. The lived realities of love, making, and meaning are presented as undeniable from within and unreachable by the instruments — mystery on that side too. The identification of the integrated, knowing self with the *living soul* of Scripture is offered as concordance — two descriptions facing the same way — explicitly not as derivation and not as an answer to either mystery. The reading of the birth — the Logos entering as a complete human interior — is concordance held beside structure, in the manner of the section.
 
 ---
 
@@ -72,48 +72,16 @@ And once more the most extreme thing follows. The companion paper watched the On
 
 ---
 
-## 5. The consummation
+## 5. The someone born
 
-So the thread of the person comes, as the thread of the body came, to the Cross — and reads there what the body's account could not.
+And so the third lens lands where the other two land: at the birth. Paper 4 watched the Word made flesh; Paper 5 watched the body, drawn out of the long climb and the line of Israel; and here, from the side of the person, the same entrance is the arrival of a *someone* — a living soul made flesh, a complete human interior begun. The one born is not only a Word and not only a body but a self: an interior with a point of view, who will know and choose and love as a man, and who will feel from the inside the whole range a human can feel.
 
-The body's thread ended in a physiology: the breathing failing, the heart failing, the matter not annihilated but stilled. The person's thread ends in two sentences spoken from inside that failing body, and they are not the sounds of a life merely running out. The first is a verdict on a finished work: *It is finished* — *tetelestai* (John 19:30), the word a craftsman uses of a thing completed, not a victim's word for being overcome. The second is an act, not an event: *Father, into thy hands I commend my spirit* (Luke 23:46). The breath that Genesis says was given to make the dust a living soul is, at the end, not seized away but *handed back* — commended, given up, *paredōken to pneuma*. The living soul does not have its spirit taken; it yields it.
-
-Read the two together and the whole thread closes. A person is matter that woke, held together, came to mean and to love, and could turn freely toward the Good. The completion of such a person is not to be overpowered but to give itself wholly — to finish the work it was for, and to place the integrating breath that made it a self back into the hands it came from. That is what the consummation is on this thread: not the failure of a body, but a living soul bringing itself to completion and freely returning its breath. The Word's last word and the giving-up of the Spirit are one act.
-
-And then the breath is gone, and the living soul is — for an interval the next paper holds — a body without it: the dust without the wind in it, laid in the dark, while the someone who held it together has gone where the breath goes.
+What that interior then lived — every joy and grief and dread of it, the loving and the being loved, all the way to the cry — is not this lens's to tell. It belongs to the life, and the life is Paper 7. Here the someone is only born: the breath of Genesis 2:7 given to one more dust-formed creature, who is also, this once, the Logos rendered to the very limit of what a human soul can hold. The three lenses meet at the cradle, and set down there what each has carried — the Word, the body, the soul — and hand it to the life that begins.
 
 ---
 
-<div style="margin-top: 3rem; margin-bottom: 3rem;">
-
-> **"And when Jesus had cried with a loud voice, he said, Father, into thy hands I commend my spirit: and having said thus, he gave up the ghost."**
-> *— Luke 23:46*
-
-</div>
+*Cross-reference: Paper 2 (the cogito; the Son as the Logos, the principle of meaning); Paper 4 (the Word made flesh — the same entrance seen as form); Paper 5 (the material thread; the human body, born); Paper 7 (the life that someone lives, where the whole felt interior — and the cry — is followed). Scripture: Genesis 1:27, 2:7 (and the first named, Genesis 2–3). The science of the mind is cited as a large and active field whose one open residue is the felt interior (Chalmers 1995; Seth & Bayne 2022), not as evidence for the theological reading; the concordance with Genesis 2:7 is offered as a fit, not an answer.*
 
 ---
 
-## 6. What the record shows
-
-Before the stone closes, look back once at the life it ended, because what the record left of that life is the quiet point the whole paper has been walking toward. It does not show a figure serene above the human condition, untouched, watching from a height. It shows a complete human interior, lived all the way through. He loved — his friends, by name, and was not ashamed of it (*Jesus loved Martha, and her sister, and Lazarus*, John 11:5) — and he let himself be loved, the disciple leaning on him at the last supper (John 13:23). He wept: at a friend's grave (John 11:35), and over a city that would not be gathered (Luke 19:41). He knew joy — he *rejoiced in spirit* (Luke 10:21), and spoke of a joy he meant to leave inside his friends (John 15:11). He knew the exact sting of betrayal — a kiss for a signal, and a friend's denial at a fire. He knew dread to the floor of it, in a garden, sweating (Luke 22:44). He was hungry and tired and angry and moved with pity, and at the very end, forsaken.
-
-He felt, in a word, everything a human can feel — and this is not incidental to what the companion paper on the Word called him, the most accurate Φ a human state can hold. It is the proof of it. To be most fully a human self is not to rise above the felt interior but to inhabit the whole of it, floor and height, flinching from none of it. The second mystery of this paper — the loving and being loved, the betrayal and the joy, the felt life no instrument can reach, the very substance of being someone — is not foreign to God, and was never watched from outside. It was lived, from the inside, by the one who was most himself.
-
-So the interior you live in, you do not carry alone. Whatever you have felt, he felt. He felt all that a human can feel — and, having felt the last of it, was carried behind the stone. What that interval is, and whether the dark is the end of it, the series does not yet say; but that he felt it, all of it, as one of you, it does say — and that is yours to keep.
-
----
-
-<div style="margin-top: 3rem; margin-bottom: 3rem;">
-
-> **"Jesus wept."**
-> *— John 11:35*
-
-</div>
-
----
-
-*Cross-reference: Paper 2 (the cogito; the Son as the Logos, the principle of meaning); Paper 4 (the Word made flesh — the same descent seen as body); Paper 5 (the material thread; the human body and its death); Paper 6½ (the tomb; the descent among the dead). Scripture: Genesis 1:27, 2:7 (and the first named, Genesis 2–3); John 19:30; Luke 23:46; and the human feeling of §6 — John 11:5, 11:35, 13:23, 15:11; Luke 10:21, 19:41, 22:44. The science of the mind is cited as a large and active field whose one open residue is the felt interior (Chalmers 1995; Seth & Bayne 2022), not as evidence for the theological reading; the concordance with Genesis 2:7 is offered as a fit, not an answer.*
-
----
-
-*[[Paper 6 1_2 - Love's Descent|Paper 6½ — Love's Descent: The Three Days in the Tomb]] →*
+*[[Paper 7 - The Life|Paper 7 — The Life: The Form of a Servant]] →*

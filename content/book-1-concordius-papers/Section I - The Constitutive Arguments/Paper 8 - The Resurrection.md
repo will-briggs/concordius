@@ -1,8 +1,8 @@
-*← [[Paper 6 1_2 - Love's Descent|Paper 6½ — Love's Descent: The Three Days in the Tomb]]*
+*← [[Paper 7 1_2 - Love's Descent|Paper 7½ — Love's Descent: The Three Days in the Tomb]]*
 
 # The Resurrection: Called By Name
 
-*Seventh paper, and the close of Section I. It tells the morning as the tradition hands it down — and no more surely than the tradition can — and then turns, in the same breath, to the one thing the whole section took on trust and never earned. What can be done with the structure once it is granted, and why that one thing can never be confirmed from inside, is the work of Section II.*
+*Paper 8 of Section I, and its close — the Do of the next tonic: the new beginning the descent could not generate from inside, the input that arrives from outside the closed tomb. It tells the morning as the tradition hands it down — and no more surely than the tradition can — and then turns, in the same breath, to the one thing the whole section took on trust and never earned. What can be done with the structure once it is granted, and why that one thing can never be confirmed from inside, is the work of Section II.*
 
 ---
 
@@ -76,4 +76,4 @@ That limit is not the end of the work. It is the beginning of the next part of i
 
 ---
 
-*[[Paper 8 - What We Can't Know|Section II → The Operations]] →*
+*[[Section II - The Wide Reading/index|Section II → The Wide Reading]] →*
