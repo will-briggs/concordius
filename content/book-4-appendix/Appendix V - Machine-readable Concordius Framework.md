@@ -221,19 +221,19 @@ Grade = height: pure systems (grade 1, the lower triad / raw drives) → pairwis
 
 ### The Voices — register and audience by element
 
-Each generator has a native **voice** — a persona and the audience-register in which it is most truly heard — and each bivector is written in the *blend* of its two generators' voices; the pseudoscalar sounds all three at once. Listed in algebraic order. The register is the tone a note (or a virtue-paper) is pitched in, a guide for transmission, not a constraint on content.
+Each generator has a native **voice** — a persona, a thing it **demands** before it will trust anything, and the audience-**register** in which it is most truly heard. Each bivector blends the two generators it joins; the pseudoscalar sounds all three at once. Listed in algebraic (octave) order. The three demands are the opening notes of the B octave — the Proof, the Sacred Trust, the Test — because what each voice asks for is precisely what must reach it intact.
 
-| Element | Grade | Virtue (transcendental) | Voice | Audience register |
-|---|---|---|---|---|
-| **e₁** | 1 | the Good — gratitude | the Mathematician / the Statesman | **clinical** — spare, exact, load-bearing; the structure stated the way a proof or a statute is stated |
-| **e₂** | 1 | the True — charity | the Philosopher / the Theologian | **pastoral** — addressed to a person, in the second person where it can be; the homilist's care, landing on meaning |
-| **e₃** | 1 | the Beautiful — ordered love | the Scientist / the Artist | **lyric precision** — exact about the thing and lit from within: accurate enough to be true, warm enough to delight |
-| **e₁e₂** | 2 | Courage | Mathematician × Theologian | **clinical → pastoral** — the structure laid down plainly, then turned on the reader who must act on it |
-| **e₂e₃** | 2 | Temperance | Theologian × Artist | **pastoral → lyric** — the homilist's care carried in the measured, exact warmth of the maker |
-| **e₁e₃** | 2 | Diligence | Mathematician × Artist | **clinical → lyric** — the exact and the affectionate together; the ledger kept, and kept tenderly |
-| **e₁e₂e₃** | 3 | Humility (the pseudoscalar) | all three at once | **the full chord** — clinical, pastoral, and lyric sounded together, none of them the center |
+| Note | Element | Grade | Virtue | Voice | Demands | Register |
+|---|---|---|---|---|---|---|
+| **Do** | e₁ | 1 | the Good — gratitude | the Mathematician / the Statesman | **the Proof** | **clinical** — spare, exact, load-bearing; stated the way a proof or a statute is stated |
+| **Re** | e₂ | 1 | the True — charity | the Philosopher / the Theologian | **the Sacred Trust** | **pastoral** — addressed to a person, in the second person where it can be; landing on meaning |
+| **Mi** | e₃ | 1 | the Beautiful — ordered love | the Scientist / the Artist | **the Test** | **lyric precision** — accuracy that is itself felt as delight |
+| **Fa** | e₁e₂ | 2 | Courage (Father × Son) | Mathematician × Theologian | Proof + Sacred Trust | **clinical → pastoral** — structure laid down plainly, then turned on the reader who must act on it |
+| **Sol** | e₁e₃ | 2 | Temperance (Father × Spirit) | Mathematician × Artist | Proof + Test | **clinical → lyric** — the exact and the affectionate together; measure kept, and kept tenderly |
+| **La** | e₂e₃ | 2 | Diligence (Son × Spirit) | Theologian × Artist | Sacred Trust + Test | **pastoral → lyric** — the homilist's care in the patient, exact warmth of the maker |
+| **(crown)** | e₁e₂e₃ | 3 | Humility (the pseudoscalar) | all three at once | Proof, Sacred Trust, and Test | **the full chord** — clinical, pastoral, and lyric sounded together, none of them the center |
 
-*Note: the bivector registers follow from the algebra — a bivector's voice is the blend of the two generators it joins, on the established assignment (§IV, §V): courage = e₁e₂ = Good × True; temperance = e₂e₃ = **True × Beautiful**; diligence = e₁e₃ = **Good × Beautiful**. ("Lyric precision" is the Beautiful register: not "warm yet precise" loosely, but accuracy that is itself felt as delight — the way the Last Supper's geometry is its beauty.)*
+*Order of the bivectors (per the corrected octave order): Fa = e₁e₂ courage (Father × Son), Sol = e₁e₃ temperance (**Father × Spirit**), La = e₂e₃ diligence (**Son × Spirit**). The demands name the B-octave notes (B0 the Proof, B1 the Sacred Trust, B2 the Test) — what each voice requires is what must be transmitted to it whole. **Reconciliation flag:** this assignment (temperance = e₁e₃, diligence = e₂e₃) is the reverse of what several existing places still carry — the §V virtue row, the §IV body/career lines, and Papers F4/F5 and C4, which have temperance = e₂e₃ / diligence = e₁e₃. Those need updating to this order. ("Lyric precision" is the Beautiful register: not "warm yet precise" loosely, but accuracy that is itself felt as delight — the way the Last Supper's geometry is its beauty.)*
 
 ### The Pre-Biblical Claim
 
