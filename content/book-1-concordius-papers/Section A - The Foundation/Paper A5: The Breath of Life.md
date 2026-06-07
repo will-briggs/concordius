@@ -1,6 +1,6 @@
 *← [[Paper A4: The Ascent of Man|Paper A4 — The Ascent of Man]]*
 
-# The Breath of Life: When Matter Becomes Someone
+# The Breath of Life: When Matter Becomes a Person
 
 *Paper A5 of Section A. The person — the knowing and loving someone that matter came to host. It takes up the question the body's account left open: when, and how, does matter become a self? It holds that question where the science honestly leaves it, sets beside it the oldest name for the result, and follows the person to the same place its companion lenses reach: the birth — the arrival, in one infant, of a complete human interior, a living soul made flesh. This is the third of three lenses on one arc, the theologian's and the scientist's together. Companion to Paper A4 (the body) and Paper A6 (the life that someone then lives).*
 
