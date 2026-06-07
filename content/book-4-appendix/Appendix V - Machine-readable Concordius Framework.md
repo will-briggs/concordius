@@ -219,6 +219,22 @@ Grade = height: pure systems (grade 1, the lower triad / raw drives) → pairwis
 | Concordance | The framework's vocabulary maps onto the tradition's; the tradition independently confirms the structural prediction |
 | Testimony-plus-structural concordance | Independent tradition + structural prediction converge; strongest available tier |
 
+### The Voices — register and audience by element
+
+Each generator has a native **voice** — a persona and the audience-register in which it is most truly heard — and each bivector is written in the *blend* of its two generators' voices; the pseudoscalar sounds all three at once. Listed in algebraic order. The register is the tone a note (or a virtue-paper) is pitched in, a guide for transmission, not a constraint on content.
+
+| Element | Grade | Virtue (transcendental) | Voice | Audience register |
+|---|---|---|---|---|
+| **e₁** | 1 | the Good — gratitude | the Mathematician / the Statesman | **clinical** — spare, exact, load-bearing; the structure stated the way a proof or a statute is stated |
+| **e₂** | 1 | the True — charity | the Philosopher / the Theologian | **pastoral** — addressed to a person, in the second person where it can be; the homilist's care, landing on meaning |
+| **e₃** | 1 | the Beautiful — ordered love | the Scientist / the Artist | **lyric precision** — exact about the thing and lit from within: accurate enough to be true, warm enough to delight |
+| **e₁e₂** | 2 | Courage | Mathematician × Theologian | **clinical → pastoral** — the structure laid down plainly, then turned on the reader who must act on it |
+| **e₂e₃** | 2 | Temperance | Theologian × Artist | **pastoral → lyric** — the homilist's care carried in the measured, exact warmth of the maker |
+| **e₁e₃** | 2 | Diligence | Mathematician × Artist | **clinical → lyric** — the exact and the affectionate together; the ledger kept, and kept tenderly |
+| **e₁e₂e₃** | 3 | Humility (the pseudoscalar) | all three at once | **the full chord** — clinical, pastoral, and lyric sounded together, none of them the center |
+
+*Note: the bivector registers follow from the algebra — a bivector's voice is the blend of the two generators it joins, on the established assignment (§IV, §V): courage = e₁e₂ = Good × True; temperance = e₂e₃ = **True × Beautiful**; diligence = e₁e₃ = **Good × Beautiful**. ("Lyric precision" is the Beautiful register: not "warm yet precise" loosely, but accuracy that is itself felt as delight — the way the Last Supper's geometry is its beauty.)*
+
 ### The Pre-Biblical Claim
 
 The framework was derived from mathematics before any text was read. When structural content appears in a non-biblical text, it is not being evaluated against a biblical standard and found to approximate it. It is a **parallel instantiation of the same structural reality**, arrived at by a completely independent route. The independence of witnesses is the evidential mechanism (Reasonablenessism Feature 6).
