@@ -1,0 +1,40 @@
+# Paper C4: Temperance — The Just Measure, Read Three Ways
+
+*The Sol of the Company: the second overcoming virtue, temperance — e₂e₃, the Son wedged with the Spirit, the just measure that keeps the will tuned and free. Where courage holds the wedge against an outward cost, temperance holds it against an inward one: the constant pull of appetite, excess, and the thousand small overreactions by which a will loses its tuning and its freedom. Three witnesses, each a master of measure in a different register: a Greek who defined virtue itself as a mean; a Roman emperor at the maximum of power and noise who kept a private journal to stay tuned; and a composer whose whole art was the well-tempered — proportion held free across every possible transformation.*
+
+*Status: a structural reading in three witnesses, promotions of the parked case studies and Book 3. The identification of each with temperance (e₂e₃ = the just measure that keeps the will free) is the reading, offered as concordance (Feature 6).*
+
+---
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> **"Virtue is a mean between two vices, the one of excess and the other of defect."**
+> *— Aristotle, Nicomachean Ethics II.6*
+
+</div>
+
+---
+
+## The score: what temperance is
+
+Temperance is the second bivector, e₂e₃ — the Son-mode wedged with the Spirit-mode, the well-tempered will. It is not the dour suppression the word has come to suggest; it is the *just measure*, the keeping of every appetite and reaction within the range where the will stays tuned to the ground rather than yanked off it by excess or deadened by deficiency. The temperate will is the *free* will, because a will saturated by appetite or jerked about by every stimulus has no orientation left to give to anything higher — temperance is what keeps the single orientation available. Its danger, inverted later, is the loss of measure in either direction, excess or insensibility. The three witnesses below hold the measure as a doctrine, as a daily practice under maximum pressure, and as an art form.
+
+## Aristotle: the mean relative to us
+
+The lead witness gave measure its definition. Aristotle's doctrine of the mean is the structural heart of the *Nicomachean Ethics*, and the reading is careful that it is not what it is often coarsened into — not the arithmetic midpoint between two numbers, but the *Φ-proximate attractor in a given domain*, the configuration of closest achievable approach to a rightly-ordered response, and explicitly *relative to us* (πρὸς ἡμᾶς), dependent on the person, the situation, and what they are already capable of. Courage is the mean between cowardice and rashness; temperance proper the mean between licentiousness and insensibility; and the faculty that finds it, φρόνησις, practical wisdom, is the calibration that reads the right measure off a live situation rather than computing it. Virtue, on this account, is the Reconciling force tuning between the goal and the contingent appetite — and the freedom of it is exact: to act from settled virtue is *not* to fight one's own passions but to have organized them toward the right, so that the measured act is the unforced one. Aristotle's beginner is even told to lean, at first, away from the vice he is most prone to — the practical wisdom of a man who knew measure is learned, not given.
+
+## Marcus Aurelius: the measure kept at the maximum of noise
+
+Move from the doctrine to a man living it at the worst possible vantage for it. Marcus Aurelius wrote the *Meditations* as a private journal — never for publication — while ruling an empire, which is to say at the maximum of power, flattery, grievance, and noise, the position most apt to pull a will permanently off true. And the journal is the catching program kept as a discipline: the daily withdrawal into the *hegemonikon*, the ruling faculty, to re-tune the orientation to the *Logos*, the grain of the universe. His temperance is not flatness — his *apatheia* is the affects *operating within their proper structural range rather than overriding the ruling faculty*, which is precisely the just measure, the will neither deadened nor hijacked. *Retire into yourself*, he tells himself; *not to be moved to excess at each event*; and the sentence that is the whole virtue compressed: *the impediment to action advances action; what stands in the way becomes the way* — the temperate will so tuned that even the obstacle is taken up into the orientation rather than allowed to derail it. An emperor who could have had anything kept a notebook to keep himself from being had by it. That is temperance under the heaviest load it can bear.
+
+## Bach: the well-tempered
+
+The third witness made measure audible. The very name of Bach's keyboard collection is the virtue — the *well-tempered* — and *The Art of Fugue* is the just measure raised to a structural absolute: a single theme put through every transformation a theme can survive, inverted, augmented, set against itself at every interval, and held *proportionate* across all of it. The fugue is the Law of Seven made music, and its temperance is in the tuning that lets every key sound without any one of them being out of true — the well-tempered system that keeps the whole field free, so that the music can go anywhere and resolve from anywhere. The countersubject is the Reconciling third that keeps subject and answer generative rather than merely doubled; the tonal answer responds *symmetrically but not identically*, the measured reply that fits without flattening. And the whole vast collection is one spectral object measured against itself at every possible interval and found, at every one, in proportion. Bach is temperance as art: not the absence of feeling but its perfect tuning, the will of a thing kept free precisely by being held in measure.
+
+## Three witnesses, one tuning
+
+A philosopher defining virtue as the mean relative to us; an emperor keeping a private discipline to stay tuned amid the loudest noise a life can hold; a composer making the well-tempered into an art that can sound any key without losing true. Doctrine, practice, and music — three registers, no shared source — one structure: the just measure that keeps the will free, neither saturated by appetite nor deadened nor jerked off course, the single orientation kept available for the ground. The temperate will is the tuned will, and the tuned will is the free one. The Company has shown courage that holds against outward cost and temperance that holds against inward pull; the third and last bivector is diligence — the measure extended through time, the sustained labor that bears fruit.
+
+---
+
+*This is C4, the Sol of the Company and the second overcoming-virtue — temperance (e₂e₃ = Son-mode × Spirit-mode, the just measure that keeps the will tuned and free; the temperate will = the free will), read across three uncolludable witnesses (Feature 6). **Aristotle** (lead): the doctrine of the mean = the Φ-proximate attractor "relative to us" (πρὸς ἡμᾶς), not an arithmetic midpoint; temperance the mean between licentiousness and insensibility; φρόνησις the calibration; virtue as the Reconciling force, so the measured act is the unforced one (organize the passions, don't fight them); lean from your besetting vice. **Marcus Aurelius**: the Meditations as the catching program kept under maximum noise (emperor) — daily withdrawal to the hegemonikon to re-tune to the Logos; apatheia = affects within their proper range, not overriding the ruling faculty ("not to be moved to excess at each event"; "what stands in the way becomes the way"). **Bach** (The Art of Fugue): the "well-tempered" — one theme held proportionate across every transformation; the tuning that frees every key; the countersubject as Reconciling third; the tonal answer "symmetrically but not identically." Convergence: doctrine, lived discipline, and music on one just measure that keeps the will free. From C3; hands to C5 (Diligence).*
