@@ -22,9 +22,9 @@ The structure was carried, in whole or in part, by particular people long before
 - **[[Paper C1: The True|Paper C1 — The True]]** *(Re · e₂)* — Augustine · Dante · the Unreasonable Effectiveness of Mathematics
 - **[[Paper C2: The Beautiful|Paper C2 — The Beautiful]]** *(Mi · e₃)* — the Last Supper · Shakespeare's Sonnets · Christopher Alexander
 - **[[Paper C2½: The Witnesses Were Already There|Paper C2½ — The Witnesses Were Already There]]** *(Mi–Fa interval)*
-- **[[Paper C3: Courage|Paper C3 — Courage]]** *(Fa · e₁e₂)* — Joan of Arc · Ikiru · Hopkins
-- **[[Paper C4: Temperance|Paper C4 — Temperance]]** *(Sol · e₂e₃)* — Aristotle · Marcus Aurelius · Bach
-- **[[Paper C5: Diligence|Paper C5 — Diligence]]** *(La · e₁e₃)* — Evolution by Natural Selection · Franklin · "You Can Just Do Things"
+- **[[Paper C3: The Courageous|Paper C3 — The Courageous]]** *(Fa · e₁e₂)* — Joan of Arc · Ikiru · Hopkins
+- **[[Paper C4: The Restrained|Paper C4 — The Restrained]]** *(Sol · e₁e₃)* — Aristotle · Marcus Aurelius · Bach
+- **[[Paper C5: The Diligent|Paper C5 — The Diligent]]** *(La · e₂e₃)* — Evolution by Natural Selection · Franklin · "You Can Just Do Things"
 - **[[Paper C6: The Host of Witnesses|Paper C6 — Humility (the Host of Witnesses)]]** *(Si · I)*
 - **[[Paper C6½: The Crossing|Paper C6½ — The Crossing]]** *(Si–Do interval)*
 - **[[Paper C7: The Inversion|Paper C7 — The Inversion]]** *(the closing Do — the next tonic)*

@@ -1,4 +1,4 @@
-# Paper C5: Diligence — The Labor That Bears Fruit, Read Three Ways
+# Paper C5: The Diligent — The Labor That Bears Fruit, Read Three Ways
 
 *The La of the Company, and the last of the overcoming virtues: diligence — e₂e₃, the Son wedged with the Spirit, sustained and rightly-aimed labor that bears fruit across time. Courage holds the wedge against an outward cost and temperance against an inward pull; diligence holds it against the one adversary neither has faced directly — time itself, the Heropass, which dissolves any deposit that is not sustained. The virtue of this note is continuity: the right work, aimed the right way, kept up past the point where it would otherwise erode. Three witnesses across the widest span the section reaches: the patient cumulative process that built the whole tree of life without a chooser; a printer who built a self by daily ledger; and a single contemporary sentence that names the only thing standing between intention and the work.*
 
