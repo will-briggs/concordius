@@ -1,7 +1,7 @@
 ---
 title: Section G — The Practice
 tags:
-  - nav-order::5
+  - nav-order::8
 ---
 
 # Section G — The Practice

@@ -76,4 +76,4 @@ That limit is not the end of the work. It is the beginning of the next part of i
 
 ---
 
-*[[Section II - The Wide Reading/index|Section II → The Wide Reading]] →*
+*[[Section B - The Inheritance/index|Section B → The Inheritance]] →*
