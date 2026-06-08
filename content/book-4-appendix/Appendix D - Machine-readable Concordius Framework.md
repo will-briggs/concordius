@@ -1,8 +1,8 @@
 ---
-title: Appendix A - Machine-readable Concordius Framework
+title: Appendix D - Machine-readable Concordius Framework
 ---
 
-# Appendix A — Machine-readable Concordius Framework
+# Appendix D — Machine-readable Concordius Framework
 
 ---
 
@@ -287,4 +287,4 @@ M is **not yet quantifiable** (Paper 10½ OQ5): account for the messenger filter
 
 ---
 
-*This file is Appendix A of Book 4. For full derivations, see the Concordius Papers (Book 2). For the technical vocabulary in full, see Appendix B — Lexicon. For the reading method in full, see the Framework and Method section of Book 3 — Structural Readings.*
+*This file is Appendix D of Book 4. For full derivations, see the Concordius Papers (Book 2). For the technical vocabulary in full, see Appendix B — Lexicon. For the reading method in full, see the Framework and Method section of Book 3 — Structural Readings.*

@@ -7,7 +7,7 @@ tags: [fruits-of-the-spirit, forbearance, patience, Time, catching-orientation]
 
 **Text:** Galatians 5:22; James 5:7-11; Romans 5:3-4; Hebrews 6:12  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Fruits of the Spirit  
-**Cross-references:** This Too Shall Pass (Aphorisms); Suffering (Human Conditions); Time (Appendix A)
+**Cross-references:** This Too Shall Pass (Aphorisms); Suffering (Human Conditions); Time (Appendix D)
 
 ---
 

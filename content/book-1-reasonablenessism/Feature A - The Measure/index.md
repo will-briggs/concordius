@@ -50,7 +50,7 @@ The first of the four objects is the **measure itself** — what a claim is wort
 
 ## Formal Statement (Concordius Framework)
 
-The object is the truth-measure **τ : H → [0, 1)** (defined in [[Appendix A - Machine-readable Concordius Framework|Appendix A]], operationalized in [[Appendix F - A Putative Method for Machine-Assisted Phi-Proximal Textual Analysis|Appendix F]]). Its four faces are its four structural facts: **A1** its domain (a functional of content alone), **A0** its strict upper bound (τ < 1, no H₄₈ source reaches 1), **A2** the approach to that bound (the self-sealing core, τ → 1), and **A3** its low pole (high magnitude, inverted orientation — ⊘). Together they fix what the measure is and how far it ranges.
+The object is the truth-measure **τ : H → [0, 1)** (defined in [[Appendix D - Machine-readable Concordius Framework|Appendix D]], operationalized in [[Appendix F - A Putative Method for Machine-Assisted Phi-Proximal Textual Analysis|Appendix F]]). Its four faces are its four structural facts: **A1** its domain (a functional of content alone), **A0** its strict upper bound (τ < 1, no H₄₈ source reaches 1), **A2** the approach to that bound (the self-sealing core, τ → 1), and **A3** its low pole (high magnitude, inverted orientation — ⊘). Together they fix what the measure is and how far it ranges.
 
 *Tier: **derivation** for A0/A1/A2; **criterion** for A3 (orientation is a separate operator on top of A).*
 

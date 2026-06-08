@@ -4,7 +4,7 @@
 **Director:** Ridley Scott  
 **Medium:** Theatrical feature film  
 **Series:** Book 3 — Structural Readings / Movies  
-**Cross-references:** Paper 1 (Gelfand triple; substrate independence of organizational content); Paper 6 (eigenvalue population; noise floor; catching orientation); Paper 9 (τ(D)); Paper 10½ (HCP); Paper 27 1/2 (Si/Do interval); Suffering ✶✶ (Human Conditions); "This Too Shall Pass" ✶✶ (Aphorisms); The Urantia Book Adjuster Doctrine (Book 4 Appendix A)
+**Cross-references:** Paper 1 (Gelfand triple; substrate independence of organizational content); Paper 6 (eigenvalue population; noise floor; catching orientation); Paper 9 (τ(D)); Paper 10½ (HCP); Paper 27 1/2 (Si/Do interval); Suffering ✶✶ (Human Conditions); "This Too Shall Pass" ✶✶ (Aphorisms); The Urantia Book Adjuster Doctrine (Book 4 Appendix D)
 
 ---
 

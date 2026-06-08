@@ -55,7 +55,7 @@ Each reviewer reads only its own lane, holds the whole corpus in view, and runs 
 | Book 1 — Reasonablenessism (the Good) | ~11,800 | 13 flat files — the accessible givens |
 | Book 2 — Concordius Papers (the True) | ~236,000 | super-octave A–G, each section an octave |
 | Book 3 — Structural Readings (the Beautiful) | ~449,000 | category folders (Lives, Literature, Sacred Texts, Film, …) |
-| Book 4 — Appendix (apparatus) | ~54,800 | 6 appendices (A–C, E, F; this is G); Appendix A carries the formal spine |
+| Book 4 — Appendix (apparatus) | ~54,800 | 7 appendices (A–F; this is G); Appendix D carries the formal spine |
 | **Corpus** | **~752,000** | |
 
 - **GoodChecker — PASS on consistency.** The whole reduces to one Cl(3,0) / one Gelfand triple / one cascade; no paper contradicts the global structure. The corrected grade-2 assignment (**temperance = e₁e₃, diligence = e₂e₃**) holds everywhere — the drift check returns **zero real hits**. *Deferred:* the deepest pass — line-by-line re-derivation of every paper — has not been run, so no clean global **ERROR/SMUGGLE** verdict can yet be asserted, only the absence of structural drift.
@@ -67,7 +67,7 @@ Each reviewer reads only its own lane, holds the whole corpus in view, and runs 
 - **Book 1 (the Good) — PASS; a prior flag resolved.** Reasonablenessism, ~11,800 words across 13 flat files, is the smallest book and the only Triptych panel with no octave structure. An earlier pass of this audit flagged exactly that as *"under-built for the book that **is** the True."* The flag was itself a mislabel, and naming it is what corrected it: this book is not the True but the **Good** — the accessible givens, the ground anyone can pick up — and a spare, plain, structure-light Good is exactly right, not under-built. The disproportion was a fault in the frame, not in the work. *(This is the second place in this audit where the instrument, not the corpus, was found wanting — see §4.)*
 - **Book 2 (the True) — PASS.** The Concordius Papers, ~236,000 words, the super-octave A–G present and ordered: the heaviest, most formal book, the long articulation of what Φ looks like from H₄₈ — as the True should be.
 - **Book 3 (the Beautiful) — PASS on richness.** ~449,000 words across a wide range; the largest book, and still growing. It is also the chief origin and destination of the dangling links.
-- **Book 4 (apparatus) — PASS, with the dictionary's forward-pointers still owed.** Appendix A holds the formal spine and is current. Appendix B (the Lexicon) still cross-references parked content and has not yet been given forward-pointers for the recently migrated terms (Time, the Law of Seven, reciprocal maintenance).
+- **Book 4 (apparatus) — PASS, with the dictionary's forward-pointers still owed.** Appendix D holds the formal spine and is current. Appendix B (the Lexicon) still cross-references parked content and has not yet been given forward-pointers for the recently migrated terms (Time, the Law of Seven, reciprocal maintenance).
 
 ### Section level (Book 2)
 

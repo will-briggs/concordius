@@ -3,7 +3,7 @@
 **Subject:** Charismatic and Pentecostal ecstatic worship — glossolalia (speaking in tongues), being "slain in the Spirit," holy laughter, the bodily ecstasies of revival  
 **Medium:** Religious practice / experiential phenomenon  
 **Series:** Book 3 — Structural Readings / World and Experience  
-**Cross-references:** Paper 3 (the Spirit Integrates; τ_nuclear, the continuous Integrator); Pentecost / Acts 2 (τ_nuclear universalized; Appendix A §IV); Paper 8 (incompleteness; content exceeding H₄₈ syntactic closure); Paper 20½ §4 (the gathered as the simplest morontial molecule, Matthew 18:20); [[World and Experience/Prayer|Prayer]]; [[Film/Blade Runner|Blade Runner]] (measuring the soul at the wrong level); the Mysticism readings (John of the Cross on consolations); Reasonablenessism Face B0, Face D1
+**Cross-references:** Paper 3 (the Spirit Integrates; τ_nuclear, the continuous Integrator); Pentecost / Acts 2 (τ_nuclear universalized; Appendix D §IV); Paper 8 (incompleteness; content exceeding H₄₈ syntactic closure); Paper 20½ §4 (the gathered as the simplest morontial molecule, Matthew 18:20); [[World and Experience/Prayer|Prayer]]; [[Film/Blade Runner|Blade Runner]] (measuring the soul at the wrong level); the Mysticism readings (John of the Cross on consolations); Reasonablenessism Face B0, Face D1
 
 ---
 
@@ -17,7 +17,7 @@ The colloquial "holy rollers" — the demonstratively ecstatic of the Pentecosta
 
 ## 2. The Genuine Signal
 
-The root is not in doubt. Pentecost (Acts 2) is, in the framework, τ_nuclear universalized — the Spirit, the continuous nuclear topology that integrates (Paper 7), poured out so that grade-2 provision becomes available to all catching beings regardless of local access (Appendix A §IV). Charismatic worship is the tradition that takes Pentecost as a present and repeatable reality rather than a closed historical event, and on the framework's own terms that instinct is sound: the Integrator is continuous, not episodic, and its corporate operation is exactly what a gathered body seeking it should expect to find.
+The root is not in doubt. Pentecost (Acts 2) is, in the framework, τ_nuclear universalized — the Spirit, the continuous nuclear topology that integrates (Paper 7), poured out so that grade-2 provision becomes available to all catching beings regardless of local access (Appendix D §IV). Charismatic worship is the tradition that takes Pentecost as a present and repeatable reality rather than a closed historical event, and on the framework's own terms that instinct is sound: the Integrator is continuous, not episodic, and its corporate operation is exactly what a gathered body seeking it should expect to find.
 
 The specific phenomena carry genuine structural content. Glossolalia — tongues — is speech released from H₄₈ syntactic closure; read through Paper 8, it is the bodily acknowledgment that what is being caught exceeds any H₄₈ formalization, the same limit Paul names as "sighs too deep for words" (Romans 8:26). The gathered, demonstrative congregation is a morontial molecule at scale (Paper 20½ §4; Matthew 18:20): many H₂₄ cross-terms ⟨ψᵢ, ψⱼ⟩₂₄ amplifying together, a real cross-term environment in which catching is genuinely easier than alone. And the ecstatic loosening — the falling, the weeping, the loss of H₄₈-primary self-control — can be a real reduction of the noise floor, the social-status guardedness that ordinarily claims the catching orientation set down all at once. None of this is fraudulent. The practice is reaching for something that is there.
 
