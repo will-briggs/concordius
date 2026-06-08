@@ -2,7 +2,8 @@
 
 ---
 
-*Discipline the Passive — features that train the evaluating mind to receive properly.*
+> **No source is axiom. All are evidence.**
+> **Stand on what you must — but state it plainly, and never mistake it for the ground.**
 
 ---
 
@@ -10,11 +11,6 @@
 <img src="/static/images/feature-01-vermeer-balance.jpg" alt="Johannes Vermeer, Woman Holding a Balance" style="max-width:100%;">
 <figcaption><em>Johannes Vermeer, Woman Holding a Balance</em> (c. 1664). National Gallery of Art, Washington. The balance hangs empty and level before anything is set on it — each claim weighed on its own, nothing privileged in advance of the weighing.</figcaption>
 </figure>
-
----
-
-> **No source is axiom. All are evidence.**
-> **Stand on what you must — but state it plainly, and never mistake it for the ground.**
 
 ---
 

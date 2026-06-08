@@ -4,7 +4,7 @@
 
 ---
 
-*Constitute the Reconciling operation — the specific mechanisms that mediate between reality and the evaluating mind.*
+> **Label what you know by how you know it.**
 
 ---
 
@@ -12,10 +12,6 @@
 <img src="/static/images/feature-09-great-chain-of-being.png" alt="The Great Chain of Being (Diego Valadés, 1579)" style="max-width:100%;">
 <figcaption><em>The Great Chain of Being</em>, from Diego Valadés, <em>Rhetorica Christiana</em> (1579). Every rung named and set in order, mineral to angelic — knowledge held in explicit tiers, each labeled by its kind and degree.</figcaption>
 </figure>
-
----
-
-> **Label what you know by how you know it.**
 
 ---
 

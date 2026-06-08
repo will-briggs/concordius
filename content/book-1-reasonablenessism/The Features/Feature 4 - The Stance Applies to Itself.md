@@ -4,7 +4,7 @@
 
 ---
 
-*Discipline the Passive — features that train the evaluating mind to receive properly.*
+> **Reasonablenessism applies to itself. No feature is exempt.**
 
 ---
 
@@ -12,10 +12,6 @@
 <img src="/static/images/feature-04-las-meninas.jpg" alt="Diego Velázquez, Las Meninas" style="max-width:100%;">
 <figcaption><em>Diego Velázquez, Las Meninas</em> (1656). Museo del Prado. The painter paints himself painting the scene, and the far mirror shows what the canvas faces — the work turned back upon itself.</figcaption>
 </figure>
-
----
-
-> **Reasonablenessism applies to itself. No feature is exempt.**
 
 ---
 

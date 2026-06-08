@@ -4,7 +4,7 @@
 
 ---
 
-*Constitute the Reconciling operation — the specific mechanisms that mediate between reality and the evaluating mind.*
+> **Follow the argument as far as it goes. When it stops, name where it stops and shift methods.**
 
 ---
 
@@ -12,10 +12,6 @@
 <img src="/static/images/feature-10-carta-marina.jpg" alt="Olaus Magnus, Carta Marina" style="max-width:100%;">
 <figcaption><em>Olaus Magnus, Carta Marina</em> (1539). The charted coast gives way to sea-monsters at its margins — a map that marks exactly where reliable knowledge ends and another method must take over.</figcaption>
 </figure>
-
----
-
-> **Follow the argument as far as it goes. When it stops, name where it stops and shift methods.**
 
 ---
 

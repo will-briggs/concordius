@@ -4,7 +4,7 @@
 
 ---
 
-*Protect the Active — features that ensure genuine signal reaches through Passive distortion.*
+> **When everyone who has ever looked confirms the same inner experience, that is the strongest available grounds for inferring an objective fact.**
 
 ---
 
@@ -12,10 +12,6 @@
 <img src="/static/images/feature-08-air-pump.jpg" alt="Joseph Wright of Derby, An Experiment on a Bird in the Air Pump" style="max-width:100%;">
 <figcaption><em>Joseph Wright of Derby, An Experiment on a Bird in the Air Pump</em> (1768). The National Gallery, London. A room of observers attends a single demonstration and sees the same thing — where everyone who looks confirms the same result, the inference to an objective fact is strongest.</figcaption>
 </figure>
-
----
-
-> **When everyone who has ever looked confirms the same inner experience, that is the strongest available grounds for inferring an objective fact.**
 
 ---
 

@@ -4,7 +4,7 @@
 
 ---
 
-*Discipline the Passive — features that train the evaluating mind to receive properly.*
+> **Personal experience is evidence. It is not proof.**
 
 ---
 
@@ -12,10 +12,6 @@
 <img src="/static/images/feature-03-incredulity-of-thomas.jpg" alt="Caravaggio, The Incredulity of Saint Thomas" style="max-width:100%;">
 <figcaption><em>Caravaggio, The Incredulity of Saint Thomas</em> (c. 1601–2). Sanssouci, Potsdam. Thomas's finger in the wound: first-hand experience is genuine evidence — direct and undeniable to him — but it remains one witness's testimony, not proof.</figcaption>
 </figure>
-
----
-
-> **Personal experience is evidence. It is not proof.**
 
 ---
 

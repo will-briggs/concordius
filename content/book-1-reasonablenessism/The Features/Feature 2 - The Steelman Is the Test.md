@@ -4,7 +4,7 @@
 
 ---
 
-*Discipline the Passive — features that train the evaluating mind to receive properly.*
+> **Steelman first. Test what survives.**
 
 ---
 
@@ -12,10 +12,6 @@
 <img src="/static/images/feature-02-forge-of-vulcan.jpg" alt="Diego Velázquez, The Forge of Vulcan" style="max-width:100%;">
 <figcaption><em>Diego Velázquez, The Forge of Vulcan</em> (1630). Museo del Prado. Metal is worked at the forge until only the sound temper survives the fire — a position hammered into its strongest form and trusted to the degree it withstands the test.</figcaption>
 </figure>
-
----
-
-> **Steelman first. Test what survives.**
 
 ---
 

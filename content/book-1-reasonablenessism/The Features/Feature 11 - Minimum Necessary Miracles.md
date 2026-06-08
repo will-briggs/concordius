@@ -4,7 +4,7 @@
 
 ---
 
-*Constitute the Reconciling operation — the specific mechanisms that mediate between reality and the evaluating mind.*
+> **When comparing accounts, prefer the one requiring fewer unexplained events.**
 
 ---
 
@@ -12,10 +12,6 @@
 <img src="/static/images/feature-11-william-of-ockham.jpg" alt="William of Ockham" style="max-width:100%;">
 <figcaption><em>William of Ockham</em>, manuscript illustration from his <em>Summa logicae</em> (1341). The namesake of the razor: among competing accounts, prefer the one requiring the fewest unexplained entities.</figcaption>
 </figure>
-
----
-
-> **When comparing accounts, prefer the one requiring fewer unexplained events.**
 
 ---
 
