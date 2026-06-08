@@ -1,6 +1,8 @@
-# Si–Do — The Crossing We Make Together
+# Paper C6½: The Crossing — The One We Make Together
 
-*The Si–Do of the Personal octave — the octave of the Host of Witnesses, the last octave before the descending one. The previous octave's Si–Do, the Reader's Turn, was crossed alone — "this action can only be performed by the Reader." This one cannot be. It is the companion and the answer to that solitary crossing. There, a reader turned by himself, because the turning was his to make. Here, author and reader cross together — because what waits at this interval is not a page to be turned but a darkness to be faced, and no one should face it by himself.*
+*The Si–Do crossing of the personal octave — the deliberate companion to the previous Reader's Turn, which was crossed alone ("this action can only be performed by the Reader"). This one cannot be crossed alone: what waits at the interval is not a page to be turned but a darkness to be faced — the darkness in one's own heart — and so author and reader cross it together, because no one should face that by himself.*
+
+**Confidence —** *Math:* **— (not engaged)**. *Science:* **— (not engaged)**. *Theology:* **— (the reader's act)** — the Si–Do shock realized as a crossing made together; it proves nothing and asks a turning (Psalm 139:23–24; Solzhenitsyn's line that the dividing line between good and evil runs through every human heart).
 
 ---
 
@@ -25,4 +27,4 @@ So we cross. Not alone, and not by pretending the darkness was only ever other p
 
 ---
 
-*This is the Si–Do of the Personal octave — the octave of the Host of Witnesses — and the deliberate companion to the previous octave's Si–Do, the Reader's Turn, which was crossed alone. Its claim: the ascending octave inspires (easy); the inverted notes make us face the darkness in the world (harder); the crossing itself is to face that same darkness in one's own heart (hardest), per Solzhenitsyn's line and the prayer of Psalm 139:23–24 — and, unlike the solitary Reader's Turn, this one is crossed together, author and reader and the co-authors with each other, because no one should examine his own heart, or refuse his own darkness, alone. Epigraph: Psalm 139:23–24. Crossing it ends the octave of the witnesses and opens onto its closing Do, "The Inversion — Do (in the minor key)," which sets the stage for the descending octave beyond (Hitler/Stalin/Mao...).*
+*The crossing made together — the companion to the solitary Reader's Turn. Its claim: the ascending octave inspires (easy); the inverted notes make us face the darkness in the world (harder); the crossing itself is to face that same darkness in one's own heart (hardest), per Solzhenitsyn's line and the prayer of Psalm 139:23–24 — and, unlike the solitary Reader's Turn, this one is crossed together, author and reader and the co-authors with each other, because no one should examine his own heart, or refuse his own darkness, alone. Epigraph: Psalm 139:23–24. Crossing it ends the octave of the witnesses and opens onto the closing note, [[Paper C7: The Inversion]], which sets the stage for the descending octave beyond. Scripture: Psalm 139:23–24.*
