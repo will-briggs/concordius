@@ -28,7 +28,7 @@ Formal definitions of the technical vocabulary used throughout the series, from 
 [[Appendix C - A Putative Method for Machine-Assisted Phi-Proximal Textual Analysis|Appendix C — A Putative Method for Machine-Assisted Φ-Proximal Textual Analysis]]
 A candidate operationalization of τ(D): four observables, a two-stage filtering algorithm, and the current state of the detection program.
 
-[[Appendix D - Falsifiable Quantitative Predictions|Appendix D — Falsifiable Quantitative Predictions of the Concordius Framework]]
+[[Appendix E - Falsifiable Quantitative Predictions|Appendix E — Falsifiable Quantitative Predictions of the Concordius Framework]]
 What the framework predicts that science has not yet confirmed: the H₂₄→H₄₈ phase transition at ~10⁻²⁸ s, dark matter's structural invisibility, the failure of graviton QFT, the dark energy equation of state, and the primordial gravitational wave spectrum from cascade transitions. With explicit statements of what would falsify each.
 
 [[Appendix F - Catalogue of Illustrations|Appendix F — Catalogue of Illustrations]]
