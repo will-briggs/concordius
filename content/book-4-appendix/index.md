@@ -6,6 +6,8 @@ tags:
 
 # Book 4 — Appendix
 
+*The supporting architecture of the Concordius series. The dictionary gives the technical vocabulary its precise definitions. The machine-readable framework is the dense structured reference optimized for LLM-assisted structural readings. The falsifiable predictions are where the framework makes specific, testable contact with science. The structural reading of the series turns the framework on itself.*
+
 ---
 
 <figure style="margin-bottom: 3rem;">
@@ -14,14 +16,6 @@ tags:
 </figure>
 
 <hr>
-
-<div style="margin-top: 3rem; margin-bottom: 3rem;">
-
-*The supporting architecture of the Concordius series. The dictionary gives the technical vocabulary its precise definitions. The machine-readable framework is the dense structured reference optimized for LLM-assisted structural readings. The falsifiable predictions are where the framework makes specific, testable contact with science. The structural reading of the series turns the framework on itself.*
-
-</div>
-
----
 
 [[Appendix I - Dictionary of Terms|Appendix I — Dictionary of Terms]]
 Formal definitions of the technical vocabulary used throughout the series, from Clifford algebra to Time to τ(D).

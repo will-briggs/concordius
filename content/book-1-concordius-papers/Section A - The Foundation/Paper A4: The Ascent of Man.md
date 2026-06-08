@@ -2,7 +2,7 @@
 
 # Paper A4: The Ascent of Man: From Particle to Body
 
-*The material thread, told as current science: from the first particles with mass through nucleosynthesis, the stars and the elements, the Earth, the origin of life and the long microbial epoch, the complex cell, the rise of animals, the move onto land, the mammalian and primate lines, to the australopithecine grade and the genus* Homo *— then past biology, through the peopling of the world and the genealogical line of Israel with its historicity debates named, to one ordinary human body, born in Roman Judea.*
+*The material thread: from the first particles with mass through nucleosynthesis, the stars and the elements, the Earth, the origin of life and the long microbial epoch, the complex cell, the rise of animals, the move onto land, the mammalian and primate lines, to the australopithecine grade and the genus* Homo *— then past biology, through the peopling of the world and the genealogical line of Israel with its historicity debates named, to one ordinary human body, born in Roman Judea.*
 
 **Confidence —** *Math:* **— (not engaged)** — no new mathematics. *Science:* **inference** — the material thread to current science (nucleosynthesis and the elements, the origin of life and the long microbial epoch, the rise of animals and the primate line, the genus *Homo*, the peopling of the world), with the historicity debates of the Hebrew genealogical line named where they stand. *Theology:* **— (not engaged)** — the line is followed to one body in Roman Judea, no theological claim asserted here.
 

@@ -2,7 +2,7 @@
 
 # Paper A6½: The Tomb
 
-*The three days in the sealed tomb, looked at three times: the bond between the Father and the Son held at its furthest distance and not severed; the body itself, really dead by the same order that carried it up; and the descent among the dead, where the one physical trace the tradition has claimed — the burial cloth — is weighed and left in its honest doubt. The three looks converge on the silence the Gospels do not narrate.*
+*The three days in the sealed tomb: the bond between the Father and the Son held at its furthest distance and not severed; the body itself, really dead by the same order that carried it up; and the descent among the dead, where the one physical trace the tradition has claimed — the burial cloth — is weighed and left in its honest doubt — all of it closing on the silence the Gospels do not narrate.*
 
 **Confidence —** *Math:* **— (not engaged)**. *Science:* **— (not engaged)** — the one physical claim, the burial cloth, is weighed and left in honest doubt. *Theology:* **inference** — the three days the Gospels do not narrate, read three ways (the Father–Son bond held at its furthest distance and not severed; the body really dead by the same order that carried it up; the descent among the dead), converging on the unnarrated silence.
 

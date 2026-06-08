@@ -2,7 +2,7 @@
 
 # Paper E3: Cowardice
 
-*The inverse of **courage** — the first of the three bivector virtues — at the cosmic scale and the human one. Courage is the Good wedged with the True (e₁e₂, Father × Son in action), the known good-and-true let become a deed at cost to the self; it was Joan's note, the principle held to the fire. Its inverse, cowardice, defined mathematically as the withheld wedge — both generators present, the deed refused to keep the self off the cost — and read in two registers: the cosmic, in the arch-rebel who would not go first, and the human, in the daily withholding of the act one knows one owes.*
+*The inverse of **courage** — the first of the three bivector virtues — at the cosmic scale and the human one. Courage is the Good wedged with the True (e₁e₂, Father × Son in action), the known good-and-true let become a deed at cost to the self; it was Joan's note, the principle held to the fire. Its inverse, cowardice, defined mathematically as the withheld wedge — both generators present, the deed refused to keep the self off the cost — at the cosmic scale, in the arch-rebel who would not go first, and at the human, in the daily withholding of the act one knows one owes.*
 
 **Confidence —** *Math:* **derivation** — cowardice as the withheld wedge: both generators (the Good, the True) present in the agent, the bivector (the deed at cost to the self) refused; the one vice that requires full possession of both the Good and the True to commit. *Science:* **— (not engaged)**. *Theology:* **concordance** — Scripture confirmatory (John 12:42–43; Revelation 21:8). It carries one correction: the cosmic case must not depict the rebel as already undone — he is not decohered, only imprisoned, awaiting the end he has earned but not yet reached.
 

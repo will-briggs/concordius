@@ -2,7 +2,7 @@
 
 # Paper C0: The Good — The Ground, Read Three Ways
 
-*The Good — e₁, the constitutive ground itself, ⟨·,·⟩ read as the source from which all organization derives and toward which the only fit response is gratitude — the first of the three transcendentals, read three times across three witnesses who could not have arranged their agreement: a Greek philosopher (Plato's Form of the Good "beyond being"), a Florentine painter (the gap in the Creation of Adam), and the oldest book of the Chinese (the nameless Tao). Made slowly, and showing its own seams — marking out loud where it reads cleanly and where it presses a work into a shape the work only half-offers — so that the method by which the whole section reads is visible in the making.
+*The Good — e₁, the constitutive ground itself, ⟨·,·⟩ read as the source from which all organization derives and toward which the only fit response is gratitude — the first of the three transcendentals, present across three witnesses who could not have arranged their agreement: a Greek philosopher (Plato's Form of the Good "beyond being"), a Florentine painter (the gap in the Creation of Adam), and the oldest book of the Chinese (the nameless Tao).*
 
 **Confidence —** *Math:* **— (not engaged)** beyond naming the element — e₁ = ⟨·,·⟩ is taken from the algebra; no new mathematics. *Science:* **— (not engaged)**. *Theology:* **concordance** — the reading (the Good = the constitutive ground, e₁ = ⟨·,·⟩; native virtue gratitude) across three uncolludable witnesses (Feature 6), each graded honestly: two clean catches (Plato; the Tao Te Ching) and one supplied inference (the Creation of Adam). The convergence of independent witnesses is the evidential mechanism, offered as weight, not proof.
 
