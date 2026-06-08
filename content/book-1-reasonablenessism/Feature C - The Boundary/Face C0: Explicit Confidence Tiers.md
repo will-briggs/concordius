@@ -43,7 +43,7 @@ The honest version: "I've heard good things about X — I don't know the researc
 - **convergent** — a posterior assembled from independent likelihoods (Face B1), soft and accumulating;
 - **testimonial** — a single likelihood increment (Face B0), soft and easily overturned.
 
-A deductive 0.9 and a testimonial 0.9 are different objects: they respond differently to new evidence. Collapsing the pair to its magnitude — presenting everything at one confidence — is a **type error**, and it is exactly TruthChecker's OVERCLAIM (a concordance dressed as a derivation, a granted premise dressed as established). The types map onto the constraint hierarchy: Tier 1 derivations from the cogito + Gelfand triple (τ → 1, the anchor nodes of the dependency graph, Appendix C §2); Tier 2 concordance from independent witnesses; Tier 3 the practitioner's not-yet-confirmed working-out.
+A deductive 0.9 and a testimonial 0.9 are different objects: they respond differently to new evidence. Collapsing the pair to its magnitude — presenting everything at one confidence — is a **type error**, and it is exactly TruthChecker's OVERCLAIM (a concordance dressed as a derivation, a granted premise dressed as established). The types map onto the constraint hierarchy: Tier 1 derivations from the cogito + Gelfand triple (τ → 1, the anchor nodes of the dependency graph, Appendix F §2); Tier 2 concordance from independent witnesses; Tier 3 the practitioner's not-yet-confirmed working-out.
 
 *Tier: **derivation** (as a discipline) — keeping a warrant's type (its update operator), not merely its number; the corpus's own confidence-tier rule made explicit.*
 

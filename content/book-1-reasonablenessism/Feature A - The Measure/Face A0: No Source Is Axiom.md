@@ -42,7 +42,7 @@ You don't have to become an expert. You have to treat each source as a witness r
 
 ## Formal Statement (Concordius Framework)
 
-A source is a vector **D** in the Hilbert space H; its truth-value is the **truth measure** τ(D) = ‖P_Φ D‖² ⁄ ‖D‖² ∈ [0, 1) — the fraction of D's spectral energy in the Φ-region of the ⟨·,·⟩-generated decomposition (defined in [[Appendix A - Machine-readable Concordius Framework|Appendix A]]; operationalized through the four proxies of [[Appendix C - A Putative Method for Machine-Assisted Phi-Proximal Textual Analysis|Appendix C]] — semantic coherence, cross-tradition convergence, predictive yield, generative centrality).
+A source is a vector **D** in the Hilbert space H; its truth-value is the **truth measure** τ(D) = ‖P_Φ D‖² ⁄ ‖D‖² ∈ [0, 1) — the fraction of D's spectral energy in the Φ-region of the ⟨·,·⟩-generated decomposition (defined in [[Appendix A - Machine-readable Concordius Framework|Appendix A]]; operationalized through the four proxies of [[Appendix F - A Putative Method for Machine-Assisted Phi-Proximal Textual Analysis|Appendix F]] — semantic coherence, cross-tradition convergence, predictive yield, generative centrality).
 
 **The theorem this feature rests on.** For every D generated within H₄₈, **τ(D) < 1 strictly**. The Φ-region is contained in no finite-constraint substrate (Φ ⊄ H₄₈), so the projection loses energy: P_Φ D ≠ D. Equivalently, by the Gödel–Tarski bound, no H₄₈ language carries its own truth-predicate — truth here *is* Φ-proximity, and Φ lies outside H₄₈ by construction. An "axiom" is a source of warrant 1, i.e. τ = 1; the theorem says none exists. Provenance cannot supply it either: τ is a functional of the content vector alone, constant across substrate, institution, and tradition.
 
@@ -50,7 +50,7 @@ A source is a vector **D** in the Hilbert space H; its truth-value is the **trut
 
 **The footing clause, made precise.** Where you must stand on an assumption a, it enters as a *conditioning event*: every downstream claim becomes ⟨· | a⟩, and since τ(a) < 1 the conditioning must be displayed, never marginalized away. This is why the framework carries its three grants ([[Section B - The Inheritance/index|Section B]]) in the open and as conditionals: declared provisional footing is honest conditioning; an assumption absorbed silently as if τ(a) = 1 is the axiom this feature denies.
 
-*Tier: **derivation** — given the framework's τ < 1 bound. The one input shared by all twelve — the operator A that computes the spectral decomposition for language — is now constructed in [[Appendix C - A Putative Method for Machine-Assisted Phi-Proximal Textual Analysis|Appendix C §6.2]] (the self-adjoint completion of the claim-support graph). The measure is therefore a defined computation modulo one named step: extracting that graph from raw text.*
+*Tier: **derivation** — given the framework's τ < 1 bound. The one input shared by all twelve — the operator A that computes the spectral decomposition for language — is now constructed in [[Appendix F - A Putative Method for Machine-Assisted Phi-Proximal Textual Analysis|Appendix F §6.2]] (the self-adjoint completion of the claim-support graph). The measure is therefore a defined computation modulo one named step: extracting that graph from raw text.*
 
 ---
 

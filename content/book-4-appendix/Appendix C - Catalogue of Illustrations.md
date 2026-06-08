@@ -1,8 +1,8 @@
 ---
-title: Appendix F - Catalogue of Illustrations
+title: Appendix C - Catalogue of Illustrations
 ---
 
-# Appendix F — Catalogue of Illustrations
+# Appendix C — Catalogue of Illustrations
 
 ---
 

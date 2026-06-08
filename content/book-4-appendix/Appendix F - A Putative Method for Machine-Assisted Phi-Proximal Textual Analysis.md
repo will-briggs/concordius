@@ -1,4 +1,4 @@
-# Appendix C — A Putative Method for Machine-Assisted Φ-Proximal Textual Analysis
+# Appendix F — A Putative Method for Machine-Assisted Φ-Proximal Textual Analysis
 
 ---
 

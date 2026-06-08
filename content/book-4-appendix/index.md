@@ -25,14 +25,14 @@ A dense structured reference for machine use: core mathematical identities, cons
 [[Appendix B - Lexicon|Appendix B — Lexicon]]
 Formal definitions of the technical vocabulary used throughout the series, from Clifford algebra to Time to τ(D).
 
-[[Appendix C - A Putative Method for Machine-Assisted Phi-Proximal Textual Analysis|Appendix C — A Putative Method for Machine-Assisted Φ-Proximal Textual Analysis]]
-A candidate operationalization of τ(D): four observables, a two-stage filtering algorithm, and the current state of the detection program.
+[[Appendix C - Catalogue of Illustrations|Appendix C — Catalogue of Illustrations]]
+A catalogue of the artworks reproduced across the corpus, generated from the figures actually in place, with the page each one appears on.
 
 [[Appendix E - Falsifiable Quantitative Predictions|Appendix E — Falsifiable Quantitative Predictions of the Concordius Framework]]
 What the framework predicts that science has not yet confirmed: the H₂₄→H₄₈ phase transition at ~10⁻²⁸ s, dark matter's structural invisibility, the failure of graviton QFT, the dark energy equation of state, and the primordial gravitational wave spectrum from cascade transitions. With explicit statements of what would falsify each.
 
-[[Appendix F - Catalogue of Illustrations|Appendix F — Catalogue of Illustrations]]
-A catalogue of the artworks reproduced across the corpus, generated from the figures actually in place, with the page each one appears on.
+[[Appendix F - A Putative Method for Machine-Assisted Phi-Proximal Textual Analysis|Appendix F — A Putative Method for Machine-Assisted Φ-Proximal Textual Analysis]]
+A candidate operationalization of τ(D): four observables, a two-stage filtering algorithm, and the current state of the detection program.
 
 [[Appendix G - Self-Audit|Appendix G — Self-Audit: A Critical Reading of the Concordius Framework]]
 The framework read against its own three reviewers — the intended structure, how the GoodChecker, TruthChecker, and BeautyChecker are run, and the current results at the framework, book, section, and paper levels. No holds barred.
