@@ -2,10 +2,11 @@
 title: Section F — The Ascension
 tags:
   - nav-order::7
-description: "The Ascension — the La: the road home, the ascending career voiced by four instruments at once, from the one elementary act of catching to the face-to-face state the whole climb was turned toward."
 ---
 
 # Section F — The Ascension
+
+*The Ascension — the La: the road home, the ascending career voiced by four instruments at once, from the one elementary act of catching to the face-to-face state the whole climb was turned toward.*
 
 *Papers F0–F7*
 

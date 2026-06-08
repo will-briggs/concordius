@@ -6,6 +6,8 @@ tags:
 
 # Book 1 — Concordius Papers
 
+*The whole framework, built from the ground up and walked end to end: reality modeled as a Gelfand triple, and the arc that follows from it — the Foundation, the Inheritance received and tested, the company of witnesses, the inversion and its privation, the road home, and the practice of a single life. Sections A through G, one octave, no faith asked of the reader but the willingness to follow the argument.*
+
 ---
 
 <figure style="margin-bottom: 3rem;">

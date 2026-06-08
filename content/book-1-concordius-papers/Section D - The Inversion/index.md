@@ -2,10 +2,11 @@
 title: Section D — The Inversion
 tags:
   - nav-order::5
-description: "The Inversion — the Fa and its shock: evil read in the lives that carried it furthest, three men and three results each the inversion of one element, the archetype beneath them, and the fall into the world."
 ---
 
 # Section D — The Inversion
+
+*The Inversion — the Fa and its shock: evil read in the lives that carried it furthest, three men and three results each the inversion of one element, the archetype beneath them, and the fall into the world.*
 
 *Papers D0–D7*
 

@@ -2,10 +2,11 @@
 title: Section B — The Inheritance
 tags:
   - nav-order::3
-description: "The Inheritance — the Re of the larger octave: the corpus received and put to its own test. The three inherited grounds (mathematics, canon, science), the truth measure built within them, the predictions and method they yield, and the work handed across to the reader."
 ---
 
 # Section B — The Inheritance
+
+*The Inheritance — the Re: the corpus received and put to its own test — the three inherited grounds (mathematics, canon, science), the truth measure built within them, the predictions and method they yield, and the work handed across to the reader.*
 
 *Papers B0–B7*
 

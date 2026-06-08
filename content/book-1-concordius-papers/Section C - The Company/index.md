@@ -2,10 +2,11 @@
 title: Section C — The Company
 tags:
   - nav-order::4
-description: "The Company — the Mi: the cloud of witnesses who caught the Good, the True, the Beautiful, and the overcoming virtues by roads the framework never walked, and the whole human story gathered as one octave."
 ---
 
 # Section C — The Company
+
+*The Company — the Mi: the cloud of witnesses who caught the Good, the True, the Beautiful, and the overcoming virtues by roads the framework never walked, and the whole human story gathered as one octave.*
 
 *Papers C0–C7*
 

@@ -2,10 +2,11 @@
 title: Section A — The Foundation
 tags:
   - nav-order::2
-description: "The Foundation — the Do: reality modeled as a Gelfand triple, held to what the model, conservative Scripture, and scientific evidence agree on, from the forming of the world through the Crucifixion, the Resurrection, and the world made new."
 ---
 
 # Section A — The Foundation
+
+*The Foundation — the Do: reality modeled as a Gelfand triple, held to what the model, conservative Scripture, and scientific evidence agree on, run from the forming of the world through the Crucifixion, the Resurrection, and the world made new.*
 
 *Papers A0–A7*
 

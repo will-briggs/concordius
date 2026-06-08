@@ -2,10 +2,11 @@
 title: Section E — The Privation
 tags:
   - nav-order::6
-description: "The Privation — the Sol: evil read as privation, a good lost rather than a power gained, from the first lie through the inverted virtues to pride at the root, and the single crossing that reverses it."
 ---
 
 # Section E — The Privation
+
+*The Privation — the Sol: evil read as privation, a good lost rather than a power gained, from the first lie through the inverted virtues to pride at the root, and the single crossing that reverses it.*
 
 *Papers E0–E7*
 
