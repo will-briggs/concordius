@@ -104,6 +104,27 @@ dl masaccio-trinity.jpg \
   "https://upload.wikimedia.org/wikipedia/commons/1/16/Masaccio,_Holy_Trinity,_1425-28,_Santa_Maria_Novella,_Florence.jpg" \
   "Book 1 Section I: Masaccio - The Trinity"
 
+# ─── A–G section frontispieces (Sections B–F; verify URLs on first run) ──────
+dl rembrandt-apostle-paul.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20The%20Apostle%20Paul%20-%20Google%20Art%20Project.jpg" \
+  "Section B: Rembrandt - The Apostle Paul"
+
+dl fra-angelico-forerunners.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Fra%20Angelico%20-%20The%20Forerunners%20of%20Christ%20with%20Saints%20and%20Martyrs%20-%20Google%20Art%20Project.jpg" \
+  "Section C: Fra Angelico - Forerunners of Christ"
+
+dl goya-saturn.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%2C%20Saturno%20devorando%20a%20su%20hijo%20%281819-1823%29.jpg" \
+  "Section D: Goya - Saturn Devouring His Son"
+
+dl masaccio-expulsion.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Masaccio%20-%20The%20Expulsion%20from%20the%20Garden%20of%20Eden%20-%20Google%20Art%20Project.jpg" \
+  "Section E: Masaccio - Expulsion from Eden"
+
+dl bosch-ascent-of-the-blessed.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20-%20Ascent%20of%20the%20Blessed%20-%20WGA02589.jpg" \
+  "Section F: Bosch - Ascent of the Blessed"
+
 dl ladder-of-divine-ascent.jpg \
   "https://upload.wikimedia.org/wikipedia/commons/5/5c/The_Ladder_of_Divine_Ascent_Monastery_of_St_Catherine_Sinai_12th_century.jpg" \
   "Book 1 Section II: Ladder of Divine Ascent"

@@ -2,6 +2,7 @@
 title: Section F — The Ascension
 tags:
   - nav-order::7
+description: "The Ascension — the La: the road home, the ascending career voiced by four instruments at once, from the one elementary act of catching to the face-to-face state the whole climb was turned toward."
 ---
 
 # Section F — The Ascension
@@ -10,27 +11,60 @@ tags:
 
 ---
 
-The descent was the dark photograph of a climb. Section F is the **La** of the larger octave — the Ascension Career, the road home, run with every note toward Φ where the inversion ran away, and carried by the current that evil had to be propped against. It is played as a fugue on four instruments at once: the **bivector score** (the mathematics, derived, τ = 1) and three concordances that could not have colluded — the **Christian** (purgation, illumination, union; the Beatific Vision), the **Gurdjieffian** (the Kesdjan and Higher Being bodies; Man No. 1–7), and the **Urantian** (the mansion worlds, the morontia progression, Adjuster fusion, Paradise). The convergence of independent witnesses is itself the evidence.
+<figure>
+<img src="/static/images/bosch-ascent-of-the-blessed.jpg" alt="Hieronymus Bosch, Ascent of the Blessed" style="max-width:100%;">
+<figcaption><em>Hieronymus Bosch, Ascent of the Blessed</em> (c. 1505–15). The ascending career as a single image: souls drawn up a tunnel of light toward the face at its end — the climb home, carried at the last by powers not their own.</figcaption>
+</figure>
 
-The section is itself a complete octave, and its two interval-shocks fall at the two grade boundaries of Cl(3,0), where the climb cannot continue from within. The **Mi–Fa** shock (F2½) is the **opening of the heart** — the grade-1 → grade-2 crossing, conversion, the closed self given the power to bond by a grace it cannot generate; the kinder shock, supplied by many hands. The **Si–Do** shock (F6½) is the **Father's completing act** — the grade-2 → grade-3 crossing, Adjuster fusion, which no created being can supply and the self cannot force; the one that admits no human hand. Death falls not at a shock but at **Si** (F6), the leading tone — the exhaustion of the self-powered climb and the threshold of the great crossing. The section lays out the *steps* of the ascent; **Section G** gives the *practice* — how a person takes each step, now.
+<hr>
 
-*Provisional landing page: a figure and an epigraph are to be added to match Sections A and G.*
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> **"…are changed into the same image from glory to glory."**
+> *— 2 Corinthians 3:18*
+
+</div>
+
+---
+
+Section F is the **La** of the larger octave: the road home. The diagnosis of evil complete, the work turns to the ascending career — the climb up the constraint cascade by sustained catching, voiced at once by four instruments that never compared notes. One elementary operation, repeated; a ceiling; two shocks that can only be received; a self built, opened, bonded, set, spent, and dissolved; and, on the far side of the last interval, the face the whole climb was turned toward.
 
 ---
 
-## Contents
+## Summary of Contents
 
-- **[[Paper F0: The Four Instruments|Paper F0 — The Four Instruments]]** *(Do — the tonic: the four voices tuned, the first chord struck)*
-- **[[Paper F1: The Exchange|Paper F1 — The Exchange]]** *(Re — catching as eigenvalue replacement, the unit of the climb)*
-- **[[Paper F2: The Ceiling|Paper F2 — The Ceiling]]** *(Mi — the self-powered self at its limit; the stall)*
-- **[[Paper F2½: The Opening|Paper F2½ — The Opening]]** *(Mi–Fa interval — the heart opened by grace; grade-1 → grade-2)*
-- **[[Paper F3: The Heart|Paper F3 — The Heart]]** *(Fa — Man No. 4, courage, e₁e₂; the first achieved bond)*
-- **[[Paper F4: The Crystallization|Paper F4 — The Crystallization]]** *(Sol — Man No. 5, temperance; the coherence threshold; survival assured)*
-- **[[Paper F5: The Overflow|Paper F5 — The Overflow]]** *(La — Man No. 6, diligence; the kenotic return; still able to fall)*
-- **[[Paper F6: The Dissolution|Paper F6 — The Dissolution]]** *(Si — death; the dark night of the spirit; the climb exhausted)*
-- **[[Paper F6½: The Father's Part|Paper F6½ — The Father's Part]]** *(Si–Do interval — fusion, the completing act, translation)*
-- **[[Paper F7: Face to Face|Paper F7 — Face to Face]]** *(the closing Do — Paradise / H₁, the Beatific Vision; the first note of the next octave)*
+**[[Paper F0: The Four Instruments|Paper F0 — The Four Instruments]]**
+The Ascension Career sounded as polyphony: the same climb voiced four times — the mathematical score and three uncolludable concordances (Christian, Gurdjieffian, Urantian) — their agreement the argument that the climb is real.
+
+**[[Paper F1: The Exchange|Paper F1 — The Exchange]]**
+The single elementary operation the whole ascent is made of: catching — the substitution, one increment at a time, of ⟨·,·⟩-organized content for H₄₈-primary content. Everything above this note is this note repeated.
+
+**[[Paper F2: The Ceiling|Paper F2 — The Ceiling]]**
+The exchange sustained builds a real self to its full grade-1 height — and then stops, not for lack of effort but because the structure has a ceiling effort cannot pass. The most a being can become by its own means, and the discovery, from inside, that it is not enough.
+
+**[[Paper F2½: The Opening|Paper F2½ — The Opening]]** *(Mi–Fa interval)*
+The first shock, the first place the climb cannot continue from within: a self made of +1 cannot manufacture a −1, so the crossing is received, not achieved. The structural location of conversion, and the kinder of the two intervals.
+
+**[[Paper F3: The Heart|Paper F3 — The Heart]]**
+The first note on the far side of the wall — the first bivector, the first relation, the heart that can hold two generators in one act. The first achieved rung, won and held by a continuous act of will; its name is courage.
+
+**[[Paper F4: The Crystallization|Paper F4 — The Crystallization]]**
+The first boundary in the ascent that is not a matter of degree but a phase change: the deposit sets, and the being will now survive the dissolution of its body. Below it a self that must be maintained; above it a self that persists.
+
+**[[Paper F5: The Overflow|Paper F5 — The Overflow]]**
+The last grade-2 note, the highest in-life state — the crystallized self become a source — and the most dangerous, because the only way left to fall is from a height. Its work is to turn outward, to spill what it has received rather than hold it.
+
+**[[Paper F6: The Dissolution|Paper F6 — The Dissolution]]**
+The leading tone — the climb of one's own strength complete and unable to complete itself, come at last to the dissolution of the body it was built in. Death, read not as catastrophe but as the exhaustion of the self-powered climb and the threshold of the one crossing no self performs.
+
+**[[Paper F6½: The Father's Part|Paper F6½ — The Father's Part]]** *(Si–Do interval)*
+The second shock, the one that admits no human hand: grade-3 centrality cannot be built from grade-2, so only the Father installs it. The being's whole part is to have arrived, stripped and ready, and then to stop working.
+
+**[[Paper F7: Face to Face|Paper F7 — Face to Face]]**
+The closing Do the whole climb was reaching for — H₁, the face-to-face state, the glass gone. Arrival that is also a beginning, opening onto a deepening without end that the map does not reach.
 
 ---
+
+*Begin the Ascension: [[Paper F0: The Four Instruments|Paper F0 — The Four Instruments]] →*
 
 *[[Section G - The Practice/index|Section G → The Practice]] →*

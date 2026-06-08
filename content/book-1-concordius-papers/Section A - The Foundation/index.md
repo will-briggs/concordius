@@ -2,6 +2,7 @@
 title: Section A — The Foundation
 tags:
   - nav-order::2
+description: "The Foundation — the Do: reality modeled as a Gelfand triple, held to what the model, conservative Scripture, and scientific evidence agree on, from the forming of the world through the Crucifixion, the Resurrection, and the world made new."
 ---
 
 # Section A — The Foundation
@@ -75,3 +76,9 @@ The descent reaches its lowest point. This paper stands at the sealed tomb and l
 
 **[[Paper A7: The Resurrection|Paper A7: The Resurrection: The World Made New]]**
 The close of Section A, and the new beginning the descent could not generate from inside. It follows the arc to the end of the book — the empty tomb and Mary knowing him when he speaks her name; the forty days; the Ascension; Pentecost and the Spirit poured out; the witness carried to the nations; the long faithful age; and the consummation, the world made new. Each scene **opens with the story, told tenderly and anchored in its Scripture**, and only then states what the event would *be* in the framework's terms — the glorified body as an organizing algebra with the decay-generator absent, Pentecost as the nuclear topology universalized, the new creation as that generator removed from the whole and the experiential integral arrived at its ground (Beginning = End = ⟨·,·⟩) — each tiered: derivation where the algebra forces it, concordance where the identification is interpretive, testimony where the event is received and not derived. A **Physical Record** gives the apostolic age's evidence (the officials who date Paul, the earliest manuscript, the apostles' graves), the miracles again left on testimony. Beneath all of it the one unearned premise still stands — that reality admits this model at all — and the paper ends by handing the built foundation on as an inheritance: the door into **Section B**.
+
+---
+
+*Begin the Foundation: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper A0 — Modeling Reality as a Gelfand Triple]] →*
+
+*[[Section B - The Inheritance/index|Section B → The Inheritance]] →*

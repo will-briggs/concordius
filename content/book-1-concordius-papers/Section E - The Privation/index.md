@@ -2,6 +2,7 @@
 title: Section E — The Privation
 tags:
   - nav-order::6
+description: "The Privation — the Sol: evil read as privation, a good lost rather than a power gained, from the first lie through the inverted virtues to pride at the root, and the single crossing that reverses it."
 ---
 
 # Section E — The Privation
@@ -10,25 +11,60 @@ tags:
 
 ---
 
-Having named evil, the work steps outside the system to derive it. Section E is the **Sol** of the larger octave, and its name is its method: *privatio boni* — the doctrine that unifies every sin under one head. All of it is the privation of a due good: Original Sin as the privation of original justice, active sin as the privation of right order in a positive act, and the neglect of a duty as the privation of an act that was owed. From that single root the section derives the Lie and the Vessel (the generator-inversions), the slope of Type and Degree, the three bivector vices (Cowardice, Excess, Sloth and Overwork), and Pride — the turning-up of all three bivectors away from the ground at once. It is the most mathematics-forward section of the book, with Scripture confirmatory and the Urantia testimony admitted under Gödel's fence. At the Si–Do it turns, on Humility, toward the ascent.
+<figure>
+<img src="/static/images/masaccio-expulsion.jpg" alt="Masaccio, The Expulsion from the Garden of Eden" style="max-width:100%;">
+<figcaption><em>Masaccio, The Expulsion from the Garden of Eden</em> (c. 1425). Privation made visible: not a thing added but a good lost — the gate closed, the light withdrawn, the first turning carried out into a colder world.</figcaption>
+</figure>
 
-*Provisional landing page: per-paper summaries, a figure, and an epigraph are to be added to match Sections A and G.*
+<hr>
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> **"What is that which we call evil but the absence of good?"**
+> *— Augustine, Enchiridion*
+
+</div>
+
+---
+
+Section E is the **Sol** of the larger octave: having named the inverters, the work names the thing itself. Evil read as *privation* — not a substance but a good lost, not a power but the absence of one — traced from the first lie and the vessel that must hold it, through the three inverted virtues, to pride at the root, and across the single crossing that reverses it. It is the section where the mathematics is most load-bearing and where the testimony is, for the first time and under guard, admitted to fill a silence the derivation opens.
 
 ---
 
-## Contents
+## Summary of Contents
 
-- **[[Paper E0: The Derivation and the Testimony|Paper E0 — The Derivation and the Testimony]]** *(Do — the tonic, in two parts)*
-- **[[Paper E1: The Lie|Paper E1 — The Lie]]**
-- **[[Paper E2: The Vessel|Paper E2 — The Vessel]]**
-- **[[Paper E2½: Type and Degree|Paper E2½ — Type and Degree]]** *(Mi–Fa interval)*
-- **[[Paper E3: Cowardice|Paper E3 — Cowardice]]**
-- **[[Paper E4: Excess|Paper E4 — Excess]]**
-- **[[Paper E5: Sloth and Overwork|Paper E5 — Sloth and Overwork]]**
-- **[[Paper E6: Pride|Paper E6 — Pride]]** *(the Si)*
-- **[[Paper E6½: Humility|Paper E6½ — Humility]]** *(Si–Do interval)*
-- **[[Paper E7: The Ascension Career|Paper E7 — The Ascension Career]]** *(the closing Do — the turn toward the ascent)*
+**[[Paper E0: The Derivation and the Testimony|Paper E0 — The Derivation and the Testimony]]**
+Two parts side by side: a derivation (pure mathematics, certain) and a testimony (pure assertion, uncertain, admitted from outside through the gate the first opens). The apparatus that lets them be read in one frame is the truth measure, and the precedence is fixed: mathematics, then Scripture, then testimony.
+
+**[[Paper E1: The Lie|Paper E1 — The Lie]]**
+The first substantive question put to the three witnesses in order: what, exactly, was the first lie? Stated in the framework's terms, refuted by the mathematics, confirmed by Scripture, and filled in at the lowest tier by the testimony.
+
+**[[Paper E2: The Vessel|Paper E2 — The Vessel]]**
+The inverse of the Beautiful at the created level — organizational fragmentation as state. Evil, being privation, cannot stand bare: it needs a vessel of real substance, actively built and maintained, that dies the moment the will lapses.
+
+**[[Paper E2½: Type and Degree|Paper E2½ — Type and Degree]]** *(Mi–Fa interval)*
+The shock between the generator-inversions (the lie, the vessel) and the bivector-vices (cowardice, excess, sloth-and-overwork): the refused coherence-input the inverted octave never receives, read as both type and degree.
+
+**[[Paper E3: Cowardice|Paper E3 — Cowardice]]**
+The inverse of courage (e₁e₂) — the known good-and-true *not* let become a deed, the principle dropped at the approach of cost. Joan's note refused, at the cosmic scale and the human one.
+
+**[[Paper E4: Excess|Paper E4 — Excess]]**
+The inverse of temperance (e₁e₃) — the loss of measure, the will untuned by appetite. Bach's well-tempered field knocked out of true.
+
+**[[Paper E5: Sloth and Overwork|Paper E5 — Sloth and Overwork]]**
+The inverse of diligence (e₂e₃) — the one vice with two faces, the failure of measure on each side of right labor: the work refused, and the work made an idol. Franklin's note corrupted both ways.
+
+**[[Paper E6: Pride|Paper E6 — Pride]]**
+The maximum exposure of the whole inversion arc, and its root: the claim to be the constituting ground — to *be* the inner product rather than to rest in it. For a being of our origin, the deepest sin available, the floor under all the others.
+
+**[[Paper E6½: Humility|Paper E6½ — Humility]]** *(Si–Do interval)*
+The crossing out of pride — the single turn that reverses the whole self from itself back toward Φ. The crossing no one makes alone, given at the interval pride could not cross.
+
+**[[Paper E7: The Ascension Career|Paper E7 — The Ascension Career]]**
+The closing note of the inversion arc, which is also the opening of the next: the hinge where the work turns from the diagnosis of evil to the road home — the cure being the exact reverse of the disease measured to the floor.
 
 ---
+
+*Begin the Privation: [[Paper E0: The Derivation and the Testimony|Paper E0 — The Derivation and the Testimony]] →*
 
 *[[Section F - The Ascension/index|Section F → The Ascension]] →*

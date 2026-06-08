@@ -2,6 +2,7 @@
 title: Section G — The Practice
 tags:
   - nav-order::8
+description: "The Practice — the Si, the leading tone: the seven men, the framework traced through a single human life level by level, from the first stirring of catching to the last reach toward Φ, and the turn handed to the reader."
 ---
 
 # Section G — The Practice
@@ -95,5 +96,7 @@ Man No. 7, the seventh and last of the men, whose center is humility — the com
 The close of Section G and of the series — it gathers the seven men and turns to the reader. A completed octave's last note is the first note of the next: not an ending but a new Do. It folds in the practical program (the treasures-in-heaven reading: invest differently, and the orientation of the will follows) and leaves a single question — whether to begin the next octave.
 
 ---
+
+*Begin the Practice: [[Paper G0: The Good-Centered Man|Paper G0 — The Good-Centered Man]] →*
 
 *Section G completes the Concordius series. The ascending career continues beyond the paper's end.*
