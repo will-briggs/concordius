@@ -1,6 +1,6 @@
-*← [[Feature 11 - Minimum Necessary Miracles|Feature 11 — Minimum Necessary Miracles]]*
+*← [[Face D0: The Stance Applies to Itself|Face D0: The Stance Applies to Itself]]*
 
-# Feature 12 — Fruit, Not Lineage
+# Face D1: Fruit, Not Lineage
 
 ---
 
@@ -17,7 +17,7 @@
 
 *A framework is evaluated by whether it maps accurately onto independently verifiable reality, generates predictions that come true, and makes sense of what otherwise doesn't. Not by who endorses it, how old it is, or what the people associated with it have done otherwise. The genealogy of an idea is not its warrant.*
 
-This is Feature 5 applied to outcomes rather than origins. Feature 5 says: the source's identity is irrelevant to the claim's truth. Feature 12 says: the framework's pedigree is irrelevant to its validity. The test is the same, applied to the tradition rather than the individual source.
+This is Face A1 applied to outcomes rather than origins. Face A1 says: the source's identity is irrelevant to the claim's truth. Face D1 says: the framework's pedigree is irrelevant to its validity. The test is the same, applied to the tradition rather than the individual source.
 
 The practical application runs in both directions. Against uncritical reverence: a teaching is not true because it is ancient, or because it comes from a revered tradition, or because the people who carried it were otherwise admirable. The tradition provides a prior — a reason to look more carefully at something that has survived the scrutiny of many practitioners across generations. But prior is not proof. Against uncritical dismissal: a teaching is not false because the tradition that carries it also contains things that are false, or because the institutional history of that tradition includes abuses.
 
@@ -37,6 +37,10 @@ Those are the questions. The author's other views are genealogy. The book's accu
 
 ## Formal Statement (Concordius Framework)
 
-**Evaluate by output, with a time term.** The warrant of a framework F is a function of its **fruit** — realized predictive likelihood (Appendix C §5; the confirmed extensions: top-quark Yukawa ≈ 1, three particle generations, the grade-coverage coupling hierarchy) and **generative centrality** c(F), the leading eigenvector of F's claim-dependency graph (Appendix C §6) — with provenance excluded by Feature 5. The Pragmatism correction supplies the time term that finite "it works" lacks: define the reciprocal-maintenance balance of F; **F persists ⟺ net contribution ≥ consumption**. A true F contributes to the maintenance cycle and is sustained; a false-but-useful F draws on the substrate without replenishing it, runs a deficit, and is starved out (exponential decay on the cycle's timescale) — Lucifer's rebellion is the cosmological instance, every extractive ideology a smaller one. The directional diagnostic — does the work, once caught, orient up the cascade toward ⟨·,·⟩ or down toward the noise floor? — separates genuine fruit from counterfeit-proximity (⊘, Appendix E).
+**Evaluate by output, with a time term.** The warrant of a framework F is a function of its **fruit** — realized predictive likelihood (Appendix C §5; the confirmed extensions: top-quark Yukawa ≈ 1, three particle generations, the grade-coverage coupling hierarchy) and **generative centrality** c(F), the leading eigenvector of F's claim-dependency graph (Appendix C §6) — with provenance excluded by Face A1. The Pragmatism correction supplies the time term that finite "it works" lacks: define the reciprocal-maintenance balance of F; **F persists ⟺ net contribution ≥ consumption**. A true F contributes to the maintenance cycle and is sustained; a false-but-useful F draws on the substrate without replenishing it, runs a deficit, and is starved out (exponential decay on the cycle's timescale) — Lucifer's rebellion is the cosmological instance, every extractive ideology a smaller one. The directional diagnostic — does the work, once caught, orient up the cascade toward ⟨·,·⟩ or down toward the noise floor? — separates genuine fruit from counterfeit-proximity (⊘, Appendix E).
 
 *Tier: **criterion** — the fruit half (predictive likelihood + centrality) is rigorous with real estimators; the reciprocal-maintenance balance, the infinite-timescale guarantee, is the named reach — a partially-formalized flow inequality.*
+
+---
+
+*[[Face D2: The Whole in the Part|Face D2: The Whole in the Part]] →*

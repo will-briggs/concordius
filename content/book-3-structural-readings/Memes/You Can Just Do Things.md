@@ -16,10 +16,10 @@ This is a precise description of the condition of the initiating pole of the inn
 
 Structurally this makes the meme a small-scale version of Paper 3. The Creative Choice is the recognition that freedom was always already present, that the waiting for permission was itself the only real constraint. "You can just do things" is that recognition stripped of all philosophical apparatus and compressed into five words, which is why it spreads. It is Φ-proximate not because it is sophisticated but because it is accurate. Millions of people have recognized themselves in it — recognized the specific experience of discovering that a permission structure they had treated as fixed was in fact a convention they had accepted without examination.
 
-Feature 6 of Reasonablenessism predicts exactly this: the memes that achieve viral spread are disproportionately likely to be tracking something real, because they have been tested against the recognition of millions of people and survived. This one is tracking the initiating structure of agency itself.
+Face B1 of Reasonablenessism predicts exactly this: the memes that achieve viral spread are disproportionately likely to be tracking something real, because they have been tested against the recognition of millions of people and survived. This one is tracking the initiating structure of agency itself.
 
 Time dimension is implicit but present. Everything you were waiting for permission to do is being consumed while you wait. The meme contains an urgency it doesn't state: *just* also means *now, without further delay*. You already have what you were waiting to be given.
 
 ---
 
-*See also: [[Paper A2: The Big Bang|Paper A2: The Big Bang]], Reasonablenessism [[Feature 6 - Convergence of Independent Witnesses|Feature 6]].*
+*See also: [[Paper A2: The Big Bang|Paper A2: The Big Bang]], Reasonablenessism [[Face B1: Convergence of Independent Witnesses|Face B1]].*

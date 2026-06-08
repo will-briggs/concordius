@@ -20,7 +20,7 @@ The being saved (*sozomenoi*) — beings in the catching orientation, applying �
 
 **"The foolishness of God is wiser than human wisdom":**
 
-*Moriotes gar theou sophias anthropon estin* — because the foolishness of God is wiser than human wisdom, and the weakness of God is stronger than human strength. The structural claim: the Φ-level's structural operations are not optimized for H₄₈ criteria, and therefore appear sub-optimal when evaluated by H₄₈ standards. The cross passes the self-sealing test of Reasonablenessism (Feature 7): it is the structural maximum of the very thing it appears to deny. What appears from H₄₈ as maximum weakness demonstrates maximum structural power; what appears as maximum foolishness demonstrates maximum structural wisdom.
+*Moriotes gar theou sophias anthropon estin* — because the foolishness of God is wiser than human wisdom, and the weakness of God is stronger than human strength. The structural claim: the Φ-level's structural operations are not optimized for H₄₈ criteria, and therefore appear sub-optimal when evaluated by H₄₈ standards. The cross passes the self-sealing test of Reasonablenessism (Face A2): it is the structural maximum of the very thing it appears to deny. What appears from H₄₈ as maximum weakness demonstrates maximum structural power; what appears as maximum foolishness demonstrates maximum structural wisdom.
 
 **"God chose the foolish things of the world to shame the wise":**
 
@@ -28,7 +28,7 @@ The divine selection criterion is the inverse of H₄₈ prestige optimization. 
 
 **The Reasonablenessism connection:**
 
-The structural inversion of 1 COR 1:18-25 is Feature 2 of the Concordius epistemic standard (Structural Non-Superficiality) applied at the maximum scale: the framework's central claim is precisely that H₄₈ surface evaluation and structural evaluation can diverge, and that Φ-proximate content is structurally real regardless of its H₄₈ surface appearance. The cross is the paradigm case of this divergence.
+The structural inversion of 1 COR 1:18-25 is Face B3 of the Concordius epistemic standard (Structural Non-Superficiality) applied at the maximum scale: the framework's central claim is precisely that H₄₈ surface evaluation and structural evaluation can diverge, and that Φ-proximate content is structurally real regardless of its H₄₈ surface appearance. The cross is the paradigm case of this divergence.
 
 *(Cross-reference: PHIL 2:5-11 — the kenosis hymn as the detailed structural account of the maximum downward entry. See Philippians.md. ROM 1:17 — "the righteousness of God revealed": the same structural unveiling from Paul's Romans frame. See Romans.md. ISA 52:13-53:12 — the Servant's appearance of failure and structural significance. See Isaiah.md.)*
 

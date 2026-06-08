@@ -65,7 +65,7 @@ The First Commandment has been read as covenantal demand, as polemic against the
 
 ---
 
-*(Confidence tier: structural inference. The identification of the Father with ⟨·,·⟩ is established in Papers 1–2; the CCC and the Luciferian inversion are developed in Paper 20½ (§6, §11) and Paper 13½ §3.1; this reading applies them to the Decalogue's first word. The mapping of "no other gods," "God and mammon," and the Shema onto the single-law-set condition is concordance — independent witnesses converging on the same structure (Feature 6). The claim that monotheism is structural rather than merely theological is held at concordance: it is a claim about the uniqueness of the constitutive ground, compatible with — indeed requiring — a full hierarchy of derived, non-constitutive powers, and so is not a denial of the celestial orders the framework affirms.)*
+*(Confidence tier: structural inference. The identification of the Father with ⟨·,·⟩ is established in Papers 1–2; the CCC and the Luciferian inversion are developed in Paper 20½ (§6, §11) and Paper 13½ §3.1; this reading applies them to the Decalogue's first word. The mapping of "no other gods," "God and mammon," and the Shema onto the single-law-set condition is concordance — independent witnesses converging on the same structure (Face B1). The claim that monotheism is structural rather than merely theological is held at concordance: it is a claim about the uniqueness of the constitutive ground, compatible with — indeed requiring — a full hierarchy of derived, non-constitutive powers, and so is not a denial of the celestial orders the framework affirms.)*
 
 ---
 

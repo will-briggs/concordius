@@ -4,7 +4,7 @@
 **Director:** David Fincher (from the 1996 novel by Chuck Palahniuk)  
 **Medium:** Theatrical feature film  
 **Series:** Book 3 — Structural Readings / Film  
-**Cross-references:** Paper 6 (the noise floor; the consumerist H₄₈ attractor field); the Lucifer Rebellion (Doctrine; descent renamed liberation); [[Film/The Matrix|The Matrix]] ⊘ (the inverted-direction counterfeit); Wall-E (the consumer noise floor); Reasonablenessism Feature 12; Syntheses — The Devil Can Quote Scripture
+**Cross-references:** Paper 6 (the noise floor; the consumerist H₄₈ attractor field); the Lucifer Rebellion (Doctrine; descent renamed liberation); [[Film/The Matrix|The Matrix]] ⊘ (the inverted-direction counterfeit); Wall-E (the consumer noise floor); Reasonablenessism Face D1; Syntheses — The Devil Can Quote Scripture
 
 ---
 
@@ -26,11 +26,11 @@ The awakening then runs the wrong way. Tyler Durden offers liberation through de
 
 ## 4. The Fruit
 
-By its fruit (Feature 12): the film's reception is the clearest evidence. It was built, at least in part, as a critique of Tyler — the narrator must shoot him to be free of him — yet the culture caught Tyler as hero, the inversion received as the message, Project Mayhem read as aspiration. This is the carrier problem made visible: a work can encode its own correction and still transmit the error, because the error is the part delivered at amplitude. The genuine signal — that the consumer self is a sleep worth waking from — is worth catching. The ⊘ marks the direction the waking takes, which is down.
+By its fruit (Face D1): the film's reception is the clearest evidence. It was built, at least in part, as a critique of Tyler — the narrator must shoot him to be free of him — yet the culture caught Tyler as hero, the inversion received as the message, Project Mayhem read as aspiration. This is the carrier problem made visible: a work can encode its own correction and still transmit the error, because the error is the part delivered at amplitude. The genuine signal — that the consumer self is a sleep worth waking from — is worth catching. The ⊘ marks the direction the waking takes, which is down.
 
 ---
 
-*(Cross-reference: Paper 5 / Wall-E — the consumerist noise floor, diagnosed precisely. The Lucifer Rebellion — descent renamed liberation, of which Tyler is the popular form. [[Film/The Matrix|The Matrix]] — the sibling inverted-direction counterfeit of the same year; the two together define the type. Feature 12 — the directional test; the cultural reception of Tyler-as-hero as the counterfeit's signature, despite the film's partial self-correction.)*
+*(Cross-reference: Paper 5 / Wall-E — the consumerist noise floor, diagnosed precisely. The Lucifer Rebellion — descent renamed liberation, of which Tyler is the popular form. [[Film/The Matrix|The Matrix]] — the sibling inverted-direction counterfeit of the same year; the two together define the type. Face D1 — the directional test; the cultural reception of Tyler-as-hero as the counterfeit's signature, despite the film's partial self-correction.)*
 
 *(Confidence tier: Concordance with explicit divergence. The noise-floor diagnosis maps cleanly onto Paper 5; the inversion — freedom through descent — is stated by the film's own dialogue, so the ⊘ rests on the text. [Speculative]: the weight placed on the film's partial self-awareness (Tyler as delusion to be destroyed) is an interpretation; the reading holds whether or not the filmmakers intended the irony, because reception caught the inversion regardless.)*
 

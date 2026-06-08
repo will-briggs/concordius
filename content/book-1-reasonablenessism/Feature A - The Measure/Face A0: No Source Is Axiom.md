@@ -1,4 +1,6 @@
-# Feature 1 — No Source Is Axiom
+*← [[Feature A - The Measure/index|Feature A — The Measure]]*
+
+# Face A0: No Source Is Axiom
 
 ---
 
@@ -52,4 +54,4 @@ A source is a vector **D** in the Hilbert space H; its truth-value is the **trut
 
 ---
 
-*[[Feature 2 - The Steelman Is the Test|Feature 2 — The Steelman Is the Test]] →*
+*[[Face A1: Provenance Is Irrelevant to Truth-Value|Face A1: Provenance Is Irrelevant to Truth-Value]] →*

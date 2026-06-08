@@ -3,7 +3,7 @@
 **Subject:** Wigner's "unreasonable effectiveness of mathematics in the natural sciences" (1960)  
 **Field:** Physics; philosophy of mathematics  
 **Series:** Book 3 — Structural Readings / Science  
-**Cross-references:** Paper 1 (reality as the Gelfand triple Φ ⊂ H ⊂ Φ′); Paper 2 (⟨·,·⟩ as the constitutive relation); Paper 3½ (the cascade as mathematical structure); Reasonablenessism Features 1, 6, 10
+**Cross-references:** Paper 1 (reality as the Gelfand triple Φ ⊂ H ⊂ Φ′); Paper 2 (⟨·,·⟩ as the constitutive relation); Paper 3½ (the cascade as mathematical structure); Reasonablenessism Faces A0, B1, C1
 
 ---
 
@@ -21,11 +21,11 @@ The framework can be more specific than "reality is mathematical," and the speci
 
 ## 4. The Reading and Its Limit
 
-The boundary (Feature 10), and here it is unusually narrow, because the convergence is unusually tight. What the framework offers is an *interpretation* of an acknowledged fact, not a new fact: it cannot prove to the skeptic that reality is the Gelfand triple, and Wigner's effectiveness, however suggestive, does not by itself force that conclusion — a committed nominalist can still call the fit a brute regularity and refuse to wonder at it. What the framework can say is that its axiom *predicts and dissolves* a puzzle that the alternative leaves standing as a permanent astonishment. Where the materialist must treat the effectiveness of mathematics as an unexplained and possibly inexplicable gift — Wigner's own word — the framework treats it as the expected consequence of reality having a mathematical structure that mind can reach. The framework does not claim this proves it true. It claims the more modest and, to a scientist, the more interesting thing: of the available accounts, the one that makes the deepest wonder in physics *stop being a wonder* is the one that takes mathematics to be not our description of reality but reality's own grammar — which is where the framework began, and where Wigner, without the axiom, was left amazed.
+The boundary (Face C1), and here it is unusually narrow, because the convergence is unusually tight. What the framework offers is an *interpretation* of an acknowledged fact, not a new fact: it cannot prove to the skeptic that reality is the Gelfand triple, and Wigner's effectiveness, however suggestive, does not by itself force that conclusion — a committed nominalist can still call the fit a brute regularity and refuse to wonder at it. What the framework can say is that its axiom *predicts and dissolves* a puzzle that the alternative leaves standing as a permanent astonishment. Where the materialist must treat the effectiveness of mathematics as an unexplained and possibly inexplicable gift — Wigner's own word — the framework treats it as the expected consequence of reality having a mathematical structure that mind can reach. The framework does not claim this proves it true. It claims the more modest and, to a scientist, the more interesting thing: of the available accounts, the one that makes the deepest wonder in physics *stop being a wonder* is the one that takes mathematics to be not our description of reality but reality's own grammar — which is where the framework began, and where Wigner, without the axiom, was left amazed.
 
 ---
 
-*(Cross-reference: Paper 1 — reality as the Gelfand triple, the axiom that turns Wigner's miracle into an expectation. Paper 2 — ⟨·,·⟩ as both the central mathematical operation and the constitutive relation of reality. Paper 5 — mathematics as catching, the mind reaching toward Φ. Features 1 and 6 — Wigner's testimony, produced with no theological intent, weighed as independent evidence; Feature 10 — the boundary between dissolving the puzzle and proving the axiom.)*
+*(Cross-reference: Paper 1 — reality as the Gelfand triple, the axiom that turns Wigner's miracle into an expectation. Paper 2 — ⟨·,·⟩ as both the central mathematical operation and the constitutive relation of reality. Paper 5 — mathematics as catching, the mind reaching toward Φ. Faces A0 and B1 — Wigner's testimony, produced with no theological intent, weighed as independent evidence; Face C1 — the boundary between dissolving the puzzle and proving the axiom.)*
 
 *(Confidence tier: Strong concordance. The framework's foundational axiom directly entails what Wigner found inexplicable; the reading's force is that it converts a standing puzzle into a prediction, which is the strongest thing an interpretation can do short of proof. The limit — that a nominalist may decline to wonder — is marked, not glossed.)*
 

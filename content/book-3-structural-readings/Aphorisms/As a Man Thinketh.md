@@ -39,7 +39,7 @@ The catching program is an eigenvalue replacement program: the catching being pr
 
 *(Cross-reference: Romans 12:2 — "be transformed by the renewing of your mind" — the eigenvalue replacement program stated as the mechanism of transformation: the catching being's structural identity changes as its dominant orientation changes; the transformation is the eigenvalue accumulation in the new direction. Bhagavad Gita 6:5 — "Elevate yourself through the power of your mind" — the eigenvalue accumulation directed upward by the catching being's own volitional effort; the catching program described as self-elevation through the mind's orientation. Psalm 51:10 — "Create in me a clean heart, O God" — the catching being requesting noise-floor reduction from the Φ-level: clearing the heart of H₄₈-primary eigenvalue content that crowds out the ⟨·,·⟩-organized orientation.)*
 
-*(Confidence tier: Testimony-plus-structural concordance. The framework's eigenvalue accumulation mechanism is the precise structural content of the aphorism: "as a man thinketh in his heart, so is he" = the catching being's constitutional identity is constituted by its dominant eigenvalue orientation. The convergence across Proverbs, the Dhammapada, and the Bhagavad Gita without common textual derivation is a strong Feature 6 signal.)*
+*(Confidence tier: Testimony-plus-structural concordance. The framework's eigenvalue accumulation mechanism is the precise structural content of the aphorism: "as a man thinketh in his heart, so is he" = the catching being's constitutional identity is constituted by its dominant eigenvalue orientation. The convergence across Proverbs, the Dhammapada, and the Bhagavad Gita without common textual derivation is a strong Face B1 signal.)*
 
 ---
 

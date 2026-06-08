@@ -142,40 +142,40 @@ title: Appendix F - Catalogue of Illustrations
 **Book 1 — Reasonablenessism — index**
 - *Rembrandt van Rijn, Two Old Men Disputing (St. Peter and St. Paul in Discussion)* (1628) &nbsp;·&nbsp; `rembrandt-two-old-men-disputing.jpg`
 
-**Feature 1 — No Source Is Axiom**
+**Face A0: No Source Is Axiom**
 - *Johannes Vermeer, Woman Holding a Balance* (c. 1664) &nbsp;·&nbsp; `feature-01-vermeer-balance.jpg`
 
-**Feature 2 — The Steelman Is the Test**
+**Face B3: The Steelman Is the Test**
 - *Diego Velázquez, The Forge of Vulcan* (1630) &nbsp;·&nbsp; `feature-02-forge-of-vulcan.jpg`
 
-**Feature 3 — Personal Experience as Testimony**
+**Face B0: Personal Experience as Testimony**
 - *Caravaggio, The Incredulity of Saint Thomas* (c. 1601–2) &nbsp;·&nbsp; `feature-03-incredulity-of-thomas.jpg`
 
-**Feature 4 — The Stance Applies to Itself**
+**Face D0: The Stance Applies to Itself**
 - *Diego Velázquez, Las Meninas* (1656) &nbsp;·&nbsp; `feature-04-las-meninas.jpg`
 
-**Feature 5 — Provenance Is Irrelevant to Truth-Value**
+**Face A1: Provenance Is Irrelevant to Truth-Value**
 - *Quentin Matsys, The Moneylender and His Wife* (1514) &nbsp;·&nbsp; `feature-05-moneylender.jpg`
 
-**Feature 6 — Convergence of Independent Witnesses**
+**Face B1: Convergence of Independent Witnesses**
 - *El Greco, The Pentecost* (c. 1600) &nbsp;·&nbsp; `feature-06-pentecost.jpg`
 
-**Feature 7 — The Self-Sealing Test**
+**Face A2: The Self-Sealing Test**
 - *Ouroboros* &nbsp;·&nbsp; `feature-07-ouroboros.png`
 
-**Feature 8 — Universal Subjective Convergence Implies Objectivity**
+**Face B2: Universal Subjective Convergence Implies Objectivity**
 - *Joseph Wright of Derby, An Experiment on a Bird in the Air Pump* (1768) &nbsp;·&nbsp; `feature-08-air-pump.jpg`
 
-**Feature 9 — Explicit Confidence Tiers**
+**Face C0: Explicit Confidence Tiers**
 - *The Great Chain of Being* (1579) &nbsp;·&nbsp; `feature-09-great-chain-of-being.png`
 
-**Feature 10 — Logic Where It Reaches; Concordance Where It Doesn't**
+**Face C1: Logic Where It Reaches; Concordance Where It Doesn't**
 - *Olaus Magnus, Carta Marina* (1539) &nbsp;·&nbsp; `feature-10-carta-marina.jpg`
 
-**Feature 11 — Minimum Necessary Miracles**
+**Face C2: Minimum Necessary Miracles**
 - *William of Ockham* (1341) &nbsp;·&nbsp; `feature-11-william-of-ockham.jpg`
 
-**Feature 12 — Fruit, Not Lineage**
+**Face D1: Fruit, Not Lineage**
 - *Caravaggio, Basket of Fruit* (c. 1599) &nbsp;·&nbsp; `feature-12-basket-of-fruit.jpg`
 
 ## Book 3 — Structural Readings

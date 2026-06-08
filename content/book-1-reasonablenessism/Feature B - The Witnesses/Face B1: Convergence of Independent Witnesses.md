@@ -1,6 +1,6 @@
-*← [[Feature 5 - Provenance Is Irrelevant to Truth-Value|Feature 5 — Provenance Is Irrelevant to Truth-Value]]*
+*← [[Face B0: Personal Experience as Testimony|Face B0: Personal Experience as Testimony]]*
 
-# Feature 6 — Convergence of Independent Witnesses
+# Face B1: Convergence of Independent Witnesses
 
 ---
 
@@ -45,4 +45,4 @@ Equivalently the independent log-likelihoods add, ℓ = Σ Δℓ_i, so posterior
 
 ---
 
-*[[Feature 7 - The Self-Sealing Test|Feature 7 — The Self-Sealing Test]] →*
+*[[Face B2: Universal Subjective Convergence Implies Objectivity|Face B2: Universal Subjective Convergence Implies Objectivity]] →*

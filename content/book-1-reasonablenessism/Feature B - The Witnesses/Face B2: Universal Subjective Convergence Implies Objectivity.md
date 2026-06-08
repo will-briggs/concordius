@@ -1,6 +1,6 @@
-*← [[Feature 7 - The Self-Sealing Test|Feature 7 — The Self-Sealing Test]]*
+*← [[Face B1: Convergence of Independent Witnesses|Face B1: Convergence of Independent Witnesses]]*
 
-# Feature 8 — Universal Subjective Convergence Implies Objectivity
+# Face B2: Universal Subjective Convergence Implies Objectivity
 
 ---
 
@@ -39,10 +39,10 @@ That universality is evidence that loneliness is a real feature of the human sit
 
 ## Formal Statement (Concordius Framework)
 
-**Cross-observer invariant = objective.** "Objective" is defined structurally as **invariant across all observer-substrates** — a property lying in the intersection of every observer's accessible subspace (the shared Φ-component), not in any individual's private Φ′-excess. Universal subjective convergence — a property φ reported identically by the entire observer ensemble, no exceptions, structurally and not superficially — *is* that cross-observer invariant. So in the n → ∞, zero-exception limit of Feature 6, the posterior that φ is objective → 1. The inference (implies, not equals) is exactly the finite-sample gap plus the structural-similarity requirement: one can never sample "all," and surface agreement is not structural agreement. The cogito is the near-maximal case — bare self-awareness, confirmed without known exception, identical across subjects — which is why the consciousness-primacy argument (Papers [[Paper A0: Modeling Reality as a Gelfand Triple|A0]]–[[Paper A1: Naming the Unnameable|A1]]) rests here. The corrected wording, identity → inference, was Feature 4's first realized pass.
+**Cross-observer invariant = objective.** "Objective" is defined structurally as **invariant across all observer-substrates** — a property lying in the intersection of every observer's accessible subspace (the shared Φ-component), not in any individual's private Φ′-excess. Universal subjective convergence — a property φ reported identically by the entire observer ensemble, no exceptions, structurally and not superficially — *is* that cross-observer invariant. So in the n → ∞, zero-exception limit of Face B1, the posterior that φ is objective → 1. The inference (implies, not equals) is exactly the finite-sample gap plus the structural-similarity requirement: one can never sample "all," and surface agreement is not structural agreement. The cogito is the near-maximal case — bare self-awareness, confirmed without known exception, identical across subjects — which is why the consciousness-primacy argument (Papers [[Paper A0: Modeling Reality as a Gelfand Triple|A0]]–[[Paper A1: Naming the Unnameable|A1]]) rests here. The corrected wording, identity → inference, was Face D0's first realized pass.
 
-*Tier: **criterion** — the invariance = objectivity identification is rigorous (objectivity as intersubjective invariance); the "implies" is Feature 6's limit carrying a named finite-sample reach.*
+*Tier: **criterion** — the invariance = objectivity identification is rigorous (objectivity as intersubjective invariance); the "implies" is Face B1's limit carrying a named finite-sample reach.*
 
 ---
 
-*[[Feature 9 - Explicit Confidence Tiers|Feature 9 — Explicit Confidence Tiers]] →*
+*[[Face B3: The Steelman Is the Test|Face B3: The Steelman Is the Test]] →*

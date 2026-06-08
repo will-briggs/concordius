@@ -3,7 +3,7 @@
 **Work:** The prosperity gospel / "health and wealth" / Word of Faith teaching (Kenyon, Hagin, and successors)  
 **Medium:** Doctrine; a movement within modern Christianity  
 **Series:** Book 3 — Structural Readings / Doctrine  
-**Cross-references:** the Postscript (Matthew 6:19–21, treasures in heaven vs. on earth); Paper 6 (eigenvalue investment and orientation); the Eucharist (Doctrine); Reasonablenessism Feature 12; Syntheses — The Devil Can Quote Scripture
+**Cross-references:** the Postscript (Matthew 6:19–21, treasures in heaven vs. on earth); Paper 6 (eigenvalue investment and orientation); the Eucharist (Doctrine); Reasonablenessism Face D1; Syntheses — The Devil Can Quote Scripture
 
 ---
 
@@ -25,11 +25,11 @@ Then the term is switched. "Treasures in heaven" — Φ-proximal accumulation at
 
 ## 4. The Fruit
 
-By its fruit (Feature 12): the teaching orients the catching being toward noise-floor accumulation under the language of faith — down the cascade, in the name of heaven. Its cruelty is the structural tell. If faith produces wealth and health, then the poor and the sick have insufficient faith; the inversion necessarily manufactures contempt for those it fails, exactly as the inverted-agape counterfeits do. This is the diagnostic signature of a counterfeit running on a real signal: it works often enough to be believed, and it shames precisely those whom the genuine gospel came for. Catch the open hand and the reorganizing faith; refuse the relocation of the treasury.
+By its fruit (Face D1): the teaching orients the catching being toward noise-floor accumulation under the language of faith — down the cascade, in the name of heaven. Its cruelty is the structural tell. If faith produces wealth and health, then the poor and the sick have insufficient faith; the inversion necessarily manufactures contempt for those it fails, exactly as the inverted-agape counterfeits do. This is the diagnostic signature of a counterfeit running on a real signal: it works often enough to be believed, and it shames precisely those whom the genuine gospel came for. Catch the open hand and the reorganizing faith; refuse the relocation of the treasury.
 
 ---
 
-*(Cross-reference: the Postscript and Matthew 6:19–21 — the text the prosperity gospel inverts term-for-term; the H₁ treasury relocated to H₄₈. Paper 5 — the eigenvalue-investment principle the movement draws on truthfully before misdirecting it. The Eucharist (Doctrine) — genuine reorganization through a material act, the contrast case where the direction holds. Feature 12 — the directional test; the manufactured contempt for the unprosperous as the counterfeit's signature.)*
+*(Cross-reference: the Postscript and Matthew 6:19–21 — the text the prosperity gospel inverts term-for-term; the H₁ treasury relocated to H₄₈. Paper 5 — the eigenvalue-investment principle the movement draws on truthfully before misdirecting it. The Eucharist (Doctrine) — genuine reorganization through a material act, the contrast case where the direction holds. Face D1 — the directional test; the manufactured contempt for the unprosperous as the counterfeit's signature.)*
 
 *(Confidence tier: Concordance with explicit divergence. The inversion is exact and textual — the same verse, the location reversed — so the ⊘ rests on the movement's own use of scripture. The genuine signal (faith reorganizes a life; generosity is real catching) is granted in full; the mark is on the relocation of the treasury, not on faith or giving.)*
 

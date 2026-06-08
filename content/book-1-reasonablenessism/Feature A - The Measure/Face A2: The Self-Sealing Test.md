@@ -1,6 +1,6 @@
-*← [[Feature 6 - Convergence of Independent Witnesses|Feature 6 — Convergence of Independent Witnesses]]*
+*← [[Face A1: Provenance Is Irrelevant to Truth-Value|Face A1: Provenance Is Irrelevant to Truth-Value]]*
 
-# Feature 7 — The Self-Sealing Test
+# Face A2: The Self-Sealing Test
 
 ---
 
@@ -43,4 +43,4 @@ That's the test. But be careful with it — it applies rarely and deserves preci
 
 ---
 
-*[[Feature 8 - Universal Subjective Convergence Implies Objectivity|Feature 8 — Universal Subjective Convergence Implies Objectivity]] →*
+*[[Face A3: Counterfeit-Proximity|Face A3: Counterfeit-Proximity]] →*

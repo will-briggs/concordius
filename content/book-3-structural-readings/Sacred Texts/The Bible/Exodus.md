@@ -106,7 +106,7 @@ The cleft and the hand are not narrative decoration; they are the structural des
 
 *Hebrew:* יְהוָה יְהוָה אֵל רַחוּם וְחַנּוּן אֶרֶךְ אַפַּיִם וְרַב-חֶסֶד וֶאֱמֶת נֹצֵר חֶסֶד לָאֲלָפִים נֹשֵׂא עָוֹן וָפֶשַׁע וְחַטָּאָה
 
-The most-cited divine self-description in the Hebrew Bible — echoed verbatim or in close paraphrase in at least fourteen subsequent texts across a thousand years of tradition. The convergence of independent citation is Feature 6 applied to a single passage: this text has been treated as structurally central by every tradition that engaged with it.
+The most-cited divine self-description in the Hebrew Bible — echoed verbatim or in close paraphrase in at least fourteen subsequent texts across a thousand years of tradition. The convergence of independent citation is Face B1 applied to a single passage: this text has been treated as structurally central by every tradition that engaged with it.
 
 **The doubled Name**
 

@@ -310,7 +310,7 @@ The catching orientation between two catching beings (*marriage of true minds*) 
 
 **The self-sealing couplet:**
 
-"If this be error and upon me proved, / I never writ, nor no man ever loved." The couplet is the structural self-sealing test (Feature 7 in the Reasonablenessism framework applied to an H₄₈ literary form): to deny the structural permanence of the inner product would require denying that any love has ever been structurally real, which contradicts the minimum necessary condition for the sonnet itself existing. The negation of the claim is structurally self-refuting.
+"If this be error and upon me proved, / I never writ, nor no man ever loved." The couplet is the structural self-sealing test (Face A2 in the Reasonablenessism framework applied to an H₄₈ literary form): to deny the structural permanence of the inner product would require denying that any love has ever been structurally real, which contradicts the minimum necessary condition for the sonnet itself existing. The negation of the claim is structurally self-refuting.
 
 *(Cross-reference: 1 COR 13:4-13 — the operational phenomenology of ⟨·,·⟩ in the Pauline framework; *agape* that "never fails" is the same structural claim as "love's not Time's fool." SONN 124 — the political angle on the same structural invariance: love not the child of state, built far from accident. SONN 130 — the demonstration of SONN 116 in the concrete case: love not contingent on H₄₈ surface compliance.)*
 

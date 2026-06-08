@@ -1,6 +1,6 @@
-*← [[Feature 8 - Universal Subjective Convergence Implies Objectivity|Feature 8 — Universal Subjective Convergence Implies Objectivity]]*
+*← [[Feature C - The Boundary/index|Feature C — The Boundary]]*
 
-# Feature 9 — Explicit Confidence Tiers
+# Face C0: Explicit Confidence Tiers
 
 ---
 
@@ -40,8 +40,8 @@ The honest version: "I've heard good things about X — I don't know the researc
 **Typed warrant.** A claim's warrant is a pair **(type, magnitude)**, not a scalar, and the type fixes the update law and is not discardable:
 
 - **deductive** — entailment from the primitives, P = 1 conditional on the axioms, closed under modus ponens, brittle (one false premise voids it);
-- **convergent** — a posterior assembled from independent likelihoods (Feature 6), soft and accumulating;
-- **testimonial** — a single likelihood increment (Feature 3), soft and easily overturned.
+- **convergent** — a posterior assembled from independent likelihoods (Face B1), soft and accumulating;
+- **testimonial** — a single likelihood increment (Face B0), soft and easily overturned.
 
 A deductive 0.9 and a testimonial 0.9 are different objects: they respond differently to new evidence. Collapsing the pair to its magnitude — presenting everything at one confidence — is a **type error**, and it is exactly TruthChecker's OVERCLAIM (a concordance dressed as a derivation, a granted premise dressed as established). The types map onto the constraint hierarchy: Tier 1 derivations from the cogito + Gelfand triple (τ → 1, the anchor nodes of the dependency graph, Appendix C §2); Tier 2 concordance from independent witnesses; Tier 3 the practitioner's not-yet-confirmed working-out.
 
@@ -49,4 +49,4 @@ A deductive 0.9 and a testimonial 0.9 are different objects: they respond differ
 
 ---
 
-*[[Feature 10 - Logic Where It Reaches; Concordance Where It Doesn't|Feature 10 — Logic Where It Reaches; Concordance Where It Doesn't]] →*
+*[[Face C1: Logic Where It Reaches; Concordance Where It Doesn't|Face C1: Logic Where It Reaches; Concordance Where It Doesn't]] →*

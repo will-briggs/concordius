@@ -3,7 +3,7 @@
 **Work:** *Atlas Shrugged*, Ayn Rand, 1957  
 **Medium:** Novel; the founding fiction of Objectivism  
 **Series:** Book 3 — Structural Readings / Literature  
-**Cross-references:** Paper 3 (the Creative Choice; creativity as the catching being's H₄₈-expressible act); Paper 1 §5 (agape as ⟨·,·⟩ expressed laterally); the Lucifer Rebellion (Doctrine); Reasonablenessism Feature 1 (no source is axiom), Feature 12 (fruit, not lineage); Syntheses — The Devil Can Quote Scripture
+**Cross-references:** Paper 3 (the Creative Choice; creativity as the catching being's H₄₈-expressible act); Paper 1 §5 (agape as ⟨·,·⟩ expressed laterally); the Lucifer Rebellion (Doctrine); Reasonablenessism Face A0 (no source is axiom), Face D1 (fruit, not lineage); Syntheses — The Devil Can Quote Scripture
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## 2. The Genuine Signal
 
-Rand sees something real and sees it clearly. Creative work — Rearden's metal, Galt's motor, Dagny's railroad — is in the framework the catching being's primary H₄₈-expressible act (Paper 3): the composition of lower-constraint organizational content into the material medium, an act in which Φ-proximate structure passes through the maker into the world. Her contempt for the "second-hander," the looter who produces nothing and lives on the confiscated work of others, is a precise diagnosis of a noise-floor parasitism: the being who has declined the catching program and feeds on the deposits of those who have not. Her insistence that one must not live by inherited, unexamined claims — that "A is A," that reality does not yield to wish — is Feature 1 (no source is axiom) stated with force. The book's energy is the real energy of the catching orientation defending the signal against those who would consume it without producing it. None of this is the error.
+Rand sees something real and sees it clearly. Creative work — Rearden's metal, Galt's motor, Dagny's railroad — is in the framework the catching being's primary H₄₈-expressible act (Paper 3): the composition of lower-constraint organizational content into the material medium, an act in which Φ-proximate structure passes through the maker into the world. Her contempt for the "second-hander," the looter who produces nothing and lives on the confiscated work of others, is a precise diagnosis of a noise-floor parasitism: the being who has declined the catching program and feeds on the deposits of those who have not. Her insistence that one must not live by inherited, unexamined claims — that "A is A," that reality does not yield to wish — is Face A0 (no source is axiom) stated with force. The book's energy is the real energy of the catching orientation defending the signal against those who would consume it without producing it. None of this is the error.
 
 ## 3. The Decisive Inversion
 
@@ -25,11 +25,11 @@ The error is the substituted term. Agape — ⟨·,·⟩ expressed laterally, th
 
 ## 4. The Fruit
 
-Read by its fruit (Feature 12), the book orients the reader toward the self as terminus and away from ⟨·,·⟩ — down the cascade, however vertical its rhetoric of achievement. Its lasting effect on readers it captures is the sanctification of contempt: the fellow catching being, reframed as looter or weakling, becomes someone it is virtuous to feel nothing for. The genuine signal — that your work is sacred and that no one is entitled to consume it — survives the reading and is worth catching. What must not be caught with it is the oath. The framework keeps Rearden's forge and refuses Galt's vow.
+Read by its fruit (Face D1), the book orients the reader toward the self as terminus and away from ⟨·,·⟩ — down the cascade, however vertical its rhetoric of achievement. Its lasting effect on readers it captures is the sanctification of contempt: the fellow catching being, reframed as looter or weakling, becomes someone it is virtuous to feel nothing for. The genuine signal — that your work is sacred and that no one is entitled to consume it — survives the reading and is worth catching. What must not be caught with it is the oath. The framework keeps Rearden's forge and refuses Galt's vow.
 
 ---
 
-*(Cross-reference: Paper 3 — creativity as the catching being's composition of lower-constraint content, the signal Rand carries; the maker as conduit, not source, which her metaphysics inverts. Paper 1 §5 and 1 Cor 13 — agape as ⟨·,·⟩ lateral, the term Rand names as the root evil. The Lucifer Rebellion — the assertion of self-originating organizational autonomy, of which Galt's oath is the economic form. Feature 1 — Rand's genuine instrument: live by no unexamined claim. Feature 12 — the diagnostic that catches her: judge by what it produces in the reader, which is contempt sanctified as integrity.)*
+*(Cross-reference: Paper 3 — creativity as the catching being's composition of lower-constraint content, the signal Rand carries; the maker as conduit, not source, which her metaphysics inverts. Paper 1 §5 and 1 Cor 13 — agape as ⟨·,·⟩ lateral, the term Rand names as the root evil. The Lucifer Rebellion — the assertion of self-originating organizational autonomy, of which Galt's oath is the economic form. Face A0 — Rand's genuine instrument: live by no unexamined claim. Face D1 — the diagnostic that catches her: judge by what it produces in the reader, which is contempt sanctified as integrity.)*
 
 *(Confidence tier: Concordance with explicit divergence. The creativity-signal and the second-hander diagnosis map cleanly onto Paper 3 and the noise-floor account; the inversion — agape named as evil — is stated by the text itself in Galt's oath, so the ⊘ designation rests on the work's own words rather than on interpretation. [Speculative]: the Lucifer-structure identification is an interpretation by analogy, not a claim the novel makes of itself.)*
 

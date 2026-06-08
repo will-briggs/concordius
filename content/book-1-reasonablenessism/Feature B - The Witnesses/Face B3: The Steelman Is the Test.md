@@ -1,6 +1,6 @@
-*← [[Feature 1 - No Source Is Axiom|Feature 1 — No Source Is Axiom]]*
+*← [[Face B2: Universal Subjective Convergence Implies Objectivity|Face B2: Universal Subjective Convergence Implies Objectivity]]*
 
-# Feature 2 — The Steelman Is the Test
+# Face B3: The Steelman Is the Test
 
 ---
 
@@ -39,8 +39,8 @@ When you can state their position so well that they say *yes, that's it* — the
 
 **Worst-case warrant.** Let 𝒜 be the set of admissible counter-arguments to a claim C — conditioning operators that lower its warrant. Define the **robust (steelman) warrant** ρ(C) = inf_{a∈𝒜} τ(C | a). A strawman substitutes a weak a′ and reports τ(C | a′) ≥ ρ(C), overstating warrant; the steelman evaluates at a* = argmin, returning the guaranteed lower bound. "Test what survives" is then exact: ρ(C) is the worst case, so a claim with ρ(C) above threshold holds no matter which admissible opponent is raised. The framework reads the discipline as **noise-floor reduction before reception** (Appendix C): the evaluator must be tuned finely enough to detect the opponent's actual lower-constraint content P_Φ a*, not its H₄₈ surface — otherwise the infimum is taken over a misread set and ρ is meaningless.
 
-*Tier: **criterion** — rigorous as min-max (distributional) robustness; the open part is specifying 𝒜, the true strongest opposition, which is interpretive. Shares the operator-A caveat (Feature 1).*
+*Tier: **criterion** — rigorous as min-max (distributional) robustness; the open part is specifying 𝒜, the true strongest opposition, which is interpretive. Shares the operator-A caveat (Face A0).*
 
 ---
 
-*[[Feature 3 - Personal Experience as Testimony|Feature 3 — Personal Experience as Testimony]] →*
+*[[Feature C - The Boundary/index|Feature C — The Boundary]] →*

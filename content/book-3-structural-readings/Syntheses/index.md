@@ -17,7 +17,7 @@ The readings elsewhere in Book 3 proceed from specific sources — a text, a fil
 
 The selection criterion is the same as everywhere in Book 3: cross-tradition convergence without common derivation, at sufficient amplitude to constitute genuine evidential pressure. A structural theme qualifies for a full reading when the convergence is wide enough and precise enough that independent arrival at the same claim from unrelated starting points becomes difficult to explain except by contact with the same structural reality.
 
-These readings are demonstrations of Feature 6 (Independent Convergence Accumulates) applied at scale: not one or two traditions noticing the same structural feature, but many — across geography, time, language, and metaphysical framework — arriving at the same description with sufficient precision that the convergence is itself an argument.
+These readings are demonstrations of Face B1 (Independent Convergence Accumulates) applied at scale: not one or two traditions noticing the same structural feature, but many — across geography, time, language, and metaphysical framework — arriving at the same description with sufficient precision that the convergence is itself an argument.
 
 ---
 

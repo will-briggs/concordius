@@ -1,6 +1,6 @@
-*← [[Feature 4 - The Stance Applies to Itself|Feature 4 — The Stance Applies to Itself]]*
+*← [[Face A0: No Source Is Axiom|Face A0: No Source Is Axiom]]*
 
-# Feature 5 — Provenance Is Irrelevant to Truth-Value
+# Face A1: Provenance Is Irrelevant to Truth-Value
 
 ---
 
@@ -43,4 +43,4 @@ It works in the other direction too. Your most trusted mentor recommends somethi
 
 ---
 
-*[[Feature 6 - Convergence of Independent Witnesses|Feature 6 — Convergence of Independent Witnesses]] →*
+*[[Face A2: The Self-Sealing Test|Face A2: The Self-Sealing Test]] →*

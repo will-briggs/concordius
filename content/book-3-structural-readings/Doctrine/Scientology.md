@@ -3,7 +3,7 @@
 **Work:** Dianetics (1950) and the Church of Scientology; the Bridge to Total Freedom  
 **Medium:** Doctrine; a twentieth-century religious-commercial system  
 **Series:** Book 3 — Structural Readings / Doctrine  
-**Cross-references:** the constraint cascade and the ascending career (Paper 4; Paper 5); the higher being body / soul deposit (Paper 5); the Si/Do interval that cannot be self-administered (Paper 13½; Appendix E §IV); Reasonablenessism Feature 12; Syntheses — The Devil Can Quote Scripture
+**Cross-references:** the constraint cascade and the ascending career (Paper 4; Paper 5); the higher being body / soul deposit (Paper 5); the Si/Do interval that cannot be self-administered (Paper 13½; Appendix E §IV); Reasonablenessism Face D1; Syntheses — The Devil Can Quote Scripture
 
 ---
 
@@ -25,11 +25,11 @@ The engine is the inversion. In the framework the ascending career is volitional
 
 ## 4. The Fruit
 
-By its fruit (Feature 12): the system orients the being not upward toward ⟨·,·⟩ but inward toward the org — toward dependency, payment, and the surrender of judgment to a hierarchy that owns the next rung. The ascent becomes a treadmill whose direction is set by the institution's needs. The genuine intuitions it captured — that you are not your body, that trauma must be cleared, that there is a real ascent — are worth catching and are stated better elsewhere in this section. What the ⊘ marks is the ownership: the moment a ladder that answers to no one is sold by someone.
+By its fruit (Face D1): the system orients the being not upward toward ⟨·,·⟩ but inward toward the org — toward dependency, payment, and the surrender of judgment to a hierarchy that owns the next rung. The ascent becomes a treadmill whose direction is set by the institution's needs. The genuine intuitions it captured — that you are not your body, that trauma must be cleared, that there is a real ascent — are worth catching and are stated better elsewhere in this section. What the ⊘ marks is the ownership: the moment a ladder that answers to no one is sold by someone.
 
 ---
 
-*(Cross-reference: Paper 5 — the thetan as folk higher being body; engrams as noise-floor content to be cleared. Paper 4 — the Bridge as the cascade drawn as steps. Paper 13½ / Appendix E §IV — the crossing that cannot be self-administered, still less sold, which is the precise point of inversion. Feature 12 — the directional test; orientation toward the org rather than ⟨·,·⟩ as the fruit. The Magisterium (Doctrine) — the contrast case of institutional mediation that does not claim to own the ascent itself.)*
+*(Cross-reference: Paper 5 — the thetan as folk higher being body; engrams as noise-floor content to be cleared. Paper 4 — the Bridge as the cascade drawn as steps. Paper 13½ / Appendix E §IV — the crossing that cannot be self-administered, still less sold, which is the precise point of inversion. Face D1 — the directional test; orientation toward the org rather than ⟨·,·⟩ as the fruit. The Magisterium (Doctrine) — the contrast case of institutional mediation that does not claim to own the ascent itself.)*
 
 *(Confidence tier: Concordance with explicit divergence. The structural mimicry (thetan, engrams, graded Bridge) is high-precision and is the steelman; the inversion — the ascent owned, gated, and sold — is a documented feature of the institution, so the ⊘ rests on its practice. [Exploratory]: the thetan/higher-being-body identification is an analogy of structure, not an endorsement of the cosmology in which the thetan is embedded.)*
 

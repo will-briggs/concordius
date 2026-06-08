@@ -18,7 +18,7 @@ The **Urantia Book** distinguishes the **morontia** state from the **spirit** st
 
 **Gurdjieff** distinguishes two higher being-bodies above the ordinary "planetary" (physical) body: the **Kesdjan body** — the "body of the air," the second body, the first that must be deliberately built — and above it the **higher-being-body** proper, the body of the soul. Crystallization of the second body is one achievement; the formation of the body above it is another.
 
-Neither tradition treats these as a smooth gradient. Both mark a *qualitative break* between the first higher state and the second. That two independent accounts arrive at the same two-state structure, with the same break, is convergence of the kind Feature 6 weighs as evidence.
+Neither tradition treats these as a smooth gradient. Both mark a *qualitative break* between the first higher state and the second. That two independent accounts arrive at the same two-state structure, with the same break, is convergence of the kind Face B1 weighs as evidence.
 
 ## 2. The Framework's Identification
 
@@ -44,6 +44,6 @@ So the two-state structure the traditions independently report is, in the framew
 
 ---
 
-*(Cross-reference: Appendix A — *Time* (the e₀/Cl(3,1) derivation of the H₂₄-and-below condition) and *Higher being body* (the dual H₂₄/H₁₂ location); Paper 3½ §6 (the −1 generator entering at the first grade-change crossing); Paper 20½ (spirit status = H₁₂; the morontia career at H₂₄); Paper 1 (the GNST); Time in Paper 3½; the Urantia Book (morontia → spirit); Gurdjieff (Kesdjan body → higher-being-body). Reasonablenessism Feature 6 — independent convergence as evidence.)*
+*(Cross-reference: Appendix A — *Time* (the e₀/Cl(3,1) derivation of the H₂₄-and-below condition) and *Higher being body* (the dual H₂₄/H₁₂ location); Paper 3½ §6 (the −1 generator entering at the first grade-change crossing); Paper 20½ (spirit status = H₁₂; the morontia career at H₂₄); Paper 1 (the GNST); Time in Paper 3½; the Urantia Book (morontia → spirit); Gurdjieff (Kesdjan body → higher-being-body). Reasonablenessism Face B1 — independent convergence as evidence.)*
 
 *(Confidence tier: Testimony-plus-structural concordance. Two independent traditions mark the same two-state structure with the same qualitative break; the framework independently derives the location and nature of the break from the Clifford-algebra grade structure (the loss of e₀ above Cl(3,1)). The convergence of independent witness and structural derivation is the strongest available tier. [Exploratory]: the precise alignment of Gurdjieff's body-count with the constraint levels — whether the Kesdjan body is exactly H₂₄ and the higher-being-body exactly H₁₂, versus a looser correspondence — rests on the structural match, not on anything Gurdjieff specifies numerically.)*

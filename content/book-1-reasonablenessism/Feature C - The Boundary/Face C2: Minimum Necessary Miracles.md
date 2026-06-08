@@ -1,6 +1,6 @@
-*← [[Feature 10 - Logic Where It Reaches; Concordance Where It Doesn't|Feature 10 — Logic Where It Reaches; Concordance Where It Doesn't]]*
+*← [[Face C1: Logic Where It Reaches; Concordance Where It Doesn't|Face C1: Logic Where It Reaches; Concordance Where It Doesn't]]*
 
-# Feature 11 — Minimum Necessary Miracles
+# Face C2: Minimum Necessary Miracles
 
 ---
 
@@ -45,4 +45,4 @@ This isn't naivety. You're not forbidden from considering the more complex expla
 
 ---
 
-*[[Feature 12 - Fruit, Not Lineage|Feature 12 — Fruit, Not Lineage]] →*
+*[[Face C3: Coherence|Face C3: Coherence]] →*

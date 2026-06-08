@@ -3,7 +3,7 @@
 **Work:** *The Secret*, Rhonda Byrne, 2006 (film and book); the "law of attraction" tradition (Wattles, Hill, New Thought)  
 **Medium:** Self-help phenomenon  
 **Series:** Book 3 — Structural Readings / World and Experience  
-**Cross-references:** the Postscript (treasures on earth vs. in heaven); Paper 6 (orientation and eigenvalue investment); the Holographic Content Principle (Paper 10½); Reasonablenessism Feature 12; Syntheses — The Devil Can Quote Scripture
+**Cross-references:** the Postscript (treasures on earth vs. in heaven); Paper 6 (orientation and eigenvalue investment); the Holographic Content Principle (Paper 10½); Reasonablenessism Face D1; Syntheses — The Devil Can Quote Scripture
 
 ---
 
@@ -25,11 +25,11 @@ The mechanism is real; its target is inverted. *The Secret* points the catching 
 
 ## 4. The Fruit
 
-By its fruit (Feature 12): *The Secret* orients the catching being toward the noise floor with the language of spiritual law, and toward contempt for the unlucky with the language of empowerment — down the cascade, twice. The genuine practices it smuggles — gratitude, attention, the refusal of anxious rumination — are worth keeping and the framework keeps them. What must be refused is the target: catching aimed at the manifested object is catching spent on what moth and rust destroy.
+By its fruit (Face D1): *The Secret* orients the catching being toward the noise floor with the language of spiritual law, and toward contempt for the unlucky with the language of empowerment — down the cascade, twice. The genuine practices it smuggles — gratitude, attention, the refusal of anxious rumination — are worth keeping and the framework keeps them. What must be refused is the target: catching aimed at the manifested object is catching spent on what moth and rust destroy.
 
 ---
 
-*(Cross-reference: the Postscript / Matthew 6:19–21 — the treasury relocated to H₄₈, here with no God to refuse the request. Paper 5 — orientation as the catching act, the true mechanism the book deploys. Paper 10½, the Holographic Content Principle — the genuine correspondence-intuition the slogans distort. Feature 12 — the directional test; the blaming of the afflicted as the counterfeit's signature, a second inversion (of agape) riding on the first (of treasure).)*
+*(Cross-reference: the Postscript / Matthew 6:19–21 — the treasury relocated to H₄₈, here with no God to refuse the request. Paper 5 — orientation as the catching act, the true mechanism the book deploys. Paper 10½, the Holographic Content Principle — the genuine correspondence-intuition the slogans distort. Face D1 — the directional test; the blaming of the afflicted as the counterfeit's signature, a second inversion (of agape) riding on the first (of treasure).)*
 
 *(Confidence tier: Concordance with explicit divergence. The orientation mechanism maps cleanly onto Paper 5; the inversion — the mechanism aimed at H₄₈ treasure — is the book's explicit teaching, so the ⊘ rests on its own claims. [Speculative]: the second-inversion reading (attention attracts circumstance ⟹ the afflicted attracted their affliction) follows from the book's logic but is stated more bluntly here than in its gentler presentations.)*
 

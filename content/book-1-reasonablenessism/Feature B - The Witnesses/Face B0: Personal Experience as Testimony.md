@@ -1,6 +1,6 @@
-*← [[Feature 2 - The Steelman Is the Test|Feature 2 — The Steelman Is the Test]]*
+*← [[Feature B - The Witnesses/index|Feature B — The Witnesses]]*
 
-# Feature 3 — Personal Experience as Testimony
+# Face B0: Personal Experience as Testimony
 
 ---
 
@@ -37,10 +37,10 @@ The discipline is to hold it accurately: *this is what I found; I've looked for 
 
 ## Formal Statement (Concordius Framework)
 
-**Bounded likelihood ratio.** A single experiential report e contributes to a claim C the log-likelihood increment Δℓ = log[ P(e | C) ⁄ P(e | ¬C) ], with **0 < |Δℓ| < ∞**: nonzero, so it is genuine evidence and may not be discarded; finite, so no single report can drive the posterior to 0 or 1 — it is not proof. In framework terms e is the phenomenological signature of a catching event, τ_r(D,R) > 0 — lower-constraint content recovered into the H₂₄ domain — and its weight grows as the receiver's noise floor falls and as disconfirmation has been sought and not found (each failed refutation adds an independent Δℓ, Feature 6). That its own τ(e) < 1 (Feature 1) is the same statement from the source side: an H₄₈ encoding cannot certify.
+**Bounded likelihood ratio.** A single experiential report e contributes to a claim C the log-likelihood increment Δℓ = log[ P(e | C) ⁄ P(e | ¬C) ], with **0 < |Δℓ| < ∞**: nonzero, so it is genuine evidence and may not be discarded; finite, so no single report can drive the posterior to 0 or 1 — it is not proof. In framework terms e is the phenomenological signature of a catching event, τ_r(D,R) > 0 — lower-constraint content recovered into the H₂₄ domain — and its weight grows as the receiver's noise floor falls and as disconfirmation has been sought and not found (each failed refutation adds an independent Δℓ, Face B1). That its own τ(e) < 1 (Face A0) is the same statement from the source side: an H₄₈ encoding cannot certify.
 
-*Tier: **derivation** — the bounded-likelihood bound, plus Feature 1. Feature 8 is its n → ∞, zero-exception limit.*
+*Tier: **derivation** — the bounded-likelihood bound, plus Face A0. Face B2 is its n → ∞, zero-exception limit.*
 
 ---
 
-*[[Feature 4 - The Stance Applies to Itself|Feature 4 — The Stance Applies to Itself]] →*
+*[[Face B1: Convergence of Independent Witnesses|Face B1: Convergence of Independent Witnesses]] →*

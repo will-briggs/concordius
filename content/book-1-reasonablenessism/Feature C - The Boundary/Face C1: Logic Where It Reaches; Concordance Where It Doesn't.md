@@ -1,6 +1,6 @@
-*← [[Feature 9 - Explicit Confidence Tiers|Feature 9 — Explicit Confidence Tiers]]*
+*← [[Face C0: Explicit Confidence Tiers|Face C0: Explicit Confidence Tiers]]*
 
-# Feature 10 — Logic Where It Reaches; Concordance Where It Doesn't
+# Face C1: Logic Where It Reaches; Concordance Where It Doesn't
 
 ---
 
@@ -35,10 +35,10 @@ Name it. The derivable part you've derived; this is what the numbers say. Now yo
 
 ## Formal Statement (Concordius Framework)
 
-**The boundary of deductive closure.** Let Cl(𝒫) be the deductive closure of the framework's primitives 𝒫 (everything entailed by the cogito + the Gelfand triple). Inside Cl(𝒫), warrant is deductive (= 1 | 𝒫); at its boundary ∂Cl(𝒫), warrant-type must switch to convergence (Feature 6). Feature 10 is the discipline of **locating a claim relative to ∂ and switching method there, in the open**. The boundary is named in the framework: derivation runs through the Trinity (Papers [[Paper A0: Modeling Reality as a Gelfand Triple|A0]]–[[Paper A1: Naming the Unnameable|A1]]); everything after is contingent (Papers A2 onward), warranted by the accumulated structural readings from outside the derivation. Structurally ∂ is the series' own first grade change — the interval the process cannot cross by its own resources, requiring an element (the concordance) from outside. The deep reason the boundary cannot be wished away is Feature 1's Gödel–Tarski bound: membership in Cl(𝒫) is undecidable in general, so ∂ is real, not a convenience.
+**The boundary of deductive closure.** Let Cl(𝒫) be the deductive closure of the framework's primitives 𝒫 (everything entailed by the cogito + the Gelfand triple). Inside Cl(𝒫), warrant is deductive (= 1 | 𝒫); at its boundary ∂Cl(𝒫), warrant-type must switch to convergence (Face B1). Face C1 is the discipline of **locating a claim relative to ∂ and switching method there, in the open**. The boundary is named in the framework: derivation runs through the Trinity (Papers [[Paper A0: Modeling Reality as a Gelfand Triple|A0]]–[[Paper A1: Naming the Unnameable|A1]]); everything after is contingent (Papers A2 onward), warranted by the accumulated structural readings from outside the derivation. Structurally ∂ is the series' own first grade change — the interval the process cannot cross by its own resources, requiring an element (the concordance) from outside. The deep reason the boundary cannot be wished away is Face A0's Gödel–Tarski bound: membership in Cl(𝒫) is undecidable in general, so ∂ is real, not a convenience.
 
 *Tier: **criterion** — deductive closure is precise; deciding membership in Cl(𝒫) is undecidable in general, which is the principled open part.*
 
 ---
 
-*[[Feature 11 - Minimum Necessary Miracles|Feature 11 — Minimum Necessary Miracles]] →*
+*[[Face C2: Minimum Necessary Miracles|Face C2: Minimum Necessary Miracles]] →*
