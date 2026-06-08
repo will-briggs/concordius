@@ -1,0 +1,13 @@
+# A Structural Reading of Cicero
+
+*Cicero is read here through the shape of his life: the greatest orator of Rome, who spent himself defending the dying Republic against the men who would replace its law with their power, and who was killed for it — his hands, which had written the *Philippics* against Antony, and his head nailed up in the Forum. He is at once a witness to courage (the principle held to the cost) and the great *transmitter* through whom Greek philosophy entered the Latin West.*
+
+---
+
+The transmission is the underappreciated structural service. Cicero, in a burst of writing late in life, set out to render Greek philosophy in Latin — coining much of the vocabulary (*qualitas*, *moralis*, and a hundred more) the West would think in for two thousand years. He is not a first-rank original mind and did not pretend to be; he is something the framework values as highly — a faithful messenger, a low-distortion channel who caught the Greek achievement and re-encoded it for a new language without deforming it, so that Augustine, the medievals, and the humanists received Plato and the Stoics partly through him. To carry another's catch across a language barrier with the signal intact is a real form of the work.
+
+The death is the witness to courage. With the Republic collapsing into the rule of strongmen, Cicero made his choice late but made it fully: he attacked Antony in the *Philippics* knowing the cost, held the principle of lawful, deliberative government against the rising tide of personal power, and was proscribed and hunted down for it. The story that he bared his neck to the assassin, and that Antony's wife drove a pin through the dead tongue that had spoken against her husband, the framework reads — without vouching the details — as the inversion's spite against the man who held the principle: e₁e₂, courage, the Good wedged with the True and not released, paid at the price the bivector always names. Cicero stands in the Host as both the channel through which the company's earlier voices reached the West and a witness, at the end, to the cost of holding the line.
+
+*Confidence: concordance — the transmission read as faithful-messenger work, the death as the courage-bivector paid at cost; the lurid details used for shape, not vouched. Messenger: Cicero is unusual on the roster for surviving in his own vast hand — speeches, letters, treatises — so the filter is lighter than most, though the self-presentation of a working politician is its own bias.*
+
+*(Cross-reference: [[Paper C3: The Courageous]] on the principle held to the cost; [[Philosophy/The Meditations of Marcus Aurelius|Marcus Aurelius]] (the Stoicism he transmitted); [[Paper A5: The Breath of Life]] on consciousness carried in language.)*

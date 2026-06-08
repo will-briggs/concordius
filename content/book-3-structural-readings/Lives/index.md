@@ -50,7 +50,15 @@ These are not biographies and not appraisals. A Life reading does not rank the f
 - Valmiki → [[Literature/Valmiki — The Ramayana|The Ramayana]] *(work)*
 - Patanjali → [[Sacred Texts/Patanjali — The Yoga Sutras|The Yoga Sutras]] *(work)*
 - Vyasa → [[Sacred Texts/The Bhagavad Gita|The Bhagavad Gita]] *(work already read)*
-- Moses, David, Solomon, Isaiah → [[Paper A3: The Word Made Flesh]] *(read in the OT octave)*
+- [[Lives/Empedocles|Empedocles]] — *the life* (Love and Strife; the binding and dividing powers)
+- [[Lives/Anaxagoras|Anaxagoras]] — *the life* (Nous orders the cosmos)
+- [[Lives/Diogenes the Cynic|Diogenes the Cynic]] — *the life* (noise-floor reduction as public argument)
+- [[Lives/Epicurus|Epicurus]] — *the life* (the Garden; ataraxia)
+- [[Lives/Cicero|Cicero]] — *the life* (the Republic's last defender; the great transmitter)
+- [[Lives/Pericles|Pericles]] — *the life* (the civic trellis; the Funeral Oration)
+- Euripides → [[Literature/Euripides — The Bacchae|The Bacchae]] *(work)*
+- Lucretius → [[Philosophy/Lucretius — De Rerum Natura|De Rerum Natura]] *(work)*
+- Moses, David, Solomon, Isaiah, Jeremiah, Ezekiel → [[Paper A3: The Word Made Flesh]] *(read in the OT octave)*
 - Lao Tzu → [[Sacred Texts/The Tao Te Ching|Tao Te Ching]] *(work already read)*
 
 ### Fa — The Post-Incarnation Synthesis

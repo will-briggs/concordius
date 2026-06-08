@@ -61,6 +61,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 [[Philosophy/Heraclitus — On Nature|Heraclitus — On Nature]]
 [[Philosophy/Parmenides — On Nature|Parmenides — On Nature]]
+[[Philosophy/Lucretius — De Rerum Natura|Lucretius — De Rerum Natura]]
 [[Philosophy/Spinoza's Ethics|Spinoza — Ethics]]
 [[Philosophy/The Enneads|Plotinus — The Enneads]]
 [[Philosophy/Epictetus|Epictetus — The Discourses and Enchiridion]]
@@ -76,6 +77,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 [[Literature/Sophocles — Antigone|Sophocles — Antigone]]
 [[Literature/Herodotus — The Histories|Herodotus — The Histories]]
 [[Literature/Valmiki — The Ramayana|Valmiki — The Ramayana]]
+[[Literature/Euripides — The Bacchae|Euripides — The Bacchae]]
 [[Literature/Dante — The Divine Comedy|Dante — The Divine Comedy]]
 [[Literature/Augustine — Confessions|Augustine — Confessions]]
 [[Literature/Atlas Shrugged|Rand — Atlas Shrugged]] ⊘
