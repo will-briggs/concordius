@@ -2,9 +2,9 @@
 
 # The Son of Man: Maximum Kenosis
 
-*Paper A6 of Section A — the theology-and-scientist lens, and the section's anchor. It first gathers what came before the One it is named for: the theology Israel held and the physical record we actually have of the Old Testament, tiered honestly — from a record that is essentially silent (the patriarchs, the Exodus as a mass event) to one among the best-attested in the ancient world (the people from c. 1208 BC, the House of David from c. 840 BC, the divided monarchy onward, and the kept text itself). All of it leaned toward a coming it could not produce; and then the Word entered. The life that follows is taken moment by moment, each three ways — what the structure makes of it, what the Gospels testify, and what it would have been to stand there, in the dust and heat. Companion to Papers A3–A5 (the three lenses ending at the birth) and Paper A6½ (the tomb); the post-Birth church — the early letters and the New Testament's communities — is taken up in Paper B1.*
+*Paper A6 of Section A. The three lenses — the Word, the body, the soul — each carried one arc from the forming of the world to a single birth. This paper follows the one life that begins there, told as a sequence of its moments, from the announcement that it would happen to the cry that ends it. Each moment is taken three ways: what the structure makes of it, what the Gospels testify, and what it would have been to stand there — in the dust, the heat, the press of the crowd. The story the three readings tell together is humility itself: the One through whom all things were made, entered from outside as an infant and living downward — the form of God taken into the form of a servant — all the way to the cross. Companion to Papers A3–A5 (which end at the birth) and Paper A6½ (the tomb the cry hands on to).*
 
-*Status: the Old Testament section is theology paired with the physical record, tiered as it stands — contested where the evidence is absent (the patriarchs; the Exodus as a mass departure), firm where it is attested (Israel named on the Merneptah Stele, c. 1208 BC; the House of David on the Tel Dan Stele, c. 840 BC; the Assyrian campaign of 701 BC across Sennacherib's Prism, the Lachish reliefs, and Hezekiah's tunnel; the Cyrus Cylinder, c. 539 BC; and the manuscript witnesses — Ketef Hinnom, the Dead Sea Scrolls, the Masoretic codices). The historical points follow standard scholarship. The life is mostly testimony, held as testimony; its structural readings are concordance at their tiers (the cry at e₁e₂ squared to −1, Paper A3; the death real and not annihilation, Paper A4; the breath freely returned, Paper A5). Its physical settings are imaginative reconstruction of first-century Galilee and Judea. The spine is the kenotic hymn (Philippians 2).*
+*Status: mostly testimony, held as testimony — the life as the Gospels hand it down, no more surely than they can. The structural readings are concordance with the derived structure, at their tiers: the entrance from outside (Papers A2½, A3); the cry at the antipode of the felt-spectrum (e₁e₂ squared to −1, Paper A3); the death real and not annihilation (Paper A4); the breath freely returned (Paper A5). The physical settings are imaginative reconstruction of first-century Galilee and Judea — the period's texture, not claims from a record that is nearly silent on it. The spine throughout is the kenotic hymn (Philippians 2), read as the shape of humility.*
 
 ---
 
@@ -21,48 +21,6 @@
 > *— Philippians 2:6–8*
 
 </div>
-
----
-
-## Before the Word
-
-The One the hymn names did not enter an empty world. He entered a particular people, at the end of a long preparation — a line carried for the sake of a promise, and a text kept with a care no other ancient writing received. This is the half of the paper the scientist can stand in: the theology Israel held, and the physical record we actually have of it. The record is uneven, and the honest thing is to say exactly where it is thin and where it is firm, because the preparation does not need to be exaggerated to be real. It runs from a record that is essentially silent to one that is among the best-attested in the ancient world, and it leans, the whole way, toward a coming it could not produce.
-
----
-
-## The covenant and the people
-
-The theology begins with a call and a promise: one man, Abraham, called out of the nations and given a covenant — a line, a land, and through that line a blessing meant for all the families of the earth (Genesis 12:1–3). The claim is structural before it is national. A relation lays hold of a people and constitutes them as its own — *I will be their God, and they shall be my people* — the way the inner product constitutes whatever it holds. Out of the call comes a deliverance, a law given at Sinai, a people formed by being claimed.
-
-Here the scientist must be candid, because this is the thin end of the record. For Abraham and the patriarchs there is no direct evidence at all: no inscription and no artifact names the men of Genesis, and the most that can be said is that the world the stories assume is a real one. The Exodus as a mass departure from Egypt is, on the present evidence, unattested and widely doubted — there is no Egyptian record of it and no archaeological trace of the wandering. What the record *does* give, and firmly, is the people themselves by the late thirteenth century BC: the Egyptian Merneptah Stele, about 1208 BC, names *Israel* among the peoples of Canaan — the earliest mention of Israel anywhere outside the Bible, and the first hard fix on the fact that a people by that name was on the ground there. So the founding events are unrecovered and the people are real and present by 1200 BC. The preparation is older than its evidence.
-
----
-
-## The throne and the promise
-
-The promise narrows to a throne. A line of kings rises — Saul, then David, then Solomon — and to David is given the word the rest of the story hangs on: that his house and his throne would be established forever (2 Samuel 7:16), a king of his line in whom the blessing promised to Abraham would come true. From here the messianic hope takes its shape, and the prophets sharpen it into something specific — a child, a branch from the stump of Jesse, one who would bear the people's affliction and yet be called Mighty God (Isaiah 9, 11, 53). The deepest thing the Old Testament does is teach a people, against every disappointment, to expect someone.
-
-And here the record turns, and turns hard. That David existed and founded a dynasty is no longer in serious doubt: the Tel Dan Stele, an Aramaic victory inscription from about 840 BC, names the *House of David* — the first reference to David outside the Bible, and the find that effectively ended the scholarly argument over whether he existed; what remains genuinely debated is *scale*, whether the tenth-century kingdom was the broad realm the text describes or a smaller hill-country polity, and the evidence is honestly read both ways. From the ninth century on, the doubt runs out. The Assyrian king Sennacherib's campaign against Judah in 701 BC, in Hezekiah's reign, is corroborated from every side at once: Sennacherib's own Prism boasts of shutting Hezekiah up *like a bird in a cage* in Jerusalem; the Lachish reliefs carved for his palace at Nineveh depict the siege of Judah's second city; the destruction layer at Lachish is in the ground; and Hezekiah's water tunnel under Jerusalem, with the inscription its diggers left where they met in the middle, can still be walked through today (2 Kings 20:20). From the divided monarchy onward, Israel and Judah are not legend. They are documented states whose history intersects the imperial records of Assyria, Babylon, and Persia at point after point.
-
----
-
-## Exile, and the waiting
-
-The kingdom falls — the north to Assyria, the south to Babylon — and the people go into exile, and the theology deepens into hope deferred: the temple razed, the line apparently broken, the prophets insisting the promise still holds. A remnant returns; a second temple is built; and the long centuries that follow are spent waiting, the expectation of the Messiah at its highest pitch precisely where the political hope is at its lowest. The return has its monument: the Cyrus Cylinder, about 539 BC, records the Persian policy of restoring deported peoples to their lands — the imperial decree behind the homecoming the book of Ezra describes. The Second Temple world is solid ground, and it is the world the life of this paper will be born into.
-
----
-
-## The kept text
-
-Through all of it, one thing was carried with a care that is itself part of the evidence: the text. *Unto them were committed the oracles of God* (Romans 3:2), and Israel kept them as no other ancient writing was kept — guarded, counted, copied letter by letter. They were kept in two shapes that would matter later: a Hebrew canon, and a broader Greek translation made at Alexandria from the third century BC, the Septuagint, which became the early church's Bible. (Those two shapes are the seam along which the church's later canon divisions would run; that downstream history is Paper B1's.)
-
-The physical witnesses to the keeping are extraordinary, and they are the scientist's strongest single holding in the whole Old Testament. The oldest surviving piece of the Bible is two tiny rolled silver amulets from Ketef Hinnom near Jerusalem, about 600 BC, carrying the priestly blessing of Numbers 6 — the oldest biblical text known, five centuries older than anything in the Dead Sea caves. The Dead Sea Scrolls themselves — the Great Isaiah Scroll among them, about 125 BC — pushed the oldest Hebrew manuscripts back a full thousand years from the medieval codices that had been the best witnesses, and showed that the text had been transmitted across that millennium with a stability that can be measured rather than merely asserted. Behind them stand the Masoretes of Tiberias, who fixed the vowel-points and counted the letters between the seventh and tenth centuries, and the great codices their labor produced — Aleppo, about 920, and Leningrad, about 1008, the oldest complete Hebrew Bible. The decisive evidentiary fact is not that every event is corroborated — many are not — but that the document itself was transmitted with a fidelity now demonstrable across a thousand years.
-
----
-
-## The threshold
-
-All of it — the covenant, the throne, the prophetic hope, the kept text — leaned toward a coming it could not bring about. A people had been prepared, a line carried, a promise held across a thousand years of disappointment; and the physical record traces the people who carried it without ever reaching the thing they were waiting for, because the thing they were waiting for was not the kind of thing a record could contain in advance. And then, into this people, at the end of this preparation, the Word entered. The rest of the paper is that entrance, and the life it began.
 
 ---
 
