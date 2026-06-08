@@ -30,7 +30,7 @@
 
 ## The threshold
 
-Three roads reach the same edge. Paper A0 derived the structure and stopped — derivation reaches a structure and not one step past it into a name. Paper A1 could name at all only by admitting the one thing no structure supplies: that someone is here to do the naming. Paper A2 followed the created world back toward its beginning and could go one step further only by naming what it could not derive. Set the three side by side and the same shape stands at the end of each: the structure is derivable; the name is not.
+Three roads reach the same edge. Paper A0 derived the structure and stopped — derivation reaches a structure and not one step past it into a name. Paper A1 could name at all only by admitting the one thing no structure supplies: that someone is here to do the naming. Paper A2 followed the created world back toward its beginning and reached the gap it could not cross — a beginning whose source physics cannot name. Set the three side by side and the same shape stands at the end of each: the structure is derivable; the name is not.
 
 That leaves one question standing before everything else — whether the three names are one name. Whether the structure the first reading derives, the One the second dares address, and the source the third points back to past the edge of physics are a single reality seen from three sides. This is the one thing no derivation can establish, because the naming is the step no derivation reaches; the recognition is an act no proof performs. If the three are one, the descent that follows is the descent of *that one reality* into the world. If they are three, the three accounts stand, and there is no fourth.
 
