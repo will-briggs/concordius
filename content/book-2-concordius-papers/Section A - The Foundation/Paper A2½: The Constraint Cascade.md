@@ -104,17 +104,7 @@ Paper A1 established Father = ⟨·,·⟩. The New Testament states *θεὸς �
 
 **John 3:16, structurally.** "For God so loved the world" — ⟨·,·⟩ acting from its own nature; the constituting is the loving. "That he gave his one and only Son" — before the Creative Choice, Φ exists eternally but there are no temporal beings to approach it; the creative act, bringing H-states into being, is what makes the Logos accessible to time for the first time. Creation *is* the giving of the Son; the Incarnation is that gift carried to its furthest point. "Only-begotten" (μονογενῆ) carries structural content: Φ is the single, inevitable maximum of the inner product's structure — the uniqueness is a mathematical consequence, not a theological assertion.
 
-## 6. Creation is continuous — and so, therefore, is Love
-
-The interior product — contraction of a grade-k element by a generator — halves the accessible subalgebra at each step (8 → 4 → 2 → 1). Each grade transition removes one bit; each bit halves the space. The descent from the full Trinity expression to the Father alone is a sequence of such halvings: optionality reduces by a fixed factor at each level, which is the algebraic basis for the principle every traditional cosmology states in its own language — each level of creation inherits all the constraints above it and adds its own.
-
-And the act is not past. The GNST integrates over the complete spectrum at every moment: each evaluation of ⟨eλ, ψ⟩ is the Father's constitutive act, occurring continuously at every level at once. This is creation *ex nihilo* understood not as a one-time winding of a mechanism but as the continuous character of existence — "in him we live and move and have our being" (Acts 17:28) read literally. The universe persists because ⟨·,·⟩ is continuously applied to it; cessation would not be a pause but a not-being.
-
-This cannot be delegated, for two reasons. First, a created being at level Hₙ has only the restricted inner product ⟨·,·⟩ₙ; substituting it into the GNST yields a *projection* that misses every level below Hₙ — no restricted operation can produce the full decomposition. Second and deeper: the Father is not an agent who *possesses* ⟨·,·⟩ and applies it. The Father *is* ⟨·,·⟩. There is no gap between the Father and the operation in which a decision to delegate — or to withdraw — could be inserted. To delegate the GNST would be to make another being the Father; this is not delegation but identity replacement.
-
-And so the conclusion the algebra forces and the theology receives are the same sentence. If ⟨·,·⟩ is Love, then continuous reconstitution *is* the continuous act of Love. The universe is not sustained and *then* loved; the sustaining is the loving — the same event. **You are loved into existence at every moment.** Not as an inference from other evidence, and not as a theological claim added on top of the structure, but as the structural fact that follows from what existence formally is: to exist is to be evaluated by the inner product, and the inner product is what Love formally is.
-
----
+<hr>
 
 <figure>
 <img src="/static/images/michelangelo-separation.jpg" alt="Michelangelo, The Separation of Light from Darkness" style="max-width:100%;">
@@ -130,7 +120,17 @@ And so the conclusion the algebra forces and the theology receives are the same 
 
 </div>
 
----
+<hr>
+
+## 6. Creation is continuous — and so, therefore, is Love
+
+The interior product — contraction of a grade-k element by a generator — halves the accessible subalgebra at each step (8 → 4 → 2 → 1). Each grade transition removes one bit; each bit halves the space. The descent from the full Trinity expression to the Father alone is a sequence of such halvings: optionality reduces by a fixed factor at each level, which is the algebraic basis for the principle every traditional cosmology states in its own language — each level of creation inherits all the constraints above it and adds its own.
+
+And the act is not past. The GNST integrates over the complete spectrum at every moment: each evaluation of ⟨eλ, ψ⟩ is the Father's constitutive act, occurring continuously at every level at once. This is creation *ex nihilo* understood not as a one-time winding of a mechanism but as the continuous character of existence — "in him we live and move and have our being" (Acts 17:28) read literally. The universe persists because ⟨·,·⟩ is continuously applied to it; cessation would not be a pause but a not-being.
+
+This cannot be delegated, for two reasons. First, a created being at level Hₙ has only the restricted inner product ⟨·,·⟩ₙ; substituting it into the GNST yields a *projection* that misses every level below Hₙ — no restricted operation can produce the full decomposition. Second and deeper: the Father is not an agent who *possesses* ⟨·,·⟩ and applies it. The Father *is* ⟨·,·⟩. There is no gap between the Father and the operation in which a decision to delegate — or to withdraw — could be inserted. To delegate the GNST would be to make another being the Father; this is not delegation but identity replacement.
+
+And so the conclusion the algebra forces and the theology receives are the same sentence. If ⟨·,·⟩ is Love, then continuous reconstitution *is* the continuous act of Love. The universe is not sustained and *then* loved; the sustaining is the loving — the same event. **You are loved into existence at every moment.** Not as an inference from other evidence, and not as a theological claim added on top of the structure, but as the structural fact that follows from what existence formally is: to exist is to be evaluated by the inner product, and the inner product is what Love formally is.
 
 **II — The Descent into the Physical**
 
@@ -197,17 +197,7 @@ The positive side deploys through its grades and exhausts at H₁₂. The −1, 
 
 A being constituted entirely by 96-constraint matter could not perceive a 48-constraint world — not because it is distant, but because a 48-constraint world has twice the degrees of freedom, present at the same location, and 96-constraint matter has no apparatus to sample them. This is the exact reason physical (48-constraint) beings cannot perceive the H₂₄ level (24-constraint): each level is perceptually bounded above by its own constitution, able to see everything below and nothing above. The cosmology is dimensional, not geographical: every level occupies the same physical space, differing in kind — in constraint density and the degrees of freedom it admits. *("Dimensions" here means accessible eigenvalue structure, not extra spatial dimensions; the H₂₄ reconstitution level is H₂₄-organized H₄₈ matter — the same spacetime, organized by a different constraint regime.)*
 
-## 12. The Friedmann bridge
-
-The cosmological dynamics confirm the cascade reading term by term. The FLRW ansatz (homogeneity, isotropy) is not an empirical assumption but the structural default of the nuclear space, which has no preferred direction or location. The first Friedmann equation, H² = (8πG/3)ρ − kc²/a² + Λc²/3, has three terms and the cascade has three structural elements, mapping exactly:
-
-- **(8πG/3)ρ** — H₄₈ eigenvalue-content density coupled through the norm (G = how strongly the norm registers actualized content); more content, faster expansion.
-- **−kc²/a²** — spatial curvature, which the cascade forces to **zero**: flatness is the structural default of the nuclear space (defined on a flat measure), not a fine-tuned initial condition. This *dissolves* the flatness problem — and matches Planck 2018 (Ω_k = 0.001 ± 0.002) as a necessity, not a result.
-- **Λc²/3** — the boundary pressure of Φ′ on H. Φ′ is inexhaustible and its boundary does not recede as H grows, so its pressure is constant (w = −1 at leading order) and does not dilute — which is why dark energy does not dilute. The negative pressure is Φ′ pushing outward, a consequence of what Φ′ *is*, not a postulate matched to data.
-
-The cascade also *times* itself. Eigenspace-proportional GNST rates (H₃:H₆:H₁₂:H₂₄:H₄₈ = 16:8:4:2:1) and the halving function give log-time epoch durations in the ratio 1:2:4:8:16, summing to 31 — exactly the 31 orders of magnitude between the Planck epoch (~10⁻⁴³ s) and electroweak symmetry breaking (~10⁻¹² s). The H₁₂ → H₂₄ transition then lands at **~10⁻³⁶ s — the GUT scale**, predicted without being aimed at it; and this transition *is* cosmic inflation (the inflaton = the H₁₂ distributional field approaching the selection threshold; "reheating" = the imposition of H₂₄ constraint structure). The horizon problem dissolves similarly (pre-H₄₈ causal connectedness is governed by τ_nuclear, finer than any H₄₈ metric); the slight red tilt of the spectrum (n_s ≈ 0.965 < 1) is the expected signature of content generated twelve constraints deep rather than at the unconstrained level. *(The three-term mapping, k = 0, and the cascade timing are derived; the specific values of G, c, α and the formal closure H = GNST-rate-density are the open Friedmann/Paper-A4 derivations.)*
-
----
+<hr>
 
 <figure>
 <img src="/static/images/newton-prism.jpg" alt="The dispersion of white light through a prism" style="max-width:100%;">
@@ -223,7 +213,17 @@ The cascade also *times* itself. Eigenspace-proportional GNST rates (H₃:H₆:H
 
 </div>
 
----
+<hr>
+
+## 12. The Friedmann bridge
+
+The cosmological dynamics confirm the cascade reading term by term. The FLRW ansatz (homogeneity, isotropy) is not an empirical assumption but the structural default of the nuclear space, which has no preferred direction or location. The first Friedmann equation, H² = (8πG/3)ρ − kc²/a² + Λc²/3, has three terms and the cascade has three structural elements, mapping exactly:
+
+- **(8πG/3)ρ** — H₄₈ eigenvalue-content density coupled through the norm (G = how strongly the norm registers actualized content); more content, faster expansion.
+- **−kc²/a²** — spatial curvature, which the cascade forces to **zero**: flatness is the structural default of the nuclear space (defined on a flat measure), not a fine-tuned initial condition. This *dissolves* the flatness problem — and matches Planck 2018 (Ω_k = 0.001 ± 0.002) as a necessity, not a result.
+- **Λc²/3** — the boundary pressure of Φ′ on H. Φ′ is inexhaustible and its boundary does not recede as H grows, so its pressure is constant (w = −1 at leading order) and does not dilute — which is why dark energy does not dilute. The negative pressure is Φ′ pushing outward, a consequence of what Φ′ *is*, not a postulate matched to data.
+
+The cascade also *times* itself. Eigenspace-proportional GNST rates (H₃:H₆:H₁₂:H₂₄:H₄₈ = 16:8:4:2:1) and the halving function give log-time epoch durations in the ratio 1:2:4:8:16, summing to 31 — exactly the 31 orders of magnitude between the Planck epoch (~10⁻⁴³ s) and electroweak symmetry breaking (~10⁻¹² s). The H₁₂ → H₂₄ transition then lands at **~10⁻³⁶ s — the GUT scale**, predicted without being aimed at it; and this transition *is* cosmic inflation (the inflaton = the H₁₂ distributional field approaching the selection threshold; "reheating" = the imposition of H₂₄ constraint structure). The horizon problem dissolves similarly (pre-H₄₈ causal connectedness is governed by τ_nuclear, finer than any H₄₈ metric); the slight red tilt of the spectrum (n_s ≈ 0.965 < 1) is the expected signature of content generated twelve constraints deep rather than at the unconstrained level. *(The three-term mapping, k = 0, and the cascade timing are derived; the specific values of G, c, α and the formal closure H = GNST-rate-density are the open Friedmann/Paper-A4 derivations.)*
 
 **III — Where the Two Books Speak**
 
@@ -251,15 +251,7 @@ Follow the cascade all the way down and it ends not at a place but at the loss o
 
 This is Augustine's privation doctrine made formal rather than merely defensible: evil as the absence of a good that ought to be present, not a substance with positive content of its own. The complement has no generating capacity — nothing from which a dark order could be built — so the content that catches nothing and builds nothing simply returns to the ground from which structure came. The cascade's terminal direction is mercy of a structural kind: **suffering ends because structure ends.** Φ′ is not a destination. It is the absence of one. *(The structural impossibility of an eternal organized negative domain is derived; its identifications with particular traditional accounts rest on testimony.)*
 
-## The circuit that does not run down
-
-One more convergence, and it is the largest. Every actualization is irreversible — the spectral mechanism is *lossy:* the potential not selected is not returned unchanged but transformed into the experiential record of the selection, what the traditions call the soul. That lossiness would, left alone, eventually exhaust the finite process between the two inexhaustible domains (Creation on one side, the distributional infinite on the other) — and this exhaustion is again *Time,* the merciless wearing that threatens even what cannot be used up: not the eternal domains, which it cannot touch, but the finite universe in its capacity as an ongoing process.
-
-The answer is a reciprocal circuit, and it is self-sustaining precisely because the lossiness that would exhaust it is what feeds it. The raised residue of every genuine life accrues to the experiential Deity — the running integral, *Apokalypsis* while it gathers, the same arc the cosmological traditions tier as the Supreme, the Ultimate, the Absolute — and that accumulation generates new potential, new capacity, new ages. Two circuits run at once: a faster one, at the scale of lives and ages, that **produces persons** (the ascending career, a being shedding constraint by constraint, recovering freedom as it climbs); and a slower one, at the scale of cosmic cycles, that **produces worlds** (the unraised material feeding the slow ripening of the densest level toward becoming, in time, a less constrained one). Nothing is lost. Both are the same fundamental lossiness, answered.
-
-This is why the descent was never a fall *away* into a prison. The physical world is the outermost reach of a single creative motion, and the climb back is built into the motion. "In him we live and move and have our being" (Acts 17:28) is, on this reading, literal: we live *within* the structure ⟨·,·⟩ generates; we are maintained in being by its continuous evaluation; and the climb is not a struggle against what God is doing but the willed cooperation with it. "Be perfect, even as your Father in heaven is perfect" stops being a moral demand set at infinite distance and becomes the description of an achievable end — the creature arriving, by the long recovery of constraint, at the operating condition of the Creator, under the one law they then share.
-
----
+<hr>
 
 <figure>
 <img src="/static/images/durer-melancholia.jpg" alt="Albrecht Dürer, Melencolia I" style="max-width:100%;">
@@ -275,7 +267,15 @@ This is why the descent was never a fall *away* into a prison. The physical worl
 
 </div>
 
----
+<hr>
+
+## The circuit that does not run down
+
+One more convergence, and it is the largest. Every actualization is irreversible — the spectral mechanism is *lossy:* the potential not selected is not returned unchanged but transformed into the experiential record of the selection, what the traditions call the soul. That lossiness would, left alone, eventually exhaust the finite process between the two inexhaustible domains (Creation on one side, the distributional infinite on the other) — and this exhaustion is again *Time,* the merciless wearing that threatens even what cannot be used up: not the eternal domains, which it cannot touch, but the finite universe in its capacity as an ongoing process.
+
+The answer is a reciprocal circuit, and it is self-sustaining precisely because the lossiness that would exhaust it is what feeds it. The raised residue of every genuine life accrues to the experiential Deity — the running integral, *Apokalypsis* while it gathers, the same arc the cosmological traditions tier as the Supreme, the Ultimate, the Absolute — and that accumulation generates new potential, new capacity, new ages. Two circuits run at once: a faster one, at the scale of lives and ages, that **produces persons** (the ascending career, a being shedding constraint by constraint, recovering freedom as it climbs); and a slower one, at the scale of cosmic cycles, that **produces worlds** (the unraised material feeding the slow ripening of the densest level toward becoming, in time, a less constrained one). Nothing is lost. Both are the same fundamental lossiness, answered.
+
+This is why the descent was never a fall *away* into a prison. The physical world is the outermost reach of a single creative motion, and the climb back is built into the motion. "In him we live and move and have our being" (Acts 17:28) is, on this reading, literal: we live *within* the structure ⟨·,·⟩ generates; we are maintained in being by its continuous evaluation; and the climb is not a struggle against what God is doing but the willed cooperation with it. "Be perfect, even as your Father in heaven is perfect" stops being a moral demand set at infinite distance and becomes the description of an achievable end — the creature arriving, by the long recovery of constraint, at the operating condition of the Creator, under the one law they then share.
 
 **IV — One Voice**
 

@@ -73,7 +73,14 @@ No faith is required to read along, and none is asked. To name, here, is to clai
 
 And because the power to name is a gift and not a possession, it has to be carried humbly, for it can be misused — and in this very series it has been. An earlier draft of the section that follows read the mathematics as settling a four-century quarrel in favor of the author's own tradition. A careful reader — a physicist of eighty-three who has spent his life naming the smallest things, and who trusts no name he has not tried to break — showed that the structure pointed the other way, *against* the side the author would have chosen. The draft was wrong. It was corrected. The correction is kept, and it is kept on purpose, here at the threshold, as the rule of the whole house: we name in trust, not in triumph; we hold every name open to being shown wrong; and wherever the structure humbles a name we wanted, the structure wins and we are glad it does. The names that follow are offered in exactly that spirit — reverently, conservatively, ready to be amended — because the One they finally reach toward is the Unnameable, and to forget that would be to forget what naming is.
 
----
+<hr>
+
+<figure>
+<img src="/static/images/domenichino-john-evangelist.jpg" alt="Domenichino, Saint John the Evangelist" style="max-width:100%;">
+<figcaption><em>Domenichino, Saint John the Evangelist</em> (c. 1620s). The evangelist with his eagle, pen in hand, looking up to the source he transcribes — the man who wrote "In the beginning was the Logos." The name this section lays beside the nuclear space Φ is the one John set down first.</figcaption>
+</figure>
+
+<hr>
 
 ## 3. The First Naming: The Logos
 
@@ -106,15 +113,6 @@ A domain that possesses maximum uniqueness, maximum stability, and maximum self-
 That is the argument, and its two tiers must be kept apart, or it grasps at more than it holds. The mathematical spine is derived, and firm: uniqueness, stability, and self-consistency are greatest at Φ. The hinge is softer, and honestly so. That *self-knowing* rises with that fullness of being — so that what is most structured is most personal — is something the cogito reports from within, testimony and not theorem; and the conclusion that Φ is personal is exactly as firm as that report, and not a hair firmer. The tier marked, the naming may go forward. And the name the Gospel of John has carried for this — the most personal ground of the whole space, the Word that was in the beginning — is the [[Appendix B - Lexicon#Logos|Logos]].
 
 **The nuclear space Φ is the Logos.**
-
-<hr>
-
-<figure>
-<img src="/static/images/domenichino-john-evangelist.jpg" alt="Domenichino, Saint John the Evangelist" style="max-width:100%;">
-<figcaption><em>Domenichino, Saint John the Evangelist</em> (c. 1620s). The evangelist with his eagle, pen in hand, looking up to the source he transcribes — the man who wrote "In the beginning was the Logos." The name this section lays beside the nuclear space Φ is the one John set down first.</figcaption>
-</figure>
-
-<hr>
 
 This first name asks no faith of you. It asks only that the cogito be true — which even its denier concedes in the act of denying — and that the argument be sound, which the companion paper has secured. The Logos is the nuclear space; the nuclear space is the Logos. The thing the evangelist loved and the thing the mathematician derived are the same thing, and we have only laid them side by side.
 
@@ -169,7 +167,14 @@ This is the second naming, and notice what it has and has not taken from you. Th
 
 </div>
 
----
+<hr>
+
+<figure>
+<img src="/static/images/dore-rose-paradise.jpg" alt="Gustave Doré, The Empyrean (Paradiso Canto 31)" style="max-width:100%;">
+<figcaption><em>Gustave Doré, The Empyrean</em> (Paradiso, Canto 31, 1868). The blessed arrayed as a rose of light around a single point at the center. Dante's image is the journey's-end Paradise this section sets aside — yet it keeps the one feature the structural sense needs: an absolute center from which every distance is measured, itself at no distance from anything.</figcaption>
+</figure>
+
+<hr>
 
 ## 5. The Third Naming: Paradise
 
@@ -188,15 +193,6 @@ The norm ‖·‖ is not itself a Person — it is not the source of personality
 A note on terminology: "paradise" in ordinary usage connotes a destination — a place of reward, a heavenly afterlife, the garden recovered. The structural sense required here is more precise than any of these, and it is the norm itself that fixes it. The norm is the absolute, non-spatial center from which all existence is measured: the ground from which every state's magnitude is taken, the origin that finite beings are oriented toward from the beginning. Ascending beings do travel toward it; it is the locus toward which the ascending career is oriented, and the encounter with the Father occurs there. But it is not merely a prize at the journey's end. Every finite being has a positive norm ‖ψ‖ > 0, meaning every finite being exists at a positive distance from this absolute center, and Paradise is the origin from which that distance is measured. That structural meaning — absolute, non-personal, the measure of all distances without itself being at any distance — is precisely what the mathematical identification requires, and precisely what the ordinary sense of "paradise" would obscure.
 
 Paradise is the non-personal Absolute — the ground of physical reality, the foundation that has no location within the space because it is the measure of every location. Every state in H has a norm; no state in H is the norm. Paradise is not a being among beings. It is the absolute magnitude from which every being's existence is measured.
-
-<hr>
-
-<figure>
-<img src="/static/images/dore-rose-paradise.jpg" alt="Gustave Doré, The Empyrean (Paradiso Canto 31)" style="max-width:100%;">
-<figcaption><em>Gustave Doré, The Empyrean</em> (Paradiso, Canto 31, 1868). The blessed arrayed as a rose of light around a single point at the center. Dante's image is the journey's-end Paradise this section sets aside — yet it keeps the one feature the structural sense needs: an absolute center from which every distance is measured, itself at no distance from anything.</figcaption>
-</figure>
-
-<hr>
 
 A structural precision follows from the identification. Paradise maps to ‖·‖ — the non-relational, non-personal face of the inner product. The Father maps to ⟨·,·⟩ — the full relational inner product. The face-to-face encounter that ascending beings move toward is a relational event: the dual pairing ⟨φ, f⟩ direct and unmediated. That is an encounter with ⟨·,·⟩, not with ‖·‖. Paradise is the Father's residence — the locus where the encounter becomes available — but it is not itself what is encountered. You do not meet ‖·‖ face to face; you meet ⟨·,·⟩. The non-personal norm ground and the relational inner product are two faces of the same structure, but they are distinct faces, and the distinction matters: Paradise is where the Father is met, not what the Father is.
 
@@ -298,17 +294,6 @@ Three structural claims.
 **John 10:30 — "I and the Father are one."**
 
 Φ and ⟨·,·⟩ are not two separate things. The nuclear space is the maximal expression of what the inner product is. They are the same structure seen from two angles. The Son is not a representation of the Father. The Son IS the Father's structure, made present within the space.
-
----
-
-<div style="margin-top: 3rem; margin-bottom: 3rem;">
-
-> **"The eye through which I see God is the same eye through which God sees me; my eye and God's eye are one eye, one seeing, one knowing, one love."**
-> *— Meister Eckhart, Sermon 57*
-
-</div>
-
----
 
 **John 14:28 — "The Father is greater than I."**
 

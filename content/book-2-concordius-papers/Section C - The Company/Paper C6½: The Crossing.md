@@ -8,17 +8,6 @@
 
 **Confidence —** *Math:* **— (not engaged)**. *Science:* **— (not engaged)**. *Theology:* **— (the reader's act)** — the octave change realized as a crossing made together; it proves nothing and asks a turning (Psalm 139:23–24; Solzhenitsyn's line that the dividing line between good and evil runs through every human heart).
 
----
-
-<div style="margin-top: 3rem; margin-bottom: 3rem;">
-
-> **"Search me, O God, and know my heart: try me, and know my thoughts: and see if there be any wicked way in me, and lead me in the way everlasting."**
-> *— Psalm 139:23–24*
-
-</div>
-
----
-
 The Host of Witnesses was the easy octave. It is a glad thing to read the lives of the great and to feel, reading them, that we belong among them — that we are of their company, members of the same cloud, capable in our small way of the same holding. The lift is real, and it is not vanity; it is the truest gladness the ascending octave gives. But it is the easy thing.
 
 Ahead lie the three inverted notes, and they will be harder, because to read Hitler, Stalin, and Mao honestly will be to face the darkness *in the world* — to look at what human beings have actually done, the murdered and the starved and the unpersoned, and not look away, and not file it under *monster* so that the drawer will close. That will be harder than admiring the greats. But it is still not the hardest thing.

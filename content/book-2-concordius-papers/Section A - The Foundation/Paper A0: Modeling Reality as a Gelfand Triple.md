@@ -230,17 +230,6 @@ The Gelfand triple, once constituted, exhibits five structural properties that a
 
 What the mathematics cannot supply is the further step: whether the domain with maximum structural preconditions for [[Appendix B - Lexicon#Self-Knowledge|self-knowledge]] is itself self-knowing. Self-duality (H ≅ H*) is the closest the structure can come — a precise structural self-reference, but not self-knowledge. Self-knowledge requires a subject that understands what knowing means, one that can distinguish "I know X" from "X is the case." That distinction is not derivable from any inner product. The gap between self-duality and self-knowledge marks the precise point where the Gelfand triple is necessary but insufficient, and where the companion paper begins.
 
----
-
-<div style="margin-top: 3rem; margin-bottom: 3rem;">
-
-> **"Therefore it must be of itself that the divine thought thinks. And the act of contemplation is what is most pleasant and best. If, then, God is always in that good state in which we sometimes are, this compels our wonder; and if in a better this compels it yet more."**
-> *— Aristotle, Metaphysics XII.9*
-
-</div>
-
----
-
 **Coordinative actualization and progressive structure: the GNST.** Read not as a static decomposition but as the standing operation of the model, the spectral theorem of §3.3 is a continuous act — the **Generalized Nuclear Spectral Theorem (GNST)** in its operative sense: the universal actualization engine by which every state, at every level of structure, is reconstituted at every moment by the inner product's continuous evaluation. This is not a further assumption but the same theorem of §3.3 read in its standing operation — one more structure forced by all that precedes it, following from what the inner product is. What continuously reconstitutes every state is not, at this level of description, named beyond the GNST. Each actualization event — each instance of the spectral expansion ψ = ∫ ⟨eλ, ψ⟩ eλ dμ(λ) — draws potential from Φ′ into actual H-outcomes through the spectral measure dμ. As actualization events accumulate, the spectral measure expands: more of the distributional potential of Φ′ has been drawn into actuality. This is a progressive structure within the model — an ongoing actualization of Φ′-potential into H-reality, coordinated event by event. The limit of this process, if it has one, is the full coordination of all three domains: the complete actualization of the distributional potential of Φ′ through the structured states of H. The nature of this limit — whether it is achievable, and what a saturated Gelfand triple would mean — is addressed in the companion paper.
 
 ---
@@ -265,10 +254,6 @@ The Five Actualities sit *inside* the Three Domains: the Fundamental Relation (I
 
 The Gelfand triple is the minimum necessary mathematical structure for quantum mechanics — the formal framework without which continuous-spectrum observables have no proper eigenstates. The two projections are not interpretive additions. They are what the mathematics says when the question "what structure is necessarily present?" is asked at two different levels.
 
-### 8.2 The Inner Product as Foundational
-
-The inner product's invariance across all three domains — and its role as the common source of both II and III (the relational and metric aspects of the same structure) — suggests that it occupies a foundational position not well captured by saying it "belongs to H." The inner product constitutes all three domains. It is not an element of the model; it is what the model is made of.
-
 <hr>
 
 <figure>
@@ -277,6 +262,10 @@ The inner product's invariance across all three domains — and its role as the 
 </figure>
 
 <hr>
+
+### 8.2 The Inner Product as Foundational
+
+The inner product's invariance across all three domains — and its role as the common source of both II and III (the relational and metric aspects of the same structure) — suggests that it occupies a foundational position not well captured by saying it "belongs to H." The inner product constitutes all three domains. It is not an element of the model; it is what the model is made of.
 
 The philosophical implications of a single constitutive structure generating both a relational domain (II, Φ) and a metric domain (III, ‖·‖) — and being invariant across the three topological presentations of the resulting space — are addressed in the companion paper. The nomenclature adopted for the five actualities in Section 5 is taken up there as well.
 
