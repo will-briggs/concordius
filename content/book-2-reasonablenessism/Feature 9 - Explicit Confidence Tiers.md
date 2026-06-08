@@ -2,6 +2,8 @@
 
 # Feature 9 — Explicit Confidence Tiers
 
+---
+
 *Constitute the Reconciling operation — the specific mechanisms that mediate between reality and the evaluating mind.*
 
 ---

@@ -2,6 +2,8 @@
 
 # Paper G7: Full Integration — You Can't Get There from Here
 
+---
+
 *The one move the climb cannot make. The summit reached at the top of the ascending career is the height of the climb, not its completion: full integration — the grade-3 life carried into the next octave — is not a higher rung but a crossing of another kind, reached not by ascent but by an act from outside the one ascending. What that means (the canon's two who walked to the edge were taken, not left to carry it; and only One held the content in the flesh and remained, because he descended as it rather than climbed into it), what it looks like when it comes (death, the Father's completing act, the note that opens the next octave) — and then the men gathered, the program named, and the one move that was always going to be left to the reader.*
 
 **Confidence —** *Math:* **inference** — the crossing identified as the octave change ([[Paper G6½: The Octave Change|Paper G6½]]): the grade-3 element closes Cl(3,0), so the next octave is reached only by a new generator from outside it, never by further climbing. *Science:* **— (not engaged)**. *Theology:* **concordance**, closing in **synthesis** — death as the Father's completing act; Enoch and Elijah taken; the bestowal as the one in-flesh crossing; the seven gathered, turning to the reader, asserting nothing past the papers it recapitulates.

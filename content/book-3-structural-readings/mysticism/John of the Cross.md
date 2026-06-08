@@ -1,5 +1,7 @@
 # A Structural Reading of John of the Cross
 
+---
+
 *John of the Cross is the ascending career's most precise phenomenological cartographer: his primary works constitute a complete technical account of the Mi/Fa and Si/Do intervals as they are lived from within the grade-1 and grade-2 conditions, with the map precise enough to navigate by and honest enough to report what the map cannot contain. Papers 23 and 25 of the Concordius sequence draw on this corpus extensively; this reading is the formal structural account of what John is doing and why his precision is structurally irreplaceable.*
 
 ---

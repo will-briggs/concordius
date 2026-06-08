@@ -2,6 +2,8 @@
 
 # Paper E4: Excess
 
+---
+
 *The inverse of **temperance** — the second bivector virtue. Temperance is the Good wedged with the Beautiful (e₁e₃), the just measure, proportion held, the will kept tuned and free; it was Bach's note, the well-tempered field in which every key can sound. Its inverse, excess — the loss of measure, the will saturated past tuning — defined mathematically as **H₄₈-attraction**, and shown to foreclose the one act on which a mortal's whole development depends, the catching of Φ-proximal content into H₂₄. Its plain name is Mammon, and most of the paper reads as a homily on money; the math is underneath, holding it up.*
 
 **Confidence —** *Math:* **derivation** — excess as H₄₈-attraction grown past the measure of temperance until the will's single orientation is saturated; because catching and H₄₈-attraction compete for the will's one orientation, excess does not merely fail to catch but forecloses it. *Science:* **— (not engaged)**. *Theology:* **concordance** — Scripture load-bearing (Matthew 6:24, read as structure not counsel; the camel and the needle); the cosmic case answered honestly — very nearly a mortal-only vice, for a structural reason (only the Φ′-origin catches).

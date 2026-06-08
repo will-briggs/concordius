@@ -1,5 +1,7 @@
 # A Structural Reading of Sargon
 
+---
+
 *Sargon of Akkad, who welded the city-states of Mesopotamia into the first true empire around 2300 BC, is read here for the structural form he invented: the integration of many separate polities — different cities, peoples, and gods — under a single rule, the first time the human world was organised at that scale. He is the origin point of the imperial form, with all the good and all the danger the framework reads in it.*
 
 ---

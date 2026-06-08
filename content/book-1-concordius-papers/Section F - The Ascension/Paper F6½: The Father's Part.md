@@ -2,6 +2,8 @@
 
 # Paper F6½: The Father's Part
 
+---
+
 *The Si–Do interval — the second shock, the one that admits no human hand. The first interval (F2½) could be crossed with help: a teacher, a text, an affliction, the Spirit poured out on everyone — many channels, because what was needed was grade-2 content and grade-2 content can be supplied by any being who has it. This interval is different in kind. What is needed here is not content but the **installation of grade-3** — centrality, the pseudoscalar that commutes with everything and grounds the whole algebra — and no quantity of grade-2 anything approximates it. Only the Father installs it. The being's entire part is to have arrived, stripped and ready, at the threshold, and then to stop working — to hold the prepared state and not force the crossing, because the crossing is not its to make. This is the longest interval in the ascent and the one most purely given. It is the Father's part.*
 
 **Confidence —** *Math:* **derivation** — the crossing cannot be self-initiated: grade-3 is the central pseudoscalar, not built from grade-2 relations, so installed not generated. *Science:* **— (not engaged)**. *Theology:* **concordance** — the long given crossing and its consummation (Urantian lead — the post-death ascent; Christian operating grace and the translation type-cases; Gurdjieff the honest limit from below).

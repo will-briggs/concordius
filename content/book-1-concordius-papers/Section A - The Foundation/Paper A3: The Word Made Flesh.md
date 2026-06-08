@@ -2,6 +2,8 @@
 
 # Paper A3: The Word Made Flesh: Φ Enters Creation
 
+---
+
 *From the forming of the world to the threshold of the flesh: the Word speaks the world into form (the first bivector; the three directions of the Good, the True, the Beautiful); the breath makes dust a living soul (the two origins, the dual pairing); the choice and the fall give free will, and the −1 of death; the deliverance out of Egypt gives the first picture of catching; the kingdom, the prophets, and the exile forge courage, temperance, and diligence against resistance; the close of the canon leaves humility — the whole chord — awaited across the long silence; and the announcement says the promise is about to be kept.*
 
 **Confidence —** *Math:* **derivation** — the form-giving bivector, the two origins from the triple, catching as volitional retention, and the generators and bivectors of the virtue-algebra ([[Paper A0: Modeling Reality as a Gelfand Triple|A0]]–[[Paper A2½: The Constraint Cascade|A2½]]; Appendix V). *Science:* **— (not engaged)**. *Theology:* **concordance** — the Old Testament read as one arc, the framework's terms becoming necessary in order, at their tiers; the paper's one reach beyond what the algebra forces — **free will**, the undetermined choice of probe, the Creative Choice carried to the creature scale — is **inference**, named as a reach where it is made and worked in Section G, never derivation.

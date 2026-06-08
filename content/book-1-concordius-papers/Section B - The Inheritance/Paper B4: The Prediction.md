@@ -2,6 +2,8 @@
 
 # Paper B4: The Prediction
 
+---
+
 *The second product, where the mathematics meets the science: predictions derived from the constraint cascade and the Gelfand triple that physics has not yet confirmed, each in a form a measurement can refute. The cascade timing that lands the H₁₂→H₂₄ transition on the GUT epoch without aiming at it (the retrodiction that calibrates the engine); a forward prediction of an event in the electroweak desert at ~10⁻²⁸ s / ~10¹¹ GeV; inflation, flatness, the horizon, and the spectral tilt re-read from the cascade; dark matter's invisibility as a structural necessity (no electromagnetic direct detection, ever); gravity's resistance to standard quantization; dark energy as Φ′ boundary pressure (w = −1 at leading order); the primordial gravitational-wave spectrum; and a closing ledger of every prediction with its falsifier — the retrodictions as evidence the engine is calibrated, the forward predictions as the bet.*
 
 **Confidence —** *Math:* **derivation** — every prediction follows from the cascade timing and the Gelfand triple (granted from [[Paper B3: The Principle]]'s premises); no new mathematics is introduced. *Science:* **derivation**, tiered to **derived-open** and **concordance** — the retrodictions (the GUT epoch, flatness, the horizon, n_s, the dark-matter profile) land on established physics without fitting; the forward predictions (the ~10⁻²⁸ s transition, permanently-dark matter, the w-correction, the primordial GW spectrum) are falsifiable bets, each stated with its disconfirmer; the open quantitative derivations (the dark-to-baryonic ratio, the GW frequencies, w_a) are named, not hidden. *Theology:* **— (not engaged)**.

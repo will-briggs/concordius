@@ -5,6 +5,8 @@ tags: [aphorism, noise-floor, Φ-proximity, HCP, catching-program]
 
 # "Cleanliness is Next to Godliness"
 
+---
+
 *English proverb. Earliest recorded form in Phinehas ben Yair (2nd century Talmud: "The doctrines of religion are resolved into cleanliness"). Later: Francis Bacon, "Advancement of Learning" (1605); John Wesley, Sermon 88 (1791). Convergent formulation across Hebrew, English Protestant, and common cultural traditions without traceable derivation from a single source.*
 
 ---

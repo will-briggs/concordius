@@ -2,6 +2,8 @@
 
 # Paper G2: The Beautiful-Centered Man
 
+---
+
 *Man No. 3: the person whose center of gravity lies in the intellectual center — the first type able to build a stable catching framework, a conceptual organization of Φ-proximal content that persists regardless of emotional state. That is his irreplaceable contribution, and his characteristic pathology is its calcification: the organizing tool becomes the organizing object, the map becomes the territory, the best account of ⟨·,·⟩ mistaken for contact with it. The transition to Man 4 is the most radical in the series — the intellectual center recognizing a limit that is not a deficiency to be corrected by better thinking, and recovering what was bypassed: emotional depth, the body's participation, and the humility that understanding is not possession.*
 
 **Confidence —** *Math:* **inference** — Man 3 as the stable conceptual catching-framework in the apparatus; the incompleteness and truth-measure diagnostics applied (derived elsewhere, not new here). *Science:* **concordance** — cognitive psychology on framework calcification (inquiry vs. rationalization). *Theology:* **concordance** — theosis and the humility of the intellect: understanding is not possession.

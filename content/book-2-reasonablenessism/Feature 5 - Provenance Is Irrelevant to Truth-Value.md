@@ -2,6 +2,8 @@
 
 # Feature 5 — Provenance Is Irrelevant to Truth-Value
 
+---
+
 *Protect the Active — features that ensure genuine signal reaches through Passive distortion.*
 
 ---

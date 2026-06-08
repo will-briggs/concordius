@@ -1,5 +1,7 @@
 # A Structural Reading of Mencius
 
+---
+
 *Mencius — Mengzi, the most important Confucian after Confucius himself — is read here for the single claim he argued more fully than any ancient thinker: that human nature is *good*, that the orientation toward the Good is native to the person and not imposed from outside, and that moral development is the cultivation of sprouts already present rather than the forcing of an alien shape onto a resistant material.*
 
 ---

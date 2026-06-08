@@ -2,6 +2,8 @@
 
 # Paper G6½: The Octave Change
 
+---
+
 *The octave change — where one octave's completed grade-3 integration is carried into the next (Gurdjieff's Si–Do interval), the deepest crossing: the place where even the most developed three-center work reaches a limit no resource within the octave can cross, because what lies beyond is not another grade of the same algebra but a new constraint level — the grade-3 element closes Cl(3,0), and to continue, a new generator must enter from outside it (the articulatory crossing H₁₂ → H₂₄). That new generator comes from the Father (⟨·,·⟩) as a constitutive act, which is why this crossing differs in kind from the first grade change (Mi–Fa): the first grade change's input is widely available through teachers, texts, and the distributed Spirit of Truth, while the octave change requires the Father's completion that no created source can substitute. How it presents at Man 3's intellectual limit, Man 4's dark night, and Man 6's irreversibility threshold; the Adjuster as the Father's constitutive presence within the person; and the Pattern's instance — the forty days of appearances, with the Ascension as the Father's completing act.*
 
 **Confidence —** *Math:* **derivation** — the interval forced by the Law of Seven's algebra: grade-3 centrality cannot be installed by any grade-2 operation, so the crossing requires a constitutive act from outside the grade-2 resources. *Science:* **— (not engaged)**. *Theology:* **concordance** — the Father's completion, the forty days of appearances, the Ascension as the completing act.

@@ -2,6 +2,8 @@
 
 # Paper G1: The True-Centered Man
 
+---
+
 *Man No. 2: the person whose center of gravity lies in the emotional center — the most direct H₂₄ receptor available, so catching is frequent and direct but unstable, because it rides the emotional field: when the field is bright catching flows, when dark it collapses. The soul deposit accumulates episodically, past Man 1's reach, but not yet to the coherence threshold, because it is not yet volitionally grounded. The defining condition is the dark night — not absence, but the exposure of the emotional center's dependence on confirmation — and the transition to Man 3 is the development of the intellectual center as a second, reliable channel that operates when feeling is dark as well as when it is light.*
 
 **Confidence —** *Math:* **inference** — Man 2 as the emotional center's unstable H₂₄ reception in the apparatus. *Science:* **concordance** — attachment and depth psychology on the emotional center and the dark night. *Theology:* **concordance** — the dark night read not as absence but as the exposure of dependence on confirmation (Augustine, [[Paper C1: The True]]).

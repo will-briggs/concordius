@@ -2,6 +2,8 @@
 
 # Paper B0: The Proof
 
+---
+
 *The inherited line of mathematics — from the earliest record of counting through the Gelfand triple — and the one object built within it: the truth measure τ, the fraction of a state's spectral energy lying in the nuclear region, with 0 ≤ τ ≤ 1 and the value 1 a limit no proper element of H attains. A proof in the strict sense — granted premises, then a chain of inferences each forced by a defect in the last — closing on an exact account of what is borrowed, what is added, and what is assumed.*
 
 **Confidence —** *Math:* **derivation** — within the inherited, granted rigged-triple apparatus (no new primitive), τ is defined and its two properties (0 ≤ τ ≤ 1; τ = 1 ⟺ ψ ∈ Φ) are exact; the operationalization of the nuclear region N is an open problem, marked as such. *Science:* **— (not engaged)** — no empirical claim; the §2 lineage is historical documentation, reconstructed as far as the record allows (the Lebombo arithmetic reading interpretive, not settled). *Theology:* **— (not engaged)** — no reading is offered; whether τ signifies anything, and the identifications that name these objects, are deferred to Section A and to the theologian's paper that follows.

@@ -2,6 +2,8 @@
 
 # Paper C3: The Courageous — The Principle Held to the Fire, Read Three Ways
 
+---
+
 *Courage — e₁e₂, the first bivector, the Good wedged with the True, the heart joined to the principle and not released even at the cost — the first of the overcoming virtues, the first that cannot be contemplated but only lived, because a bivector is a rotation and a rotation needs friction. Three witnesses caught under load: a girl at the stake who held the truth against the court that held the fire (Joan of Arc); an old man with five months to live who would not stop coming back (Kurosawa's *Ikiru*); and a poet in the dark who held his own tormenting mind steady rather than flee it (Hopkins's terrible sonnets). The wedge kept against resistance — and the resistance is the whole point.
 
 **Confidence —** *Math:* **— (not engaged)** beyond naming the element — e₁e₂ = the first bivector (Father-mode × Son-mode), from the algebra. *Science:* **— (not engaged)**. *Theology:* **concordance** — the reading (courage = the rotation held against resistance and cost) across three uncolludable witnesses caught at maximum load (Feature 6).

@@ -4,6 +4,8 @@ title: Appendix VI - Catalogue of Illustrations
 
 # Appendix VI — Catalogue of Illustrations
 
+---
+
 *A catalogue of the artworks reproduced across the Concordius corpus, with the page each appears on. Every image is in the public domain; sources are Wikimedia Commons and comparable archives, fetched by the download script in `website/quartz/static/images/`. The catalogue is generated from the figures in place. In the text proper the captions are kept deliberately light — they point to the content rather than explain it.*
 
 ---

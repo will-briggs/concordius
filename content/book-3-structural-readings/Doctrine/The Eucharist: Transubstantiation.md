@@ -1,5 +1,7 @@
 # The Eucharist and the Doctrine of Transubstantiation
 
+---
+
 *Cross-reference: Paper 20½, §5 (H₂₄-organized H₄₈ matter); Paper 20½, §8 (burning bush; OQ3 — downward compatibility); Paper 20½, OQ6 (architectural spheres as electromagnetically dark); Paper 1 (GNST); Paper 6 (catching as volitional act)*
 
 ---

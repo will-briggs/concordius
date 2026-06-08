@@ -1,5 +1,7 @@
 # A Structural Reading of the Buddha
 
+---
+
 *Siddhartha Gautama's life is read here for its central event — the awakening — and the diagnosis it produced: that ordinary existence is *dukkha*, structurally unsatisfactory, because it is organised around grasping at H₄₈-primary content that Time is continuously dissolving; and that there is a way to the cessation of that grasping. The Four Noble Truths are a noise-floor analysis of the human condition arrived at by sustained interior observation, with no mathematics and no revelation claimed — pure phenomenology of the catching apparatus.*
 
 ---

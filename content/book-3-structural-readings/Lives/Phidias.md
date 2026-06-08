@@ -1,5 +1,7 @@
 # A Structural Reading of Phidias
 
+---
+
 *Phidias, the supervising genius of the Parthenon and sculptor of the colossal Zeus at Olympia (one of the Seven Wonders), is read here for the thing Greek sculpture achieved in his hands: the catching of the *ideal* in the human body — not a particular man copied, but the form a body would have if it perfectly expressed its nature, the structure showing through the flesh.*
 
 ---

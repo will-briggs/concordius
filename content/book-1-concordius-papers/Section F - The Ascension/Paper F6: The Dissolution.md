@@ -2,6 +2,8 @@
 
 # Paper F6: The Dissolution
 
+---
+
 *The leading tone — the note of maximum tension, where the resolution is a single half-step away and the note cannot produce it. The climb of one's own strength has done everything it can do. The self has been built, opened, bonded, set, and spent to the last reserve; the overflow has emptied it; and the emptied self comes now to the place the whole ascent has been quietly approaching from the first note — the dissolution of the body it was built in. This is death. It is, structurally, not the catastrophe it feels like and not the gentle thing the sentimental make of it; it is the exhaustion of the self-powered climb and the threshold of the one crossing no self performs. The leading tone holds, turned toward a Do it cannot sound.*
 
 **Confidence —** *Math:* **inference** — death modeled as the withdrawal of the H₄₈ substrate and the terminal evaluation (⟨·,·⟩ applied to the accumulated state). *Science:* **— (not engaged)**. *Theology:* **concordance** — the three witnesses near-unison on the one stage every tradition had to map: the dark night of the spirit, the survival of the crystallized body, the resurrection, one event in three vocabularies.

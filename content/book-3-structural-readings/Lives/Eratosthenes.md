@@ -1,5 +1,7 @@
 # A Structural Reading of Eratosthenes
 
+---
+
 *Eratosthenes, chief librarian at Alexandria, measured the circumference of the Earth from the length of two shadows and the distance between two cities — and got it very nearly right. He is read here for that single luminous act, which is the framework's claim about mind and world made visible: that a person, reasoning from small local measurements and trusting the structure they imply, can catch the size of the whole planet without leaving his study.*
 
 ---

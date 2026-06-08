@@ -1,5 +1,7 @@
 # A Structural Reading of Spinoza's Ethics
 
+---
+
 *Structural readings from the Concordius framework. The Ethics is Rank 29 in the Top-100 global density catalog. The pre-biblical claim applies: Spinoza's structural content is not derived from any religious tradition but is a parallel philosophical instantiation of the same structural reality, arrived at through geometric demonstration from minimal definitions.*
 
 ---

@@ -1,5 +1,7 @@
 # A Structural Reading of Pyrrho
 
+---
+
 *Pyrrho of Elis, founder of Greek skepticism, taught that since we cannot know how things are in themselves — only how they appear — the wise course is *epoche*, suspension of judgement, and that from this suspension follows *ataraxia*, the tranquillity that had eluded the dogmatists who staked their peace on being right. He is read here for a genuine half-truth: a real catch of the limits of H₄₈ knowing, pressed into a denial that overshoots.*
 
 ---

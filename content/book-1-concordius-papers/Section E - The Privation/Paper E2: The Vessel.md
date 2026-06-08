@@ -2,6 +2,8 @@
 
 # Paper E2: The Vessel
 
+---
+
 *The inverse of the **Beautiful** at the created level — completing on the aesthetic axis what the lie did on the True. The naïve reading of that inverse must be cleared first, because it is the one the framework explicitly rejects: the inverse of the Beautiful is not decay, and it is not the malformed. Decay is Time — the ordinary running of a temporal universe — and is no more evil than autumn; the malformed is not where evil lives at all. The inverse of the Beautiful is **organizational fragmentation as state**, and fragmentation, being a privation, cannot stand in the world bare: it needs a vessel — and the consequence the vessel forces is that everything evil must be actively built, and therefore actively maintained, and dies the moment the maintenance stops.*
 
 **Confidence —** *Math:* **derivation** — the vessel principle and its corollary: evil is privation (no substance of its own), so it cannot appear bare but requires a vessel of real substance held against the grain; and by the Law of Octaves an inverted octave never receives a shock toward coherence, so it devolves toward organizational fragmentation — evil must be actively built and maintained, and dies the moment the will lapses. *Science:* **— (not engaged)**. *Theology:* **concordance** — Scripture confirmatory (Psalm 37:35–36); no Urantia is needed; the asymmetry (the good rests on the ground, evil can never rest) is the load-bearing move.

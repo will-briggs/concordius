@@ -2,6 +2,8 @@
 
 # Feature 10 — Logic Where It Reaches; Concordance Where It Doesn't
 
+---
+
 *Constitute the Reconciling operation — the specific mechanisms that mediate between reality and the evaluating mind.*
 
 ---

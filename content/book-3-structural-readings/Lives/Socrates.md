@@ -1,5 +1,7 @@
 # A Structural Reading of Socrates
 
+---
+
 *Socrates wrote nothing; the witness is the life and the manner of its ending. What he caught, and made a method of, is the structural fact that the intellectual centre's chief temptation is to mistake its own framework for the territory — and that the cure is a discipline of confessed unknowing. The elenchus is noise-floor reduction practised as conversation; the daimonion, a catching-orientation reported as a voice; the trial and the cup, a man at the ceiling of grade-1 development refusing to buy his life with a lie.*
 
 ---

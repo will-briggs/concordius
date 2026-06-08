@@ -6,6 +6,8 @@ tags:
 
 # Book 4 — Appendix
 
+---
+
 *The supporting architecture of the Concordius series. The dictionary gives the technical vocabulary its precise definitions. The machine-readable framework is the dense structured reference optimized for LLM-assisted structural readings. The falsifiable predictions are where the framework makes specific, testable contact with science. The structural reading of the series turns the framework on itself.*
 
 ---

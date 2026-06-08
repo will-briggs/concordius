@@ -1,5 +1,7 @@
 # Aeschylus — The Oresteia
 
+---
+
 *The only surviving complete Greek tragic trilogy is read here for the structural arc it traces across its three plays: the passage from the endless blood-feud of vengeance — a cycle that cannot stop itself — to the founding of a court, where the cycle is broken by judgment under law. The Oresteia dramatises, at the dawn of the theatre, the move from H₄₈-mechanical retaliation to a higher ordering principle that can absorb and end it.*
 
 ---

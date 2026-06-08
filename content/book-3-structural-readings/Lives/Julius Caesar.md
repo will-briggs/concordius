@@ -1,5 +1,7 @@
 # A Structural Reading of Julius Caesar
 
+---
+
 *Caesar is read here for the single act that made his name a word for absolute rule in two later languages (Kaiser, Tsar): the crossing of the Rubicon — the general who, forbidden by law to bring his army into Italy, brought it anyway, "the die is cast," and ended five hundred years of the Roman Republic. He is the structural study of a supreme gift that will not submit itself to any order above its own will, and of the assassination that answered it.*
 
 ---

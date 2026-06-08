@@ -5,6 +5,8 @@ tags: [aphorism, Time, H₄₈-impermanence, ascending-career, higher-being-body
 
 # "This Too Shall Pass"
 
+---
+
 *Persian Sufi tradition: attested in Attar of Nishapur (*Ilāhī-nāma*, c. 12th century CE) and Sanai (c. 11th–12th century). Hebrew tradition: the phrase appears in medieval Jewish literature; associated with the "ring of Solomon" legend in which the king commissions a ring bearing a phrase that would be true in all circumstances. Edward FitzGerald included a version in his writings (1852); Abraham Lincoln used it in an address to the Wisconsin State Agricultural Society (1859). No common textual derivation across Persian, Hebrew, and English traditions.*
 
 ---

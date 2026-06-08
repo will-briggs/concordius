@@ -2,6 +2,8 @@
 
 # Paper E5: Sloth and Overwork
 
+---
+
 *The inverse of **diligence** — the third bivector virtue, and the one vice with two faces. Diligence is the True wedged with the Beautiful (e₂e₃), sustained fruitful work toward Φ; it was Franklin's note, the patient labor judged by what it bears. Its corruption is a pair, one on each side of the measure: too little of the right work (sloth) and too much of the wrong work (overwork) — both failures of the same mechanism, catching, caught here in the same algebra. We meet them daily; the math says why neither builds anything.*
 
 **Confidence —** *Math:* **derivation** — diligence as sustained catching above the coherence threshold; the two corruptions on one parameter — *sloth* (continuity too weak to clear the threshold; no net deposit) and *overwork* (continuity intact but orientation wrong — H₄₈-attraction sustained as labor, depositing nothing) — meeting in one result: no H₂₄ deposit, failed from opposite sides of the measure. *Science:* **— (not engaged)**. *Theology:* **concordance** — Scripture holds both horns in one verse (Ecclesiastes 4:5–6); the cosmic case very nearly none, for the same structural reason as excess (only the Φ′-origin catches).

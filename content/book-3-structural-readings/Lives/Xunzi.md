@@ -1,5 +1,7 @@
 # A Structural Reading of Xunzi
 
+---
+
 *Xunzi, the third great classical Confucian, took the position opposite to Mencius: that human nature is *bad* — that left to itself it runs to appetite and conflict — and that goodness is *wei*, deliberate artifice, the achievement of sustained cultivation, ritual, and learning working against the raw grain of desire. He is read here as the witness to the half-truth Mencius's optimism understates: that the noise floor is real, strong, and must be actively worked against.*
 
 ---

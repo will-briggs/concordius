@@ -1,5 +1,7 @@
 # A Structural Reading of Pericles
 
+---
+
 *Pericles presided over the brief, dazzling summit of Athens — the decades in which a single city produced the Parthenon, the tragedies, the historians, and the first democracy, all at once. He is read here for what that flowering represents structurally (a civic order tuned, for a moment, to release an extraordinary density of human catching) and for the Funeral Oration, in which a society articulated, as clearly as any before or since, what it understood itself to be for.*
 
 ---

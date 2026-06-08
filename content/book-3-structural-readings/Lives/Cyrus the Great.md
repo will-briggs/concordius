@@ -1,5 +1,7 @@
 # A Structural Reading of Cyrus the Great
 
+---
+
 *Cyrus, founder of the Persian Empire, is read here for the form of rule he pioneered and for the singular role Scripture assigns him: the conqueror who governed by tolerance rather than terror — restoring deported peoples, returning their gods and temples, letting the exiled Judeans go home to rebuild — and whom Isaiah calls, astonishingly, the LORD's *anointed*, the one pagan king given the title of messiah.*
 
 ---

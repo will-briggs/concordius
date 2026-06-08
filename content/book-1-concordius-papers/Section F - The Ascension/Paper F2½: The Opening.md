@@ -2,6 +2,8 @@
 
 # Paper F2½: The Opening
 
+---
+
 *The Mi–Fa interval — the first of the two shocks, the first place the climb cannot continue from within. The self has been built to its ceiling (F2) and stands there complete and closed. What happens next does not happen by climbing. The wall between grade 1 and grade 2 is the sign change from +1 to −1, and a self made of +1 cannot manufacture a −1; the crossing is therefore not an achievement but a reception — something arrives from the far side and the heart that could not bond is given the power to bond. This is the opening. It is the structural location of conversion, of the dark night of the senses, of the new heart promised to a people who could not make one. Of the two intervals in the ascent, this is the kinder: what is required can be supplied by many hands, and since one particular morning, by a hand laid on everyone at once.*
 
 **Confidence —** *Math:* **derivation** — the algebra fixes the crossing's kind: grade-1 → grade-2, the +1 → −1 sign change a real-valued self cannot self-generate, so externally sourced. *Science:* **— (not engaged)**. *Theology:* **concordance** — conversion / the dark night of the senses / the new heart, one event in three vocabularies (Christian lead; Gurdjieff the school's mechanism; Urantia the universal provision).

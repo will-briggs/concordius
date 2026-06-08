@@ -1,5 +1,7 @@
 # A Structural Reading of Democritus
 
+---
+
 *Democritus of Abdera, with his teacher Leucippus, proposed that everything is, at bottom, atoms moving in the void — indivisible bodies and empty space, and nothing else, with all the qualities of experience arising from their arrangement and motion. It is among the most successful single guesses in the history of physics, and the framework reads it as a precise catch of one true level of the cascade, mistaken — understandably — for the whole.*
 
 ---

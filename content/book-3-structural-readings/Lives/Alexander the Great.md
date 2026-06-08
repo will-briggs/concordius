@@ -1,5 +1,7 @@
 # A Structural Reading of Alexander the Great
 
+---
+
 *Alexander conquered the known world before he was thirty-three and died with no world left to want — the figure who, in the legend, wept because there were no more lands to take. He is read here as one of the clearest ancient instances of the conqueror's structure: a genuine, prodigious gift turned wholly outward into domination, reaching the absolute ceiling of what the will-to-conquer can attain, and finding at that ceiling not fulfilment but emptiness.*
 
 ---

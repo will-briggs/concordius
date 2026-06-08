@@ -1,5 +1,7 @@
 # A Structural Reading of Mahavira
 
+---
+
 *Mahavira — the 24th Tirthankara, the great systematiser of Jainism, a contemporary of the Buddha — is read here for the doctrine he pressed further than anyone before or since: *ahimsa*, non-harm, extended to every living thing as the first law of a life rightly lived. The Jain takes the inner product's lateral face — the orientation toward the other that does not depend on the other's use — and refuses to stop drawing its circle until it includes the insect, the plant, the unseen organism in water and air.*
 
 ---

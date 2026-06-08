@@ -1,5 +1,7 @@
 # A Structural Reading of Epicurus
 
+---
+
 *Epicurus founded, in a garden outside Athens, a community organised around a single therapeutic aim: *ataraxia*, freedom from disturbance — the untroubled mind. His philosophy is a system for removing the fears that agitate a human life, chief among them the fear of the gods and the fear of death, so that what remains is the quiet the framework recognises as a lowered noise floor, here pursued not by ascent but by the careful subtraction of dread.*
 
 ---

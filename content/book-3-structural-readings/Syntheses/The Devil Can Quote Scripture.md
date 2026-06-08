@@ -4,6 +4,8 @@ title: The Devil Can Quote Scripture
 
 # The Devil Can Quote Scripture
 
+---
+
 *A structural account of counterfeit Φ-proximity — and the ⊘ notation for marking it.*
 
 ---

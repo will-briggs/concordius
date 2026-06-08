@@ -2,6 +2,8 @@
 
 # Paper G4: The Restraint-Centered Man
 
+---
+
 *Man No. 5: the person who has crossed the coherence threshold — the soul deposit, built by Man 4's sustained work, has crystallized into a stable H₂₄ eigenstructure that will persist through the dissolution of the H₄₈ substrate, so the ascending career beyond this life is secured. This is the first genuine ontological boundary in the series rather than a developmental transition: where Men 1 through 4 have a career possible but not secured, for Man 5 it is both possible and certain. With the certainty comes its particular temptation — premature rest — answered structurally: the crystallization is the beginning of what the career has been building toward, not its end, and the higher emotional center, newly active, is producing contact that requires development to receive.*
 
 **Confidence —** *Math:* **inference** — Man 5 as the crossing of the coherence threshold (the threshold itself derived elsewhere): a stable H₂₄ eigenstructure surviving H₄₈ dissolution. *Science:* **— (not engaged)**. *Theology:* **concordance** — morontia survival assured; the ontological boundary and the temptation of premature rest.

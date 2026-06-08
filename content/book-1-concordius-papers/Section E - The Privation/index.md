@@ -6,6 +6,8 @@ tags:
 
 # Section E — The Privation
 
+---
+
 *Papers E0–E7: A derivation set beside a testimony, and Gödel's license to admit an outside witness; the first lie, stated exactly and refuted; the vessel, the inverse of the Beautiful at the created level; the gap between the generator-inversions and the bivector-vices, plotted by type and degree; cowardice, the inverse of courage; excess, the inverse of temperance; sloth and overwork, the inverse of diligence; pride, the root under all the rest; the crossing out of pride, which is humility; and the hinge from the diagnosis of evil to the road home.*
 
 ---

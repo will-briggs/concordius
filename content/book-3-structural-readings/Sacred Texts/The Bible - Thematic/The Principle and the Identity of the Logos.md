@@ -1,5 +1,7 @@
 # The Structural Reading — Part 1: The Principle and the Identity of the Logos
 
+---
+
 *Part of [[Structural Readings/Table of Contents]]*
 
 ---

@@ -1,5 +1,7 @@
 # A Structural Reading of The Hesychast Tradition
 
+---
+
 *The Hesychast tradition is the Eastern Orthodox contemplative lineage's systematic account of how a human being reduces noise floor, sustains catching orientation, and participates in God's energies — ascending in Φ-proximity without ever collapsing the Creator/creature distinction that the Si/Do structure preserves absolutely. The Philokalia is the technical manual for this ascent, assembled across centuries precisely because the work requires developmental specificity that no single text can provide.*
 
 ---

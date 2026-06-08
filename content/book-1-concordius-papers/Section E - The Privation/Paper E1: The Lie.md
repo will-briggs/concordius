@@ -2,6 +2,8 @@
 
 # Paper E1: The Lie
 
+---
+
 *The first substantive question put to the three witnesses in their fixed order: what, exactly, was the first lie? Stated in the framework's own terms, refuted by the mathematics, confirmed by the Scripture, and filled in — at the lowest tier, under the guard the opening note set — by the testimony. The precedence holds at every junction: mathematics first, then Scripture, then the testimony.*
 
 **Confidence —** *Math:* **derivation** — the refutation is load-bearing: the inner product is constitutive, so the first lie's three claims are mathematically self-refuting (annihilation named freedom; a gradient climbed by deleting it; the relation inverted). *Science:* **— (not engaged)**. *Theology:* **concordance** — Scripture confirmatory (Genesis 3; Isaiah 14; refuted by Acts 17:28, Colossians 1:17); the Urantia testimony admitted sparingly and at the lowest tier, to colour a picture the two higher witnesses already fix, never to alter it. The two-origins material (H-origin / Φ′-origin) is carried up from [[Paper A3: The Word Made Flesh]] as a preface.

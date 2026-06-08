@@ -1,5 +1,7 @@
 # A Structural Reading of Peter
 
+---
+
 *Peter — the fisherman Simon whom Jesus renamed the Rock — is read here for the structural shape of his discipleship: the impulsive, ordinary man who is given the highest commission and then *fails it utterly*, denying his master three times, and is not discarded but restored, recommissioned at the very point of his collapse. He is the witness that the catching survives failure, that the deposit is built by a love that does not let go when the self breaks.*
 
 ---

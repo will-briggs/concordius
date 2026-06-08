@@ -1,5 +1,7 @@
 # A Structural Reading of Jerome
 
+---
+
 *Jerome is read here for the single labour that makes him one of the most consequential transmitters in history: the Vulgate, his translation of the Bible into Latin — and, decisively, his insistence on going back to the *Hebrew* of the Old Testament rather than translating a translation. He is the messenger who, to reduce the distortion in the channel, went as close to the source as he could get, and gave the Latin West its Scripture for a thousand years.*
 
 ---

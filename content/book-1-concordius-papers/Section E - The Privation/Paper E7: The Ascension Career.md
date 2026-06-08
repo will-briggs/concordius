@@ -2,6 +2,8 @@
 
 # Paper E7: The Ascension Career
 
+---
+
 *The hinge from the diagnosis of evil to the road home. Everything from the first tyrant to the root sin under all of them was one long account of a single disease, the self turned from the ground; the crossing just made, humility, was the turn back. It sets a tone rather than argues, naming the direction the rest of the work runs — upward — and the name of the road, the ascension career: the Φ′-origin being's climb, by sustained catching, from the floor it was born on toward the inner product itself. The inversion ran away from Φ; the ascension career runs toward it.*
 
 **Confidence —** *Math:* **synthesis** — it proves nothing new; it names the reversal (the ascension career as the exact mirror of the descending octave — sustained catching up the constraint cascade, which is humility sustained on every axis) and the asymmetry (the climb is carried *by* the ground it turns toward, where the vessel of evil must be maintained against it). *Science:* **— (not engaged)**. *Theology:* **concordance** — a tone-setting closing note: the climb is the creature's own (catching is volitional) but the road was opened by the kenotic descent of the true Son (Philippians 3:14, the high calling); it gathers the whole arc into the single direction the cure has opened.

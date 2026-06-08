@@ -2,6 +2,8 @@
 
 # Paper F5: The Overflow
 
+---
+
 *The last grade-2 note, the third and final bivector — the highest state a being reaches while still inside its mortal life. It is the state of the saints: both higher centres fully operating, the crystallized self now a source. And it is the most dangerous note in the ascent, for the strange reason that it is the highest — because the only way left to fall is from a height, and this height still admits a fall. The work of this note is not to climb further but to **turn outward**: to give downward what has been received from above, to become a channel rather than a reservoir. The self that has set must now overflow, and the whole peril of the note is the temptation to hold the fullness instead of spilling it.*
 
 **Confidence —** *Math:* **derivation** — the element is fixed by the algebra: e₂e₃ (diligence, the transmuting field), with the one remaining vulnerability (ungrounded, a fall still possible). *Science:* **— (not engaged)**. *Theology:* **concordance** — the kenotic turn outward, the saints its living data (Christian lead; Gurdjieff the field; Urantia the circuit it feeds).

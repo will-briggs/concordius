@@ -1,5 +1,7 @@
 # A Structural Reading of Anaxagoras
 
+---
+
 *Anaxagoras of Clazomenae taught that in the beginning all things were mixed together in an undifferentiated mass, and that what set them in order — what started the rotation that sorted the cosmos out of chaos — was *Nous*, Mind. He is the first Western thinker to make *mind* the ordering principle of the physical world, and the framework reads Nous as an early sighting of the Logos: the articulating intelligence through which an undifferentiated potential is sorted into a structured cosmos.*
 
 ---

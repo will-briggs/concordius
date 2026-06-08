@@ -1,5 +1,7 @@
 # Apollonius — Conics
 
+---
+
 *The Conics of Apollonius of Perga is the ancient world's exhaustive theory of the curves you get by slicing a cone — the ellipse, the parabola, the hyperbola (names Apollonius gave them) — worked out in pure geometry for the love of the structure, with no application in view. It is read here as the cleanest ancient instance of the Unreasonable Effectiveness of Mathematics: a structure derived for its own sake that the physical cosmos, eighteen centuries later, turned out to be built on.*
 
 ---

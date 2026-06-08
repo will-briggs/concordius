@@ -2,6 +2,8 @@
 
 # Paper D2½: The Demagogue and the Crowd
 
+---
+
 *The first grade change — the crossing between the three men (Hitler, Stalin, Mao) and the three results (the Holocaust, the Great Purge, the Great Leap). A man, however inverted, cannot become a result by himself; something must come from outside him. In the ascending octaves the input at this gap is grace — the lift a single life cannot supply itself; here it is grace inverted: not the few who raise the one but the many who carry him, not a truth received from beyond the self but a lie received in place of it, en masse. The two who make the crossing — the demagogue who leads and the crowd that follows — and the measure of guilt that belongs to each.*
 
 **Confidence —** *Math:* **— (not engaged)** — proves nothing new; it states a mechanism. *Science:* **— (not engaged)**. *Theology:* **concordance / inference** — the hinge of the section: the mechanism by which the men of the first three notes become the results of the next three (the demagogue finds the evil unfaced and gives it permission, direction, and an enemy's name; the refused truth received as the flattering lie, multiplied en masse), and the shared-but-unequal guilt (Jeremiah 5:31).

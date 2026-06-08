@@ -4,6 +4,8 @@ title: "You Can Just Do Things"
 
 # "You Can Just Do Things."
 
+---
+
 *A viral meme, circa 2024–2025. Origin diffuse; spread rapid and wide.*
 
 ---

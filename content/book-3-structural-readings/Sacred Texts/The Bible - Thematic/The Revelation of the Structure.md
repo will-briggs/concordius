@@ -1,5 +1,7 @@
 # The Structural Reading — Part 4: The Revelation of the Structure
 
+---
+
 *Part of [[Structural Readings/Table of Contents]]*
 
 ---

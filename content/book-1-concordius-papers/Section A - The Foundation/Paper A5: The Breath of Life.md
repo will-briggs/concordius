@@ -2,6 +2,8 @@
 
 # Paper A5: The Breath of Life: When Matter Becomes a Person
 
+---
+
 *The waking of an interior — the felt self the sciences of the mind map but cannot reach — and the one thing that interior does that nothing before it could: it leaves itself in matter, in writing. The earliest scripts and the alphabet; the Hebrew canon as the longest-guarded body of consciousness in material form, its transmission measurable across a millennium and its opening word the oldest account of what a person is — a* living soul; *the modern science of the mind turning its instruments on itself; and, at the end, the Word born a consciousness.*
 
 **Confidence —** *Math:* **— (not engaged)** (bare-minimum, by register). *Science:* **inference** — the science of mind turned on itself and the documentary history of writing and the alphabet; the Hebrew canon's transmission measurable across a millennium. *Theology:* **concordance** — *a living soul* as the oldest account of what a person is, the canon as the longest-guarded body of consciousness in material form, and the Word born a consciousness.

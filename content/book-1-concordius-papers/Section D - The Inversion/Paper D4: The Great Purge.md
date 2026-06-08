@@ -2,6 +2,8 @@
 
 # Paper D4: The Great Purge: The Inversion of Temperance
 
+---
+
 *The Great Purge — Stalin's signature terror — read as the exact inversion of temperance (e₁e₃, Bach's just weight reversed), set out as a dated descending octave, note by note, with its two interval-shocks at their positions. The discipline of the shocks is the point: where the ascending octave receives grace from outside at its two gaps, this descent received at each gap an input that could have exposed or constrained it and instead lent it credit or buried it — twice the watching world was handed the chance to read the false balance truly, and twice it certified the lie. The hundreds of thousands shot and the millions broken are the moral center of every line.*
 
 **Confidence —** *Math:* **derivation** — the inversion as privation (temperance, e₁e₃, turned; never a fourth element); the two external inputs identified as the inverted shocks. *Science:* **— (not engaged)** — the history is held as history, per standard scholarship, with dates; the figures of the terror counted in the ranges the opened archives support. *Theology:* **concordance** — the octave-structuring of the event and the reading of the two world-inputs (the lie certified, then buried) as the inverted shocks; the witnesses who kept the true account honored.

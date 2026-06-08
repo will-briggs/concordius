@@ -1,5 +1,7 @@
 # A Structural Reading of Hipparchus
 
+---
+
 *Hipparchus of Nicaea, the greatest astronomer of antiquity, is read here for the turning of the sky into precise number: he founded trigonometry as the tool for it, catalogued some 850 stars with positions and brightnesses, and — by comparing his own measurements with records two centuries older — discovered the *precession of the equinoxes*, the slow wheeling of the heavens no single lifetime can see.*
 
 ---

@@ -1,5 +1,7 @@
 # The First Commandment: You Shall Have No Other Gods Before Me
 
+---
+
 *Cross-reference: Paper 1–2 (the Father = ⟨·,·⟩, the constitutive inner product — the relation that makes the space a space); Paper 20½ §6 (the Constraint Compatibility Condition; incompatible law-sets and overdetermination), §11 (the Luciferian inversion — an element seizing the constitutive function); Paper 13½ §3.1 (the seizure and its collapse); Structural Readings — the Beatitudes (purity of heart; the coherence threshold); Doctrine — The Lucifer Rebellion.*
 
 ---

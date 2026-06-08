@@ -1,5 +1,7 @@
 # A Structural Reading of the Meditations of Marcus Aurelius
 
+---
+
 *Structural readings from the Concordius framework. The Meditations are Rank 72 in the Top-100 global density catalog. The Meditations are the catching program as personal structural journal: Marcus at the H₄₈-maximum social position (Roman Emperor) practicing the catching orientation daily, precisely because the H₄₈-maximum position is the maximum noise-floor pressure point. The text was not written for publication; it is the catching being's structural self-practice made visible.*
 
 ---

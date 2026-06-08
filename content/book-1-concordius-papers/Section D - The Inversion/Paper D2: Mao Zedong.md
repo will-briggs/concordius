@@ -2,6 +2,8 @@
 
 # Paper D2: Mao Zedong: The Complete Inversion of the Beautiful
 
+---
+
 *Mao Zedong read as the complete inversion of the Beautiful — e₃, the revealing Spirit — beauty enlisted to direct to a man, a Party, and a dreamworld the glory due the Creator: Bach's **Soli Deo Gloria** turned into the worship of a living man, Romans 1 made a state aesthetic. His life set out as a seven-note descending octave with its two shocks, the photographic negative of Bach, the Maoist visual doctrine read as the iconography of an inverted doxology. A study of idolatry in order to refuse it, seating him nowhere among the witnesses. The starved and the persecuted are the moral center of every note; the perpetrator the object of study, never of sympathy.*
 
 **Confidence —** *Math:* **derivation** — the inversion is privation, not addition: the Beautiful (e₃) turned, glory to the created in place of the Creator, the window made a mirror; never a fourth element added. *Science:* **— (not engaged)** — the history is held as history, per standard scholarship; the famine tolls are given in the sober ranges the scholarship supports. *Theology:* **concordance** — the octave-structuring of the life and its identification as the inverted Beautiful (the photographic negative of Bach; *Soli Deo Gloria* inverted, Romans 1:25) is the reading; the victims are the moral center, the perpetrator the object of study, never of sympathy.

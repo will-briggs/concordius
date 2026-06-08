@@ -1,5 +1,7 @@
 # A Structural Reading of Aristarchus
 
+---
+
 *Aristarchus of Samos proposed, in the third century BC, that the Sun and not the Earth stands at the centre, and that the Earth both orbits it and turns daily on its axis — the heliocentric model, eighteen centuries before Copernicus. He is read here as one of the purest cases on the roster of a true catch made too early: a correct structure, reasoned out, and then set aside because it contradicted both the senses and the authority of the age.*
 
 ---

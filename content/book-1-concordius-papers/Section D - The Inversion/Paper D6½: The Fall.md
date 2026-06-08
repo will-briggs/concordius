@@ -2,6 +2,8 @@
 
 # Paper D6½: The Fall
 
+---
+
 *The octave change — the crossing from Lucifer (the archetype of evil exposed) to evil at large in the world. In the ascending octaves the octave change is the crossing no one makes alone; here it is that crossing inverted — the one by which the inversion passed out of the archetype and into creation, and into us. The canon calls it the Fall and tells it twice: once of the angels, once of man — read as the canon gives it, and the second telling shown to be the first demagogue and the first crowd, the pattern of the first grade change run at the beginning of the world.*
 
 **Confidence —** *Math:* **— (not engaged)**. *Science:* **— (not engaged)**. *Theology:* **concordance** — the canon held in its traditional reading; the octave-placement (the Fall as the inverted octave change, the entry of evil) is the reading. The canon gives that the Fall happened and how; on why it happened at the root — the cosmology beneath the angelic turning — the records are sparse, the threshold the next paper names.

@@ -1,5 +1,7 @@
 # A Structural Reading of Akhenaten
 
+---
+
 *Akhenaten — the pharaoh who, for a single generation, abolished Egypt's gods in favour of one, the Aten, the disc of the sun — is read here as one of the earliest sustained experiments in monotheism on record, and as a precise case of a true catch held with the wrong hand. He glimpsed the one ground behind the many powers; he tried to install it by decree from the top of an empire; and the attempt died with him, the old gods restored, his name chiselled from the monuments.*
 
 ---

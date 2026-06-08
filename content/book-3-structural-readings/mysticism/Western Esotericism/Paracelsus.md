@@ -1,5 +1,7 @@
 # A Structural Reading of Paracelsus
 
+---
+
 *Paracelsus — physician, alchemist, natural philosopher — is the tradition's most consequential attempt to make the constraint hierarchy operationally diagnostic: his unique contribution is not the tria prima (already addressed) but the application of structural reading to created things, to medical practice, and to the physician's own inner development as a precondition for perception.*
 
 ---

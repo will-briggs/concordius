@@ -2,6 +2,8 @@
 
 # Feature 11 — Minimum Necessary Miracles
 
+---
+
 *Constitute the Reconciling operation — the specific mechanisms that mediate between reality and the evaluating mind.*
 
 ---

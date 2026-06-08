@@ -1,5 +1,7 @@
 # The Structural Reading — Part 2: The Incarnation, Ministry, and the Ascending Career
 
+---
+
 *Part of [[Structural Readings/Table of Contents]]*
 
 ---

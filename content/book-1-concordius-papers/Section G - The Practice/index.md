@@ -6,6 +6,8 @@ tags:
 
 # Section G — The Practice
 
+---
+
 *Papers G0–G7: Man 1, the center of gravity in the instinctive and moving centers; Man 2, the emotional center, catching frequent but unstable; Man 3, the intellectual center, the first stable catching framework; the first grade change, the discontinuity between grade 1 and grade 2; Man 4, reached only by deliberate three-center work; Man 5, the coherence threshold crossed and the soul deposit crystallized; Man 6, the most developed state a lifetime reaches, still able to fall back; the summit reached, humility as the integration, shown by the cloud who reached it; the octave change, the crossing past the summit no climb supplies; and the one move the climb cannot make — full integration, given not climbed, the turn to the reader.*
 
 ---

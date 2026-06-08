@@ -1,5 +1,7 @@
 # A Structural Reading of Jakob Böhme
 
+---
+
 *Jakob Böhme — cobbler of Görlitz, Christian mystic, theosopher — arrives through mystical experience at a structural position the framework derives algebraically: that there is something prior to the Trinity from which even the Father proceeds, a groundless ground, and that this ground contains both the dark and the light principles as structurally necessary complements.*
 
 ---

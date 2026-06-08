@@ -1,5 +1,7 @@
 # Thucydides — History of the Peloponnesian War
 
+---
+
 *Thucydides wrote the war between Athens and Sparta as the first work of history stripped of the gods: causes sought in human nature and the calculus of power rather than divine will, evidence weighed with a cold exactness, the whole offered as "a possession for all time" because the patterns it records will recur as long as human nature is what it is. It is read here for that method — the structural study of power, fear, and self-interest as the forces that actually move states.*
 
 ---

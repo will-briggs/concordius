@@ -1,5 +1,7 @@
 # A Structural Reading of John Chrysostom
 
+---
+
 *John Chrysostom — "the golden-mouthed," the greatest preacher of the early Church — is read here for two things held together: the pastoral power of the True *spoken* to ordinary people in their own register, and the courage that made him hold that truth against the throne, denouncing the luxury of the imperial court until the empress had him exiled to his death. He is the True in its pastoral voice, and the cost of speaking it to power.*
 
 ---

@@ -5,6 +5,8 @@ tags: [human-condition, H₄₈-proxy, noise-floor, catching-program, volitional
 
 # Suffering
 
+---
+
 *Universal human condition. Every catching being at H₄₈ encounters it; no tradition that has left sufficient textual record fails to address it; no culture has found a way to exempt its members from it. The structural reading does not address the phenomenological character of suffering (its felt quality of pain, grief, or loss) but the structural function it performs on the catching being's organizational constitution.*
 
 ---

@@ -1,5 +1,7 @@
 # A Structural Reading of Eudoxus
 
+---
+
 *Eudoxus of Cnidus, the greatest mathematician before Archimedes, is read here for two structural breakthroughs: a theory of proportion that could handle the *incommensurable* magnitudes that had broken the Pythagoreans, and the method of exhaustion, which computes areas and volumes by approaching them through ever-finer steps — the first rigorous handling of the infinite and the continuous, two thousand years before the calculus made it routine.*
 
 ---

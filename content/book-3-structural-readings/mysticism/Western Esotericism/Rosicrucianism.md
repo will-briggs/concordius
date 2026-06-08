@@ -1,5 +1,7 @@
 # A Structural Reading of Rosicrucianism
 
+---
+
 *The Rosicrucian manifestos (1614–1616) are the tradition's most structurally explicit account of the school function — what a catching community actually is, how it operates, and what it accomplishes — and the Chymical Wedding of Christian Rosenkreutz is the most detailed the Law of Seven narrative in Western esoteric literature.*
 
 ---

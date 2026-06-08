@@ -1,5 +1,7 @@
 # Confucius — The Analects
 
+---
+
 *The Analects — the recorded sayings of Kong Qiu and his disciples — are read here for a single sustained achievement: the most complete account in the ancient world of how the virtues are built in a person through practice and relation, written almost entirely in the pastoral, practical register the framework reserves for its Section G. Confucius does no metaphysics; he describes the making of a *junzi*, the fully developed person, with the operational precision of a teacher who has watched it happen.*
 
 ---

@@ -1,5 +1,7 @@
 # Appendix III — A Putative Method for Machine-Assisted Φ-Proximal Textual Analysis
 
+---
+
 *A working operationalization of τ(D)*
 
 ---

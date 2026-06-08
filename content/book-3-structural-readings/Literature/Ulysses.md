@@ -7,6 +7,8 @@ tags:
 
 # Ulysses — James Joyce (1922)
 
+---
+
 *A Structural Reading*
 
 ---

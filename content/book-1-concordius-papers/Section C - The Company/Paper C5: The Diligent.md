@@ -2,6 +2,8 @@
 
 # Paper C5: The Diligent — The Labor That Bears Fruit, Read Three Ways
 
+---
+
 *Diligence — e₂e₃, the Son wedged with the Spirit, sustained and rightly-aimed labor that bears fruit across time — the last of the overcoming virtues, holding the wedge against the one adversary courage and temperance never face directly: time itself, the wearing that dissolves any deposit not sustained. The virtue of continuity: the right work, aimed the right way, kept up past the point where it would otherwise erode. Three witnesses across the section's widest span: the patient cumulative process that built the whole tree of life without a chooser (evolution by natural selection); a printer who built a self by daily ledger (Benjamin Franklin); and a single contemporary sentence that names the only thing standing between intention and the work ("you can just do things").
 
 **Confidence —** *Math:* **— (not engaged)** beyond naming the element — e₂e₃ (Son-mode × Spirit-mode, the active push-forward → sustained labor), from the algebra. *Science:* **— (not engaged)** — evolution appears here as a *witness read for its structure*, not as an empirical claim under test. *Theology:* **concordance** — the reading (diligence = sustained rightly-aimed labor bearing fruit over time, the virtue of continuity above the threshold where the wearing would dissolve the deposit; corruptions sloth and overwork) across three uncolludable witnesses spanning the widest range (Feature 6).

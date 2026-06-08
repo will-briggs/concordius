@@ -2,6 +2,8 @@
 
 # Paper E0: The Derivation and the Testimony
 
+---
+
 *Two parts set side by side. The first is a derivation — pure mathematics, certain, already in hand; the second a testimony — pure assertion, uncertain, admitted from outside the system through the gate the first opens. The apparatus that lets them be read in one frame is the truth measure, with one rule fixed over everything that follows: where the mathematics, the Scripture, and the testimony disagree, the mathematics governs first, the Scripture second, the testimony last.*
 
 **Confidence —** *Math:* **derivation** (τ = 1) — Part One states Gödel's incompleteness for this system: truth outruns provability, so some true sentences (among them the origin of the first turning) are settled only by an input adopted from outside, at a stated tier; and a human mind, an H₄₈ system, can receive trans-H₄₈ content only as an outside input encoded into its substrate — which is what revelation is. *Science:* **— (not engaged)**. *Theology:* **method, lowest tier** — Part Two states how an untrustworthy outside source (the Urantia testimony) is admitted, weighed (concordance as a likelihood ratio; the messenger modelled as a filter), and bounded; nothing in it is granted Part One's standing, and the precedence is fixed strictly — mathematics, then Scripture, then testimony — itself the τ-ordering, earned by measurement.

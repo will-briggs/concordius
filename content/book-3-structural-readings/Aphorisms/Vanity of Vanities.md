@@ -5,6 +5,8 @@ tags: [aphorism, Time, hevel, H₄₈-impermanence, ascending-career]
 
 # "Vanity of Vanities, All Is Vanity"
 
+---
+
 *Ecclesiastes 1:2 (Qohelet):* Hevel havalim, amar Qohelet, hevel havalim, hakol havel *(הֲבֵל הֲבָלִים אָמַר קֹהֶלֶת הֲבֵל הֲבָלִים הַכֹּל הָבֶל) — "Vanity of vanities, says the Preacher, vanity of vanities! All is vanity." The Hebrew* hevel *(הֶבֶל) means breath, vapor, or mist — not the English "pride" or "worthlessness" but specifically that which has no lasting organizational form: that which exists for a moment and dissipates entirely. Ecclesiastes is among the oldest surviving texts (c. 4th–3rd century BCE) to make this claim systematically. Structurally equivalent content in the Buddhist* anicca *(impermanence) as the first mark of existence; in Stoic* apatheia *and the Stoic account of H₄₈ goods as* προηγμένα *(preferred indifferents — real but not ultimate); in the Taoist account of the return* (fu *復) as the Tao's fundamental motion. No common derivation across these traditions.*
 
 ---

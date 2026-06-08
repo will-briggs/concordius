@@ -5,6 +5,8 @@ tags: [aphorism, HCP, Holographic-Content-Principle, Φ-density, nuclear-space, 
 
 # "The Whole in Every Part"
 
+---
+
 *Perennial formulation across traditions. Traceable structural statements: Plotinus, Enneads V.8.4 ("every part is as the whole"); Leibniz, Monadology §56 (each monad mirrors the entire universe from its own perspective); William Blake, Auguries of Innocence (c. 1803) — "To see a World in a Grain of Sand"; Avatamsaka Sutra (Indra's Net — each jewel of the infinite net reflects all others). In its compressed aphoristic form associated with the holographic cosmology tradition (Bohm, Wholeness and the Implicate Order, 1980) and the perennial philosophy (Huxley). No common textual derivation across these traditions; independent convergence.*
 
 ---

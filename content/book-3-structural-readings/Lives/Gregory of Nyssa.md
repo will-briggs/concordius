@@ -1,5 +1,7 @@
 # A Structural Reading of Gregory of Nyssa
 
+---
+
 *Gregory of Nyssa, the most speculative of the Cappadocian fathers, is read here for a single idea that matches the corpus's own conclusion almost exactly: *epektasis* — the teaching that the soul's union with God is not a static arrival but a perpetual *progress*, an endless stretching-forward into an infinite God who can never be exhausted, so that the blessed grow nearer forever and never reach a final stop.*
 
 ---

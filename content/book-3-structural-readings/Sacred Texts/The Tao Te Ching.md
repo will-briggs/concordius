@@ -1,5 +1,7 @@
 # A Structural Reading of the Tao Te Ching
 
+---
+
 *Structural readings from the Concordius framework. The Tao Te Ching is Rank 52 in the Top-100 global density catalog. The text attributed to Laozi (c. 6th–4th century BCE) is the most-translated book in the world after the Bible. Its structural content is not derived from any Western philosophical tradition; it is a parallel instantiation of the same structural reality arrived at through a completely independent H₄₈ cultural and intellectual tradition. The pre-biblical claim applies in its fullest form here: the Concordius structural analysis is not imposed on the Tao Te Ching but found within it.*
 
 ---

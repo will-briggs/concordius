@@ -5,6 +5,8 @@ tags: [aphorism, consciousness-primacy, eigenvalue-accumulation, higher-being-bo
 
 # "As a Man Thinketh in His Heart, So Is He"
 
+---
+
 *Proverbs 23:7 (KJV). The Hebrew:* ki kamōhu be-nafsho ken-hu *(כִּי כְּמוֹ שָׁעַר בְּנַפְשׁוֹ כֵּן הוּא) — "For as he reckons within his soul, so he is." Note: the KJV translation "thinketh in his heart" renders the Hebrew concept of inner reckoning* (sha'ar be-nafsho)*. Extended by James Allen in* As a Man Thinketh *(1903), which became one of the most widely distributed short prose texts in the English-speaking world. Structurally equivalent content in the Dhammapada (Chapter 1, verses 1-2): "Mind is the forerunner of all actions. All deeds are led by mind, created by mind. If one speaks or acts with a corrupt mind, suffering follows... If one speaks or acts with a serene mind, happiness follows." Also in the Bhagavad Gita 6:5: "Elevate yourself through the power of your mind, and do not degrade yourself, for the mind can be the friend and also the enemy of the self." No common textual derivation across Hebrew, Buddhist, and Vedantic traditions.*
 
 ---

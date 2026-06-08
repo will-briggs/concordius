@@ -1,5 +1,7 @@
 # A Structural Reading of Hammurabi
 
+---
+
 *Hammurabi of Babylon is remembered for the law code carved on a black diorite stele beneath an image of the king receiving the law from Shamash, god of justice — among the earliest and most complete written legal codes, and read here for the structural step it represents: the move from justice as the arbitrary will of the powerful to justice as *written, public, and prior* — a fixed order to which even the king's subjects can appeal, set down where all can see it.*
 
 ---

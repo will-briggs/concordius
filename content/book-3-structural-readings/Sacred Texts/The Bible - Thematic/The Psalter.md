@@ -7,6 +7,8 @@ tags:
 
 # The Psalter — A Thematic Reading
 
+---
+
 *A Structural Reading*
 
 ---

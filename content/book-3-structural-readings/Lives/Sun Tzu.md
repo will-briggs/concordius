@@ -1,5 +1,7 @@
 # A Structural Reading of Sun Tzu
 
+---
+
 *Sun Tzu, to whom the Art of War is ascribed, is read here for the structural principle beneath his strategy: that the supreme skill is to win *without fighting* — to arrange the situation, before any blow is struck, so that the outcome is already decided, acting with the configuration of forces rather than against it. It is the Taoist *wu wei* carried into conflict: victory by alignment, not by the maximal application of force.*
 
 ---

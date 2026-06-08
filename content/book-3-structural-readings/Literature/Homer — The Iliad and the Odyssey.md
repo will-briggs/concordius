@@ -1,5 +1,7 @@
 # Homer — The Iliad and the Odyssey
 
+---
+
 *The two epics at the head of the Western literary canon are read here not for doctrine — Homer argues nothing — but for the two structural shapes they fixed so deeply that the tradition has used them ever since: the **Iliad**, the anatomy of *menis*, wrath, the will curved in on its own honour until it consumes what it loves; and the **Odyssey**, the *nostos*, the long constrained return home, which is the ascending career told as a voyage.*
 
 ---

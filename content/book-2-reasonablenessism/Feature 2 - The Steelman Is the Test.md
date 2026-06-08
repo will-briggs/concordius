@@ -2,6 +2,8 @@
 
 # Feature 2 — The Steelman Is the Test
 
+---
+
 *Discipline the Passive — features that train the evaluating mind to receive properly.*
 
 ---

@@ -2,6 +2,8 @@
 
 # Paper B5: The Method
 
+---
+
 *The third product, where the science meets the theology: the operationalization of the truth measure τ for language, with the canon as the calibration baseline — the instrument the whole demonstrative project depends on. The operationalization problem (what the practical operator A is for text); the bootstrap bounded by anchoring at the framework's derived core (the cogito and the inner product as anchor nodes); four observable proxies — semantic coherence, cross-tradition convergence, predictive yield, and generative centrality, the last (how much structure a passage entails downstream) the decisive one; a two-stage algorithm (entropy filter, then outgoing-edge eigenvector centrality); the method's two honest states — an active interpretive program with a validated density estimator run at three scales, and an open NLP-automation program; and the meter turned on the framework itself, the version history read as a τ time series.*
 
 **Confidence —** *Math:* **— (not engaged)** — no new mathematics; the work operationalizes τ, paying down the open region N that [[Paper B0: The Proof]] left. *Science:* **method, partly validated** — the interpretive path (a density estimator anchored at the framework's core, the canon as baseline) is in active practice, run and smoke-tested at three scales; the full NLP-automation of the dependency graph remains an open research program, marked as such. *Theology:* **concordance (granted baseline)** — the canon pinned to τ = 1 as the calibration baseline is the commitment granted in [[Paper B3: The Principle]]; the structural readings measured against it are offered as concordance.

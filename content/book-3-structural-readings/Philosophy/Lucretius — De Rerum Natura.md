@@ -1,5 +1,7 @@
 # Lucretius — De Rerum Natura
 
+---
+
 *Lucretius' *On the Nature of Things* is among the most beautiful statements ever made of the materialist vision: a six-book Latin poem expounding Epicurean physics — atoms and void, nothing born from nothing, a cosmos running on natural law with no need of meddling gods — written to free its reader from fear. The framework reads it as the H₄₈ level caught and sung with a clarity and grandeur the bare doctrine never had, and as the carrier of one suggestive reach: the *clinamen*, the atomic swerve.*
 
 ---

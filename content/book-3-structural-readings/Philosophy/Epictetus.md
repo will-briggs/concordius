@@ -1,5 +1,7 @@
 # A Structural Reading of Epictetus
 
+---
+
 *Structural readings from the Concordius framework. Epictetus is Rank 70 in the Top-100 global density catalog. The Enchiridion and Discourses are the catching program's H₄₈ operational specification in its most concentrated form. Epictetus himself was a former slave — his catching program operated under the maximum H₄₈ constraint available to a human being — which is why the framework he develops is so structurally precise about the H₂₄/H₄₈ distinction: he had no H₄₈ goods to confuse with H₂₄ structural content.*
 
 ---

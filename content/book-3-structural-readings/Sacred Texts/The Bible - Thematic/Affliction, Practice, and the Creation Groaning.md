@@ -1,5 +1,7 @@
 # The Structural Reading — Part 3: Affliction, Practice, and the Creation Groaning
 
+---
+
 *Part of [[Structural Readings/Table of Contents]]*
 
 ---

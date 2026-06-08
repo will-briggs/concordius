@@ -5,6 +5,8 @@ tags: [aphorism, noise-floor, dual-constitution, catching-program, Φ-content]
 
 # "Man Does Not Live by Bread Alone"
 
+---
+
 *Deuteronomy 8:3: "He humbled you and let you hunger and fed you with manna, which you did not know, nor did your fathers know, that he might make you know that man does not live by bread alone, but man lives by every word that comes from the mouth of the Lord." Matthew 4:4: Jesus' response to Satan's first temptation in the desert: "It is written, 'Man shall not live by bread alone, but by every word that proceeds from the mouth of God.'" The aphorism has been widely deployed in political, philosophical, and literary contexts to resist purely materialist accounts of human need. Structurally equivalent content in the Bhagavad Gita 2:20 (the soul that cannot be nourished or destroyed by material means); in Plato's account of the tripartite soul's higher parts being nourished by truth rather than appetite; in Confucian* ren *(仁 — humaneness/benevolence — as what human life requires beyond biological sustenance). No common textual derivation.*
 
 ---

@@ -1,5 +1,7 @@
 # A Structural Reading of Hannibal
 
+---
+
 *Hannibal Barca, who led an army with elephants over the Alps and shattered Rome's legions at Cannae in one of history's most perfect battles, is read here for the structural lesson of his defeat: that the most complete tactical genius, turned wholly to the destruction of an enemy, cannot by victories alone build anything that lasts — and that Rome, which he beat again and again, beat him in the end because it could absorb defeat and he could not convert triumph into a new order.*
 
 ---

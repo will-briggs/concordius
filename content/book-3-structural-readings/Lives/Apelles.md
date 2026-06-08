@@ -1,5 +1,7 @@
 # A Structural Reading of Apelles
 
+---
+
 *Apelles of Kos, reckoned by antiquity the greatest painter who ever lived, is read here through a near-total absence: not one of his works survives, not a fragment, so that the most celebrated visual artist of the ancient world reaches us *entirely* as report — a pure case of a caught beauty known only by its echo, the witness whose testimony is the testimony of others.*
 
 ---

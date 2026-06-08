@@ -1,5 +1,7 @@
 # A Structural Reading of Cleisthenes
 
+---
+
 *Cleisthenes, "the father of Athenian democracy," is read here for an act of pure structural engineering: to break the grip of the old aristocratic clans, he *reorganised the citizen body itself* — redrawing the tribes so that each cut across region and family, mixing coast, city, and inland into artificial units no faction could dominate. He restructured a society to distribute participation, designing the trellis on which Periclean Athens would flower.*
 
 ---

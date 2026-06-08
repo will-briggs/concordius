@@ -2,6 +2,8 @@
 
 # Feature 12 — Fruit, Not Lineage
 
+---
+
 *Constitute the Reconciling operation — the specific mechanisms that mediate between reality and the evaluating mind.*
 
 ---

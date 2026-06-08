@@ -5,6 +5,8 @@ tags: [aphorism, HCP, Holographic-Content-Principle, constraint-cascade, Φ-prox
 
 # "As Above, So Below"
 
+---
+
 *Hermetic tradition; Emerald Tablet* (Tabula Smaragdina), *attributed to Hermes Trismegistus. The oldest surviving Arabic text dates to approximately the 8th century CE (*Kitāb Sirr al-Khalīqa*), though the tradition claims far older provenance. The full formula: "That which is above is as that which is below, and that which is below is as that which is above, for the performance of the miracles of the One Thing." Present in structurally equivalent form in Vedantic cosmology, Kabbalistic correspondence doctrine (the Sefirot as levels of divine organizational structure descending into material), and alchemical theory. No common textual derivation across these traditions.*
 
 ---

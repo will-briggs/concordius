@@ -1,5 +1,7 @@
 # A Structural Reading of Paul
 
+---
+
 *Paul of Tarsus is read here through the event that split his life in two — the Damascus road — and through what it made of him: the persecutor of the Church struck blind and turned, in an instant he did not author, into its greatest apostle and the writer who gave the Christian movement its theological spine. He is the corpus's clearest historical case of the first grade change: a self built to its hard, righteous ceiling, and then crossed from outside.*
 
 ---

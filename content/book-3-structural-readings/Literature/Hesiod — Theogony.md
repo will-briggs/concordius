@@ -1,5 +1,7 @@
 # Hesiod — Theogony
 
+---
+
 *Hesiod's Theogony, composed near the dawn of Greek literature, is read here for the structural shape beneath its catalogue of the gods' begettings: a cosmos that comes to be in *order*, generation by generation, out of an initial Chaos — and that arrives, after a succession of violent overthrows, at a stable reign under Zeus governed by *Themis* and *Dike*, right order and justice. It is an early sighting of the world as something that *develops toward order*, with justice installed as the principle that finally holds.*
 
 ---

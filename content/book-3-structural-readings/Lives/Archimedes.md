@@ -1,5 +1,7 @@
 # A Structural Reading of Archimedes
 
+---
+
 *Archimedes of Syracuse is read here through his life and its ending, because together they state a single thing with unusual clarity: the power and the otherworldly absorption of the mind that has reached the level where structure is *derived*. "Give me a place to stand and I will move the earth" is the boast of a being who has caught the lever's law so exactly that he trusts it past all intuition; his death, killed by a soldier while he bent over a diagram, is the same absorption seen from the other side.*
 
 ---

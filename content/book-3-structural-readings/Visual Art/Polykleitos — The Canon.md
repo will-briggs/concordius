@@ -1,5 +1,7 @@
 # Polykleitos — The Canon
 
+---
+
 *Polykleitos of Argos wrote a treatise called the Canon ("the Rule") and made a statue, the Doryphoros (Spear-Bearer), to embody it — a worked-out system of *proportion* by which the ideal human figure could be constructed, part related to part in fixed ratios. It is read here as the explicit codification of the Greek intuition that beauty in the body is *number* — the same Pythagorean catch (harmony is ratio) carried from the ear to the eye.*
 
 ---

@@ -5,6 +5,8 @@ tags: [aphorism, Lucifer-rebellion, overdetermination, kenosis, constraint-casca
 
 # "Pride Goes Before a Fall"
 
+---
+
 *Proverbs 16:18: "Pride goes before destruction, and a haughty spirit before a fall." The common cultural compression — "pride goes before a fall" — drops the intermediate term (destruction) and has achieved independent proverb status. The Greek equivalent:* hubris *preceding* nemesis, *as the structural engine of tragic drama (Sophocles, Aeschylus, Euripides; theorized by Aristotle in the* Poetics *as the* hamartia *and its consequence). Present in Confucian thought (*jiāo* — arrogance — as a structural failure mode). Present in Islamic tradition (*kibr* — pride — as a fundamental spiritual disorder). No common derivation across Hebrew, Greek tragic, Confucian, and Islamic traditions.*
 
 ---

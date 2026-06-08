@@ -2,6 +2,8 @@
 
 # Feature 7 — The Self-Sealing Test
 
+---
+
 *Protect the Active — features that ensure genuine signal reaches through Passive distortion.*
 
 ---

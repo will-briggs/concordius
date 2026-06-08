@@ -2,6 +2,8 @@
 
 # Paper C2: The Beautiful — Order Made to Delight, Read Three Ways
 
+---
+
 *The Beautiful — e₃, the Spirit-mode, ordered love made visible, the right proportion that does not merely hold but *delights* — the third transcendental, the close of the generators, the ground made sensible: harmony the eye, ear, and body recognize as right before any argument is offered. Three uncolludable witnesses: a wall in Milan where the geometry of a supper converges on one face (Leonardo's Last Supper); a sequence of English poems that defines love as the proportion time cannot alter (Shakespeare's Sonnets); and a twentieth-century architect chasing the one quality that makes a place alive and able only to call it nameless (Christopher Alexander).
 
 **Confidence —** *Math:* **— (not engaged)** beyond naming the element — e₃ = ordered love / the integrating topology τ, taken from the algebra. *Science:* **— (not engaged)**. *Theology:* **concordance** — the reading (the Beautiful = ordered love made sensible, e₃; native virtue ordered love, its inversion the spectacle) across three uncolludable witnesses (Feature 6), the generators' final demonstration of the holographic claim (the Last Supper and Sonnets promoted from existing work; the Christopher Alexander reading new).

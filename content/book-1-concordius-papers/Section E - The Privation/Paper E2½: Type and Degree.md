@@ -2,6 +2,8 @@
 
 # Paper E2½: Type and Degree
 
+---
+
 *The first grade change — the gap between the generator-inversions (the lie, the vessel) and the bivector-vices (cowardice, excess, sloth-and-overwork). It is tempting to read it as one thing — the **refused shock**, the coherence-input the inverted octave never receives, so the virtue-bivector never forms. That reading is correct, but it is only the mild end of the interval. The same gap runs the whole way down to active dereliction and the willful direction toward evil, and the distance between the two ends is measurable on two axes the mathematics already supplies — **type** and **degree** — plotted here, with the three vices traced down the slope.*
 
 **Confidence —** *Math:* **derivation** — the slope plotted on two orthogonal axes the math supplies: *type* (omission → commission — a withheld wedge vs a wedge actively oriented against others) and *degree* (small → catastrophic — amplitude × continuity × scope); the small omission and the great atrocity differ by type and degree, not kind. *Science:* **— (not engaged)**. *Theology:* **concordance** — Scripture confirms the trajectory (James 1:14–15); the unified answer is one act, *catching* (orientation → reception → composition), taken most cheaply at the top of the slope.

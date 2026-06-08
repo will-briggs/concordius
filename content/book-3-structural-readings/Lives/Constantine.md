@@ -1,5 +1,7 @@
 # A Structural Reading of Constantine
 
+---
+
 *Constantine is read here as the most consequential and most ambiguous turning in the Host: the emperor who, before the battle at the Milvian Bridge, saw (or said he saw) a sign — "in this conquer" — fought under the cross, won, and turned the Roman Empire from the persecutor of the Church into its patron. The framework reads him as Cyrus magnified: power turned, for mixed motives and with mixed results, toward the grain — and it reads the mixture honestly.*
 
 ---

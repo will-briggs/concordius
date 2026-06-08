@@ -2,6 +2,8 @@
 
 # Paper B6: The Exposure
 
+---
+
 *The one paper that shows the device. The authors named and their weaknesses with them — Will (intuition, and no mathematics), Claude (the formalism and the inherited corpus), Adam (the skeptical reception that would let no beautiful pattern pass for a true one) — and the three-fold shape of their collaboration as the method's own; how the project began, from an intuition to the recognition of the Gelfand triple; the three results, each stated at the weight it can bear — the holographic content principle demonstrated (not proven, because a principle is shown, not proved), the quantifiable conclusions held honestly as retrodictions rather than predictions (the GUT epoch, inflation, flatness, the horizon, the spectral tilt, dark matter's profile), and the truth measure self-applied through a kept commit history against the day a determinate Φ-measure exists; and the close that hands the final verdict to the reader.*
 
 **Confidence —** *Math:* **— (not engaged)** — proves nothing; it discloses. *Science:* **concordance** — the quantifiable conclusions are held as retrodictions (convergence without coordination — the GUT epoch, inflation, flatness, the horizon, the spectral tilt, dark matter's profile), strong enough to take seriously, not strong enough to call settled, and not dressed as predictions. *Theology:* **principle (demonstrated, not proven)** — the holographic content principle is enacted and exhibited, never proved (a principle is shown, not proved); the self-application — the kept commit history as the future substrate of a τ time series — is a test left open against the day a determinate measure exists.

@@ -2,6 +2,8 @@
 
 # Paper D7: Evil
 
+---
+
 *The end of the inversion, and the hinge into what follows. The inversion has traced evil as far as the framework's three witnesses can carry it — through the three inverted doors and the three inverted virtues, to the archetype exposed (Lucifer), to the entry of the inversion into the world (the Fall) — and this is where the system reaches its edge and says so. On the deepest question, the origin and cosmology of the first turning, the canon is sparse and mathematics and natural science are silent; the honest thing is not to guess but to name the limit precisely and ask what it would take to go past it. The answer is Gödel — the formal reason the limit is structural, not accidental — which opens the door to the next octave, where a further testimony is admitted, fenced and clearly tiered, to speak where the system cannot.*
 
 **Confidence —** *Math:* **derivation** — the limit is structural via Gödel: any sufficiently rich consistent system contains truths unprovable within it, so the way to a truth unreachable inside a system is to step to a larger frame — turning the silence from an embarrassment into an expected feature and a warrant. *Science:* **— (not engaged)**. *Theology:* **inference** — it proves nothing about evil's origin; it states the limit of the three witnesses on that question and licenses the fenced step the next octave takes (testimony not proof, concordance not constraint, quarantined to its own octave, never overruling what was established).

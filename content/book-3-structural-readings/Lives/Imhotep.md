@@ -1,5 +1,7 @@
 # A Structural Reading of Imhotep
 
+---
+
 *Imhotep — architect of the Step Pyramid at Saqqara, physician, vizier to Djoser, and the first individual genius whose name history records — is read here for what his deification two thousand years after his death actually marks: the moment a civilization recognized that a single human mind could catch structure no one had caught before, and that the catching was worth remembering by name. Before Imhotep the makers are anonymous; with him the human story acquires an author.*
 
 ---

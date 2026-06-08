@@ -1,5 +1,7 @@
 # A Structural Reading of Cicero
 
+---
+
 *Cicero is read here through the shape of his life: the greatest orator of Rome, who spent himself defending the dying Republic against the men who would replace its law with their power, and who was killed for it — his hands, which had written the *Philippics* against Antony, and his head nailed up in the Forum. He is at once a witness to courage (the principle held to the cost) and the great *transmitter* through whom Greek philosophy entered the Latin West.*
 
 ---

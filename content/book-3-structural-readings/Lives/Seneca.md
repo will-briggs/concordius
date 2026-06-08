@@ -1,5 +1,7 @@
 # A Structural Reading of Seneca
 
+---
+
 *Seneca is read here through the tension his life embodies: the Stoic philosopher who wrote the age's most eloquent essays on the inner freedom that needs nothing external — while serving as tutor and minister to Nero, amassing one of Rome's great fortunes, and entangling himself in the compromises of absolute power, until the emperor he had served ordered him to open his veins. He is the witness to the *gap* between the catch and the life, named honestly.*
 
 ---

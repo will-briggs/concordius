@@ -5,6 +5,8 @@ tags: [aphorism, catching-program, abstention, Time, volitional-orientation]
 
 # "The Unexamined Life Is Not Worth Living"
 
+---
+
 *Socrates, Plato's* Apology *38a:* Ho de anexetastos bios ou biōtos anthrōpōi *— "The unexamined life is not worth living for a human being." Spoken at Socrates' trial, as his explanation for why he would accept death rather than exile from Athens under a condition of silence. The qualification "for a human being"* (anthrōpōi) *is structurally significant. No direct parallel formulation in other traditions, but the structural content — abstention from the catching program as the defining failure of a human life — is present in Confucian thought (the Junzi / superior person as one who examines and cultivates), Buddhist mindfulness practice (the examined mind as the prerequisite for liberation), and Islamic concepts of* tafakkur *(contemplation) and* muhāsaba *(self-examination as a religious obligation).*
 
 ---

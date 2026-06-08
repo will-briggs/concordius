@@ -2,6 +2,8 @@
 
 # Paper G6: The Best a Man Can Do on This Plane
 
+---
+
 *The summit of the ascending career as it is actually reached: humility — the complete integration, in which gratitude, charity, and ordered love are held as one, and with them the three lights (the mathematician's, the scientist's, the theologian's) fused into a single seeing. Not a ceiling admired from outside but a height climbed; the man who knows who he is and where he is going, least occupied with himself because the center he is organized around is not himself. And the cloud of those who reached it — Moses, Socrates, Confucius, Lao Tzu, the Buddha, Rumi, Francis, Thérèse, and Gurdjieff who first mapped the stairs — each by a different road and in his own tongue come to the same low place.*
 
 **Confidence —** *Math:* **inference** — the summit identified as the grade-3 pseudoscalar (humility = e₁e₂e₃, central, commuting with all, underlying every virtue), the densest in-flesh integration the substrate permits. *Science:* **concordance** — the cross-cultural record of the humble masters, independent observers of one state. *Theology:* **concordance** — humility as the form of completed sanctity; the meek who inherit, the least who are greatest.

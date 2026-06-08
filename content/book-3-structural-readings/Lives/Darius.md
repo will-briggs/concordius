@@ -1,5 +1,7 @@
 # A Structural Reading of Darius
 
+---
+
 *Darius the Great is read here not as a conqueror but as the *administrator* of empire: the king who took Cyrus's vast Persian realm and gave it a structure that could last — dividing it into satrapies with checked governors, building the Royal Road and a courier system, standardising coinage and weights, codifying law, and carving the trilingual Behistun inscription into a cliff to make his account legible across languages. He is the structural type of order maintained by administration rather than by force alone.*
 
 ---

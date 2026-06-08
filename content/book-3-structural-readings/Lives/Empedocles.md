@@ -1,5 +1,7 @@
 # A Structural Reading of Empedocles
 
+---
+
 *Empedocles of Acragas proposed that all things are made of four "roots" — earth, air, fire, water — mixed and separated by two opposed cosmic powers he named Love (*philia*) and Strife (*neikos*). The framework reads past the four-element chemistry to the two powers, which are an early and remarkably exact sighting of its own central pair: the principle that draws together into wholes, and the principle that divides — binding and inversion, ⟨·,·⟩ and its negation, named as the forces that run the cosmos.*
 
 ---

@@ -1,5 +1,7 @@
 # Euclid — The Elements
 
+---
+
 *The Elements is read here for the thing it invented and the tradition has never let go of: the **axiomatic method** — the demonstration that a vast, ordered body of necessary truth can be unfolded from a handful of definitions, postulates, and common notions by deduction alone. It is the first sustained working model of what the framework means by *derivation*, the highest of its confidence tiers, and it stood as visible proof, for two thousand years, that the mind can catch necessary structure and lay it out so that anyone may follow.*
 
 ---

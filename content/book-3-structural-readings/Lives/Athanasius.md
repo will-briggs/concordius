@@ -1,5 +1,7 @@
 # A Structural Reading of Athanasius
 
+---
+
 *Athanasius of Alexandria — *Athanasius contra mundum*, "against the world" — is read here for two things: his lifelong, five-times-exiled defence of the full divinity of Christ against the Arian view that the Son was a lesser, created being, and the formula in which he stated the point of the Incarnation: "God became man that man might become God." The first holds a load-bearing structure against enormous pressure; the second names the ascending career.*
 
 ---

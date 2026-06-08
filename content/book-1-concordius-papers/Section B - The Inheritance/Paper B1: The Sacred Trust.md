@@ -2,6 +2,8 @@
 
 # Paper B1: The Sacred Trust
 
+---
+
 *How the theologian's corpus came down — the books, and the concepts wrung from them with Logos chief among them — from the church's reception of the apostolic writings, through the councils (Nicaea settling the standing of the Word, not the list of books), to the four-and-more divided canons received today; Israel's prior stewardship of the Hebrew oracles belongs to the Old Testament (Paper A5). And the one thing laid upon that inheritance: the identification of the bare mathematical objects with the realities the tradition already named — Φ the Logos, ⟨·,·⟩ the Good and the Father and Love, τ the reader of the true — with the measure calibrated against the shared canon, and the second of the series' grants named in the open where it can be refused.*
 
 **Confidence —** *Math:* **— (not engaged)** — no new mathematics; the objects Φ, ⟨·,·⟩, τ are those built in [[Paper B0: The Proof]], here referenced and not re-derived. *Science:* **— (not engaged)** — no empirical claim; the transmission of the canon is recounted as received history, following standard scholarship. *Theology:* **concordance (granted)** — the one act is the identification of the bare mathematics with the realities the tradition received and named (Φ = the Logos, ⟨·,·⟩ = the Good, τ reads the true), with the measure calibrated against the shared canon; taken on the trust proper to a received thing — the second of the series' grants — not a derivation.

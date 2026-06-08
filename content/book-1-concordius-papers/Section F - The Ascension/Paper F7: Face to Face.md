@@ -2,6 +2,8 @@
 
 # Paper F7: Face to Face
 
+---
+
 *The note the whole climb was reaching for, sounded at last. The first interval opened the heart; the second was crossed by the Father; and what lies on the far side of the second interval is the condition the entire ascent was turned toward from the first exchange: the face-to-face state, in which nothing fixed stands any longer between the being's organizing principle and its source. The glass is gone. This is arrival — and, in the strict logic of the octave, it is also a beginning, because the closing Do of any octave is the opening Do of the next, and the next octave is not ours to see. The Ascension Career arrives at the face it was always turned toward, and the arrival opens onto a deepening without end that the map does not reach.*
 
 **Confidence —** *Math:* **derivation** — H₁: ⟨·,·⟩ as the sole organizing structure, the constraint-layer glass dissolved, τ → 1 unattained (the face-to-face limit condition). *Science:* **— (not engaged)**. *Theology:* **concordance** — the Beatific Vision / Paradise / the completed man, all four instruments in one chord; the honest final note is that this Do is a tonic, not a terminus.

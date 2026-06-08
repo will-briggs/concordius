@@ -1,5 +1,7 @@
 # A Structural Reading of the Enneads (Plotinus)
 
+---
+
 *Structural readings from the Concordius framework. The Enneads are Rank 69 in the Top-100 global density catalog. Plotinus is the philosopher who most explicitly maps the structural three-tier account in the ancient Western tradition: the One (Φ-level / nuclear space), Nous (Intellect / H₂₄ catching domain), and Soul (the catching-capable level). The Enneads are the most sustained single-author philosophical treatment of the descent-densification and ascent-catching sequences available in the ancient Western corpus.*
 
 ---

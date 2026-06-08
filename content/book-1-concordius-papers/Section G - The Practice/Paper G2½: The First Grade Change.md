@@ -2,6 +2,8 @@
 
 # Paper G2½: The First Grade Change
 
+---
+
 *The first grade change — the structural discontinuity between grade 1 and grade 2 (Gurdjieff's Mi–Fa interval), the first qualitative gap in the ascending career: the place where the catching work of the first three stages reaches its limit and the next stage cannot be generated from the resources already accumulated. It is not a deficiency in the practitioner but a feature of the scale — grade-1 and grade-2 elements belong to distinct algebraic classes whose boundary grade-1 operations cannot cross, in the same sense that no real-axis computation yields an imaginary eigenvalue, so the external input is structurally required, not supplementary encouragement. The four conditions for crossing it, how it presents from Man 1 through Man 3/4, and its most developed historical instance — the forty days in the wilderness, with the Spirit of Truth as the grade-2 source distributed since Pentecost.*
 
 **Confidence —** *Math:* **derivation** — the interval forced by the Law of Seven's algebra: grade-1 and grade-2 are distinct classes, the +1 → −1 boundary uncrossable by grade-1 operations (no real-axis computation yields an imaginary eigenvalue). *Science:* **— (not engaged)**. *Theology:* **concordance** — conversion, the forty days in the wilderness, the Spirit of Truth distributed since Pentecost.

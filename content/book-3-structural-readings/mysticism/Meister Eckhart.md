@@ -1,5 +1,7 @@
 # A Structural Reading of Meister Eckhart
 
+---
+
 *Meister Eckhart's mystical theology is the most structurally ambitious attempt in Western Christianity to name what the catching act reaches before it reaches it — to speak the framework's own distinctions in 14th-century German Dominican philosophical vocabulary, pressed to the limit by the logic of mystical experience itself. His condemnation is the institution's failure to contain what exceeded its categories; his survival as a theological presence is evidence that the content he carried could not be fully suppressed.*
 
 ---

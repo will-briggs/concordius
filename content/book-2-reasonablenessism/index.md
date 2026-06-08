@@ -6,6 +6,8 @@ tags:
 
 # Book 2 — Reasonablenessism
 
+---
+
 *A systematic account of the epistemological principles careful inquiry requires. The twelve features are each developed fully in their own files, in four registers. This document contains the framing, the feature index, and the working context.*
 
 ---

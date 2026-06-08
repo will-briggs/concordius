@@ -2,6 +2,8 @@
 
 # Paper B2: The Test
 
+---
+
 *The long inquiry into the natural world recounted as a received and provisional corpus — from the Presocratics' first question through Alhazen's method, the Copernican revolution, and the overturnings of relativity and the quantum, every instrument built on an answer to someone else's question; the one shape that keeps recurring across it — the whole present in the part, from the hologram and the genome to the cosmological holographic conjecture — offered as instance, not principle; and the honest status of the series' reading in the scientist's key: the third and frailest grant, a hypothesis under unfinished test, its constraint-cascade clause already issuing falsifiable predictions while the proximity measure still waits on a number.*
 
 **Confidence —** *Math:* **— (not engaged)** — no new mathematics. *Science:* **hypothesis** — the series' reading in the scientist's key is the third and frailest grant (that the structure is true of the world), held only as firmly as a hypothesis under unfinished test; its constraint-cascade clause already issues falsifiable quantitative predictions (built in [[Paper B4: The Prediction]]), while the proximity measure is not yet quantified (its method built in [[Paper B5: The Method]]); the history of natural inquiry (§§2–4) and the whole-in-part instances (§5) are recounted as standard scholarship and offered as concordance. *Theology:* **— (not engaged)** — the identifications are received in [[Paper B1: The Sacred Trust]] and the holographic content principle grounded in [[Paper B3: The Principle]]; neither is made here.

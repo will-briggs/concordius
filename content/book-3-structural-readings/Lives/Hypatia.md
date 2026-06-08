@@ -1,5 +1,7 @@
 # A Structural Reading of Hypatia
 
+---
+
 *Hypatia of Alexandria — mathematician, astronomer, and Neoplatonist philosopher, the most eminent scholar of her city — is read here for the manner of her death as much as her life: torn apart by a mob in 415, she became, and remains, the emblem of the catching mind destroyed by the inversion — learning, reason, and the patient reading of structure put out by fanaticism and the politics of the crowd.*
 
 ---

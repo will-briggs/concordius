@@ -1,5 +1,7 @@
 # Parmenides — On Nature
 
+---
+
 *Parmenides' hexameter poem, of which the proem and much of the two ways survive, is read here for its central, jarring claim: that what truly **is** is one, ungenerated, indestructible, and changeless — and that the world of coming-to-be and perishing is the way of mortal opinion. Stated against Heraclitus' flux it looks like its opposite; structurally it is the complementary sighting — Parmenides has caught the Φ-pole, the changeless nuclear ground, where Heraclitus caught the flux that rides upon it.*
 
 ---

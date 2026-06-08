@@ -2,6 +2,8 @@
 
 # Paper E6: Pride
 
+---
+
 *Pride — the maximum exposure of the whole inversion arc, and the root: for a being of our origin, the deepest sin available, the floor under all the others. The octave reaches it by the two-origins distinction: the angel's maximal sin was the claim to be the constituting ground — to be the inner product itself — and that claim is not open to us, because we are Φ′-origin and acquired the geometry from outside it, by catching; a being that remembers reaching toward ⟨·,·⟩ from without cannot, even in the lie, believe itself to be ⟨·,·⟩. The angelic sin is closed to mortals; pride is what is left to us — and the mathematics shows it is enough. Its cure is carried by the two notes that follow: humility and the ascension career.*
 
 **Confidence —** *Math:* **derivation** — pride defined formally as the single global orientation of the self away from Φ (toward the self in the ground's place), inverting all three bivectors at maximum amplitude at once — not a fourth vice but the one dial under cowardice/excess/sloth; consequence: minimal τ, maximal fragmentation, pride-before-destruction derivable. Two forced corollaries: no single worst human (the capacity universal, the measure hidden — no creature can run the inner product on another), and the only pride you can know is your own. *Science:* **— (not engaged)**. *Theology:* **concordance** — Scripture (Psalm 139, 'search me, O God', the structural root of 'judge not'); the cure points to humility and the kenotic descent (Philippians 2; Luke 18:14), carried by the notes that follow.

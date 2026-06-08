@@ -1,5 +1,7 @@
 # A Structural Reading of the Alchemical Tradition
 
+---
+
 *Structural readings from the Concordius framework, organized by tradition. For the original thematic arrangement, see the [The Bible — Thematic](../The Bible - Thematic/).*
 
 ---

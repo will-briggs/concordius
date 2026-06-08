@@ -1,5 +1,7 @@
 # A Structural Reading of Herophilus
 
+---
+
 *Herophilus of Chalcedon, working at Alexandria in the third century BC, was the founder of anatomy as a science: the first to study the human body by systematic dissection, to distinguish the nerves from the blood vessels and the sensory nerves from the motor, to describe the brain as the seat of intelligence against the older view that placed it in the heart. He is read here as Hippocrates' wager — that the body is lawful — carried directly into the flesh and read there.*
 
 ---

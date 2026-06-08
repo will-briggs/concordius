@@ -1,5 +1,7 @@
 # Boethius — The Consolation of Philosophy
 
+---
+
 *The Consolation of Philosophy, written by Boethius in prison as he awaited execution on a false charge, is read here for the structural argument with which Lady Philosophy talks a condemned man out of despair: that everything Fortune gives — wealth, office, fame, even life — was never truly his, never part of the self, and so its loss takes nothing real; while the good that *is* real, the alignment of the soul with the highest Good, no Fortune can touch. It is the distinction between the H₄₈ losable and the Φ-proximate unloseable, made at the edge of death.*
 
 ---

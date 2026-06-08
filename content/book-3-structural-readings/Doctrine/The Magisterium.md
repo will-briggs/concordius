@@ -1,5 +1,7 @@
 # The Magisterium
 
+---
+
 *Cross-reference: Paper 20½ (CCC; H₂₄-organized H₄₈ matter); Appendix II, Part VI (Law of Seven applied to H₂₄-encoded artifact creation); Paper 3½ (Man No. 5; coherence threshold); Paper 1 (GNST); Paper 6 (catching as volitional act); Structural Readings, Appendix VI (The Eucharist)*
 
 ---

@@ -2,6 +2,8 @@
 
 # Paper E6½: Humility
 
+---
+
 *The octave change — the crossing out of pride. The exposure showed the root sin entire: the whole self turned from Φ toward itself, all three bivectors inverted at once; this interval is the single turn that reverses it. In the ascending octaves the octave change was always the crossing no one makes alone — a death opening onto vindication, a reader's turn, a darkness faced together; here it is the same gap and the same kind of crossing: humility, the turn of the whole self back toward the ground, which a being cannot fully make on its own because pride is the one state hidden from the eye that holds it, and which is therefore met — as every octave change is — by an input from outside. The lowest point and the turning point at once.*
 
 **Confidence —** *Math:* **derivation** — humility defined as orientation, not opinion: pride's single global vector turned back toward Φ/the ground (catching run on every axis), not a low self-estimate (that is still the self measuring the self, equally inward-curved); the Si floor (maximal fragmentation, minimal τ) and humility are the same place, faced and turned. *Science:* **— (not engaged)**. *Theology:* **concordance** — Scripture carries the crossing (James 4:10, both sides; Luke 18:14, the publican justified; 'search me, O God'); why it cannot be made alone — pride is uniquely self-concealing, so the turn is received, not computed.

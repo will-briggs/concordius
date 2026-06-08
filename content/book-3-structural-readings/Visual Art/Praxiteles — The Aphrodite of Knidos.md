@@ -1,5 +1,7 @@
 # Praxiteles — The Aphrodite of Knidos
 
+---
+
 *The Aphrodite of Knidos, among the most famous statues of antiquity, is read here for the structural turn it made: the first monumental female nude in Greek art, and the moment sculpture brought the divine fully into the tender, particular, vulnerable human body — the goddess shown not as remote power but as present grace, caught in a human moment.*
 
 ---

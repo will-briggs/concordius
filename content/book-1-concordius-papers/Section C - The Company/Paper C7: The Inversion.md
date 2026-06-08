@@ -2,6 +2,8 @@
 
 # Paper C7: The Inversion — Do, in the Minor Key
 
+---
+
 *The one deliberate silence the Host of Witnesses kept, struck in the minor — the tyrants, the men left unsaid — now given a voice, not to seat the inverters among the witnesses but to study what they are, the Good and the True and the Beautiful turned against themselves. The governing claim of the descending octave that follows — evil as privation, not addition: the three generators turned, never a fourth — and its grammar: the will curved inward, the lie, the spectacle; pretext, propaganda, machinery; grievance and conquest. The key is minor by necessity; it does not stay there.*
 
 **Confidence —** *Math:* **derivation** — evil as privation, not addition (the three generators turned, never a fourth element) follows from the algebra: there is no fourth generator to add. *Science:* **— (not engaged)**. *Theology:* **concordance / inference** — the inversion grammar (the Good → the will curved inward; the True → the lie; the Beautiful → the spectacle) read against Isaiah 5:20, the anti-pattern set as the photographic negative of the personal series.

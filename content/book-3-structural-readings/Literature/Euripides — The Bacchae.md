@@ -1,5 +1,7 @@
 # Euripides — The Bacchae
 
+---
+
 *The Bacchae, Euripides' last and strangest play, is read here for its terrible structural lesson: that a real power denied does not disappear but returns to destroy the one who denied it. King Pentheus refuses to honour the god Dionysus — the force of ecstasy, intoxication, the dissolution of the rational self — and is torn apart by the god's worshippers, his own mother among them, in their frenzy. The play is among the ancient world's sharpest warnings against an order so rigid it refuses a genuine dimension of reality.*
 
 ---

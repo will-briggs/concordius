@@ -2,6 +2,8 @@
 
 # Paper A2½: The Constraint Cascade: Descent as Densification
 
+---
+
 *The constitutional algebra Cl(3,0) — forced, not chosen, by what the Trinity is — and its descent down the constraint hierarchy to the floor of the physical world: the Creative Choice, the formal definition of Love, and the experiential Deity; the cascade and its doubling, e₀² = −1 and the Lorentzian signature, the Dirac equation and E = mc², c as a structural output, the dimensional structure of the cosmos, and the Friedmann bridge; aging read as entropy and as the wage of the Choice, what a death sorts, and the reciprocal circuit that does not run down; and, at the last, all gathered into one.*
 
 **Confidence —** *Math:* **derivation** — Cl(3,0), the grade-topology theorem, the cascade and its two crossings, e₀² = −1 and the Lorentzian signature, the Dirac equation and E = mc², forced from Papers A0–A2. *Science:* **derivation** where the algebra fixes the physics, falling to **hypothesis** for c-variation and the Friedmann-bridge closure; the perceptual-access argument derived with less formal precision; the constants c, α, G deferred to Paper A4. *Theology:* **concordance** — the scriptural identifications and the two-books convergences; with one named **reach** (the constitutional step as the first kenotic act) and two open questions held (the named cosmic substances; whether c varies).*

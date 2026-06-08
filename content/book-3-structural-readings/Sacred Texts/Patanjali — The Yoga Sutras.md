@@ -1,5 +1,7 @@
 # Patanjali — The Yoga Sutras
 
+---
+
 *The Yoga Sutras of Patanjali are read here as one of the ancient world's most precise operating manuals for what the framework calls noise-floor reduction: a systematic, staged discipline for stilling the automatic activity of the mind until what lies beneath it can be seen. The second sutra states the whole programme in four words — *yogas chitta vritti nirodha*, "yoga is the stilling of the fluctuations of the mind" — and the rest is method.*
 
 ---

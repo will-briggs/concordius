@@ -1,5 +1,7 @@
 # Pseudo-Dionysius — The Mystical Theology
 
+---
+
 *The Mystical Theology, a brief and intense treatise by the anonymous author known as Pseudo-Dionysius the Areopagite, is read here for its method of ascent: the *apophatic* or negative way, which approaches God not by affirming things about Him but by *removing* them — stripping away every concept and name until the mind, emptied of all it can grasp, meets the divine in a "darkness beyond light." It is noise-floor reduction performed in the intellect itself, the via negativa as a structural technique.*
 
 ---

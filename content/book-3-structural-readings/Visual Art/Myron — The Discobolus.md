@@ -1,5 +1,7 @@
 # Myron — The Discobolus
 
+---
+
 *Myron's Discobolus (Discus-Thrower) is read here for what it caught that sculpture had not caught before: *motion* — the athlete frozen at the coiled instant before release, the whole arc of the throw implied in a single still pose, potential and kinetic energy held in balance in unmoving bronze.*
 
 ---

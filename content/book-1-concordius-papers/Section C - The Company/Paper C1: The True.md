@@ -2,6 +2,8 @@
 
 # Paper C1: The True — The Word, Read Three Ways
 
+---
+
 *The True — e₂, the Logos, the articulating principle through which what is becomes sayable and known — the second transcendental, the ground put into words. Three witnesses who could not have arranged their agreement, each arriving at the Logos by a road the others never walked: a North African bishop turning his whole life into an address to Truth (Augustine's Confessions); a Florentine exile mapping the entire ascent in verse (Dante); and a twentieth-century physicist astonished that mathematics fits the world at all (Wigner).
 
 **Confidence —** *Math:* **— (not engaged)** beyond naming the element — e₂ = Φ, the Logos, is taken from the algebra. *Science:* **— (not engaged)**. *Theology:* **concordance** — the reading (the True = the Logos / articulation principle, e₂ = Φ; native virtue charity, its inversion the lie) across three uncolludable witnesses (Feature 6), a further test of the holographic claim.

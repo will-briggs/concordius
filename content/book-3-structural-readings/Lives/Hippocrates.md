@@ -1,5 +1,7 @@
 # A Structural Reading of Hippocrates
 
+---
+
 *Hippocrates of Cos is read here for the founding wager of medicine that bears his name: that disease is not the arbitrary affliction of offended gods but a *natural process with natural causes*, observable, prognosable, and answerable to care. The sacred-disease treatise's flat refusal — epilepsy "is not, in my opinion, any more divine or more sacred than other diseases, but has a natural cause" — is the same catching-wager Thales made about the cosmos, brought down to the suffering body.*
 
 ---

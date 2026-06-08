@@ -5,6 +5,8 @@ tags: [aphorism, agape, inner-product, lateral-expression, H₄₈, symmetry]
 
 # "Do unto Others as You Would Have Them Do unto You"
 
+---
+
 *Matthew 7:12 (Jesus): "So whatever you wish that others would do to you, do also to them, for this is the Law and the Prophets." Hillel the Elder (Babylonian Talmud, Shabbat 31a, c. 1st century BCE): "What is hateful to you, do not do to your fellow. This is the whole Torah; the rest is the explanation — go and learn it." Confucius (Analects 15:24, c. 5th century BCE):* 己所不欲，勿施於人 *— "What you do not want done to yourself, do not do to others." Islamic hadith (attributed to the Prophet, c. 7th century CE): "None of you truly believes until he wishes for his brother what he wishes for himself." Hindu Mahabharata (12:113): "This is the sum of duty: do not do to others what would cause pain if done to you." Jain, Buddhist, Zoroastrian formulations also independently attested. No common textual derivation.*
 
 ---

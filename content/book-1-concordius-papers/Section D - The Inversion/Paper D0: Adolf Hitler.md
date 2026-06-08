@@ -2,6 +2,8 @@
 
 # Paper D0: Adolf Hitler: The Complete Inversion of the Good
 
+---
+
 *Adolf Hitler read as the complete inversion of the Good — e₁, the inner product, the worth of what is — not a man who did evil among goods but a life organized, to its root, around the negation of the Good: the descending octave carried to the floor. His life set out as a seven-note octave with its two shocks, the exact photographic negative of Joan's, every sign reversed — the negative that proves the pattern by showing its absence. A study of evil in order to refuse it, seating him nowhere among the witnesses; the silence the Host of Witnesses kept on him, examined. The victims, not the perpetrator, are the moral center of every note; nothing is softened.*
 
 **Confidence —** *Math:* **derivation** — the inversion is privation, not addition: the Good (e₁) turned, never a fourth element added; the will curved wholly inward (incurvatus in se), the truth measure driven toward τ → 0. *Science:* **— (not engaged)** — the history is held as history, per standard scholarship; the dates and facts follow the conventional record. *Theology:* **concordance** — the octave-structuring of the life and its identification as the inverted moral tonic (the photographic negative of Joan) is the reading; the victims are the moral center, the perpetrator the object of study, never of sympathy.

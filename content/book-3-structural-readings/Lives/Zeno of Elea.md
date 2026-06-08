@@ -1,5 +1,7 @@
 # A Structural Reading of Zeno of Elea
 
+---
+
 *Zeno of Elea, the pupil of Parmenides, defended his master's claim that reality is one and unchanging by attacking its opposite — devising the famous paradoxes (Achilles and the tortoise, the arrow at rest at every instant, the impossibility of crossing a stadium) to show that *motion and plurality*, taken as ultimately real, lead to contradiction. He is read here as the first master of a structural tool the corpus values: the reductio, the argument that tests a claim by following it to absurdity.*
 
 ---

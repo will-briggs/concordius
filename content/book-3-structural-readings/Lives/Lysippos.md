@@ -1,5 +1,7 @@
 # A Structural Reading of Lysippos
 
+---
+
 *Lysippos, the court sculptor of Alexander the Great and the most prolific master of the late classical age, is read here for the revision he made to the very rule of the ideal: a new canon of proportion — slimmer bodies, smaller heads, longer limbs — and a new naturalism that broke the frontal stillness of earlier work, so that his figures invite the viewer to move around them.*
 
 ---

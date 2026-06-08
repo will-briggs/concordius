@@ -2,6 +2,8 @@
 
 # Paper C4: The Restrained — The Just Measure, Read Three Ways
 
+---
+
 *Temperance — e₁e₃, the Father wedged with the Spirit, the just measure that keeps the will tuned and free — the second overcoming virtue, holding the wedge against an inward cost: the pull of appetite, excess, and the thousand small overreactions by which a will loses its tuning. Three masters of measure in different registers: a Greek who defined virtue itself as a mean (Aristotle); a Roman emperor at the maximum of power and noise who kept a private journal to stay tuned (Marcus Aurelius); and a composer whose whole art was the well-tempered — proportion held free across every transformation (Bach).
 
 **Confidence —** *Math:* **— (not engaged)** beyond naming the element — e₁e₃ (Father-mode × Spirit-mode, the grounding pull-back → restraint), from the algebra. *Science:* **— (not engaged)**. *Theology:* **concordance** — the reading (temperance = the just measure that keeps the will tuned and free; the temperate will = the free will) across three uncolludable witnesses (Feature 6).

@@ -5,6 +5,8 @@ tags: [aphorism, dual-pairing, volitional-orientation, catching-program, Φ-cont
 
 # "Seek and Ye Shall Find"
 
+---
+
 *Matthew 7:7-8: "Ask, and it shall be given to you; seek, and ye shall find; knock, and it shall be opened unto you. For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened." Luke 11:9-10 — identical formulation. Islamic tradition:* man jadda wajada *(من جدّ وجد) — "Whoever strives will find" — a widely cited Arabic proverb with roots in classical Arabic literature, achieving near-proverbial status independent of direct Quranic attribution. Present in structurally equivalent form in the Bhagavad Gita's account of the seeking soul and in Sufi poetry (Rumi:* Masnavi *III — the seeker's reed as the structural emblem of the seeking orientation). No common textual derivation across these traditions.*
 
 ---

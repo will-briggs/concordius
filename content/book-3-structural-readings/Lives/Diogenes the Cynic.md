@@ -1,5 +1,7 @@
 # A Structural Reading of Diogenes the Cynic
 
+---
+
 *Diogenes of Sinope made his life an argument: that almost everything the H₄₈ world calls necessary — property, reputation, comfort, custom — is noise, and that a human being who strips it away is not impoverished but freed. Living in a clay jar, owning a cloak and a bowl (and discarding the bowl when he saw a child drink from cupped hands), he is the ancient world's most extreme demonstration of noise-floor reduction performed in public, as provocation.*
 
 ---

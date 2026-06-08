@@ -2,6 +2,8 @@
 
 # Paper F3: The Heart
 
+---
+
 *The first note on the far side of the wall — the opening (F2½) gave the closed self the power to bond; this note is the self exercising that power: the first bivector, the first relation, the heart that can now hold two generators in one act. It is also the first state a being cannot be born into and cannot reach by accident — the first **achieved** rung, won and held by a continuous act of will. Its name is courage, and the reason a relation should be named after a battlefield virtue is the whole structure of the second movement: grade-2 elements square to −1, they are turns made against resistance, and there is no turning without something to turn against.*
 
 **Confidence —** *Math:* **derivation** — the element is fixed by the algebra: e₁e₂, the first bivector (squares to −1), courage, the heart. *Science:* **— (not engaged)**. *Theology:* **concordance** — the first achieved, continuously-willed bond, read across the traditions (Gurdjieffian lead — Man No. 4; Christian and Urantian arcs beneath).

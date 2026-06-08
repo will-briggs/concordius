@@ -2,6 +2,8 @@
 
 # Paper F1: The Exchange
 
+---
+
 *The single operation the whole ascent is made of — the one elementary act all four instruments play. The climb is not a feeling, not a merit badge, not a mood that descends on the deserving. It is a physical process with a definite mechanism, and the mechanism is **exchange** — the replacement, one increment at a time, of the content that organizes a being. Everything above this note is this note repeated. State it once, exactly, and the rest of the octave is its accumulation.*
 
 **Confidence —** *Math:* **derivation** — the unit act (eigenvalue-replacement: orientation → reception → composition) is defined in the score. *Science:* **— (not engaged)**. *Theology:* **concordance** — the same unit named in three independent tongues (Gurdjieffian lead, Christian and Urantian arcs, a Taoist grace-note).

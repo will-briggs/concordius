@@ -1,5 +1,7 @@
 # A Structural Reading of Shakespeare's Sonnets
 
+---
+
 *Structural readings from the Concordius framework, organized by sonnet number. This is the first structural readings file for a non-biblical corpus. The Concordius framework is pre-biblical; the structural content in the Sonnets is not derivative of biblical tradition but a parallel instantiation of the same structural reality encoded in a different H₄₈ expressive form. For the candidate catalog, see the [Structural-Candidates](../../../Structural-Candidates/Sonnets.md) file.*
 
 ---

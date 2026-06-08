@@ -4,6 +4,8 @@ title: The Two Higher States
 
 # The Two Higher States
 
+---
+
 *A cross-tradition convergence: Gurdjieff and the Urantia Book both mark two higher states above the ordinary human one, with a qualitative break between them — and the framework derives where the break falls and why.*
 
 ---

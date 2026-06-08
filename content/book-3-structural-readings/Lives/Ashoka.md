@@ -1,5 +1,7 @@
 # A Structural Reading of Ashoka
 
+---
+
 *Ashoka — the Mauryan emperor who conquered Kalinga, was sickened by the slaughter he had caused, and turned the remainder of his reign toward *dhamma*, non-violence, and the welfare of his subjects — is read here as one of history's clearest recorded turnings: a man at the summit of worldly power who looked at what his power had done and reversed the orientation of his life. The edicts he carved in rock across his empire are the public record of a first grade change in a single soul, made law.*
 
 ---

@@ -1,5 +1,7 @@
 # A Structural Reading of Zeno of Citium
 
+---
+
 *Zeno of Citium, founder of the Stoa, taught that the cosmos is ordered through and through by a divine rational principle — the *logos* — and that the good life is to live "according to nature," in conscious agreement with that order, mastering one's judgements about what is and is not in one's power. He is read here as the source of the most structurally exact of the ancient schools: the one that named a cosmic logos and made alignment with it the whole of ethics.*
 
 ---

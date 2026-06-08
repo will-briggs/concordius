@@ -1,5 +1,7 @@
 # The Lucifer Rebellion: A Structural Reading
 
+---
+
 *Cross-reference: Paper 13½, OQ8 (overdeterminate condition; phenomenology of the rebellion's early stages for surrounding beings); Paper 4, §6 (terminal direction of descent; structural permanence and its violation); Paper 2, §14 (El Shaddai / God in the mode of indeterminacy; Φ′); Christian Doctrine/Auras and the Luminous Field (H₂₄-interface perception; transparency through love; Luciferian opacity); Revelation.md (war in heaven; the dragon's organizational structure; the accuser cast down)*
 
 ---

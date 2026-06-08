@@ -2,6 +2,8 @@
 
 # Paper F2: The Ceiling
 
+---
+
 *The exchange of [[Paper F1: The Exchange|F1]], repeated and sustained, builds a real self: the three generators developed, the natural man brought to his full height. And then it stops. Not for lack of effort — the effort is precisely what has been spent — but because the structure the effort builds has a ceiling that the effort cannot pass, and the ceiling is not a discouragement but a theorem. This note is the most a being can become by its own grade-1 means, and the discovery, made from inside that completeness, that completeness is not enough. The Mi is where the climb, on its own momentum, stalls.*
 
 **Confidence —** *Math:* **derivation** — the ceiling is an algebraic fact: no real-axis grade-1 content composes the −1 grade-2 element. *Science:* **— (not engaged)**. *Theology:* **concordance** — the developed self's discovery of its own insufficiency, read across the traditions (intellectual/philosophical lead; Christian and Gurdjieffian arcs; Urantian beneath).

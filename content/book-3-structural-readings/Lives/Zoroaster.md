@@ -1,5 +1,7 @@
 # A Structural Reading of Zoroaster
 
+---
+
 *Zarathustra — Zoroaster — taught, somewhere in the Iranian Bronze or early Iron Age, that reality is the arena of a real choice between a principle of truth and order (*asha*) and a principle of the lie and disorder (*druj*), and that each person's life is a contested vote in that struggle. It is among the earliest sustained statements of the moral structure the framework places at the centre of the human station: that the cosmos is oriented, that there is an inversion opposed to that orientation, and that the will must choose.*
 
 ---

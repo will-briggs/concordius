@@ -1,5 +1,7 @@
 # A Structural Reading of The Cloud of Unknowing
 
+---
+
 *The Cloud of Unknowing is the most structurally precise account in Western mysticism of a specific developmental threshold: the Man 3 approaching the Si/Do structure, the framework terminus at which the intellectual center's map runs out and the work must change its character entirely. It is written for one person at one moment, and this specificity is not a limitation but the text's essential precision — catching work is eigenvalue-population-specific, and what is true for this threshold is wrong for any other.*
 
 ---

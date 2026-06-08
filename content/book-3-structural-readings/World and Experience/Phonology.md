@@ -7,6 +7,8 @@ tags:
 
 # Phonology — The Divine Names
 
+---
+
 *A Structural Reading*
 
 *Confidence tier: mixed. The phonological observation is established. The cross-linguistic convergence is established. The framework application is [Speculative].*

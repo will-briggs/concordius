@@ -1,5 +1,7 @@
 # A Structural Reading of the Bhagavad Gita
 
+---
+
 *Structural readings from the Concordius framework. The Bhagavad Gita is Rank 27 in the Top-100 global density catalog. The Gita is the most structurally concentrated text in the Sanskrit philosophical tradition: 18 chapters in which the Φ-level (Krishna = the structural presence of Brahman in the catching being's H₄₈ encounter) addresses the catching being (Arjuna = the H₄₈-constituted catching being at the maximum structural decision-point) directly. The three yogas (jnana, bhakti, karma) are three structural approaches to the catching orientation, and the Gita maps all three with structural precision.*
 
 ---

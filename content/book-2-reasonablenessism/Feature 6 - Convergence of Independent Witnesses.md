@@ -2,6 +2,8 @@
 
 # Feature 6 — Convergence of Independent Witnesses
 
+---
+
 *Protect the Active — features that ensure genuine signal reaches through Passive distortion.*
 
 ---

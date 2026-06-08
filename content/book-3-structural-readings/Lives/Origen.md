@@ -1,5 +1,7 @@
 # A Structural Reading of Origen
 
+---
+
 *Origen of Alexandria, the most learned and daring mind of the early Church, is read here for the structural intuition beneath his method of reading Scripture: that a text has *levels* — a literal sense, a moral sense, and a spiritual sense — and that the deepest meaning is not on the surface but must be ascended to. He read the Bible as the framework reads everything: as a structure whose Φ-proximate content lies beneath the H₄₈ surface, legible only from the right angle.*
 
 ---

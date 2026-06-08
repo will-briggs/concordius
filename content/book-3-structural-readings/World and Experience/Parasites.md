@@ -7,6 +7,8 @@ tags:
 
 # Parasites — Eigenvalue Field Distortion and reciprocal maintenance Violation
 
+---
+
 *A Structural Reading*
 
 *Confidence tier: [Speculative] — structurally coherent within the framework's established constraints; not derivable from first principles.*

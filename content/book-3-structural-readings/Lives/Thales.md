@@ -1,5 +1,7 @@
 # A Structural Reading of Thales
 
+---
+
 *Thales of Miletus is remembered as the first of the philosophers because he was the first on record to answer the question "what is everything made of?" with a *single natural principle* — water — rather than a story of the gods. The answer is wrong; the move is the founding one. To seek one underlying *arche* beneath the visible many is to bet that reality has a unified structure the mind can reach, and that bet is the whole of what the framework calls catching the ground.*
 
 ---

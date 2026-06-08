@@ -1,5 +1,7 @@
 # Sophocles — Antigone
 
+---
+
 *Antigone is read here for the collision at its centre: a conflict not between right and wrong but between two goods — the written law of the city (Creon's edict) and an unwritten, older law (Antigone's duty to bury her brother) — pressed until both destroy what they love. The play is among the clearest dramatisations in the ancient world of the framework's claim that there is a higher ordering to which even legitimate lower order must answer.*
 
 ---

@@ -1,5 +1,7 @@
 # A Structural Reading of Theophrastus
 
+---
+
 *Theophrastus, Aristotle's pupil and successor as head of the Lyceum, is read here for the extension of the ordering, cataloguing mind into two new domains: he founded botany, the systematic study of plants, and he wrote the Characters, a set of sketches of human types — the same classifying intelligence turned first on the living world and then on the varieties of human nature.*
 
 ---

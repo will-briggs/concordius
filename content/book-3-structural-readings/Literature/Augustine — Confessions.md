@@ -7,6 +7,8 @@ tags:
 
 # Confessions — Augustine of Hippo (397–400)
 
+---
+
 *A Structural Reading*
 
 ---

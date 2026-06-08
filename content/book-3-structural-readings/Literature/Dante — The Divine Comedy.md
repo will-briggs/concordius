@@ -7,6 +7,8 @@ tags:
 
 # The Divine Comedy — Dante Alighieri (1320)
 
+---
+
 *A Structural Reading*
 
 ---

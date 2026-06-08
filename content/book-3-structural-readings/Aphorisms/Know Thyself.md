@@ -5,6 +5,8 @@ tags: [aphorism, catching-program, H₂₄-H₄₈-distinction, self-recognition
 
 # "Know Thyself"
 
+---
+
 *Gnōthi seauton* — Delphic oracle; one of three maxims inscribed at the Temple of Apollo at Delphi. Attributed variously to Thales, Solon, Chilon of Sparta. Made the foundation of Socratic philosophy (Plato's *Apology*, *Phaedrus*, *Alcibiades I*). Present in structurally equivalent form in the Upanishadic *tat tvam asi* ("that thou art"), Plotinus' *Enneads* I.6, and the Sufi tradition of *ma'rifat al-nafs* (self-knowledge as prerequisite for knowledge of God). No common textual derivation across these traditions.*
 
 ---

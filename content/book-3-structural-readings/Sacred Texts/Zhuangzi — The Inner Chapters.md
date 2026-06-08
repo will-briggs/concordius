@@ -1,5 +1,7 @@
 # Zhuangzi — The Inner Chapters
 
+---
+
 *The Inner Chapters of the Zhuangzi, the second great text of philosophical Taoism after the Tao Te Ching, are read here for the freedom they teach: a way of holding the self lightly enough that it can move *with* the Tao — the spontaneous order of things — rather than forcing itself against it. Where the Tao Te Ching states the Way, Zhuangzi *plays* in it, in parables of butterflies and butchers and useless trees, teaching the release of the grasping self.*
 
 ---

@@ -1,5 +1,7 @@
 # A Structural Reading of Antony of the Desert
 
+---
+
 *Antony of Egypt, who sold all he had and went alone into the desert to seek God, is read here as the founder of monasticism and the archetype of a structural strategy: the *deliberate withdrawal* from the H₄₈ world of property, status, and distraction into a stripped environment built for one purpose — the direct, sustained, undefended encounter with the noise floor of one's own self.*
 
 ---

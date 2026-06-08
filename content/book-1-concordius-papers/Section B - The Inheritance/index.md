@@ -6,6 +6,8 @@ tags:
 
 # Section B — The Inheritance
 
+---
+
 *Papers B0–B7: The inherited line of mathematics to the Gelfand triple and the truth measure τ built within it; how the theological canon came down, the Logos chief among the concepts wrung from it; the natural-world inquiry as a received, provisional corpus, from the Presocratics to modern physics; the hinge where none of the three inherited grounds reaches a bottom, the gap every knower already crosses; the calibration of the measure against two anchors, the decision procedure, the Filioque worked once, the holographic content principle, and the octave defined; the predictions the cascade and the triple make that physics has not yet confirmed; the truth measure operationalized for language, calibrated on the canon; the one paper that shows the device, its authors named with their weaknesses; the single line only the reader can perform; and the founding question sounded again through one person, Plato, the method and the framework resumed.*
 
 ---

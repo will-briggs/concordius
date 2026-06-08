@@ -1,5 +1,7 @@
 # Appendix I — Dictionary of Terms
 
+---
+
 *A Reader's Guide to the Concordius Series*
 
 ---

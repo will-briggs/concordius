@@ -1,5 +1,7 @@
 # A Structural Reading of the Hermetic Corpus
 
+---
+
 *The Hermetic Corpus is the most explicit ancient account of the constraint cascade as a soul's traversal — descent through accumulating constraints, ascent through progressive shedding — preserved in a single coherent narrative framework and attributed to a single divine authority: Hermes Trismegistus, "Thrice-Greatest Hermes."*
 
 ---

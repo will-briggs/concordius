@@ -2,6 +2,8 @@
 
 # Paper F4: The Crystallization
 
+---
+
 *The first boundary in the whole ascent that is not a matter of degree. Every note so far has been development: more catching, a higher self, a stronger bond. This note is a **phase change**. The held thing sets. The deposit that was sustained by continuous effort crosses a threshold past which it no longer needs to be held, because it has become what the being is — and on the far side of that threshold the being will survive the dissolution of its body. This is the first ontological line in the climb, not just a developmental one: below it, a self that must be maintained; above it, a self that persists. The water becomes ice, and ice does not have to be remembered into staying ice.*
 
 **Confidence —** *Math:* **inference** — the coherence threshold modeled as a phase transition (the deposit setting into self-coherence); the element e₁e₃ (temperance) from the algebra. *Science:* **— (not engaged)**. *Theology:* **concordance** — the unitive crossing into the unlosable, reported in exact phenomenological detail (Christian-mystical lead; Gurdjieff the substance that sets; Urantia the destination secured).

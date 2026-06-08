@@ -2,6 +2,8 @@
 
 # Feature 3 — Personal Experience as Testimony
 
+---
+
 *Discipline the Passive — features that train the evaluating mind to receive properly.*
 
 ---

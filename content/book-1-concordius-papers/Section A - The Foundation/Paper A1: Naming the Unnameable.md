@@ -2,6 +2,8 @@
 
 # Paper A1: Naming the Unnameable: From the Cogito to the Logos
 
+---
+
 *The cogito, and the naming of the Trinity that follows from it: the Father as the inner product ⟨·,·⟩, the Son as the nuclear space Φ — the Logos — the Spirit as the nuclear topology, and the rest of the eight domains, closing on ⟨·,·⟩ = Love. Then the Hebrew Divine Names laid against the structures they fall on — YHWH, Elohim, El Shaddai, El Roi, Ruach Elohim — with the fuller rolls of the names of the Son and of the Spirit.*
 
 **Confidence —** *Math:* **— (not engaged)** — no new mathematics; the objects are [[Paper A0: Modeling Reality as a Gelfand Triple|A0]]'s. *Science:* **— (not engaged)**. *Theology:* **concordance** — the Trinity identifications (Father = ⟨·,·⟩, Son = Φ the Logos, Spirit = the nuclear topology, closing on ⟨·,·⟩ = Love), granted not proven, laid against the Hebrew Divine Names.

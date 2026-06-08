@@ -2,6 +2,8 @@
 
 # Paper D3: The Holocaust: The Inversion of Bravery
 
+---
+
 *The Holocaust read as the exact inversion of courage — e₁e₂, the first bivector, Joan's principle-held-to-the-fire reversed — set out, like any subject, as a structured descending octave, note by note and dated, with its two interval-shocks at their proper places. The discipline of those shocks is the point: where the ascending octave receives at each gap an input from outside that lifts it — grace — this descent received at each gap an input from the world that deepened it instead. Those two inputs were the world's: refuge refused, then rescue withheld — the heart of why this is the inversion of bravery. The six million, and the millions of others, are the moral center of every line.*
 
 **Confidence —** *Math:* **derivation** — the inversion as privation (courage, e₁e₂, turned; never a fourth element); the two external inputs identified as the inverted first grade change and octave changes. *Science:* **— (not engaged)** — the history is held as history, per standard scholarship, with dates. *Theology:* **concordance** — the octave-structuring of the event and the reading of the two world-inputs (refuge refused; rescue withheld) as the inverted shocks; the victims, resisters, and rescuers named with reverence, the perpetration the object of study, never of fascination.

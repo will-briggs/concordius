@@ -1,5 +1,7 @@
 # Valmiki — The Ramayana
 
+---
+
 *The Ramayana, attributed to the sage Valmiki and called the *adikavya*, the first poem, is read here for the structural shape it fixed for the Indian world and much of Asia: the story of Rama as the pattern of *dharma* embodied — right order held to through exile, loss, and temptation — set against Ravana, the immensely gifted being whose gifts are turned by pride into the engine of his ruin. It is, like Homer's epics, a founding study of order kept and order inverted.*
 
 ---

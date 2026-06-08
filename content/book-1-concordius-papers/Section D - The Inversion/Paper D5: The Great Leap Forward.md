@@ -2,6 +2,8 @@
 
 # Paper D5: The Great Leap Forward: The Inversion of Diligence
 
+---
+
 *The Great Leap Forward — Mao's signature catastrophe — read as the exact inversion of diligence (e₂e₃, Franklin's honest fruitful work reversed), set out as a dated descending octave, note by note, with its two interval-shocks at their positions. Where the ascending octave receives grace from outside at its two gaps, this descent received at each gap an input that could have grounded it in reality and instead drove it further from the real — first the competition that raised the dream past the ground, then the door the regime shut on the world's help once the dream had become a famine, to protect its face. The tens of millions who starved are the moral center of every line.*
 
 **Confidence —** *Math:* **derivation** — the inversion as privation (diligence, e₂e₃, turned; never a fourth element); the two external inputs identified as the inverted shocks. *Science:* **— (not engaged)** — the history is held as history, per standard scholarship; the famine given in the sober ranges the scholarship supports — by broad consensus the deadliest in recorded history. *Theology:* **concordance** — the octave-structuring of the event and the reading of the two world-inputs (inflation, then the door shut on help) as the inverted shocks; the honest reckoners who counted the dead honored.

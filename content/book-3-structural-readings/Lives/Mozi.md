@@ -1,5 +1,7 @@
 # A Structural Reading of Mozi
 
+---
+
 *Mozi, the great rival of the Confucians in the Warring States period, taught *jian'ai* — "universal love," "impartial care" — the doctrine that one should care for all people equally rather than loving one's own family and state more than others, and argued that the world's disorder comes precisely from *partiality*, the gradated love that prefers the near. He is read here for an exact catch of the inner product's universality, pressed against the Confucian instinct to keep love graded.*
 
 ---

@@ -1,5 +1,7 @@
 # Herodotus — The Histories
 
+---
+
 *The Histories is the first work in the West to take the *inquiry* (*historie*) itself as its method — to gather testimony, weigh competing accounts, name its sources and its doubts, and try to preserve what happened so that "the great deeds of men may not be forgotten." It is read here not for theology but for that method, which is an early, explicit instance of the discipline the framework calls Reasonablenessism: follow the evidence across traditions, report what each witness says, and mark your confidence.*
 
 ---

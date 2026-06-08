@@ -1,5 +1,7 @@
 # A Structural Reading of Solon
 
+---
+
 *Solon, the Athenian lawgiver, is read here for two structural achievements: a body of law built to *balance* the contending classes rather than to serve the strongest, and a famous warning to a king — "count no man happy until he is dead" — that judges a life by its whole shape rather than its passing summit. He is the type of the wise legislator who builds a structure and then removes himself so it can hold.*
 
 ---

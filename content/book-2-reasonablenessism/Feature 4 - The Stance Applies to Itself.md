@@ -2,6 +2,8 @@
 
 # Feature 4 — The Stance Applies to Itself
 
+---
+
 *Discipline the Passive — features that train the evaluating mind to receive properly.*
 
 ---

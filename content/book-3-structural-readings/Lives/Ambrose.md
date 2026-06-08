@@ -1,5 +1,7 @@
 # A Structural Reading of Ambrose
 
+---
+
 *Ambrose of Milan is read here for the moment he made an emperor kneel: when Theodosius ordered a massacre at Thessalonica, Ambrose barred him from communion until he did public penance — and the emperor submitted. It is one of history's clearest assertions that there is an order *above* the state to which even the most powerful must answer, the unwritten law of Antigone made institutional fact.*
 
 ---

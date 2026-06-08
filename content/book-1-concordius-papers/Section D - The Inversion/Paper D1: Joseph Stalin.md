@@ -2,6 +2,8 @@
 
 # Paper D1: Joseph Stalin: The Complete Inversion of the True
 
+---
+
 *Joseph Stalin read as the complete inversion of the True — e₂, the Logos, the Word received — the man who set the Party in the place of the Word and made it the measure of what is true, so that truth became whatever the Party decreed and reality itself was overruled by authority: confession inverted, the search for the real abolished by decree. His life set out as a seven-note descending octave with its two shocks, the photographic negative of Augustine. A study of the lie in order to refuse it, seating him nowhere among the witnesses. The victims — the starved, the purged, the confessed-against — are the moral center of every note; the perpetrator the object of study, never of sympathy.*
 
 **Confidence —** *Math:* **derivation** — the inversion is privation, not addition: the True (e₂) turned, truth-by-decree displacing truth-by-correspondence, the measure made self-referential so τ collapses; never a fourth element added. *Science:* **— (not engaged)** — the history is held as history, per standard scholarship; the death tolls are given in the sober ranges the opened archives support. *Theology:* **concordance** — the octave-structuring of the life and its identification as the inverted True (the photographic negative of Augustine; confession inverted) is the reading; the victims are the moral center, the perpetrator the object of study, never of sympathy.
