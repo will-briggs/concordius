@@ -9,8 +9,8 @@ This paper argues that modeling reality as a rigged [[Appendix I - Dictionary of
 ---
 
 <figure>
-<img src="/static/images/raphael-school-of-athens.jpg" alt="The School of Athens" style="max-width:100%;">
-<figcaption><em>Raphael, The School of Athens</em> (1509–11). Apostolic Palace, Vatican. Plato gestures toward the Forms; Aristotle toward the particular. The framework resolves the dispute from a common structural ground — the inner product from which both the universal and the particular necessarily emerge.</figcaption>
+<img src="/static/images/hilbert-1912.jpg" alt="Portrait of David Hilbert, 1912" style="max-width:100%;">
+<figcaption><em>David Hilbert</em> (1912). The Hilbert space — the H that bears his name — is the middle term of the Gelfand triple Φ ⊂ H ⊂ Φ′; the framework reads it as the domain of created reality: the complete, structured states between the nuclear source Φ and its distributional dual Φ′.</figcaption>
 </figure>
 
 <hr>

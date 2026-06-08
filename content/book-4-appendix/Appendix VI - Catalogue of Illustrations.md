@@ -19,7 +19,7 @@ title: Appendix VI - Catalogue of Illustrations
 - *Masaccio, The Trinity* (c. 1427–28) &nbsp;·&nbsp; `masaccio-trinity.jpg`
 
 **Paper A0: Modeling Reality as a Gelfand Triple**
-- *Raphael, The School of Athens* (1509–11) &nbsp;·&nbsp; `raphael-school-of-athens.jpg`
+- *David Hilbert* (1912) &nbsp;·&nbsp; `hilbert-1912.jpg`
 
 **Paper A1: From the Cogito to the Logos**
 - *Antonello da Messina, St. Jerome in His Study* (c. 1474–75) &nbsp;·&nbsp; `antonello-jerome-study.jpg`

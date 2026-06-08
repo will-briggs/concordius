@@ -268,6 +268,10 @@ dl rembrandt-philosopher-meditation.jpg \
   "https://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt_-_The_Philosopher_in_Meditation.jpg?width=1400" \
   "Paper 7: Rembrandt - The Philosopher in Meditation (1632)"
 
+dl hilbert-1912.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Hilbert.jpg?width=1400" \
+  "Paper A0: David Hilbert (1912) - public-domain portrait"
+
 for f in \
   antonello-jerome-study.jpg \
   masaccio-trinity.jpg ladder-of-divine-ascent.jpg \
@@ -282,7 +286,7 @@ for f in \
   rembrandt-two-old-men-disputing.jpg holbein-the-ambassadors.jpg \
   friedrich-monk-by-the-sea.jpg \
   feature-01-vermeer-balance.jpg feature-02-forge-of-vulcan.jpg feature-03-incredulity-of-thomas.jpg feature-04-las-meninas.jpg feature-05-moneylender.jpg feature-06-pentecost.jpg feature-07-ouroboros.png feature-08-air-pump.jpg feature-09-great-chain-of-being.png feature-10-carta-marina.jpg feature-11-william-of-ockham.jpg feature-12-basket-of-fruit.jpg \
-  trouvelot-orion-nebula.jpg geertgen-nativity-night.jpg rembrandt-philosopher-meditation.jpg; do
+  trouvelot-orion-nebula.jpg geertgen-nativity-night.jpg rembrandt-philosopher-meditation.jpg hilbert-1912.jpg; do
   check_image "$f"
 done
 
