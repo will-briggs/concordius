@@ -1,4 +1,4 @@
-*← [[Paper G7: The First Note|Paper G7: The First Note]]*
+*← [[Paper G7: Full Integration|Paper G7: Full Integration]]*
 
 # Postscript
 

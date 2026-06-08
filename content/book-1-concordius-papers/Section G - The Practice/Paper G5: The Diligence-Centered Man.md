@@ -130,4 +130,4 @@ This paper has described Man 6 as the state in which both higher centers are sub
 
 ---
 
-*[[Paper G5½: The Octave Change|Paper G5½: The Octave Change]] →*
+*[[Paper G6: The Best a Man Can Do on This Plane|Paper G6: The Best a Man Can Do on This Plane]] →*
