@@ -18,6 +18,7 @@ The reader this section is written for is the one the rest of the ministry can r
 
 - [[Science/The Second Law of Thermodynamics|The Second Law of Thermodynamics]] — Entropy as the Heropass made measurable; the one content the dissipation cannot reach
 - [[Science/The Unreasonable Effectiveness of Mathematics|The Unreasonable Effectiveness of Mathematics]] — Wigner's miracle dissolved: mathematics works because reality is mathematical structure
+- [[Science/Euclid — The Elements|Euclid — The Elements]] — The axiomatic method: the archetype of the derivation tier
 - [[Science/Godel's Incompleteness Theorems|Gödel's Incompleteness Theorems]] — Truth exceeds provability; no system grounds itself, proved from within mathematics
 - [[Science/Evolution by Natural Selection|Evolution by Natural Selection]] — Selection as catching's structure running blind in matter; the mechanism affirmed entire
 - [[Science/The Fine-Tuning of the Constants|The Fine-Tuning of the Constants]] — A catching-capable universe as structural expectation, not proof; the multiverse absorbed

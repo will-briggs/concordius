@@ -54,9 +54,12 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 [[Sacred Texts/The Bhagavad Gita|The Bhagavad Gita]]
 [[Sacred Texts/The Tao Te Ching|Laozi — Tao Te Ching]]
 [[Sacred Texts/The I Ching|The I Ching]]
+[[Sacred Texts/Confucius — The Analects|Confucius — The Analects]]
 
 ### Philosophy
 
+[[Philosophy/Heraclitus — On Nature|Heraclitus — On Nature]]
+[[Philosophy/Parmenides — On Nature|Parmenides — On Nature]]
 [[Philosophy/Spinoza's Ethics|Spinoza — Ethics]]
 [[Philosophy/The Enneads|Plotinus — The Enneads]]
 [[Philosophy/Epictetus|Epictetus — The Discourses and Enchiridion]]
@@ -67,6 +70,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 [[Literature/Shakespeare's Sonnets/index|Shakespeare — The Sonnets]]
 [[Literature/Ulysses|Joyce — Ulysses]]
+[[Literature/Homer — The Iliad and the Odyssey|Homer — The Iliad & the Odyssey]]
 [[Literature/Dante — The Divine Comedy|Dante — The Divine Comedy]]
 [[Literature/Augustine — Confessions|Augustine — Confessions]]
 [[Literature/Atlas Shrugged|Rand — Atlas Shrugged]] ⊘
@@ -133,6 +137,8 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 [[Science/The Unreasonable Effectiveness of Mathematics|The Unreasonable Effectiveness of Mathematics]] — Wigner's miracle dissolved: mathematics works because reality is mathematical structure
 
 [[Science/Godel's Incompleteness Theorems|Gödel's Incompleteness Theorems]] — Truth exceeds provability; no system grounds itself, proved from within mathematics
+
+[[Science/Euclid — The Elements|Euclid — The Elements]] — The axiomatic method; the archetype of the derivation tier
 
 [[Science/Evolution by Natural Selection|Evolution by Natural Selection]] — Selection as catching's structure running blind in matter; the mechanism affirmed entire
 

@@ -19,6 +19,7 @@ Structural readings of literary works through the Concordius framework.
 
 ---
 
+- [[Homer — The Iliad and the Odyssey|Homer — The Iliad and the Odyssey (c. 8th c. BC)]]
 - [[Dante — The Divine Comedy|Dante — The Divine Comedy (1320)]]
 - [[Augustine — Confessions|Augustine — Confessions (397–400)]]
 - [[Shakespeare's Sonnets/index|Shakespeare's Sonnets]]

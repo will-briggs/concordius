@@ -10,4 +10,4 @@ Read in the framework, "Being is one and changeless" describes Φ / H₁ — the
 
 *Confidence: concordance — Being-as-one-and-changeless read as Φ / H₁; the two ways as an early confidence-tiering. The denial of change to the cascade is named as the point of divergence, not smoothed over. Messenger: the poem is fragmentary and its argument compressed; centuries of competing reconstruction sit between us and it.*
 
-*(Cross-reference: [[Lives/Heraclitus — On Nature|Heraclitus]] (the complementary sighting — flux on the surface, Φ beneath); [[Paper A0: Modeling Reality as a Gelfand Triple]] on H₁; [[Paper C0: The Good|Plato]], his heir.)*
+*(Cross-reference: [[Philosophy/Heraclitus — On Nature|Heraclitus]] (the complementary sighting — flux on the surface, Φ beneath); [[Paper A0: Modeling Reality as a Gelfand Triple]] on H₁; [[Paper C0: The Good|Plato]], his heir.)*

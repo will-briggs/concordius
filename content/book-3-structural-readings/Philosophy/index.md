@@ -17,6 +17,8 @@ The readings in this section apply the Concordius framework to texts in the West
 
 The significance of this independence cannot be overstated. When Plotinus, Spinoza, Epictetus, and Marcus Aurelius — separated by centuries and working within entirely different philosophical traditions — each identify the same structural features the framework derives from the Gelfand triple, the convergence is evidence that both are tracking something structurally real.
 
+- [[Philosophy/Heraclitus — On Nature|Heraclitus — On Nature]]
+- [[Philosophy/Parmenides — On Nature|Parmenides — On Nature]]
 - [[Philosophy/Epictetus|Epictetus]]
 - [[Philosophy/The Enneads|The Enneads (Plotinus)]]
 - [[Philosophy/The Meditations of Marcus Aurelius|The Meditations of Marcus Aurelius]]

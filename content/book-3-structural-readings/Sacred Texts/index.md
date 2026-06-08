@@ -17,3 +17,4 @@ The canonical scriptures of the major traditions, read for the structural conten
 [[Sacred Texts/The Bhagavad Gita|The Bhagavad Gita]]
 [[Sacred Texts/The Tao Te Ching|Laozi — Tao Te Ching]]
 [[Sacred Texts/The I Ching|The I Ching]]
+[[Sacred Texts/Confucius — The Analects|Confucius — The Analects]]

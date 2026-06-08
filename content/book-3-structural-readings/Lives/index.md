@@ -16,7 +16,7 @@ title: Lives
 
 These are not biographies and not appraisals. A Life reading does not rank the figure or retell the career; it locates them — one entry, late in a table none of them is the center of (the structural content of the note they sit under, humility). The angle is chosen, not exhausted: where a single work carries the structure most cleanly, the reading takes that work; where the shape of a whole life is the witness, it takes the life; and where the clearest signal sits in a piece the world has under-read, it takes the underappreciated work, and says why.
 
-**Convention.** A name set in **bold and linked** in the C6 roster has its reading here — the same convention C6 already uses for the figures the Company gave their own readings ([[Paper C0: The Good|Plato]], [[Paper C3: The Courageous|Joan of Arc]], [[Paper C4: The Restrained|Bach]], and the rest). As each Life is written, its name in the roster is bolded and linked to its page below. The method is the Book 3 method throughout — Feature 6 (independent convergence), the confidence tiers, and the standing messenger-filter caveat (a life, like a text, reaches us already filtered).
+**Convention.** Each roster name gets one reading, in whichever register fits best. A **Life** reading lives here in *Lives*; a reading of a **work** lives in its own category folder (*Literature*, *Visual Art*, *Philosophy*, *Science*, *Sacred Texts*…), and the roster name links straight to it there. Either way the name is set **bold and linked** in the C6 roster once its reading exists — the same convention C6 already uses for the figures the Company gave their own readings ([[Paper C0: The Good|Plato]], [[Paper C3: The Courageous|Joan of Arc]], [[Paper C4: The Restrained|Bach]], and the rest). The list below tracks the roster row by row: *Life* entries point here, *work* entries point to their folder. The method is the Book 3 method throughout — Feature 6 (independent convergence), the confidence tiers, and the standing messenger-filter caveat (a life, like a text, reaches us already filtered).
 
 ---
 
@@ -29,11 +29,11 @@ These are not biographies and not appraisals. A Life reading does not rank the f
 - [[Lives/The Buddha|The Buddha]] — *the life* (the awakening; the Four Noble Truths)
 - [[Lives/Socrates|Socrates]] — *the life* (the examined life and the death)
 - [[Lives/Pythagoras|Pythagoras]] — *the life* (number as the substance of things)
-- [[Lives/Heraclitus — On Nature|Heraclitus — On Nature]] — *the work* (the logos)
-- [[Lives/Parmenides — On Nature|Parmenides — On Nature]] — *the work* (Being is one)
-- [[Lives/Homer — The Iliad and the Odyssey|Homer — The Iliad and the Odyssey]] — *the work* (wrath; the homeward return)
-- [[Lives/Confucius — The Analects|Confucius — The Analects]] — *the work* (the making of the junzi)
-- [[Lives/Euclid — The Elements|Euclid — The Elements]] — *the work* (the axiomatic method)
+- [[Philosophy/Heraclitus — On Nature|Heraclitus — On Nature]] — *the work* (the logos)
+- [[Philosophy/Parmenides — On Nature|Parmenides — On Nature]] — *the work* (Being is one)
+- [[Literature/Homer — The Iliad and the Odyssey|Homer — The Iliad and the Odyssey]] — *the work* (wrath; the homeward return)
+- [[Sacred Texts/Confucius — The Analects|Confucius — The Analects]] — *the work* (the making of the junzi)
+- [[Science/Euclid — The Elements|Euclid — The Elements]] — *the work* (the axiomatic method)
 - Lao Tzu → [[Sacred Texts/The Tao Te Ching|Tao Te Ching]] *(work already read)*
 
 ### Fa — The Post-Incarnation Synthesis
