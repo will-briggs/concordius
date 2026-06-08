@@ -1,8 +1,8 @@
 *← [[Paper A4: The Ascent of Man|Paper A4 — The Ascent of Man]]*
 
-# The Breath of Life: When Matter Becomes a Person
+# Paper A5: The Breath of Life: When Matter Becomes a Person
 
-*Paper A5 of Section A — the story of consciousness, and the form it takes in matter. It begins where the body's account stopped: at the waking of an interior, a someone for whom the world is a certain way. Then it follows that interior into the one thing it does that nothing before it could — it leaves itself in matter, in writing, which is consciousness made legible and able to outlast the body that held it. The throughline is the Hebrew canon: the longest-guarded body of consciousness-in-material-form there is, a people's interior life — and its account of what a person is — kept across millennia with a fidelity that can be measured. The arc runs from the earliest marks to the modern science of the mind, consciousness at last turning its instruments on itself; and it ends where the section's lenses end, at the birth — the Word, the meaning all writing reaches toward, entered as a living soul. Companion to Paper A4 (the body) and Paper A6 (the life that someone then lives).*
+*The waking of an interior — the felt self the sciences of the mind map but cannot reach — and the one thing that interior does that nothing before it could: it leaves itself in matter, in writing. The earliest scripts and the alphabet; the Hebrew canon as the longest-guarded body of consciousness in material form, its transmission measurable across a millennium and its opening word the oldest account of what a person is — a* living soul; *the modern science of the mind turning its instruments on itself; and, at the end, the Word born a consciousness.*
 
 ---
 

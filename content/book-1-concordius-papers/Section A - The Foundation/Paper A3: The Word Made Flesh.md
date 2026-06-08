@@ -1,8 +1,8 @@
 *← [[Paper A2½: The Constraint Cascade|Paper A2½: The Constraint Cascade: Descent as Densification]]*
 
-# The Word Made Flesh: Φ Enters Creation
+# Paper A3: The Word Made Flesh: Φ Enters Creation
 
-*Paper A3 of Section A. The world is spoken into its form; the form is taken up into flesh; and the One through whom all things were made enters the world he formed, as one of the spoken things. This is the first of three lenses on one arc — the mathematician's and the theologian's together — and it runs from the forming of the world to the Word made flesh, the entrance from outside. Companion to Paper A1 (the Son, Φ) and Paper A6 (the life the Word made flesh then lives).*
+*The giving of form — the first bivector, two directions joined into a determinate* this *— and the Word made flesh, Φ rendered at the most accuracy a human level can hold. With it, the framework's working definitions: the two origins (angelic, H-origin; mortal, Φ′-origin), free will, and catching; and the virtue-algebra — the three generators (gratitude, charity, ordered love), their products (courage, temperance, diligence), and their integration (humility). The far side of the forming element, the −1 at the floor of the felt-spectrum, is named.*
 
 *Status: structural — the algebra of the first bivector and the identification of the Son as Φ (Papers A1, A2½). The Incarnation is read as Φ instantiated at the maximum accuracy H₄₈ can hold; the scriptural readings are concordance with the derived structure. This paper also fixes the framework's working definitions — the two origins (angelic, H-origin; mortal, Φ′-origin), free will, catching, and the virtue-algebra of the generators and bivectors — stated math-first with Scripture in support (§§3–4). The far side of the same element — the −1 at the antipode, the cry — is named here but followed in Paper A6, the life.*
 

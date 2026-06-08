@@ -1,4 +1,6 @@
-# Modeling Reality as a Gelfand Triple: Two Complementary Projections of Complete Structure
+# Paper A0: Modeling Reality as a Gelfand Triple: Two Complementary Projections of Complete Structure
+
+*The Gelfand triple Φ ⊂ H ⊂ Φ′ — a nuclear space of maximum structure, a self-dual Hilbert space of complete states, and a distributional dual of excess potential — and the five actualities the inner product's own structure forces: the fundamental relation, the nuclear structure, the metric absolute, the nuclear topology, and the realized nuclear space. The inner product ⟨·,·⟩, invariant across all three domains, is the foundational object the standard formalism leaves implicit.*
 
 ---
 

@@ -1,8 +1,8 @@
 *← [[Paper A6: The Son of Man|Paper A6: The Son of Man: Maximum Kenosis]]*
 
-# The Tomb
+# Paper A6½: The Tomb
 
-*Paper A6½ of Section A. The life has come to its cry and the body has been taken down; here the series stands at the sealed tomb and looks at what was laid in it. It looks more than once, because there is more than one way to look at a grave; and then it admits the one thing the looking cannot reach. Companion to Paper A6 (the life, and the cross it ends at) and Paper A7 (the morning).*
+*The three days in the sealed tomb, looked at three times: the bond between the Father and the Son held at its furthest distance and not severed; the body itself, really dead by the same order that carried it up; and the descent among the dead, where the one physical trace the tradition has claimed — the burial cloth — is weighed and left in its honest doubt. The three looks converge on the silence the Gospels do not narrate.*
 
 ---
 

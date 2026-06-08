@@ -1,8 +1,8 @@
 *← [[Paper A2: The Big Bang|Paper A2: The Big Bang]]*
 
-# The Constraint Cascade: Descent as Densification
+# Paper A2½: The Constraint Cascade: Descent as Densification
 
-*Paper A2½ of Section A — the grade-1→grade-2 crossing of the created order. Companion to "Modeling Reality as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]," "From the Cogito to the [[Appendix I - Dictionary of Terms#Logos|Logos]]," and "The Creative Choice."*
+*Descent as densification: how Φ enters H by successive applications of the spectral mechanism, each lowering one grade of the Clifford algebra and halving the freedom — the constraint cascade. Where the spacetime generator e₀ enters and the Heropass with it; and the experiential Deity, the running integral of the inner product's evaluations across the whole creation, named at three points along its arc — Apokalypsis, Ta Panta en Pasin, to Alpha kai to Ō.*
 
 ---
 

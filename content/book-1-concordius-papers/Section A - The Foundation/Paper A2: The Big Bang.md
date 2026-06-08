@@ -1,8 +1,8 @@
 *← [[Paper A1: From the Cogito to the Logos|Paper A1: From the Cogito to the Logos]]*
 
-# The Big Bang: When Spacetime Began
+# Paper A2: The Big Bang: When Spacetime Began
 
-*Paper A2 of Section A. It is, for most of its length, a review of the current scientific account of the earliest universe — the evidence that spacetime had a beginning, the physics of the first fraction of a second, and the precise place where known methods run out. It is offered as physics, with current dates and citations, and with its live debates named rather than smoothed over. Only at the end does it take the single step the rest of the series rests on, and that step is marked where it is taken. Companion to Paper A0 (the structure that is here given a beginning in time) and Paper A4 (which picks up the material trail at the electroweak vacuum and carries it to us).*
+*The scientific case that the universe had a beginning — the recession of the galaxies, the cosmic microwave background, and the abundances of the light elements converging on a hot, dense start 13.8 billion years ago — the physics of the first fraction of a second, and the point where known methods run out; and the close, where that beginning is read as the Creative Choice, the selection of one ordered world out of the distributional potential.*
 
 ---
 
