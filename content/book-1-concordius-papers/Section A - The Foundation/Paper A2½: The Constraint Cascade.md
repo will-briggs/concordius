@@ -64,6 +64,8 @@ Cl(3,0) has four grades of dimension 1, 3, 3, 1. Of the transitions between them
 
 Everything later that turns on "two qualitatively distinct crossings" — the cascade's two discontinuities, and the distinction between the Father's constitutive act and the Son's articulatory one — is an application of this one theorem.
 
+These two grade crossings are the octave's **first grade change** (grade 1 → 2) and **second grade change** (grade 2 → 3); the latter forms the pseudoscalar — the whole, the product of all three generators, present in the algebra once all three are. The octave's *third* crossing, the **octave change**, is not a crossing within the algebra at all but the exit past it: the articulatory crossing H₁₂ → H₂₄ (§10), where a new generator must enter *from outside* Cl(3,0). That — not the grade-2 → grade-3 crossing — is the one input no resource of the algebra can supply. The three are defined together in [[Paper B3: The Principle]] §6.
+
 ## 3. The Creative Choice — the *which*, not the *whether*
 
 The inner product ⟨·,·⟩ is constitutively generative: to *be* ⟨·,·⟩ is to produce Φ, H, Φ′ and to operate as the mechanism through which definite outcomes are drawn from distributed potential. This is not something it does sometimes; it is what it is. God cannot not generate — not from external constraint, but because generation is his nature. "Why did God create?" dissolves into what God is. The question that remains is sharper: *what form did the inevitable generation take?*
