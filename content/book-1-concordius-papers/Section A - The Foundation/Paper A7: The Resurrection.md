@@ -26,12 +26,16 @@
 
 ## The Resurrection
 
+<hr>
+
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
 > **"Jesus saith unto her, Mary. She turned herself, and saith unto him, Rabboni; which is to say, Master."**
 > *— John 20:16*
 
 </div>
+
+<hr>
 
 It was still dark when she came, because grief does not wait for morning. She had watched him die, and watched them take the body down, and now she came to do the last small thing love can do for the dead — to tend him — and even that was taken from her: the stone rolled back, the place empty. So she stood outside the tomb and wept. Someone was there, and she supposed him the gardener, and asked through her tears where they had laid him. He said one word. *Mary.* And in her own name, in the voice she knew, she turned and knew him — *Rabboni* (John 20:11–16). She had not known him by his face. She knew him when he called her by name.
 
@@ -47,12 +51,16 @@ Why it must come from outside is also exact, not rhetorical. The cascade H₁ �
 
 ## The Forty Days
 
+<hr>
+
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
 > **"And it came to pass, as he sat at meat with them, he took bread, and blessed it, and brake, and gave to them. And their eyes were opened, and they knew him; and he vanished out of their sight."**
 > *— Luke 24:30–31*
 
 </div>
+
+<hr>
 
 For a little while after, he kept coming back. Two of them walked to Emmaus with their hearts gone cold, and a stranger fell in beside them and opened the Scriptures until the road burned under them — and they knew him only when he broke the bread, and then he was gone (Luke 24:13–31). He stood among them in a shut room and let Thomas, who could not believe it, put a hand to the wounds (John 20:27). He stood on a shore at dawn over a charcoal fire and a breakfast of fish and asked Peter, three times, gently, unmaking three denials, *lovest thou me?* (John 21:9–17). Forty days of small, particular returns, each teaching the same thing tenderly: you will not always know me by my face.
 
@@ -62,12 +70,16 @@ The appearances are intermittent H₄₈ projections of a body whose organizing 
 
 ## The Ascension
 
+<hr>
+
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
 > **"And when he had spoken these things, while they beheld, he was taken up; and a cloud received him out of their sight."**
 > *— Acts 1:9*
 
 </div>
+
+<hr>
 
 There was a last time, and they did not know it was the last until it was over. He led them out as far as Bethany, lifted up his hands, and blessed them — and while he blessed them he was parted from them and carried up, and a cloud took him out of their sight, and they stood looking into the sky until two men in white asked them why (Luke 24:50–51; Acts 1:9–11). It is the tenderest of the partings, because the blessing is left unfinished in the air: the last thing they saw him do was bless them.
 
@@ -77,12 +89,16 @@ If the Resurrection set the organizing algebra below H₄₈, the Ascension carr
 
 ## Pentecost
 
+<hr>
+
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
 > **"And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting. And there appeared unto them cloven tongues like as of fire… And they were all filled with the Holy Ghost."**
 > *— Acts 2:2–4*
 
 </div>
+
+<hr>
 
 They had gone back to the upper room and shut the door and waited, not knowing for what — about a hundred and twenty frightened people who had lost their teacher twice now, once to the cross and once to the sky. And then, on the morning of the feast, it came: a sound as of a rushing mighty wind that filled the whole house, and what seemed like tongues of fire resting on each of them, and they were filled, and went down into the street and were understood — every pilgrim in the city hearing, in the language of his own childhood, the wonderful works of God (Acts 2:1–11). The frightened room became, in an hour, a church.
 
@@ -92,12 +108,16 @@ That provision is the nuclear topology τ_nuclear — the topology in which sequ
 
 ## The Witness Goes Out
 
+<hr>
+
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
 > **"But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth."**
 > *— Acts 1:8*
 
 </div>
+
+<hr>
 
 Peter — who had denied he so much as knew the man, by a fire, to a servant girl — stood up in the open in the same city that had killed him and said it out loud, and three thousand listened (Acts 2:14, 41). The thing spread house to house, and it began at once to cost. Stephen was dragged out and stoned, and as the stones fell he saw heaven open and prayed for the men killing him — *Lord, lay not this sin to their charge* — and fell asleep (Acts 7:59–60). The first to die for it died forgiving, which is the shape the whole thing would try to keep.
 
@@ -107,12 +127,16 @@ What propagates is the catching act itself, taught and re-transmitted: T = M(S),
 
 ## The Road to the Nations
 
+<hr>
+
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
 > **"And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me? … I am Jesus whom thou persecutest."**
 > *— Acts 9:4–5*
 
 </div>
+
+<hr>
 
 The man most set on stamping it out was a young Pharisee named Saul, who had held the coats while Stephen died and gone on breathing threats, riding to Damascus with warrants in hand. And on that road a light threw him down, and a voice he never expected said his name twice and told him whom he was really persecuting (Acts 9:3–6). He got up blind, and was led by the hand into the city like a child; and three days later he got up again the apostle to the nations. The fiercest enemy became the farthest-traveling friend.
 
@@ -122,12 +146,16 @@ Saul is turned on the Damascus road by a direct ⟨·,·⟩-contact administered
 
 ## The Body Built
 
+<hr>
+
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
 > **"Now ye are the body of Christ, and members in particular."**
 > *— 1 Corinthians 12:27*
 
 </div>
+
+<hr>
 
 Most of what came next was not miracle but mail — a man in a rented room or a prison cell, dictating to a scribe, worrying over small troubled congregations scattered across the empire: a quarrel at Corinth, a collection for the poor at Jerusalem, a runaway slave sent home with a letter begging that he be taken back as a brother. And in the middle of the practical worry, almost in passing, some of the most beautiful sentences ever written about love — *though I speak with the tongues of men and of angels* — and an honest confession of how much was still unseen: *now we see through a glass, darkly; but then face to face* (1 Corinthians 13:1, 12). The church grew up the slow way, by people writing to people they loved.
 
@@ -137,12 +165,16 @@ The letters are the maturation of the spectral structure: many members, each its
 
 ## The Faithful Witness
 
+<hr>
+
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
 > **"Be thou faithful unto death, and I will give thee a crown of life."**
 > *— Revelation 2:10*
 
 </div>
+
+<hr>
 
 Then the long time began — the centuries no single story can hold, of ordinary people keeping faith without seeing the end of it: parents teaching children who would teach children, the bread broken in catacombs and kitchens, most of the names lost. Some of them died for it, in arenas and on roads; and to the church under that weight the word came, *be thou faithful unto death, and I will give thee a crown of life* (Revelation 2:10). It is a word for people who must hold on in the dark, on trust, with no morning yet in sight.
 
@@ -152,12 +184,16 @@ The age that follows is conducted under e₀ at full strength — H₄₈, where
 
 ## The Return
 
+<hr>
+
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
 > **"He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus."**
 > *— Revelation 22:20*
 
 </div>
+
+<hr>
 
 And beneath all of it ran a longing that never quieted: that he would come back. The earliest believers said it to one another as a greeting and prayed it as the last words of their last book — *Maranatha*, *Even so, come, Lord Jesus* (1 Corinthians 16:22; Revelation 22:20) — the cry of people who had been promised a homecoming they could not bring about themselves, and could only wait for, lamps lit, watching the road.
 
@@ -167,12 +203,16 @@ The last transition is into H₁, and it is the one transition the framework mar
 
 ## The World Made New
 
+<hr>
+
 <div style="margin-top: 3rem; margin-bottom: 3rem;">
 
 > **"And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away. … Behold, I make all things new."**
 > *— Revelation 21:4–5*
 
 </div>
+
+<hr>
 
 And the book the tradition closes on ends with a promise almost too tender to read quickly: that God himself will come down to dwell with his people, and *shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away* (Revelation 21:3–4). Not a rescue out of the world but the world itself made new — every loss undone, every tear wiped away by a hand, the homesickness the whole long story carried at last answered. And here, at the very end, the tradition's language and the framework's fall onto each other almost word for word.
 
