@@ -1,6 +1,6 @@
 *← [[Paper A0: Modeling Reality as a Gelfand Triple|Paper A0: Modeling Reality as a Gelfand Triple]]*
 
-# Paper A1: From the Cogito to the Logos: Naming the Unnameable
+# Paper A1: Naming the Unnameable: From the Cogito to the Logos
 
 *The cogito, and the naming of the Trinity that follows from it: the Father as the inner product ⟨·,·⟩, the Son as the nuclear space Φ — the Logos — the Spirit as the nuclear topology, and the rest of the eight domains, closing on ⟨·,·⟩ = Love. Then the Hebrew Divine Names laid against the structures they fall on — YHWH, Elohim, El Shaddai, El Roi, Ruach Elohim — with the fuller rolls of the names of the Son and of the Spirit.*
 

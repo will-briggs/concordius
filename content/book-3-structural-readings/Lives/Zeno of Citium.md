@@ -10,4 +10,4 @@ Zeno's decisive move, developed by his successors into the discipline Epictetus 
 
 *Confidence: concordance — the Stoic logos read as Φ/the grain, oikeiosis as agape by reason, the dichotomy of control as a noise-floor instruction. Messenger: Zeno's own writings are entirely lost; the Stoa reaches us through later Stoics and through hostile and friendly summaries alike.*
 
-*(Cross-reference: [[Philosophy/Epictetus|Epictetus]] and [[Philosophy/The Meditations of Marcus Aurelius|Marcus Aurelius]] (his school lived); [[Paper A1: From the Cogito to the Logos]] on the logos; [[Philosophy/Heraclitus — On Nature|Heraclitus]] (the logos he drew on).)*
+*(Cross-reference: [[Philosophy/Epictetus|Epictetus]] and [[Philosophy/The Meditations of Marcus Aurelius|Marcus Aurelius]] (his school lived); [[Paper A1: Naming the Unnameable]] on the logos; [[Philosophy/Heraclitus — On Nature|Heraclitus]] (the logos he drew on).)*

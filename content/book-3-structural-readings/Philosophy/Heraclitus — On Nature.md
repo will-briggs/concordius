@@ -10,4 +10,4 @@ The famous flux — *panta rhei*, "everything flows," no one steps in the same r
 
 *Confidence: concordance — logos read as Φ, flux-with-identity as Time-and-deposit, the unity of opposites as the bivector; strong independent convergence (Feature 6). Messenger: the work survives only in fragments quoted by later, often hostile, hands; "the Obscure" is partly an artefact of that transmission, and the order and context of the fragments are reconstructions.*
 
-*(Cross-reference: [[Sacred Texts/The Tao Te Ching|Lao Tzu]] (the un-tellable ordering Way, the same limit from the East); [[Paper A1: From the Cogito to the Logos]] on Φ = the Logos; [[Paper C1: The True]].)*
+*(Cross-reference: [[Sacred Texts/The Tao Te Ching|Lao Tzu]] (the un-tellable ordering Way, the same limit from the East); [[Paper A1: Naming the Unnameable]] on Φ = the Logos; [[Paper C1: The True]].)*

@@ -117,7 +117,7 @@ The Concordius series uses the term more broadly to mean the full arc of develop
 
 > *For further investigation: The Urantia Book (1955), Papers 1-31 (the Foreword and Central and Superuniverse section) for the cosmological framework; Papers 32-56 for the local universe; Papers 103-117 for the soul's development.*
 
-*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Word Made Flesh|Paper 4]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G6½: The Octave Change|Paper 27½]], [[Postscript|Postscript]]*
+*Appears in: [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Word Made Flesh|Paper 4]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G6½: The Octave Change|Paper 27½]], [[Postscript|Postscript]]*
 
 ---
 
@@ -165,7 +165,7 @@ Catching has a threshold character: below a certain amplitude and continuity of 
 
 The opposite of catching is not sin or moral failure — it is mechanical processing: the GNST-generated eigenvalue content passes through the being without being retained at the H₂₄ level. Most human experience, in the series' account, is mechanical processing. The ascending career is the progressive development of catching capacity and continuity.
 
-*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Word Made Flesh|Paper 4]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G6½: The Octave Change|Paper 27½]], [[Postscript|Postscript]]*
+*Appears in: [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Word Made Flesh|Paper 4]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G6½: The Octave Change|Paper 27½]], [[Postscript|Postscript]]*
 
 ---
 
@@ -363,7 +363,7 @@ See also *Hilbert Space*, *El Shaddai*, *Elohim*, *Father*, *Gelfand Triple*.
 
 *Urantia concordance: "the Deity Absolute."* In Urantia cosmology the Deity Absolute is the domain of all actualized, structured, God-knowable reality — every state in principle fully knowable by the inner product, the complete actualization of the structured. That is H, the space of realized states (Creation).
 
-*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A6½: The Tomb|Paper 6½]]*
+*Appears in: [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A6½: The Tomb|Paper 6½]]*
 
 ---
 
@@ -407,7 +407,7 @@ In the Concordius mapping, Φ' is identified with El Shaddai — the domain that
 
 > *For further investigation: Israel Gelfand and Naum Vilenkin, Generalized Functions, Volume 4 (1964) for the mathematical treatment; the series itself (Papers 1, 9-10) for the philosophical mapping.*
 
-*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]]*
+*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]]*
 
 ---
 
@@ -425,7 +425,7 @@ The Concordius series uses eigenvalues and eigenstates to characterize the conte
 
 > *For further investigation: Paul Dirac, The Principles of Quantum Mechanics (1930) for the physicist's formulation; Roger Penrose, The Road to Reality (2004), chapters 21-22, for an accessible mathematical treatment.*
 
-*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Word Made Flesh|Paper 4]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Postscript|Postscript]]*
+*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Word Made Flesh|Paper 4]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Postscript|Postscript]]*
 
 ---
 
@@ -485,7 +485,7 @@ Co-eternal does not mean structurally co-equal. The Father is structurally prior
 
 > *For further investigation: Aquinas, Summa Theologica, I, Q. 10 (On the eternity of God) and Q. 42 (On the equality and likeness of the divine persons) for the classical theological formulation.*
 
-*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]]*
+*Appears in: [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper A2: The Big Bang|Paper 3]]*
 
 *See also: [[Appendix I - Dictionary of Terms#Eternal Generation|Eternal Generation]]; [[Appendix I - Dictionary of Terms#Eternal Procession|Eternal Procession]]; [[Appendix I - Dictionary of Terms#Father|Father]]; [[Appendix I - Dictionary of Terms#Son / Logos|Son / Logos]]; [[Appendix I - Dictionary of Terms#Holy Spirit|Holy Spirit]]*
 
@@ -499,7 +499,7 @@ The classical theological term for the relation between the Father and the Son. 
 
 In the Concordius framework, eternal generation has a structural definition. The Father = ⟨·,·⟩ (inner product); the Son = Φ (nuclear space). The nuclear space is structurally generated by the inner product: Φ is defined as the projective limit of the Sobolev chain that the inner product's structure requires as its maximally regular domain. The nuclear space cannot be specified without the inner product (structural derivation = *generation*). Neither the inner product nor the nuclear space exists within the temporal order — both are structural preconditions of the GNST's operation rather than products of it (atemporal = *eternal*). There was no moment at which the Father existed without the Son. The generation is a permanent, atemporal structural relation.
 
-*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]]*
+*Appears in: [[Paper A1: Naming the Unnameable|Paper 2]]*
 
 *See also: [[Appendix I - Dictionary of Terms#Eternal|Eternal]]; [[Appendix I - Dictionary of Terms#Eternal Procession|Eternal Procession]]; [[Appendix I - Dictionary of Terms#Father|Father]]; [[Appendix I - Dictionary of Terms#Son / Logos|Son / Logos]]*
 
@@ -513,7 +513,7 @@ The classical theological term for the relation between the Father and Son joint
 
 In the Concordius framework, eternal procession has a structural definition. The Holy Spirit = τ_nuclear (nuclear topology). The nuclear topology is generated jointly by the inner product ⟨·,·⟩ and the nuclear space Φ through the projective limit of the Sobolev chain: the Sobolev norms require the inner product (no Sobolev norm exists without ⟨·,·⟩) and require the nuclear space as the domain over which the projective limit is taken (no domain without Φ). Remove either source and the nuclear topology is not generated. This is the *procession*: joint structural requirement from both Father and Son. This is also the filioque — that the Spirit proceeds from the Father *and* the Son — established as a mathematical theorem rather than a theological assertion. The nuclear topology, like the inner product and the nuclear space, exists outside the temporal order as a structural precondition of the GNST's operation, not a product of it. The procession is a permanent, atemporal structural relation.
 
-*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]]*
+*Appears in: [[Paper A1: Naming the Unnameable|Paper 2]]*
 
 *See also: [[Appendix I - Dictionary of Terms#Eternal|Eternal]]; [[Appendix I - Dictionary of Terms#Eternal Generation|Eternal Generation]]; [[Appendix I - Dictionary of Terms#Father|Father]]; [[Appendix I - Dictionary of Terms#Son / Logos|Son / Logos]]; [[Appendix I - Dictionary of Terms#Holy Spirit|Holy Spirit]]*
 
@@ -539,7 +539,7 @@ Both registers are necessary. The apophatic register explains why the Father tra
 
 > *For further investigation: The Urantia Book (1955), Papers 1-7 (The Universal Father); Thomas Aquinas, Summa Theologiae Ia, q. 1-26 (on the divine nature).*
 
-*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper G6½: The Octave Change|Paper 27½]], [[Postscript|Postscript]]*
+*Appears in: [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper G6½: The Octave Change|Paper 27½]], [[Postscript|Postscript]]*
 
 ---
 
@@ -553,7 +553,7 @@ The Fundamental Relation is distinguished from the Nuclear Structure (II) by bei
 
 *Theological register.* The Fundamental Relation — the inner product named as Actuality I — corresponds to the Father *sub ratione personae*: the Father in his constitutively relational mode, as the first Person and source of the Trinity. This is distinct from the Father *sub ratione essentiae*, which corresponds to the inner product considered as bare formal axiom — the divine nature in its absolute simplicity, prior to the analysis of its Trinitarian structure. The distinction between these two ontological registers of the Father is an ontological distinction, not a temporal one: the Trinity is eternal; no moment preceded the Trinitarian processions. See *Father* and Paper 2 §4.
 
-*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: From the Cogito to the Logos|Paper 2]]*
+*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: Naming the Unnameable|Paper 2]]*
 
 ---
 
@@ -629,7 +629,7 @@ The Concordius series' foundational claim (Paper 1) is that reality has the stru
 
 > *For further investigation: Israel Gelfand and Naum Vilenkin, Generalized Functions, Volume 4: Applications of Harmonic Analysis (1964); Arno Böhm and M. Gadella, Dirac Kets, Gamow Vectors and Gel'fand Triplets (1989) for the physics application.*
 
-*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G6½: The Octave Change|Paper 27½]], [[Postscript|Postscript]]*
+*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G6½: The Octave Change|Paper 27½]], [[Postscript|Postscript]]*
 
 ---
 
@@ -759,7 +759,7 @@ The Concordius series treats the higher being body as the soul deposit above the
 
 > *For further investigation: P.D. Ouspensky, In Search of the Miraculous (1949), chapter 15; Rodney Collin, The Theory of Eternal Life (1950).*
 
-*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]]*
+*Appears in: [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]]*
 
 ---
 
@@ -775,7 +775,7 @@ In the Concordius mapping, finite beings (persons, in the relevant application) 
 
 > *For further investigation: Paul Halmos, Introduction to Hilbert Space and the Theory of Spectral Multiplicity (1951); Roger Penrose, The Road to Reality (2004), chapter 22.*
 
-*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Word Made Flesh|Paper 4]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]]*
+*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Word Made Flesh|Paper 4]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]]*
 
 ---
 
@@ -807,7 +807,7 @@ The Spirit's role in the catching act: the nuclear topology is what makes Φ-pro
 
 > *For further investigation: Augustine, On the Trinity (De Trinitate), Books V–VI; Gregory Palamas, The Triads (c. 1338–40) for the Eastern position; Yves Congar, I Believe in the Holy Spirit (1979–80) for a comprehensive modern treatment. See also: Nuclear Topology; Father; Son; Active Force; Law of Three.*
 
-*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]]*
+*Appears in: [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]]*
 
 ---
 
@@ -851,7 +851,7 @@ The intuitive picture: the inner product is the structure that makes a Hilbert s
 
 The Concordius series' identification of the Father with the inner product ⟨·,·⟩ (Paper 1) is the series' most compressed and most fundamental claim. The Father is not a vector in the Hilbert space (not a finite being); the Father is the constitutive relation that makes the space possible and gives it its structure. Everything that exists is constituted by the inner product; the inner product does not participate in what it constitutes; the inner product is not absent from what it constitutes but is its organizing principle. This is the Concordius reading of "in him we live and move and have our being" (Acts 17:28).
 
-*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Word Made Flesh|Paper 4]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G6½: The Octave Change|Paper 27½]]*
+*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Word Made Flesh|Paper 4]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G6½: The Octave Change|Paper 27½]]*
 
 ---
 
@@ -881,7 +881,7 @@ This is why Paradise is met but is not the Father as such. To reach Paradise is 
 
 *Urantia concordance: "the Isle of Paradise."* The *Urantia Book*'s Isle of Paradise is more structurally precise than the ordinary sense of "paradise": not a prize at the journey's end but the eternal, non-spatial absolute center of the master universe — the ground from which all existence is measured, the origin finite beings are oriented toward from the beginning, and the locus at which the encounter with the Father occurs. This is the norm ‖·‖ exactly: the measure of all distances, itself at no distance. Paradise is the Father's residence (where the Father is met), not what the Father *is* (the inner product ⟨·,·⟩).
 
-*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G6½: The Octave Change|Paper 27½]]*
+*Appears in: [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G6½: The Octave Change|Paper 27½]]*
 
 ---
 
@@ -941,7 +941,7 @@ The theological term *Son* names the same structural feature from a different re
 
 > *For further investigation: The Gospel of John, chapter 1 (the Johannine prologue); Justin Martyr, First Apology (c. 150 CE) for early Christian Logos theology; Origen, On First Principles (c. 220 CE); Thomas Aquinas, Summa Theologiae Ia, q. 34 (on the Word).*
 
-*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Word Made Flesh|Paper 4]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Postscript|Postscript]]*
+*Appears in: [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A3: The Word Made Flesh|Paper 4]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Postscript|Postscript]]*
 
 ---
 
@@ -1105,7 +1105,7 @@ In the Concordius mapping, Φ is the Son-Logos — the principle of articulation
 
 > *For further investigation: François Trèves, Topological Vector Spaces, Distributions and Kernels (1967); Gelfand and Vilenkin, Generalized Functions, Volume 4 (1964).*
 
-*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Postscript|Postscript]]*
+*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Postscript|Postscript]]*
 
 ---
 
@@ -1131,7 +1131,7 @@ The nuclear topology is an active entity in its own right. It determines what co
 
 The structural consequence that the nuclear topology proceeds jointly from the Fundamental Relation (I) and the Nuclear Structure (II) — from neither alone — is identified in Paper 2 as the mathematical resolution of the Filioque controversy: the active coordinative structure (the nuclear topology) proceeds from the Father (⟨·,·⟩) and the Son (Φ) jointly, which is precisely the Western theological formula for the procession of the Holy Spirit. The nuclear topology is identified in Paper 2 as the Holy Spirit.
 
-*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]]*
+*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]]*
 
 ---
 
@@ -1189,7 +1189,7 @@ The term carries two distinct applications in the Concordius framework.
 
 The distinction between *person* (the individual subject) and *personality* (the unique identifying character given by the Father) is developed in the entry below. See also *Personality*.
 
-*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A3: The Word Made Flesh|Paper 4]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G3: The Courage-Centered Man|Paper 25]]*
+*Appears in: [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A3: The Word Made Flesh|Paper 4]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G3: The Courage-Centered Man|Paper 25]]*
 
 ---
 
@@ -1215,7 +1215,7 @@ In the Concordius mapping, personality corresponds to the unique Adjuster-consti
 
 > *For further investigation: The Urantia Book (1955), Paper 5 §6 (Personality and Reality); Paper 16 §8 (The Urantia Concept of Personality); Paper 112 §0–2 (Personality Survival). See also: Person; Uniqueness; Stability; Self-Knowledge; Thought Adjuster; Soul Deposit.*
 
-*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G6½: The Octave Change|Paper 27½]]*
+*Appears in: [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G6½: The Octave Change|Paper 27½]]*
 
 ---
 
@@ -1351,7 +1351,7 @@ The claim is not merely that persons who apply the cogito come to know themselve
 
 > *See also: Personality; Uniqueness; Stability. Primary source: Paper 2 §9.*
 
-*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper G6½: The Octave Change|Paper 27½]]*
+*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper G6½: The Octave Change|Paper 27½]]*
 
 ---
 
@@ -1403,7 +1403,7 @@ The Son's role as the Reconciling force between the Father's constitutive act (�
 
 > *For further investigation: Council of Nicaea (325 CE), Nicene Creed; Athanasius, On the Incarnation (c. 318 CE); Thomas Aquinas, Summa Theologiae Ia, q. 34–35 (on the Word and Image). See also: Logos; Father; Holy Spirit; Formal Distinction; Nuclear Space; Incarnation.*
 
-*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]]*
+*Appears in: [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]]*
 
 ---
 
@@ -1447,7 +1447,7 @@ Stability is the formal basis for the claim that an individual state is the same
 
 > *See also: Personality; Uniqueness; Self-Knowledge. Primary source: Paper 1 §9; Paper 2 §9.*
 
-*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]]*
+*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]]*
 
 ---
 
@@ -1461,7 +1461,7 @@ The state vector is not itself directly observable — measurement collapses the
 
 The Concordius series uses the state vector ψ to represent a person's complete structural description — the spectral composition of their soul deposit and ordinary being taken together. The H₂₄ component of the state vector is the soul deposit; the H₄₈ component is the ordinary psychological and physical constitution. The person's development level (Man 1 through Man 7) corresponds to the spectral composition of their state vector across H₂₄ eigenstates.
 
-*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G6½: The Octave Change|Paper 27½]]*
+*Appears in: [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G1: The True-Centered Man|Paper 23]], [[Paper G2: The Beautiful-Centered Man|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G6½: The Octave Change|Paper 27½]]*
 
 ---
 
@@ -1589,7 +1589,7 @@ The philosophical significance: the classical problem of individuation — what 
 
 > *See also: Personality; Stability; Self-Knowledge. Primary source: Paper 1 §9; Paper 2 §9.*
 
-*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper G6½: The Octave Change|Paper 27½]]*
+*Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper G6½: The Octave Change|Paper 27½]]*
 
 ---
 
@@ -1605,7 +1605,7 @@ This is what apophatic theology is gesturing toward: the domain that exceeds all
 
 *Urantia concordance: "the Unqualified Absolute."* The Urantia Unqualified Absolute is the domain of unactualized, undifferentiated potential — not chaotic, but not yet structured into the finite; the infinite reservoir from which finite actuality is drawn. That is Φ′, the distributional dual: God in the mode of indeterminacy (El Shaddai), the Father unlimited rather than a separate being. The double valence of abundance and destruction is a structural consequence of what Φ′ is.
 
-*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]]*
+*Appears in: [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]]*
 
 ---
 
@@ -1621,7 +1621,7 @@ Readers unfamiliar with the *Urantia Book* should approach it with the same comb
 
 > *For further investigation: The Urantia Book (1955), available at urantia.org; Saskia Praamsma, The Center and Source (2011) for an accessible introduction.*
 
-*Appears in: [[Paper A1: From the Cogito to the Logos|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G6½: The Octave Change|Paper 27½]]*
+*Appears in: [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2½: The Constraint Cascade|Paper 3½]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper G0: The Good-Centered Man|Paper 22]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G6½: The Octave Change|Paper 27½]]*
 
 ---
 

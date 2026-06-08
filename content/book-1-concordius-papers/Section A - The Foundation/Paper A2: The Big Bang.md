@@ -1,4 +1,4 @@
-*← [[Paper A1: From the Cogito to the Logos|Paper A1: From the Cogito to the Logos]]*
+*← [[Paper A1: Naming the Unnameable|Paper A1: Naming the Unnameable]]*
 
 # Paper A2: The Big Bang: When Spacetime Began
 

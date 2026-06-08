@@ -51,7 +51,7 @@ By the end of Paper A7, the framework is built. Everything that follows — the 
 **[[Paper A0: Modeling Reality as a Gelfand Triple|Paper A0: Modeling Reality as a Gelfand Triple]]**
 The foundational paper. Establishes the mathematical structure of the Gelfand triple (Φ ⊂ H ⊂ Φ') and derives the first structural implications: what it means for something to be constituted, what the inner product's constitutive role entails, why the structure cannot be reversed. The hermeneutical principle is stated here: the scriptural passages are theorems, not authority claims. The structural reading reads them as such.
 
-**[[Paper A1: From the Cogito to the Logos|Paper A1: From the Cogito to the Logos]]**
+**[[Paper A1: Naming the Unnameable|Paper A1: Naming the Unnameable]]**
 The argument from consciousness. The cogito is the starting point: *I think, therefore I am* is the most verified inner experience in human history — confirmed without exception across all cultures and eras. The paper derives the Logos identity from the structure of self-aware consciousness: the self-knowing subject cannot be prior to what makes self-knowledge possible; the constitutive relation that makes consciousness possible is the Logos; the Logos is prior to consciousness, not posterior to it. The derivation closes on the Johannine identification: *In the beginning was the Word*, now read as theorem rather than proclamation. With the identification complete, the primary mapping follows: Father = ⟨·,·⟩, Son-Logos = Φ, finite beings = H, El Shaddai = Φ'.
 
 **[[Paper A2: The Big Bang|Paper A2: The Big Bang]]**

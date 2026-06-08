@@ -127,7 +127,7 @@ Three honesties close the paper, because the procedure is sharper in statement t
 
 ---
 
-*Cross-reference: the calibration rests on the trust crossed at [[Paper B2½: The Leap]] and on the measure and limit of [[Paper B0: The Proof]], and on the canon, mapping, and boundary of [[Paper B1: The Sacred Trust]]; the method that fixes the open region N against this calibration is [[Paper B5: The Method]], and the predictions where the structure meets the world are [[Paper B4: The Prediction]]. Scripture: Amos 7:7–8; the Filioque / per Filium reading as developed in [[Paper A1: From the Cogito to the Logos]].*
+*Cross-reference: the calibration rests on the trust crossed at [[Paper B2½: The Leap]] and on the measure and limit of [[Paper B0: The Proof]], and on the canon, mapping, and boundary of [[Paper B1: The Sacred Trust]]; the method that fixes the open region N against this calibration is [[Paper B5: The Method]], and the predictions where the structure meets the world are [[Paper B4: The Prediction]]. Scripture: Amos 7:7–8; the Filioque / per Filium reading as developed in [[Paper A1: Naming the Unnameable]].*
 
 ---
 

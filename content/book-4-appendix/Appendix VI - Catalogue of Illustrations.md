@@ -23,7 +23,7 @@ title: Appendix VI - Catalogue of Illustrations
 - *Paul Dirac* (1933) &nbsp;·&nbsp; `dirac-1933.jpg`
 - *John von Neumann, Los Alamos identity badge* (c. 1943–45) &nbsp;·&nbsp; `von-neumann-los-alamos.jpg`
 
-**Paper A1: From the Cogito to the Logos**
+**Paper A1: Naming the Unnameable**
 - *Antonello da Messina, St. Jerome in His Study* (c. 1474–75) &nbsp;·&nbsp; `antonello-jerome-study.jpg`
 - *Domenichino, Saint John the Evangelist* (c. 1620s) &nbsp;·&nbsp; `domenichino-john-evangelist.jpg`
 - *Gustave Doré, The Empyrean (Paradiso Canto 31)* (1868) &nbsp;·&nbsp; `dore-rose-paradise.jpg`

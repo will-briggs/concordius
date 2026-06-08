@@ -10,4 +10,4 @@ The other half of the witness is the price. Anaxagoras taught that the sun is no
 
 *Confidence: concordance — Nous read as an early sighting of the ordering Logos; the prosecution as the recurring collision of the catch with civic piety. Messenger: Anaxagoras survives in fragments and in the reports (and complaints) of Plato and Aristotle.*
 
-*(Cross-reference: [[Paper A1: From the Cogito to the Logos]] on Φ as the ordering Logos; [[Lives/Thales|Thales]] (the heavens as lawful); [[Science/The Unreasonable Effectiveness of Mathematics]].)*
+*(Cross-reference: [[Paper A1: Naming the Unnameable]] on Φ as the ordering Logos; [[Lives/Thales|Thales]] (the heavens as lawful); [[Science/The Unreasonable Effectiveness of Mathematics]].)*
