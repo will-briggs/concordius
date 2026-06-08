@@ -35,9 +35,11 @@ The discipline is to hold it accurately: *this is what I found; I've looked for 
 
 ---
 
-*For those acquainted with the Concordius framework:*
+## Formal Statement (Concordius Framework)
 
-Personal experience is τ_r evidence: the phenomenological signature of τ_r(D, R) > 0 — lower-constraint content being recovered by a catching being and entering the H₂₄ domain. The experience of being changed by an insight, of clarity arriving after confusion, of the felt sense that something is deeply true — these are, in framework terms, catching events: lower-constraint spectral content crossing from H₄₈ into Φ-proximal eigenvalue content. As single-witness evidence, personal experience is Feature 3 weight. Its evidential force increases as the practitioner's noise floor decreases (more Φ-proximal content accumulated) and as they have actively sought disconfirmation and not found it. Feature 8 is what happens when this experience becomes universal: the threshold from single-witness testimony to the strongest available grounds for inferring objectivity.
+**Bounded likelihood ratio.** A single experiential report e contributes to a claim C the log-likelihood increment Δℓ = log[ P(e | C) ⁄ P(e | ¬C) ], with **0 < |Δℓ| < ∞**: nonzero, so it is genuine evidence and may not be discarded; finite, so no single report can drive the posterior to 0 or 1 — it is not proof. In framework terms e is the phenomenological signature of a catching event, τ_r(D,R) > 0 — lower-constraint content recovered into the H₂₄ domain — and its weight grows as the receiver's noise floor falls and as disconfirmation has been sought and not found (each failed refutation adds an independent Δℓ, Feature 6). That its own τ(e) < 1 (Feature 1) is the same statement from the source side: an H₄₈ encoding cannot certify.
+
+*Tier: **derivation** — the bounded-likelihood bound, plus Feature 1. Feature 8 is its n → ∞, zero-exception limit.*
 
 ---
 

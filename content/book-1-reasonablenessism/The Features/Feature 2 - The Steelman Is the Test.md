@@ -35,9 +35,11 @@ When you can state their position so well that they say *yes, that's it* — the
 
 ---
 
-*For those acquainted with the Concordius framework:*
+## Formal Statement (Concordius Framework)
 
-The steelman requirement is the epistemic discipline of noise-floor reduction: before receiving the content of a position, the receiving apparatus must be tuned well enough to detect it. A high-noise-floor evaluator cannot distinguish the content of the steelman from its surface features — they hear what they expect to hear, not what is there. Practiced seriously, the steelman is an act of catching: orienting toward the lower-constraint content of the opposing position rather than its H₄₈ surface. Concordius has been subjected to this discipline throughout: the consciousness-preeminence argument was steelmanned against the full materialist account before finalization; the Lucifer rebellion as Great Filter mechanism was steelmanned against the standard Fermi Paradox explanations. Where the steelman identified overclaiming, the claim was revised. The framework that remains is the one that survived.
+**Worst-case warrant.** Let 𝒜 be the set of admissible counter-arguments to a claim C — conditioning operators that lower its warrant. Define the **robust (steelman) warrant** ρ(C) = inf_{a∈𝒜} τ(C | a). A strawman substitutes a weak a′ and reports τ(C | a′) ≥ ρ(C), overstating warrant; the steelman evaluates at a* = argmin, returning the guaranteed lower bound. "Test what survives" is then exact: ρ(C) is the worst case, so a claim with ρ(C) above threshold holds no matter which admissible opponent is raised. The framework reads the discipline as **noise-floor reduction before reception** (Appendix C): the evaluator must be tuned finely enough to detect the opponent's actual lower-constraint content P_Φ a*, not its H₄₈ surface — otherwise the infimum is taken over a misread set and ρ is meaningless.
+
+*Tier: **criterion** — rigorous as min-max (distributional) robustness; the open part is specifying 𝒜, the true strongest opposition, which is interpretive. Shares the operator-A caveat (Feature 1).*
 
 ---
 

@@ -35,9 +35,17 @@ The honest version: "I've heard good things about X — I don't know the researc
 
 ---
 
-*For those acquainted with the Concordius framework:*
+## Formal Statement (Concordius Framework)
 
-In Concordius, confidence tiers map onto the constraint hierarchy. Tier 1: logical derivations from the two base assumptions (cogito + Gelfand triple). These carry the warrant of mathematical necessity — the Trinity derivation, the five inevitabilities. Their τ(D) approaches 1 from below; they are the anchor nodes of the dependency graph (Appendix C, Section 2). Tier 2: concordance claims — the Law of Seven, the Law of Seven, the ascension cosmology, the grade-generation mapping. These carry the warrant of multiple independent witnesses with no contact relationship: strong evidential weight, not necessity. Tier 3: the presenter's working-out — the Signal/Noise ontology, the pyramid geometry, the praise-as-ontological-completion. These carry the warrant of a hypothesis not yet externally confirmed. Each is labeled. The failure mode the tiers guard against is treating Tier 2 Urantia cosmological accounts with the confidence appropriate to Tier 1 structural derivations. The series has been audited for this throughout.
+**Typed warrant.** A claim's warrant is a pair **(type, magnitude)**, not a scalar, and the type fixes the update law and is not discardable:
+
+- **deductive** — entailment from the primitives, P = 1 conditional on the axioms, closed under modus ponens, brittle (one false premise voids it);
+- **convergent** — a posterior assembled from independent likelihoods (Feature 6), soft and accumulating;
+- **testimonial** — a single likelihood increment (Feature 3), soft and easily overturned.
+
+A deductive 0.9 and a testimonial 0.9 are different objects: they respond differently to new evidence. Collapsing the pair to its magnitude — presenting everything at one confidence — is a **type error**, and it is exactly TruthChecker's OVERCLAIM (a concordance dressed as a derivation, a granted premise dressed as established). The types map onto the constraint hierarchy: Tier 1 derivations from the cogito + Gelfand triple (τ → 1, the anchor nodes of the dependency graph, Appendix C §2); Tier 2 concordance from independent witnesses; Tier 3 the practitioner's not-yet-confirmed working-out.
+
+*Tier: **derivation** (as a discipline) — keeping a warrant's type (its update operator), not merely its number; the corpus's own confidence-tier rule made explicit.*
 
 ---
 

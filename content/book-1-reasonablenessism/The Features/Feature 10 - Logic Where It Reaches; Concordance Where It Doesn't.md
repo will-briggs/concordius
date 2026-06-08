@@ -33,9 +33,11 @@ Name it. The derivable part you've derived; this is what the numbers say. Now yo
 
 ---
 
-*For those acquainted with the Concordius framework:*
+## Formal Statement (Concordius Framework)
 
-The Logic/Concordance boundary is named precisely in the series: derivation runs through the Trinity (Papers 1-2); everything after is contingent (Papers 3+). This is not a limitation — it is the series being honest about what kind of claim each element is. The Trinity had to be; the superuniverses happened to be; the Lucifer rebellion happened and need not have. These are different claims with different warrants. In Appendix B, the Logic/Concordance boundary maps onto the first grade change of the series as a whole: the interval where the process cannot continue by its own resources and requires an external element. For the series, that element is the concordance — the accumulated structural readings confirming the framework's contingent claims from outside the derivation. Feature 10 is the epistemological statement of what the first grade change requires at the methodological level: honest acknowledgment that the derivation has stopped and the method has shifted.
+**The boundary of deductive closure.** Let Cl(𝒫) be the deductive closure of the framework's primitives 𝒫 (everything entailed by the cogito + the Gelfand triple). Inside Cl(𝒫), warrant is deductive (= 1 | 𝒫); at its boundary ∂Cl(𝒫), warrant-type must switch to convergence (Feature 6). Feature 10 is the discipline of **locating a claim relative to ∂ and switching method there, in the open**. The boundary is named in the framework: derivation runs through the Trinity (Papers [[Paper A0: Modeling Reality as a Gelfand Triple|A0]]–[[Paper A1: Naming the Unnameable|A1]]); everything after is contingent (Papers A2 onward), warranted by the accumulated structural readings from outside the derivation. Structurally ∂ is the series' own first grade change — the interval the process cannot cross by its own resources, requiring an element (the concordance) from outside. The deep reason the boundary cannot be wished away is Feature 1's Gödel–Tarski bound: membership in Cl(𝒫) is undecidable in general, so ∂ is real, not a convenience.
+
+*Tier: **criterion** — deductive closure is precise; deciding membership in Cl(𝒫) is undecidable in general, which is the principled open part.*
 
 ---
 

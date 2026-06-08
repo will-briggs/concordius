@@ -35,9 +35,11 @@ That's the test. But be careful with it — it applies rarely and deserves preci
 
 ---
 
-*For those acquainted with the Concordius framework:*
+## Formal Statement (Concordius Framework)
 
-Feature 7 identifies claims whose τ(D) approaches 1 — not by derivation but by structural self-confirmation. In Concordius, the primary self-sealing claim is the Trinity: given Being at all, the structure of self-expression (Father/Son/Spirit; constituting relation/constituted object/constitutive act) follows necessarily. Every attempt to deny that Being has this structure uses the structure it is denying. The Trinity derivation (Papers 1-2) is the formal statement of this self-sealing property. The contingent claims of the series — the superuniverses, the ascension journey, the Lucifer rebellion — do not pass this test. They are well-evidenced contingent accounts. The Trinity alone is structurally necessary. Feature 7 is the boundary marker between Tier 1 claims (near-axiomatic; τ(D) approaches 1) and everything else, and it prevents the series from presenting contingent Urantia cosmology with the confidence appropriate only to necessary structural claims.
+**Preserved under every denial.** A claim C is **self-sealing** iff every denial entails it: for all denial operators δ, δ(C) ⊢ C — performing the denial instantiates C (the cogito: denying you are conscious requires consciousness). In the inner product, C lies in the fixed core preserved by all admissible operators, ⟨δC, C⟩ ≠ 0 ∀δ; such C has **τ(C) → 1** from below, approaching axiom status — consistent with the spectral fact that axiom-like claims carry minimal Shannon entropy (low-entropy, high-centrality; Appendix C §6). The paradigm is the Trinity (given Being, the constituting-relation / constituted-object / constitutive-act structure follows, and every denial of it deploys it; Papers [[Paper A0: Modeling Reality as a Gelfand Triple|A0]]–[[Paper A1: Naming the Unnameable|A1]]). The test is the boundary marker between near-axiomatic claims (τ → 1) and well-evidenced contingent ones (τ bounded below 1), which do **not** pass it. The discipline is the universal quantifier — *every possible* δ, not one clever framing — which is exactly where over-generation is caught.
+
+*Tier: **criterion** — the entailment form (¬C ⊢ C) is theorem-grade and the operator form is well-posed; verifying the universal over δ is the open, case-by-case part.*
 
 ---
 

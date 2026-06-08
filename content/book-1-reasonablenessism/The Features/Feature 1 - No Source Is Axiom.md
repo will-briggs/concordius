@@ -38,9 +38,17 @@ You don't have to become an expert. You have to treat each source as a witness r
 
 ---
 
-*For those acquainted with the Concordius framework:*
+## Formal Statement (Concordius Framework)
 
-A source's truth-value is its τ(D) — the fraction of its spectral energy residing in the Φ-region of the ⟨·,·⟩-generated decomposition (Paper 9). This is a structural property of the content, independent of which H₄₈ substrate generated it, which institution preserved it, or which tradition attests it. No H₄₈ document can have τ = 1 (Paper 9, Section 6); every source is a partial incarnation, carrying whatever lower-constraint spectral weight its content actually contains. Treating any source as axiom is treating an H₄₈ encoding as having Φ-level warrant. The appropriate response to every source: evaluate its spectral weight through the Appendix C proxies — semantic coherence, cross-tradition convergence, predictive yield, generative centrality. These measure what actually matters: not the source's genealogy, but the structure it carries. It is also why the framework states its own **three grants** (Section B) in the open rather than burying them: a declared, provisional footing is honest; an axiom smuggled in as bedrock is the failure this feature names.
+A source is a vector **D** in the Hilbert space H; its truth-value is the **truth measure** τ(D) = ‖P_Φ D‖² ⁄ ‖D‖² ∈ [0, 1) — the fraction of D's spectral energy in the Φ-region of the ⟨·,·⟩-generated decomposition (defined in [[Appendix E - Machine-readable Concordius Framework|Appendix E]]; operationalized through the four proxies of [[Appendix C - A Putative Method for Machine-Assisted Phi-Proximal Textual Analysis|Appendix C]] — semantic coherence, cross-tradition convergence, predictive yield, generative centrality).
+
+**The theorem this feature rests on.** For every D generated within H₄₈, **τ(D) < 1 strictly**. The Φ-region is contained in no finite-constraint substrate (Φ ⊄ H₄₈), so the projection loses energy: P_Φ D ≠ D. Equivalently, by the Gödel–Tarski bound, no H₄₈ language carries its own truth-predicate — truth here *is* Φ-proximity, and Φ lies outside H₄₈ by construction. An "axiom" is a source of warrant 1, i.e. τ = 1; the theorem says none exists. Provenance cannot supply it either: τ is a functional of the content vector alone, constant across substrate, institution, and tradition.
+
+**Decision rule.** Admissible weighting is any strictly monotone w(τ) with w(τ) < w_max for all τ < 1 — every source weighed by its structure, none pinned at the ceiling.
+
+**The footing clause, made precise.** Where you must stand on an assumption a, it enters as a *conditioning event*: every downstream claim becomes ⟨· | a⟩, and since τ(a) < 1 the conditioning must be displayed, never marginalized away. This is why the framework carries its three grants ([[Section B - The Inheritance/index|Section B]]) in the open and as conditionals: declared provisional footing is honest conditioning; an assumption absorbed silently as if τ(a) = 1 is the axiom this feature denies.
+
+*Tier: **derivation** — given the framework's τ < 1 bound. One open input is shared by all twelve: the practical operator A that computes the spectral decomposition for language is not yet specified (Appendix C), so the measure is rigorous as a statement and pending as a computation.*
 
 ---
 

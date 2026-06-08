@@ -33,9 +33,15 @@ This convergence is evidence. Not proof — they could all be picking up on some
 
 ---
 
-*For those acquainted with the Concordius framework:*
+## Formal Statement (Concordius Framework)
 
-Feature 6 is the methodological foundation of the entire concordance program. The Law of Seven appearing in Gurdjieff's cosmology, baryon acoustic oscillations, the Law of Seven, the seven days of creation, and the seven vertebral regions of the spine — none of these establishes the Law of Seven in isolation. But their convergence across domains with no shared textual lineage is strong evidence that the Law describes actual structure in the constraint hierarchy. The independence of the witnesses is verified structurally: different H₄₈ substrates, different catching traditions, no contact relationship explaining the similarity by borrowing. When the convergence is structural rather than merely lexical — when the same relational pattern appears across domains, not just similar words — the evidential weight accumulates multiplicatively. Feature 6 is why cross-tradition convergence is one of the four Appendix C proxies for τ(D): operationally, it is how lower-constraint structure is identified in H₄₈ text.
+**Coherent accumulation.** Let independent witnesses D₁,…,D_n each carry a shared Φ-component φ plus their own channel noise: D_i = φ + ν_i with ⟨ν_i, ν_j⟩ ≈ 0 for i ≠ j. Then the shared signal adds **coherently** and the independent noise **incoherently**:
+
+‖Σ P_Φ D_i‖ ∝ n,  ‖Σ ν_i‖ ∝ √n  ⟹  SNR ∝ √n → ∞.
+
+Equivalently the independent log-likelihoods add, ℓ = Σ Δℓ_i, so posterior odds grow exponentially in n. This is the framework's own messenger-invariant recovery — S ≈ ⟨T⟩ averaged over independent messengers, whose uncorrelated filters M_i cancel (Appendix E, Messenger Corollary) — and it is why cross-tradition convergence is one of the four τ(D) proxies (Appendix C §4). The entire load rests on the independence hypothesis ⟨ν_i, ν_j⟩ ≈ 0: genuinely uncorrelated witnesses (no contact, no shared lineage), and structural rather than lexical agreement.
+
+*Tier: **derivation** — coherent averaging / additive Fisher information; conditional on verified independence, which is the interpretive open part.*
 
 ---
 

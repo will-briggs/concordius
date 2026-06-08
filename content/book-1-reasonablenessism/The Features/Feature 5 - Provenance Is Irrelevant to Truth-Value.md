@@ -35,9 +35,11 @@ It works in the other direction too. Your most trusted mentor recommends somethi
 
 ---
 
-*For those acquainted with the Concordius framework:*
+## Formal Statement (Concordius Framework)
 
-In the constraint cascade, H₄₈ substrate carries lower-constraint spectral content regardless of which node generated it. τ(D) is a structural property of the content, not its origin. Concordius operates from this posture as its methodological foundation: the concordance method treats Gurdjieff, the Urantia Book, Pauline theology, and quantum field theory as independent H₄₈ witnesses evaluated on their structural terms. The convergence across sources with incompatible provenances is the evidence. Any one of them, evaluated on provenance alone, would be dismissed by a respectable audience — which is precisely what makes their convergence significant. They had no shared institutional motive to arrive at the same structure. The provenance objection — "but this comes from Gurdjieff / a channeled text / first-century Christianity" — is a social objection, not an epistemic one. Feature 5 separates these.
+**τ is provenance-blind.** The truth measure τ(D) = ‖P_Φ D‖² ⁄ ‖D‖² is a functional of the content vector D alone; substrate, institution, and tradition are not arguments to it, so τ is **constant on provenance-fibres** — two documents of identical content and different origin have identical τ. The one honest qualification is the **Messenger Corollary, T = M(S)** (Appendix E): provenance enters only through the channel M that shapes *which* content S arrives — it raises or lowers prior scrutiny of the transmission, never the truth-value of the content received. So "strange provenance ⇒ dismiss" and "credentialed provenance ⇒ defer" are both type errors: they read M (a social fact) as if it were τ (a structural one). Provenance-worship — an H₄₈ pattern read as determinative of truth — is logged in the framework as a counterfeit-proximity inversion type (⊘, Appendix E).
+
+*Tier: **derivation** — τ takes content, not provenance, as its argument; with the Messenger Corollary as the named, separate prior-scrutiny channel.*
 
 ---
 

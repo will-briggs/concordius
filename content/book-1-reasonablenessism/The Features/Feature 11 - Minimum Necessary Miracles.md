@@ -37,9 +37,11 @@ This isn't naivety. You're not forbidden from considering the more complex expla
 
 ---
 
-*For those acquainted with the Concordius framework:*
+## Formal Statement (Concordius Framework)
 
-Both the materialist account and the consciousness-first account require a miracle: existence from non-existence. Neither eliminates it. The Concordius account names what was acting — the constitutive inner product ⟨·,·⟩, the Father — where the materialist account leaves the miracle as a brute unaddressed fact. An explained miracle is strictly preferable. Applied at scale: the Urantia cosmology requires accepting a contingent account of superuniverses, an ascension career, and a Lucifer rebellion — additional unexplained elements relative to a minimal account. But it also explains things the minimal account does not: why consciousness is primary (Paper 2), why there are three generations of particles (Paper 7), why the Fermi paradox has the form it does. The question is not whether the Urantia account has costs — it does. The question is whether those costs are less than the explanatory gains. Feature 11 is the method by which this is evaluated: case by case, explicitly, without pretending either account has no cost.
+**Minimum exogenous inputs (MDL / Occam factor).** A **miracle** is an exogenous input — an element not derivable within the model, injected from outside its closure (the framework's own object: an octave change requires a generator from outside the algebra). Let k(A) be the number of independent exogenous inputs an account A requires. Bayesian evidence penalizes each through the Occam factor: the marginal likelihood P(data | A) = ∫ P(data | θ, A) P(θ | A) dθ spreads prior mass over every free input, so each added miracle costs probability; equivalently, minimum description length minimizes (data-code + model-code) with model-code growing in k. The rule: prefer the account of minimum k — **provisionally**, and with the comparison explicit. Not "eliminate mystery" (both accounts may carry irreducible miracles; existence-from-non-existence is one neither removes) but "do not multiply it." An *explained* miracle — the constitutive ⟨·,·⟩ named where a rival leaves a brute fact — is preferred at equal k, because it lowers the count of downstream exogenous inputs.
+
+*Tier: **derivation** — the MDL / Occam-factor penalty is theorem-grade; the framework's from-outside-the-closure generator makes "miracle" precise rather than rhetorical.*
 
 ---
 

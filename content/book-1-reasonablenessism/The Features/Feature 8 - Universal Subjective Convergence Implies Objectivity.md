@@ -37,9 +37,11 @@ That universality is evidence that loneliness is a real feature of the human sit
 
 ---
 
-*For those acquainted with the Concordius framework:*
+## Formal Statement (Concordius Framework)
 
-Feature 8 is the epistemological complement of Papers 1-2. Papers 1-2 develop the consciousness-preeminence argument from the two base assumptions: the cogito and the Gelfand triple with its constitutive inner product ⟨·,·⟩. The central claim of Paper 2 — that consciousness-primacy is licensed by the convergence evidence — rests directly on Feature 8: the cogito's near-universal confirmability across all subjects in all eras is, by this feature, the strongest available grounds for inferring that self-aware subjectivity is an objective feature of reality, not an artifact of perspective. The Feature 8 correction (originally: "Objectivity is universal subjectivity," an identity claim; corrected to: "universal subjectivity implies objectivity," an inferential claim) was the first documented instance of Feature 4 in operation: features 2, 9, and 11 applied to Feature 8 itself identified that an identity claim was being made where only an inferential claim was warranted. The corrected form is more defensible, more honest about what the evidence licenses, and more consistent with Reasonablenessism's own standards.
+**Cross-observer invariant = objective.** "Objective" is defined structurally as **invariant across all observer-substrates** — a property lying in the intersection of every observer's accessible subspace (the shared Φ-component), not in any individual's private Φ′-excess. Universal subjective convergence — a property φ reported identically by the entire observer ensemble, no exceptions, structurally and not superficially — *is* that cross-observer invariant. So in the n → ∞, zero-exception limit of Feature 6, the posterior that φ is objective → 1. The inference (implies, not equals) is exactly the finite-sample gap plus the structural-similarity requirement: one can never sample "all," and surface agreement is not structural agreement. The cogito is the near-maximal case — bare self-awareness, confirmed without known exception, identical across subjects — which is why the consciousness-primacy argument (Papers [[Paper A0: Modeling Reality as a Gelfand Triple|A0]]–[[Paper A1: Naming the Unnameable|A1]]) rests here. The corrected wording, identity → inference, was Feature 4's first realized pass.
+
+*Tier: **criterion** — the invariance = objectivity identification is rigorous (objectivity as intersubjective invariance); the "implies" is Feature 6's limit carrying a named finite-sample reach.*
 
 ---
 

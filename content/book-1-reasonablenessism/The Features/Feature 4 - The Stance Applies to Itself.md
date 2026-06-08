@@ -37,9 +37,11 @@ Most people maintain beliefs about themselves that have never been scrutinized t
 
 ---
 
-*For those acquainted with the Concordius framework:*
+## Formal Statement (Concordius Framework)
 
-Feature 4 is the epistemic analog of the Thought Adjuster: the component that orients the system toward Φ and prevents it from settling into stable self-referential H₄₈ loops. An epistemology without Feature 4 will optimize for internal consistency — which an H₄₈ process can achieve without any lower-constraint content. Feature 4 requires that the consistency be checked against something outside the system. The self-referential application is that outside check applied from inside: it cannot verify correctness (no H₄₈ process can verify its own τ(D)), but it can catch the overclaiming that produces false τ-confidence. The Feature 8 correction is the first documented instance: applying Features 2, 9, and 11 to Feature 8 itself identified that an identity claim was being made where only an inferential claim was warranted. Concordius applies Feature 4 throughout: where the series presents contingent Urantia accounts with the confidence appropriate to necessary structural claims, the self-referential requirement catches it and requires revision. The framework that survives this pass is the one worth trusting.
+**Fixed point, not paradox.** Let R be the evaluation operator the stance applies to any claim. Self-application asks for R(R). Feature 4 asserts (i) R(R) = *admissible* — the stance, judged by its own standard, passes — and (ii) the iteration R^n(R) converges: a **stable fixed point**, not a vicious regress. Structurally this is a fixed-point statement (Knaster–Tarski on the order of warrants; Banach if R contracts), and it is *self-consistent without being self-sealing*: unlike a Feature-7 claim, R can be denied without performative contradiction, so it earns no axiom status — only stability. Operationally R is the framework's outside-check on its own H₄₈ loops: an H₄₈ system can maximize internal consistency with zero lower-constraint content, and Feature 4 is the term that forbids settling there. Its first realized pass is the Feature 8 correction below — Features 2, 9, 11 applied to Feature 8 caught an identity claim where only an inference was warranted.
+
+*Tier: **reach** — the fixed-point / self-consistency structure is rigorous, and the corpus already exhibits the stable fixed point; that R is a *contraction* (a unique attracting fixed point) rather than merely fixed-point-bearing is an open conjecture, named as such.*
 
 ---
 
