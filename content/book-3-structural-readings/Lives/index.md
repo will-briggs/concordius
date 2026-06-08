@@ -83,6 +83,8 @@ These are not biographies and not appraisals. A Life reading does not rank the f
 - [[Lives/Lysippos|Lysippos]] — *the life* (the canon revised toward life)
 - [[Lives/Apelles|Apelles]] — *the life* (the greatest painter, wholly lost)
 - Polykleitos → [[Visual Art/Polykleitos — The Canon|The Canon]] *(work)*
+- [[Lives/Solon|Solon]] — *the life* (balanced law; the life judged whole)
+- [[Lives/Cleisthenes|Cleisthenes]] — *the life* (democracy engineered as structure)
 - Praxiteles → [[Visual Art/Praxiteles — The Aphrodite of Knidos|The Aphrodite of Knidos]] *(work)*
 - Myron → [[Visual Art/Myron — The Discobolus|The Discobolus]] *(work)*
 - Leucippus → [[Lives/Democritus|Democritus]] *(read with the atomism)*
@@ -94,7 +96,15 @@ These are not biographies and not appraisals. A Life reading does not rank the f
 
 ### Fa — The Post-Incarnation Synthesis
 
-*(none yet)*
+- [[Lives/Paul|Paul]] — *the life* (Damascus; the Mi–Fa shock received)
+- [[Lives/Peter|Peter]] — *the life* (denial and restoration; catching through collapse)
+- [[Lives/Athanasius|Athanasius]] — *the life* (contra mundum; theosis named)
+- [[Lives/Hypatia|Hypatia]] — *the life* (the catching mind torn by the mob)
+- [[Lives/Seneca|Seneca]] — *the life* (the gap between the catch and the life)
+- Boethius → [[Philosophy/Boethius — The Consolation of Philosophy|The Consolation of Philosophy]] *(work)*
+- Marcus Aurelius → [[Philosophy/The Meditations of Marcus Aurelius|Meditations]] *(already read)*
+- Epictetus → [[Philosophy/Epictetus|The Discourses]] *(already read)*
+- Plotinus → [[Philosophy/The Enneads|The Enneads]] *(already read)*
 
 ### Sol — The Medieval High Synthesis
 

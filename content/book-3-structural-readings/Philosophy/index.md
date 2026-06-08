@@ -20,6 +20,7 @@ The significance of this independence cannot be overstated. When Plotinus, Spino
 - [[Philosophy/Heraclitus — On Nature|Heraclitus — On Nature]]
 - [[Philosophy/Parmenides — On Nature|Parmenides — On Nature]]
 - [[Philosophy/Lucretius — De Rerum Natura|Lucretius — De Rerum Natura]]
+- [[Philosophy/Boethius — The Consolation of Philosophy|Boethius — The Consolation of Philosophy]]
 - [[Philosophy/Epictetus|Epictetus]]
 - [[Philosophy/The Enneads|The Enneads (Plotinus)]]
 - [[Philosophy/The Meditations of Marcus Aurelius|The Meditations of Marcus Aurelius]]

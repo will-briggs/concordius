@@ -63,6 +63,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 [[Philosophy/Heraclitus — On Nature|Heraclitus — On Nature]]
 [[Philosophy/Parmenides — On Nature|Parmenides — On Nature]]
 [[Philosophy/Lucretius — De Rerum Natura|Lucretius — De Rerum Natura]]
+[[Philosophy/Boethius — The Consolation of Philosophy|Boethius — The Consolation of Philosophy]]
 [[Philosophy/Spinoza's Ethics|Spinoza — Ethics]]
 [[Philosophy/The Enneads|Plotinus — The Enneads]]
 [[Philosophy/Epictetus|Epictetus — The Discourses and Enchiridion]]

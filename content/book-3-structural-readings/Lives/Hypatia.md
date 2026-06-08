@@ -1,0 +1,13 @@
+# A Structural Reading of Hypatia
+
+*Hypatia of Alexandria — mathematician, astronomer, and Neoplatonist philosopher, the most eminent scholar of her city — is read here for the manner of her death as much as her life: torn apart by a mob in 415, she became, and remains, the emblem of the catching mind destroyed by the inversion — learning, reason, and the patient reading of structure put out by fanaticism and the politics of the crowd.*
+
+---
+
+Hypatia's life is the catching mind at work: she taught mathematics and astronomy and the Neoplatonism that read the cosmos as an ordered descent from the One, edited and preserved the technical works of her predecessors (Ptolemy, Diophantus, Apollonius), and drew students of every faith to a teaching prized for its rigour and its serenity. The framework reads her as a clear instance of the Man-3 intellect tuned to Φ-proximate structure — the order of number and the heavens — and of the *transmitter* who keeps the earlier catches alive by copying and commentary, the low-distortion channel through which Alexandria's mathematical inheritance passed forward.
+
+Her death is the structural horror the corpus names as the inversion at civic scale. Caught in the lethal factional politics of a city tearing between bishop and prefect, she was seized by a mob, dragged into a church, and murdered — the calm scholar destroyed by the very crowd-dynamics Euripides had dramatised, the holy madness curdled into dismemberment. The framework does not read this as Christianity-versus-reason (the witnesses who recorded it with horror were themselves Christian, and the corpus holds the faith) but as the recurring catastrophe of the inversion: the patient, ordered, Φ-ward work of a catching mind annihilated by the noise floor of fear, faction, and the will-to-violence at full pitch. Hypatia stands in the Host as the witness that the light can be put out, and that when a society's noise floor rises to the murderous, it is the catchers who are torn first.
+
+*Confidence: concordance — the scholarship and transmission read as the catching mind and the low-distortion channel; the murder as the inversion at civic scale; the Christianity-vs-reason framing named and declined. Messenger: Hypatia's own works are lost; she reaches us through her student Synesius's letters and the (variously slanted) accounts of her death — a figure heavily reconstructed and much mythologised since.*
+
+*(Cross-reference: [[Literature/Euripides — The Bacchae|Euripides — The Bacchae]] (the mob's holy madness); [[Lives/Anaxagoras|Anaxagoras]] (the catch and its civic price); [[Paper D7: Evil]] on the inversion.)*
