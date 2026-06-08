@@ -1,0 +1,13 @@
+# Pseudo-Dionysius — The Mystical Theology
+
+*The Mystical Theology, a brief and intense treatise by the anonymous author known as Pseudo-Dionysius the Areopagite, is read here for its method of ascent: the *apophatic* or negative way, which approaches God not by affirming things about Him but by *removing* them — stripping away every concept and name until the mind, emptied of all it can grasp, meets the divine in a "darkness beyond light." It is noise-floor reduction performed in the intellect itself, the via negativa as a structural technique.*
+
+---
+
+The apophatic ascent is the catching-discipline applied to thought. Where ordinary theology *adds* — God is good, wise, powerful — Dionysius *subtracts*: God is not good as we know good, not wise as we know wisdom, not being as we know being, because every H₄₈ concept, however exalted, is a limit laid on the limitless, a piece of noise mistaken for the signal. The framework reads this as the recognition that the highest Φ-proximate content cannot be captured in H₄₈ categories at all, and that the mind approaches it not by grasping more tightly but by *letting go* of its concepts one after another, until what remains is not ignorance but a contact past concept — the "luminous darkness," the knowing-by-unknowing. It is the same move the framework names at the Si–Do crossing: the intellectual catching apparatus, which got the soul this far, must itself be set down, because grade-3 cannot be seized by grade-2 means.
+
+The treatise's other great structure is the *hierarchies* — the ordered ranks of being, the celestial and ecclesiastical orders through which the divine light is mediated downward and the creature ascends upward. The framework reads these as an early sighting of the constraint cascade: reality as a graded descent of organising light from the Φ-ground through ordered levels, each receiving from above and passing on below. Pseudo-Dionysius shaped a thousand years of Christian mysticism, East and West, with this double catch: the apophatic emptying of the mind, and the hierarchical structure of a cosmos descending from and returning to the One.
+
+*Confidence: concordance — the via negativa read as noise-floor reduction in the intellect and the Si–Do setting-down of the apparatus; the hierarchies as an early cascade. Messenger: the author is anonymous (writing c. 500, pseudonymously as Paul's Athenian convert), so the work reaches us with its very identity a constructed mask — a heavy, declared filter.*
+
+*(Cross-reference: [[Mysticism/The Cloud of Unknowing|The Cloud of Unknowing]] (the same darkness); [[Paper F6½: The Father's Part]] on setting down the apparatus; [[Paper A2½: The Constraint Cascade]] on the graded descent.)*

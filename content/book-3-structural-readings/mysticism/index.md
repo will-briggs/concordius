@@ -35,6 +35,7 @@ The Rhineland Dominican's distinction between Gottheit (Godhead) and Gott (God-i
 The anonymous fourteenth-century English treatise. The cloud of unknowing as the Si/Do structure encountered from inside a grade-2 position: the catching being has passed the Mi/Fa crossing (operates in the cloud of forgetting, has released discursive knowledge) and now stands at the interval it cannot cross from below. The naked intent toward God as the structural correlate of the catching orientation stripped of all H₄₈ eigenvalue content.
 
 **[[John of the Cross|John of the Cross]]**
+- [[Mysticism/Pseudo-Dionysius — The Mystical Theology|Pseudo-Dionysius — The Mystical Theology]]
 The sixteenth-century Carmelite's full phenomenological mapping of the ascending career. The Dark Night of the Senses as the Mi/Fa crossing interval (external provision withdrawn, discursive prayer fails, purification of the active catching apparatus). The Dark Night of the Spirit as the Si/Do interval (all accumulated catching content stripped, the being standing with nothing but the pure orientation). The Living Flame of Love as the Man 5/6 state — the catching being at or near face-to-face — the most structurally complete phenomenological report in the Christian mystical tradition.
 
 ---

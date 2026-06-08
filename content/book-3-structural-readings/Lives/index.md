@@ -104,6 +104,14 @@ These are not biographies and not appraisals. A Life reading does not rank the f
 - Boethius → [[Philosophy/Boethius — The Consolation of Philosophy|The Consolation of Philosophy]] *(work)*
 - Marcus Aurelius → [[Philosophy/The Meditations of Marcus Aurelius|Meditations]] *(already read)*
 - Epictetus → [[Philosophy/Epictetus|The Discourses]] *(already read)*
+- [[Lives/Origen|Origen]] — *the life* (the layered reading; the universal reach)
+- [[Lives/Jerome|Jerome]] — *the life* (the Vulgate; the messenger to the source)
+- [[Lives/John Chrysostom|John Chrysostom]] — *the life* (the True preached to power)
+- [[Lives/Ambrose|Ambrose]] — *the life* (the order above the state)
+- [[Lives/Constantine|Constantine]] — *the life* (power turned, cross fused to sword)
+- [[Lives/Antony of the Desert|Antony of the Desert]] — *the life* (the desert as noise-floor laboratory)
+- [[Lives/Gregory of Nyssa|Gregory of Nyssa]] — *the life* (epektasis; endless approach)
+- Pseudo-Dionysius → [[Mysticism/Pseudo-Dionysius — The Mystical Theology|The Mystical Theology]] *(work)*
 - Plotinus → [[Philosophy/The Enneads|The Enneads]] *(already read)*
 
 ### Sol — The Medieval High Synthesis
