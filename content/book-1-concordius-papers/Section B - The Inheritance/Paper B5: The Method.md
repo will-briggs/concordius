@@ -1,3 +1,5 @@
+*← [[Paper B4: The Prediction|Paper B4: The Prediction]]*
+
 # Paper B5: The Method
 
 *The third product, where the science meets the theology: the operationalization of the truth measure τ for language, with the canon as the calibration baseline — the instrument the whole demonstrative project depends on. The operationalization problem (what the practical operator A is for text); the bootstrap bounded by anchoring at the framework's derived core (the cogito and the inner product as anchor nodes); four observable proxies — semantic coherence, cross-tradition convergence, predictive yield, and generative centrality, the last (how much structure a passage entails downstream) the decisive one; a two-stage algorithm (entropy filter, then outgoing-edge eigenvector centrality); the method's two honest states — an active interpretive program with a validated density estimator run at three scales, and an open NLP-automation program; and the meter turned on the framework itself, the version history read as a τ time series.*
@@ -67,3 +69,7 @@ This makes the method temporal and testable. The structural-readings corpus — 
 ---
 
 *Cross-reference: the canon was pinned to τ = 1 as the calibration baseline in [[Paper B3: The Principle]]; the paired product is [[Paper B4: The Prediction]]; the open operator this pays down is the region N of [[Paper B0: The Proof]]; the computational method accepted is that of [[Paper B2: The Test]]. The truth measure τ, the Gödel correspondence, and the phonological concordance are developed in the truth-measure paper; that no H₄₈ process reaches Φ directly is the epistemic-limit result; the formal D(t), the smoke-test results, and per-scale status live in the project's Φ-proximity detection notes. Scripture: 1 Thessalonians 5:21.*
+
+---
+
+*[[Paper B6: The Exposure|Paper B6: The Exposure]] →*

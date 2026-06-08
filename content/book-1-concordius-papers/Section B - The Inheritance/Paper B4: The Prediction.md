@@ -1,3 +1,5 @@
+*← [[Paper B3: The Principle|Paper B3: The Principle]]*
+
 # Paper B4: The Prediction
 
 *The second product, where the mathematics meets the science: predictions derived from the constraint cascade and the Gelfand triple that physics has not yet confirmed, each in a form a measurement can refute. The cascade timing that lands the H₁₂→H₂₄ transition on the GUT epoch without aiming at it (the retrodiction that calibrates the engine); a forward prediction of an event in the electroweak desert at ~10⁻²⁸ s / ~10¹¹ GeV; inflation, flatness, the horizon, and the spectral tilt re-read from the cascade; dark matter's invisibility as a structural necessity (no electromagnetic direct detection, ever); gravity's resistance to standard quantization; dark energy as Φ′ boundary pressure (w = −1 at leading order); the primordial gravitational-wave spectrum; and a closing ledger of every prediction with its falsifier — the retrodictions as evidence the engine is calibrated, the forward predictions as the bet.*
@@ -99,3 +101,7 @@ The derivations that would sharpen all of this — the Friedmann bridge (cascade
 ---
 
 *Cross-reference: the structure is derived in [[Paper B0: The Proof]] and Section A; the scientific account accepted is [[Paper B2: The Test]]; the calibration this runs on is [[Paper B3: The Principle]]; the paired method is [[Paper B5: The Method]]. The cascade timing and the norm / dark-matter reading are in [[Paper A2½: The Constraint Cascade]]; the Higgs at H₄₈ in [[Paper A4: The Ascent of Man]]. The open work named here — the Friedmann bridge, the H₂₄→H₄₈ symmetry content, the dark-matter ratio, the Φ′ equation of state, the order of the cascade transitions, the H₁₂ causal structure, n_s from H₁₂ internal structure — sharpens the predictions but is not yet done. Epigraph: Feynman, The Character of Physical Law (1965).*
+
+---
+
+*[[Paper B5: The Method|Paper B5: The Method]] →*

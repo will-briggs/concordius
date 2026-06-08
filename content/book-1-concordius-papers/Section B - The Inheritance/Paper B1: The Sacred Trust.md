@@ -1,3 +1,5 @@
+*← [[Paper B0: The Proof|Paper B0: The Proof]]*
+
 # Paper B1: The Sacred Trust
 
 *How the theologian's corpus came down — the books, and the concepts wrung from them with Logos chief among them — from the church's reception of the apostolic writings, through the councils (Nicaea settling the standing of the Word, not the list of books), to the four-and-more divided canons received today; Israel's prior stewardship of the Hebrew oracles belongs to the Old Testament (Paper A5). And the one thing laid upon that inheritance: the identification of the bare mathematical objects with the realities the tradition already named — Φ the Logos, ⟨·,·⟩ the Good and the Father and Love, τ the reader of the true — with the measure calibrated against the shared canon, and the second of the series' grants named in the open where it can be refused.*
@@ -72,3 +74,7 @@ And the boundary that closes this paper is now threefold. The measure can extend
 ---
 
 *Cross-reference: the identifications — Φ the Logos, ⟨·,·⟩ the Good, τ the true — are the theologian's reading, first made in Section A ([[Paper A0: Modeling Reality as a Gelfand Triple]]; [[Paper A1: From the Cogito to the Logos]]) and here set in the open; that the concept *Logos* was itself received and forged at Nicaea (the standing of the Word of John's prologue, settled as *homoousios*), not coined by the series, is the load-bearing point. The canon as the deposit the tradition received, kept, and divided — and as itself the rule, *kanōn* — is likewise the theologian's reading; the history and etymology are standard. Historical points (the church's reception of the apostolic writings; Nicaea 325 settling the creed and the meaning of the Logos, not the canon; Athanasius's list of 367; Hippo 393 and Carthage 397/419; Marcion c. 144 and the Muratorian fragment; the Great Schism of 1054; Luther 1534 and Trent 1546; the canon counts of the several traditions) follow standard scholarship. Scripture: Romans 3:1–2; John 1:1.*
+
+---
+
+*[[Paper B2: The Test|Paper B2: The Test]] →*

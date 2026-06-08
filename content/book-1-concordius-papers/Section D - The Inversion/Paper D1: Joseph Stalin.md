@@ -1,3 +1,5 @@
+*← [[Paper D0: Adolf Hitler|Paper D0: Adolf Hitler]]*
+
 # Paper D1: Joseph Stalin: The Complete Inversion of the True
 
 *Joseph Stalin read as the complete inversion of the True — e₂, the Logos, the Word received — the man who set the Party in the place of the Word and made it the measure of what is true, so that truth became whatever the Party decreed and reality itself was overruled by authority: confession inverted, the search for the real abolished by decree. His life set out as a seven-note descending octave with its two shocks, the photographic negative of Augustine. A study of the lie in order to refuse it, seating him nowhere among the witnesses. The victims — the starved, the purged, the confessed-against — are the moral center of every note; the perpetrator the object of study, never of sympathy.*
@@ -73,3 +75,7 @@ The same warning falls here, on the axis of the lie, and it would be the easiest
 ---
 
 *Stalin = the complete inversion of the second generator (the True, e₂ — the Logos, the measure of truth against the real): truth-by-decree displacing truth-by-correspondence; "no higher authority than the Party" as the abolition of any Φ outside the system, making the measure self-referential and τ collapse; confession inverted (Augustine's free confession of the real → the show trial's extracted confession of the unreal). His life is structured as the photographic negative of Augustine's axis, a seven-note descending octave (Do the seminary · Re the line received · Mi the apparatus · [Mi–Fa: the suppressed testament, 1924] · Fa reality overruled, collectivization and the denied famine of 1932–33 · Sol the show trial and the cult, 1936–38, with the rewritten record and Lysenko · La the turning, the war and its tens of millions · Si the lie to the last, the Doctors' Plot 1952–53 · [Si–Do: death, March 1953] · Do the verdict, the Secret Speech of 1956 and the reassertion of the real), the two shocks at their inverted positions. Historical points (b. 1878, Gori; Tiflis seminary; General Secretary 1922; Lenin's testament suppressed; collectivization from 1929 and the Holodomor 1932–33; the Moscow trials and Great Terror 1936–38; Lysenkoism; the catastrophe and victory of 1941–45; the Doctors' Plot 1952–53; d. March 1953; Khrushchev's Secret Speech 1956) follow the standard scholarship; tolls in the millions, per the opened archives. The victims are the moral center; the perpetrator is the object of study, never of sympathy. Epigraph: the Party's own creed, the inversion stated by the inverter. The exact inverse of the Augustine reading ([[Paper C1: The True]]; confession); companion to [[Paper D0: Adolf Hitler]]; follows from [[Paper C7: The Inversion]].*
+
+---
+
+*[[Paper D2: Mao Zedong|Paper D2: Mao Zedong]] →*

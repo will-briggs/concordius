@@ -1,3 +1,5 @@
+*← [[Section E - The Privation/index|Section E ← The Privation]]*
+
 # Paper F0: The Four Instruments
 
 *The opening Do of Octave F — Section VI, the Ascension Career in full, the road home that E7 turned the work toward. This note establishes how the section is played, and the answer is polyphony: the ascending melody is sounded by four instruments at once, the same climb voiced four times in four vocabularies. One of the four is the score — the mathematics, the ascent as the space itself defines it. The other three are concordances, three independent witnesses who never compared notes and play, nonetheless, the same rising line: the Christian, the Gurdjieffian, and — the most precise of all — the Urantian. The point of sounding all four is the point E0 already proved: when witnesses that could not have colluded agree, in detail, on a structure one of them derived from first principles, the agreement is evidence. The climb is real, and four hands are on it.*

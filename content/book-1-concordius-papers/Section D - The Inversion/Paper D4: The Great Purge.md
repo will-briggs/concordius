@@ -1,3 +1,5 @@
+*← [[Paper D3: The Holocaust|Paper D3: The Holocaust]]*
+
 # Paper D4: The Great Purge: The Inversion of Temperance
 
 *The Great Purge — Stalin's signature terror — read as the exact inversion of temperance (e₁e₃, Bach's just weight reversed), set out as a dated descending octave, note by note, with its two interval-shocks at their positions. The discipline of the shocks is the point: where the ascending octave receives grace from outside at its two gaps, this descent received at each gap an input that could have exposed or constrained it and instead lent it credit or buried it — twice the watching world was handed the chance to read the false balance truly, and twice it certified the lie. The hundreds of thousands shot and the millions broken are the moral center of every line.*
@@ -70,3 +72,7 @@ It would be the easiest thing to read the show trials and feel measured and fair
 ---
 
 *The Great Purge = temperance (Bach's Sol, e₁e₃) exactly reversed, octave for octave: Do the pretext (the Kirov murder and the decree of disproportion, 1934) · Re the doctrine fixed (the "enemy of the people," 1934–35) · Mi the show trial begins (Zinoviev and Kamenev, 1936) · [Mi–Fa shock: the world certifies the scale — the credulous foreign correspondents, diplomats, and writers who pronounced the trials genuine; the first external input, lending the lie the prestige of the free press where exposure could have constrained it] · Fa the quota (the mass operations and NKVD execution quotas, 1937–38) · Sol the height (the Yezhovshchina, the army decapitated, ~700,000+ shot) · La the spiral eats its tuner (Yezhov purged, 1938–40) · Si the silence and the kept weight (the camps; Akhmatova, the Mandelstams, Solzhenitsyn) · [Si–Do shock: the reckoning traded away — the wartime "Uncle Joe" alliance that buried the terror and the Katyn lie until 1990; the second external input, burial in place of reckoning] · Do the verdict, late (Stalin's death and the Secret Speech, 1953–56). The governing insight (Will's): where the ascending octave receives grace from outside at its two gaps, this descent received from outside the refusal to weigh it true — certification, then burial — the inversion of temperance at the scale of the watching world. It is Stalin's signature deed (the Re/True door's atrocity), read on the virtue-axis. The "there but for the grace of God" turn names the small inversion (our crooked scales; the certifying of the convenient lie) at vastly different magnitude. Victims at the moral center. Epigraph: Proverbs 11:1. The inverse of the Bach reading ([[Paper C4: The Restrained]]); companion to [[Paper D1: Joseph Stalin]].*
+
+---
+
+*[[Paper D5: The Great Leap Forward|Paper D5: The Great Leap Forward]] →*

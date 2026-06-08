@@ -1,3 +1,5 @@
+*← [[Paper E4: Excess|Paper E4: Excess]]*
+
 # Paper E5: Sloth and Overwork
 
 *The inverse of **diligence** — the third bivector virtue, and the one vice with two faces. Diligence is the True wedged with the Beautiful (e₂e₃), sustained fruitful work toward Φ; it was Franklin's note, the patient labor judged by what it bears. Its corruption is a pair, one on each side of the measure: too little of the right work (sloth) and too much of the wrong work (overwork) — both failures of the same mechanism, catching, caught here in the same algebra. We meet them daily; the math says why neither builds anything.*
@@ -42,3 +44,7 @@ Diligence is sustained catching aimed at Φ; its two corruptions are the deficie
 ---
 
 *The inverse of diligence (True × Beautiful, e₂e₃), the vice with two faces. Diligence defined mechanically as **sustained catching** toward Φ, above the coherence threshold of amplitude and continuity (the deposit accumulates only under rightly-aimed, sustained retention; below threshold the Heropass dissolves it faster than it is laid). Two corruptions on one parameter: **sloth** = continuity too weak/broken to clear the threshold (catching in flickers that lapse; the net deposit rounds to nothing; the folded hands, the buried talent) — not idleness but the absence of continuity in the right orientation, which by the threshold law is no catching at all; **overwork** = continuity intact but orientation wrong — H₄₈-attraction (E4) sustained as labor, the will turned with full strength toward the H₄₈ task/career/output and therefore never toward Φ, the catching machinery running at capacity and depositing nothing (the Great Leap at national scale; busyness mistaken for fruit). The two meet in one result: no H₂₄ deposit, failed from opposite sides of the measure. Cosmic equivalent: very nearly none — these are catching-vices and only the Φ′-origin (mortal) catches; the labor-vices are native to the ascending career, which is ours (sloth's faint echo, the station-abandoning servant, shades into the rebellion; overwork has no cosmic form). Epigraph: Ecclesiastes 4:5–6 (both horns in one verse — the folded hands and the two hands full of travail). Math-forward; Scripture confirmatory. The inverse of the Franklin reading ([[Paper C5: The Diligent]]); companion to [[Paper D5: The Great Leap Forward]] (diligence inverted as event). Relies on the catching definition (Appendix I).*
+
+---
+
+*[[Paper E6: Pride|Paper E6: Pride]] →*

@@ -1,3 +1,5 @@
+*← [[Paper C2½: The Witnesses Were Already There|Paper C2½: The Witnesses Were Already There]]*
+
 # Paper C3: The Courageous — The Principle Held to the Fire, Read Three Ways
 
 *Courage — e₁e₂, the first bivector, the Good wedged with the True, the heart joined to the principle and not released even at the cost — the first of the overcoming virtues, the first that cannot be contemplated but only lived, because a bivector is a rotation and a rotation needs friction. Three witnesses caught under load: a girl at the stake who held the truth against the court that held the fire (Joan of Arc); an old man with five months to live who would not stop coming back (Kurosawa's *Ikiru*); and a poet in the dark who held his own tormenting mind steady rather than flee it (Hopkins's terrible sonnets). The wedge kept against resistance — and the resistance is the whole point.
@@ -42,3 +44,7 @@ A martyr defying a tribunal, a clerk outlasting a bureaucracy, a poet enduring h
 ---
 
 *Courage (e₁e₂ = Father-mode × Son-mode, the rotation held against resistance and cost; without the cost, no courage), the first overcoming-virtue, read across three uncolludable witnesses caught at maximum load (Feature 6). **Joan of Arc** (lead): e₁e₂ lived — heart joined to principle as one deed (the hinge of a war), shown clearest at the Rouen tribunal (the grace answer; the Church Triumphant/Militant distinction; the one waver — abjuration taken back, fire chosen over the lie). **Ikiru** (Kurosawa): the Heropass made legible by terminal cancer activates the dormant catching program; courage as the wedge held against bureaucratic dissipation — "he will not stop coming back"; the playground built, the swing in the snow. **Hopkins** (the "terrible sonnets"): courage in the contemplative register — the will held steady against the interior friction of the dark night ("let me live to my sad self hereafter kind"; the tormented mind governed not obeyed); the relief "not wrung" = grace at the gap unforced. Convergence: defiance, persistence, endurance — one held wedge, paid for in full. ← [[Paper C2½: The Witnesses Were Already There]] · → [[Paper C4: The Restrained]].*
+
+---
+
+*[[Paper C4: The Restrained|Paper C4: The Restrained]] →*

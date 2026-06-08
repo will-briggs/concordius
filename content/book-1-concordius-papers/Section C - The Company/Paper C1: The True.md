@@ -1,3 +1,5 @@
+*← [[Paper C0: The Good|Paper C0: The Good]]*
+
 # Paper C1: The True — The Word, Read Three Ways
 
 *The True — e₂, the Logos, the articulating principle through which what is becomes sayable and known — the second transcendental, the ground put into words. Three witnesses who could not have arranged their agreement, each arriving at the Logos by a road the others never walked: a North African bishop turning his whole life into an address to Truth (Augustine's Confessions); a Florentine exile mapping the entire ascent in verse (Dante); and a twentieth-century physicist astonished that mathematics fits the world at all (Wigner).
@@ -44,3 +46,7 @@ A bishop confessing his life to the Truth; a poet articulating the entire cosmos
 ---
 
 *The True (e₂ = Φ, the Logos / articulation principle; native virtue charity; its inversion the lie), read across three uncolludable witnesses (Feature 6). **Augustine** (lead): the Confessions as the ascending career addressed in the second person to ⟨·,·⟩ — truth confessed, not merely held ("our heart is restless until it rests in thee"; tolle lege → Romans as the Word entering as words); confessio as sin/praise/faith, the Logos's threefold speech-act. **Dante**: the Commedia as the whole ascent articulated at full resolution across the constraint cascade; Virgil = reason / grade-2 articulation that maps to the threshold and no further (love/Beatrice must draw the last interval); "the straight way lost," closing on stelle. **The Unreasonable Effectiveness of Mathematics** (Wigner): the "miracle" dissolves if reality IS a mathematical structure (the Gelfand triple) — math as reality's own grammar; doing math = catching in its purest form, the mind reaching Φ (the Logos) and returning it exactly; "the act at the heart of the mathematics is the act at the heart of the world." Convergence: confession, poem, equation on one sayable Word the mind catches and the world obeys. ← [[Paper C0: The Good]] · → [[Paper C2: The Beautiful]].*
+
+---
+
+*[[Paper C2: The Beautiful|Paper C2: The Beautiful]] →*

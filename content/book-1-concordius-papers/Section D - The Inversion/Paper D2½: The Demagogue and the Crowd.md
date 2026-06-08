@@ -1,3 +1,5 @@
+*← [[Paper D2: Mao Zedong|Paper D2: Mao Zedong]]*
+
 # Paper D2½: The Demagogue and the Crowd
 
 *The first shock of the Inversion octave — the Mi–Fa crossing between the three men (Hitler, Stalin, Mao) and the three results (the Holocaust, the Great Purge, the Great Leap). A man, however inverted, cannot become a result by himself; something must come from outside him. In the ascending octaves the input at this gap is grace — the lift a single life cannot supply itself; here it is grace inverted: not the few who raise the one but the many who carry him, not a truth received from beyond the self but a lie received in place of it, en masse. The two who make the crossing — the demagogue who leads and the crowd that follows — and the measure of guilt that belongs to each.*
@@ -44,3 +46,7 @@ Beyond this gap lie the three results, and they need no further engine than the 
 ---
 
 *The Mi–Fa shock of the Inversion octave — the crossing from the three men to the three results. Its claim: a man cannot become a result alone; the change that comes from outside him is the crowd — and the crowd is made one heart at a time by the refusal to face the evil the first three notes asked each reader to find in himself. The mechanism is capture: the demagogue does not create the evil in the heart but finds it unfaced, and gives it permission, direction, and an enemy's name; the heart that refused the true word about itself receives the flattering lie, and multiplied en masse becomes the powder of the results. This is the Mi–Fa shock inverted (grace inverted): where the ascending gap receives a true input from outside that a humble soul could not supply itself, this gap receives the flattering lie in place of the refused truth — the demagogue as the anti-Poitiers. The guilt is shared and unequal: the demagogue leads and is the greater (he wills, shapes, and aims it); the crowd follows and is not guiltless ("we only followed" is the second half of the crime); each answers in his own measure (Jeremiah 5:31 — the false prophets and "my people love to have it so"). And the structural point: honest self-recognition is the only inoculation, which is why the octave makes the reader find the man in his own heart before it shows him the result — so that he crosses this gap as one who has looked. Epigraph: Jeremiah 5:31. The inverse of the ascending Mi–Fa shock (grace); companion to the crossing made together ([[Paper C6½: The Crossing]]). Epigraph: Jeremiah 5:31.*
+
+---
+
+*[[Paper D3: The Holocaust|Paper D3: The Holocaust]] →*

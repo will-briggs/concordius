@@ -1,3 +1,5 @@
+*← [[Section A - The Foundation/index|Section A ← The Foundation]]*
+
 # Paper B0: The Proof
 
 *The inherited line of mathematics — from the earliest record of counting through the Gelfand triple — and the one object built within it: the truth measure τ, the fraction of a state's spectral energy lying in the nuclear region, with 0 ≤ τ ≤ 1 and the value 1 a limit no proper element of H attains. A proof in the strict sense — granted premises, then a chain of inferences each forced by a defect in the last — closing on an exact account of what is borrowed, what is added, and what is assumed.*
@@ -121,3 +123,7 @@ Schwartz, L. (1950–51). *Théorie des distributions.* Hermann.
 von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik.* Springer.
 
 *The lineage is reconstructed as far as the record allows; the intellectual debts among these works are layered and not always cleanly documented, and the line above names the principal contributors, not every tributary. The Lebombo dating is archaeological, and the arithmetic reading of its markings is interpretive, not settled; it is cited as the oldest surviving record of counting, no more. The real continuum the analysis presupposes is the work of Dedekind and Cantor. The contemporary standard treatment of the rigged Hilbert space in quantum mechanics (de la Madrid, 2005) is consistent with the structure used here but is not required by it.*
+
+---
+
+*[[Paper B1: The Sacred Trust|Paper B1: The Sacred Trust]] →*

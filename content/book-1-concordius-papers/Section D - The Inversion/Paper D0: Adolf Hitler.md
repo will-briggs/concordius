@@ -1,3 +1,5 @@
+*← [[Section C - The Company/index|Section C ← The Company]]*
+
 # Paper D0: Adolf Hitler: The Complete Inversion of the Good
 
 *Adolf Hitler read as the complete inversion of the Good — e₁, the inner product, the worth of what is — not a man who did evil among goods but a life organized, to its root, around the negation of the Good: the descending octave carried to the floor. His life set out as a seven-note octave with its two shocks, the exact photographic negative of Joan's, every sign reversed — the negative that proves the pattern by showing its absence. A study of evil in order to refuse it, seating him nowhere among the witnesses; the silence the Host of Witnesses kept on him, examined. The victims, not the perpetrator, are the moral center of every note; nothing is softened.*
@@ -74,3 +76,7 @@ It would be the easiest thing to read this and feel clean by the contrast — to
 ---
 
 *Hitler = the complete inversion of the first generator (the Good, e₁ — the moral axis): the descending octave carried to its floor, the will curved wholly inward (Augustine's incurvatus in se), evil as privatio boni at maximum scale, the truth measure driven toward τ → 0. His life is structured as the photographic negative of Joan's seven-note octave (Do the grievance · Re the lie received · Mi the demagogue's motion · [Mi–Fa: power handed over, 1933] · Fa the total state · Sol the false summit · La the turning, Stalingrad · Si the fire inflicted, the Shoah · [Si–Do: the bunker, 1945] · Do the verdict, Nuremberg and "never again"), the two shocks at their inverted positions. Historical points (b. April 1889, Braunau am Inn; rejected by the Vienna Academy; WWI dispatch runner; the Dolchstoßlegende; Munich, the NSDAP; 1923 putsch and Mein Kampf; Chancellor 30 Jan 1933; Reichstag fire and Enabling Act; the Night of the Long Knives; Führer 1934; the Nuremberg Laws 1935 and Kristallnacht 1938; the conquests 1936–41; Barbarossa June 1941; the turn at Stalingrad 1942–43; the Holocaust, ~6 million Jews and millions of others; suicide 30 April 1945; Nuremberg Trials 1945–46) follow the standard scholarship. The victims are the moral center; the perpetrator is the object of study, never of sympathy. Epigraph: Solzhenitsyn (a witness, on the nature of evil). The exact inverse of the Joan of Arc reading ([[Paper C3: The Courageous]]); follows from [[Paper C7: The Inversion]].*
+
+---
+
+*[[Paper D1: Joseph Stalin|Paper D1: Joseph Stalin]] →*

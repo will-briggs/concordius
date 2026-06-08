@@ -1,3 +1,5 @@
+*← [[Paper E2½: Type and Degree|Paper E2½: Type and Degree]]*
+
 # Paper E3: Cowardice
 
 *The inverse of **courage** — the first of the three bivector virtues — at the cosmic scale and the human one. Courage is the Good wedged with the True (e₁e₂, Father × Son in action), the known good-and-true let become a deed at cost to the self; it was Joan's note, the principle held to the fire. Its inverse, cowardice, defined mathematically as the withheld wedge — both generators present, the deed refused to keep the self off the cost — and read in two registers: the cosmic, in the arch-rebel who would not go first, and the human, in the daily withholding of the act one knows one owes.*
@@ -38,3 +40,7 @@ Cowardice is the withheld wedge: both generators of courage present — the Good
 ---
 
 *The inverse of courage (Good × True, e₁e₂). Cowardice defined mathematically as the withheld wedge: both generators (the Good, the True) present in the agent, the bivector — the deed at cost to the self — refused to keep the self off the cost; the one vice that requires full possession of both the Good and the True to commit (it cannot be done in ignorance). Cosmic register: the arch-rebel who told other angels to go before him — maximum endowment, refusing to be the self the wedge cost — with the carried correction that he is **not decohered, only imprisoned**, held intact against the end he earned and has not reached (the patient justice of the coward: not spared the cost, made to watch it arrive and pay it last). Human register: the shirk — knowing the good and the true and withholding the deed for the self's sake (John 12:42–43, those who believed but would not confess, loving the praise of men). Epigraph: Revelation 21:8 (the fearful named first among the lost). Math-forward; Scripture confirmatory. The inverse of the Joan reading ([[Paper C3: The Courageous]]); companion to [[Paper D3: The Holocaust]] (courage inverted as event). Correction flagged for the corpus: where Lucifer is depicted as already ended/decohered, re-tier to "doomed but not yet decohered — imprisoned, awaiting."*
+
+---
+
+*[[Paper E4: Excess|Paper E4: Excess]] →*

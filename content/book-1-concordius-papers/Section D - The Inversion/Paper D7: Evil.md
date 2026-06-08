@@ -1,3 +1,5 @@
+*← [[Paper D6½: The Fall|Paper D6½: The Fall]]*
+
 # Paper D7: Evil
 
 *The closing note of the Inversion octave, and the hinge into what follows. The dark octave has traced evil as far as the framework's three witnesses can carry it — through the three inverted doors and the three inverted virtues, to the archetype exposed (Lucifer), to the entry of the inversion into the world (the Fall) — and this is where the system reaches its edge and says so. On the deepest question, the origin and cosmology of the first turning, the canon is sparse and mathematics and natural science are silent; the honest thing is not to guess but to name the limit precisely and ask what it would take to go past it. The answer is Gödel — the formal reason the limit is structural, not accidental — which opens the door to the next octave, where a further testimony is admitted, fenced and clearly tiered, to speak where the system cannot.*
@@ -38,3 +40,7 @@ So the dark octave resolves, and does not pretend to resolve more than it can. E
 ---
 
 *The closing note of the Inversion octave, the hinge into Octave E. It states how far the three witnesses (mathematics, canon, science) reached on evil — its nature (privation; the generators turned), its entry (the Fall), its presence in us (the crowd) — and where they stop together: the origin and cosmology of the first turning, on which the canon is sparse and math and science silent. It names the silence as structural via Gödel (any sufficiently rich consistent system contains truths unprovable within it; the way to a truth unreachable inside a system is to step to a larger frame), turning the limit from an embarrassment into an expected feature and into a warrant. And it licenses the step the next octave takes — admitting the Urantia testimony as an outside witness to speak where the system cannot — with the fence built in: testimony not proof, concordance not constraint, quarantined to its own octave, never overruling what was established, never touching the canonical octaves (the earlier exclusion of this testimony from the canon was correct; its fenced admission here, at the marked edge, under Gödel's license, is also correct). The resolution proper — the morning star's stolen title returned — is deferred past this edge. Epigraph: Deuteronomy 29:29 ("the secret things belong unto the LORD"). The hinge into Octave E, whose first note is the warrant itself (the Incompleteness Theorem). Builds on [[Paper D6: Lucifer]] and [[Paper D6½: The Fall]]. Epigraph: Deuteronomy 29:29.*
+
+---
+
+*[[Section E - The Privation/index|Section E → The Privation]] →*

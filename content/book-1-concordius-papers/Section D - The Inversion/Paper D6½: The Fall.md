@@ -1,3 +1,5 @@
+*← [[Paper D6: Lucifer|Paper D6: Lucifer]]*
+
 # Paper D6½: The Fall
 
 *The second shock of the Inversion octave — the Si–Do crossing from Lucifer (the archetype of evil exposed) to evil at large in the world. In the ascending octaves the Si–Do is the crossing no one makes alone; here it is that crossing inverted — the one by which the inversion passed out of the archetype and into creation, and into us. The canon calls it the Fall and tells it twice: once of the angels, once of man — read as the canon gives it, and the second telling shown to be the first demagogue and the first crowd, the pattern of the Mi–Fa shock run at the beginning of the world.*
@@ -40,3 +42,7 @@ The canon tells the Fall fully enough to live by: that it happened, how it happe
 ---
 
 *The Fall — the crossing by which the inversion passed from the archetype ([[Paper D6: Lucifer]]) into creation and humanity, resolving toward [[Paper D7: Evil]]. Told twice in the canon: the angelic fall (the first turning, uncaused by any prior fall — the place the record goes quiet) and the human fall (Genesis 3), which is the first instance of D2½ exactly — the serpent as the first demagogue offering the inversion's own lie ("ye shall be as gods"), the first crowd refusing the true word and taking the flattering one (the eating = the first capture), and the guilt shared and unequal with "we only followed" refused in Genesis 3 (the buck-passing of Adam and Eve, judged anyway). The inverted Si–Do: where the ascending crossing is a gift received from beyond that lifts, this is a lie received that lowers and cannot be taken back from inside (Eden gated, Romans 5:12 — "by one man sin entered into the world"). Closes on the edge: the canon gives the fact of the Fall and withholds the mechanics of the first turning — the threshold D7 names. Epigraph: Genesis 3:4–5. Builds on [[Paper D6: Lucifer]] and [[Paper D2½: The Demagogue and the Crowd]], inverting the ascending Si–Do crossings. Epigraph: Genesis 3:4–5.*
+
+---
+
+*[[Paper D7: Evil|Paper D7: Evil]] →*

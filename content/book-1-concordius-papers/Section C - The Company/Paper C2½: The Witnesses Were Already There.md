@@ -1,3 +1,5 @@
+*← [[Paper C2: The Beautiful|Paper C2: The Beautiful]]*
+
 # Paper C2½: The Witnesses Were Already There
 
 *The first shock of the Company octave — the Mi–Fa turn from the three generators (the Good, the True, the Beautiful, which can be contemplated, reasoned to from the mathematics before any witness is read) to the three bivectors (courage, temperance, diligence, the overcoming virtues, which cannot be contemplated into being but must be lived under resistance, at cost, in a world that pushes back). The external input the turn is named for: the witnesses, who were already there — having lived the costly virtues before the framework arrived to read them. The reading did not summon the saints; it found them, and that prior, independent existence is what makes them evidence rather than the theory's own creatures.*
@@ -34,3 +36,7 @@ So the interval is crossed the way every Mi–Fa is crossed: not by the climber'
 ---
 
 *The Mi–Fa interval of the Company octave — the turn from the three generators (Good/True/Beautiful, the transcendentals, contemplated/derived) to the three bivectors (courage/temperance/diligence, the overcoming virtues, lived against resistance). Structural character: grade-1 → grade-2, the contemplated → the enacted; a bivector is a rotation that needs friction, so the virtues cannot be reasoned into being but must be lived at cost in a resisting world. The shock (external input the reading cannot generate): the witnesses' **prior, independent existence** — the saints lived their costly lives before the framework arrived to read them, which is exactly what makes them evidence rather than the theory's own creatures (a structure that conjured its confirming examples would confirm nothing). States the section's engine plainly: the convergence of independent witnesses (Deut 19:15; Feature 6) — channels with no shared source converging on one structure is explained only by the structure being real. Opens the second movement; its first note's lead witness (Joan) the framework named before it could have chosen her. → [[Paper C3: The Courageous]].*
+
+---
+
+*[[Paper C3: The Courageous|Paper C3: The Courageous]] →*

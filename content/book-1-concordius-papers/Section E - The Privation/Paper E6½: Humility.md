@@ -1,3 +1,5 @@
+*← [[Paper E6: Pride|Paper E6: Pride]]*
+
 # Paper E6½: Humility
 
 *The Si–Do shock of Octave E — the crossing out of pride. The exposure showed the root sin entire: the whole self turned from Φ toward itself, all three bivectors inverted at once; this interval is the single turn that reverses it. In the ascending octaves the Si–Do was always the crossing no one makes alone — a death opening onto vindication, a reader's turn, a darkness faced together; here it is the same gap and the same kind of crossing: humility, the turn of the whole self back toward the ground, which a being cannot fully make on its own because pride is the one state hidden from the eye that holds it, and which is therefore met — as every Si–Do is — by an input from outside. The lowest point and the turning point at once.*
@@ -34,3 +36,7 @@ So the inversion arc reaches its crossing and is, at it, reversed. Everything fr
 ---
 
 *The Si–Do shock of Octave E — the crossing out of pride, which is humility. Defined as orientation, not opinion: pride was the self's single global orientation maximally toward Φ′ (the one dial hard the wrong way, all bivectors inverted at once); humility is that dial turned back — the whole self oriented toward Φ/the ground, which is **catching run on every axis** (E2½'s answer performed against the root), and is **not** a low self-estimate (that is still the self measuring the self — pride's meter, needle down — equally inward-curved). Why it cannot be made alone (as every Si–Do): pride is uniquely self-concealing — the meter that reads it is the inner product, which the proud self cannot run on itself, and the turned will is least able to see it is turned — so the turn is received, not computed: the true reading of oneself submitted to the one meter ("search me, O God"), the grace that meets a self that has stopped defending itself, the kenotic example of the One who declined to grasp and went down. James 4:10 holds both sides of the one crossing — the creature's turn toward the ground and the ground's answering lift. The lowest point is the turning point: the Si floor (maximal fragmentation, minimal τ) and humility are the same place, faced and turned — the way up runs through the low place, not around it (Luke 18:14; the publican justified, the Pharisee not) — so the bottom of the descending octave and the first step of the ascending one are one interval. It begins the cure, not completes it; it opens onto the new tonic (E7, the ascension career — humility sustained, catching on every axis, all the way up). Epigraph: James 4:10. Math-forward; Scripture carries the crossing. Builds on E6 (Pride), E2½ (catching as the answer), E2 (fragmentation).*
+
+---
+
+*[[Paper E7: The Ascension Career|Paper E7: The Ascension Career]] →*

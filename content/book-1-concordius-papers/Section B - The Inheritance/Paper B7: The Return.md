@@ -1,3 +1,5 @@
+*← [[Paper B6½: The Reader's Turn|Paper B6½: The Reader's Turn]]*
+
 # Paper B7: The Return
 
 *The tonic returned, an octave up — the first note on the far side of the reader's crossing. The founding octave's question (the ground; what we do not know) sounded again, no longer in the abstract but through a single person: Plato, the first who asked it well, beginning from the Socratic not-knowing and turning the soul toward the Good. What the reader's crossing unlocks: the method (Reasonablenessism), the Structural Readings (the demonstrative project entire), and the framework resumed — generative now, the instrument used rather than described. And the first reading: Plato's Form / particular / participation recognized as the Gelfand triple at the level of being — the whole recovered from a single soul.*
@@ -50,3 +52,7 @@ So the note is struck, an octave up, and the series resumes — not by proving m
 ---
 
 *Cross-reference: the exposure and the reader's handoff are [[Paper B6: The Exposure]]; the first tonic is [[Paper B0: The Proof]]; the trust under all of it is [[Paper B2½: The Leap]]. On the far side the method is Reasonablenessism (Book 2) and the readings are the Structural Readings (Book 3); the readings begin with Plato. Scripture of the founding octave gives way here to philosophy, as the door requires. Epigraph: Plato, Republic VII (518c–d), the turning of the soul.*
+
+---
+
+*[[Section C - The Company/index|Section C → The Company]] →*

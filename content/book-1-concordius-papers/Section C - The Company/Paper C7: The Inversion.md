@@ -1,3 +1,5 @@
+*← [[Paper C6½: The Crossing|Paper C6½: The Crossing]]*
+
 # Paper C7: The Inversion — Do, in the Minor Key
 
 *The closing note of the personal octave, struck in the minor: the one deliberate silence the Host of Witnesses kept — the tyrants, the men left unsaid — now given a voice, not to seat the inverters among the witnesses but to study what they are, the Good and the True and the Beautiful turned against themselves. The governing claim of the descending octave that follows — evil as privation, not addition: the three generators turned, never a fourth — and its grammar: the will curved inward, the lie, the spectacle; pretext, propaganda, machinery; grievance and conquest. The key is minor by necessity; it does not stay there.*
@@ -56,3 +58,7 @@ And it begins by insisting on the thing Isaiah insisted on: that the names have 
 ---
 
 *The closing note of the Host of Witnesses' octave, struck low and in the minor, setting the stage for the inverting octave that follows (which opens with Hitler). It establishes the governing claim (evil as privation, not addition: the three generators turned, never a fourth) and the section's grammar (the Good → the will curved inward; the True → the lie; the Beautiful → the spectacle; the bivectors → pretext, propaganda, machinery; the two shocks → grievance and conquest), and it sets the anti-pattern as the photographic negative of the personal series. Epigraph: Isaiah 5:20. Grows from "Note — the anti-pattern (why the tyrants are absent)." The key is minor; it resolves only when the words are kept from changing places.*
+
+---
+
+*[[Section D - The Inversion/index|Section D → The Inversion]] →*

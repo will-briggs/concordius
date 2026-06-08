@@ -1,4 +1,4 @@
-*← [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½ — The Constraint Compatibility Condition]]*
+*← [[Section F - The Ascension/index|Section F ← The Ascension]]*
 
 # Paper G0: The Good-Centered Man
 

@@ -1,3 +1,5 @@
+*← [[Paper B2½: The Leap|Paper B2½: The Leap]]*
+
 # Paper B3: The Principle
 
 *The first calibration. With the truth measure, the canon, and the mapping accepted as premises, two references are pinned to the top of the scale — the framework's own derived core and the shared core of the Christian canon, both set to τ = 1 at the nuclear limit — and a decision procedure is fixed for where the two agree, where one is silent or divided, and where they would clash; the one worked case (the Filioque, where the structure decides against its own authors' tradition); the derivation, from those two anchors, of the holographic content principle — the whole present in and recoverable from every part, because the Creator is in every part and the constraint cascade nests the whole's form at every level — which the science can only instance, not reach; and what the move opens: the whole canon readable as a body of theorems-given-the-premises, and a frontier of open questions running in both directions between the two anchors.*
@@ -102,3 +104,7 @@ Three honesties close the paper, because the procedure is sharper in statement t
 ---
 
 *Cross-reference: the calibration rests on the trust crossed at [[Paper B2½: The Leap]] and on the measure and limit of [[Paper B0: The Proof]], and on the canon, mapping, and boundary of [[Paper B1: The Sacred Trust]]; the method that fixes the open region N against this calibration is [[Paper B5: The Method]], and the predictions where the structure meets the world are [[Paper B4: The Prediction]]. Scripture: Amos 7:7–8; the Filioque / per Filium reading as developed in [[Paper A1: From the Cogito to the Logos]].*
+
+---
+
+*[[Paper B4: The Prediction|Paper B4: The Prediction]] →*

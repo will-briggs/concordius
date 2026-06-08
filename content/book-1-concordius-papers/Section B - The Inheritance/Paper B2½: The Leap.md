@@ -1,3 +1,5 @@
+*← [[Paper B2: The Test|Paper B2: The Test]]*
+
 # Paper B2½: The Leap
 
 *The hinge before the reading begins: that none of the three inherited corpora — the mathematics, the canon, the science — reaches a bottom; that the gap this opens is not the series' peculiar flaw but the universal condition every knower already crosses (the deductive gap of arithmetic, the inductive gap of science, the testimonial gap of history); that each door crosses it in its own currency — the idea that compels of itself, the canon weighed as testimony, the method exposed to test; and that what the crossing asks is not belief but the provisional trust reason already extends to arithmetic and the dawn — with, on the far side, the one thing that would make it more than a leap: that Truth can cross the gap from its own side.*
@@ -58,3 +60,7 @@ On that trust, in its three currencies, with the instruments built and the seam 
 ---
 
 *Cross-reference: the three corpora gathered — the inherited mathematics ([[Paper B0: The Proof]]), the inherited canon ([[Paper B1: The Sacred Trust]]), the inherited science ([[Paper B2: The Test]]); the open region N, where the reading must re-enter the mathematics and earn its keep against objects the series did not make, is marked in [[Paper B0: The Proof]] and pursued in the appendices. Scripture: Hebrews 11:1.*
+
+---
+
+*[[Paper B3: The Principle|Paper B3: The Principle]] →*

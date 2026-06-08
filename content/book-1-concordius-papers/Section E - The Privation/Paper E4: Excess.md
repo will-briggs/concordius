@@ -1,3 +1,5 @@
+*← [[Paper E3: Cowardice|Paper E3: Cowardice]]*
+
 # Paper E4: Excess
 
 *The inverse of **temperance** — the second bivector virtue. Temperance is the Good wedged with the Beautiful (e₁e₃), the just measure, proportion held, the will kept tuned and free; it was Bach's note, the well-tempered field in which every key can sound. Its inverse, excess — the loss of measure, the will saturated past tuning — defined mathematically as **H₄₈-attraction**, and shown to foreclose the one act on which a mortal's whole development depends, the catching of Φ-proximal content into H₂₄. Its plain name is Mammon, and most of the paper reads as a homily on money; the math is underneath, holding it up.*
@@ -42,3 +44,7 @@ Temperance is the measure of H₄₈-engagement that leaves the will free to cat
 ---
 
 *The inverse of temperance (Good × Beautiful, e₁e₃). Excess defined mathematically as **H₄₈-attraction** grown past the measure of temperance until the will's single orientation is saturated by H₄₈ content. The load-bearing claim: catching (the volitional turning of a Φ′-origin will toward a Φ-element, building the H₂₄ soul deposit) and H₄₈-attraction compete for the will's one orientation, so excess does not merely fail to catch — it forecloses catching (Matthew 6:24, "ye cannot serve God and mammon," read as structure, not counsel; the camel/needle as the closed turning-aperture). Money is the canonical vessel because it is unbounded, liquid H₄₈ content and so generates ceilingless attraction; extravagance is the same saturation seen from spending (the detuned will). Cosmic equivalent: largely none, and the reason is the payoff — excess is a catching-vice and only the Φ′-origin (mortal) catches; an H-origin angel does not catch and so cannot fall to Mammon (the nearest analogue, pride/over-attachment to created glory, is the rebellion of E1, not this). Math-forward; Scripture load-bearing. The inverse of the Bach reading ([[Paper C4: The Restrained]]); companion to [[Paper D4: The Great Purge]] (temperance inverted as event). Relies on the catching definition (Appendix I).*
+
+---
+
+*[[Paper E5: Sloth and Overwork|Paper E5: Sloth and Overwork]] →*
