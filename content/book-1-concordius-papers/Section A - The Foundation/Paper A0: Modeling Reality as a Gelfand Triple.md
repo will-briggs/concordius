@@ -32,10 +32,14 @@ It is nevertheless incomplete. The [[Appendix I - Dictionary of Terms#Eigenstate
 
 The resolution is the rigged Hilbert space, or Gelfand triple: a triplet of spaces Φ ⊂ H ⊂ Φ′ in which Φ is a dense nuclear subspace of H and Φ′ is its distributional dual. This is the framework in which Dirac's bra-ket formalism is rigorously justified (Gelfand and Vilenkin, 1964; Maurin, 1968). It is not a supplement to H — it is the correct mathematical framework for quantum mechanics, of which the bare Hilbert space H is a central but incomplete component.
 
+<hr>
+
 <figure>
 <img src="/static/images/dirac-1933.jpg" alt="Portrait of Paul Dirac, 1933" style="max-width:100%;">
 <figcaption><em>Paul Dirac</em> (1933). Dirac's bra-ket notation treated |x⟩ and |p⟩ as eigenstates that no element of the Hilbert space could hold — a formalism that worked before it was justified. The Gelfand triple Φ ⊂ H ⊂ Φ′ is the structure in which that informal method is made rigorous.</figcaption>
 </figure>
+
+<hr>
 
 This paper makes two connected claims. First, that the Gelfand triple structure is not arbitrary but inevitable: given any model of reality founded on inner product structure, the three domains Φ, H, and Φ′ are forced by the mathematics. Second, that the inner product ⟨·,·⟩ itself — prior to its completion into the triple — inevitably generates five distinct structural actualities, each following necessarily from what the inner product is. Both claims are developed below. The relationship between the two projections is examined in Section 7.
 
@@ -261,10 +265,14 @@ The Gelfand triple is the minimum necessary mathematical structure for quantum m
 
 The inner product's invariance across all three domains — and its role as the common source of both II and III (the relational and metric aspects of the same structure) — suggests that it occupies a foundational position not well captured by saying it "belongs to H." The inner product constitutes all three domains. It is not an element of the model; it is what the model is made of.
 
+<hr>
+
 <figure>
 <img src="/static/images/von-neumann-los-alamos.jpg" alt="John von Neumann, Los Alamos identity badge photograph" style="max-width:100%;">
 <figcaption><em>John von Neumann, Los Alamos identity badge</em> (c. 1943–45). Von Neumann's <em>Mathematische Grundlagen der Quantenmechanik</em> (1932) made the inner-product Hilbert space the rigorous foundation of quantum mechanics — the structure this paper reads as foundational, and which the Gelfand triple completes.</figcaption>
 </figure>
+
+<hr>
 
 The philosophical implications of a single constitutive structure generating both a relational domain (II, Φ) and a metric domain (III, ‖·‖) — and being invariant across the three topological presentations of the resulting space — are addressed in the companion paper. The nomenclature adopted for the five actualities in Section 5 is taken up there as well.
 

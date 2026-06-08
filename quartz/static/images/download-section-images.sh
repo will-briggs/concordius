@@ -284,6 +284,10 @@ dl von-neumann-los-alamos.jpg \
   "https://commons.wikimedia.org/wiki/Special:FilePath/John_von_Neumann_Los_Alamos_identity_badge_photo.jpg?width=1400" \
   "Paper A0: John von Neumann - Los Alamos badge (US-gov, public domain)"
 
+dl domenichino-john-evangelist.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Zampieri_St_John_Evangelist.jpg?width=1400" \
+  "Paper A1 sec3: Domenichino - St John the Evangelist (c.1620s)"
+
 for f in \
   antonello-jerome-study.jpg \
   masaccio-trinity.jpg ladder-of-divine-ascent.jpg \
@@ -298,7 +302,7 @@ for f in \
   rembrandt-two-old-men-disputing.jpg holbein-the-ambassadors.jpg \
   friedrich-monk-by-the-sea.jpg \
   feature-01-vermeer-balance.jpg feature-02-forge-of-vulcan.jpg feature-03-incredulity-of-thomas.jpg feature-04-las-meninas.jpg feature-05-moneylender.jpg feature-06-pentecost.jpg feature-07-ouroboros.png feature-08-air-pump.jpg feature-09-great-chain-of-being.png feature-10-carta-marina.jpg feature-11-william-of-ockham.jpg feature-12-basket-of-fruit.jpg \
-  trouvelot-orion-nebula.jpg geertgen-nativity-night.jpg rembrandt-philosopher-meditation.jpg hilbert-1912.jpg wmap-cmb-9yr.png dirac-1933.jpg von-neumann-los-alamos.jpg; do
+  trouvelot-orion-nebula.jpg geertgen-nativity-night.jpg rembrandt-philosopher-meditation.jpg hilbert-1912.jpg wmap-cmb-9yr.png dirac-1933.jpg von-neumann-los-alamos.jpg domenichino-john-evangelist.jpg; do
   check_image "$f"
 done
 

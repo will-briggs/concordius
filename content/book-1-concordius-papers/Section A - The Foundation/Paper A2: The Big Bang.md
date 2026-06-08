@@ -74,10 +74,14 @@ It must be said plainly that inflation is the **leading paradigm and not a confi
 
 ## 5. The hot Big Bang to the Higgs vacuum: the physical universe as we know it
 
+<hr>
+
 <figure>
 <img src="/static/images/wmap-cmb-9yr.png" alt="WMAP nine-year all-sky map of the cosmic microwave background" style="max-width:100%;">
 <figcaption><em>WMAP nine-year cosmic microwave background</em> (NASA / WMAP Science Team, 2012). The oldest light we can see — the relic photons of the hot Big Bang, freed when the cooling universe first turned transparent, mapped across the whole sky in Mollweide projection. The ±200 µK ripples are the seeds of every later galaxy; the massless photon §5 follows from the Higgs vacuum is this same carrier, seen as the afterglow it became.</figcaption>
 </figure>
+
+<hr>
 
 Whatever happened at the very start, inflation (if it occurred) ended in **reheating**: the energy of the inflating field decayed into a hot bath of particles, and the universe entered the hot, expanding, radiation-dominated state that the three witnesses of §2 record directly. From here the sequence is comparatively well understood. The quark–gluon plasma cooled; near 10⁻⁶ seconds quarks became permanently confined into protons and neutrons. One fact from this era is load-bearing for everything after it: a tiny surplus of matter over antimatter — about one part in a billion — survived the mutual annihilation, and everything that now exists is built from that residue. Its origin, **baryogenesis**, is genuinely unsolved.
 

@@ -25,6 +25,8 @@ title: Appendix VI - Catalogue of Illustrations
 
 **Paper A1: From the Cogito to the Logos**
 - *Antonello da Messina, St. Jerome in His Study* (c. 1474–75) &nbsp;·&nbsp; `antonello-jerome-study.jpg`
+- *Domenichino, Saint John the Evangelist* (c. 1620s) &nbsp;·&nbsp; `domenichino-john-evangelist.jpg`
+- *Gustave Doré, The Empyrean (Paradiso Canto 31)* (1868) &nbsp;·&nbsp; `dore-rose-paradise.jpg`
 
 **Paper A2: The Big Bang**
 - *J. M. W. Turner, Light and Colour (Goethe's Theory) — The Morning after the Deluge — Moses Writing the Book of Genesis* (1843) &nbsp;·&nbsp; `turner-light-and-colour.jpg`
