@@ -1,0 +1,13 @@
+# Patanjali — The Yoga Sutras
+
+*The Yoga Sutras of Patanjali are read here as one of the ancient world's most precise operating manuals for what the framework calls noise-floor reduction: a systematic, staged discipline for stilling the automatic activity of the mind until what lies beneath it can be seen. The second sutra states the whole programme in four words — *yogas chitta vritti nirodha*, "yoga is the stilling of the fluctuations of the mind" — and the rest is method.*
+
+---
+
+The *chitta vritti* — the ceaseless fluctuations, the turnings of the mind-stuff — are the noise floor named with diagnostic exactness: the mechanical, self-generating mental activity that claims the attention's resources and keeps the catching-orientation from operating. Patanjali's claim is that this activity can be *progressively reduced* by discipline, and that as it quiets, the seer (*purusha*) rests in its own nature rather than being identified with the turnings. The framework reads the eight limbs — ethical restraint, observance, posture, breath-regulation, withdrawal of the senses, concentration, meditation, and *samadhi* — as a Man-4 discipline of unusual completeness: a graded programme for lowering the noise floor across all three centres until sustained catching becomes possible.
+
+The structural precision is in the staging. *Dharana* (concentration), *dhyana* (sustained meditation), and *samadhi* (absorption) are not three techniques but one continuous deepening — attention narrowed, then sustained, then so unified with its object that the separation thins — which the framework reads as the approach to Φ-proximate content as the mediating noise drops away. Patanjali does no metaphysics the corpus must endorse (its Samkhya dualism is its own), but as a *method* the Sutras are a near-exact catch: the mind's automatic noise is real, it can be reduced by staged discipline, and what is uncovered beneath it is the seer that was always there. It is the engineering manual for the first half of the ascent.
+
+*Confidence: concordance — chitta vritti read as the noise floor, the eight limbs as a Man-4 reduction discipline, samadhi as the approach to Φ as mediation drops; the Samkhya metaphysics not adjudicated. Messenger: the Sutras are terse to the point of needing a commentary to be used at all; they reach us through a long line of commentarial transmission that shapes how they are read.*
+
+*(Cross-reference: [[Paper G3: The Courage-Centered Man]] on the Man-4 discipline; [[Mysticism/The Cloud of Unknowing|The Cloud of Unknowing]] (the Western parallel of stilling); [[Sacred Texts/The Bhagavad Gita|the Gita]] on disciplined action.)*

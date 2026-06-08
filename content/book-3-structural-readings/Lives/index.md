@@ -42,7 +42,15 @@ These are not biographies and not appraisals. A Life reading does not rank the f
 - Aeschylus → [[Literature/Aeschylus — The Oresteia|The Oresteia]] *(work)*
 - Sophocles → [[Literature/Sophocles — Antigone|Antigone]] *(work)*
 - Herodotus → [[Literature/Herodotus — The Histories|The Histories]] *(work)*
-- Moses, David → [[Paper A3: The Word Made Flesh]] *(read in the OT octave)*
+- [[Lives/Imhotep|Imhotep]] — *the life* (the first named genius; the Step Pyramid)
+- [[Lives/Akhenaten|Akhenaten]] — *the life* (the one ground installed by decree, and lost)
+- [[Lives/Mahavira|Mahavira]] — *the life* (agape without boundary; many-sidedness)
+- [[Lives/Ashoka|Ashoka]] — *the life* (the conqueror's turning, made law)
+- [[Lives/Mencius|Mencius]] — *the life* (the four sprouts; nature is good)
+- Valmiki → [[Literature/Valmiki — The Ramayana|The Ramayana]] *(work)*
+- Patanjali → [[Sacred Texts/Patanjali — The Yoga Sutras|The Yoga Sutras]] *(work)*
+- Vyasa → [[Sacred Texts/The Bhagavad Gita|The Bhagavad Gita]] *(work already read)*
+- Moses, David, Solomon, Isaiah → [[Paper A3: The Word Made Flesh]] *(read in the OT octave)*
 - Lao Tzu → [[Sacred Texts/The Tao Te Ching|Tao Te Ching]] *(work already read)*
 
 ### Fa — The Post-Incarnation Synthesis

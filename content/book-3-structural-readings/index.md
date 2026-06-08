@@ -55,6 +55,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 [[Sacred Texts/The Tao Te Ching|Laozi — Tao Te Ching]]
 [[Sacred Texts/The I Ching|The I Ching]]
 [[Sacred Texts/Confucius — The Analects|Confucius — The Analects]]
+[[Sacred Texts/Patanjali — The Yoga Sutras|Patanjali — The Yoga Sutras]]
 
 ### Philosophy
 
@@ -74,6 +75,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 [[Literature/Aeschylus — The Oresteia|Aeschylus — The Oresteia]]
 [[Literature/Sophocles — Antigone|Sophocles — Antigone]]
 [[Literature/Herodotus — The Histories|Herodotus — The Histories]]
+[[Literature/Valmiki — The Ramayana|Valmiki — The Ramayana]]
 [[Literature/Dante — The Divine Comedy|Dante — The Divine Comedy]]
 [[Literature/Augustine — Confessions|Augustine — Confessions]]
 [[Literature/Atlas Shrugged|Rand — Atlas Shrugged]] ⊘

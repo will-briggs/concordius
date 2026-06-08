@@ -23,6 +23,7 @@ Structural readings of literary works through the Concordius framework.
 - [[Aeschylus — The Oresteia|Aeschylus — The Oresteia (458 BC)]]
 - [[Sophocles — Antigone|Sophocles — Antigone (c. 441 BC)]]
 - [[Herodotus — The Histories|Herodotus — The Histories (c. 430 BC)]]
+- [[Valmiki — The Ramayana|Valmiki — The Ramayana (anc.)]]
 - [[Dante — The Divine Comedy|Dante — The Divine Comedy (1320)]]
 - [[Augustine — Confessions|Augustine — Confessions (397–400)]]
 - [[Shakespeare's Sonnets/index|Shakespeare's Sonnets]]
