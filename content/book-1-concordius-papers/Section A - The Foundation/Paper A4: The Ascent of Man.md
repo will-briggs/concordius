@@ -30,6 +30,15 @@ This paper traces the unbroken material sequence from the moment particles acqui
 
 ## 1. Introduction: reading the deep past
 
+<hr>
+
+<figure>
+<img src="/static/images/duria-antiquior.jpg" alt="Henry De la Beche, Duria Antiquior, c. 1830" style="max-width:100%;">
+<figcaption><em>Henry De la Beche, Duria Antiquior — a more ancient Dorset</em> (c. 1830). The first work of palaeo-art: the earliest attempt to picture a vanished world from its fossils alone. The deep past this paper reads, drawn for the first time.</figcaption>
+</figure>
+
+<hr>
+
 Nothing in this paper was witnessed. Every date and every transition in it has been reconstructed — inferred from the spectrum of ancient light, the decay of radioactive nuclei in zircon crystals, the isotopic shadow that living chemistry leaves in carbon and sulfur, the branching statistics of genomes, and the bones and footprints pressed into sediment. That this reconstruction is possible at all, and that independent methods agree across such spans of time, is one of the quieter achievements of the species. The age of the universe, **13.8 billion years** (13.787 ± 0.020 Gyr; Planck Collaboration 2020), is now known to better than a percent. The age of the Earth, **4.54 billion years**, is fixed by the radiometric clock in the oldest solids of the solar system to within a few hundred-thousandths.
 
 The previous paper closed at the electroweak vacuum — the moment, about a trillionth of a second after the beginning, when the Higgs field switched on and the particles of matter acquired mass. This paper begins there and follows the material trail forward without a break: through nucleosynthesis, the first stars, the forging of the elements, the assembly of a planet, the origin of life, the long microbial epoch, the invention of the complex cell, the rise of animals, the conquest of land, the mammalian inheritance, and the primate line — ending at the last animal that stood between the apes and us. It is one continuous physical story, and the human being is its provisional latest chapter, not its purpose stated in advance.
@@ -63,6 +72,15 @@ After recombination came the **cosmic dark ages**: a long, cold, structureless i
 ---
 
 ## 5. The first light: stars, galaxies, and reionization
+
+<hr>
+
+<figure>
+<img src="/static/images/rosse-whirlpool-m51.jpg" alt="Lord Rosse, drawing of the Whirlpool nebula M51, 1845" style="max-width:100%;">
+<figcaption><em>William Parsons (Lord Rosse), drawing of the Whirlpool 'nebula' M51</em> (1845). Sketched by eye at the Leviathan of Parsonstown — the first spiral ever seen in the sky, long before anyone knew it was another galaxy.</figcaption>
+</figure>
+
+<hr>
 
 Within the densest knots of dark matter — halos of perhaps a hundred thousand to a million solar masses — primordial gas, cooled inefficiently by molecular hydrogen, collapsed and ignited the **first stars**, the metal-free **Population III**, somewhere around **100 to 250 million years** after the beginning. Lacking the cooling that heavier elements provide, these first stars are thought to have been massive and short-lived, tens to hundreds of times the mass of the Sun (Bromm 2013). Their ultraviolet light and their explosive deaths produced the first heavy elements and began to **reionize** the surrounding hydrogen; as galaxies assembled and grew, their radiation carved expanding bubbles of ionized gas that merged and, by about a billion years after the beginning, had reionized the universe entire (Robertson 2022).
 
@@ -99,6 +117,15 @@ By the close of this chapter the stage is set: a rocky planet, liquid water, an 
 
 ## 8. The origin of life
 
+<hr>
+
+<figure>
+<img src="/static/images/haeckel-radiolaria.webp" alt="Ernst Haeckel, Radiolaria, Kunstformen der Natur, 1904" style="max-width:100%;">
+<figcaption><em>Ernst Haeckel, Radiolaria — Kunstformen der Natur</em> (1904). Single-celled drifters of the open ocean, their crystalline mineral skeletons drawn with a naturalist's exactness — not the first life, but a measure of the intricacy life would reach.</figcaption>
+</figure>
+
+<hr>
+
 Somewhere between the condensation of the oceans (~4.4 Gya) and the most recent common ancestor of all living things (~4.2 Gya, below), life began. The window is narrow, which by itself suggests that the origin of life, given an Earth-like planet, was not a freakishly improbable event — though that inference rests on a sample of one.
 
 The earliest *direct* evidence is contested. Robust biosignatures — stromatolites and microbial structures in the ~3.48-billion-year-old rocks of the Pilbara in Western Australia — are broadly accepted. Older claims are not: the ~3.7-billion-year-old "stromatolites" of Isua, Greenland (Nutman et al. 2016) were challenged as deformation features (Allwood et al. 2018), and the ~4.1-billion-year-old carbon in a single Jack Hills zircon (Bell et al. 2015) cannot be cleanly distinguished from non-biological carbon. The field now treats carbon-isotope signatures alone as **non-diagnostic**, because abiotic processes such as serpentinization can mimic the isotopic "lightness" of biological carbon (Javaux 2019). Consilience across morphology, isotopes, and sedimentary context is required, and only by ~3.5 Gya is it firmly in hand.
@@ -119,6 +146,15 @@ The single most consequential biological innovation in the planet's history was 
 
 ## 10. The complex cell
 
+<hr>
+
+<figure>
+<img src="/static/images/wilson-1900-cell.jpg" alt="E. B. Wilson, diagram of a cell, 1900" style="max-width:100%;">
+<figcaption><em>E. B. Wilson, diagram of a cell</em> (from <em>The Cell in Development and Inheritance</em>, 1900). The eukaryotic cell as a reference book drew it before the electron microscope — the nucleus and its parts rendered with the care of the day. The complex cell whose long-delayed arrival this section recounts.</figcaption>
+</figure>
+
+<hr>
+
 Every organism larger than a film of slime — every animal, plant, fungus, and seaweed — is built from **eukaryotic** cells: cells with a nucleus, an internal skeleton, membrane-bound compartments, and, crucially, **mitochondria**, the power plants that make large, energy-hungry cells possible. The eukaryotic cell did not arise gradually from a bacterium. It arose from a **merger**. An archaeal host cell — specifically a member of the recently discovered **Asgard archaea**, the closest known archaeal relatives of eukaryotes — engulfed or entangled an alphaproteobacterium, and the two became one: the bacterium became the mitochondrion (Eme et al. 2017). This single **endosymbiosis** is the founding event of all complex life. (Chloroplasts came later, in a second, independent endosymbiosis of a cyanobacterium, founding the algae and plants.)
 
 The Asgard archaea are the key recent evidence. The first one was cultivated only in 2020 (Imachi et al. 2020), and it proved to have long cellular protrusions and, as later work showed, a genuine actin cytoskeleton (Rodrigues-Oliveira et al. 2023) — the kind of cellular machinery once thought uniquely eukaryotic. The timing is being revised older: where classic estimates placed the last eukaryotic common ancestor around 1.6–2.1 billion years ago, a 2025 molecular-clock analysis pushes eukaryotic origins back toward **3.0–2.25 billion years ago**, with mitochondrial endosymbiosis already underway by ~2.2 Gya (Vosseberg et al. 2025) — a date well ahead of the unambiguous fossil record, and contested for exactly that reason. However the dating settles, the architecture is agreed: complex life is a chimera, an archaeon and a bacterium that stopped being two things.
@@ -126,6 +162,15 @@ The Asgard archaea are the key recent evidence. The first one was cultivated onl
 ---
 
 ## 11. Toward animals: many cells, a frozen planet, and the first large bodies
+
+<hr>
+
+<figure>
+<img src="/static/images/haeckel-jellyfish.jpg" alt="Ernst Haeckel, Discomedusae jellyfish, Kunstformen der Natur, 1904" style="max-width:100%;">
+<figcaption><em>Ernst Haeckel, Discomedusae — Kunstformen der Natur</em> (1904). Jellyfish: among the oldest body-plans still swimming, animals of radial symmetry from before there was a front or a back.</figcaption>
+</figure>
+
+<hr>
 
 Multicellularity is not a single invention; it evolved **independently more than twenty times** across the tree of life — in animals, fungi, plants, red and brown algae, and others — each lineage crossing the threshold from its own unicellular ancestors. The long middle stretch of Earth history, roughly 1.8 to 0.8 billion years ago, was once called the **"Boring Billion"** for its apparent evolutionary and environmental stasis; recent biomarker work (Brocks et al. 2023) reveals it was in fact populated by a hidden world of early eukaryotes, invisible to standard methods — less boring than under-sampled.
 
@@ -135,6 +180,15 @@ It ended in ice. The **Cryogenian** glaciations — the **Sturtian** (~717–660
 
 ## 12. The Cambrian and the vertebrate body plan
 
+<hr>
+
+<figure>
+<img src="/static/images/trilobite-plate.jpg" alt="Trilobites, 19th-century engraving" style="max-width:100%;">
+<figcaption><em>Trilobites, from James Dwight Dana's Manual of Geology</em> (1895). The armoured arthropods of the Cambrian seas — among the first animals to carry hard parts, and so among the first to leave a clear fossil record.</figcaption>
+</figure>
+
+<hr>
+
 Then, beginning at **538.8 million years ago** (the revised Ediacaran–Cambrian boundary; ICS 2022), came the **Cambrian explosion** — the geologically rapid appearance, over a few million years, of nearly all the major animal body plans, the phyla, that exist today. It is not a single instant but an interval: a first phase of small shelly fossils and burrowing, then a second phase of large articulated animals, preserved spectacularly in the Chengjiang biota of China (~518 Mya) and the Burgess Shale of Canada (~508 Mya). No single cause is accepted. A modest rise in shallow-water oxygen was probably permissive rather than decisive (Stockey et al. 2024); ecological feedbacks — the onset of active predation, the churning of the seafloor by burrowers, an escalating arms race between predators and prey — are increasingly favored as the proximate engine, with the genetic toolkit for building bodies already in place. Whether the "explosion" reflects genuine rapid innovation or the sudden fossilization of lineages that had quietly diverged earlier remains debated.
 
 Among the Cambrian animals were the first **chordates** and the first **vertebrates** — small, jawless, soft-bodied swimmers such as *Haikouichthys* from Chengjiang. Jawless fishes diversified through the Ordovician and Silurian. Then came **jaws**, evolved from the skeletal arches that had supported the front gills — one of the most consequential innovations in the animal line, opening the way to active predation at large size. A remarkable trove of early Silurian fossils from China, described in 2022, pushed the oldest complete jawed fishes back to about **436 million years ago** and the oldest vertebrate teeth to ~439 Mya (Zhu et al. 2022), substantially closing the long gap between the molecular estimate for jawed vertebrates and their fossil record.
@@ -143,6 +197,15 @@ Among the Cambrian animals were the first **chordates** and the first **vertebra
 
 ## 13. Onto the land
 
+<hr>
+
+<figure>
+<img src="/static/images/knight-laelaps.jpg" alt="Charles R. Knight, Leaping Laelaps, 1897" style="max-width:100%;">
+<figcaption><em>Charles R. Knight, Leaping Laelaps</em> (1897). The picture that set the dinosaurs in motion — agile, alert — overturning the old image of sluggish reptiles. The land first reached in the Devonian would, in time, be theirs.</figcaption>
+</figure>
+
+<hr>
+
 The vertebrate move from water to land, through the Devonian, is among the best-documented major transitions in the fossil record. Within the **sarcopterygians** — the lobe-finned fishes — the fleshy pectoral fin elaborated an internal skeleton with the precursors of the upper arm, forearm, and wrist, and weight-bearing joints. The transitional forms are famous: *Tiktaalik roseae* (~375 Mya), whose pectoral fin could bear weight and flex at a proto-wrist (Stewart et al. 2020), and the early digited tetrapods *Acanthostega* and *Ichthyostega* (~365 Mya), which still lived largely in water. Digits and limbs evolved *before* full terrestriality, for moving through shallow, weedy, oxygen-poor water rather than for walking on dry land.
 
 The conquest of land was completed by the **amniotes**, whose self-contained egg — with its protective membranes and water-conserving physiology — freed reproduction from standing water and opened the dry continental interior. The oldest amniote body fossils are from the Late Carboniferous (~318 Mya), and very shortly after their origin the amniote line split into the two great branches that still divide the land vertebrates: the **sauropsids**, leading to reptiles and birds, and the **synapsids**, the branch that leads to mammals — and to us. (A 2025 report of clawed trackways in Australia dated to ~355 Mya may push this split tens of millions of years deeper into the Carboniferous than the body fossils show; if it holds, the early record is even more incomplete than assumed.) From this point, the relevant thread is the synapsid one.
@@ -150,6 +213,15 @@ The conquest of land was completed by the **amniotes**, whose self-contained egg
 ---
 
 ## 14. The mammalian inheritance
+
+<hr>
+
+<figure>
+<img src="/static/images/knight-mammoth.jpg" alt="Charles R. Knight, Woolly Mammoth" style="max-width:100%;">
+<figcaption><em>Charles R. Knight, Woolly Mammoth</em> (early 20th c.). The Ice-Age giant of the mammal line — the warm-blooded inheritance that spread across the cooling world after the great reptiles were gone.</figcaption>
+</figure>
+
+<hr>
 
 The synapsids dominated the land before the dinosaurs. Through the Permian they radiated into the **therapsids** and then the **cynodonts**, in which a long series of changes — documented bone by bone — gradually assembled the mammalian body. The most celebrated is the **jaw-to-ear transition**: bones that had formed the reptilian jaw joint shrank, migrated, and became the tiny **malleus and incus** of the mammalian middle ear, while a new jaw joint formed from the dentary. Endothermy, fur, differentiated teeth, a secondary palate, and prolonged parental care were acquired piecemeal across the cynodont–mammaliaform grade (the timing of warm-bloodedness is itself debated — inner-ear evidence suggests a Late Triassic origin around 233 Mya; Araújo et al. 2022 — against tooth-growth evidence for slower, more reptile-like metabolism persisting into the Early Jurassic; Newham et al. 2020). The first true mammals appear around the Triassic–Jurassic boundary, ~205–200 Mya.
 
@@ -160,6 +232,15 @@ Their inheritance came by catastrophe. **66 million years ago**, an asteroid rou
 ---
 
 ## 15. The primate line
+
+<hr>
+
+<figure>
+<img src="/static/images/huxley-mans-place.jpg" alt="T. H. Huxley, frontispiece to Man's Place in Nature, 1863" style="max-width:100%;">
+<figcaption><em>T. H. Huxley, frontispiece to 'Evidence as to Man's Place in Nature'</em> (1863). Gibbon, orang, chimpanzee, gorilla, man — the skeletons set in a row, the comparison that made the kinship impossible to look away from.</figcaption>
+</figure>
+
+<hr>
 
 The **primates** emerged at or just after the K–Pg boundary. The oldest stem primates, the plesiadapiforms — small, arboreal, somewhat squirrel-like — appear within ~140,000 years of the extinction (*Purgatorius*; Wilson Mantilla et al. 2021), implying the lineage probably originated in the Late Cretaceous, before the impact. The first **true primates** split into the two living branches: the **strepsirrhines** (lemurs, lorises, galagos) and the **haplorhines** (tarsiers and the **anthropoids** — monkeys and apes). The defining primate features — grasping hands with nails rather than claws, forward-facing eyes with excellent depth perception, and enlarged brains — are the adaptations of an animal living by precision in the three-dimensional world of the trees.
 
@@ -182,6 +263,15 @@ Here the animal climb reaches its last rung. The australopithecine grade — a c
 ---
 
 ## 17. The body becomes human
+
+<hr>
+
+<figure>
+<img src="/static/images/kupka-neanderthal.jpg" alt="František Kupka, La Chapelle-aux-Saints Neanderthal reconstruction, 1909" style="max-width:100%;">
+<figcaption><em>František Kupka, reconstruction of the Neanderthal of La Chapelle-aux-Saints</em> (1909). The first widely seen portrait of an extinct human — drawn, in its day, as a stooping brute; later science has stood him upright.</figcaption>
+</figure>
+
+<hr>
 
 The body-line ran on from the australopithecines through the genus *Homo*, the brain enlarging, the frame settling into its modern proportions, until — by about **300,000 years ago**, the date of the earliest *Homo sapiens* fossils from Jebel Irhoud in Morocco (Hublin et al. 2017) — there existed a body anatomically indistinguishable from the reader's.
 
@@ -212,6 +302,15 @@ Then Judah fell too. **Babylon** took Jerusalem and burned the Temple in 586 BCE
 ---
 
 ## 20. Born
+
+<hr>
+
+<figure>
+<img src="/static/images/geertgen-nativity-night.jpg" alt="Geertgen tot Sint Jans, The Nativity at Night, c. 1490" style="max-width:100%;">
+<figcaption><em>Geertgen tot Sint Jans, The Nativity at Night</em> (c. 1490). The light in the scene comes from the child himself. Where the long material climb of this paper arrives.</figcaption>
+</figure>
+
+<hr>
 
 The material thread does not end at a summit, and it does not, here, end at a grave. It ends at a beginning: a body, born — the same kind of body the whole climb has been assembling, hydrogen to stardust to the first cell to the primate line to the people of Israel, now drawn to a single point in a single infant, in a single province, at the turn of the era. By every measure this paper has used, it is an ordinary human body: the same chemistry, the same descent, the same four billion years behind it as any other body that has ever drawn breath. That is the whole weight of the claim, and the lens that follows the matter makes no larger one. What that body went on to do, and suffer, and become — the life it lived and the death it died — is not the material thread's to tell; it belongs to the life, which is Paper A6. The long climb arrives at the cradle, sets down what it carried, and hands it on.
 

@@ -288,6 +288,57 @@ dl domenichino-john-evangelist.jpg \
   "https://commons.wikimedia.org/wiki/Special:FilePath/Zampieri_St_John_Evangelist.jpg?width=1400" \
   "Paper A1 sec3: Domenichino - St John the Evangelist (c.1620s)"
 
+# NOTE: Wilson filename is a best guess (could not verify Commons index). If this 404s,
+# grab the idealized-cell plate from commons.wikimedia.org/wiki/Category:Edmund_Beecher_Wilson
+dl wilson-1900-cell.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Wilson1900Fig2.jpg?width=2000" \
+  "Paper A4 sec10: E. B. Wilson - diagram of a cell (1900), high-res"
+
+dl duria-antiquior.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Duria_Antiquior.jpg?width=1600" \
+  "Paper A4 sec1: De la Beche - Duria Antiquior (c.1830)"
+
+# best-guess filename — verify on Commons if it 404s
+dl rosse-whirlpool-m51.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/M51Sketch.jpg?width=1600" \
+  "Paper A4 sec5: Lord Rosse - Whirlpool M51 drawing (1845) [GUESS]"
+
+# best-guess filename — verify on Commons if it 404s
+dl haeckel-radiolaria.webp \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Cyrtoidea_Tafel_31_Kunstformen_der_Natur_Ernst_Haeckel.jpg?width=1600" \
+  "Paper A4 sec8: Haeckel - Radiolaria, Kunstformen (1904) [GUESS]"
+
+# best-guess filename — verify on Commons if it 404s
+dl haeckel-jellyfish.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Haeckel_Discomedusae_8.jpg?width=1600" \
+  "Paper A4 sec11: Haeckel - Discomedusae jellyfish (1904) [GUESS]"
+
+# best-guess filename — verify on Commons if it 404s
+dl trilobite-plate.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Trilobites_-_From_page_483_of_Manual_of_Geology_by_James_Dwight_Dana_-_Date_of_Publishing_1895_-_British_Library.jpg?width=1600" \
+  "Paper A4 sec12: Trilobites - Dana, Manual of Geology (1895)"
+
+# best-guess filename — verify on Commons if it 404s
+dl knight-laelaps.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Laelaps-Charles_Knight-1897.jpg?width=1600" \
+  "Paper A4 sec13: Charles R. Knight - Leaping Laelaps (1897) [GUESS]"
+
+# best-guess filename — verify on Commons if it 404s
+dl knight-mammoth.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Woolly_mammoths.jpg?width=1600" \
+  "Paper A4 sec14: Charles R. Knight - Woolly Mammoth [GUESS]"
+
+# best-guess filename — verify on Commons if it 404s
+dl huxley-mans-place.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Huxley_-_Mans_Place_in_Nature.jpg?width=1600" \
+  "Paper A4 sec15: Huxley - Man's Place in Nature frontispiece (1863) [GUESS]"
+
+# best-guess filename — verify on Commons if it 404s
+# PD by age (1909); sourced from an academic page rather than Commons — swap if a cleaner scan turns up
+dl kupka-neanderthal.jpg \
+  "http://www.yorku.ca/kdenning/images/kupka.jpg" \
+  "Paper A4 sec17: Kupka - La Chapelle Neanderthal (1909)"
+
 for f in \
   antonello-jerome-study.jpg \
   masaccio-trinity.jpg ladder-of-divine-ascent.jpg \
@@ -302,7 +353,7 @@ for f in \
   rembrandt-two-old-men-disputing.jpg holbein-the-ambassadors.jpg \
   friedrich-monk-by-the-sea.jpg \
   feature-01-vermeer-balance.jpg feature-02-forge-of-vulcan.jpg feature-03-incredulity-of-thomas.jpg feature-04-las-meninas.jpg feature-05-moneylender.jpg feature-06-pentecost.jpg feature-07-ouroboros.png feature-08-air-pump.jpg feature-09-great-chain-of-being.png feature-10-carta-marina.jpg feature-11-william-of-ockham.jpg feature-12-basket-of-fruit.jpg \
-  trouvelot-orion-nebula.jpg geertgen-nativity-night.jpg rembrandt-philosopher-meditation.jpg hilbert-1912.jpg wmap-cmb-9yr.png dirac-1933.jpg von-neumann-los-alamos.jpg domenichino-john-evangelist.jpg; do
+  trouvelot-orion-nebula.jpg geertgen-nativity-night.jpg rembrandt-philosopher-meditation.jpg hilbert-1912.jpg wmap-cmb-9yr.png dirac-1933.jpg von-neumann-los-alamos.jpg domenichino-john-evangelist.jpg wilson-1900-cell.jpg duria-antiquior.jpg rosse-whirlpool-m51.jpg haeckel-radiolaria.webp haeckel-jellyfish.jpg trilobite-plate.jpg knight-laelaps.jpg knight-mammoth.jpg huxley-mans-place.jpg kupka-neanderthal.jpg; do
   check_image "$f"
 done
 

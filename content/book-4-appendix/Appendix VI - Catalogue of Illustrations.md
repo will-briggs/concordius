@@ -40,6 +40,17 @@ title: Appendix VI - Catalogue of Illustrations
 
 **Paper A4: The Ascent of Man**
 - *É. L. Trouvelot, The Great Nebula in Orion* (1882) &nbsp;·&nbsp; `trouvelot-orion-nebula.jpg`
+- *E. B. Wilson, diagram of a cell (The Cell in Development and Inheritance)* (1900) &nbsp;·&nbsp; `wilson-1900-cell.jpg`
+- *Henry De la Beche, Duria Antiquior — A More Ancient Dorset* (c. 1830) &nbsp;·&nbsp; `duria-antiquior.jpg`
+- *William Parsons (Lord Rosse), drawing of the Whirlpool 'nebula' (M51)* (1845) &nbsp;·&nbsp; `rosse-whirlpool-m51.jpg`
+- *Ernst Haeckel, Radiolaria (Kunstformen der Natur)* (1904) &nbsp;·&nbsp; `haeckel-radiolaria.webp`
+- *Ernst Haeckel, Discomedusae (Kunstformen der Natur)* (1904) &nbsp;·&nbsp; `haeckel-jellyfish.jpg`
+- *Trilobites, from J. D. Dana's Manual of Geology* (1895) &nbsp;·&nbsp; `trilobite-plate.jpg`
+- *Charles R. Knight, Leaping Laelaps* (1897) &nbsp;·&nbsp; `knight-laelaps.jpg`
+- *Charles R. Knight, Woolly Mammoth* (early 20th c.) &nbsp;·&nbsp; `knight-mammoth.jpg`
+- *T. H. Huxley, frontispiece to Evidence as to Man's Place in Nature* (1863) &nbsp;·&nbsp; `huxley-mans-place.jpg`
+- *František Kupka, La Chapelle-aux-Saints Neanderthal* (1909) &nbsp;·&nbsp; `kupka-neanderthal.jpg`
+- *Geertgen tot Sint Jans, The Nativity at Night* (c. 1490) &nbsp;·&nbsp; `geertgen-nativity-night.jpg` *(reused)*
 
 **Paper A5: The Breath of Life**
 - *Hildegard von Bingen receiving the vision* &nbsp;·&nbsp; `hildegard-scivias.jpg`
