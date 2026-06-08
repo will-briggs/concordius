@@ -56,6 +56,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 [[Sacred Texts/The I Ching|The I Ching]]
 [[Sacred Texts/Confucius — The Analects|Confucius — The Analects]]
 [[Sacred Texts/Patanjali — The Yoga Sutras|Patanjali — The Yoga Sutras]]
+[[Sacred Texts/Zhuangzi — The Inner Chapters|Zhuangzi — The Inner Chapters]]
 
 ### Philosophy
 

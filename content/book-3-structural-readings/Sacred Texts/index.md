@@ -19,3 +19,4 @@ The canonical scriptures of the major traditions, read for the structural conten
 [[Sacred Texts/The I Ching|The I Ching]]
 [[Sacred Texts/Confucius — The Analects|Confucius — The Analects]]
 [[Sacred Texts/Patanjali — The Yoga Sutras|Patanjali — The Yoga Sutras]]
+[[Sacred Texts/Zhuangzi — The Inner Chapters|Zhuangzi — The Inner Chapters]]
