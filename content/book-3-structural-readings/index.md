@@ -98,6 +98,14 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ---
 
+## Lives
+
+*Structural readings of the people in the Host of Witnesses — one figure each, read through their life, their greatest work, or their most underappreciated work.*
+
+[[Lives/index|Lives — A Structural Reading of the Host of Witnesses →]]
+
+---
+
 ## Ideas
 
 ### Doctrine
