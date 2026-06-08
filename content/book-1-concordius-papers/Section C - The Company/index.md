@@ -6,7 +6,7 @@ tags:
 
 # Section C — The Company
 
-*The Company: the cloud of witnesses who caught the Good, the True, the Beautiful, and the overcoming virtues by roads the framework never walked, and the whole human story gathered as one octave.*
+*The Company: the cloud of witnesses who caught the Good, the True, the Beautiful, and the overcoming virtues by roads the framework never walked, and the whole human story gathered into one.*
 
 *Papers C0–C7*
 

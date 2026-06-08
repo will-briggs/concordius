@@ -57,7 +57,7 @@ And it begins by insisting on the thing Isaiah insisted on: that the names have 
 
 ---
 
-*The closing note of the Host of Witnesses' octave, struck low and in the minor, setting the stage for the inverting octave that follows (which opens with Hitler). It establishes the governing claim (evil as privation, not addition: the three generators turned, never a fourth) and the section's grammar (the Good → the will curved inward; the True → the lie; the Beautiful → the spectacle; the bivectors → pretext, propaganda, machinery; the two shocks → grievance and conquest), and it sets the anti-pattern as the photographic negative of the personal series. Epigraph: Isaiah 5:20. Grows from "Note — the anti-pattern (why the tyrants are absent)." The key is minor; it resolves only when the words are kept from changing places.*
+*Struck low and in the minor, the one silence the Host of Witnesses kept — setting the stage for the inversion that follows (which opens with Hitler). It establishes the governing claim (evil as privation, not addition: the three generators turned, never a fourth) and the section's grammar (the Good → the will curved inward; the True → the lie; the Beautiful → the spectacle; the bivectors → pretext, propaganda, machinery; the two shocks → grievance and conquest), and it sets the anti-pattern as the photographic negative of the personal series. Epigraph: Isaiah 5:20. Grows from "Note — the anti-pattern (why the tyrants are absent)." The key is minor; it resolves only when the words are kept from changing places.*
 
 ---
 
