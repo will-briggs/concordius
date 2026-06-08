@@ -130,7 +130,7 @@ title: Appendix VI - Catalogue of Illustrations
 **Paper G2: The Beautiful-Centered Man**
 - *Hans Holbein the Younger, Portrait of Erasmus of Rotterdam* (c. 1523) &nbsp;·&nbsp; `holbein-erasmus.jpg`
 
-**Paper G2½: The Mi-Fa Interval**
+**Paper G2½: The First Grade Change**
 - *William Blake, Satan Smiting Job with Sore Boils* (c. 1826) &nbsp;·&nbsp; `blake-satan-job.jpg`
 
 **Paper G3: The Courage-Centered Man**
@@ -142,10 +142,10 @@ title: Appendix VI - Catalogue of Illustrations
 **Paper G5: The Diligence-Centered Man**
 - *Gian Lorenzo Bernini, The Ecstasy of Saint Teresa* (1647–52) &nbsp;·&nbsp; `bernini-ecstasy.jpg`
 
-**Paper G5½: The Si-Do Interval**
+**Paper G5½: The Second Grade Change**
 - *Rembrandt van Rijn, The Return of the Prodigal Son* (c. 1668) &nbsp;·&nbsp; `rembrandt-prodigal-son.jpg`
 
-**Paper G5½: The Si-Do Interval**
+**Paper G5½: The Second Grade Change**
 - *William Blake, The Great Red Dragon and the Woman Clothed with the Sun* (c. 1803–05) &nbsp;·&nbsp; `blake-great-red-dragon.jpg`
 
 ## Book 2 — Reasonablenessism

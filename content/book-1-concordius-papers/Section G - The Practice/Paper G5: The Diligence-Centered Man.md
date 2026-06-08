@@ -130,4 +130,4 @@ This paper has described Man 6 as the state in which both higher centers are sub
 
 ---
 
-*[[Paper G5½: The Si-Do Interval|Paper G5½: The Si-Do Interval]] →*
+*[[Paper G5½: The Second Grade Change|Paper G5½: The Second Grade Change]] →*
