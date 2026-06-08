@@ -1,4 +1,4 @@
-*← [[Paper A6½: Love's Descent|Paper A6½: Love's Descent: The Three Days in the Tomb]]*
+*← [[Paper A6½: The Tomb|Paper A6½: The Tomb]]*
 
 # The Resurrection: Called By Name
 
@@ -68,7 +68,7 @@ That limit is not the end of the work. It is the beginning of the next part of i
 
 ## References
 
-1. **Companion papers:** the constitutive arguments of Section A — *Modeling Reality as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]*; *From the Cogito to the [[Appendix I - Dictionary of Terms#Logos|Logos]]*; *The Big Bang*; *The Constraint Cascade*; *The Word Made Flesh*; *The Long Climb*; *The Living Soul*; *Love's Descent: The Three Days in the Tomb*.
+1. **Companion papers:** the constitutive arguments of Section A — *Modeling Reality as a [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand Triple]]*; *From the Cogito to the [[Appendix I - Dictionary of Terms#Logos|Logos]]*; *The Big Bang*; *The Constraint Cascade*; *The Word Made Flesh*; *The Long Climb*; *The Living Soul*; *The Tomb*.
 
 2. **Scripture:** John 20:1–18 (the empty tomb; Mary and the gardener; the naming); Matthew 28:1–10; Mark 16:1–8; Luke 24:1–12.
 

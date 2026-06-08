@@ -114,4 +114,4 @@ Humility has no further down to go. The form of God, having taken the form of a 
 
 ---
 
-*[[Paper A6½: Love's Descent|Paper A6½: Love's Descent: The Three Days in the Tomb]] →*
+*[[Paper A6½: The Tomb|Paper A6½: The Tomb]] →*

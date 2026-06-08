@@ -55,7 +55,7 @@ title: Appendix VI - Catalogue of Illustrations
 **Paper A5: The Breath of Life**
 - *Hildegard von Bingen receiving the vision* &nbsp;·&nbsp; `hildegard-scivias.jpg`
 
-**Paper A6½: Love's Descent**
+**Paper A6½: The Tomb**
 - *Geertgen tot Sint Jans, The Nativity at Night* (c. 1490) &nbsp;·&nbsp; `geertgen-nativity-night.jpg`
 
 **Paper 7 - What We Know**

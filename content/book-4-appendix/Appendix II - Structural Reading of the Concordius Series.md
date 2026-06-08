@@ -72,7 +72,7 @@ Re is characteristically the stage of first development — the initial conseque
 
 ---
 
-### Mi — Papers 3½–7: *The Constraint Cascade / The Son Articulates / The Long Ascent / The Cogito Coheres / Love's Descent / What We Know*
+### Mi — Papers 3½–7: *The Constraint Cascade / The Son Articulates / The Long Ascent / The Cogito Coheres / The Tomb / What We Know*
 
 The Mi stage develops the Re's implications until it reaches the most complete expression possible from within the framework's own derivation space. The remainder of Section A is that development: how the structure densifies down the constraint hierarchy (Paper 3½, the Mi-Fa interval of the section); how the Son's articulation instantiates the descended algebra as the physical world at the Higgs VEV (Paper 4); the long material ascent of that world, told entirely in the register of the natural sciences, up to the last animal before the human (Paper 5); the threshold at which matter becomes a catching creature and begins the climb (Paper 6); Love's descent down the same octave to meet it (Paper 6½, the Si-Do interval of the section); and the summation that gathers the whole (Paper 7).
 
