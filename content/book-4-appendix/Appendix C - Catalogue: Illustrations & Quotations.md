@@ -1,12 +1,12 @@
 ---
-title: Appendix C - Catalogue: Illustrations & Quotations
+title: "Appendix C - Catalogue: Illustrations & Quotations"
 ---
 
 # Appendix C — Catalogue: Illustrations & Quotations
 
 ---
 
-*A catalogue of the artworks reproduced across the Concordius corpus, with the page each appears on. Every image is in the public domain; sources are Wikimedia Commons and comparable archives, fetched by the download script in `website/quartz/static/images/`. The catalogue is generated from the figures in place. In the text proper the captions are kept deliberately light — they point to the content rather than explain it.*
+*A catalogue in two parts. Part I — Illustrations: every artwork reproduced across the corpus, grouped by book and section, with the page each appears on and its source file. Part II — Quotations: every attributed quotation in the corpus, alphabetical by author, with its source and where it is used.*
 
 ---
 

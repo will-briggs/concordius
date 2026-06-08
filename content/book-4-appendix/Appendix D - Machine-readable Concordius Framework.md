@@ -6,7 +6,7 @@ title: Appendix D - Machine-readable Concordius Framework
 
 ---
 
-*A dense structured reference for consistent application of the Concordius framework to structural readings. Not a derivation; not a prose introduction. All claims here are derived and argued in the Concordius Papers. This file states results only.*
+*The framework's results in compact, structured form: the core identities of the Gelfand triple and Cl(3,0), the constraint cascade, the key concept definitions, the triune operations and the three crossings, the Messenger Corollary and counterfeit-proximity, the cross-tradition mappings, the Voices table, and the reading method — stated for fast reference, with the derivations left to the papers.*
 
 ---
 

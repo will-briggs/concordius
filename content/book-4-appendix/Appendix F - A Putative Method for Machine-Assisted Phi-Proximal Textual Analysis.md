@@ -2,7 +2,7 @@
 
 ---
 
-*A working operationalization of τ(D)*
+*A candidate way to actually compute τ(D) for a text: four observable proxies for Φ-proximity (semantic coherence, cross-tradition convergence, predictive yield, generative centrality), a two-stage entropy-then-centrality algorithm, the construction of the operator A as the self-adjoint completion of a document's dependency graph, the one step that remains open (extracting that graph), and the turn of the method back on the framework itself.*
 
 ---
 

@@ -2,7 +2,7 @@
 
 ---
 
-*A Reader's Guide to the Concordius Series*
+*The technical vocabulary of the series, defined: from the Gelfand triple, Cl(3,0), the constraint cascade, and the GNST to catching, the soul deposit, Time, the Law of Seven, reciprocal maintenance, and τ(D) — each term with its meaning, its place in the structure, and the papers in which it is used.*
 
 ---
 

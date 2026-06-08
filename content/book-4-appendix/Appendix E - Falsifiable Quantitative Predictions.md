@@ -8,6 +8,10 @@ tags:
 
 ---
 
+*What the framework predicts that science has not yet confirmed — each derived from the Gelfand triple and the cascade timing rather than fitted to known physics, and each paired with the result that would count against it: the H₂₄→H₄₈ phase transition near 10⁻²⁸ s, dark matter's structural invisibility to electromagnetism, gravity's resistance to standard quantization, the dark-energy equation of state at w = −1, and the primordial gravitational-wave spectrum from the cascade transitions.*
+
+---
+
 ## Prefatory Note
 
 A framework that cannot be wrong is not a contribution to knowledge. The Concordius series has been careful throughout to distinguish what is derived from what is identified from what is testified — three tiers of confidence, each with its own epistemic weight and its own exposure to error. This appendix applies that same care to a different kind of question: not what the framework says, but what it predicts that science has not yet confirmed, and what experimental result would constitute evidence against it.
