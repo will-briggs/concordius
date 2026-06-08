@@ -4,7 +4,7 @@
 
 *Paper A6 of Section A. The three lenses — the Word, the body, the soul — each carried one arc from the forming of the world to a single birth. This paper follows the one life that begins there, told as a sequence of its moments, from the announcement that it would happen to the cry that ends it. Each moment is taken three ways: what the structure makes of it, what the Gospels testify, and what it would have been to stand there — in the dust, the heat, the press of the crowd. The story the three readings tell together is humility itself: the One through whom all things were made, entered from outside as an infant and living downward — the form of God taken into the form of a servant — all the way to the cross. Companion to Papers A3–A5 (which end at the birth) and Paper A6½ (the tomb the cry hands on to).*
 
-*Status: mostly testimony, held as testimony — the life as the Gospels hand it down, no more surely than they can. The structural readings are concordance with the derived structure, at their tiers: the entrance from outside (Papers A2½, A3); the cry at the antipode of the felt-spectrum (e₁e₂ squared to −1, Paper A3); the death real and not annihilation (Paper A4); the breath freely returned (Paper A5). The physical settings are imaginative reconstruction of first-century Galilee and Judea — the period's texture, not claims from a record that is nearly silent on it. The spine throughout is the kenotic hymn (Philippians 2), read as the shape of humility.*
+*Status: mostly testimony, held as testimony — the life as the Gospels hand it down, no more surely than they can. The structural readings are concordance with the derived structure, at their tiers: the entrance from outside (Papers A2½, A3); the cry at the antipode of the felt-spectrum (e₁e₂ squared to −1, Paper A3); the death real and not annihilation (Paper A4); the breath freely returned (Paper A5). The physical settings are imaginative reconstruction of first-century Galilee and Judea — the period's texture, not claims from a record that is nearly silent on it. A closing survey adds the physical record of the life's world, tiered — the miracles unattested by their nature, but the world attested at point after point (the Pilate Stone; the Caiaphas ossuary; the Givat ha-Mivtar crucifixion; the Bethesda and Siloam pools; the Capernaum house and the Galilee boat), following standard scholarship. The spine throughout is the kenotic hymn (Philippians 2), read as the shape of humility.*
 
 ---
 
@@ -103,6 +103,31 @@ Humility reaches its floor, and the floor has an exact location in the structure
 Golgotha, outside the wall, a low rise beside a road where everyone passing could see — which was the point of it. The full heat of the afternoon; the upright beam already standing, the crossbar carried out by the condemned man himself through jeering streets; then the nails, and then hours, because crucifixion killed slowly, by exhaustion and the failing of the breath, and was built to. Flies in the wounds, thirst, the white sun; the soldiers throwing dice for the clothes; the curious and the grieving and the mocking all mixed together in the dust below. It was the death Rome kept for slaves and rebels — public, unhurried, made to shame — and here it took one more crucified man among the many thousands the empire killed this way, his mother somewhere in the crowd, and the sky, the record says, going dark over it.
 
 Humility has no further down to go. The form of God, having taken the form of a servant, was obedient unto death, even the death of the cross — and the descent the framework first met as a line on a diagram is, here, a man crying out in the heat and dying. He felt everything a human being can feel, and felt it from the inside, all the way to the floor — so that there is no place a human soul can find itself where the form of a servant has not already been, lower than it has had to go. The body is taken down and carried toward a tomb. What it is to keep watch at that stone is the next paper; the one after reports the morning.
+
+---
+
+## The Physical Record
+
+<hr>
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> **"Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judaea… Annas and Caiaphas being the high priests, the word of God came unto John."**
+> *— Luke 3:1–2*
+
+</div>
+
+<hr>
+
+The life just followed is not a story told out of time. Luke fixes it in the fifteenth year of an emperor, under a named prefect, in the high-priesthood of men the records know — and the spade has met that world, and the men in it, at point after point. It is worth saying plainly what the ground can and cannot reach, because the pattern holds here and will hold all through the series.
+
+What it cannot reach is the miracle. A virgin birth, a stilled storm, a dead girl raised from her bed leave no layer to dig; the events that mark this life as more than a life are, by their nature, the kind that leave no trace, and they are held here, as the Gospels hand them down, as testimony.
+
+What it reaches firmly is the world the life was lived in, down to the very men who ended it. The two who tried him are both in the ground with their names on them: *Pontius Pilatus, prefect of Judea*, on a limestone block from Caesarea (found 1961) — the only object anywhere that bears his name, and it dedicates a temple to the Tiberius by whose fifteenth year Luke dates the story; and *Joseph son of Caiaphas*, on a first-century ossuary (1990), the bone-box of the high priest who presided over the trial. The death itself is attested — the heel bone from Givat ha-Mivtar (1968), a crucified first-century man with the iron nail still driven through it, bent where it struck a knot in the olive wood, and his bones afterward gathered by his family into an ossuary: the only physical remains of a Roman crucifixion from the period, and proof that a crucified body could be given burial, exactly as the Gospels say his was.
+
+And the settings of the life hold as well. The Pool of Bethesda with its five porches (John 5) and the Pool of Siloam (John 9) have both been dug out where John placed them; at Capernaum, the lakeside town of the ministry, a first-century house was venerated as Peter's early enough to leave Christian graffiti scratched on its walls; and a first-century fishing boat, of just the kind the Gospels put him in, was lifted whole from the mud of the lake he taught beside.
+
+So the ground holds the world of the life — the emperor's reign, the prefect, the high priest, the practice that killed him, the pools and the lakeside town — and sets the whole account in datable history. What it does not hold is the handful of events that make the life more than a life. That is not a gap in the evidence; it is the shape of the claim, and it is the same shape the morning will take in the papers ahead: the world attested, the miracle on testimony.
 
 ---
 
