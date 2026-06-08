@@ -6,7 +6,7 @@ tags:
 
 # Section A — The Foundation
 
-*The Foundation: reality modeled as a Gelfand triple, held to what the model, conservative Scripture, and scientific evidence agree on, run from the forming of the world through the Crucifixion, the Resurrection, and the world made new.*
+*The Foundation: the Gelfand triple Φ ⊂ H ⊂ Φ′ and the actualities its inner product forces; the cogito, and the naming that follows it — the Father the inner product, the Son the nuclear space Φ (the Logos), the Spirit the nuclear topology; the evidence that the universe had a beginning, and the first creative act read into it; the algebra Cl(3,0) the Trinity forces, its descent down the constraint cascade, and the formal definition of Love; the Old Testament read as one arc, the working vocabulary earned a Scriptural turn at a time; the material thread told as current science, from the first massive particles to a body in Roman Judea; the waking of an interior and its leaving itself in matter — writing, and the Hebrew canon kept; the life of Christ from the Annunciation to the cry, each scene taken three ways; the three days in the sealed tomb, looked at three times; and the arc from the empty tomb through the forty days, Pentecost, and the spreading church to the new creation.*
 
 *Papers A0–A7*
 
