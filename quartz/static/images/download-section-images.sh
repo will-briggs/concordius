@@ -10,7 +10,7 @@ ERRORS=0
 FAILED_FILES=()
 FAILED_URLS=()
 
-MAX_KB=1536  # warn and resize if image exceeds 1.5 MB
+MAX_KB=2048  # warn and resize if image exceeds 2 MB
 
 dl() {
   # Usage: dl <output-filename> <url> <label>
@@ -272,6 +272,18 @@ dl hilbert-1912.jpg \
   "https://commons.wikimedia.org/wiki/Special:FilePath/Hilbert.jpg?width=1400" \
   "Paper A0: David Hilbert (1912) - public-domain portrait"
 
+dl wmap-cmb-9yr.png \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Ilc_9yr_moll4096.png?width=1400" \
+  "Paper A2 sec5: WMAP nine-year CMB all-sky map (NASA, 2012)"
+
+dl dirac-1933.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Dirac,_1933.jpg?width=1400" \
+  "Paper A0: Paul Dirac (1933) - public-domain portrait"
+
+dl von-neumann-los-alamos.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/John_von_Neumann_Los_Alamos_identity_badge_photo.jpg?width=1400" \
+  "Paper A0: John von Neumann - Los Alamos badge (US-gov, public domain)"
+
 for f in \
   antonello-jerome-study.jpg \
   masaccio-trinity.jpg ladder-of-divine-ascent.jpg \
@@ -286,7 +298,7 @@ for f in \
   rembrandt-two-old-men-disputing.jpg holbein-the-ambassadors.jpg \
   friedrich-monk-by-the-sea.jpg \
   feature-01-vermeer-balance.jpg feature-02-forge-of-vulcan.jpg feature-03-incredulity-of-thomas.jpg feature-04-las-meninas.jpg feature-05-moneylender.jpg feature-06-pentecost.jpg feature-07-ouroboros.png feature-08-air-pump.jpg feature-09-great-chain-of-being.png feature-10-carta-marina.jpg feature-11-william-of-ockham.jpg feature-12-basket-of-fruit.jpg \
-  trouvelot-orion-nebula.jpg geertgen-nativity-night.jpg rembrandt-philosopher-meditation.jpg hilbert-1912.jpg; do
+  trouvelot-orion-nebula.jpg geertgen-nativity-night.jpg rembrandt-philosopher-meditation.jpg hilbert-1912.jpg wmap-cmb-9yr.png dirac-1933.jpg von-neumann-los-alamos.jpg; do
   check_image "$f"
 done
 

@@ -20,12 +20,15 @@ title: Appendix VI - Catalogue of Illustrations
 
 **Paper A0: Modeling Reality as a Gelfand Triple**
 - *David Hilbert* (1912) &nbsp;·&nbsp; `hilbert-1912.jpg`
+- *Paul Dirac* (1933) &nbsp;·&nbsp; `dirac-1933.jpg`
+- *John von Neumann, Los Alamos identity badge* (c. 1943–45) &nbsp;·&nbsp; `von-neumann-los-alamos.jpg`
 
 **Paper A1: From the Cogito to the Logos**
 - *Antonello da Messina, St. Jerome in His Study* (c. 1474–75) &nbsp;·&nbsp; `antonello-jerome-study.jpg`
 
-**Paper 3 - Coordinative Actualization**
+**Paper A2: The Big Bang**
 - *J. M. W. Turner, Light and Colour (Goethe's Theory) — The Morning after the Deluge — Moses Writing the Book of Genesis* (1843) &nbsp;·&nbsp; `turner-light-and-colour.jpg`
+- *WMAP nine-year cosmic microwave background* (NASA / WMAP Science Team, 2012) &nbsp;·&nbsp; `wmap-cmb-9yr.png`
 
 **Paper A2½: The Constraint Cascade**
 - *William Blake, The Ancient of Days* (1794) &nbsp;·&nbsp; `blake-ancient-of-days.jpg`
