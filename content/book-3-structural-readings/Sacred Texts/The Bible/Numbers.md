@@ -32,7 +32,7 @@ The three movements are unified by the theme of the face (*panav*) — from its 
 
 **Structural note on the Hebrew**
 
-The three movements have 3, 5, and 7 words in Hebrew — the ascending odd numbers. The formal structure of the blessing encodes the Heptaparaparshinokh in its word count: 3 (initiation), 5 (intermediate), 7 (completion). The full seven words of the third movement are the second grade change resolution of a sequence that begins at 3 and moves through 5.
+The three movements have 3, 5, and 7 words in Hebrew — the ascending odd numbers. The formal structure of the blessing encodes the Heptaparaparshinokh in its word count: 3 (initiation), 5 (intermediate), 7 (completion). The full seven words of the third movement are the octave change resolution of a sequence that begins at 3 and moves through 5.
 
 *(S) — The three-movement progression as increasing Φ-proximity: structural, following from the face-theme and the structural identification of *shalom* with inner-product completion. The Law of Three analysis: structural. The *shalom* identification with structural completeness rather than absence of conflict: structural. Cross-reference: EXOD 33:18-23 — the same face-proximity structure; EXOD 34:6-7 — the divine character that the face expresses.)*
 

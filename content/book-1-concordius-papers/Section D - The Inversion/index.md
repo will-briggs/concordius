@@ -58,8 +58,8 @@ Mao's catastrophe read as the inversion of diligence (e₂e₃) — honest fruit
 **[[Paper D6: Lucifer|Paper D6 — Lucifer]]**
 Evil at its root: where the human doors each inverted one axis, this reaches the archetype beneath them — the one in whom all three are inverted at once, and from whom the human inversions descend.
 
-**[[Paper D6½: The Fall|Paper D6½ — The Fall]]** *(second grade change)*
-The second grade-change crossing inverted — the passage by which the inversion left the archetype and entered the world at large. The crossing no one makes alone, read from its dark side.
+**[[Paper D6½: The Fall|Paper D6½ — The Fall]]** *(octave change)*
+The octave-change crossing inverted — the passage by which the inversion left the archetype and entered the world at large. The crossing no one makes alone, read from its dark side.
 
 **[[Paper D7: Evil|Paper D7 — Evil]]**
 The closing note and the hinge into what follows: the dark octave traced as far as the framework's three witnesses can carry it, to the edge where the canon is sparse and math and science fall silent — and the warrant, under Gödel, for the next section's outside witness.

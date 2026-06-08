@@ -58,8 +58,8 @@ Diligence — e₂e₃, sustained and rightly-aimed labor that bears fruit acros
 **[[Paper C6: The Host of Witnesses|Paper C6 — The Host of Witnesses]]**
 Humility — I, the pseudoscalar, the complete integration in which all six elements are gathered into one — made into a roster: the whole human story laid out as an octave, each name one voice in a company none of them is the center of.
 
-**[[Paper C6½: The Crossing|Paper C6½ — The Crossing]]** *(second grade change)*
-The second grade change — the companion to the Reader's Turn, which was crossed alone. This one cannot be: what waits at the interval is a darkness to be faced, not a page to be turned.
+**[[Paper C6½: The Crossing|Paper C6½ — The Crossing]]** *(octave change)*
+The octave change — the companion to the Reader's Turn, which was crossed alone. This one cannot be: what waits at the interval is a darkness to be faced, not a page to be turned.
 
 **[[Paper C7: The Inversion|Paper C7 — The Inversion]]**
 The closing note struck in the minor — the one silence the Host kept (the tyrants, left unsaid) given a voice, not to seat the inverters among the witnesses but to study what they are: the Good, the True, and the Beautiful turned against themselves. The door into the Inversion.

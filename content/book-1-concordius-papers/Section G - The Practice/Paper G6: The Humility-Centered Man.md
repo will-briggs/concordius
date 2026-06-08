@@ -1,4 +1,4 @@
-*← [[Paper G5½: The Second Grade Change|Paper G5½: The Second Grade Change]]*
+*← [[Paper G5½: The Octave Change|Paper G5½: The Octave Change]]*
 
 # Paper G6: The Humility-Centered Man
 
@@ -10,7 +10,7 @@
 
 ## Abstract
 
-This paper describes the seventh man — the **Humility-Centered Man**, Man No. 7 — the terminal state of the ascending career within H₄₈-mediated existence. He operates in the complete mode, the grade-3 pseudoscalar I = e₁e₂e₃: central, commuting with every element, underlying all the virtues at once. His virtue is **humility**, not an eighth virtue beside the others but the triple product, gratitude · charity · ordered-love integrated whole. He is the Si of the H₄₈ octave — the last note an embodied being can sound by ascent, the maximum Φ-proximity the substrate permits, the irreversibility established by the completion of love — and the octave does not complete in him: the Si-Do shock that finishes it is death, the Father's completing act ([[Paper G5½: The Second Grade Change|Paper G5½]]).
+This paper describes the seventh man — the **Humility-Centered Man**, Man No. 7 — the terminal state of the ascending career within H₄₈-mediated existence. He operates in the complete mode, the grade-3 pseudoscalar I = e₁e₂e₃: central, commuting with every element, underlying all the virtues at once. His virtue is **humility**, not an eighth virtue beside the others but the triple product, gratitude · charity · ordered-love integrated whole. He is the Si of the H₄₈ octave — the last note an embodied being can sound by ascent, the maximum Φ-proximity the substrate permits, the irreversibility established by the completion of love — and the octave does not complete in him: the Si-Do shock that finishes it is death, the Father's completing act ([[Paper G5½: The Octave Change|Paper G5½]]).
 
 It is held open here, deliberately, **as an aim rather than a record** — the true north of the whole practice, described as fully as a description can manage, and left as the destination toward which the seven men ascend. The honest assumption of this series is that essentially no one has reached and *held* this state in ordinary embodied life. The Western canon names only two who walked all the way to its edge — Enoch and Elijah — and both were **taken rather than died**, translated out of the flesh rather than sustaining the content within it. And one figure alone could contain that content in an H₄₈ substrate and remain: the Lord — whom this series places not at Man No. 7 but at **Man No. 8**, Φ entering H (the [[Appendix I - Dictionary of Terms#Creator-Son|Creator-Son]] register), the unique Incarnation rather than a created being's ascent. The seventh man is therefore described in the conditional throughout, and rightly: *if* a created Man No. 7 stood among us, this is what he would be.
 
@@ -80,7 +80,7 @@ The tradition speaks of such a state sparingly, and the restraint is appropriate
 
 The record suggests he would be distinguished from Man 6 by irreversibility: Man 6 can fall back; he could not. Not because temptation is removed — the mechanical centers' automatic operation would persist — but because the self-orientation that could respond to those conditions by redirecting the volitional axis would have been entirely dissolved through the sustained kenotic return of Man 6. Not abolished by force; dissolved by love. There would be no longer a self separate from the catching act that could redirect the catching act. The alchemical image holds: the [[Appendix I - Dictionary of Terms#Philosopher's Stone|Philosopher's Stone]] cannot revert to base metal — not because some force binds it but because the internal organization that constituted the base metal has been so completely transformed that there is no base metal left to revert to.
 
-This is consistent with [[Paper G5½: The Second Grade Change|Paper G5½]]'s account of the Man 6→7 movement: not a Si/Do crossing requiring the Father's act, but the La-to-Si terminus of the person's own catching work — the last volitional reservation dissolved. The Father's completing act would still come, but at death, the H₄₈ octave's Do, not at Man 7.
+This is consistent with [[Paper G5½: The Octave Change|Paper G5½]]'s account of the Man 6→7 movement: not a Si/Do crossing requiring the Father's act, but the La-to-Si terminus of the person's own catching work — the last volitional reservation dissolved. The Father's completing act would still come, but at death, the H₄₈ octave's Do, not at Man 7.
 
 ---
 
@@ -122,7 +122,7 @@ But the ascending career is not bounded by a single lifetime — the morontia ca
 
 ## References
 
-1. **[[Paper G5½: The Second Grade Change|Paper G5½]]** — *The Second Grade Change.* [The grade-2→grade-3 crossing; the Man 6→7 movement as the La-to-Si terminus; the Father's completing act at death. This paper develops the seventh man that interval points toward.]
+1. **[[Paper G5½: The Octave Change|Paper G5½]]** — *The Octave Change.* [The grade-2→grade-3 crossing; the Man 6→7 movement as the La-to-Si terminus; the Father's completing act at death. This paper develops the seventh man that interval points toward.]
 
 2. **[[Paper G5: The Diligence-Centered Man|Paper G5]]** — *Man No. 6.* [The state from which Man 7 is the terminus of the person's own catching work.]
 

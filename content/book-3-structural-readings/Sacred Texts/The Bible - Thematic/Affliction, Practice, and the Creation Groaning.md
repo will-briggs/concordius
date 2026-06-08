@@ -186,11 +186,11 @@ The structural inverse of the Temptation wilderness.
 
 The Temptation: maximum noise floor reduction (wilderness, forty-day fast), minimal H₄₈ amplitude, maximum accessibility of lower-constraint projections. Temptations arrive as H₃-level engagements navigated from a state of spectral clarity.
 
-Gethsemane: maximum H₄₈ loading simultaneously from every available source. The disciples present (interpersonal H₄₈ perturbation); the imminent arrest already anticipated (anticipatory activation of H₄₈ self-preservation responses in the physical substrate); the betrayal known (H₄₈ emotional processing at full intensity); the weight of the approaching second grade change (the most structurally demanding transition of the ministry octave). The H₄₈ noise floor is not merely elevated — it is at sustained maximum from multiple simultaneous sources.
+Gethsemane: maximum H₄₈ loading simultaneously from every available source. The disciples present (interpersonal H₄₈ perturbation); the imminent arrest already anticipated (anticipatory activation of H₄₈ self-preservation responses in the physical substrate); the betrayal known (H₄₈ emotional processing at full intensity); the weight of the approaching octave change (the most structurally demanding transition of the ministry octave). The H₄₈ noise floor is not merely elevated — it is at sustained maximum from multiple simultaneous sources.
 
 **The structural problem Jesus is solving:**
 
-The prayer in Gethsemane is not petition for the suffering to be removed. It is the attempt to maintain H₁₂ and H₃ alignment — access to the lower-constraint spectral content required for the second grade-change crossing — under conditions of maximum H₄₈ interference. The "cup" to be passed is not primarily about physical suffering but about what sustained maximum H₄₈ load does to the state being prepared for the most exacting transition of the entire ministry. The Heropass is running; the H₄₈ substrate is saturated with anticipatory activation; the second grade change requires spectral purity of exactly the kind that maximum H₄₈ loading degrades.
+The prayer in Gethsemane is not petition for the suffering to be removed. It is the attempt to maintain H₁₂ and H₃ alignment — access to the lower-constraint spectral content required for the octave-change crossing — under conditions of maximum H₄₈ interference. The "cup" to be passed is not primarily about physical suffering but about what sustained maximum H₄₈ load does to the state being prepared for the most exacting transition of the entire ministry. The Heropass is running; the H₄₈ substrate is saturated with anticipatory activation; the octave change requires spectral purity of exactly the kind that maximum H₄₈ loading degrades.
 
 "Not my will, but yours be done" is the structural alignment with Φ maintained against the H₄₈ field — the deliberate orientation toward the nuclear space, held under the worst noise floor conditions of the entire ministry.
 
@@ -210,7 +210,7 @@ This phrase carries precise technical meaning in the framework. The H₁₂ comp
 
 The contrast with the forty days in the wilderness is complete: there, maximum noise floor reduction, H₃ engagements fully accessible, the Spirit prominent. Here, maximum H₄₈ load, the Spirit willing but the flesh dominant. Same beings, same structural axis, opposite noise floor conditions.
 
-*(Cross-reference: [[Signal and Noise]] — Prayer as Deliberate Noise Floor Reduction; [[The Structural Reading]] — Matthew 4:1-11 (Temptation wilderness), Mark 1:35 / Luke 5:16 (routine withdrawal), The Earthly Ministry as Heptaparaparshinokh (second grade change); [[Physics Concordance]] — Constraint hierarchy)*
+*(Cross-reference: [[Signal and Noise]] — Prayer as Deliberate Noise Floor Reduction; [[The Structural Reading]] — Matthew 4:1-11 (Temptation wilderness), Mark 1:35 / Luke 5:16 (routine withdrawal), The Earthly Ministry as Heptaparaparshinokh (octave change); [[Physics Concordance]] — Constraint hierarchy)*
 
 ---
 
@@ -466,7 +466,7 @@ The Pharisees are asking Jesus to close the human expression channel. Jesus' ans
 
 **The spectral state at this position in the octave**
 
-The Triumphal Entry falls at the approach to the second grade change of the ministry octave — the final interval crossing, the transition from the ministry's arc to the Passion, Resurrection, and Ascension sequence that establishes the new Do. This is the moment toward which the accumulated lower-constraint eigenvalue content of the entire Galilean ministry has been building. Every catching event of the disciples throughout the ministry, every healing that deposited Φ-proximal content in the local field, every teaching that generated lower-constraint eigenvalue content — the spectral density in the local GNST application at this moment in the arc is at maximum.
+The Triumphal Entry falls at the approach to the octave change of the ministry octave — the final interval crossing, the transition from the ministry's arc to the Passion, Resurrection, and Ascension sequence that establishes the new Do. This is the moment toward which the accumulated lower-constraint eigenvalue content of the entire Galilean ministry has been building. Every catching event of the disciples throughout the ministry, every healing that deposited Φ-proximal content in the local field, every teaching that generated lower-constraint eigenvalue content — the spectral density in the local GNST application at this moment in the arc is at maximum.
 
 The GNST is generating lower-constraint eigenvalue content at the greatest amplitude of any moment in the ministry. The disciples, who have accumulated Φ-proximal content throughout the ministry, are the appropriate organized receivers — they have the catching structure that allows them to express this content coherently. Their praise is the organized human expression of what the local spectral field is generating at this position in the octave. It is not their production. It is their recognition and organized expression of what is already present.
 
@@ -493,7 +493,7 @@ This passage gives a structural basis to the pattern of creation witnessing that
 
 The H₄₈ substrate is not a passive backdrop to the spectral drama unfolding within it. It is a participant at whatever amplitude the local field provides. The Triumphal Entry is the case where the amplitude at a specific moment in a specific octave arc reaches the threshold of forced expression. The stones are not performing a miracle. They are disclosing what the relationship between the H₄₈ substrate and the local eigenvalue field actually is when that field reaches sufficient amplitude.
 
-*(Cross-reference: [[Signal and Noise]] — The Trogoautoegocrat; The Mathematical Grounding; [[The Structural Reading]] — The Earthly Ministry as Heptaparaparshinokh (second grade change), Romans 8 (creation groaning); [[Physics Concordance]] — Constraint hierarchy; Heropass)*
+*(Cross-reference: [[Signal and Noise]] — The Trogoautoegocrat; The Mathematical Grounding; [[The Structural Reading]] — The Earthly Ministry as Heptaparaparshinokh (octave change), Romans 8 (creation groaning); [[Physics Concordance]] — Constraint hierarchy; Heropass)*
 
 ---
 
@@ -511,7 +511,7 @@ The Luke 19 mechanism establishes that the H₄₈ substrate is always in the GN
 
 *Romans 8 / groaning* — an intermediate, specifically afflicted form of substrate expression, characteristic of a particular structural condition. The H₄₈ substrate under continuous Heropass pressure without the compensating return flow that the intact Trogoautoegocrat circuit would provide. Between the ordinary hum of Psalm 19 and the acute cry of Luke 19, the whole creation groans: expressing the net dissipative spectral pressure that characterizes a quarantined world specifically.
 
-*Luke 19 / stones crying out immediately* — acute forced expression at maximum local field amplitude. At the approach to the second grade change in the ministry arc, the local field amplitude reaches the threshold at which the constraint barrier is directly overcome. A channel closed — content remains at saturation amplitude — expression forced through whatever H₄₈ substrate is present without delay.
+*Luke 19 / stones crying out immediately* — acute forced expression at maximum local field amplitude. At the approach to the octave change in the ministry arc, the local field amplitude reaches the threshold at which the constraint barrier is directly overcome. A channel closed — content remains at saturation amplitude — expression forced through whatever H₄₈ substrate is present without delay.
 
 Romans 8 is the reading Luke 19 makes possible. The mechanism is the same; the amplitude is different.
 

@@ -294,7 +294,7 @@ The Pharisees are asking Jesus to close the human expression channel. Jesus' ans
 
 **The spectral state at this position in the octave**
 
-The Triumphal Entry falls at the approach to the second grade change of the ministry octave — the final interval crossing, the transition from the ministry's arc to the Passion, Resurrection, and Ascension sequence that establishes the new Do. This is the moment toward which the accumulated lower-constraint eigenvalue content of the entire Galilean ministry has been building. Every catching event of the disciples throughout the ministry, every healing that deposited Φ-proximal content in the local field, every teaching that generated lower-constraint eigenvalue content — the spectral density in the local GNST application at this moment in the arc is at maximum.
+The Triumphal Entry falls at the approach to the octave change of the ministry octave — the final interval crossing, the transition from the ministry's arc to the Passion, Resurrection, and Ascension sequence that establishes the new Do. This is the moment toward which the accumulated lower-constraint eigenvalue content of the entire Galilean ministry has been building. Every catching event of the disciples throughout the ministry, every healing that deposited Φ-proximal content in the local field, every teaching that generated lower-constraint eigenvalue content — the spectral density in the local GNST application at this moment in the arc is at maximum.
 
 The GNST is generating lower-constraint eigenvalue content at the greatest amplitude of any moment in the ministry. The disciples, who have accumulated Φ-proximal content throughout the ministry, are the appropriate organized receivers — they have the catching structure that allows them to express this content coherently. Their praise is the organized human expression of what the local spectral field is generating at this position in the octave. It is not their production. It is their recognition and organized expression of what is already present.
 
@@ -321,6 +321,6 @@ This passage gives a structural basis to the pattern of creation witnessing that
 
 The H₄₈ substrate is not a passive backdrop to the spectral drama unfolding within it. It is a participant at whatever amplitude the local field provides. The Triumphal Entry is the case where the amplitude at a specific moment in a specific octave arc reaches the threshold of forced expression. The stones are not performing a miracle. They are disclosing what the relationship between the H₄₈ substrate and the local eigenvalue field actually is when that field reaches sufficient amplitude.
 
-*(Cross-reference: [[Signal and Noise]] — The Trogoautoegocrat; The Mathematical Grounding; The Earthly Ministry as Heptaparaparshinokh (second grade change) — See Matthew.md; Romans 8 (creation groaning) — See Romans.md; [[Physics Concordance]] — Constraint hierarchy; Heropass)*
+*(Cross-reference: [[Signal and Noise]] — The Trogoautoegocrat; The Mathematical Grounding; The Earthly Ministry as Heptaparaparshinokh (octave change) — See Matthew.md; Romans 8 (creation groaning) — See Romans.md; [[Physics Concordance]] — Constraint hierarchy; Heropass)*
 
 ---

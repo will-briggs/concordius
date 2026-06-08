@@ -202,7 +202,7 @@ The Sabbath passage is not a postscript to the creation narrative. It is the Hep
 
 The seventh day is when the completion is noted and marked — not when the last act of making occurred. The creative work was done on the sixth day; the seventh day is the structural acknowledgment of completion. The Heptaparaparshinokh does not terminate on the last active stage. The seventh stage is qualitatively different from the six that precede it: the first six stages produce the elements of the structure; the seventh stage is the completion-as-completion — the moment when the structure is recognized as whole.
 
-In the framework's terms: the second grade change position is the point where the octave has run its full course and what was implicit at Do₁ has been fully actualized at Do₂. The seventh day is the fulfillment that makes the first day's potential actual.
+In the framework's terms: the octave change position is the point where the octave has run its full course and what was implicit at Do₁ has been fully actualized at Do₂. The seventh day is the fulfillment that makes the first day's potential actual.
 
 **"He rested from all his work"**
 
@@ -212,13 +212,13 @@ The rest is therefore the structural marker of completion, not the absence of di
 
 **"He blessed the seventh day and made it holy"**
 
-Two acts mark the seventh day as structurally distinct from the preceding six — neither was applied to any creative day before. *Barak* (blessed) invests the seventh stage with generative potential; *qadash* (set apart, made holy) marks it as occupying a higher constraint level than the surrounding structure. *Qadosh* in the framework: operating at a higher constraint level than the surrounding substrate. The seventh day is *qadosh* because it occupies the second grade change position in the Heptaparaparshinokh — the interval that completes and resolves the cycle, carrying a different structural valence from the six active stages.
+Two acts mark the seventh day as structurally distinct from the preceding six — neither was applied to any creative day before. *Barak* (blessed) invests the seventh stage with generative potential; *qadash* (set apart, made holy) marks it as occupying a higher constraint level than the surrounding structure. *Qadosh* in the framework: operating at a higher constraint level than the surrounding substrate. The seventh day is *qadosh* because it occupies the octave change position in the Heptaparaparshinokh — the interval that completes and resolves the cycle, carrying a different structural valence from the six active stages.
 
 **The Sabbath commandment as structural derivation**
 
 EXOD 20:8-11 grounds the human Sabbath explicitly in this cosmological structure: "for in six days the LORD made the heavens and the earth... but he rested on the seventh day." The human work week is not merely analogous to the cosmological Heptaparaparshinokh — it is the human instantiation of the same structure. A seven-stage cycle without a distinguished seventh stage is structurally truncated; the octave without the resolving tone is incomplete. The commandment derives from this structural fact.
 
-*(S) — The seventh day as the second grade change completion of the cosmological Heptaparaparshinokh: structural, following from the framework's account of the Law of Seven and the qualitative distinction of the seventh stage. The *qadosh* marking as structural distinction: structural. Cross-reference: EXOD 20:8-11 — the Sabbath commandment; LEV 23 — the seven annual feasts as Heptaparaparshinokh at the yearly scale.)*
+*(S) — The seventh day as the octave change completion of the cosmological Heptaparaparshinokh: structural, following from the framework's account of the Law of Seven and the qualitative distinction of the seventh stage. The *qadosh* marking as structural distinction: structural. Cross-reference: EXOD 20:8-11 — the Sabbath commandment; LEV 23 — the seven annual feasts as Heptaparaparshinokh at the yearly scale.)*
 
 ---
 

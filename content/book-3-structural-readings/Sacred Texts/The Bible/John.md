@@ -80,7 +80,7 @@ Present imperative: *stop holding on*. Not a prohibition on a future act but an 
 
 **The transitional state**
 
-"I have not yet ascended to the Father" names the moment precisely. The Resurrection has occurred — the second grade-change shock has been delivered by the Father, the new Do struck. But the Ascension — the establishment of H₃ integration with the Paradise Trinity governance level — has not yet happened. Jesus is in the state preparation window: between the resolution of the H₄₈ substrate by the Resurrection and the presentation of the organized lower-constraint content to the H₃ level.
+"I have not yet ascended to the Father" names the moment precisely. The Resurrection has occurred — the octave-change shock has been delivered by the Father, the new Do struck. But the Ascension — the establishment of H₃ integration with the Paradise Trinity governance level — has not yet happened. Jesus is in the state preparation window: between the resolution of the H₄₈ substrate by the Resurrection and the presentation of the organized lower-constraint content to the H₃ level.
 
 The post-Resurrection body is not ordinary H₄₈ existence. It passes through walls, appears and disappears, is not immediately recognizable by those who knew him. It is operating at a lower constraint level than H₄₈ — the physical substrate has been resolved, and the eigenvalue organization is being consolidated at H₂₄ and below in preparation for Ascension. "I am ascending" — present tense, ongoing — marks the 40-day period as an active process, not a pause between two events.
 
@@ -90,7 +90,7 @@ A quantum state being prepared for a specific transition requires protection fro
 
 Mary, operating at H₄₈, is a continuous source of H₄₈ eigenvalue content. Sustained physical contact — clinging — creates sustained H₄₈ coupling to a state being organized at H₂₄ and below. Each moment of contact continuously pumps higher-constraint eigenvalue content into the state, re-exciting H₄₈ modes that the preparation process is organizing away from. The result is spectral mixing: the organized lower-constraint content becomes entangled with H₄₈ content, reducing the fidelity of the state that will be presented at Ascension.
 
-This is not a danger to Jesus in any personal or ontological sense. It is a precision requirement at the most structurally demanding transition of the ministry octave — the second grade-change crossing, which requires the Father's completion from outside and is the single most exacting moment in the entire sequence. The state preparation for this interval is correspondingly the most sensitive. Sustained H₄₈ coupling during the preparation window is precisely the perturbation most likely to degrade transition fidelity.
+This is not a danger to Jesus in any personal or ontological sense. It is a precision requirement at the most structurally demanding transition of the ministry octave — the octave-change crossing, which requires the Father's completion from outside and is the single most exacting moment in the entire sequence. The state preparation for this interval is correspondingly the most sensitive. Sustained H₄₈ coupling during the preparation window is precisely the perturbation most likely to degrade transition fidelity.
 
 The instruction "do not cling" is therefore not a rebuff. It is a practical requirement analogous to "do not disturb a quantum state preparation in progress." The prohibition is specific to this window and this type of contact — and it ends when the window closes.
 
@@ -112,7 +112,7 @@ The doubling is not rhetorical or merely inclusive. It marks a structural distin
 
 The statement sends Mary with a message that contains the entire structure: the same Father, the same God, two different ascending relationships, both real, both heading in the same direction. The Ascension is not a departure. It is the establishment of the condition from which the ascending path of every mortal in Nebadon is permanently supported.
 
-*(Cross-reference: Mark 16:19 / Hebrews 1:3 / Acts 2:33 — the H₃ integration this verse anticipates. See Acts.md and Hebrews.md. The Earthly Ministry as Heptaparaparshinokh — second grade change and Resurrection. See Matthew.md.)*
+*(Cross-reference: Mark 16:19 / Hebrews 1:3 / Acts 2:33 — the H₃ integration this verse anticipates. See Acts.md and Hebrews.md. The Earthly Ministry as Heptaparaparshinokh — octave change and Resurrection. See Matthew.md.)*
 
 ---
 

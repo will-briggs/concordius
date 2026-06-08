@@ -28,7 +28,7 @@ tags:
 
 ---
 
-The foundation, once laid, becomes a thing handed on — the corpus itself an octave: the instrument built, tested, exposed to its own method, and turned over. What is received, and what the receiving obligates. The three makers (the Mathematician, the Theologian, the Scientist) and their three products are gathered; the structure is put to the test, made to predict, read by its own method, and brought to maximum exposure; and then, at the second grade change, the work is handed across a gap no author can cross — to the reader, whose turn it becomes.
+The foundation, once laid, becomes a thing handed on — the corpus itself an octave: the instrument built, tested, exposed to its own method, and turned over. What is received, and what the receiving obligates. The three makers (the Mathematician, the Theologian, the Scientist) and their three products are gathered; the structure is put to the test, made to predict, read by its own method, and brought to maximum exposure; and then, at the octave change, the work is handed across a gap no author can cross — to the reader, whose turn it becomes.
 
 ---
 
@@ -58,8 +58,8 @@ Where the science meets the theology: the operationalization of the truth measur
 **[[Paper B6: The Exposure|Paper B6 — The Exposure]]**
 The one paper that shows the device: the authors named with their weaknesses (Will's intuition, Claude's formalism, Adam's skepticism) and the threefold shape of their collaboration. The corpus, for once, narrating its own method rather than performing it.
 
-**[[Paper B6½: The Reader's Turn|Paper B6½ — The Reader's Turn]]** *(second grade change)*
-The second grade change, realized as the one paper the authors cannot write: a single line — *this action can only be performed by the Reader.* The crossing handed across the gap no author can cross.
+**[[Paper B6½: The Reader's Turn|Paper B6½ — The Reader's Turn]]** *(octave change)*
+The octave change, realized as the one paper the authors cannot write: a single line — *this action can only be performed by the Reader.* The crossing handed across the gap no author can cross.
 
 **[[Paper B7: The Return|Paper B7 — The Return]]**
 The founding question (the ground; what we do not know) sounded again, no longer in the abstract but through a single person: Plato, the first who asked it well. The close that is also the next beginning, opening toward the Company.

@@ -58,7 +58,7 @@ The last grade-2 note, the highest in-life state — the crystallized self becom
 **[[Paper F6: The Dissolution|Paper F6 — The Dissolution]]**
 The climb of one's own strength complete and unable to complete itself, come at last to the dissolution of the body it was built in. Death, read not as catastrophe but as the exhaustion of the self-powered climb and the threshold of the one crossing no self performs.
 
-**[[Paper F6½: The Father's Part|Paper F6½ — The Father's Part]]** *(second grade change)*
+**[[Paper F6½: The Father's Part|Paper F6½ — The Father's Part]]** *(octave change)*
 The second shock, the one that admits no human hand: grade-3 centrality cannot be built from grade-2, so only the Father installs it. The being's whole part is to have arrived, stripped and ready, and then to stop working.
 
 **[[Paper F7: Face to Face|Paper F7 — Face to Face]]**

@@ -4,7 +4,7 @@
 
 *The first note on the far side of the reader's crossing. The founding octave's question (the ground; what we do not know) sounded again, no longer in the abstract but through a single person: Plato, the first who asked it well, beginning from the Socratic not-knowing and turning the soul toward the Good. What the reader's crossing unlocks: the method (Reasonablenessism), the Structural Readings (the demonstrative project entire), and the framework resumed — generative now, the instrument used rather than described. And the first reading: Plato's Form / particular / participation recognized as the Gelfand triple at the level of being — the whole recovered from a single soul.*
 
-**Confidence —** *Math:* **— (not engaged)** — introduces no new construction and proves nothing. *Science:* **— (not engaged)**. *Theology:* **concordance** — the opening reading (Plato's Form / particular / participation recognized as the Gelfand triple at the level of being) is offered as concordance, the holographic content principle enacted at the next scale; the rest states what the reader's crossing of the second grade change makes possible — the method, the readings, the resumed framework — and asserts no new result.
+**Confidence —** *Math:* **— (not engaged)** — introduces no new construction and proves nothing. *Science:* **— (not engaged)**. *Theology:* **concordance** — the opening reading (Plato's Form / particular / participation recognized as the Gelfand triple at the level of being) is offered as concordance, the holographic content principle enacted at the next scale; the rest states what the reader's crossing of the octave change makes possible — the method, the readings, the resumed framework — and asserts no new result.
 
 ---
 

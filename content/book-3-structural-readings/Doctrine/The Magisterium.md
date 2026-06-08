@@ -54,7 +54,7 @@ The structural significance: this is the earliest recorded instance of the Magis
 
 ## The Law of Seven as structural context
 
-Every developmental octave has two intervals requiring external shock: the first grade change and the second grade change. Neither can be self-generated from within the developing process.
+Every developmental octave has two intervals requiring external shock: the first grade change and the octave change. Neither can be self-generated from within the developing process.
 
 The first grade change marks the first exhaustion of internal resources. Development proceeds from Do through Re and Mi under the impulse of the initial energy; but at Mi, the internal momentum is spent before the octave is complete. The gap between Mi and Fa cannot be bridged by more effort of the same kind — more reading, more thinking, more discipline — because the resources available at the Mi stage are structurally insufficient to generate the Fa content. What is required is a shock: content arriving from outside the octave's own developmental trajectory, introducing new impulse that the developing process cannot supply to itself.
 

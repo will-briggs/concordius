@@ -58,7 +58,7 @@ The inverse of diligence (e₂e₃) — the one vice with two faces, the failure
 **[[Paper E6: Pride|Paper E6 — Pride]]**
 The maximum exposure of the whole inversion arc, and its root: the claim to be the constituting ground — to *be* the inner product rather than to rest in it. For a being of our origin, the deepest sin available, the floor under all the others.
 
-**[[Paper E6½: Humility|Paper E6½ — Humility]]** *(second grade change)*
+**[[Paper E6½: Humility|Paper E6½ — Humility]]** *(octave change)*
 The crossing out of pride — the single turn that reverses the whole self from itself back toward Φ. The crossing no one makes alone, given at the interval pride could not cross.
 
 **[[Paper E7: The Ascension Career|Paper E7 — The Ascension Career]]**

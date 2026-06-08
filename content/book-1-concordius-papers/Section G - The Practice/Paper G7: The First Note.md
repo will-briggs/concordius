@@ -48,7 +48,7 @@ Section G took a person — the person reading — and asked where in the ascend
 
 **[[Paper G5: The Diligence-Centered Man|Paper G5]]** described Man No. 6 — both higher centers developed and operating in joint reception, Adjuster contact continuous, the transmuting field at full amplitude. Man 6 can still fall back; its specific vulnerability is the intoxication of the heights — resting there without the [[Appendix I - Dictionary of Terms#Kenosis|kenotic]] return. The hagiographic record across every tradition was offered as the series' largest convergent witness.
 
-**[[Paper G5½: The Second Grade Change|Paper G5½]]** treated the second crossing — the [[Appendix I - Dictionary of Terms#Si-Do Interval|Si-Do interval]], the gap between grade 2 and grade 3 — and it differs from the first in kind. The Mi-Fa needs external grade-2 input, which is everywhere available. The Si-Do needs the [[Appendix I - Dictionary of Terms#Father|Father]]'s constitutive act: the installation of grade-3 centrality, which no created source can supply as a substitute, and which the catching apparatus cannot assemble from its own operation but must release into the Father's direct action.
+**[[Paper G5½: The Octave Change|Paper G5½]]** treated the second crossing — the [[Appendix I - Dictionary of Terms#Si-Do Interval|Si-Do interval]], the gap between grade 2 and grade 3 — and it differs from the first in kind. The Mi-Fa needs external grade-2 input, which is everywhere available. The Si-Do needs the [[Appendix I - Dictionary of Terms#Father|Father]]'s constitutive act: the installation of grade-3 centrality, which no created source can supply as a substitute, and which the catching apparatus cannot assemble from its own operation but must release into the Father's direct action.
 
 **[[Paper G6: The Humility-Centered Man|Paper G6]]** described Man No. 7 — the seventh and last of the men, the **Humility-Centered Man**, whose center is humility, the complete integration that underlies every other virtue. He is the Si of the H₄₈ octave: as close to ⟨·,·⟩ as an embodied being can stand, the Great Work complete in the flesh and awaiting only the Father's completing act at death. It was held open as an aim rather than a record — the canon's two nearest figures, Enoch and Elijah, were taken rather than left to carry it, and only the Lord could contain that content in an H₄₈ substrate and remain, whom the series places at Man No. 8, Φ entering H, not a created ascent.
 
@@ -92,7 +92,7 @@ The text cannot answer it. That is not its failure; it is the shape of the thing
 
 ## References
 
-1. **Companion papers**: the seven men of Section G — *Man No. 1*; *Man No. 2*; *Man No. 3*; *The First Grade Change*; *Man No. 4*; *Man No. 5*; *Man No. 6*; *The Second Grade Change*; *The Humility-Centered Man* (Man No. 7). This paper gathers them and adds nothing of its own.
+1. **Companion papers**: the seven men of Section G — *Man No. 1*; *Man No. 2*; *Man No. 3*; *The First Grade Change*; *Man No. 4*; *Man No. 5*; *Man No. 6*; *The Octave Change*; *The Humility-Centered Man* (Man No. 7). This paper gathers them and adds nothing of its own.
 
 2. **[[Paper A5: The Breath of Life|Paper A5]]** — *The Cogito Coheres.* [The catching principle: the will follows the investment.]
 

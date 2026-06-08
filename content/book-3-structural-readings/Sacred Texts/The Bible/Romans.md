@@ -112,7 +112,7 @@ The Luke 19 mechanism establishes that the H₄₈ substrate is always in the GN
 
 *Romans 8 / groaning* — an intermediate, specifically afflicted form of substrate expression, characteristic of a particular structural condition. The H₄₈ substrate under continuous Heropass pressure without the compensating return flow that the intact Trogoautoegocrat circuit would provide. Between the ordinary hum of Psalm 19 and the acute cry of Luke 19, the whole creation groans: expressing the net dissipative spectral pressure that characterizes a quarantined world specifically.
 
-*Luke 19 / stones crying out immediately* — acute forced expression at maximum local field amplitude. At the approach to the second grade change in the ministry arc, the local field amplitude reaches the threshold at which the constraint barrier is directly overcome. A channel closed — content remains at saturation amplitude — expression forced through whatever H₄₈ substrate is present without delay.
+*Luke 19 / stones crying out immediately* — acute forced expression at maximum local field amplitude. At the approach to the octave change in the ministry arc, the local field amplitude reaches the threshold at which the constraint barrier is directly overcome. A channel closed — content remains at saturation amplitude — expression forced through whatever H₄₈ substrate is present without delay.
 
 Romans 8 is the reading Luke 19 makes possible. The mechanism is the same; the amplitude is different.
 

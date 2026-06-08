@@ -14,7 +14,7 @@ Present imperative: *stop holding on*. Not a prohibition on a future act but an 
 
 **The transitional state**
 
-"I have not yet ascended to the Father" names the moment precisely. The Resurrection has occurred — the second grade-change shock has been delivered by the Father, the new Do struck. But the Ascension — the establishment of H₃ integration with the Paradise Trinity governance level — has not yet happened. Jesus is in the state preparation window: between the resolution of the H₄₈ substrate by the Resurrection and the presentation of the organized lower-constraint content to the H₃ level.
+"I have not yet ascended to the Father" names the moment precisely. The Resurrection has occurred — the octave-change shock has been delivered by the Father, the new Do struck. But the Ascension — the establishment of H₃ integration with the Paradise Trinity governance level — has not yet happened. Jesus is in the state preparation window: between the resolution of the H₄₈ substrate by the Resurrection and the presentation of the organized lower-constraint content to the H₃ level.
 
 The post-Resurrection body is not ordinary H₄₈ existence. It passes through walls, appears and disappears, is not immediately recognizable by those who knew him. It is operating at a lower constraint level than H₄₈ — the physical substrate has been resolved, and the eigenvalue organization is being consolidated at H₂₄ and below in preparation for Ascension. "I am ascending" — present tense, ongoing — marks the 40-day period as an active process, not a pause between two events.
 
@@ -24,7 +24,7 @@ A quantum state being prepared for a specific transition requires protection fro
 
 Mary, operating at H₄₈, is a continuous source of H₄₈ eigenvalue content. Sustained physical contact — clinging — creates sustained H₄₈ coupling to a state being organized at H₂₄ and below. Each moment of contact continuously pumps higher-constraint eigenvalue content into the state, re-exciting H₄₈ modes that the preparation process is organizing away from. The result is spectral mixing: the organized lower-constraint content becomes entangled with H₄₈ content, reducing the fidelity of the state that will be presented at Ascension.
 
-This is not a danger to Jesus in any personal or ontological sense. It is a precision requirement at the most structurally demanding transition of the ministry octave — the second grade-change crossing, which requires the Father's completion from outside and is the single most exacting moment in the entire sequence. The state preparation for this interval is correspondingly the most sensitive. Sustained H₄₈ coupling during the preparation window is precisely the perturbation most likely to degrade transition fidelity.
+This is not a danger to Jesus in any personal or ontological sense. It is a precision requirement at the most structurally demanding transition of the ministry octave — the octave-change crossing, which requires the Father's completion from outside and is the single most exacting moment in the entire sequence. The state preparation for this interval is correspondingly the most sensitive. Sustained H₄₈ coupling during the preparation window is precisely the perturbation most likely to degrade transition fidelity.
 
 The instruction "do not cling" is therefore not a rebuff. It is a practical requirement analogous to "do not disturb a quantum state preparation in progress." The prohibition is specific to this window and this type of contact — and it ends when the window closes.
 
@@ -46,7 +46,7 @@ The doubling is not rhetorical or merely inclusive. It marks a structural distin
 
 The statement sends Mary with a message that contains the entire structure: the same Father, the same God, two different ascending relationships, both real, both heading in the same direction. The Ascension is not a departure. It is the establishment of the condition from which the ascending path of every mortal in Nebadon is permanently supported.
 
-*(Cross-reference: [[The Structural Reading]] — Matthew 28:18, sovereignty condition; Mark 16:19 / Hebrews 1:3, H₃ integration; The Earthly Ministry as Heptaparaparshinokh, second grade change and Resurrection; Matthew 17:1-9, Transfiguration and spectral access; [[Signal and Noise]] — The ascending career as trajectory through all three integral domains)*
+*(Cross-reference: [[The Structural Reading]] — Matthew 28:18, sovereignty condition; Mark 16:19 / Hebrews 1:3, H₃ integration; The Earthly Ministry as Heptaparaparshinokh, octave change and Resurrection; Matthew 17:1-9, Transfiguration and spectral access; [[Signal and Noise]] — The ascending career as trajectory through all three integral domains)*
 
 ---
 
@@ -210,7 +210,7 @@ The sequence, complete: the being who knows where they are in the space (1) — 
 
 The sequence is not only a list of eight conditions. It is an octave with the intervals falling exactly where the Law of Seven requires them to fall.
 
-The Heptaparaparshinokh: eight tones (Do–Re–Mi–Fa–Sol–La–Si–Do), seven intervals, two critical junctures where the octave cannot continue from its own internal momentum and requires an external shock — the first grade change and the second grade change. Without the shocks, the octave deflects from its intended direction at each interval.
+The Heptaparaparshinokh: eight tones (Do–Re–Mi–Fa–Sol–La–Si–Do), seven intervals, two critical junctures where the octave cannot continue from its own internal momentum and requires an external shock — the first grade change and the octave change. Without the shocks, the octave deflects from its intended direction at each interval.
 
 *Do* — Poor in spirit: the ground tonic. Correct self-location. The starting note of the octave.
 
@@ -230,13 +230,13 @@ The Beatitudes do not identify the first grade change by name. This is structura
 
 *Si* — Peacemakers: the complete social-civilizational extension; restoring the collective circuit for the ascending career.
 
-**second grade change.** The peacemaker has completed the interior-to-exterior arc. But there is no way, from within the peacemaking activity itself, to verify whether the Signal accumulation was genuine or whether it was well-intentioned effort that remained at the 48-constraint level — comfortable religious activity rather than actual eigenvalue shift. The confirmation cannot come from within. It requires an external shock from outside the being's current condition.
+**octave change.** The peacemaker has completed the interior-to-exterior arc. But there is no way, from within the peacemaking activity itself, to verify whether the Signal accumulation was genuine or whether it was well-intentioned effort that remained at the 48-constraint level — comfortable religious activity rather than actual eigenvalue shift. The confirmation cannot come from within. It requires an external shock from outside the being's current condition.
 
-The world's resistance is that shock. The persecution is not merely a consequence of the ascending career — it is the second grade change that completes the octave. It is external (the world's response, not the being's action), unavoidable if the Signal accumulation is real, and it supplies the only confirmation that cannot be fabricated: the dominant Noise field resists the ascending being specifically because the being is genuinely moving counter to it. Comfortable peacemaking can be Noise in Signal clothing. Persecution at the second grade change is the structural confirmation of the preceding six beatitudes.
+The world's resistance is that shock. The persecution is not merely a consequence of the ascending career — it is the octave change that completes the octave. It is external (the world's response, not the being's action), unavoidable if the Signal accumulation is real, and it supplies the only confirmation that cannot be fabricated: the dominant Noise field resists the ascending being specifically because the being is genuinely moving counter to it. Comfortable peacemaking can be Noise in Signal clothing. Persecution at the octave change is the structural confirmation of the preceding six beatitudes.
 
 *Do (new)* — Persecuted for righteousness: the completed octave. The new tonic, an octave above the starting note. "Theirs *is* the kingdom of heaven" — present tense, as at the beginning, because this is again the tonic, the note that simply *is* rather than developing toward something.
 
-The two present-tense beatitudes are both Do. The tonic sounds the same note at two constraint levels. Between them, the full octave — the complete developmental arc from correct self-location through sustained actualization, outward extension, social restoration, and the world's confirming resistance. The Sermon on the Mount begins the arc by supplying the first grade change. The world completes it by supplying the second grade change. Both shocks are external to the ascending being. Both are required. Neither can be self-generated from within the prior conditions.
+The two present-tense beatitudes are both Do. The tonic sounds the same note at two constraint levels. Between them, the full octave — the complete developmental arc from correct self-location through sustained actualization, outward extension, social restoration, and the world's confirming resistance. The Sermon on the Mount begins the arc by supplying the first grade change. The world completes it by supplying the octave change. Both shocks are external to the ascending being. Both are required. Neither can be self-generated from within the prior conditions.
 
 *(Cross-reference: [[Signal and Noise]] — "The Three Operators"; [[Papers/Paper 7]] — Law of Seven as Law of Trinity; Heptaparaparshinokh as constraint-level octave)*
 
@@ -288,15 +288,15 @@ The interior note. The disciples gathered in private; the final intimate teachin
 
 **Si — Crucifixion.**
 
-The penultimate note. The terminal point of what can be accomplished from within the 48-constraint domain. The Son brings the ministry to its completed end on his side: "It is finished." But Si cannot complete itself into the new Do. The crucifixion left as the final event produces the second grade change deflection: the disciples scatter, the movement apparently ends, death appears to be the terminus. The octave requires the shock from outside.
+The penultimate note. The terminal point of what can be accomplished from within the 48-constraint domain. The Son brings the ministry to its completed end on his side: "It is finished." But Si cannot complete itself into the new Do. The crucifixion left as the final event produces the octave change deflection: the disciples scatter, the movement apparently ends, death appears to be the terminus. The octave requires the shock from outside.
 
 ---
 
-**second grade change — the Resurrection.**
+**octave change — the Resurrection.**
 
 The Father's act. The Son has brought the octave to Si and can do no more from within that condition. The Resurrection is not something the crucified Son generates. It is the external completing act — the Father raising the Son, crossing the final semitone that the octave cannot cross from within Si. Without the Resurrection, Si is the end. With it, the new Do sounds.
 
-The structural asymmetry is precise: the Son supplies everything through Si; the Father supplies the second grade-change crossing. This is not a division of labor between equals completing a joint project. It is the structural form of the interval: the current level (the Son within the created domain) cannot generate the input required to cross into the new Do (the Son operating from full sovereignty). The Father supplies it from outside.
+The structural asymmetry is precise: the Son supplies everything through Si; the Father supplies the octave-change crossing. This is not a division of labor between equals completing a joint project. It is the structural form of the interval: the current level (the Son within the created domain) cannot generate the input required to cross into the new Do (the Son operating from full sovereignty). The Father supplies it from outside.
 
 ---
 
@@ -310,7 +310,7 @@ The new tonic, an octave above the starting Do. The sovereignty condition is est
 
 The first grade change deflection: the Galilean ministry as permanent plateau — healing, teaching, expanding, never moving toward the consummation. A successful religious reform. The Transfiguration prevents this by supplying directional input from a higher constraint level. The shock is external (arriving from beings outside the 48-constraint scene), and its effect is directional (the ministry turns toward Jerusalem immediately after).
 
-The second grade change deflection: the crucifixion as terminus — death as the final word, the movement ending at the cross. The Resurrection prevents this by completing from outside what the Son brought to its limit from within. Without the second grade change, there is no Pentecost, no Spirit of Truth, no restored circuit. The shock is external (the Father's act, not the Son's), and its effect is constitutive (it establishes a new structural condition — sovereignty — that did not exist before).
+The octave change deflection: the crucifixion as terminus — death as the final word, the movement ending at the cross. The Resurrection prevents this by completing from outside what the Son brought to its limit from within. Without the octave change, there is no Pentecost, no Spirit of Truth, no restored circuit. The shock is external (the Father's act, not the Son's), and its effect is constitutive (it establishes a new structural condition — sovereignty — that did not exist before).
 
 Both shocks arrive from outside the octave's own level. Both are structurally necessary. Neither could be generated from within the notes they follow. This is what the interval structure requires — and this is what the ministry's structure provides.
 
