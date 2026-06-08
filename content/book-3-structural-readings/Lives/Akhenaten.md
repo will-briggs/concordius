@@ -12,4 +12,4 @@ The error is structural and instructive. Akhenaten installed the one by *erasing
 
 *Confidence: concordance — the Aten read as a true sighting of the one ground, the coercive imposition named as why it failed; offered as structural shape, not a verdict on Egyptian religion. Messenger: Akhenaten was condemned to erasure by his successors and recovered only by modern archaeology; the record is fragmentary and was shaped first by those who hated him.*
 
-*(Cross-reference: [[Paper A1: Naming the Unnameable]] on the one ground and its names; [[Paper A3: The Word Made Flesh]] on the covenant people; [[Aphorisms/Pride Goes Before a Fall]] on the part that seizes the whole.)*
+*(Cross-reference: [[Paper A1: Naming the Unnameable]] on the one ground and its names; [[Paper A3: Phi Enters Creation|Paper A3: Φ Enters Creation]] on the covenant people; [[Aphorisms/Pride Goes Before a Fall]] on the part that seizes the whole.)*

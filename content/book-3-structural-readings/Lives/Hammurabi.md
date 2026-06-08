@@ -12,4 +12,4 @@ The code's content is cruder than its form — the *lex talionis*, an eye for an
 
 *Confidence: concordance — the written public code read as the move toward law prior to the ruler, the talion as a limit on the feud; the code's cruelty and inequality named, not excused. Messenger: the stele survives in Hammurabi's own monument — a king's self-presentation — and the code's practical use in Babylonian courts is debated by scholars.*
 
-*(Cross-reference: [[Literature/Aeschylus — The Oresteia|Aeschylus — The Oresteia]] (vengeance bounded by law); [[Literature/Sophocles — Antigone|Sophocles — Antigone]] (written vs unwritten law); [[Paper A3: The Word Made Flesh]] on the giving of the Law.)*
+*(Cross-reference: [[Literature/Aeschylus — The Oresteia|Aeschylus — The Oresteia]] (vengeance bounded by law); [[Literature/Sophocles — Antigone|Sophocles — Antigone]] (written vs unwritten law); [[Paper A3: Phi Enters Creation|Paper A3: Φ Enters Creation]] on the giving of the Law.)*

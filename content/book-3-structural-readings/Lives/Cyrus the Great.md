@@ -12,4 +12,4 @@ The biblical reading is the sharper datum. That the Hebrew prophets could name a
 
 *Confidence: concordance — tolerant empire read as power partly with the grain, the "anointed" title as the grain running through an unwitting instrument; the empire not sanctified. Messenger: Cyrus reaches us through his own propaganda (the Cylinder), Greek admirers (Xenophon's idealised portrait), and the Hebrew Bible's theological reading — three filters, each with an interest.*
 
-*(Cross-reference: [[Lives/Akhenaten|Akhenaten]] (coercion that could not last); [[Paper A3: The Word Made Flesh]] on the exile and return; [[Literature/Herodotus — The Histories|Herodotus]].)*
+*(Cross-reference: [[Lives/Akhenaten|Akhenaten]] (coercion that could not last); [[Paper A3: Phi Enters Creation|Paper A3: Φ Enters Creation]] on the exile and return; [[Literature/Herodotus — The Histories|Herodotus]].)*

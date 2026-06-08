@@ -1,6 +1,6 @@
 *← [[Paper A2½: The Constraint Cascade|Paper A2½: The Constraint Cascade: Descent as Densification]]*
 
-# Paper A3: The Word Made Flesh: Φ Enters Creation
+# Paper A3: Φ Enters Creation: The Word Made Flesh
 
 ---
 

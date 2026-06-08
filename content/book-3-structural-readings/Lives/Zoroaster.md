@@ -12,4 +12,4 @@ His influence is the underappreciated part of the witness: the structural vocabu
 
 *Confidence: concordance — asha/druj read as orientation and inversion, the weighed choice as the free-will reach; the symmetrical-dualism hardening named as the over-read. Messenger: Zoroaster's date and even his historicity are disputed by centuries; the Gathas reach us through a long oral and liturgical transmission in a difficult archaic language.*
 
-*(Cross-reference: [[Paper D7: Evil]] on inversion as privation, not an equal power; [[Paper A3: The Word Made Flesh]] on the weighed choice; [[Paper E0: The Derivation and the Testimony]].)*
+*(Cross-reference: [[Paper D7: Evil]] on inversion as privation, not an equal power; [[Paper A3: Phi Enters Creation|Paper A3: Φ Enters Creation]] on the weighed choice; [[Paper E0: The Derivation and the Testimony]].)*

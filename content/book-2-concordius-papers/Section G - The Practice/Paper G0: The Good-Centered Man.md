@@ -34,7 +34,7 @@ Each paper in this section has the following structure:
 - The warning: what does not work for this type (common false transitions)
 - A practical regime: phase-by-phase, concrete, actionable
 
-*Cross-reference: [[Paper A3: The Word Made Flesh]] (the physical substrate enabling the ascending career); the [[Appendix B - Lexicon#Trogoautoegocrat|Trogoautoegocrat]] (the octave structure of the Men 1–7 sequence); [[Paper A2½: The Constraint Cascade]] (descent as [[Appendix B - Lexicon#Densification|densification]] — receiving content from a lower-constraint domain); [[Paper A2: The Big Bang]] (the Creative Choice — the constitutive [[Appendix B - Lexicon#Love|love]] that makes the ascending career available to Man 1).*
+*Cross-reference: [[Paper A3: Phi Enters Creation|Paper A3: Φ Enters Creation]] (the physical substrate enabling the ascending career); the [[Appendix B - Lexicon#Trogoautoegocrat|Trogoautoegocrat]] (the octave structure of the Men 1–7 sequence); [[Paper A2½: The Constraint Cascade]] (descent as [[Appendix B - Lexicon#Densification|densification]] — receiving content from a lower-constraint domain); [[Paper A2: The Big Bang]] (the Creative Choice — the constitutive [[Appendix B - Lexicon#Love|love]] that makes the ascending career available to Man 1).*
 
 ---
 
@@ -53,7 +53,7 @@ This paper derives the transition from Man 1 to Man 2: the development of the em
 
 ## Structural Description
 
-**Trinity-mode and its virtue.** Man 1 operates in the **Father-alone** mode (Moon; e₁, grade 1, squares +1; [[Paper A3: The Word Made Flesh]]). Its virtue is **gratitude** — the first of the three *generators* of the virtue-algebra (the expression-virtues: self-returning, practicable alone, present in any world). The career builds the three generators (Men 1–3) before it can forge their products (Men 4–6); this is the first. *(Grade structure derivation, [[Paper A3: The Word Made Flesh]]; virtue-name concordance; Structural Candidates, Overdetermination Capture §6½.)*
+**Trinity-mode and its virtue.** Man 1 operates in the **Father-alone** mode (Moon; e₁, grade 1, squares +1; [[Paper A3: Phi Enters Creation|Paper A3: Φ Enters Creation]]). Its virtue is **gratitude** — the first of the three *generators* of the virtue-algebra (the expression-virtues: self-returning, practicable alone, present in any world). The career builds the three generators (Men 1–3) before it can forge their products (Men 4–6); this is the first. *(Grade structure derivation, [[Paper A3: Phi Enters Creation|Paper A3: Φ Enters Creation]]; virtue-name concordance; Structural Candidates, Overdetermination Capture §6½.)*
 
 **[[Appendix B - Lexicon#State Vector|State vector]]:** ψ₁ ≈ Σ aₙ |φₙ^H₄₈⟩
 

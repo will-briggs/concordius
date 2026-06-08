@@ -12,4 +12,4 @@ The *clinamen* is the underappreciated structural seed. Pure atomism is determin
 
 *Confidence: concordance for the H₄₈ reading; the clinamen named as a genuine but mis-levelled reach toward free will; the denial of survival as the inherited limit. Messenger: De Rerum Natura survived antiquity through a thin manuscript tradition rediscovered in the Renaissance; the poem is Lucretius' own, but the Epicurus behind it reaches us largely through this one filter.*
 
-*(Cross-reference: [[Lives/Epicurus|Epicurus]] (the system it expounds); [[Lives/Democritus|Democritus]] (the atomism's source); [[Paper A3: The Word Made Flesh]] on free will as the undetermined choice.)*
+*(Cross-reference: [[Lives/Epicurus|Epicurus]] (the system it expounds); [[Lives/Democritus|Democritus]] (the atomism's source); [[Paper A3: Phi Enters Creation|Paper A3: Φ Enters Creation]] on free will as the undetermined choice.)*

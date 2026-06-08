@@ -60,7 +60,7 @@ By the end of Paper A7, the framework is built. Everything that follows — the 
 **[[Paper A2½: The Constraint Cascade|Paper A2½: The Constraint Cascade: Descent as Densification]]**
 *The constitutional algebra Cl(3,0) — forced, not chosen, by what the Trinity is — and its descent down the constraint hierarchy to the floor of the physical world: the Creative Choice, the formal definition of Love, and the experiential Deity; the cascade and its doubling, e₀² = −1 and the Lorentzian signature, the Dirac equation and E = mc², c as a structural output, the dimensional structure of the cosmos, and the Friedmann bridge; aging read as entropy and as the wage of the Choice, what a death sorts, and the reciprocal circuit that does not run down; and, at the last, all gathered into one.*
 
-**[[Paper A3: The Word Made Flesh|Paper A3 — The Word Made Flesh]]**
+**[[Paper A3: Phi Enters Creation|Paper A3 — Φ Enters Creation]]**
 *From the forming of the world to the threshold of the flesh: the Word speaks the world into form (the first bivector; the three directions of the Good, the True, the Beautiful); the breath makes dust a living soul (the two origins, the dual pairing); the choice and the fall give free will, and the −1 of death; the deliverance out of Egypt gives the first picture of catching; the kingdom, the prophets, and the exile forge courage, temperance, and diligence against resistance; the close of the canon leaves humility — the whole chord — awaited across the long silence; and the announcement says the promise is about to be kept.*
 
 **[[Paper A4: The Ascent of Man|Paper A4 — The Ascent of Man]]**

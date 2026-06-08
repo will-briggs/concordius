@@ -319,7 +319,7 @@ The algebra is forced; the name is received; the world points home. Held apart, 
 
 ## References
 
-1. **Companion papers (Section A).** *Modeling Reality as a Gelfand Triple* (A0); *From the Cogito to the Logos* (A1); *The Big Bang* (A2); *The Word Made Flesh* (A3); *The Ascent of Man* (A4). [The mathematical foundation and the naming of the eternal structure on which this paper's derivations rest; the created world as the scientist meets it; and the instantiation (A3) and the specific constants (A4) the descent here leaves open.]
+1. **Companion papers (Section A).** *Modeling Reality as a Gelfand Triple* (A0); *From the Cogito to the Logos* (A1); *The Big Bang* (A2); *Φ Enters Creation* (A3); *The Ascent of Man* (A4). [The mathematical foundation and the naming of the eternal structure on which this paper's derivations rest; the created world as the scientist meets it; and the instantiation (A3) and the specific constants (A4) the descent here leaves open.]
 
 2. **Gelfand, I.M., and Vilenkin, N.Ya.** (1964). *Generalized Functions, Vol. 4: Applications of Harmonic Analysis.* Academic Press. [The rigged Hilbert space; the nuclear spectral theorem; the structure of Φ′.]
 
@@ -347,4 +347,4 @@ The algebra is forced; the name is received; the world points home. Held apart, 
 
 ---
 
-*[[Paper A3: The Word Made Flesh|Paper A3 — The Word Made Flesh]] →*
+*[[Paper A3: Phi Enters Creation|Paper A3 — Φ Enters Creation]] →*

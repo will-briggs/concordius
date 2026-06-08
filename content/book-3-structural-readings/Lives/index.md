@@ -91,7 +91,7 @@ These are not biographies and not appraisals. A Life reading does not rank the f
 - Apollonius → [[Science/Apollonius — Conics|Conics]] *(work)*
 - Zhuangzi → [[Sacred Texts/Zhuangzi — The Inner Chapters|The Inner Chapters]] *(work)*
 - Hillel → [[Aphorisms/The Golden Rule|The Golden Rule]] *(already read)*
-- Moses, David, Solomon, Elijah, Amos, Isaiah, Jeremiah, Ezekiel, Daniel, Ezra → [[Paper A3: The Word Made Flesh]] *(read in the OT octave)*
+- Moses, David, Solomon, Elijah, Amos, Isaiah, Jeremiah, Ezekiel, Daniel, Ezra → [[Paper A3: Phi Enters Creation|Paper A3: Φ Enters Creation]] *(read in the OT octave)*
 - Lao Tzu → [[Sacred Texts/The Tao Te Ching|Tao Te Ching]] *(work already read)*
 
 ### Fa — The Post-Incarnation Synthesis

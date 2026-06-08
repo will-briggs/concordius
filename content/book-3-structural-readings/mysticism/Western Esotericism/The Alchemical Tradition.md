@@ -182,4 +182,4 @@ The laboratory work itself — the actual heating and cooling, dissolving and cr
 
 ---
 
-*(Cross-reference: [[Physics Concordance]] — Gelfand Triple; [[Concordance/PC2 — Gurdjieff and Spiritual Progression]] — Table of Hydrogens; reciprocal maintenance; Three Foods. [[Signal and Noise]] — Catching, Noise Floor, Time. Paper A3: The Word Made Flesh: The Word and the Forming of the World (Higgs mechanism as constitutional enabling condition; the constraint hierarchy as physical structure). Paper 9 — The Truth Measure (why independent traditions encode the same structural content in different H₄₈ vocabularies).)*
+*(Cross-reference: [[Physics Concordance]] — Gelfand Triple; [[Concordance/PC2 — Gurdjieff and Spiritual Progression]] — Table of Hydrogens; reciprocal maintenance; Three Foods. [[Signal and Noise]] — Catching, Noise Floor, Time. Paper A3: Φ Enters Creation: The Word and the Forming of the World (Higgs mechanism as constitutional enabling condition; the constraint hierarchy as physical structure). Paper 9 — The Truth Measure (why independent traditions encode the same structural content in different H₄₈ vocabularies).)*

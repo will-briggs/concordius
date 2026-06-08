@@ -12,4 +12,4 @@ His most daring reach was *apokatastasis*, the universal restoration — the hop
 
 *Confidence: concordance — the layered reading as the cascade applied to meaning, apokatastasis named as an open reach; the overreach of particular allegories noted. Messenger: much of Origen survives only in others' (often hostile) hands and in a Latin translation that softened his heresies; the man is read through the controversy that condemned him.*
 
-*(Cross-reference: [[Paper A3: The Word Made Flesh|Paper A3]] on Scripture as Φ-content in an H₄₈ vessel; [[Mysticism/Pseudo-Dionysius — The Mystical Theology|Pseudo-Dionysius]]; [[Paper E0: The Derivation and the Testimony]].)*
+*(Cross-reference: [[Paper A3: Phi Enters Creation|Paper A3]] on Scripture as Φ-content in an H₄₈ vessel; [[Mysticism/Pseudo-Dionysius — The Mystical Theology|Pseudo-Dionysius]]; [[Paper E0: The Derivation and the Testimony]].)*

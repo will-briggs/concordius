@@ -47,7 +47,7 @@ title: "Appendix C - Catalogue: Illustrations & Quotations"
 - *The dispersion of white light through a prism* (after Newton's Opticks, 1704) &nbsp;·&nbsp; `newton-prism.jpg`
 - *Albrecht Dürer, Melencolia I* (1514) &nbsp;·&nbsp; `durer-melancholia.jpg`
 
-**Paper A3: The Word Made Flesh: Φ Enters Creation**
+**Paper A3: Φ Enters Creation: The Word Made Flesh**
 - *Christ Pantocrator* &nbsp;·&nbsp; `pantocrator-cefalu.jpg`
 
 **Paper A4: The Ascent of Man: From Particle to Body**
@@ -451,7 +451,7 @@ title: "Appendix C - Catalogue: Illustrations & Quotations"
 **Joan of Arc**, *at her trial, asked whether she knew she was in the grace of God* · *Paper C3: The Courageous*
 > If I am not, may God put me there; and if I am, may God so keep me.
 
-**John 1:1**, *1:3* · *Paper A3: The Word Made Flesh*
+**John 1:1**, *1:3* · *Paper A3: Φ Enters Creation*
 > In the beginning was the Word, and the Word was with God, and the Word was God… All things were made through him; and without him was not any thing made that was made.
 
 **John 20:16** · *Paper A7: The Resurrection*

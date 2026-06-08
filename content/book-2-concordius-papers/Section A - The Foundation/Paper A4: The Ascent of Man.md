@@ -1,4 +1,4 @@
-*← [[Paper A3: The Word Made Flesh|Paper A3 — The Word Made Flesh]]*
+*← [[Paper A3: Phi Enters Creation|Paper A3 — Φ Enters Creation]]*
 
 # Paper A4: The Ascent of Man: From Particle to Body
 
