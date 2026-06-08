@@ -68,6 +68,14 @@ These are not biographies and not appraisals. A Life reading does not rank the f
 - [[Lives/Hannibal|Hannibal]] — *the life* (the genius that could break but not build)
 - [[Lives/Zeno of Citium|Zeno of Citium]] — *the life* (the Stoa; the cosmic logos)
 - [[Lives/Pyrrho|Pyrrho]] — *the life* (skepticism; the limit over-read)
+- [[Lives/Eudoxus|Eudoxus]] — *the life* (proportion and exhaustion; the continuous caught)
+- [[Lives/Aristarchus|Aristarchus]] — *the life* (heliocentrism, eighteen centuries early)
+- [[Lives/Hipparchus|Hipparchus]] — *the life* (the sky turned to number; precession)
+- [[Lives/Herophilus|Herophilus]] — *the life* (anatomy; the body read directly)
+- [[Lives/Theophrastus|Theophrastus]] — *the life* (botany; the Characters)
+- [[Lives/Sargon|Sargon]] — *the life* (the first empire)
+- [[Lives/Darius|Darius]] — *the life* (empire held by administration)
+- Apollonius → [[Science/Apollonius — Conics|Conics]] *(work)*
 - Zhuangzi → [[Sacred Texts/Zhuangzi — The Inner Chapters|The Inner Chapters]] *(work)*
 - Hillel → [[Aphorisms/The Golden Rule|The Golden Rule]] *(already read)*
 - Moses, David, Solomon, Elijah, Amos, Isaiah, Jeremiah, Ezekiel, Daniel, Ezra → [[Paper A3: The Word Made Flesh]] *(read in the OT octave)*

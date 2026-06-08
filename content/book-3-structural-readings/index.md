@@ -150,6 +150,8 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 [[Science/Euclid — The Elements|Euclid — The Elements]] — The axiomatic method; the archetype of the derivation tier
 
+[[Science/Apollonius — Conics|Apollonius — Conics]] — Pure curves derived for beauty, found to be the cosmos's orbits
+
 [[Science/Evolution by Natural Selection|Evolution by Natural Selection]] — Selection as catching's structure running blind in matter; the mechanism affirmed entire
 
 [[Science/The Fine-Tuning of the Constants|The Fine-Tuning of the Constants]] — A catching-capable universe as structural expectation, not proof; the multiverse absorbed
