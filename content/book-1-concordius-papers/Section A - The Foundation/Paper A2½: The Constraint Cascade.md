@@ -153,7 +153,7 @@ Below the constitutional step, the hierarchy descends by eigenstate selection. E
 | 48 | full Cl(3,1) constraint structure | physical matter (our level) |
 | 96 | most constrained level | the densest, most mechanical level |
 
-The 1 → 3 step does *not* double — it is constitution. The 3 → 6 → 12 → 24 → 48 → 96 steps each double, because each is one binary eigenstate selection. The levels are denoted Hₙ, n = the constraint count; each Hₙ is a proper subspace of every Hₘ with m < n. The seven levels are the seven non-null elements of Cl(3,0); the cascade is the *primary* instance of the sevenfold grade structure, and every sevenfold process in the created order (metabolism, development, history) inherits its form from this descent. The cascade terminates at 96 because the algebra is exhausted at seven non-null elements — there is no eighth; a 192-constraint level is mathematically impossible, not merely unobserved.
+The 1 → 3 step does *not* double — it is constitution. The 3 → 6 → 12 → 24 → 48 → 96 steps each double, because each is one binary eigenstate selection. The levels are denoted Hₙ, n = the constraint count; each Hₙ is a proper subspace of every Hₘ with m < n.[^hydro] The seven levels are the seven non-null elements of Cl(3,0); the cascade is the *primary* instance of the sevenfold grade structure, and every sevenfold process in the created order (metabolism, development, history) inherits its form from this descent. The cascade terminates at 96 because the algebra is exhausted at seven non-null elements — there is no eighth; a 192-constraint level is mathematically impossible, not merely unobserved.
 
 **Time dilation.** Because the temporal constraint is exactly one-third of the total at every level, temporal constraints double in lockstep (1, 2, 4, 8, 16, 32). A being under more temporal constraints undergoes more collapse events per unit absolute time, so local time runs faster at higher constraint density: T_A/T_B = n_A/n_B. This points the same direction as general relativity's gravitational dilation (fewer constraints ≈ deeper in the well toward the center ≈ slower local time) — a convergence, though the hierarchical effect is a discrete step-function distinct from the continuous GR effect.
 
@@ -313,5 +313,34 @@ The algebra is forced; the name is received; the world points home. Held apart, 
 
 ---
 
-*[[Paper A3: The Word Made Flesh|Paper A3 — The Word Made Flesh]] →*
+## References
 
+1. **Companion papers (Section A).** *Modeling Reality as a Gelfand Triple* (A0); *From the Cogito to the Logos* (A1); *The Big Bang* (A2); *The Word Made Flesh* (A3); *The Ascent of Man* (A4). [The mathematical foundation and the naming of the eternal structure on which this paper's derivations rest; the created world as the scientist meets it; and the instantiation (A3) and the specific constants (A4) the descent here leaves open.]
+
+2. **Gelfand, I.M., and Vilenkin, N.Ya.** (1964). *Generalized Functions, Vol. 4: Applications of Harmonic Analysis.* Academic Press. [The rigged Hilbert space; the nuclear spectral theorem; the structure of Φ′.]
+
+3. **Dirac, P.A.M.** (1930). *The Principles of Quantum Mechanics.* Oxford University Press. [The distributional eigenstates; the position eigenstate as Dirac delta; the physical necessity of the Φ′ domain.]
+
+4. **Hestenes, D.** (1966). *Space-Time Algebra.* Gordon and Breach. [The Dirac equation rewritten in Cl(3,1) as a statement about the geometric algebra of spacetime — the result that makes the Dirac equation a consequence of the grade-1→grade-2 crossing rather than an independent derivation. See also Hestenes, D. (2003). "Spacetime Physics with Geometric Algebra." *American Journal of Physics,* 71(7), 691–714.]
+
+5. **Gospel accounts of the resurrection appearances.** Matthew 28; Luke 24; John 20–21; Acts 1. [Treated as historical testimony to the post-mortem manifestation of a being operating under 24 constraints within a 48-constraint physical space.]
+
+6. **Einstein, A.** (1905). "Zur Elektrodynamik bewegter Körper." *Annalen der Physik,* 17, 891–921. [Special relativity's second postulate: the constancy of c stipulated as an axiom rather than derived — the postulate the grade-1→grade-2 crossing replaces with a structural consequence.]
+
+7. **Birge, R.T.** (1929). "Probable Values of the General Physical Constants." *Reviews of Modern Physics,* 1(1), 1–73. [The systematic review of early 20th-century c measurements — successive campaigns not mutually consistent within claimed uncertainties, the scatter subsequently attributed to improving technique rather than real variation.]
+
+8. **CGPM** (1983). Resolution 1, 17th General Conference on Weights and Measures. [The redefinition of the metre as the distance light travels in 1/299,792,458 of a second — the decision that made c constant by definition within SI, rendering c-variation undetectable within that framework.]
+
+9. **Moffat, J.W.** (1993). "Superluminary Universe: A Possible Solution to the Initial Value Problem in Cosmology." *International Journal of Modern Physics D,* 2(3), 351–365. [The first published VSL proposal: a varying c in the early universe as an alternative to inflation for the horizon and flatness problems.]
+
+10. **Albrecht, A., and Magueijo, J.** (1999). "A Time Varying Speed of Light as a Solution to Cosmological Puzzles." *Physical Review D,* 59, 043516. [Independent VSL proposal solving the same cosmological problems as inflation, without the inflationary mechanism.]
+
+11. **Webb, J.K., et al.** (1999). "Search for Time Variation of the Fine Structure Constant." *Physical Review Letters,* 82, 884. [Evidence from quasar absorption spectra for variation in α = e²/4πε₀ℏc over cosmic time — implying c variation if the other quantities in α are stable. See also Webb et al. (2001), *Physical Review Letters,* 87, 091301.]
+
+12. **Magueijo, J.** (2003). *Faster Than the Speed of Light: The Story of a Scientific Speculation.* Perseus Books. [Accessible account of VSL theory and the institutional resistance it encountered; relevant to the sociology of how c's constancy became entrenched as a postulate.]
+
+[^hydro]: The series' Hₙ subscripts denote the Hilbert space indexed by the number of constraints operating at each level; the subscript numbers — H₃, H₆, H₁₂, H₂₄, H₄₈, H₉₆ — appear in order with a doubling between each step. These subscripts are derived from the mathematics of eigenstate selection, not assigned from observation: the constraint doubling follows from the information-theoretic structure of binary spectral collapse. The notation describes only between-level structure; it does not attempt to name within-level refinements.
+
+---
+
+*[[Paper A3: The Word Made Flesh|Paper A3 — The Word Made Flesh]] →*
