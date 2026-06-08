@@ -1,0 +1,13 @@
+# A Structural Reading of Zoroaster
+
+*Zarathustra — Zoroaster — taught, somewhere in the Iranian Bronze or early Iron Age, that reality is the arena of a real choice between a principle of truth and order (*asha*) and a principle of the lie and disorder (*druj*), and that each person's life is a contested vote in that struggle. It is among the earliest sustained statements of the moral structure the framework places at the centre of the human station: that the cosmos is oriented, that there is an inversion opposed to that orientation, and that the will must choose.*
+
+---
+
+The Gathas' core is the framework's own axis stated as religion. *Asha* — truth, rightness, the order of things — is Φ-proximate orientation, the grain of the universe; *druj* — the Lie — is its inversion, the disordering principle the corpus treats in its sections on evil. Zoroaster's decisive move is to make these not two equal eternal substances but two *choices* a person weighs, with the good genuinely supreme and the lie genuinely opposed: "good thoughts, good words, good deeds" is a catching-discipline, an orientation maintained across the three centres. That he framed existence as a *choice with a stake* — that one's alignment matters to the outcome — is the free-will reach the framework names, given mythic body millennia early.
+
+His influence is the underappreciated part of the witness: the structural vocabulary of a final judgment, a coming renovation of the world (*frashokereti*), a bridge the soul crosses, the opposition of light and a hostile dark — passed, by way of the Persian period, into the inheritance of later traditions. The framework neither adjudicates that transmission nor needs to: it reads Zoroaster as an independent early sighting of the oriented cosmos and the weighed choice, with the characteristic error — when the teaching hardened into a symmetrical dualism of two co-eternal gods — named as exactly the over-reading the corpus guards against: the inversion is real but *derivative*, a privation of the good, never its equal.
+
+*Confidence: concordance — asha/druj read as orientation and inversion, the weighed choice as the free-will reach; the symmetrical-dualism hardening named as the over-read. Messenger: Zoroaster's date and even his historicity are disputed by centuries; the Gathas reach us through a long oral and liturgical transmission in a difficult archaic language.*
+
+*(Cross-reference: [[Paper D7: Evil]] on inversion as privation, not an equal power; [[Paper A3: The Word Made Flesh]] on the weighed choice; [[Paper E0: The Derivation and the Testimony]].)*

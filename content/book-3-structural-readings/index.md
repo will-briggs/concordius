@@ -71,6 +71,9 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 [[Literature/Shakespeare's Sonnets/index|Shakespeare — The Sonnets]]
 [[Literature/Ulysses|Joyce — Ulysses]]
 [[Literature/Homer — The Iliad and the Odyssey|Homer — The Iliad & the Odyssey]]
+[[Literature/Aeschylus — The Oresteia|Aeschylus — The Oresteia]]
+[[Literature/Sophocles — Antigone|Sophocles — Antigone]]
+[[Literature/Herodotus — The Histories|Herodotus — The Histories]]
 [[Literature/Dante — The Divine Comedy|Dante — The Divine Comedy]]
 [[Literature/Augustine — Confessions|Augustine — Confessions]]
 [[Literature/Atlas Shrugged|Rand — Atlas Shrugged]] ⊘

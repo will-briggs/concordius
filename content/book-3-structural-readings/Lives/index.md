@@ -34,6 +34,15 @@ These are not biographies and not appraisals. A Life reading does not rank the f
 - [[Literature/Homer — The Iliad and the Odyssey|Homer — The Iliad and the Odyssey]] — *the work* (wrath; the homeward return)
 - [[Sacred Texts/Confucius — The Analects|Confucius — The Analects]] — *the work* (the making of the junzi)
 - [[Science/Euclid — The Elements|Euclid — The Elements]] — *the work* (the axiomatic method)
+- [[Lives/Thales|Thales]] — *the life* (the first natural arche)
+- [[Lives/Democritus|Democritus]] — *the life* (atoms and the void)
+- [[Lives/Zoroaster|Zoroaster]] — *the life* (the oriented cosmos and the weighed choice)
+- [[Lives/Archimedes|Archimedes]] — *the life* (derivation at full absorption)
+- [[Lives/Hippocrates|Hippocrates]] — *the life* (the body as lawful; the Oath)
+- Aeschylus → [[Literature/Aeschylus — The Oresteia|The Oresteia]] *(work)*
+- Sophocles → [[Literature/Sophocles — Antigone|Antigone]] *(work)*
+- Herodotus → [[Literature/Herodotus — The Histories|The Histories]] *(work)*
+- Moses, David → [[Paper A3: The Word Made Flesh]] *(read in the OT octave)*
 - Lao Tzu → [[Sacred Texts/The Tao Te Ching|Tao Te Ching]] *(work already read)*
 
 ### Fa — The Post-Incarnation Synthesis
