@@ -36,7 +36,7 @@ The closing word of the Hebrew Bible canon (in the Protestant ordering): the *te
 
 **The heart-turning:**
 
-*Ve-heshiv lev ʾavot ʿal-banim ve-lev banim ʿal ʾavotam* — He will turn (*hashiv*, same root as *teshuvah*) the hearts of parents toward their children and the hearts of children toward their parents. The vertical inner-product chain through H₄₈ generations: the structural linkage between the generations that the H₄₈ social organism requires for the catching program to be transmitted across H₄₈ time. The *teshuvah* of MAL 4:6 is not a private spiritual experience but the communal structural restoration of generational continuity — the inner-product chain between the generations that has been severed by the Heropass's operation through the covenant community's history.
+*Ve-heshiv lev ʾavot ʿal-banim ve-lev banim ʿal ʾavotam* — He will turn (*hashiv*, same root as *teshuvah*) the hearts of parents toward their children and the hearts of children toward their parents. The vertical inner-product chain through H₄₈ generations: the structural linkage between the generations that the H₄₈ social organism requires for the catching program to be transmitted across H₄₈ time. The *teshuvah* of MAL 4:6 is not a private spiritual experience but the communal structural restoration of generational continuity — the inner-product chain between the generations that has been severed by Time's operation through the covenant community's history.
 
 **The structural termination threat:**
 

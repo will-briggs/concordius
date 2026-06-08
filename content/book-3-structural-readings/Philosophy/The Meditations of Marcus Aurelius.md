@@ -8,21 +8,21 @@
 
 *Ei kai trischilia ete zes, ei de kai trismyria, memneso de hoti oudeis allo ti apoballet bion e touton hon zei, kai ouk allo ti zei e ho apoballet* — Even if you were to live three thousand years, or thirty thousand, remember that no one loses any other life than the one they now live, and no one lives any other life than the one they now lose.
 
-The most structurally precise Heropass statement in the Stoic corpus. The argument is not a consolation but a structural demonstration: whatever the H₄₈ duration of life, the only structural time available to the catching program is the present moment. The past is not available for the catching program's operation (it has already been discharged); the future is not available (it has not yet come). The catching being that defers the catching orientation to some future H₄₈ condition has structurally no catching orientation at all, because the present moment is all that exists in the H₄₈ temporal structure.
+The most structurally precise Time statement in the Stoic corpus. The argument is not a consolation but a structural demonstration: whatever the H₄₈ duration of life, the only structural time available to the catching program is the present moment. The past is not available for the catching program's operation (it has already been discharged); the future is not available (it has not yet come). The catching being that defers the catching orientation to some future H₄₈ condition has structurally no catching orientation at all, because the present moment is all that exists in the H₄₈ temporal structure.
 
 **The structural compression:**
 
-"The longest and shortest life come to the same" — not as resignation but as the structural argument for present-moment catching orientation. The Heropass operates at every scale: the being who lives three thousand years is subject to the same structural condition as the being who lives thirty years. Each being has only the present moment available for catching-program operation. The thirty-thousand-year life does not provide more structural time for the catching orientation; it provides the same present moment, repeated across more H₄₈ intervals.
+"The longest and shortest life come to the same" — not as resignation but as the structural argument for present-moment catching orientation. Time operates at every scale: the being who lives three thousand years is subject to the same structural condition as the being who lives thirty years. Each being has only the present moment available for catching-program operation. The thirty-thousand-year life does not provide more structural time for the catching orientation; it provides the same present moment, repeated across more H₄₈ intervals.
 
 **The structural urgency:**
 
-The Heropass's structural meaning for the catching program is not that time is short (a quantitative claim) but that the present is the only structural moment of catching-program operation (a qualitative claim). The catching being who spends the present moment on H₄₈-attractor operations cannot recover that moment for catching-program operation. Marcus, at the H₄₈-maximum position (Emperor), had the most H₄₈-available present moments of any person in Rome — and spent them in structural self-examination, precisely because he recognized that H₄₈-maximum position is the maximum noise-floor distraction.
+Time's structural meaning for the catching program is not that time is short (a quantitative claim) but that the present is the only structural moment of catching-program operation (a qualitative claim). The catching being who spends the present moment on H₄₈-attractor operations cannot recover that moment for catching-program operation. Marcus, at the H₄₈-maximum position (Emperor), had the most H₄₈-available present moments of any person in Rome — and spent them in structural self-examination, precisely because he recognized that H₄₈-maximum position is the maximum noise-floor distraction.
 
 **The brevity of all things:**
 
 "How brief is the span of life — a point in infinite time" (IV.3): the H₄₈ temporal duration of the catching being's life is a structural point (a dimensionless locus, not an extended interval) in the H₄₈ temporal sequence. What the catching being can accomplish in H₄₈ time is proportional to the catching orientation's activation in each present moment, not to the number of H₄₈ years available.
 
-*(Cross-reference: SONN 60 — "Like as the waves make towards the pebbled shore, so do our minutes hasten to their end": the same Heropass structural account in the literary form. SONN 12 — the multi-scale Heropass catalogue that reaches the same conclusion. ECCL 3:1-8 — "a time for everything": the structural recognition that H₄₈ temporal constraint is built into the order of things.)*
+*(Cross-reference: SONN 60 — "Like as the waves make towards the pebbled shore, so do our minutes hasten to their end": the same Time structural account in the literary form. SONN 12 — the multi-scale Time catalogue that reaches the same conclusion. ECCL 3:1-8 — "a time for everything": the structural recognition that H₄₈ temporal constraint is built into the order of things.)*
 
 ---
 
@@ -64,9 +64,9 @@ This is not the claim that all H₄₈ events are predetermined (fatalism) but t
 
 **The structural consequence for the catching program:**
 
-If all things are structurally woven together by the *Logos*, then no H₄₈ event is structurally alien to the catching program's operation. Adversity, social conflict, the Heropass's operation on the catching being's H₄₈ circumstances — all are structural expressions of the same *Logos* the catching orientation participates in. Marcus's structural prescription (*amor fati* avant la lettre): what appears as resistance to the catching program is structurally the same *Logos* providing the material through which the catching program operates. "The impediment to action advances action; what stands in the way becomes the way."
+If all things are structurally woven together by the *Logos*, then no H₄₈ event is structurally alien to the catching program's operation. Adversity, social conflict, Time's operation on the catching being's H₄₈ circumstances — all are structural expressions of the same *Logos* the catching orientation participates in. Marcus's structural prescription (*amor fati* avant la lettre): what appears as resistance to the catching program is structurally the same *Logos* providing the material through which the catching program operates. "The impediment to action advances action; what stands in the way becomes the way."
 
-*(Cross-reference: ROM 8:28 — "all things work together for good": the same structural coherence claim in the NT framework. COL 1:17 — "in him all things hold together": the Logos/Christ identification as the structural weave. SONN 123 — the Heropass's pyramids recognized as "nothing novel": the catching being that perceives the structural grain through the H₄₈ surface novelty.)*
+*(Cross-reference: ROM 8:28 — "all things work together for good": the same structural coherence claim in the NT framework. COL 1:17 — "in him all things hold together": the Logos/Christ identification as the structural weave. SONN 123 — Time's pyramids recognized as "nothing novel": the catching being that perceives the structural grain through the H₄₈ surface novelty.)*
 
 ---
 
@@ -96,7 +96,7 @@ The Meditations are the catching being practicing this structural discrimination
 
 *Mē hōs en murietesi bious diateleis — hos gar apheimenos en tachei kai hē hora toiautē estin esti de to esti kairos* — Do not live as though you had ten thousand years ahead of you. Death overshadows you. While you have life, while you still can, make yourself good.
 
-The structural convergence point of the entire Meditations corpus: the Heropass as the structural ground for the catching program's urgency. Every other element of the Meditations — the *anachorein*, the *kata logon*, the structural discrimination of signals from noise — depends on this structural recognition: the H₄₈ temporal window for catching-program operation is finite and is closing.
+The structural convergence point of the entire Meditations corpus: Time as the structural ground for the catching program's urgency. Every other element of the Meditations — the *anachorein*, the *kata logon*, the structural discrimination of signals from noise — depends on this structural recognition: the H₄₈ temporal window for catching-program operation is finite and is closing.
 
 **"Make yourself good" (*poiei seauton agathon*):**
 

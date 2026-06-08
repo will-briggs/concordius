@@ -1,6 +1,6 @@
 ---
 title: "The Unexamined Life Is Not Worth Living"
-tags: [aphorism, catching-program, abstention, Heropass, volitional-orientation]
+tags: [aphorism, catching-program, abstention, Time, volitional-orientation]
 ---
 
 # "The Unexamined Life Is Not Worth Living"
@@ -29,7 +29,7 @@ Socrates at trial is offered exile under condition of silence — exile from the
 
 **The parable of the talents:**
 
-Matthew 25:14-30 — the servant who receives one talent and buries it, returning it unused, is cast out. The servant's error is not misuse but non-use: abstention. The talent = the catching capacity; burying it = the unexamined life; the reckoning = the Heropass dissolution of the H₄₈ substrate with nothing accumulated below the threshold. "To him who has, more will be given; from him who has not, even what he has will be taken away" — not moral reward and punishment but structural accumulation: the catching being that exercises the catching capacity increases its H₂₄ organizational content; the catching being that buries it loses even the H₄₈-level substrate that provisionally housed it.
+Matthew 25:14-30 — the servant who receives one talent and buries it, returning it unused, is cast out. The servant's error is not misuse but non-use: abstention. The talent = the catching capacity; burying it = the unexamined life; the reckoning = the dissolution by Time of the H₄₈ substrate with nothing accumulated below the threshold. "To him who has, more will be given; from him who has not, even what he has will be taken away" — not moral reward and punishment but structural accumulation: the catching being that exercises the catching capacity increases its H₂₄ organizational content; the catching being that buries it loses even the H₄₈-level substrate that provisionally housed it.
 
 **The Islamic parallel — *muhāsaba*:**
 

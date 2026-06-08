@@ -27,7 +27,7 @@ Philippians 4:7: "And the peace of God, which surpasses all understanding, will 
 
 ## "Not as the World Gives"
 
-John 14:27: "Peace I leave with you; my peace I give you. I do not give to you as the world gives." The world's peace = the absence of H₄₈-level conflict; a favorable H₄₈ configuration in which competing H₄₈-level forces are temporarily in balance. This is the *pax* of political order — real at H₄₈ level, Heropass-subject, contingent on H₄₈ conditions. The Son's peace = *shalom*: organizational coherence at H₂₄ level, not contingent on H₄₈ conditions because it is not constituted by H₄₈ conditions. The distinction is the H₄₈/H₂₄ constraint-level distinction applied to the question of what grounds the catching being's organizational coherence.
+John 14:27: "Peace I leave with you; my peace I give you. I do not give to you as the world gives." The world's peace = the absence of H₄₈-level conflict; a favorable H₄₈ configuration in which competing H₄₈-level forces are temporarily in balance. This is the *pax* of political order — real at H₄₈ level, Time-subject, contingent on H₄₈ conditions. The Son's peace = *shalom*: organizational coherence at H₂₄ level, not contingent on H₄₈ conditions because it is not constituted by H₄₈ conditions. The distinction is the H₄₈/H₂₄ constraint-level distinction applied to the question of what grounds the catching being's organizational coherence.
 
 ## "Perfect Peace" — the Isaiah Formulation
 

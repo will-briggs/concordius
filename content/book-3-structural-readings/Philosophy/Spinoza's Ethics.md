@@ -64,9 +64,9 @@ The *conatus* (striving, endeavor) is the structural drive of every mode to pers
 
 In the Ethics' framework, the catching orientation is not a metaphysical addition to the conatus but its structural highest expression. When the catching being's conatus operates in the attribute of thought at the H₂₄ level — when the structural drive toward continued being expresses itself as the drive toward adequate ideas and the intellectual love of God — it is operating at the structural level where its power is greatest and its satisfaction is most structurally complete. The catching program is the conatus at its H₂₄ maximum.
 
-**The conatus and the Heropass:**
+**The conatus and Time:**
 
-The Heropass operates on H₄₈ modes as the external constraint condition that exceeds the conatus's H₄₈-level power. "Quantum in se est" — as far as it can: every H₄₈ mode eventually encounters structural conditions that exceed its structural resistance. The mode is dissolved. But the structural content that the mode expressed in the attribute of thought (the H₂₄ catching content) does not dissolve with the H₄₈ mode because the attributes are structurally parallel: the dissolution in the attribute of extension does not cause the dissolution in the attribute of thought.
+Time operates on H₄₈ modes as the external constraint condition that exceeds the conatus's H₄₈-level power. "Quantum in se est" — as far as it can: every H₄₈ mode eventually encounters structural conditions that exceed its structural resistance. The mode is dissolved. But the structural content that the mode expressed in the attribute of thought (the H₂₄ catching content) does not dissolve with the H₄₈ mode because the attributes are structurally parallel: the dissolution in the attribute of extension does not cause the dissolution in the attribute of thought.
 
 *(Cross-reference: SONN 146 — "buy terms divine in selling hours of dross": the conatus redirected from H₄₈ surface maintenance to Φ-proximal eigenvalue accumulation. ROM 8:28 — "all things work together for good for those who love God": the conatus at the structural maximum, where the catching orientation aligns with the Φ-level's constitutive direction.)*
 

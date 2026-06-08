@@ -17,7 +17,7 @@
 | Gnosis (self-knowledge) | Structural self-identification — the ascending being coming to know what it structurally is rather than what its H₄₈ substrate presents it as |
 | Hermes as Logos | The nuclear space Φ as the mediating function between ⟨·,·⟩ and finite beings in H; the messenger operating between heaven and earth as the constitutional articulating principle |
 | The primordial darkness (Poimandres vision) | The initial H₄₈-primary state at maximum noise floor; the tohu va-vohu condition prior to the light's differentiation |
-| The seven planetary qualities | The seven constraint-level characteristics distributed across the cascade; the Heptaparaparshinokh operating as the structural form of the descent-ascent cycle |
+| The seven planetary qualities | The seven constraint-level characteristics distributed across the cascade; the Law of Seven operating as the structural form of the descent-ascent cycle |
 | The Man who fell in love with Nature | The catching being investing H₄₈-primary attention in the H₄₈ substrate rather than orienting toward Φ; the structural condition of maximum noise floor — the soul that "fell" into matter by identifying with the reflected image |
 | Rebirth into the eighth sphere | The completed ascending career at H₄₈ scale; the soul that has shed all seven constraint additions arriving at a constraint level above the cascade's H₄₈ terminus |
 
@@ -55,4 +55,4 @@ The subsequent Hermetic texts (CH IV, XIII, and others) elaborate the forms of g
 
 ---
 
-*(Cross-reference: The Alchemical Tradition.md — prima materia, Hermes Trismegistus as principle, solve et coagula; [[Concordance/PC2 — Gurdjieff and Spiritual Progression]] — Table of Hydrogens, the ascending and descending octaves; Paper 1 (GNST); the Heropass in Paper 3½; Paper A3: The Word Made Flesh: The Word and the Forming of the World; [[Signal and Noise]] — Noise Floor, Catching, Soul Deposit.)*
+*(Cross-reference: The Alchemical Tradition.md — prima materia, Hermes Trismegistus as principle, solve et coagula; [[Concordance/PC2 — Gurdjieff and Spiritual Progression]] — Table of Hydrogens, the ascending and descending octaves; Paper 1 (GNST); Time in Paper 3½; Paper A3: The Word Made Flesh: The Word and the Forming of the World; [[Signal and Noise]] — Noise Floor, Catching, Soul Deposit.)*

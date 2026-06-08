@@ -16,7 +16,7 @@ The Φ-level as the source of all structural illumination: the *photon* (lights)
 
 **"Who does not change like shifting shadows" (*par' ho ouk eni paralage e tropes aposkiasma*):**
 
-*Par' ho ouk eni* — with whom there is no: *paralage* (variation, the deviation from a fixed course — the H₄₈ deviation from structural consistency) and *tropes aposkiasma* (shadow of turning — the rotation that produces the changing shadow of light moving across a sundial or a partial eclipse). The ⟨·,·⟩ is not subject to the Heropass degradation that produces *paralage* and *trope* at H₄₈ levels. The structural stability of the source is the ground for the reliability of the gift: every good gift is reliably from above precisely because the above does not shift.
+*Par' ho ouk eni* — with whom there is no: *paralage* (variation, the deviation from a fixed course — the H₄₈ deviation from structural consistency) and *tropes aposkiasma* (shadow of turning — the rotation that produces the changing shadow of light moving across a sundial or a partial eclipse). The ⟨·,·⟩ is not subject to Time degradation that produces *paralage* and *trope* at H₄₈ levels. The structural stability of the source is the ground for the reliability of the gift: every good gift is reliably from above precisely because the above does not shift.
 
 The context (verses 2-16) concerns the testing of the catching being under H₄₈ adversity. Verse 17 closes the section by grounding the testing-produces-completion argument in the structural stability of the source: the Φ-level's gifts are reliably structurally good because the Φ-level does not vary. The catching being can count on the structure of the space because the ground of the space is invariant.
 

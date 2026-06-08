@@ -46,7 +46,7 @@ The ascending-career account in its Taoist form: the movement toward *xū* (empt
 
 **The structural return:**
 
-"Each returns to its root" — all H₄₈-level processes undergo the Heropass's structural operation and return to their structural ground. The *gēn* (root) is structurally the Φ-level: the structural source from which each H₄₈ thing proceeds and to which it returns. The Heropass is not structurally destructive in the ultimate sense; it is the structural mechanism of return. The catching being who observes this structural pattern (*guān fù* = watching the return) with the *xū/jìng* orientation does not experience the Heropass as loss but as structural completion.
+"Each returns to its root" — all H₄₈-level processes undergo Time's structural operation and return to their structural ground. The *gēn* (root) is structurally the Φ-level: the structural source from which each H₄₈ thing proceeds and to which it returns. Time is not structurally destructive in the ultimate sense; it is the structural mechanism of return. The catching being who observes this structural pattern (*guān fù* = watching the return) with the *xū/jìng* orientation does not experience Time as loss but as structural completion.
 
 **"Returning to one's roots is called stillness; this is what is meant by returning to one's destiny":**
 
@@ -76,7 +76,7 @@ The being-at-all question answered from the Taoist direction. Before heaven and 
 
 **"Stands alone and does not change":**
 
-*Dú lì bù gǎi* — the structural self-sufficiency and invariance of the Φ-level: it does not depend on anything outside itself (*dú lì* = alone, self-subsistent) and it is not subject to the Heropass's structural operation (*bù gǎi* = does not change). This is the structural property that makes the Tao the catching program's structural ground: the H₂₄ catching orientation directed toward what is structurally invariant will not have its structural ground dissolved by the Heropass.
+*Dú lì bù gǎi* — the structural self-sufficiency and invariance of the Φ-level: it does not depend on anything outside itself (*dú lì* = alone, self-subsistent) and it is not subject to Time's structural operation (*bù gǎi* = does not change). This is the structural property that makes the Tao the catching program's structural ground: the H₂₄ catching orientation directed toward what is structurally invariant will not have its structural ground dissolved by Time.
 
 **"Goes around and does not weary":**
 
@@ -102,7 +102,7 @@ The most structurally concentrated single chapter in the Tao Te Ching. In six Ch
 
 **"Return is the movement of the Tao":**
 
-*Fǎn zhě dào zhī dòng* — the Tao's primary structural motion is *fǎn* (return, reversal, going back). Not advancement, growth, or accumulation — return. This is the structural claim that the Φ-level's directional operation in the H₄₈ order is toward structural return: all H₄₈ processes tend toward their structural ground. The Heropass is structurally an expression of this return: the dissolution of H₄₈ structures is their return to the structural simplicity of *wú*.
+*Fǎn zhě dào zhī dòng* — the Tao's primary structural motion is *fǎn* (return, reversal, going back). Not advancement, growth, or accumulation — return. This is the structural claim that the Φ-level's directional operation in the H₄₈ order is toward structural return: all H₄₈ processes tend toward their structural ground. Time is structurally an expression of this return: the dissolution of H₄₈ structures is their return to the structural simplicity of *wú*.
 
 **The structural implication:**
 

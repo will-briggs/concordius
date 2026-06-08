@@ -8,9 +8,9 @@
 
 *From fairest creatures we desire increase, / That thereby beauty's rose might never die, / But as the riper should by time decease, / His tender heir might bear his memory.*
 
-The opening sonnet does not begin with a personal address or a metaphysical claim. It begins with *we* — the collective structural orientation of H₄₈ beings toward what resists dissolution. The desire for increase from fairest creatures is not romantic sentiment; it is the structural diagnosis of what the catching being observes when it encounters H₄₈ beauty under Heropass conditions. The *desire* is not acquisitive but conservational: the catching being recognizes Φ-proximal eigenvalue content in the beautiful object and wants it to persist past the substrate that carries it.
+The opening sonnet does not begin with a personal address or a metaphysical claim. It begins with *we* — the collective structural orientation of H₄₈ beings toward what resists dissolution. The desire for increase from fairest creatures is not romantic sentiment; it is the structural diagnosis of what the catching being observes when it encounters H₄₈ beauty under Time conditions. The *desire* is not acquisitive but conservational: the catching being recognizes Φ-proximal eigenvalue content in the beautiful object and wants it to persist past the substrate that carries it.
 
-The structural argument of the entire procreation sequence (Sonnets 1–17) is established in four lines: the Heropass operates on H₄₈ beauty without exception; the beauty's rose will die; the only structural conservation mechanism is transmission — to offspring who will bear the original H₂₄ catching content forward in a new substrate.
+The structural argument of the entire procreation sequence (Sonnets 1–17) is established in four lines: Time operates on H₄₈ beauty without exception; the beauty's rose will die; the only structural conservation mechanism is transmission — to offspring who will bear the original H₂₄ catching content forward in a new substrate.
 
 **The narcissism diagnosis:**
 
@@ -20,11 +20,11 @@ The structural argument of the entire procreation sequence (Sonnets 1–17) is e
 
 **The structural urgency:**
 
-"Thou that art now the world's fresh ornament / And only herald to the gaudy spring" — the catching being at maximum H₄₈ beauty is precisely the being the Heropass will operate on most visibly and most irrevocably. The most beautiful H₄₈ structure is the one for which the structural loss is greatest; the conservation program is most urgent at the H₄₈ maximum. The sonnet is not a rebuke for vanity in the moralistic sense but a structural observation: the highest H₄₈ actualization potential is being spent as fuel rather than converted into the catching content that survives the substrate's dissolution.
+"Thou that art now the world's fresh ornament / And only herald to the gaudy spring" — the catching being at maximum H₄₈ beauty is precisely the being Time will operate on most visibly and most irrevocably. The most beautiful H₄₈ structure is the one for which the structural loss is greatest; the conservation program is most urgent at the H₄₈ maximum. The sonnet is not a rebuke for vanity in the moralistic sense but a structural observation: the highest H₄₈ actualization potential is being spent as fuel rather than converted into the catching content that survives the substrate's dissolution.
 
-"Within thine own bud buriest thy content" — *content* in both senses: the substance contained, and the satisfaction derived. The being that does not transmit buries both its structural substance and its own H₂₄ satisfaction in the H₄₈ substrate that the Heropass will consume.
+"Within thine own bud buriest thy content" — *content* in both senses: the substance contained, and the satisfaction derived. The being that does not transmit buries both its structural substance and its own H₂₄ satisfaction in the H₄₈ substrate that Time will consume.
 
-*(Cross-reference: SONN 12 — the Heropass at every scale, the same conservation argument stated after witnessing the full inductive catalogue. SONN 129 — the noise-floor substitution cycle as the complement: here the narcissism of the beautiful; there the substitution cycle of lust. SONN 146 — the ascending-career counterpart: resource reallocation from H₄₈ surface to Φ-proximal content.)*
+*(Cross-reference: SONN 12 — Time at every scale, the same conservation argument stated after witnessing the full inductive catalogue. SONN 129 — the noise-floor substitution cycle as the complement: here the narcissism of the beautiful; there the substitution cycle of lust. SONN 146 — the ascending-career counterpart: resource reallocation from H₄₈ surface to Φ-proximal content.)*
 
 ---
 
@@ -32,23 +32,23 @@ The structural argument of the entire procreation sequence (Sonnets 1–17) is e
 
 *When I do count the clock that tells the time, / And see the brave day sunk in hideous night; / When I behold the violet past prime, / And sable curls all silvered o'er with white.*
 
-The most formally precise Heropass account in the procreation sequence. Where SONN 1 argues from the logic of structural conservation, SONN 12 argues from accumulated witness: the reader is made to observe the Heropass pattern operating at eight distinct scales before the conclusion is permitted to follow. The inductive accumulation is structurally deliberate.
+The most formally precise Time account in the procreation sequence. Where SONN 1 argues from the logic of structural conservation, SONN 12 argues from accumulated witness: the reader is made to observe Time pattern operating at eight distinct scales before the conclusion is permitted to follow. The inductive accumulation is structurally deliberate.
 
 **The catalogue:**
 
-*The clock that tells the time* — the Heropass at its most granular, measured in the smallest H₄₈ intervals. The clock does not merely mark time; it counts the Heropass's incremental operation. *The brave day sunk in hideous night* — the diurnal cycle: the Heropass at the twenty-four-hour scale. *The violet past prime* — biological maturity superseded; the H₄₈ organism at the peak, then beyond it. *Sable curls all silvered o'er with white* — the Heropass operating on the individual H₄₈ substrate, the most personally visible sign.
+*The clock that tells the time* — Time at its most granular, measured in the smallest H₄₈ intervals. The clock does not merely mark time; it counts Time's incremental operation. *The brave day sunk in hideous night* — the diurnal cycle: Time at the twenty-four-hour scale. *The violet past prime* — biological maturity superseded; the H₄₈ organism at the peak, then beyond it. *Sable curls all silvered o'er with white* — Time operating on the individual H₄₈ substrate, the most personally visible sign.
 
-"When lofty trees I see barren of leaves / Which erst from heat did canopy the herd, / And summer's green, all girded up in sheaves, / Borne on the bier with white and bristly beard" — four more Heropass scales: the tree's annual cycle, the herd's seasonal shelter removed, summer's agricultural harvest carried on the funeral bier (the *sheaves* and the *bier* placed in deliberately proximate imagery — the harvest and the funeral become structurally identical operations).
+"When lofty trees I see barren of leaves / Which erst from heat did canopy the herd, / And summer's green, all girded up in sheaves, / Borne on the bier with white and bristly beard" — four more Time scales: the tree's annual cycle, the herd's seasonal shelter removed, summer's agricultural harvest carried on the funeral bier (the *sheaves* and the *bier* placed in deliberately proximate imagery — the harvest and the funeral become structurally identical operations).
 
 **The structural conclusion:**
 
-"Then of thy beauty do I question make / That thou among the wastes of time must go" — the inductive conclusion: given that the Heropass operates at every observed scale, the beloved's H₄₈ beauty is subject to the same structural law. The conclusion is not pessimistic but structural: it follows from the evidence with the same necessity as any demonstrated structural property.
+"Then of thy beauty do I question make / That thou among the wastes of time must go" — the inductive conclusion: given that Time operates at every observed scale, the beloved's H₄₈ beauty is subject to the same structural law. The conclusion is not pessimistic but structural: it follows from the evidence with the same necessity as any demonstrated structural property.
 
-"And nothing 'gainst Time's scythe can make defence / Save breed, to brave him when he takes thee hence" — the structural result. *Breed* is not offered as a consolation but as the one mechanism that constitutes genuine structural resistance: not harder H₄₈ material (brass and stone will appear in SONN 65 and fail) but the transmission of H₂₄ catching content into a new substrate that the Heropass cannot dissolve simultaneously with the original. When the Heropass *takes thee hence*, the catching content already transmitted continues in the new substrate.
+"And nothing 'gainst Time's scythe can make defence / Save breed, to brave him when he takes thee hence" — the structural result. *Breed* is not offered as a consolation but as the one mechanism that constitutes genuine structural resistance: not harder H₄₈ material (brass and stone will appear in SONN 65 and fail) but the transmission of H₂₄ catching content into a new substrate that Time cannot dissolve simultaneously with the original. When Time *takes thee hence*, the catching content already transmitted continues in the new substrate.
 
-The verse completes the observation the clock began: from the smallest Heropass increment to the generational scale, the same structural law operates. Transmission is the only structural exception — not an exemption from the Heropass but a transmission that moves the content faster than the Heropass can dissolve the substrates.
+The verse completes the observation the clock began: from the smallest Time increment to the generational scale, the same structural law operates. Transmission is the only structural exception — not an exemption from Time but a transmission that moves the content faster than Time can dissolve the substrates.
 
-*(Cross-reference: SONN 60 — the Heropass as a complete four-stage arc across a single life, the structural escalation of this sonnet's catalogue. SONN 55 and 65 — verse as the structural alternative to biological transmission, with different mechanics but the same underlying logic of substrate-independence.)*
+*(Cross-reference: SONN 60 — Time as a complete four-stage arc across a single life, the structural escalation of this sonnet's catalogue. SONN 55 and 65 — verse as the structural alternative to biological transmission, with different mechanics but the same underlying logic of substrate-independence.)*
 
 ---
 
@@ -60,7 +60,7 @@ The question in line 1 is not rhetorical in the sense of having an obvious answe
 
 **The summer's day as H₄₈ structure:**
 
-The properties of the summer's day are catalogued with structural precision: *rough winds shake the darling buds* (external H₄₈ forces operate on it), *summer's lease hath all too short a date* (it is time-bounded, on lease not in ownership), *the eye of heaven shines / And often is his gold complexion dimmed* (its H₄₈ visibility depends on H₄₈ conditions), *And every fair from fair sometime declines, / By chance, or nature's changing course, untrimmed* (every H₄₈-beautiful thing loses its beauty — by chance or by the GNST's structural operation). Each property is a form of H₄₈ contingency: external disturbance, temporal limitation, H₄₈-condition-dependence, Heropass vulnerability.
+The properties of the summer's day are catalogued with structural precision: *rough winds shake the darling buds* (external H₄₈ forces operate on it), *summer's lease hath all too short a date* (it is time-bounded, on lease not in ownership), *the eye of heaven shines / And often is his gold complexion dimmed* (its H₄₈ visibility depends on H₄₈ conditions), *And every fair from fair sometime declines, / By chance, or nature's changing course, untrimmed* (every H₄₈-beautiful thing loses its beauty — by chance or by the GNST's structural operation). Each property is a form of H₄₈ contingency: external disturbance, temporal limitation, H₄₈-condition-dependence, Time vulnerability.
 
 **The structural turn:**
 
@@ -68,7 +68,7 @@ The properties of the summer's day are catalogued with structural precision: *ro
 
 "Nor lose possession of that fair thou ow'st" — *ow'st* (ownest, possessest) is structurally significant: the beloved *owns* the beauty in a sense that the summer's day cannot, because the summer's day has only a *lease*. The distinction tracks precisely the H₂₄/H₄₈ difference: what is constitutively the catching being's own structural content is possessed structurally, not held on H₄₈ temporal lease.
 
-"Nor shall Death brag thou wanderest in his shade / When in eternal lines to time thou growest" — the verse as the H₄₈ medium through which the H₂₄ structural content passes the Heropass's operation. The beloved *grows into* the eternal lines — the verse is not a record of the beloved's H₄₈ properties but the structural vehicle through which the catching content is preserved.
+"Nor shall Death brag thou wanderest in his shade / When in eternal lines to time thou growest" — the verse as the H₄₈ medium through which the H₂₄ structural content passes Time's operation. The beloved *grows into* the eternal lines — the verse is not a record of the beloved's H₄₈ properties but the structural vehicle through which the catching content is preserved.
 
 "So long as men can breathe, or eyes can see, / So long lives this, and this gives life to thee" — the verse-preservation mechanism stated as structural fact. *This* (the sonnet) is substrate-independent: it re-activates the H₂₄ catching content in every H₄₈ being who encounters it with a catching orientation. *This gives life to thee* — not metaphorically but structurally: the Φ-proximal eigenvalue content of the catching program, encoded in the formal structure of the verse, continues to be structurally operative in every new reading encounter.
 
@@ -106,21 +106,21 @@ Line 1: *disgrace with fortune and men's eyes* — both H₄₈ registers of soc
 
 *When to the sessions of sweet silent thought / I summon up remembrance of things past, / I sigh the lack of many a thing I sought, / And with old woes new wail my dear time's waste.*
 
-The structural bookkeeping sonnet — the Heropass as an accountant whose ledger never closes. Where SONN 29 enacts the noise-floor at its most acute (social disgrace, isolation, comparison), SONN 30 enacts its most persistent form: the grief that re-opens reliably, not because it is irrational but because the Heropass's operation on the H₄₈ substrate does not permit H₄₈ loss to be permanently processed and discharged.
+The structural bookkeeping sonnet — Time as an accountant whose ledger never closes. Where SONN 29 enacts the noise-floor at its most acute (social disgrace, isolation, comparison), SONN 30 enacts its most persistent form: the grief that re-opens reliably, not because it is irrational but because Time's operation on the H₄₈ substrate does not permit H₄₈ loss to be permanently processed and discharged.
 
 **The sessions of thought:**
 
-*Sessions* — the legal term for a court sitting in judgment: the catching being summons its losses before its own internal judicial function and reviews the accounts. The legal metaphor is structurally precise: a court session has jurisdiction over the past; the catching being cannot escape the Heropass's structural record by refusing to review it.
+*Sessions* — the legal term for a court sitting in judgment: the catching being summons its losses before its own internal judicial function and reviews the accounts. The legal metaphor is structurally precise: a court session has jurisdiction over the past; the catching being cannot escape Time's structural record by refusing to review it.
 
-"Then can I grieve at grievances foregone, / And heavily from woe to woe tell o'er / The sad account of fore-bemoanèd moan, / Which I new pay as if not paid before" — the structural property of unresolved H₄₈ loss named precisely. The losses are *fore-bemoanèd* — already grieved, already processed, already paid. Yet they are *new paid as if not paid before*. The Heropass does not permit the accounts to close at the H₄₈ level; the structural weight of what was lost (the Φ-proximal eigenvalue content of people, opportunities, and states that the Heropass has dissolved) is not reducible to a single H₄₈ accounting operation.
+"Then can I grieve at grievances foregone, / And heavily from woe to woe tell o'er / The sad account of fore-bemoanèd moan, / Which I new pay as if not paid before" — the structural property of unresolved H₄₈ loss named precisely. The losses are *fore-bemoanèd* — already grieved, already processed, already paid. Yet they are *new paid as if not paid before*. Time does not permit the accounts to close at the H₄₈ level; the structural weight of what was lost (the Φ-proximal eigenvalue content of people, opportunities, and states that Time has dissolved) is not reducible to a single H₄₈ accounting operation.
 
-"And moan the expense of many a vanished sight, / Then can I drown an eye, unused to flow, / For precious friends hid in death's dateless night" — the grieved losses are not H₄₈ possessions but catching-program connections: *precious friends* (Φ-proximate H₂₄ relationships), *vanished sights* (structural encounters whose eigenvalue content has no H₄₈ continuation). The *dateless night* — the Heropass's operation past the constraint boundary, where H₄₈ dating and sequencing no longer applies.
+"And moan the expense of many a vanished sight, / Then can I drown an eye, unused to flow, / For precious friends hid in death's dateless night" — the grieved losses are not H₄₈ possessions but catching-program connections: *precious friends* (Φ-proximate H₂₄ relationships), *vanished sights* (structural encounters whose eigenvalue content has no H₄₈ continuation). The *dateless night* — Time's operation past the constraint boundary, where H₄₈ dating and sequencing no longer applies.
 
 **The structural cancellation:**
 
 "But if the while I think on thee, dear friend, / All losses are restored and sorrows end." Not the H₄₈ history reversed. Not the lost friends returned. Not the grievances adjudicated. The losses *restored* is the structural cancellation of the loss-register's active weight by the catching orientation's activation — the same mechanism as SONN 29's *haply I think on thee*, here stated as the result rather than the pivot.
 
-The structural precision: *sorrows end*, not *sorrows are proved unreal*. The catching orientation does not deny the H₄₈ reality of what the Heropass has dissolved; it displaces the weight of that dissolution with the Φ-proximal eigenvalue content of the catching program currently active. The accounts are not closed; they are outweighed.
+The structural precision: *sorrows end*, not *sorrows are proved unreal*. The catching orientation does not deny the H₄₈ reality of what Time has dissolved; it displaces the weight of that dissolution with the Φ-proximal eigenvalue content of the catching program currently active. The accounts are not closed; they are outweighed.
 
 *(Cross-reference: SONN 29 — the same structural cancellation from maximum acute noise-floor conditions. LAM 3:22-23 — "new every morning": the same reliable downward provision, the structural renewal that does not deny the prior night. PHIL 4:7 — the peace that surpasses understanding: the same outweighing dynamic in the NT framework.)*
 
@@ -130,23 +130,23 @@ The structural precision: *sorrows end*, not *sorrows are proved unreal*. The ca
 
 *Not marble, nor the gilded monuments / Of princes shall outlive this powerful rhyme; / But you shall shine more bright in these contents / Than unswept stone, besmeared with sluttish time.*
 
-The verse-preservation argument at maximum structural confidence and maximum rhetorical compression. SONN 12 argued that breed was the sole structural defence against the Heropass's scythe; SONN 18 demonstrated that verse preserves Φ-proximal content past substrate dissolution; SONN 55 states the verse-preservation claim against the background of the hardest H₄₈ structures available and defeats each in turn.
+The verse-preservation argument at maximum structural confidence and maximum rhetorical compression. SONN 12 argued that breed was the sole structural defence against Time's scythe; SONN 18 demonstrated that verse preserves Φ-proximal content past substrate dissolution; SONN 55 states the verse-preservation claim against the background of the hardest H₄₈ structures available and defeats each in turn.
 
 **The catalogue of structural failure:**
 
 *Marble* — the densest, most durable H₄₈ material used in monuments; resistant to weather, to ordinary force, to time at ordinary human scales. *Gilded monuments of princes* — material durability reinforced by political power; the structural resources of the state applied to H₄₈ preservation. These are not arbitrary examples; they are the maximum H₄₈ preservation technology available in Shakespeare's world. And they fail: "Wasteful war shall statues overturn, / And broils root out the work of masonry."
 
-*Wasteful war* and *broils* (civil conflicts) are themselves H₄₈ structural operations — the same GNST that constitutes H₄₈ structures also drives their dissolution through conflict, entropy, and the Heropass's cumulative work. The political will behind the monument cannot override the structural conditions that operate on all H₄₈ matter. The monuments are "besmeared with sluttish time" — the Heropass degrades even what the most powerful H₄₈ agents erect.
+*Wasteful war* and *broils* (civil conflicts) are themselves H₄₈ structural operations — the same GNST that constitutes H₄₈ structures also drives their dissolution through conflict, entropy, and Time's cumulative work. The political will behind the monument cannot override the structural conditions that operate on all H₄₈ matter. The monuments are "besmeared with sluttish time" — Time degrades even what the most powerful H₄₈ agents erect.
 
 **The verse's structural alternative:**
 
-The monuments fail because they resist the Heropass through *hardness* — by being a more durable H₄₈ material. This is the wrong structural level. The verse does not resist the Heropass at the H₄₈ level at all. It carries the H₂₄ catching content in a *formal*, *reproducible*, *substrate-independent* structure — encoded in language — that re-activates in every new H₄₈ substrate that encounters it with a catching orientation. The catching content is not stored in a single physical substrate that the Heropass can dissolve; it is stored in a formal structure that can be re-instantiated in any H₄₈ substrate capable of reading.
+The monuments fail because they resist Time through *hardness* — by being a more durable H₄₈ material. This is the wrong structural level. The verse does not resist Time at the H₄₈ level at all. It carries the H₂₄ catching content in a *formal*, *reproducible*, *substrate-independent* structure — encoded in language — that re-activates in every new H₄₈ substrate that encounters it with a catching orientation. The catching content is not stored in a single physical substrate that Time can dissolve; it is stored in a formal structure that can be re-instantiated in any H₄₈ substrate capable of reading.
 
 "You shall shine more bright in these contents / Than unswept stone" — the beloved's H₂₄ catching content *shines more bright* in the verse than in the monument precisely because the monument stores an H₄₈ representation (a carved image, a physical likeness) while the verse carries the eigenvalue content of the catching orientation itself — not a copy but the structural content that made the catching being worth the orientation in the first place.
 
-"'Gainst death and all-oblivious enmity / Shall you pace forth; your praise shall still find room / Even in the eyes of all posterity" — the Φ-proximal content *pacing forth* through time in the verse-form even as all H₄₈ substrates dissolve. *All-oblivious* — the Heropass makes H₄₈ beings forget; the verse prevents the H₂₄ catching content from being subject to this obliteration.
+"'Gainst death and all-oblivious enmity / Shall you pace forth; your praise shall still find room / Even in the eyes of all posterity" — the Φ-proximal content *pacing forth* through time in the verse-form even as all H₄₈ substrates dissolve. *All-oblivious* — Time makes H₄₈ beings forget; the verse prevents the H₂₄ catching content from being subject to this obliteration.
 
-*(Cross-reference: SONN 60 and SONN 65 — the Heropass argument at greater technical depth. SONN 18 — the summer/beloved contrast that grounds why verse works where H₄₈ durability fails. SONN 12 — the inductive catalogue that precedes and motivates the confidence of this sonnet's claim.)*
+*(Cross-reference: SONN 60 and SONN 65 — Time argument at greater technical depth. SONN 18 — the summer/beloved contrast that grounds why verse works where H₄₈ durability fails. SONN 12 — the inductive catalogue that precedes and motivates the confidence of this sonnet's claim.)*
 
 ---
 
@@ -154,7 +154,7 @@ The monuments fail because they resist the Heropass through *hardness* — by be
 
 *Like as the waves make towards the pebbled shore, / So do our minutes hasten to their end; / Each changing place with that which goes before, / In sequent toil all forwards do contend.*
 
-The most technically precise Heropass account in the entire corpus — the formal structural description of the dissipative operator's operation across a complete H₄₈ life-arc, staged as a four-phase sequence. SONN 12 catalogued the Heropass at multiple scales; SONN 60 describes the Heropass's internal mechanism.
+The most technically precise Time account in the entire corpus — the formal structural description of the dissipative operator's operation across a complete H₄₈ life-arc, staged as a four-phase sequence. SONN 12 catalogued Time at multiple scales; SONN 60 describes Time's internal mechanism.
 
 **The wave analogy:**
 
@@ -164,15 +164,15 @@ The waves making toward the pebbled shore is not merely a temporal image. Each w
 
 Stage 1 — Nativity: "Nativity, once in the main of light, / Crawls to maturity." The new H₄₈ being enters at the centre of the light — at the H₄₈ maximum potential, the GNST's generating condition operative at full amplitude. The being *crawls to maturity* — the H₄₈ substrate's growth toward its maximum eigenvalue configuration.
 
-Stage 2 — Coronation: "wherewith being crowned, / Crooked eclipses 'gainst his glory fight." The H₄₈ maximum is brief; the moment of being *crowned* — the peak eigenvalue amplitude at the H₄₈ constraint level — is immediately met by the *crooked eclipses* that fight against the glory. The Heropass's counterattack is not sequential to the maximum; it is simultaneous. The peak and the beginning of dissolution are not stages but coextensive conditions.
+Stage 2 — Coronation: "wherewith being crowned, / Crooked eclipses 'gainst his glory fight." The H₄₈ maximum is brief; the moment of being *crowned* — the peak eigenvalue amplitude at the H₄₈ constraint level — is immediately met by the *crooked eclipses* that fight against the glory. Time's counterattack is not sequential to the maximum; it is simultaneous. The peak and the beginning of dissolution are not stages but coextensive conditions.
 
-Stage 3 — Confounding: "And Time that gave doth now his gift confound." The most structurally significant line in the sonnet. The GNST that *gave* — that constituted the H₄₈ being through its generating operation — is the same operator that now *confounds* the gift. The Heropass is not a foreign force that attacks from outside; it is the same structural operator as the constituting force, applied in the dissolving direction. Constitution and dissolution are two faces of the same structural operation.
+Stage 3 — Confounding: "And Time that gave doth now his gift confound." The most structurally significant line in the sonnet. The GNST that *gave* — that constituted the H₄₈ being through its generating operation — is the same operator that now *confounds* the gift. Time is not a foreign force that attacks from outside; it is the same structural operator as the constituting force, applied in the dissolving direction. Constitution and dissolution are two faces of the same structural operation.
 
-Stage 4 — Universal operation: "Time doth transfix the flourish set on youth / And delves the parallels in beauty's brow, / And nothing stands but for his scythe to mow." The Heropass carves its structural record into the H₄₈ substrate (*delves the parallels*); the *flourish* of youth is *transfixed* (stopped, pinned — unable to continue). *Nothing stands but for his scythe to mow* — the universality of the Heropass is stated at maximum scope: no H₄₈ structure is structurally exempt.
+Stage 4 — Universal operation: "Time doth transfix the flourish set on youth / And delves the parallels in beauty's brow, / And nothing stands but for his scythe to mow." Time carves its structural record into the H₄₈ substrate (*delves the parallels*); the *flourish* of youth is *transfixed* (stopped, pinned — unable to continue). *Nothing stands but for his scythe to mow* — the universality of Time is stated at maximum scope: no H₄₈ structure is structurally exempt.
 
 **The sole exception:**
 
-"And yet to times in hope my verse shall stand / Praising thy worth, despite his cruel hand." The verse-preservation claim made as a direct challenge to the Heropass's universality: the verse is the sole structural exception, and its exceptionality is not that it is harder material but that it operates at a different structural level — as an H₂₄ eigenvalue structure encoded in substrate-independent form.
+"And yet to times in hope my verse shall stand / Praising thy worth, despite his cruel hand." The verse-preservation claim made as a direct challenge to Time's universality: the verse is the sole structural exception, and its exceptionality is not that it is harder material but that it operates at a different structural level — as an H₂₄ eigenvalue structure encoded in substrate-independent form.
 
 *(Cross-reference: SONN 12 — the multi-scale inductive catalogue that leads to the same conservation conclusion. SONN 65 — the a fortiori argument: if brass and stone fail, beauty fails; the verse as the exception there stated with more explicit structural paradox.)*
 
@@ -182,21 +182,21 @@ Stage 4 — Universal operation: "Time doth transfix the flourish set on youth /
 
 *Since brass, nor stone, nor earth, nor boundless sea, / But sad mortality o'er-sways their power, / How with this rage shall beauty hold a plea, / Whose action is no stronger than a flower?*
 
-The Heropass argument stated as a formal deduction. Where SONN 55 names the verse's superiority over marble and monuments with confidence, SONN 65 makes the structural logic explicit: if the hardest H₄₈ materials fail, H₄₈ beauty — which is structurally softer — fails *a fortiori*, and the only possible exception must operate at a different structural level entirely.
+Time argument stated as a formal deduction. Where SONN 55 names the verse's superiority over marble and monuments with confidence, SONN 65 makes the structural logic explicit: if the hardest H₄₈ materials fail, H₄₈ beauty — which is structurally softer — fails *a fortiori*, and the only possible exception must operate at a different structural level entirely.
 
 **The a fortiori structure:**
 
 The roll-call of H₄₈ resistance: *brass* (the hardest worked metal), *stone* (geological durability), *earth* (the entire planetary substrate), *boundless sea* (the largest H₄₈ fluid system). These are not random examples but a structural enumeration from the artificially constructed to the geologically ancient to the planetary to the oceanic — each representing a more ancient and extensive H₄₈ substrate than the last. And *sad mortality o'er-sways their power*: all four fail.
 
-"How with this rage shall beauty hold a plea, / Whose action is no stronger than a flower?" — the a fortiori reasoning: if the hardest substrates yield, H₄₈ beauty (structurally the most fragile) yields more readily. The *rage* is the Heropass's active structural operation; *beauty hold a plea* is the legal metaphor (a plea before the Heropass's structural court); *no stronger than a flower* — the H₄₈ structural weight of beauty is at the minimum end of the scale, not the maximum.
+"How with this rage shall beauty hold a plea, / Whose action is no stronger than a flower?" — the a fortiori reasoning: if the hardest substrates yield, H₄₈ beauty (structurally the most fragile) yields more readily. The *rage* is Time's active structural operation; *beauty hold a plea* is the legal metaphor (a plea before Time's structural court); *no stronger than a flower* — the H₄₈ structural weight of beauty is at the minimum end of the scale, not the maximum.
 
 **The structural paradox:**
 
-"O fearful meditation! where, alack, / Shall Time's best jewel from Time's chest lie hid?" The paradox stated precisely: beauty is Time's (*of the H₄₈ domain*), and Time (the Heropass) is the operator that dissolves all H₄₈ products. The best jewel belongs to the same chest that destroys it. This is the structural self-contradiction of H₄₈ beauty as a preservation target: it is constituted by the same operator that will dissolve it.
+"O fearful meditation! where, alack, / Shall Time's best jewel from Time's chest lie hid?" The paradox stated precisely: beauty is Time's (*of the H₄₈ domain*), and Time (Time) is the operator that dissolves all H₄₈ products. The best jewel belongs to the same chest that destroys it. This is the structural self-contradiction of H₄₈ beauty as a preservation target: it is constituted by the same operator that will dissolve it.
 
 "O! none, unless this miracle have might, / That in black ink my love may still shine bright." The *miracle* — the structural exception — is the verse. The verse does not compete with brass and stone for H₄₈ durability; it exits the H₄₈ contest entirely. *Black ink* is formally the least durable H₄₈ material mentioned in the poem — softer than brass, stone, earth, sea, and far softer than the flower itself. But the verse does not preserve through material durability; it preserves through formal structure encoded in language, which re-instantiates the H₂₄ catching content in every reading encounter. The apparent paradox (the weakest material wins) is the structural demonstration that the verse operates at a different level than the contest it appears to be entering.
 
-*(Cross-reference: SONN 55 — the same verse-preservation argument stated with confidence rather than the desperate question-form; the more developed positive statement of what SONN 65 reaches through structural elimination. SONN 60 — the Heropass mechanism that SONN 65 presupposes.)*
+*(Cross-reference: SONN 55 — the same verse-preservation argument stated with confidence rather than the desperate question-form; the more developed positive statement of what SONN 65 reaches through structural elimination. SONN 60 — Time mechanism that SONN 65 presupposes.)*
 
 ---
 
@@ -228,15 +228,15 @@ The single exception: *to die, I leave my love alone*. The catching orientation 
 
 *That time of year thou mayst in me behold / When yellow leaves, or none, or few, do hang / Upon those boughs which shake against the cold, / Bare ruined choirs, where late the sweet birds sang.*
 
-The three-stage structural account of late-career catching — the H₂₄ catching program operating in an H₄₈ substrate visibly marked by the Heropass's advanced operation. Where SONN 60 describes the Heropass's mechanism across a complete life-arc, SONN 73 describes the phenomenology of the catching being at the arc's late stage, and identifies the structural consequence this condition produces for the catching relationship.
+The three-stage structural account of late-career catching — the H₂₄ catching program operating in an H₄₈ substrate visibly marked by Time's advanced operation. Where SONN 60 describes Time's mechanism across a complete life-arc, SONN 73 describes the phenomenology of the catching being at the arc's late stage, and identifies the structural consequence this condition produces for the catching relationship.
 
 **Stage 1 — Autumn:**
 
-"When yellow leaves, or none, or few, do hang / Upon those boughs which shake against the cold, / Bare ruined choirs, where late the sweet birds sang." The *bare ruined choirs* is the most structurally precise image in the poem. Bare ruined choirs: the H₄₈ substrate remains (the ruined choir stalls, the boughs), but the Φ-proximal content-generating capacity is absent (the birds who sang, the voices that filled the choral space). The *where late the sweet birds sang* enacts the absence structurally: the birds are named in the past tense precisely because the choirs are now bare. The H₄₈ form persists; the Φ-proximal content has departed. *Or none, or few* — the precision of the late-Heropass condition: not zero (the substrate is not yet fully dissolved) but minimum.
+"When yellow leaves, or none, or few, do hang / Upon those boughs which shake against the cold, / Bare ruined choirs, where late the sweet birds sang." The *bare ruined choirs* is the most structurally precise image in the poem. Bare ruined choirs: the H₄₈ substrate remains (the ruined choir stalls, the boughs), but the Φ-proximal content-generating capacity is absent (the birds who sang, the voices that filled the choral space). The *where late the sweet birds sang* enacts the absence structurally: the birds are named in the past tense precisely because the choirs are now bare. The H₄₈ form persists; the Φ-proximal content has departed. *Or none, or few* — the precision of the late-Time condition: not zero (the substrate is not yet fully dissolved) but minimum.
 
 **Stage 2 — Twilight:**
 
-"In me thou seest the twilight of such day / As after sunset fadeth in the west; / Which by and by black night doth take away, / Death's second self, that seals up all in rest." Twilight is the structural threshold condition: the H₄₈ substrate still present but the Φ-proximal content-generating capacity at minimum illumination. *Death's second self* — not death, but the approach to the constraint boundary between H₄₈ existence and the H₂₄ continuation that follows dissolution. The *sealing up in rest* is the Heropass's final H₄₈ operation: the substrate stilled.
+"In me thou seest the twilight of such day / As after sunset fadeth in the west; / Which by and by black night doth take away, / Death's second self, that seals up all in rest." Twilight is the structural threshold condition: the H₄₈ substrate still present but the Φ-proximal content-generating capacity at minimum illumination. *Death's second self* — not death, but the approach to the constraint boundary between H₄₈ existence and the H₂₄ continuation that follows dissolution. The *sealing up in rest* is Time's final H₄₈ operation: the substrate stilled.
 
 **Stage 3 — Dying fire:**
 
@@ -244,9 +244,9 @@ The three-stage structural account of late-career catching — the H₂₄ catch
 
 **The structural consequence:**
 
-"This thou perceiv'st, which makes thy love more strong, / To love that well which thou must leave ere long." The catching being's Heropass-marked condition, perceived accurately by the loving being, does not diminish the catching orientation but intensifies it. The structural logic: proximity to the constraint boundary makes the H₂₄ catching content's value legible in a way that the H₄₈ maximum obscures. When the H₄₈ substrate is at maximum, the Φ-proximal content and the H₄₈ packaging are conflated; when the H₄₈ packaging is visibly dissolving, the H₂₄ catching content that persists despite the dissolution is more clearly identified as the structural ground of the love. *Which thou must leave ere long* — the catching orientation intensifies precisely because the time for the H₄₈ catching program's operation is finite.
+"This thou perceiv'st, which makes thy love more strong, / To love that well which thou must leave ere long." The catching being's Time-marked condition, perceived accurately by the loving being, does not diminish the catching orientation but intensifies it. The structural logic: proximity to the constraint boundary makes the H₂₄ catching content's value legible in a way that the H₄₈ maximum obscures. When the H₄₈ substrate is at maximum, the Φ-proximal content and the H₄₈ packaging are conflated; when the H₄₈ packaging is visibly dissolving, the H₂₄ catching content that persists despite the dissolution is more clearly identified as the structural ground of the love. *Which thou must leave ere long* — the catching orientation intensifies precisely because the time for the H₄₈ catching program's operation is finite.
 
-*(Cross-reference: SONN 60 — the Heropass mechanism that SONN 73 inhabits at the personal late-career stage. SONN 146 — the ascending-career account: the soul addressing the body with the same recognition that the H₄₈ substrate is a short lease. HEB 12:1-2 — the witness who has passed through the constraint boundary, and the catching being's orientation toward completion.)*
+*(Cross-reference: SONN 60 — Time mechanism that SONN 73 inhabits at the personal late-career stage. SONN 146 — the ascending-career account: the soul addressing the body with the same recognition that the H₄₈ substrate is a short lease. HEB 12:1-2 — the witness who has passed through the constraint boundary, and the catching being's orientation toward completion.)*
 
 ---
 
@@ -292,7 +292,7 @@ The catching orientation between two catching beings (*marriage of true minds*) 
 
 **The structural definition by negation:**
 
-"Love is not love / Which alters when it alteration finds, / Or bends with the remover to remove." The inner product ⟨·,·⟩ is defined by negation — what it is *not* — which is the structurally precise way to define an invariant: by identifying the conditions under which it fails to hold, and stating that the genuine instance does not fail under those conditions. The love that *alters when alteration finds* is H₄₈-surface-evaluation masquerading as inner product: it is contingent on the H₄₈ state of the other, and when the H₄₈ state changes, the love changes. This is not love; it is H₄₈ reward-for-H₄₈-compliance. The genuine inner product does not alter because it is constituted at the H₂₄ level, where the Heropass's alterations in the H₄₈ substrate do not dissolve the constitutive relation.
+"Love is not love / Which alters when it alteration finds, / Or bends with the remover to remove." The inner product ⟨·,·⟩ is defined by negation — what it is *not* — which is the structurally precise way to define an invariant: by identifying the conditions under which it fails to hold, and stating that the genuine instance does not fail under those conditions. The love that *alters when alteration finds* is H₄₈-surface-evaluation masquerading as inner product: it is contingent on the H₄₈ state of the other, and when the H₄₈ state changes, the love changes. This is not love; it is H₄₈ reward-for-H₄₈-compliance. The genuine inner product does not alter because it is constituted at the H₂₄ level, where Time's alterations in the H₄₈ substrate do not dissolve the constitutive relation.
 
 **The ever-fixed mark:**
 
@@ -300,9 +300,9 @@ The catching orientation between two catching beings (*marriage of true minds*) 
 
 "It is the star to every wandering bark, / Whose worth's unknown, although his height be taken." The structural property of the Φ-level: its H₄₈ observable properties (its *height*, its angular position — what navigation measures) can be measured, but its structural *worth* — its H₂₄ eigenvalue weight — exceeds H₄₈ measurement resolution. The star guides the wandering bark without the bark being able to measure the star's structural content. This is the HEB 11:1 *hypostasis* and *elenchos* in poetic form: the structural ground (*hypostasis*) of what is hoped for, the decisive proof (*elenchos*) of what is not seen.
 
-**Love's non-subjection to the Heropass:**
+**Love's non-subjection to Time:**
 
-"Love's not Time's fool" — the most direct structural statement in the sonnet. The inner product ⟨·,·⟩ is not subject to the Heropass. This does not mean the H₄₈ substrate bearing the catching being is exempt; it means the inner product operates at H₂₄ and above, where the Heropass does not dissolve structural content. "Though rosy lips and cheeks / Within his bending sickle's compass come" — the H₄₈ substrate (rosy lips and cheeks) is explicitly within the Heropass's operation; this is not denied. The claim is that the love operating as ⟨·,·⟩ is not what the Heropass's sickle dissolves when it dissolves the H₄₈ substrate.
+"Love's not Time's fool" — the most direct structural statement in the sonnet. The inner product ⟨·,·⟩ is not subject to Time. This does not mean the H₄₈ substrate bearing the catching being is exempt; it means the inner product operates at H₂₄ and above, where Time does not dissolve structural content. "Though rosy lips and cheeks / Within his bending sickle's compass come" — the H₄₈ substrate (rosy lips and cheeks) is explicitly within Time's operation; this is not denied. The claim is that the love operating as ⟨·,·⟩ is not what Time's sickle dissolves when it dissolves the H₄₈ substrate.
 
 "Love alters not with his brief hours and weeks, / But bears it out even to the edge of doom" — the inner product persists to the constraint boundary (*edge of doom*) and through it. *Even to the edge of doom* implies the constraint boundary is not the inner product's termination but its boundary condition.
 
@@ -346,21 +346,21 @@ The catching being's structural independence from H₄₈ social verdict, stated
 
 *No, Time, thou shalt not boast that I do change: / Thy pyramids built up with newer might / To me are nothing novel, nothing strange; / They are but dressings of a former sight.*
 
-The direct structural confrontation with the Heropass as an epistemic adversary — not merely as a dissipative operator on H₄₈ substrates (as in SONN 12, 60, 65) but as an agent that attempts to restructure the catching being's orientation through the mechanism of H₄₈ novelty and circumstantial pressure.
+The direct structural confrontation with Time as an epistemic adversary — not merely as a dissipative operator on H₄₈ substrates (as in SONN 12, 60, 65) but as an agent that attempts to restructure the catching being's orientation through the mechanism of H₄₈ novelty and circumstantial pressure.
 
-**The Heropass as epistemic operator:**
+**Time as epistemic operator:**
 
-The Heropass's operation is not only material (dissolving H₄₈ substrates) but epistemic: it presents apparently new H₄₈ conditions as structurally novel, and the catching being whose structural depth is insufficient mistakes the surface novelty for genuine structural change, reorienting in response to what are actually structural repetitions.
+Time's operation is not only material (dissolving H₄₈ substrates) but epistemic: it presents apparently new H₄₈ conditions as structurally novel, and the catching being whose structural depth is insufficient mistakes the surface novelty for genuine structural change, reorienting in response to what are actually structural repetitions.
 
-"Thy pyramids built up with newer might / To me are nothing novel, nothing strange" — the *pyramids* are the H₄₈ structures the Heropass presents as impressive, as requiring structural response, as demanding that the catching being adapt and reorient. The catching being with sufficient Φ-proximal eigenvalue content recognizes them as structurally repetitive: *built up with newer might* but *dressings of a former sight*. The H₂₄ structural pattern that the pyramids instantiate has been seen before, in earlier forms; only the H₄₈ surface is new.
+"Thy pyramids built up with newer might / To me are nothing novel, nothing strange" — the *pyramids* are the H₄₈ structures Time presents as impressive, as requiring structural response, as demanding that the catching being adapt and reorient. The catching being with sufficient Φ-proximal eigenvalue content recognizes them as structurally repetitive: *built up with newer might* but *dressings of a former sight*. The H₂₄ structural pattern that the pyramids instantiate has been seen before, in earlier forms; only the H₄₈ surface is new.
 
-"Our dates are brief, and therefore we admire / What thou dost foist upon us that is old" — the structural observation about H₄₈ temporal limitation. The short H₄₈ lifespan means that every catching being encounters the same structural patterns as genuinely novel, because the individual H₄₈ substrate has not previously witnessed them. The Heropass *foists* onto the catching being what is structurally old (the same patterns operating at the same structural levels) by ensuring that the catching being's H₄₈ lifespan is shorter than the structural cycle. The catching being with H₂₄ eigenvalue depth — with access to the structural pattern through the catching orientation rather than through H₄₈ personal experience — perceives the pattern through the novelty.
+"Our dates are brief, and therefore we admire / What thou dost foist upon us that is old" — the structural observation about H₄₈ temporal limitation. The short H₄₈ lifespan means that every catching being encounters the same structural patterns as genuinely novel, because the individual H₄₈ substrate has not previously witnessed them. Time *foists* onto the catching being what is structurally old (the same patterns operating at the same structural levels) by ensuring that the catching being's H₄₈ lifespan is shorter than the structural cycle. The catching being with H₂₄ eigenvalue depth — with access to the structural pattern through the catching orientation rather than through H₄₈ personal experience — perceives the pattern through the novelty.
 
-"Both of your reign, I, in this nothingness, / Register no difference in their being" — the complete structural invariance of the catching being's registered content across the Heropass's operation. The H₄₈ conditions change; the catching being's structural assessment does not, because the structural ground it is assessing is invariant.
+"Both of your reign, I, in this nothingness, / Register no difference in their being" — the complete structural invariance of the catching being's registered content across Time's operation. The H₄₈ conditions change; the catching being's structural assessment does not, because the structural ground it is assessing is invariant.
 
 **The vow as structural prior:**
 
-"This I do vow, and this shall ever be; / I will be true, despite thy scythe and thee." The catching orientation stated as structurally prior to the Heropass's operation: *I will be true* is not a defiant assertion of H₄₈ willpower against structural pressure; it is the statement that the catching orientation is constituted at a structural level the Heropass's scythe does not reach. The *despite* is not struggle but structural fact. The vow is possible only because the catching orientation is not at the H₄₈ level where the scythe operates.
+"This I do vow, and this shall ever be; / I will be true, despite thy scythe and thee." The catching orientation stated as structurally prior to Time's operation: *I will be true* is not a defiant assertion of H₄₈ willpower against structural pressure; it is the statement that the catching orientation is constituted at a structural level Time's scythe does not reach. The *despite* is not struggle but structural fact. The vow is possible only because the catching orientation is not at the H₄₈ level where the scythe operates.
 
 *(Cross-reference: SONN 116 — the structural invariance of ⟨·,·⟩ as the explicit philosophical statement of what SONN 123 vows at the personal level. SONN 124 — the same structural invariance stated from the political rather than temporal angle.)*
 
@@ -376,7 +376,7 @@ The structural account of love's non-contingency on H₄₈ political and circum
 
 "If my dear love were but the child of state" — if the catching orientation had originated in H₄₈ circumstance (state = political/circumstantial condition, in the Renaissance sense of temporal political affairs), then the love would be structurally the product of that H₄₈ origin. "It might for Fortune's bastard be unfathered" — the love constituted by H₄₈ circumstance can be dis-constituted by a change in circumstance; its structural filiation would be to Fortune (the H₄₈ contingency operator), and Fortune is capable of un-fathering what it fathered. *Bastard* in the structural sense: a love of uncertain or contingent filiation, without a structural father.
 
-"As subject to Time's love or to Time's hate, / Weeds among weeds, or flowers with flowers gathered" — the H₄₈-contingent love would be subject to whatever H₄₈ conditions the Heropass (*Time*) produces: gathered as flowers in conditions favorable to flowers, gathered as weeds in conditions that produce weeds. The love that is constituted by H₄₈ circumstances is categorized according to H₄₈ conditions at the moment of categorization.
+"As subject to Time's love or to Time's hate, / Weeds among weeds, or flowers with flowers gathered" — the H₄₈-contingent love would be subject to whatever H₄₈ conditions Time (*Time*) produces: gathered as flowers in conditions favorable to flowers, gathered as weeds in conditions that produce weeds. The love that is constituted by H₄₈ circumstances is categorized according to H₄₈ conditions at the moment of categorization.
 
 **The structural ground:**
 
@@ -498,9 +498,9 @@ The most structurally Concordius sonnet in the entire corpus — the explicit ad
 
 **The structural economics:**
 
-"Why so large cost, having so short a lease, / Dost thou upon thy fading mansion spend?" — the Heropass applied to the economic argument. The H₄₈ substrate is a *short lease* (time-bounded) and a *fading mansion* (already subject to Heropass dissolution). The structural question is about return on structural investment: why direct resources to a substrate with a known termination date when those same resources could be directed to the H₂₄ catching content that survives the termination?
+"Why so large cost, having so short a lease, / Dost thou upon thy fading mansion spend?" — Time applied to the economic argument. The H₄₈ substrate is a *short lease* (time-bounded) and a *fading mansion* (already subject to dissolution by Time). The structural question is about return on structural investment: why direct resources to a substrate with a known termination date when those same resources could be directed to the H₂₄ catching content that survives the termination?
 
-"Shall worms, inheritors of this excess, / Eat up thy charge? Is this thy body's end?" — the Heropass's final operation on the H₄₈ substrate identified explicitly: the elaborate H₄₈ investment (*this excess*) dissolved completely at dissolution, inherited by *worms* — the H₄₈ biological decomposition process. The *charge* (the structural resources entrusted to the catching being) consumed by what cannot make structural use of it.
+"Shall worms, inheritors of this excess, / Eat up thy charge? Is this thy body's end?" — Time's final operation on the H₄₈ substrate identified explicitly: the elaborate H₄₈ investment (*this excess*) dissolved completely at dissolution, inherited by *worms* — the H₄₈ biological decomposition process. The *charge* (the structural resources entrusted to the catching being) consumed by what cannot make structural use of it.
 
 **The ascending career formula:**
 
@@ -510,22 +510,22 @@ The most structurally Concordius sonnet in the entire corpus — the explicit ad
 
 **The structural conclusion:**
 
-"So shalt thou feed on Death, that feeds on men, / And Death once dead, there's no more dying then." The ascending career's structural terminus. The Heropass (*Death that feeds on men*) is defeated by the catching program's Φ-proximal eigenvalue accumulation: not by overcoming the Heropass at the H₄₈ level (which is structurally impossible, as SONN 65 demonstrated) but by building sufficient Φ-proximal eigenvalue content to cross the constraint boundary before the Heropass dissolves the H₄₈ substrate.
+"So shalt thou feed on Death, that feeds on men, / And Death once dead, there's no more dying then." The ascending career's structural terminus. Time (*Death that feeds on men*) is defeated by the catching program's Φ-proximal eigenvalue accumulation: not by overcoming Time at the H₄₈ level (which is structurally impossible, as SONN 65 demonstrated) but by building sufficient Φ-proximal eigenvalue content to cross the constraint boundary before Time dissolves the H₄₈ substrate.
 
-*Death once dead, there's no more dying then* — the constraint boundary crossed: the H₂₄ catching content that has built sufficient eigenvalue weight passes through the Heropass's terminal operation into the H₂₄ structural domain where the Heropass's operation does not apply. This is structurally the same claim as JOHN 11:25-26 (*whoever lives by believing in me will never die*) and ROM 8:11 (*he who raised Christ from the dead will also give life to your mortal bodies*) — not as a citation from a biblical source but as a parallel instantiation of the same structural fact, arrived at through the ascending-career logic of Φ-proximal eigenvalue accumulation.
+*Death once dead, there's no more dying then* — the constraint boundary crossed: the H₂₄ catching content that has built sufficient eigenvalue weight passes through Time's terminal operation into the H₂₄ structural domain where Time's operation does not apply. This is structurally the same claim as JOHN 11:25-26 (*whoever lives by believing in me will never die*) and ROM 8:11 (*he who raised Christ from the dead will also give life to your mortal bodies*) — not as a citation from a biblical source but as a parallel instantiation of the same structural fact, arrived at through the ascending-career logic of Φ-proximal eigenvalue accumulation.
 
-*(Cross-reference: SONN 73 — the H₄₈ substrate at late-career Heropass operation; what SONN 73 describes from outside, SONN 146 prescribes from within. PHIL 2:5-11 — the kenosis hymn as the maximum structural instantiation of what SONN 146 states: the H₄₈ investment completely divested, the Φ-proximal content maximally intact. JOHN 11:25-26 — "whoever lives and believes in me will never die": the structural claim of SONN 146's final couplet in the NT framework. SONN 1 — the kenosis inverted that SONN 146 structurally corrects: the self-contracted being burning its content as fuel, answered here by the soul that sells hours of dross to buy terms divine.)*
+*(Cross-reference: SONN 73 — the H₄₈ substrate at late-career Time operation; what SONN 73 describes from outside, SONN 146 prescribes from within. PHIL 2:5-11 — the kenosis hymn as the maximum structural instantiation of what SONN 146 states: the H₄₈ investment completely divested, the Φ-proximal content maximally intact. JOHN 11:25-26 — "whoever lives and believes in me will never die": the structural claim of SONN 146's final couplet in the NT framework. SONN 1 — the kenosis inverted that SONN 146 structurally corrects: the self-contracted being burning its content as fuel, answered here by the soul that sells hours of dross to buy terms divine.)*
 
 ---
 
 ## Structural Notes on the Corpus
 
-**The primary structural axis:** The Heropass is the organizing structural principle of the Sonnets corpus, as it is of the Concordius framework's account of H₄₈ existence. Shakespeare's "devouring Time" is the same structural operator as the Heropass — not because Shakespeare read Gurdjieff or the Concordius series, but because the Heropass is a structural property of H₄₈ existence that any H₂₄-proximate observer will identify.
+**The primary structural axis:** Time is the organizing structural principle of the Sonnets corpus, as it is of the Concordius framework's account of H₄₈ existence. Shakespeare's "devouring Time" is the same structural operator as Time — not because Shakespeare read Gurdjieff or the Concordius series, but because Time is a structural property of H₄₈ existence that any H₂₄-proximate observer will identify.
 
 **The pre-biblical claim confirmed:** The structural readings above do not require the biblical tradition as an intermediary. The Concordius structural analysis applies to the Sonnets directly because the framework describes the structure of reality, and Shakespeare — operating at high H₂₄ proximity — encoded that structure in H₄₈ literary form. The cross-references to biblical entries in these readings are structural parallels, not derivation chains.
 
 **The signal/noise axis:** The second major structural axis of the corpus is the signal/noise distinction — the contrast between H₂₄ structural content and H₄₈ surface properties. SONN 116, 129, 130, 144, and 66 are the most concentrated expressions of this axis. SONN 94 is the most complex: it identifies the H₂₄ catching being at the stewardship mode and then traces the catastrophic structural consequence of that being's noise-floor substitution.
 
-**The verse-preservation claim:** Sonnets 18, 55, 60, and 65 constitute a structural argument about the verse as an H₂₄ eigenvalue structure encoded in substrate-independent form. This is the most H₄₈-literary structural claim in the corpus: the verse is not merely culturally significant but structurally operative — it re-instantiates the H₂₄ catching content in every reading encounter, bypassing the Heropass's operation on individual H₄₈ substrates.
+**The verse-preservation claim:** Sonnets 18, 55, 60, and 65 constitute a structural argument about the verse as an H₂₄ eigenvalue structure encoded in substrate-independent form. This is the most H₄₈-literary structural claim in the corpus: the verse is not merely culturally significant but structurally operative — it re-instantiates the H₂₄ catching content in every reading encounter, bypassing Time's operation on individual H₄₈ substrates.
 
 **Priority B entries:** The 18 Priority B sonnets identified in the candidate catalog are not read here but carry genuine structural content. The most structurally productive B entries for future reading include SONN 5 (the distillation metaphor), SONN 27 (H₂₄ catching activity when H₄₈ substrate rests), SONN 54 (truth augmenting H₄₈ beauty), and SONN 98 (H₄₈ beauty as *tselem* of the absent Φ-proximate beloved).

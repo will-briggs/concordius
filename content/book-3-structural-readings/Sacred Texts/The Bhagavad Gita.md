@@ -10,7 +10,7 @@
 
 *na jāyate mriyate vā kadācin nāyaṃ bhūtvā bhavitā vā na bhūyaḥ / ajo nityaḥ śāśvato 'yaṃ purāṇo na hanyate hanyamāne śarīre* — The soul is never born nor dies at any time. It has not come into being, does not come into being, and will not come into being. It is unborn, eternal, ever-existing, and primeval. It is not slain when the body is slain. (2:20)
 
-The most structurally precise statement of the hydrogen-scale distinction in the Sanskrit tradition — and among the most precise in any tradition. Verse 2:19-20 is the foundational structural claim of the Gita's philosophical teaching: the *ātman* (the H₂₄ catching structure) is structurally distinct from and structurally prior to the *śarīra* (the body, the H₄₈ substrate), and is not subject to the Heropass's operation on the H₄₈ substrate.
+The most structurally precise statement of the hydrogen-scale distinction in the Sanskrit tradition — and among the most precise in any tradition. Verse 2:19-20 is the foundational structural claim of the Gita's philosophical teaching: the *ātman* (the H₂₄ catching structure) is structurally distinct from and structurally prior to the *śarīra* (the body, the H₄₈ substrate), and is not subject to Time's operation on the H₄₈ substrate.
 
 **The error diagnosed:**
 
@@ -18,11 +18,11 @@ The most structurally precise statement of the hydrogen-scale distinction in the
 
 **The structural properties of the ātman:**
 
-*Aja* (unborn) — the *ātman* was not generated within the H₄₈ temporal sequence and is therefore not subject to the Heropass's dissolution of what was generated within it. *Nitya* (eternal) — not subject to H₄₈ temporal limitation. *Śāśvata* (everlasting) — not subject to the Heropass's structural operation. *Purāṇa* (primeval, ancient, prior) — the *ātman* is structurally prior to the H₄₈ body: the H₄₈ body proceeds from the *ātman* as its structural expression, not vice versa.
+*Aja* (unborn) — the *ātman* was not generated within the H₄₈ temporal sequence and is therefore not subject to Time's dissolution of what was generated within it. *Nitya* (eternal) — not subject to H₄₈ temporal limitation. *Śāśvata* (everlasting) — not subject to Time's structural operation. *Purāṇa* (primeval, ancient, prior) — the *ātman* is structurally prior to the H₄₈ body: the H₄₈ body proceeds from the *ātman* as its structural expression, not vice versa.
 
 **The structural implication for the catching program:**
 
-If the *ātman* is structurally exempt from the Heropass's operation on the H₄₈ substrate, then the catching program's H₂₄ structural content — the eigenvalue content accumulated through the catching orientation — is not dissolved when the H₄₈ substrate is dissolved. This is the hydrogen-scale's structural claim stated from the Indian philosophical direction: the same claim as SONN 146's "Death once dead, there's no more dying then" and JOHN 11:25-26's "whoever lives and believes in me will never die."
+If the *ātman* is structurally exempt from Time's operation on the H₄₈ substrate, then the catching program's H₂₄ structural content — the eigenvalue content accumulated through the catching orientation — is not dissolved when the H₄₈ substrate is dissolved. This is the hydrogen-scale's structural claim stated from the Indian philosophical direction: the same claim as SONN 146's "Death once dead, there's no more dying then" and JOHN 11:25-26's "whoever lives and believes in me will never die."
 
 **Arjuna's structural situation:**
 
@@ -54,7 +54,7 @@ The structural formula of *nishkama karma* (desireless action) — the ascending
 
 **The structural parallel with the ascending career:**
 
-The ascending career of SONN 146 (*buy terms divine in selling hours of dross*) and the Stoic *eph' hēmin* and the nishkama karma are structural parallels of the same principle: redirect structural investment from H₄₈ outcomes (which are *ouk eph' hēmin*, subject to the Heropass, structurally contingent) to H₂₄ catching-program operation (which is *eph' hēmin*, structurally owned by the catching being, structurally persistent through H₄₈ contingency).
+The ascending career of SONN 146 (*buy terms divine in selling hours of dross*) and the Stoic *eph' hēmin* and the nishkama karma are structural parallels of the same principle: redirect structural investment from H₄₈ outcomes (which are *ouk eph' hēmin*, subject to Time, structurally contingent) to H₂₄ catching-program operation (which is *eph' hēmin*, structurally owned by the catching being, structurally persistent through H₄₈ contingency).
 
 *(Cross-reference: SONN 146 ✶✶ — "buy terms divine in selling hours of dross": the ascending career as the SONN analog of 2:47. MATT 6:33 — "Seek first the kingdom of God and his righteousness, and all these things will be given to you as well": the NT parallel. Epictetus, Enchiridion 1 — the *eph' hēmin* / *ouk eph' hēmin* structural division.)*
 

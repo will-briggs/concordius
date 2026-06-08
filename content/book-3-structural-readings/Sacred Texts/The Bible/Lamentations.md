@@ -16,7 +16,7 @@ The structural context is the book's. Lamentations is the response to the destru
 
 **The renewal rate:**
 
-*Chadashim la-beqarim* — new every morning. The structural precision: the Φ-level's *chesed* and *rachamim* have a renewal rate. They are not a fixed supply that the noise-floor's activity depletes; they are replenished at the rate at which the H₄₈ day cycles. Every morning the catching being wakes into a fresh provision of the Φ-level's constitutive mercy. The maximum noise-floor of the night — the Heropass running unopposed through the H₄₈ substrate's most vulnerable state — does not determine the morning's structural provision. The morning provides what the night could not exhaust.
+*Chadashim la-beqarim* — new every morning. The structural precision: the Φ-level's *chesed* and *rachamim* have a renewal rate. They are not a fixed supply that the noise-floor's activity depletes; they are replenished at the rate at which the H₄₈ day cycles. Every morning the catching being wakes into a fresh provision of the Φ-level's constitutive mercy. The maximum noise-floor of the night — Time running unopposed through the H₄₈ substrate's most vulnerable state — does not determine the morning's structural provision. The morning provides what the night could not exhaust.
 
 This is not an optimistic disposition; it is a structural observation made from the ruins. The author of Lamentations has watched Jerusalem burn. The claim "they are new every morning" is made from chapter 3, between the description of the captive's afflictions (3:1-18) and the subsequent lament (3:40-54). The structural claim is made at the structural center of the book, where it is most structurally costly to make it.
 

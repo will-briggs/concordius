@@ -26,7 +26,7 @@ Place me like a seal (*chotam*) over your heart, like a seal on your arm; for lo
 
 The structural properties of *ʾahavah* stated in maximum comparative terms.
 
-**"Strong as death (*ʾazza cha-mavet*)."** — The inner-product relation has the structural inevitability of the Heropass's dissolution of H₄₈ structure: unconditional, operating without exception, not negotiable by H₄₈ resistance. Death does not yield to H₄₈ protest or H₄₈ bargaining. *ʾAhavah* operates with the same structural necessity. This is not the claim that love causes suffering (as it can at the H₄₈ level) but that the constitutive inner-product relation has the same structural character as death's operation — it cannot be circumvented.
+**"Strong as death (*ʾazza cha-mavet*)."** — The inner-product relation has the structural inevitability of Time's dissolution of H₄₈ structure: unconditional, operating without exception, not negotiable by H₄₈ resistance. Death does not yield to H₄₈ protest or H₄₈ bargaining. *ʾAhavah* operates with the same structural necessity. This is not the claim that love causes suffering (as it can at the H₄₈ level) but that the constitutive inner-product relation has the same structural character as death's operation — it cannot be circumvented.
 
 **"Unyielding as the grave (*sheʾol*)."** — *Sheʾol* does not release its claim. The constitutive relation does not release its claim on the being it constitutes. The Φ-level's *ʾahavah* for the catching being is not a provisional state contingent on the being's H₄₈ performance. It is the structural ground of the being's existence — the inner product that constitutes rather than merely observes.
 

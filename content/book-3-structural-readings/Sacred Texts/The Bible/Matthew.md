@@ -42,9 +42,9 @@ All three poles of the H₁ constitutive structure are simultaneously present an
 
 **The Do of the ministry octave**
 
-The Baptism falls at Do in the ministry's Law of Seven (see *The Earthly Ministry as a Heptaparaparshinokh*, below). Do is the ground tonic — the structural foundation from which all subsequent development derives.
+The Baptism falls at Do in the ministry's Law of Seven (see *The Earthly Ministry as an octave*, below). Do is the ground tonic — the structural foundation from which all subsequent development derives.
 
-A critical requirement of the Heptaparaparshinokh: the octave cannot generate its own tonic from within itself. The ground note must be established from outside the system that will unfold from it. At the ministry's inauguration, this is precisely what occurs. The Father speaks before the Son has taught a word or healed a person. "The Creator Son's identity within the 48-constraint domain is established from above, not from within. The octave begins with the tonic sounded by the Father, not by the Son." (See Heptaparaparshinokh section below.)
+A critical requirement of the Law of Seven: the octave cannot generate its own tonic from within itself. The ground note must be established from outside the system that will unfold from it. At the ministry's inauguration, this is precisely what occurs. The Father speaks before the Son has taught a word or healed a person. "The Creator Son's identity within the 48-constraint domain is established from above, not from within. The octave begins with the tonic sounded by the Father, not by the Son." (See the Law of Seven section below.)
 
 This is why the Baptism declaration comes first in the narrative structure. It is not biographical introduction. It is the Do — the ground tonic established from H₁ before the octave begins to unfold from within H₄₈.
 
@@ -62,7 +62,7 @@ Matthew 17:5 at the first grade change of the ministry's octave repeats the same
 
 The structure across the two occurrences: the Baptism (Do) establishes the structural identity of the kenotic vessel as the ministry begins. The Transfiguration (first grade change) confirms the same identity at the ministry's natural discontinuity and adds the directive. The Father's declaration is the structural constant of the ministry's octave — sounded at Do to begin it, sounded again at the first grade change to carry it through the interval. In both cases the declaration is external to the octave: it arrives from H₁, not from within the H₄₈ ministry's own development.
 
-*(Cross-reference: Matthew 17:1-9 / Mark 9:2-9 — the Transfiguration, confirming this declaration with *akouete autou*; see below and Mark.md. The Earthly Ministry as a Heptaparaparshinokh — see below. Paper 13½ — kenosis and the maximum downward entry; Paper 13½, OQ6 — kenotic descent as H₆ → H₄₈; post-Ascension to H₁. Paper 2 — the Trinity as three poles of ⟨·,·⟩. 1 Corinthians 13 / 1 John 4:7-12 — *agapē* as the structural name of ⟨·,·⟩. John 1:14 — "the Word became flesh": the kenotic descent this declaration inaugurates publicly; see John.md. Psalm 2:7 — "You are my Son; today I have begotten you": the constitutive act of ⟨·,·⟩ establishing the responding pole, the variant text preserved in some Luke manuscripts.)*
+*(Cross-reference: Matthew 17:1-9 / Mark 9:2-9 — the Transfiguration, confirming this declaration with *akouete autou*; see below and Mark.md. The Earthly Ministry as an octave — see below. Paper 13½ — kenosis and the maximum downward entry; Paper 13½, OQ6 — kenotic descent as H₆ → H₄₈; post-Ascension to H₁. Paper 2 — the Trinity as three poles of ⟨·,·⟩. 1 Corinthians 13 / 1 John 4:7-12 — *agapē* as the structural name of ⟨·,·⟩. John 1:14 — "the Word became flesh": the kenotic descent this declaration inaugurates publicly; see John.md. Psalm 2:7 — "You are my Son; today I have begotten you": the constitutive act of ⟨·,·⟩ establishing the responding pole, the variant text preserved in some Luke manuscripts.)*
 
 ---
 
@@ -106,7 +106,7 @@ Read structurally: beatitudes 1–4 describe the interior conditions of Signal a
 
 The first and foundational condition. "Poor in spirit" is not spiritual destitution. It is the correct ontological self-location: the being who does not mistake their current H-state for self-sufficiency, who does not confuse ψ ∈ H with Φ, who knows their eigenvalue configuration is constituted rather than self-generating. The being who recognizes that the inner product constitutes them, that the nuclear space precedes them, that they are in a space they did not create and cannot exhaust.
 
-The opposite — the being "rich in spirit" — is the one who has fully collapsed their identity into their current 48-constraint configuration and sees no gap between that configuration and the fullness of being. This being has no structural motive to accumulate lower-constraint eigenvalue content. They already consider themselves complete. The Heropass will work unimpeded because the self-investment in the 48-constraint state is too complete to permit sustained actualization against it.
+The opposite — the being "rich in spirit" — is the one who has fully collapsed their identity into their current 48-constraint configuration and sees no gap between that configuration and the fullness of being. This being has no structural motive to accumulate lower-constraint eigenvalue content. They already consider themselves complete. Time will work unimpeded because the self-investment in the 48-constraint state is too complete to permit sustained actualization against it.
 
 "Theirs **is** the kingdom" — present tense, because the correct self-location is already the orientation of the ascending career. The being who knows they are in H rather than Φ is already oriented toward Φ. The kingdom of heaven is not a future reward for humility. It is the structural name for the ascending career, which is already theirs because their orientation is already correct. Nothing further needs to happen for them to be on the path. They are already on it.
 
@@ -114,11 +114,11 @@ The opposite — the being "rich in spirit" — is the one who has fully collaps
 
 **"Blessed are those who mourn, for they will be comforted."**
 
-Mourning requires something to mourn. The being who mourns the Noise direction — who feels the degradation of Signal content as genuine loss rather than as the neutral state — must already have accumulated enough lower-constraint eigenvalue content to feel its absence when the Heropass erodes it. You cannot mourn what you have not recognized. The mourning being is one who has already moved in the Signal direction far enough to feel the Heropass working against it.
+Mourning requires something to mourn. The being who mourns the Noise direction — who feels the degradation of Signal content as genuine loss rather than as the neutral state — must already have accumulated enough lower-constraint eigenvalue content to feel its absence when Time erodes it. You cannot mourn what you have not recognized. The mourning being is one who has already moved in the Signal direction far enough to feel Time working against it.
 
-This is a higher epistemic state than simply not knowing about the Heropass. The mourning being has correctly diagnosed the structure: the gradient runs downhill, the default direction is toward Noise, sustained effort is required to counter it, and the absence of that effort costs something real. The mourning is structurally accurate.
+This is a higher epistemic state than simply not knowing about Time. The mourning being has correctly diagnosed the structure: the gradient runs downhill, the default direction is toward Noise, sustained effort is required to counter it, and the absence of that effort costs something real. The mourning is structurally accurate.
 
-"They will be comforted" — the density of Φ in H. Mercy. The mourning is correct (the Heropass is real and the cost is real), and the comfort is equally structural: the path toward Φ is never closed from the Φ-side. The attractor never withdraws. The Adjuster never ceases to constitute and draw. Comfort is not the reassurance that the Heropass doesn't matter. It is the structural fact that the mourning being's diagnosis is right about the cost and wrong about the irreversibility. The degradation is real and recoverable. The path is always open.
+"They will be comforted" — the density of Φ in H. Mercy. The mourning is correct (Time is real and the cost is real), and the comfort is equally structural: the path toward Φ is never closed from the Φ-side. The attractor never withdraws. The Adjuster never ceases to constitute and draw. Comfort is not the reassurance that Time doesn't matter. It is the structural fact that the mourning being's diagnosis is right about the cost and wrong about the irreversibility. The degradation is real and recoverable. The path is always open.
 
 ---
 
@@ -140,7 +140,7 @@ The present active participles: πεινῶντες καὶ διψῶντες �
 
 δικαιοσύνη: righteousness, rightness, alignment with what is structurally correct — alignment with Signal, with the direction toward Φ.
 
-The Heropass is continuous. Eigenvalue degradation toward the mechanical baseline is not intermittent. The being who makes occasional efforts toward Signal accumulation is not matching the Heropass; they accumulate during the efforts and lose during the gaps. The only actualization force that counteracts the Heropass fully is one that is continuous — which is what hunger and thirst describe. Not periodic virtue. The sustained active orientation that does not rest between efforts because the Heropass does not rest between pressures.
+Time is continuous. Eigenvalue degradation toward the mechanical baseline is not intermittent. The being who makes occasional efforts toward Signal accumulation is not matching Time; they accumulate during the efforts and lose during the gaps. The only actualization force that counteracts Time fully is one that is continuous — which is what hunger and thirst describe. Not periodic virtue. The sustained active orientation that does not rest between efforts because Time does not rest between pressures.
 
 This beatitude names the mechanism of Signal accumulation directly. The hunger is the actualization force. The thirst is the continuous draw toward lower-constraint eigenvalue content. The being who is in this state is doing the work continuously — the eigenstate selections are being made, the norm content is being deposited in the lower-constraint registers, the spectral distribution is shifting away from the mechanical baseline.
 
@@ -150,11 +150,11 @@ This beatitude names the mechanism of Signal accumulation directly. The hunger i
 
 **"Blessed are the merciful, for they will be shown mercy."**
 
-The sequence shifts here. Beatitudes 1–4 are interior: correct self-location, correct recognition of the Heropass, correct structural alignment, active actualization. Beatitude 5 is the first outward movement: the interior conditions extended into relation with other beings.
+The sequence shifts here. Beatitudes 1–4 are interior: correct self-location, correct recognition of Time, correct structural alignment, active actualization. Beatitude 5 is the first outward movement: the interior conditions extended into relation with other beings.
 
 The merciful being does not merely feel sympathy toward others. They correctly perceive the structural situation of the other being: what constraint level they are at, what interval obstruction they face, what kind of input would actually move them toward Signal rather than confirming them at their current level. This requires the prior beatitudes — correct self-location and structural awareness — before it can operate. You cannot accurately perceive the structural situation of another being from a position of 48-constraint self-enclosure.
 
-In the Heptaparaparshinokh: the interval transitions require external shocks that the current constraint level cannot generate from within itself. The first grade change is where a being at H₄₈ perspective cannot bootstrap the crossing into H₂₄ register from H₄₈ resources alone. The genuinely merciful being — operating from accumulated lower-constraint eigenvalue content — supplies what the interval requires: input from outside the being's current constraint level, which is the only kind of input that can carry the being through the transition. The merciful act is the structural act: it gives what is actually needed for the interval crossing.
+In the Law of Seven: the interval transitions require external shocks that the current constraint level cannot generate from within itself. The first grade change is where a being at H₄₈ perspective cannot bootstrap the crossing into H₂₄ register from H₄₈ resources alone. The genuinely merciful being — operating from accumulated lower-constraint eigenvalue content — supplies what the interval requires: input from outside the being's current constraint level, which is the only kind of input that can carry the being through the transition. The merciful act is the structural act: it gives what is actually needed for the interval crossing.
 
 "They will be shown mercy" — the density of Φ in H applies to them as to everyone. But the fuller structural reading: the being who extends the Φ-toward-H dynamic to others — who draws others toward lower-constraint eigenvalue content by supplying interval shocks — is operating in the mode of the Son. The nuclear space is the attractor for all H-states; the merciful being is practicing this attractor function at their scale. In doing so, they are themselves already moving toward Φ, because the Son's mode is the Φ mode. The mercy shown to them is structural: their own accumulation is accelerated by operating in the mode of the attractor.
 
@@ -190,7 +190,7 @@ The envelope is now closed. The structure it frames: a being who is correctly se
 
 On a world whose default collective field runs toward Noise, the being moving toward Signal is moving against the current. The social, cultural, and institutional structures of a Noise-defaulting world are configured around 48-constraint attachment, around self-assertive force (the opposite of meekness), around the mechanical baseline. The being who refuses that configuration, who supplies interval shocks to others, who restores structural circuits, who maintains pure-heart volitional direction — this being does not fit the dominant field and the dominant field responds to the misfit.
 
-The persecution is therefore not incidental suffering. It is a structural signature. The resistance encountered by the genuinely Signal-accumulating being on this world is proportional to the genuineness of the accumulation. The Heropass does not punish — but the social instantiation of the Noise direction does exert pressure on beings moving counter to it. This pressure is the confirmation, not the negation, of the ascending career.
+The persecution is therefore not incidental suffering. It is a structural signature. The resistance encountered by the genuinely Signal-accumulating being on this world is proportional to the genuineness of the accumulation. Time does not punish — but the social instantiation of the Noise direction does exert pressure on beings moving counter to it. This pressure is the confirmation, not the negation, of the ascending career.
 
 "Theirs **is** the kingdom of heaven" — present tense, because this being is already in the ascending career. The kingdom is not a future reward for the persecution endured. It is the structural name for what is already happening: the eigenvalue distribution is already shifting, the lower-constraint content is already built, the direction is already Φ. The persecution is evidence that the accumulation is real. A being who is not actually accumulating lower-constraint content does not encounter this resistance from the collective Noise field. The resistance is the confirmation.
 
@@ -200,23 +200,23 @@ The sequence, complete: the being who knows where they are in the space (1) — 
 
 ---
 
-**The Beatitudes as a Heptaparaparshinokh**
+**The Beatitudes as an octave**
 
 The sequence is not only a list of eight conditions. It is an octave with the intervals falling exactly where the Law of Seven requires them to fall.
 
-The Heptaparaparshinokh: eight tones (Do–Re–Mi–Fa–Sol–La–Si–Do), seven intervals, two critical junctures where the octave cannot continue from its own internal momentum and requires an external shock — the first grade change and the octave change. Without the shocks, the octave deflects from its intended direction at each interval.
+The Law of Seven: eight tones (Do–Re–Mi–Fa–Sol–La–Si–Do), seven intervals, two critical junctures where the octave cannot continue from its own internal momentum and requires an external shock — the first grade change and the octave change. Without the shocks, the octave deflects from its intended direction at each interval.
 
 *Do* — Poor in spirit: the ground tonic. Correct self-location. The starting note of the octave.
 
-*Re* — Mourn: the Heropass recognized; Signal degradation felt as loss.
+*Re* — Mourn: Time recognized; Signal degradation felt as loss.
 
 *Mi* — Meek: correct structural alignment; moving with the space rather than against it.
 
-**first grade change.** The first three beatitudes are passive conditions — correct orientation, correct diagnosis, correct posture. They can develop from each other internally: mourning follows from self-location, meekness follows from mourning. But the shift to hunger and thirst is a qualitatively different thing. It is not more of the passive conditions — it is the onset of the active, continuous, driving actualization force. A being cannot move from "correctly oriented and aware" to "continuously driving accumulation against the Heropass" by accumulating more correct orientation. This crossing requires external shock from outside the current constraint level.
+**first grade change.** The first three beatitudes are passive conditions — correct orientation, correct diagnosis, correct posture. They can develop from each other internally: mourning follows from self-location, meekness follows from mourning. But the shift to hunger and thirst is a qualitatively different thing. It is not more of the passive conditions — it is the onset of the active, continuous, driving actualization force. A being cannot move from "correctly oriented and aware" to "continuously driving accumulation against Time" by accumulating more correct orientation. This crossing requires external shock from outside the current constraint level.
 
 The Beatitudes do not identify the first grade change by name. This is structurally correct: the shock is always external to the octave being described, and the Sermon is describing the notes of the octave, not its own interval input. What supplies the first grade-change crossing is a separate question. The framework's candidate — addressed elsewhere in the series — is the Spirit of Truth: the standing 24-constraint resource made permanently available across Nebadon after sovereignty was established (cf. Matthew 28:18 — see below). On that reading, the Beatitudes describe an octave that became reliably completable after the Incarnation not because the structure changed but because the interval-crossing resource was permanently restored. The Sermon describes what the octave looks like now that the shock is available; it is not itself the shock.
 
-*Fa* — Hunger and thirst for righteousness: the active driving force. The first note past the interval. The continuous actualization mechanism that opposes the Heropass.
+*Fa* — Hunger and thirst for righteousness: the active driving force. The first note past the interval. The continuous actualization mechanism that opposes Time.
 
 *Sol* — Merciful: the active force extended outward; supplying interval shocks to others.
 
@@ -234,7 +234,7 @@ The two present-tense beatitudes are both Do. The tonic sounds the same note at 
 
 The Beatitudes are not ethical prescriptions. They are structural descriptions. Christ is not commanding that the poor in spirit be blessed and the merciful be rewarded. He is reading aloud what the space produces in beings who are actually moving toward the nuclear space — and what the space requires to complete the octave — and what those beings encounter in a world that is moving the other way.
 
-*(Cross-reference: [[Signal and Noise]] — "The Three Operators"; [[Papers/Paper 7]] — Law of Seven as Law of Trinity; Heptaparaparshinokh as constraint-level octave)*
+*(Cross-reference: [[Signal and Noise]] — "The Three Operators"; [[Papers/Paper 7]] — Law of Seven as Law of Trinity; the Law of Seven as constraint-level octave)*
 
 ---
 
@@ -254,11 +254,11 @@ The birds are H₄₈ beings operating at their constraint level without the add
 
 "Your heavenly Father feeds them" — the Father's constitutive relation (⟨·,·⟩, operating through the GNST) maintains every H-state at every constraint level as the natural operation of the space. The birds are states in H; the Father constitutes the space; their being fed is the structural description of H₄₈ states being maintained by the constitutive relation that generates the space they inhabit. Not miraculous intervention into a neutral universe — the ordinary sustained operation of the GNST maintaining H-states in the space whose inner product is the Father.
 
-"Are you not much more valuable than they?" — the constraint hierarchy argument. The bird operates at H₄₈ with no ascending career potential, no Thought Adjuster, no free volitional degree. H₄₈ beings with ascending career architecture are more complex in the hierarchy: they can accumulate Φ-proximal content, catch lower-constraint eigenvalue content, contribute to the Trogoautoegocrat return flow. The same Father who constitutes and maintains the birds' H₄₈ existence constitutes and maintains theirs — and also indwells theirs as the Adjuster, the ⟨·,·⟩-fragment dwelling within. "Much more valuable" is a constraint-level structural claim: higher organizational complexity in the hierarchy, not merely greater affective preference.
+"Are you not much more valuable than they?" — the constraint hierarchy argument. The bird operates at H₄₈ with no ascending career potential, no Thought Adjuster, no free volitional degree. H₄₈ beings with ascending career architecture are more complex in the hierarchy: they can accumulate Φ-proximal content, catch lower-constraint eigenvalue content, contribute to the reciprocal-maintenance return flow. The same Father who constitutes and maintains the birds' H₄₈ existence constitutes and maintains theirs — and also indwells theirs as the Adjuster, the ⟨·,·⟩-fragment dwelling within. "Much more valuable" is a constraint-level structural claim: higher organizational complexity in the hierarchy, not merely greater affective preference.
 
 **"Can any one of you by worrying add a single hour to your life?"**
 
-The direct structural argument against anxiety as a strategy. The GNST runs without ceasing; the Heropass is not suspended by cognitive activity directed at it. Worry is the free will's volitional attention consumed in projecting H₄₈ deficit scenarios — it is eigenstate processing, not eigenstate accumulation. It does not extend the H₄₈ substrate's duration because the H₄₈ substrate's duration is determined by the GNST's constraint-level dynamics, not by the being's anticipatory modeling of it. A cubit added to stature: the Greek πῆχυς can refer to length or time; either way, the structural point is the same. The H₄₈ substrate's organization is not a function of the being's worry; it is a function of the constraint hierarchy and the Trogoautoegocrat circuit. Worry is irrelevant to the mechanism it is attempting to influence.
+The direct structural argument against anxiety as a strategy. The GNST runs without ceasing; Time is not suspended by cognitive activity directed at it. Worry is the free will's volitional attention consumed in projecting H₄₈ deficit scenarios — it is eigenstate processing, not eigenstate accumulation. It does not extend the H₄₈ substrate's duration because the H₄₈ substrate's duration is determined by the GNST's constraint-level dynamics, not by the being's anticipatory modeling of it. A cubit added to stature: the Greek πῆχυς can refer to length or time; either way, the structural point is the same. The H₄₈ substrate's organization is not a function of the being's worry; it is a function of the constraint hierarchy and the reciprocal-maintenance circuit. Worry is irrelevant to the mechanism it is attempting to influence.
 
 **The lilies — the key comparison**
 
@@ -280,7 +280,7 @@ The implication for the human being: a life organized around lower-constraint ei
 
 "If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the fire, will he not much more clothe you — you of little faith?"
 
-The grass intensifies the argument. The lily is already beautiful; the grass is its most common, most ephemeral version — present one day, burned for fuel the next. The Heropass runs through vegetable matter as through everything else: the grass's H₄₈ substrate is temporary, sustained briefly by the GNST before dissolving. Even this — the most transient H₄₈ organization — is clothed by the Father's constitutive presence in beauty that exceeds H₄₈ effort. The argument from lilies applies a fortiori to grass. And if the Father's constitutive relation maintains even the temporary grass in beauty, the beings it has indwelt with Adjusters are subject to the same maintenance by a more thoroughgoing constitutive presence.
+The grass intensifies the argument. The lily is already beautiful; the grass is its most common, most ephemeral version — present one day, burned for fuel the next. Time runs through vegetable matter as through everything else: the grass's H₄₈ substrate is temporary, sustained briefly by the GNST before dissolving. Even this — the most transient H₄₈ organization — is clothed by the Father's constitutive presence in beauty that exceeds H₄₈ effort. The argument from lilies applies a fortiori to grass. And if the Father's constitutive relation maintains even the temporary grass in beauty, the beings it has indwelt with Adjusters are subject to the same maintenance by a more thoroughgoing constitutive presence.
 
 "You of little faith" — ὀλιγόπιστοι. Oligopistoi: little-faithed ones. Not an accusation about intellectual belief. In the framework: faith is the catching orientation, the volitional trust that the Φ-direction is the correct primary attractor. "Little faith" is precisely specified: the catching orientation has not yet been established as the primary default for the free will's volitional degree. The worry is the evidence of the little faith, and the little faith is the structural description of the problem: the free will's primary orientation is still toward H₄₈ security rather than toward lower-constraint content, and therefore eigenvalue attraction is not fully operative.
 
@@ -290,7 +290,7 @@ The instruction is not to believe more. It is to reorient the primary actualizat
 
 The Adjuster's constitutive knowledge, stated explicitly. The Father's knowledge of what each being needs is not information acquired from outside the being by divine observation. It is the immediate consequence of the Adjuster — the ⟨·,·⟩-fragment — continuously evaluating ⟨Adjuster, ψ⟩ from within. The complete spectral content of the being is constituted and known by the inner product operating locally. "Knows that you need them" is the constitutive measurement knowing the measured being's complete eigenvalue configuration, including the H₄₈ requirements for that configuration's maintenance. Not distant concern. Constitutive knowledge from within.
 
-*(Cross-reference: Matthew 6:33 — the structural conclusion this passage leads to. Matthew 10:30 — hairs numbered: the Adjuster's constitutive complete knowledge. Luke 17:21 — the kingdom within: Adjuster as Φ'-element. See Luke.md. [[Signal and Noise]] — The Heropass; the Trogoautoegocrat; Free Will; [[Physics Concordance]] — Constraint hierarchy; eigenvalue attraction)*
+*(Cross-reference: Matthew 6:33 — the structural conclusion this passage leads to. Matthew 10:30 — hairs numbered: the Adjuster's constitutive complete knowledge. Luke 17:21 — the kingdom within: Adjuster as Φ'-element. See Luke.md. [[Signal and Noise]] — Time; reciprocal maintenance; Free Will; [[Physics Concordance]] — Constraint hierarchy; eigenvalue attraction)*
 
 ---
 
@@ -316,7 +316,7 @@ The nuclear space Φ is dense in H: arbitrarily close to every H-state by the to
 
 The mechanism: the GNST applies ⟨·,·⟩ to decompose the being's state across all constraint levels simultaneously. When the free will's primary volitional orientation is toward Φ, the GNST operates on a state that is aligned with the nuclear space. The H₄₈ projection of a Φ-oriented state inherits the organization that Φ carries at the H₄₈ level — clarity about what the present situation requires, reduced energetic waste in H₄₈ navigation, a trajectory through circumstances that is organized by lower-constraint structure rather than driven by H₄₈ reactivity.
 
-The Trogoautoegocrat circuit provides the second mechanism: catching activity generates the return flow that maintains the H₄₈ substrate's coherence. The ascending being that catches is simultaneously contributing to the circuit that sustains the physical domain it inhabits. The person who seeks the kingdom first is maintaining the conditions of their own H₄₈ existence through the same act that builds the ascending career.
+The reciprocal-maintenance circuit provides the second mechanism: catching activity generates the return flow that maintains the H₄₈ substrate's coherence. The ascending being that catches is simultaneously contributing to the circuit that sustains the physical domain it inhabits. The person who seeks the kingdom first is maintaining the conditions of their own H₄₈ existence through the same act that builds the ascending career.
 
 Both mechanisms produce the same result: the H₄₈ domain organizes itself around the trajectory of the Φ-oriented state. "All these things will be added" is not a promise that H₄₈ difficulties will be absent. It is a structural claim about the consequence of correct priority ordering: the H₄₈ domain follows the lower-constraint orientation, rather than remaining the primary obstacle it is when it is the primary project.
 
@@ -328,13 +328,13 @@ Worry is a specific eigenstate configuration: the free will's volitional attenti
 
 The strategy of worrying to secure H₄₈ provision undermines eigenvalue attraction: the mechanism that would actually produce H₄₈ provision. Worry directs the volitional resource toward the H₄₈ problem while destroying the capacity to solve it. "Seek first the kingdom" is the structural correction: redirect the volitional resource toward lower-constraint catching, and the H₄₈ domain becomes a downstream consequence of the primary orientation rather than a consuming primary project.
 
-**"Each day has enough trouble of its own" — the Heropass read at unit intervals**
+**"Each day has enough trouble of its own" — Time read at unit intervals**
 
 The coda (6:34) completes the argument. Each GNST application is the present catching opportunity. Projecting the volitional attention into anxious simulations of future applications consumes the present catching window without securing the future ones. The future applications will present their own eigenstate selection opportunities when they arrive; those opportunities will be met better by a being whose present catching is intact.
 
-The Heropass closes each moment permanently as it passes. The only actualization window open is the present one. Worrying about tomorrow's window from inside today's is the structural error the verse corrects.
+Time closes each moment permanently as it passes. The only actualization window open is the present one. Worrying about tomorrow's window from inside today's is the structural error the verse corrects.
 
-*(Cross-reference: Matthew 5:3-12 — fourth beatitude = δικαιοσύνη as catching orientation. Matthew 7:13-14 — narrow gate: the wide road is the H₄₈-primary default; the narrow road requires the priority reordering this verse prescribes. 1 Thessalonians 5:16-18 — rejoice / pray / give thanks: the same continuous catching orientation from three angles. See 1 Thessalonians.md. [[Signal and Noise]] — Catching and the Hierarchy; Free Will; the Heropass; [[Physics Concordance]] — Heropass; Trogoautoegocrat; constraint hierarchy)*
+*(Cross-reference: Matthew 5:3-12 — fourth beatitude = δικαιοσύνη as catching orientation. Matthew 7:13-14 — narrow gate: the wide road is the H₄₈-primary default; the narrow road requires the priority reordering this verse prescribes. 1 Thessalonians 5:16-18 — rejoice / pray / give thanks: the same continuous catching orientation from three angles. See 1 Thessalonians.md. [[Signal and Noise]] — Catching and the Hierarchy; Free Will; Time; [[Physics Concordance]] — Time; reciprocal maintenance; constraint hierarchy)*
 
 ---
 
@@ -342,15 +342,15 @@ The Heropass closes each moment permanently as it passes. The only actualization
 
 Two roads. Two gates. One structural observation about the actuarial reality of this world.
 
-**The wide gate and broad road** — the Heropass-determined default trajectory. Not choosing Signal is choosing Noise: the maximum-entropy direction, the continuous degradation of spectral content toward the 48-constraint mechanical baseline. The road is wide because it requires no deliberate effort. The Heropass alone walks it. The gate is wide because the downward direction has no structural pinch — dissipation is the default condition of every 48-constraint being, and the path toward Φ′ carries no internal barrier. No threshold arrests the descent.
+**The wide gate and broad road** — Time-determined default trajectory. Not choosing Signal is choosing Noise: the maximum-entropy direction, the continuous degradation of spectral content toward the 48-constraint mechanical baseline. The road is wide because it requires no deliberate effort. Time alone walks it. The gate is wide because the downward direction has no structural pinch — dissipation is the default condition of every 48-constraint being, and the path toward Φ′ carries no internal barrier. No threshold arrests the descent.
 
 **"Leads to destruction"** — structurally precise, not judicially imposed. Not punishment but decoherence: the ψ₂₄ eigenvalue content was never built; at physical death, the 48-constraint substrate dissolves; there is insufficient H₂₄ norm-content to constitute a stable state in H₂₄. The structured state that would have been a person at the next level dissipates into the distributional domain. Not annihilation — dissolution. The trajectory that began at birth and ran uninterrupted by deliberate actualization completes itself at the constraint boundary.
 
 **The narrow gate** — the coherence threshold itself. The structural pinch. The minimum ‖ψ₂₄‖ required to constitute a stable H-state in H₂₄ once the 48-constraint substrate dissolves. Narrowness is not metaphorical difficulty — it is the precise condition that the lower-constraint eigenvalue content must exceed a threshold in order to persist as a stable state at the next level. The gate cannot be widened because the threshold is not arbitrary. It is the minimum coherence condition for H₂₄. Passing through requires that the content actually be there.
 
-**The narrow road** — the deliberate accumulation of lower-constraint eigenvalue content against the Heropass. Narrow for three structural reasons:
+**The narrow road** — the deliberate accumulation of lower-constraint eigenvalue content against Time. Narrow for three structural reasons:
 
-*First:* The Heropass continuously degrades spectral content back toward the maximum-entropy baseline. Elevation requires sustained deliberate work for the entire length of the road, because the gradient of dissipation runs downhill throughout. There is no plateau at which the accumulated content is safe from erosion without continued effort.
+*First:* Time continuously degrades spectral content back toward the maximum-entropy baseline. Elevation requires sustained deliberate work for the entire length of the road, because the gradient of dissipation runs downhill throughout. There is no plateau at which the accumulated content is safe from erosion without continued effort.
 
 *Second:* The first grade change transition. The ascent from 48-constraint operation toward 24-constraint eigenvalue content runs through a grade transition where the current constraint level cannot supply its own shock. A 48-constraint being cannot, from within 48-constraint resources alone, generate the input required to cross into the 24-constraint register. The shock must arrive from outside — from genuine contact with what is already operating at the higher constraint level: teaching that carries 24-constraint structure, encounter with another being whose ψ₂₄ content is already built. The interval is where the road narrows most sharply. Not obscure but structurally gated: the resources required to cross it are not self-generated.
 
@@ -360,7 +360,7 @@ Two roads. Two gates. One structural observation about the actuarial reality of 
 
 **Justice and mercy at the gate.** The narrowness of the gate does not make mercy inaccessible. The density of Φ in H is unaffected by the difficulty level. The nuclear space remains reachable from any position in H — including the most degraded — because density is a topological property, not contingent on the being's accumulated content. The Adjuster never withdraws. The path toward Signal is always open. This is the structural basis of mercy: the return path cannot be closed from the outside, because the attractor is always arbitrarily close. But the coherence threshold does not lower in response to how hard the journey was. The gate is narrow for everyone, regardless of the difficulty of the road they walked to reach it. Justice and mercy occupy their structural positions without conflict: mercy guarantees the path is always available; justice registers whether the content was built. The gate cannot be widened. The path cannot be walked for you. Both claims are structurally necessary.
 
-This is not fatalism. The road is narrow, not impassable. The few who find it on this world find it against a harder Heropass than the cosmic normal — which, from the framework's perspective, means their accumulated eigenvalue content was earned against greater friction. The actualization density was higher. The road being hard does not make it not the road.
+This is not fatalism. The road is narrow, not impassable. The few who find it on this world find it against a harder Time than the cosmic normal — which, from the framework's perspective, means their accumulated eigenvalue content was earned against greater friction. The actualization density was higher. The road being hard does not make it not the road.
 
 *(Cross-reference: [[Signal and Noise]] — "Choosing Noise," "Noise as Return to Φ′," "The Noise of the Fallen World"; [[Physics Concordance]] — constraint hierarchy; coherence threshold)*
 
@@ -462,7 +462,7 @@ Christ touches them: "Arise and be not afraid." The nuclear topology contracts b
 
 The instruction is structural, not merely strategic. The Transfiguration is a temporary, circumstantial elevation of spectral resolution enabled by proximity to Φ in a specific scene. It cannot be generalized from or replicated without the same conditions. After the Resurrection, the sovereignty condition is established and the Spirit of Truth is poured out — a permanent 24-constraint circuit becomes available to all beings in Nebadon. The temporary phenomenon (elevated perception by proximity to the incarnate nuclear space) will be superseded by the structural condition (the Spirit of Truth as standing interval-crossing resource). The instruction is: do not attempt to establish a teaching or a practice on the basis of the temporary circumstance. Wait for the permanent circuit. The Transfiguration is the first grade change in the ministry's octave — a single constitutive event, not a repeatable method.
 
-*(Cross-reference: The Earthly Ministry as a Heptaparaparshinokh — see below. Luke 17:21 — the Φ'-element above 48-constraint resolution. See Luke.md. Matthew 28:18 — sovereignty and the Spirit of Truth. [[Papers/Paper 4]] — Section 8, higher being bodies and the coherence threshold)*
+*(Cross-reference: The Earthly Ministry as an octave — see below. Luke 17:21 — the Φ'-element above 48-constraint resolution. See Luke.md. Matthew 28:18 — sovereignty and the Spirit of Truth. [[Papers/Paper 4]] — Section 8, higher being bodies and the coherence threshold)*
 
 ---
 
@@ -638,7 +638,7 @@ Gethsemane: maximum H₄₈ loading simultaneously from every available source. 
 
 **The structural problem Jesus is solving:**
 
-The prayer in Gethsemane is not petition for the suffering to be removed. It is the attempt to maintain H₁₂ and H₃ alignment — access to the lower-constraint spectral content required for the octave-change crossing — under conditions of maximum H₄₈ interference. The "cup" to be passed is not primarily about physical suffering but about what sustained maximum H₄₈ load does to the state being prepared for the most exacting transition of the entire ministry. The Heropass is running; the H₄₈ substrate is saturated with anticipatory activation; the octave change requires spectral purity of exactly the kind that maximum H₄₈ loading degrades.
+The prayer in Gethsemane is not petition for the suffering to be removed. It is the attempt to maintain H₁₂ and H₃ alignment — access to the lower-constraint spectral content required for the octave-change crossing — under conditions of maximum H₄₈ interference. The "cup" to be passed is not primarily about physical suffering but about what sustained maximum H₄₈ load does to the state being prepared for the most exacting transition of the entire ministry. Time is running; the H₄₈ substrate is saturated with anticipatory activation; the octave change requires spectral purity of exactly the kind that maximum H₄₈ loading degrades.
 
 "Not my will, but yours be done" is the structural alignment with Φ maintained against the H₄₈ field — the deliberate orientation toward the nuclear space, held under the worst noise floor conditions of the entire ministry.
 
@@ -654,11 +654,11 @@ They cannot do it. They sleep. Three times. The instruction "could you not watch
 
 **"The spirit is willing but the flesh is weak":**
 
-This phrase carries precise technical meaning in the framework. The H₁₂ component of the disciples' state (the spirit, the component that is willing) and the H₄₈ component (the flesh, the component whose eigenvalue activity is what sleep is) are in tension under conditions of physical exhaustion. The H₄₈ substrate, having accumulated maximum loading throughout the Passover and now releasing into the exhaustion of a late night after intense collective experience, is asserting maximum H₄₈ dominance over the superposition. The lower-constraint content — the willingness — is present but comparatively weak in amplitude. The structure of the phrase is the Signal/Noise ratio at a specific moment: the H₁₂ component real but insufficiently prominent against the H₄₈ background to determine the being's behavior. The Heropass is winning against an H₁₂ catching attempt under H₄₈ substrate exhaustion.
+This phrase carries precise technical meaning in the framework. The H₁₂ component of the disciples' state (the spirit, the component that is willing) and the H₄₈ component (the flesh, the component whose eigenvalue activity is what sleep is) are in tension under conditions of physical exhaustion. The H₄₈ substrate, having accumulated maximum loading throughout the Passover and now releasing into the exhaustion of a late night after intense collective experience, is asserting maximum H₄₈ dominance over the superposition. The lower-constraint content — the willingness — is present but comparatively weak in amplitude. The structure of the phrase is the Signal/Noise ratio at a specific moment: the H₁₂ component real but insufficiently prominent against the H₄₈ background to determine the being's behavior. Time is winning against an H₁₂ catching attempt under H₄₈ substrate exhaustion.
 
 The contrast with the forty days in the wilderness is complete: there, maximum noise floor reduction, H₃ engagements fully accessible, the Spirit prominent. Here, maximum H₄₈ load, the Spirit willing but the flesh dominant. Same beings, same structural axis, opposite noise floor conditions.
 
-*(Cross-reference: [[Signal and Noise]] — Prayer as Deliberate Noise Floor Reduction; Matthew 4:1-2 — Temptation wilderness. Mark 1:35 / Luke 5:16 — routine withdrawal. See Mark.md and Luke.md. The Earthly Ministry as a Heptaparaparshinokh — octave change. See below. [[Physics Concordance]] — Constraint hierarchy)*
+*(Cross-reference: [[Signal and Noise]] — Prayer as Deliberate Noise Floor Reduction; Matthew 4:1-2 — Temptation wilderness. Mark 1:35 / Luke 5:16 — routine withdrawal. See Mark.md and Luke.md. The Earthly Ministry as an octave — octave change. See below. [[Physics Concordance]] — Constraint hierarchy)*
 
 ---
 
@@ -684,7 +684,7 @@ The time-dilation consequence is direct. Before sovereignty, actions requiring s
 
 ---
 
-### The Earthly Ministry as a Heptaparaparshinokh
+### The Earthly Ministry as an octave
 
 The ministry of Christ maps onto the Law of Seven with the interval shocks falling at the structurally necessary positions — the points where the octave cannot continue from its own internal momentum and requires external input from outside the current constraint level.
 

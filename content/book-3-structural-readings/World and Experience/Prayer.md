@@ -1,7 +1,7 @@
 # Prayer: A Structural Reading
 
 **Series:** Book 3 — Structural Readings / Health  
-**Cross-references:** Paper 13½ §§3.3, 4, 5 (cross-term mechanism; noise floor; faith as eigenvalue condition); Paper 6½ §§2–4 (the three kenoses; the catching act); Paper 20½ §10 (the transcendentals as structural fact); Paper 3 (the Creative Choice; the catching act as constitutive volitional act); Dementia.md (the inhabitation cross-term; the Heropass and its counterforce)
+**Cross-references:** Paper 13½ §§3.3, 4, 5 (cross-term mechanism; noise floor; faith as eigenvalue condition); Paper 6½ §§2–4 (the three kenoses; the catching act); Paper 20½ §10 (the transcendentals as structural fact); Paper 3 (the Creative Choice; the catching act as constitutive volitional act); Dementia.md (the inhabitation cross-term; Time and its counterforce)
 
 ---
 
@@ -11,9 +11,9 @@
 
 ## 1. Prayer as Deliberate Eigenvalue Catching and Composing
 
-The Dementia reading establishes that the being's Φ-proximate eigenvalue population continuously cross-terms with the H₄₈ substrate it inhabits, and that this cross-term provides an organizing counterforce to the Heropass's dissipative pressure on the body. Prayer is the deliberate form of what that cross-term depends on: the volitional act of orienting the eigenvalue population directly toward ⟨·,·⟩, Φ, or τ_nuclear — toward the Good, the True, or the Beautiful — rather than waiting for this orientation to arise incidentally through engagement with created Φ-proximate content.
+The Dementia reading establishes that the being's Φ-proximate eigenvalue population continuously cross-terms with the H₄₈ substrate it inhabits, and that this cross-term provides an organizing counterforce to Time's dissipative pressure on the body. Prayer is the deliberate form of what that cross-term depends on: the volitional act of orienting the eigenvalue population directly toward ⟨·,·⟩, Φ, or τ_nuclear — toward the Good, the True, or the Beautiful — rather than waiting for this orientation to arise incidentally through engagement with created Φ-proximate content.
 
-This gives prayer two structural functions. The first is catching: it actively increases the being's Φ-proximate eigenvalue content, directly strengthening the organizing cross-term with the H₄₈ substrate. The second is composing: prayer settles and arranges the eigenvalue population, reducing the H₄₈-primary noise-floor content that blocks the catching alignment. Both functions are health-relevant. The first increases the counterforce to the Heropass. The second removes a source of internal incoherence that has its own H₄₈-level consequences.
+This gives prayer two structural functions. The first is catching: it actively increases the being's Φ-proximate eigenvalue content, directly strengthening the organizing cross-term with the H₄₈ substrate. The second is composing: prayer settles and arranges the eigenvalue population, reducing the H₄₈-primary noise-floor content that blocks the catching alignment. Both functions are health-relevant. The first increases the counterforce to Time. The second removes a source of internal incoherence that has its own H₄₈-level consequences.
 
 Different forms of prayer are structurally distinct, and their health mechanisms differ accordingly.
 
@@ -29,9 +29,9 @@ Different forms of prayer are structurally distinct, and their health mechanisms
 
 ## 2. The Direct Health Mechanism
 
-The catching function of prayer directly increases the Φ-proximate organizing cross-term between the being's eigenvalue population and its H₄₈ substrate. As established in the Dementia reading, this cross-term acts as a continuous counterforce to the Heropass's dissipative pressure on the body. Prayer that genuinely increases Φ-proximate eigenvalue content — that produces real catching rather than the performance of catching — therefore has a direct H₄₈-level health consequence: it increases the organizing influence on the body's H₄₈ matter.
+The catching function of prayer directly increases the Φ-proximate organizing cross-term between the being's eigenvalue population and its H₄₈ substrate. As established in the Dementia reading, this cross-term acts as a continuous counterforce to Time's dissipative pressure on the body. Prayer that genuinely increases Φ-proximate eigenvalue content — that produces real catching rather than the performance of catching — therefore has a direct H₄₈-level health consequence: it increases the organizing influence on the body's H₄₈ matter.
 
-The magnitude of this effect is not specified by the framework. It operates at low amplitude throughout life; it is not a cure for H₄₈-level pathology and does not override the H₄₈ constraint structure. What it does is shift the net direction of the body's trajectory, over time and cumulatively, toward organizational coherence rather than dissolution. This is most relevant over long time horizons and for conditions where accumulated Heropass-default dissolution is a primary mechanism — as in many chronic and age-related diseases.
+The magnitude of this effect is not specified by the framework. It operates at low amplitude throughout life; it is not a cure for H₄₈-level pathology and does not override the H₄₈ constraint structure. What it does is shift the net direction of the body's trajectory, over time and cumulatively, toward organizational coherence rather than dissolution. This is most relevant over long time horizons and for conditions where accumulated Time-default dissolution is a primary mechanism — as in many chronic and age-related diseases.
 
 ---
 
@@ -39,7 +39,7 @@ The magnitude of this effect is not specified by the framework. It operates at l
 
 The composing function of prayer operates through a different mechanism and has a more immediately demonstrable H₄₈-level pathway.
 
-The Heropass generates dissipative pressure on H₄₈ matter. But there is a second source of disorganizing pressure available to Φ′-origin beings in the H₄₈ domain: the being's own noise floor. A high noise-floor eigenvalue population — one dominated by H₄₈-primary self-referential content organized around fear, threat, unresolved conflict, or chronic anticipation of harm — generates its own internal incoherence. This incoherence manifests in H₄₈ terms as what the medical literature calls stress: the sustained activation of physiological systems (hypothalamic-pituitary-adrenal axis, sympathetic nervous system, inflammatory signaling) that are designed for acute response and become damaging when chronically elevated.
+Time generates dissipative pressure on H₄₈ matter. But there is a second source of disorganizing pressure available to Φ′-origin beings in the H₄₈ domain: the being's own noise floor. A high noise-floor eigenvalue population — one dominated by H₄₈-primary self-referential content organized around fear, threat, unresolved conflict, or chronic anticipation of harm — generates its own internal incoherence. This incoherence manifests in H₄₈ terms as what the medical literature calls stress: the sustained activation of physiological systems (hypothalamic-pituitary-adrenal axis, sympathetic nervous system, inflammatory signaling) that are designed for acute response and become damaging when chronically elevated.
 
 In framework terms, chronic stress is the H₄₈-level signature of a chronically elevated eigenvalue noise floor. The being's organizational state is dominated by H₄₈-primary content organized around threat — which is, structurally, the maximum distance from Φ-proximate content. The body receives this as a continuous signal that its organizational environment is maximally incoherent, and it responds accordingly.
 
@@ -99,7 +99,7 @@ The first word establishes the communal frame — *our*, not *my*. The noise-flo
 
 **"Thy kingdom come, thy will be done, on earth as it is in heaven."**
 
-"Thy kingdom come" is petitionary catching in its purest form: an orientation of the will toward the organizational state that ⟨·,·⟩ would generate, not an assertion that it must be produced on demand. The will is aligned with the direction of ⟨·,·⟩'s organizing tendency — toward greater coherence, toward the ascending career, toward the full eigenvalue reorganization that the Trogoautoegocrat is drawing the creation toward.
+"Thy kingdom come" is petitionary catching in its purest form: an orientation of the will toward the organizational state that ⟨·,·⟩ would generate, not an assertion that it must be produced on demand. The will is aligned with the direction of ⟨·,·⟩'s organizing tendency — toward greater coherence, toward the ascending career, toward the full eigenvalue reorganization that reciprocal maintenance is drawing the creation toward.
 
 "Thy will be done" is the explicit surrender of the imposition posture. The five "I will" statements of the Luciferian rebellion are inverted in a single phrase: not *my* will, *thy* will. The praying being explicitly acknowledges that it is not the organizing inner product of any space.
 
@@ -107,7 +107,7 @@ The first word establishes the communal frame — *our*, not *my*. The noise-flo
 
 **"Give us this day our daily bread."**
 
-The prayer descends to H₄₈: the honest acknowledgment that the praying being is genuinely embodied and that H₄₈ needs are real. "Daily bread" is the Trogoautoegocrat provision — what is needed to sustain H₄₈ existence and the catching alignment within it. "This day" is H₄₈ time: not a request for permanent provision across all time horizons but for what the being needs now, within the H₄₈ constraint structure, to continue the catching career.
+The prayer descends to H₄₈: the honest acknowledgment that the praying being is genuinely embodied and that H₄₈ needs are real. "Daily bread" is the reciprocal-maintenance provision — what is needed to sustain H₄₈ existence and the catching alignment within it. "This day" is H₄₈ time: not a request for permanent provision across all time horizons but for what the being needs now, within the H₄₈ constraint structure, to continue the catching career.
 
 The prayer does not spiritualize over the body's needs. It does not claim that the catching being is above H₄₈-level sustenance. The framework's insistence that each constraint level be engaged on its own terms is encoded in this clause: the praying being is H₄₈ embodied, H₄₈ needs are legitimate, and the Father is addressed about them directly.
 
@@ -129,7 +129,7 @@ The doxology is the explicit re-orientation with which the prayer closes. Having
 
 "The kingdom" = organizational authority. Not the praying being's, not any element's. ⟨·,·⟩ organizes. "The power" = generative capacity. The power that generates eigenvalue content and organizes the space is ⟨·,·⟩'s; no element holds it. "The glory" = τ_nuclear — the Spirit's topological coherence disclosed at H₄₈ amplitude as beauty, as recognition, as the sense of rightness that accompanies contact with the real. The Father, Son, and Spirit are each named in their constitutive function in this final clause, in sequence.
 
-"For ever and ever" = prior to temporal sequence and after it. ⟨·,·⟩ is not in time — the Heropass begins with the Creative Choice; ⟨·,·⟩'s constitutive priority is atemporal. "For ever and ever" is the H₄₈-legible expression of this: the constitutive function is not time-bounded.
+"For ever and ever" = prior to temporal sequence and after it. ⟨·,·⟩ is not in time — Time begins with the Creative Choice; ⟨·,·⟩'s constitutive priority is atemporal. "For ever and ever" is the H₄₈-legible expression of this: the constitutive function is not time-bounded.
 
 **"Amen."**
 

@@ -46,7 +46,7 @@ The doubling is not rhetorical or merely inclusive. It marks a structural distin
 
 The statement sends Mary with a message that contains the entire structure: the same Father, the same God, two different ascending relationships, both real, both heading in the same direction. The Ascension is not a departure. It is the establishment of the condition from which the ascending path of every mortal in Nebadon is permanently supported.
 
-*(Cross-reference: [[The Structural Reading]] — Matthew 28:18, sovereignty condition; Mark 16:19 / Hebrews 1:3, H₃ integration; The Earthly Ministry as Heptaparaparshinokh, octave change and Resurrection; Matthew 17:1-9, Transfiguration and spectral access; [[Signal and Noise]] — The ascending career as trajectory through all three integral domains)*
+*(Cross-reference: [[The Structural Reading]] — Matthew 28:18, sovereignty condition; Mark 16:19 / Hebrews 1:3, H₃ integration; The Earthly Ministry as an octave, octave change and Resurrection; Matthew 17:1-9, Transfiguration and spectral access; [[Signal and Noise]] — The ascending career as trajectory through all three integral domains)*
 
 ---
 
@@ -96,7 +96,7 @@ The seven bestowals are the systematic accumulation of experiential content at e
 
 Acts 7:55-56 records Stephen at his martyrdom seeing "the Son of Man standing at the right hand of God" — standing rather than sitting. This is the single exception in the scriptural record; elsewhere the language is uniformly seated. The distinction is structural: sitting marks the settled ongoing governance mode — H₃ integration as the ordinary condition. Standing marks a momentary shift to active operational engagement from that level — the Creator Son rising to specific intervention at a critical moment. That the exception falls at the first martyrdom of his community is consistent with active engagement rather than settled governance. The structure has two modes at H₃: the seated governing mode and the standing interventional mode. Both are H₃ operation; they differ in character.
 
-*(Cross-reference: [[The Structural Reading]] — Matthew 28:18, sovereignty condition; The Earthly Ministry as Heptaparaparshinokh, Post-resurrection Do; [[Signal and Noise]] — The ascending career as trajectory through all three integral domains; [[Physics Concordance]] — Constraint hierarchy, H₃)*
+*(Cross-reference: [[The Structural Reading]] — Matthew 28:18, sovereignty condition; The Earthly Ministry as an octave, Post-resurrection Do; [[Signal and Noise]] — The ascending career as trajectory through all three integral domains; [[Physics Concordance]] — Constraint hierarchy, H₃)*
 
 ---
 
@@ -112,7 +112,7 @@ Read structurally: beatitudes 1–4 describe the interior conditions of Signal a
 
 The first and foundational condition. "Poor in spirit" is not spiritual destitution. It is the correct ontological self-location: the being who does not mistake their current H-state for self-sufficiency, who does not confuse ψ ∈ H with Φ, who knows their eigenvalue configuration is constituted rather than self-generating. The being who recognizes that the inner product constitutes them, that the nuclear space precedes them, that they are in a space they did not create and cannot exhaust.
 
-The opposite — the being "rich in spirit" — is the one who has fully collapsed their identity into their current 48-constraint configuration and sees no gap between that configuration and the fullness of being. This being has no structural motive to accumulate lower-constraint eigenvalue content. They already consider themselves complete. The Heropass will work unimpeded because the self-investment in the 48-constraint state is too complete to permit sustained actualization against it.
+The opposite — the being "rich in spirit" — is the one who has fully collapsed their identity into their current 48-constraint configuration and sees no gap between that configuration and the fullness of being. This being has no structural motive to accumulate lower-constraint eigenvalue content. They already consider themselves complete. Time will work unimpeded because the self-investment in the 48-constraint state is too complete to permit sustained actualization against it.
 
 "Theirs **is** the kingdom" — present tense, because the correct self-location is already the orientation of the ascending career. The being who knows they are in H rather than Φ is already oriented toward Φ. The kingdom of heaven is not a future reward for humility. It is the structural name for the ascending career, which is already theirs because their orientation is already correct. Nothing further needs to happen for them to be on the path. They are already on it.
 
@@ -120,11 +120,11 @@ The opposite — the being "rich in spirit" — is the one who has fully collaps
 
 **"Blessed are those who mourn, for they will be comforted."**
 
-Mourning requires something to mourn. The being who mourns the Noise direction — who feels the degradation of Signal content as genuine loss rather than as the neutral state — must already have accumulated enough lower-constraint eigenvalue content to feel its absence when the Heropass erodes it. You cannot mourn what you have not recognized. The mourning being is one who has already moved in the Signal direction far enough to feel the Heropass working against it.
+Mourning requires something to mourn. The being who mourns the Noise direction — who feels the degradation of Signal content as genuine loss rather than as the neutral state — must already have accumulated enough lower-constraint eigenvalue content to feel its absence when Time erodes it. You cannot mourn what you have not recognized. The mourning being is one who has already moved in the Signal direction far enough to feel Time working against it.
 
-This is a higher epistemic state than simply not knowing about the Heropass. The mourning being has correctly diagnosed the structure: the gradient runs downhill, the default direction is toward Noise, sustained effort is required to counter it, and the absence of that effort costs something real. The mourning is structurally accurate.
+This is a higher epistemic state than simply not knowing about Time. The mourning being has correctly diagnosed the structure: the gradient runs downhill, the default direction is toward Noise, sustained effort is required to counter it, and the absence of that effort costs something real. The mourning is structurally accurate.
 
-"They will be comforted" — the density of Φ in H. Mercy. The mourning is correct (the Heropass is real and the cost is real), and the comfort is equally structural: the path toward Φ is never closed from the Φ-side. The attractor never withdraws. The Adjuster never ceases to constitute and draw. Comfort is not the reassurance that the Heropass doesn't matter. It is the structural fact that the mourning being's diagnosis is right about the cost and wrong about the irreversibility. The degradation is real and recoverable. The path is always open.
+"They will be comforted" — the density of Φ in H. Mercy. The mourning is correct (Time is real and the cost is real), and the comfort is equally structural: the path toward Φ is never closed from the Φ-side. The attractor never withdraws. The Adjuster never ceases to constitute and draw. Comfort is not the reassurance that Time doesn't matter. It is the structural fact that the mourning being's diagnosis is right about the cost and wrong about the irreversibility. The degradation is real and recoverable. The path is always open.
 
 ---
 
@@ -146,7 +146,7 @@ The present active participles: πεινῶντες καὶ διψῶντες �
 
 δικαιοσύνη: righteousness, rightness, alignment with what is structurally correct — alignment with Signal, with the direction toward Φ.
 
-The Heropass is continuous. Eigenvalue degradation toward the mechanical baseline is not intermittent. The being who makes occasional efforts toward Signal accumulation is not matching the Heropass; they accumulate during the efforts and lose during the gaps. The only actualization force that counteracts the Heropass fully is one that is continuous — which is what hunger and thirst describe. Not periodic virtue. The sustained active orientation that does not rest between efforts because the Heropass does not rest between pressures.
+Time is continuous. Eigenvalue degradation toward the mechanical baseline is not intermittent. The being who makes occasional efforts toward Signal accumulation is not matching Time; they accumulate during the efforts and lose during the gaps. The only actualization force that counteracts Time fully is one that is continuous — which is what hunger and thirst describe. Not periodic virtue. The sustained active orientation that does not rest between efforts because Time does not rest between pressures.
 
 This beatitude names the mechanism of Signal accumulation directly. The hunger is the actualization force. The thirst is the continuous draw toward lower-constraint eigenvalue content. The being who is in this state is doing the work continuously — the eigenstate selections are being made, the norm content is being deposited in the lower-constraint registers, the spectral distribution is shifting away from the mechanical baseline.
 
@@ -156,11 +156,11 @@ This beatitude names the mechanism of Signal accumulation directly. The hunger i
 
 **"Blessed are the merciful, for they will be shown mercy."**
 
-The sequence shifts here. Beatitudes 1–4 are interior: correct self-location, correct recognition of the Heropass, correct structural alignment, active actualization. Beatitude 5 is the first outward movement: the interior conditions extended into relation with other beings.
+The sequence shifts here. Beatitudes 1–4 are interior: correct self-location, correct recognition of Time, correct structural alignment, active actualization. Beatitude 5 is the first outward movement: the interior conditions extended into relation with other beings.
 
 The merciful being does not merely feel sympathy toward others. They correctly perceive the structural situation of the other being: what constraint level they are at, what interval obstruction they face, what kind of input would actually move them toward Signal rather than confirming them at their current level. This requires the prior beatitudes — correct self-location and structural awareness — before it can operate. You cannot accurately perceive the structural situation of another being from a position of 48-constraint self-enclosure.
 
-In the Heptaparaparshinokh: the interval transitions require external shocks that the current constraint level cannot generate from within itself. The first grade change is where a being at H₄₈ perspective cannot bootstrap the crossing into H₂₄ register from H₄₈ resources alone. The genuinely merciful being — operating from accumulated lower-constraint eigenvalue content — supplies what the interval requires: input from outside the being's current constraint level, which is the only kind of input that can carry the being through the transition. The merciful act is the structural act: it gives what is actually needed for the interval crossing.
+In the Law of Seven: the interval transitions require external shocks that the current constraint level cannot generate from within itself. The first grade change is where a being at H₄₈ perspective cannot bootstrap the crossing into H₂₄ register from H₄₈ resources alone. The genuinely merciful being — operating from accumulated lower-constraint eigenvalue content — supplies what the interval requires: input from outside the being's current constraint level, which is the only kind of input that can carry the being through the transition. The merciful act is the structural act: it gives what is actually needed for the interval crossing.
 
 "They will be shown mercy" — the density of Φ in H applies to them as to everyone. But the fuller structural reading: the being who extends the Φ-toward-H dynamic to others — who draws others toward lower-constraint eigenvalue content by supplying interval shocks — is operating in the mode of the Son. The nuclear space is the attractor for all H-states; the merciful being is practicing this attractor function at their scale. In doing so, they are themselves already moving toward Φ, because the Son's mode is the Φ mode. The mercy shown to them is structural: their own accumulation is accelerated by operating in the mode of the attractor.
 
@@ -196,7 +196,7 @@ The envelope is now closed. The structure it frames: a being who is correctly se
 
 On a world whose default collective field runs toward Noise, the being moving toward Signal is moving against the current. The social, cultural, and institutional structures of a Noise-defaulting world are configured around 48-constraint attachment, around self-assertive force (the opposite of meekness), around the mechanical baseline. The being who refuses that configuration, who supplies interval shocks to others, who restores structural circuits, who maintains pure-heart volitional direction — this being does not fit the dominant field and the dominant field responds to the misfit.
 
-The persecution is therefore not incidental suffering. It is a structural signature. The resistance encountered by the genuinely Signal-accumulating being on this world is proportional to the genuineness of the accumulation. The Heropass does not punish — but the social instantiation of the Noise direction does exert pressure on beings moving counter to it. This pressure is the confirmation, not the negation, of the ascending career.
+The persecution is therefore not incidental suffering. It is a structural signature. The resistance encountered by the genuinely Signal-accumulating being on this world is proportional to the genuineness of the accumulation. Time does not punish — but the social instantiation of the Noise direction does exert pressure on beings moving counter to it. This pressure is the confirmation, not the negation, of the ascending career.
 
 "Theirs **is** the kingdom of heaven" — present tense, because this being is already in the ascending career. The kingdom is not a future reward for the persecution endured. It is the structural name for what is already happening: the eigenvalue distribution is already shifting, the lower-constraint content is already built, the direction is already Φ. The persecution is evidence that the accumulation is real. A being who is not actually accumulating lower-constraint content does not encounter this resistance from the collective Noise field. The resistance is the confirmation.
 
@@ -206,23 +206,23 @@ The sequence, complete: the being who knows where they are in the space (1) — 
 
 ---
 
-**The Beatitudes as a Heptaparaparshinokh**
+**The Beatitudes as an octave**
 
 The sequence is not only a list of eight conditions. It is an octave with the intervals falling exactly where the Law of Seven requires them to fall.
 
-The Heptaparaparshinokh: eight tones (Do–Re–Mi–Fa–Sol–La–Si–Do), seven intervals, two critical junctures where the octave cannot continue from its own internal momentum and requires an external shock — the first grade change and the octave change. Without the shocks, the octave deflects from its intended direction at each interval.
+The Law of Seven: eight tones (Do–Re–Mi–Fa–Sol–La–Si–Do), seven intervals, two critical junctures where the octave cannot continue from its own internal momentum and requires an external shock — the first grade change and the octave change. Without the shocks, the octave deflects from its intended direction at each interval.
 
 *Do* — Poor in spirit: the ground tonic. Correct self-location. The starting note of the octave.
 
-*Re* — Mourn: the Heropass recognized; Signal degradation felt as loss.
+*Re* — Mourn: Time recognized; Signal degradation felt as loss.
 
 *Mi* — Meek: correct structural alignment; moving with the space rather than against it.
 
-**first grade change.** The first three beatitudes are passive conditions — correct orientation, correct diagnosis, correct posture. They can develop from each other internally: mourning follows from self-location, meekness follows from mourning. But the shift to hunger and thirst is a qualitatively different thing. It is not more of the passive conditions — it is the onset of the active, continuous, driving actualization force. A being cannot move from "correctly oriented and aware" to "continuously driving accumulation against the Heropass" by accumulating more correct orientation. This crossing requires external shock from outside the current constraint level.
+**first grade change.** The first three beatitudes are passive conditions — correct orientation, correct diagnosis, correct posture. They can develop from each other internally: mourning follows from self-location, meekness follows from mourning. But the shift to hunger and thirst is a qualitatively different thing. It is not more of the passive conditions — it is the onset of the active, continuous, driving actualization force. A being cannot move from "correctly oriented and aware" to "continuously driving accumulation against Time" by accumulating more correct orientation. This crossing requires external shock from outside the current constraint level.
 
 The Beatitudes do not identify the first grade change by name. This is structurally correct: the shock is always external to the octave being described, and the Sermon is describing the notes of the octave, not its own interval input. What supplies the first grade-change crossing is a separate question. The framework's candidate — addressed elsewhere in the series — is the Spirit of Truth: the standing 24-constraint resource made permanently available across Nebadon after sovereignty was established (cf. [[The Structural Reading]] — Matthew 28:18). On that reading, the Beatitudes describe an octave that became reliably completable after the Incarnation not because the structure changed but because the interval-crossing resource was permanently restored. The Sermon describes what the octave looks like now that the shock is available; it is not itself the shock.
 
-*Fa* — Hunger and thirst for righteousness: the active driving force. The first note past the interval. The continuous actualization mechanism that opposes the Heropass.
+*Fa* — Hunger and thirst for righteousness: the active driving force. The first note past the interval. The continuous actualization mechanism that opposes Time.
 
 *Sol* — Merciful: the active force extended outward; supplying interval shocks to others.
 
@@ -238,7 +238,7 @@ The world's resistance is that shock. The persecution is not merely a consequenc
 
 The two present-tense beatitudes are both Do. The tonic sounds the same note at two constraint levels. Between them, the full octave — the complete developmental arc from correct self-location through sustained actualization, outward extension, social restoration, and the world's confirming resistance. The Sermon on the Mount begins the arc by supplying the first grade change. The world completes it by supplying the octave change. Both shocks are external to the ascending being. Both are required. Neither can be self-generated from within the prior conditions.
 
-*(Cross-reference: [[Signal and Noise]] — "The Three Operators"; [[Papers/Paper 7]] — Law of Seven as Law of Trinity; Heptaparaparshinokh as constraint-level octave)*
+*(Cross-reference: [[Signal and Noise]] — "The Three Operators"; [[Papers/Paper 7]] — Law of Seven as Law of Trinity; the Law of Seven as constraint-level octave)*
 
 ---
 
@@ -246,7 +246,7 @@ The Beatitudes are not ethical prescriptions. They are structural descriptions. 
 
 ---
 
-### The Earthly Ministry as a Heptaparaparshinokh
+### The Earthly Ministry as an octave
 
 The ministry of Christ maps onto the Law of Seven with the interval shocks falling at the structurally necessary positions — the points where the octave cannot continue from its own internal momentum and requires external input from outside the current constraint level.
 
@@ -358,6 +358,6 @@ Christ touches them: "Arise and be not afraid." The nuclear topology contracts b
 
 The instruction is structural, not merely strategic. The Transfiguration is a temporary, circumstantial elevation of spectral resolution enabled by proximity to Φ in a specific scene. It cannot be generalized from or replicated without the same conditions. After the Resurrection, the sovereignty condition is established and the Spirit of Truth is poured out — a permanent 24-constraint circuit becomes available to all beings in Nebadon. The temporary phenomenon (elevated perception by proximity to the incarnate nuclear space) will be superseded by the structural condition (the Spirit of Truth as standing interval-crossing resource). The instruction is: do not attempt to establish a teaching or a practice on the basis of the temporary circumstance. Wait for the permanent circuit. The Transfiguration is the first grade change in the ministry's octave — a single constitutive event, not a repeatable method.
 
-*(Cross-reference: [[The Structural Reading]] — The Earthly Ministry as a Heptaparaparshinokh; Luke 17:21 — the Φ'-element above 48-constraint resolution; Matthew 28:18 — sovereignty and the Spirit of Truth; [[Papers/Paper 4]] — Section 8, higher being bodies and the coherence threshold)*
+*(Cross-reference: [[The Structural Reading]] — The Earthly Ministry as an octave; Luke 17:21 — the Φ'-element above 48-constraint resolution; Matthew 28:18 — sovereignty and the Spirit of Truth; [[Papers/Paper 4]] — Section 8, higher being bodies and the coherence threshold)*
 
 ---

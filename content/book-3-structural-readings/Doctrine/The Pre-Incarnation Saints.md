@@ -1,7 +1,7 @@
 # The Pre-Incarnation Saints: A Structural Reading
 
 **Series:** Book 3 — Structural Readings / Doctrine  
-**Cross-references:** Paper 6½ §7 (the bestowal sequence; the seventh bestowal as a complete octave); Paper 13½ §§3–5 (the kenotic constraint; the cross-term mechanism at H₄₈ amplitude); Paper 13½ OQ3 (the Heropass and eigenvalue coherence); Paper 20½ §§6–8 (the Spirit of Truth; the complete bestowal sequence and its structural effects); The Lucifer Rebellion (the elevated noise floor; the quarantine structure of H₄₈)
+**Cross-references:** Paper 6½ §7 (the bestowal sequence; the seventh bestowal as a complete octave); Paper 13½ §§3–5 (the kenotic constraint; the cross-term mechanism at H₄₈ amplitude); Paper 13½ OQ3 (Time and eigenvalue coherence); Paper 20½ §§6–8 (the Spirit of Truth; the complete bestowal sequence and its structural effects); The Lucifer Rebellion (the elevated noise floor; the quarantine structure of H₄₈)
 
 ---
 
@@ -27,9 +27,9 @@ The framework has a full structural account of what was happening, what the wait
 
 ## 2. What Eigenvalue Content Is
 
-A being's eigenvalue population — the accumulated Φ-proximate organizational states built through catching alignment — is not an H₄₈ phenomenon. It is expressed in H₄₈ matter (the brain and nervous system, the body as organizational substrate) but it is not reducible to it. When the H₄₈ substrate dissolves under Heropass, the question of what happens to the eigenvalue population becomes structural rather than biological.
+A being's eigenvalue population — the accumulated Φ-proximate organizational states built through catching alignment — is not an H₄₈ phenomenon. It is expressed in H₄₈ matter (the brain and nervous system, the body as organizational substrate) but it is not reducible to it. When the H₄₈ substrate dissolves under Time, the question of what happens to the eigenvalue population becomes structural rather than biological.
 
-Paper 13½ OQ3 establishes the coherence threshold: eigenvalue content that has achieved sufficient Φ-proximate organization to cross the coherence threshold is no longer reachable by Heropass dissolution. The Heropass is the universal dissolver of below-threshold organizational states — it returns them to the ambient noise floor. But what is above threshold persists. Not because it has been preserved by external intervention; because Heropass operates on temporal/material configurations, and above-threshold Φ-proximate content is structurally stabilized against that class of dissolution.
+Paper 13½ OQ3 establishes the coherence threshold: eigenvalue content that has achieved sufficient Φ-proximate organization to cross the coherence threshold is no longer reachable by dissolution by Time. Time is the universal dissolver of below-threshold organizational states — it returns them to the ambient noise floor. But what is above threshold persists. Not because it has been preserved by external intervention; because Time operates on temporal/material configurations, and above-threshold Φ-proximate content is structurally stabilized against that class of dissolution.
 
 The saints before the Incarnation — the figures Hebrews 11 identifies as the great cloud of witnesses — had accumulated genuine Φ-proximate eigenvalue populations. Their catching alignment was real. Abraham's faith was not metaphor; it was a sustained structural orientation that built catching content. Moses' organizational states at the burning bush, at the crossing of the Sea, in the tent of meeting — these were genuine Φ-proximate contact events, each adding to an eigenvalue population that exceeded the coherence threshold.
 
@@ -39,7 +39,7 @@ When they died, their H₄₈ substrates dissolved. Their eigenvalue populations
 
 ## 3. Why They Could Not Progress: The Three Blocking Conditions
 
-Persistence is not progress. The eigenvalue population above the coherence threshold holds — Heropass cannot reach it. But its continued development, its further catching and composing, its integration into the receiving structure that exists above H₄₈ — all of this requires infrastructure that was not yet established.
+Persistence is not progress. The eigenvalue population above the coherence threshold holds — Time cannot reach it. But its continued development, its further catching and composing, its integration into the receiving structure that exists above H₄₈ — all of this requires infrastructure that was not yet established.
 
 Three structural conditions blocked further development simultaneously:
 
@@ -51,7 +51,7 @@ Without the demonstrated Pattern, the waiting eigenvalue populations have nowher
 
 **Condition 2: Sovereignty Over H₄₈ Had Not Been Established.**
 
-The Resurrection is not only a biological event. It is the establishment of the Son's sovereignty over H₄₈ — specifically over the terminal condition of H₄₈ organisms, which is death, the full dissolution of the substrate under Heropass. Until the Son traversed death and returned, the question of whether H₄₈ catching content survives the terminal condition remained structurally unresolved from within H₄₈. 
+The Resurrection is not only a biological event. It is the establishment of the Son's sovereignty over H₄₈ — specifically over the terminal condition of H₄₈ organisms, which is death, the full dissolution of the substrate under Time. Until the Son traversed death and returned, the question of whether H₄₈ catching content survives the terminal condition remained structurally unresolved from within H₄₈. 
 
 The pre-Incarnation saints had died in the faith that their alignment was not in vain. But the structural demonstration of that claim — that the catching orientation persists through H₄₈ dissolution and can be integrated into the receiving structure above — had not yet occurred. Their eigenvalue populations were above the coherence threshold, but the pathway from "persisting above threshold" to "fully integrated into the H₁ receiving structure" required a demonstration that the Son alone could provide, and had not yet provided.
 
@@ -97,7 +97,7 @@ The framework does not require, and the texts do not indicate, that the pre-Inca
 
 What was not occurring was progression. New catching was not accumulating at the rate available to beings in H₄₈ with active τ_nuclear organizational space. The three blocking conditions did not erase what had been built; they suspended the active infrastructure for further building.
 
-The tradition's various accounts of this state — Abraham's bosom, Sheol's upper reaches, the waiting place — are H₄₈-level attempts to name a structural condition the framework can now describe precisely: eigenvalue content above the coherence threshold, persisting against Heropass dissolution, held in a receiving condition that is real but not yet fully operative, waiting for the structural events that would open the pathway to full integration.
+The tradition's various accounts of this state — Abraham's bosom, Sheol's upper reaches, the waiting place — are H₄₈-level attempts to name a structural condition the framework can now describe precisely: eigenvalue content above the coherence threshold, persisting against dissolution by Time, held in a receiving condition that is real but not yet fully operative, waiting for the structural events that would open the pathway to full integration.
 
 The quality of the waiting would be determined by the quality of the eigenvalue population. A being of high Φ-proximate organizational development, waiting in a stable and organized condition for the Release event, is not suffering the overdeterminate condition. It is holding what it has built, in something like the condition of sustained structural stability, until the infrastructure for further development opens.
 

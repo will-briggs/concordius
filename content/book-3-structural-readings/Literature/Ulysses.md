@@ -57,7 +57,7 @@ He has enormous intellectual Φ-proximity. His monologues demonstrate the capaci
 
 *(Nestor, episode 2)*
 
-**The Heropass correctly identified.** History — the accumulated consequence of the Heropass operating through human organizational structures — is felt by Stephen as a nightmare: not because history is bad in particular instances, but because history is the record of H₄₈-primary content in continuous dissolution, pressing back. The desire to "awake" from it is the desire to cross the Si/Do interval — to exit the H₄₈ constraint structure into a mode of existence not governed by the Heropass's accumulating pressure. Stephen identifies the desire correctly. He cannot perform what the desire points toward.
+**Time correctly identified.** History — the accumulated consequence of Time operating through human organizational structures — is felt by Stephen as a nightmare: not because history is bad in particular instances, but because history is the record of H₄₈-primary content in continuous dissolution, pressing back. The desire to "awake" from it is the desire to cross the Si/Do interval — to exit the H₄₈ constraint structure into a mode of existence not governed by Time's accumulating pressure. Stephen identifies the desire correctly. He cannot perform what the desire points toward.
 
 ---
 

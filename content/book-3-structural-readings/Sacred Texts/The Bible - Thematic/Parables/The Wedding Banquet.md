@@ -20,7 +20,7 @@ The first round of invitations goes to those who have been prepared for the banq
 
 The refusal is not ignorance — the invited guests know there is a banquet. It is the choice of H₄₈-primary organizational activity over the constitutive relation's invitation. The farm and the business are the thorny ground's "worries and wealth" from the Sower: genuine H₄₈-primary content that is not evil in itself but which, when prioritized over the catching alignment's call, produces the organizational trajectory that leads away from the banquet.
 
-The destruction of the city is the structural consequence of the covenantal community's rejection of the invitation — not a vindictive punishment but the terminal organizational consequence of the trajectory chosen. The community that rejects the constitutive ground's invitation ceases to be constituted by it and falls under the full Heropass dissolution that catching alignment counteracts.
+The destruction of the city is the structural consequence of the covenantal community's rejection of the invitation — not a vindictive punishment but the terminal organizational consequence of the trajectory chosen. The community that rejects the constitutive ground's invitation ceases to be constituted by it and falls under the full dissolution by Time that catching alignment counteracts.
 
 ---
 
@@ -36,7 +36,7 @@ The "good and bad" is significant: both organizational types are invited and bot
 
 This is the parable's structural crux and its most theologically contested element. The man who comes without a wedding garment is not uninvited — he was called at the crossroads like everyone else. He entered the hall. But he came without the wedding garment.
 
-Wedding garments in the ancient Near East were typically provided by the host — a guest was expected to wear what the host provided. The man's garment-lessness is not poverty; it is refusal or neglect of the organizational equipment the host makes available. The framework's structural reading: the catching alignment's organizational infrastructure — the eigenvalue development, the Trogoautoegocrat provision, the τ_nuclear organizational space that is the condition for further development — is available at the hall. The man who enters without the garment has come to the banquet while refusing the organizational form the constitutive ground provides for the banquet.
+Wedding garments in the ancient Near East were typically provided by the host — a guest was expected to wear what the host provided. The man's garment-lessness is not poverty; it is refusal or neglect of the organizational equipment the host makes available. The framework's structural reading: the catching alignment's organizational infrastructure — the eigenvalue development, the reciprocal-maintenance provision, the τ_nuclear organizational space that is the condition for further development — is available at the hall. The man who enters without the garment has come to the banquet while refusing the organizational form the constitutive ground provides for the banquet.
 
 "Many are called, few are chosen": the calling is universal (all are invited at the crossroads). The choosing is the organizational completion of the invitation — not just arriving at the banquet but being clothed in the constitutive form that makes banquet participation possible. Arriving without the garment is the Two Sons' second son at the banquet door: the declaration (I came!) without the organizational restructuring (I am wearing what the king provides).
 

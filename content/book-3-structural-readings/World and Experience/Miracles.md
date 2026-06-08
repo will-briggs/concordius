@@ -1,7 +1,7 @@
 # Miracles: A Structural Reading
 
 **Series:** Book 3 — Structural Readings / Doctrine  
-**Cross-references:** Paper 13½ §§3–6 (the kenotic constraint; the cross-term mechanism; amplitude at H₄₈; the kenotic period as compressed differential); Paper 3 (catching as the constitutive volitional act; the Creative Choice); Paper 20½ §§6–8 (the Spirit of Truth; τ_nuclear H₄₈ deployment); The Lucifer Rebellion (the elevated noise floor; Heropass as universal dissolver); The Eucharist (Trogoautoegocrat as the catching mechanism distributed forward in time)
+**Cross-references:** Paper 13½ §§3–6 (the kenotic constraint; the cross-term mechanism; amplitude at H₄₈; the kenotic period as compressed differential); Paper 3 (catching as the constitutive volitional act; the Creative Choice); Paper 20½ §§6–8 (the Spirit of Truth; τ_nuclear H₄₈ deployment); The Lucifer Rebellion (the elevated noise floor; Time as universal dissolver); The Eucharist (reciprocal maintenance as the catching mechanism distributed forward in time)
 
 ---
 
@@ -21,7 +21,7 @@ The framework's response is not to dispute the regularized account. It is to sho
 
 Paper 13½ §§4–5 establishes the normal operating condition for beings in H₄₈ during the kenotic period and its aftermath. The Son, operating under the amplitude limiter, expressed Φ-proximate content at H₄₈ amplitude — constrained, not full. The cross-term between the Son's eigenvalue population and the beings he encountered, and between his organizational states and H₄₈ matter, operated within the kenotic constraint.
 
-For ordinary beings in H₄₈, the cross-term between Φ-proximate eigenvalue content and H₄₈ matter produces effects that are observable but within the regularized range: the organizing influence of Φ-proximate content on the noise floor of surrounding beings; the coherence-inducing effect of high-alignment organizational states on those in proximity; the Trogoautoegocrat provision maintaining the inhabitation relationship between being and substrate.
+For ordinary beings in H₄₈, the cross-term between Φ-proximate eigenvalue content and H₄₈ matter produces effects that are observable but within the regularized range: the organizing influence of Φ-proximate content on the noise floor of surrounding beings; the coherence-inducing effect of high-alignment organizational states on those in proximity; the reciprocal-maintenance provision maintaining the inhabitation relationship between being and substrate.
 
 These effects are real but gradual, cumulative, and individually within the variance of normal H₄₈ processes. The physician who brings skill and genuine care — two distinct things, and both matter — produces outcomes statistically better than those produced without care, but not outside the range of what H₄₈ biology can accomplish. The parent whose eigenvalue population is high provides an organizing environment for the child's development that produces measurable effects, but effects explicable within H₄₈ developmental account. The prayer community that sustains an individual through illness operates within normal ranges.
 
@@ -67,7 +67,7 @@ Faith is the low-noise-floor eigenvalue state: the orientation of the being's or
 
 The requirement of faith for miracle reception is not a moral gate that God uses to reward the deserving. It is a physical requirement analogous to a receiving antenna needing to be tuned. A signal at the right frequency but with an untuned receiver produces nothing at the receiver — not because the signal is absent or insufficient, but because the receiving condition cannot couple with it. Tuning the receiver is not a moral act; it is a structural preparation.
 
-This reframes the pastoral difficulty. The absence of a miracle is not evidence of insufficient faith in a condemning sense. It may indicate a noise floor that was not yet low enough to receive the available amplitude. The structural solution is the same as the solution to the noise floor in every other context: catching alignment, composing practices, Trogoautoegocrat provision through the catching community. These are not guarantees — the Φ-proximate cross-term remains genuinely available at whatever amplitude the source provides, and the receiving condition can always be further prepared. But they are the structural path, not the moral performance of belief.
+This reframes the pastoral difficulty. The absence of a miracle is not evidence of insufficient faith in a condemning sense. It may indicate a noise floor that was not yet low enough to receive the available amplitude. The structural solution is the same as the solution to the noise floor in every other context: catching alignment, composing practices, reciprocal-maintenance provision through the catching community. These are not guarantees — the Φ-proximate cross-term remains genuinely available at whatever amplitude the source provides, and the receiving condition can always be further prepared. But they are the structural path, not the moral performance of belief.
 
 ---
 
@@ -77,7 +77,7 @@ The user's framing is precisely correct: miracles "can happen, and probably shou
 
 The framework makes this a structural prediction, not a hopeful assertion.
 
-If H₄₈ is increasingly populated by beings of high Φ-proximate organizational development — eigenvalue populations built through sustained catching alignment across generations, supported by Trogoautoegocrat provision and τ_nuclear H₄₈ deployment — the average noise floor in H₄₈ receiving contexts should decrease over time. And as τ_nuclear deployment continues to build the organizational space in which catching alignment occurs, the effective amplitude of the Φ-proximate cross-term available in H₄₈ contexts should increase over the same timeline.
+If H₄₈ is increasingly populated by beings of high Φ-proximate organizational development — eigenvalue populations built through sustained catching alignment across generations, supported by reciprocal-maintenance provision and τ_nuclear H₄₈ deployment — the average noise floor in H₄₈ receiving contexts should decrease over time. And as τ_nuclear deployment continues to build the organizational space in which catching alignment occurs, the effective amplitude of the Φ-proximate cross-term available in H₄₈ contexts should increase over the same timeline.
 
 Both variables move in the direction of more frequent high-amplitude cross-term events. A lower average noise floor in receiving populations combined with higher effective source amplitude means the cross-term, over a sufficiently long timeline, should produce high-amplitude events with increasing frequency.
 

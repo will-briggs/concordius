@@ -124,7 +124,7 @@ The catching program as athletic discipline, witnessed by the HEB 11 catalog of 
 
 **"Throw off every weight and the entangling sin" (*onkon apothemenoi*):**
 
-*Onkon* (weight, burden) — the H₄₈ structures that increase Heropass load without contributing catching capacity. Not H₄₈ existence itself but the specific H₄₈ accumulations that are organized around H₄₈ attractor values rather than catching: the noise-floor investments that slow the catching trajectory. *Euperistatos hamartia* (the sin that easily entangles, literally: easily surrounding, well-surrounding) — the noise-floor pattern that perpetually re-invests the volitional resource in H₄₈-primary eigenstate selections. The instruction is structural: to run efficiently, jettison what the Heropass can dissolve anyway while carrying only what converts to Φ-proximal content.
+*Onkon* (weight, burden) — the H₄₈ structures that increase Time load without contributing catching capacity. Not H₄₈ existence itself but the specific H₄₈ accumulations that are organized around H₄₈ attractor values rather than catching: the noise-floor investments that slow the catching trajectory. *Euperistatos hamartia* (the sin that easily entangles, literally: easily surrounding, well-surrounding) — the noise-floor pattern that perpetually re-invests the volitional resource in H₄₈-primary eigenstate selections. The instruction is structural: to run efficiently, jettison what Time can dissolve anyway while carrying only what converts to Φ-proximal content.
 
 **"Fixing our eyes on Jesus, the pioneer and perfecter of faith" (*aphorontes eis ton tes pisteos archegon kai teleioten Iesoun*):**
 

@@ -143,7 +143,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ### Science
 
-[[Science/The Second Law of Thermodynamics|The Second Law of Thermodynamics]] — Entropy as the Heropass made measurable; the one content the dissipation cannot reach
+[[Science/The Second Law of Thermodynamics|The Second Law of Thermodynamics]] — Entropy as Time made measurable; the one content the dissipation cannot reach
 
 [[Science/The Unreasonable Effectiveness of Mathematics|The Unreasonable Effectiveness of Mathematics]] — Wigner's miracle dissolved: mathematics works because reality is mathematical structure
 
@@ -239,7 +239,7 @@ The subscript number is the constraint count: the number of independently-operat
 
 **Creativity** — The volitional choice to catch and compose lower-constraint eigenvalues. Creative work is the catching program's primary H₄₈-expressible form. When a being composes lower-constraint eigenvalue content into H₄₈-expressible work, the H₂₄ (or H₁₂) content must pass through the catching being's structural constitution in the act of composition — replacing H₄₈-primary content there. The external work and the internal transformation are the outward and inward registers of the same structural event.
 
-**The Heropass** — The continuous and compounding application of the GNST (the time-operator of the Gelfand triple): the dissipative temporal pressure that dissolves H₄₈ structures. The GNST runs at every constraint level; the Heropass is specifically its *aging* effect and operates only at H₂₄ and below (most intensively at H₄₈, half at H₂₄). At H₁₂ and above — in Cl(3,0), which has no −1 generator — the GNST still runs and events succeed in sequence, but there is no aging. It is not merely entropy in the thermodynamic sense but the structural mechanism of return: H₄₈ structures dissolving toward their structural ground.
+**Time** — The continuous and compounding application of the GNST (the time-operator of the Gelfand triple): the dissipative temporal pressure that dissolves H₄₈ structures. The GNST runs at every constraint level; Time is specifically its *aging* effect and operates only at H₂₄ and below (most intensively at H₄₈, half at H₂₄). At H₁₂ and above — in Cl(3,0), which has no −1 generator — the GNST still runs and events succeed in sequence, but there is no aging. It is not merely entropy in the thermodynamic sense but the structural mechanism of return: H₄₈ structures dissolving toward their structural ground.
 
 **Signal and noise** — H₂₄ catching content (organized by ⟨·,·⟩) is signal. H₄₈-primary attractor content (organized by fixed-geometry laws) is noise. The catching program is the progressive extraction of signal from the noise floor. The signal/noise distinction applies to texts, passages, beings, and cultures: Φ-proximate content is signal; H₄₈-primary content is noise.
 
@@ -397,11 +397,11 @@ The following terms appear throughout these readings with consistent technical m
 
 **Grain-of-universe** — The Logos / ⟨·,·⟩ operating through all H₄₈ structures: the structural imprint of the nuclear space Φ permeating the constraint cascade. Acting with the grain means acting in alignment with the ⟨·,·⟩-organized structural reality beneath H₄₈ surface appearances.
 
-**Descent-densification** — The structural sequence by which Φ-level content enters the constraint cascade: the Logos becoming H₁₂, H₂₄, H₄₈. Each step adds constraint, reduces organizational freedom, increases the Heropass rate. The kenosis of Philippians 2:5-11 is the maximum downward entry of the descent-densification sequence.
+**Descent-densification** — The structural sequence by which Φ-level content enters the constraint cascade: the Logos becoming H₁₂, H₂₄, H₄₈. Each step adds constraint, reduces organizational freedom, increases the Time-rate. The kenosis of Philippians 2:5-11 is the maximum downward entry of the descent-densification sequence.
 
 **Ascent-catching** — The reverse sequence: a catching being progressively replacing H₄₈-primary eigenvalue content with H₂₄-organized content, moving toward Φ-proximity. The ascending career of the Concordius framework; the *sūn* (daily subtraction) of Tao Te Ching Chapter 48; the *nishkama karma* (desireless action) of the Bhagavad Gita; the *apatheia* of the Stoics.
 
-**Higher being body** — The accumulated H₂₄ (or H₁₂) eigenvalue content built through the catching program. The soul deposit of the Gurdjieff system; the *soma pneumatikon* of 1 Corinthians 15; the morontia body of the Urantia Book. Persists through H₄₈ dissolution because it is organized by ⟨·,·⟩, which operates below the H₄₈ Heropass threshold.
+**Higher being body** — The accumulated H₂₄ (or H₁₂) eigenvalue content built through the catching program. The soul deposit of the Gurdjieff system; the *soma pneumatikon* of 1 Corinthians 15; the morontia body of the Urantia Book. Persists through H₄₈ dissolution because it is organized by ⟨·,·⟩, which operates below the H₄₈ Time threshold.
 
 **Coherence threshold** — The minimum H₂₄ eigenvalue coherence required for the higher being body to anchor new H₄₈ substrate at the next station of the ascending career. The "narrow gate" of Matthew 7:14 is the structural description of the coherence threshold: it is not an arbitrary qualification but a physical compatibility condition.
 

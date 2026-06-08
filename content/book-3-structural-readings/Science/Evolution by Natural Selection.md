@@ -3,7 +3,7 @@
 **Subject:** Descent with modification by natural selection (Darwin, 1859; the modern synthesis)  
 **Field:** Evolutionary biology  
 **Series:** Book 3 — Structural Readings / Science  
-**Cross-references:** Paper 6 (catching as selective retention; the CCC); the Heropass in Paper 3½ (the Heropass / dissipation); Paper 3½ (the constraint cascade, H₄₈ substrate); Reasonablenessism Features 1, 5, 10
+**Cross-references:** Paper 6 (catching as selective retention; the CCC); Time in Paper 3½ (Time / dissipation); Paper 3½ (the constraint cascade, H₄₈ substrate); Reasonablenessism Features 1, 5, 10
 
 ---
 
@@ -13,7 +13,7 @@ Evolution by natural selection is the battleground where science and religion ha
 
 ## 2. Selection as Catching, at the H₄₈ Level
 
-Paper 5 describes catching as the volitional retention of Φ-proximate content — eigenvalue replacement that moves a being toward compatibility with its destination, the Catching-Compatibility Condition. Strip the volition, drop to the biological substrate, and the bare structure remains: a population is a distribution of variants; the environment is a selection pressure; what coheres with the pressure is retained and propagated, what does not is dissolved. This is selective retention against a constraint — catching's structure running at H₄₈, in matter, without a chooser. The genome is the medium of retention: H₄₈-encoded organizational content, the biological analogue of how the soul deposit is H₂₄-encoded content (Paper 5). Mutation supplies the spectrum of candidate eigenstates; selection performs the replacement; the Heropass — death, the dissipation of each organism — is not the enemy of the process but its engine, the operator that clears each generation so the retained content can be re-expressed and re-tested. Evolution is the Heropass and catching's structure working *together* at the level of matter: dissipation and selective retention, the two motions the framework derives, visible in the fossil record.
+Paper 5 describes catching as the volitional retention of Φ-proximate content — eigenvalue replacement that moves a being toward compatibility with its destination, the Catching-Compatibility Condition. Strip the volition, drop to the biological substrate, and the bare structure remains: a population is a distribution of variants; the environment is a selection pressure; what coheres with the pressure is retained and propagated, what does not is dissolved. This is selective retention against a constraint — catching's structure running at H₄₈, in matter, without a chooser. The genome is the medium of retention: H₄₈-encoded organizational content, the biological analogue of how the soul deposit is H₂₄-encoded content (Paper 5). Mutation supplies the spectrum of candidate eigenstates; selection performs the replacement; Time — death, the dissipation of each organism — is not the enemy of the process but its engine, the operator that clears each generation so the retained content can be re-expressed and re-tested. Evolution is Time and catching's structure working *together* at the level of matter: dissipation and selective retention, the two motions the framework derives, visible in the fossil record.
 
 ## 3. The Arrow Without a Designer
 
@@ -25,7 +25,7 @@ The boundary, plainly (Feature 10). Natural selection explains the diversity, fi
 
 ---
 
-*(Cross-reference: Paper 5 — catching as selective retention and the Catching-Compatibility Condition, of which natural selection is the H₄₈ instance; the genome as H₄₈-encoded organizational content. Paper 3½ §6 — death/dissipation as the Heropass, here the engine of the generational cycle rather than its enemy. Paper 3½ — the constraint cascade as self-generating mathematical descent, requiring no designer, the structural reason biology requires none either. Features 1 and 5 — the biology taken as evidence on its own terms; Feature 10 — the boundary between the mechanism (biology's) and the structural reading (the framework's).)*
+*(Cross-reference: Paper 5 — catching as selective retention and the Catching-Compatibility Condition, of which natural selection is the H₄₈ instance; the genome as H₄₈-encoded organizational content. Paper 3½ §6 — death/dissipation as Time, here the engine of the generational cycle rather than its enemy. Paper 3½ — the constraint cascade as self-generating mathematical descent, requiring no designer, the structural reason biology requires none either. Features 1 and 5 — the biology taken as evidence on its own terms; Feature 10 — the boundary between the mechanism (biology's) and the structural reading (the framework's).)*
 
 *(Confidence tier: Concordance with an explicit boundary. The identification of natural selection with catching's structure at H₄₈ is offered as structural convergence, not as a revision of biology; the framework affirms the mechanism entire and adds no aim the data does not show. The claim that the same selective-retention structure operates above the biological level is marked as a framework claim about unmeasured levels, not a deduction from evolutionary theory.)*
 

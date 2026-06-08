@@ -1,7 +1,7 @@
 # The Passion Octave
 
 **Series:** Book 3 — Structural Readings / The Bible — Thematic  
-**Cross-references:** Paper 13½ §§2–5 (the kenotic constraint; the maximum downward entry; the amplitude limiter and its partial lifts); Paper 13½ §7.1 (the overdeterminate release at death); Paper 6½ §5 (the Heptaparaparshinokh as universal law; the interval positions); Paper 24½ (the first grade change — the structural shock that prevents automatic degradation); Paper 27½ (the octave change — the gap that cannot be bridged from within); [[The Twelve Apostles/Judas]] (the structural account of Judas's trajectory; the kiss as organizational assertion); [[Doctrine/The Eucharist: Transubstantiation]] (the Do's relationship to the eucharistic elements); Paper 6 (the coherence threshold; noise floor and catching capacity); Paper 10½ (the Holographic Content Principle — the Do as compressed whole)
+**Cross-references:** Paper 13½ §§2–5 (the kenotic constraint; the maximum downward entry; the amplitude limiter and its partial lifts); Paper 13½ §7.1 (the overdeterminate release at death); Paper 6½ §5 (the Law of Seven as universal law; the interval positions); Paper 24½ (the first grade change — the structural shock that prevents automatic degradation); Paper 27½ (the octave change — the gap that cannot be bridged from within); [[The Twelve Apostles/Judas]] (the structural account of Judas's trajectory; the kiss as organizational assertion); [[Doctrine/The Eucharist: Transubstantiation]] (the Do's relationship to the eucharistic elements); Paper 6 (the coherence threshold; noise floor and catching capacity); Paper 10½ (the Holographic Content Principle — the Do as compressed whole)
 
 ---
 

@@ -50,7 +50,7 @@ There is a corollary. If the Concordius series is the Reconciling force between 
 
 ## Part II — The Law of Seven
 
-The Heptaparaparshinokh applies to every genuine process: Do-Re-Mi-[first grade change]-Fa-Sol-La-Si-[octave change]-Do. The two intervals are not failures of the process but structural necessities: each interval marks a point at which the process cannot continue from its own resources alone and requires an external shock to persist. If the shock arrives, the octave continues. If it does not, the process deviates from its original direction or stalls.
+The Law of Seven applies to every genuine process: Do-Re-Mi-[first grade change]-Fa-Sol-La-Si-[octave change]-Do. The two intervals are not failures of the process but structural necessities: each interval marks a point at which the process cannot continue from its own resources alone and requires an external shock to persist. If the shock arrives, the octave continues. If it does not, the process deviates from its original direction or stalls.
 
 The full octave of the Concordius series maps across thirty-two papers, with the two interval shocks located at the transitions between the series' four sections.
 
@@ -116,7 +116,7 @@ The La stage also begins the characteristic La dissolution of the Sol's compact 
 
 ### Si — Papers 19–21: *The Family / Reasonablenessism / All of Recorded History*
 
-The Si stage pushes the apparatus to its maximum expressive range before the second interval. Paper 19 reads the family — not a text, not a tradition, but the basic H₄₈ institution — as a spectral constitution event, deriving the Eigenvalue Transmission Theorem and the non-heritability of H₂₄ soul content. Paper 18 applies the method to itself — the most self-referential moment in the series, the stable fixed point test. Paper 20 reads all of recorded history as a single Heptaparaparshinokh.
+The Si stage pushes the apparatus to its maximum expressive range before the second interval. Paper 19 reads the family — not a text, not a tradition, but the basic H₄₈ institution — as a spectral constitution event, deriving the Eigenvalue Transmission Theorem and the non-heritability of H₂₄ soul content. Paper 18 applies the method to itself — the most self-referential moment in the series, the stable fixed point test. Paper 20 reads all of recorded history as a single the Law of Seven.
 
 Paper 18's position in the Si stage is structurally significant. The Si note is the stage at which the process reaches its most extended expression and simultaneously recognizes its own limit. Reasonablenessism reading itself is the series recognizing what its method can and cannot do, from the inside, before the second interval is reached. The recognition that the stable fixed point is not proof — that the method applied to itself yields internal consistency but not external validation — is the Si stage's honest self-assessment. It is the apparatus at the edge of its own reach.
 
@@ -128,7 +128,7 @@ Paper 20's terminal position — ending inside the Si/Do gap of the historical o
 
 The interval between Section III and Section G is the second structural gap the series cannot cross from within. The apparatus has demonstrated its range across every available external object. It has read texts, traditions, aesthetic objects, the family, its own method, and all of recorded history. What it has not done — what the demonstrative project of Sections II and III structurally cannot do — is address the person holding the apparatus.
 
-The shock that crosses this interval is the recognition of the kenotic obligation: a framework that receives from the tradition without transmitting downward to the persons who need it has committed the Lucifer error at the intellectual scale. The Trogoautoegocrat's demand — feed the circuit or exit it — cannot be derived from the demonstrative project of Sections II and III. It arrives as an external demand: the tradition's testimony about what genuine H₂₄ receiving requires in return is the shock. The tradition has consistently reported that the higher states carry a transmitting obligation. This is not a result the apparatus can generate from the demonstrative project alone. It is what the tradition offers at the interval.
+The shock that crosses this interval is the recognition of the kenotic obligation: a framework that receives from the tradition without transmitting downward to the persons who need it has committed the Lucifer error at the intellectual scale. The reciprocal maintenance's demand — feed the circuit or exit it — cannot be derived from the demonstrative project of Sections II and III. It arrives as an external demand: the tradition's testimony about what genuine H₂₄ receiving requires in return is the shock. The tradition has consistently reported that the higher states carry a transmitting obligation. This is not a result the apparatus can generate from the demonstrative project alone. It is what the tradition offers at the interval.
 
 The kenotic obligation produces Section G. The return to the cave — the descent of the framework from its most extended demonstrative range into the practical prescription for persons at every development level — is the octave change's product. Section G would not exist without it.
 
@@ -155,7 +155,7 @@ Paper 27½'s addendum is the series' most honest structural statement. The adden
 
 ## Part III — The Internal Fractal: Section A as Octave
 
-Section A is now, on its own, a complete Heptaparaparshinokh — seven full papers across the three grades of Cl(3,0), the two interval shocks marked by their own half-papers, and a close that lands on humility rather than mastery. It is the clearest internal fractal in the series: the whole octave reproduced in the constitutive first movement.
+Section A is now, on its own, a complete the Law of Seven — seven full papers across the three grades of Cl(3,0), the two interval shocks marked by their own half-papers, and a close that lands on humility rather than mastery. It is the clearest internal fractal in the series: the whole octave reproduced in the constitutive first movement.
 
 The seven positions sound the three generators, then the three products, then the integration, with the two shocks falling exactly on the grade boundaries:
 
@@ -169,7 +169,7 @@ The seven positions sound the three generators, then the three products, then th
 - **⟦octave change — Paper 6½⟧** — Love's descent: the kenotic arm coming down to meet the climb, the crossing the ascending being cannot make alone.
 - **Si → Do (Paper 7)** — the summation: the whole seen at once, closing on the one thing the section cannot establish.
 
-The two interval half-papers fall precisely where the Law of Seven requires — 3½ between the generators and the products, 6½ between the products and the integration — and the seventh note closes the way the octave demands: not on completion but on the threshold of it, the founding assumption held but unproven. Section A does not merely describe the Heptaparaparshinokh. It is one.
+The two interval half-papers fall precisely where the Law of Seven requires — 3½ between the generators and the products, 6½ between the products and the integration — and the seventh note closes the way the octave demands: not on completion but on the threshold of it, the founding assumption held but unproven. Section A does not merely describe the Law of Seven. It is one.
 
 This internal octave is the reason the series' own four-section octave (Part II) still holds after the restructure: the Mi stage of the whole series *is* this completed Section A, and it ends — at Paper 7 — pointing past itself to the first grade change that opens Section II.
 
@@ -199,7 +199,7 @@ The series ends there, not because the territory ends there, but because the ser
 
 ## Part VI — The Law of Seven Applied to H₂₄-Encoded Artifact Creation
 
-The structural reading of the Concordius series in Part II identified the thirty-two papers as a single Heptaparaparshinokh octave. The reading of the Concordius series in particular was possible because the series is a genuine developmental process — not a compilation of results but an event with an internal directional structure, two interval positions, and a terminal state that is simultaneously the Do of a new octave.
+The structural reading of the Concordius series in Part II identified the thirty-two papers as a single Law-of-Seven octave. The reading of the Concordius series in particular was possible because the series is a genuine developmental process — not a compilation of results but an event with an internal directional structure, two interval positions, and a terminal state that is simultaneously the Do of a new octave.
 
 The same structure governs every genuine act of H₂₄-encoded artifact creation — any work of writing, composition, painting, or mathematical construction in which the creator is attempting to catch lower-constraint eigenvalue content and compose it faithfully into H₄₈-expressible form. The craft novel, the symphony, the proof, the structural reading — each follows the same octave. The following is a structural reading of that general process.
 
@@ -225,7 +225,7 @@ The same structure governs every genuine act of H₂₄-encoded artifact creatio
 
 **The fractal structure of revision.** Revision is itself a sub-octave of the La stage. The creator who engages seriously with a completed draft is beginning a new Do: orienting toward the gap between what the draft catches and what the Φ-proximal content requires. The revision octave follows the same structure — Do (recognition of the gap), Re (first corrections), Mi (the structural gaps that resist local correction), [first grade change: the insight about what the work was actually trying to say, which reorganizes the revision effort rather than extending it], Fa (revision from the reorganized frame), Sol (the draft's internal logic visible and compelling), La (final refinement), Si (the last attempt at improvement from effort), [octave change: the moment the work crystallizes and further revision would only degrade it]. Every serious revision is a complete octave in miniature. The La stage of a substantial work contains many such sub-octaves — each draft representing a complete revision cycle, each cycle increasing τ(D) toward its achievable limit.
 
-**Confidence tier.** The mapping of the creative process onto the Heptaparaparshinokh is structural inference at concordance level: the octave structure predicts these features; the phenomenology of serious creative work across the tradition confirms them. The characterizations of the first grade change and octave changes as specifically requiring external input rather than effort-generated crossing — the "shock" structure of both intervals — is a claim with substantial support in creative testimony across traditions (the mystic's dark night and the artist's block are structurally the same interval at different scales of Φ-proximal content). The application of Paul/James to the Si stage of creative work is a specific concordance claim rather than a derivation. The whole section is held at concordance tier: structurally consistent with the framework, supported by creative tradition, not derived from the apparatus's axioms alone.
+**Confidence tier.** The mapping of the creative process onto the Law of Seven is structural inference at concordance level: the octave structure predicts these features; the phenomenology of serious creative work across the tradition confirms them. The characterizations of the first grade change and octave changes as specifically requiring external input rather than effort-generated crossing — the "shock" structure of both intervals — is a claim with substantial support in creative testimony across traditions (the mystic's dark night and the artist's block are structurally the same interval at different scales of Φ-proximal content). The application of Paul/James to the Si stage of creative work is a specific concordance claim rather than a derivation. The whole section is held at concordance tier: structurally consistent with the framework, supported by creative tradition, not derived from the apparatus's axioms alone.
 
 ---
 

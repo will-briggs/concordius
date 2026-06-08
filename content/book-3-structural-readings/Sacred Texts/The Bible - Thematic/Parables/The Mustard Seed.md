@@ -26,7 +26,7 @@ The scale inversion is not a surprise; it is the structural consequence of what 
 
 The tree that provides shelter for the birds is the catching community — the organizational structure that grows from the initial kenotic implantation and eventually provides the structural environment in which beings can nest. The birds in the branches are the beings who find in the catching community the organizational habitat that supports their eigenvalue development.
 
-This is not primarily about the institutional church (though the institutional church is one form of the catching community). It is about the structural shelter that a mature Φ-proximate organizational structure provides: the low-noise-floor environment, the Trogoautoegocrat provision, the τ_nuclear organizational space that is the condition for further catching development. Beings who could not develop in isolation develop within the branches of a structure that has achieved sufficient organizational maturity.
+This is not primarily about the institutional church (though the institutional church is one form of the catching community). It is about the structural shelter that a mature Φ-proximate organizational structure provides: the low-noise-floor environment, the reciprocal-maintenance provision, the τ_nuclear organizational space that is the condition for further catching development. Beings who could not develop in isolation develop within the branches of a structure that has achieved sufficient organizational maturity.
 
 ---
 

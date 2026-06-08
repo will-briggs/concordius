@@ -42,11 +42,11 @@ The structural account: the Sabbath is a structural fact built into creation bef
 
 *Qadash* — to set apart, to make holy. The Sabbath is already *qadosh* at the level of creation (GEN 2:3: "God blessed the seventh day and made it holy"). The commandment's requirement is to treat it as holy — to align human practice with the structural fact. The Sabbath's holiness is not conferred by human observance; it is recognized and instantiated by it.
 
-*Qadosh* in the framework: operating at a higher constraint level than the surrounding substrate. The seventh day is structurally *qadosh* because it occupies the octave change position in the Heptaparaparshinokh — the position of completion and resolution, qualitatively distinct from the six active stages. The human Sabbath practice is the H₄₈ instantiation of that structural position: the stopping is structural compliance, not arbitrary rest.
+*Qadosh* in the framework: operating at a higher constraint level than the surrounding substrate. The seventh day is structurally *qadosh* because it occupies the octave change position in the Law of Seven — the position of completion and resolution, qualitatively distinct from the six active stages. The human Sabbath practice is the H₄₈ instantiation of that structural position: the stopping is structural compliance, not arbitrary rest.
 
 **"Six days you shall labor and do all your work"**
 
-The six active days are not a concession — they are the structural requirement. The Heptaparaparshinokh requires six stages of active differentiation before the seventh stage of completion can be reached. A Sabbath without the preceding work is structurally incoherent: the octave change position resolves what the first six stages built; without the building, there is nothing to resolve. The commandment mandates both: the six active stages *and* the seventh stage of completion. The truncation of either disrupts the cycle.
+The six active days are not a concession — they are the structural requirement. The Law of Seven requires six stages of active differentiation before the seventh stage of completion can be reached. A Sabbath without the preceding work is structurally incoherent: the octave change position resolves what the first six stages built; without the building, there is nothing to resolve. The commandment mandates both: the six active stages *and* the seventh stage of completion. The truncation of either disrupts the cycle.
 
 **"For in six days the LORD made the heavens and the earth"**
 

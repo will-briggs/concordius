@@ -15,21 +15,21 @@
 | Concept | Structural content |
 |---|---|
 | Prima Materia | Φ' — the undifferentiated distributional abyss; tohu va-vohu; the pre-breaking gapless vacuum; the substrate prior to constraint hierarchy |
-| Nigredo | Maximum H₄₈ loading; noise floor at peak; H₄₈-primary structure dissolved by the Heropass; the precondition for catching — what must dissolve before lower-constraint content can emerge |
+| Nigredo | Maximum H₄₈ loading; noise floor at peak; H₄₈-primary structure dissolved by Time; the precondition for catching — what must dissolve before lower-constraint content can emerge |
 | Albedo | Progressive noise floor reduction; Φ-proximal eigenvalue content emerging from the dissolved H₄₈ substrate; the lunar phase — receptive, reflective, oriented toward the Father rather than the substrate |
 | Citrinitas | The transition threshold — the constraint boundary where H₁₂ begins to be accessible; the dawn between lunar and solar phases |
 | Rubedo | Substantial H₂₄ accumulation — the soul deposit become a significant component of the total state; Adjuster-proximity increasing; the solar phase — active, complete, transmuting |
 | Solve et Coagula | The fundamental GNST operation: dissolve (lower-constraint eigenvalue content generated from H₄₈ state by the GNST) and coagulate (catching — the volitional retention of generated lower-constraint content); the ascending career's basic unit |
 | The Philosopher's Stone | The accumulated H₂₄ eigenvalue state — the soul deposit at sufficient magnitude to transmute the H₄₈ environment by cross-term coupling ⟨ψᵢ, ψⱼ⟩₂₄; what the Great Work produces |
-| The Elixir of Life | The soul deposit's persistence through H₄₈ dissolution — Φ-proximal content below the Heropass threshold, not dissolved when the physical substrate fails; the structural basis of what the tradition calls immortality |
+| The Elixir of Life | The soul deposit's persistence through H₄₈ dissolution — Φ-proximal content below the Time threshold, not dissolved when the physical substrate fails; the structural basis of what the tradition calls immortality |
 | Transmutation (base to gold) | The cross-term mechanism: a being with substantial H₂₄ accumulation elevates the eigenvalue content of adjacent H₄₈ states by coherent coupling; N-scaling vs. √N-scaling (Matthew 18:20) |
-| Gold | The completed H₂₄ state — incorruptible because Φ-proximal content is below the H₄₈ Heropass threshold; the alchemical symbol chosen correctly for its chemical incorruptibility as the H₄₈ signature of lower-constraint persistence |
-| Lead | The unreformed H₄₈-primary state — maximum constraint, maximum inertia, maximum Heropass-vulnerability; the densest Being-register metal as symbol of maximum constraint density |
+| Gold | The completed H₂₄ state — incorruptible because Φ-proximal content is below the H₄₈ Time threshold; the alchemical symbol chosen correctly for its chemical incorruptibility as the H₄₈ signature of lower-constraint persistence |
+| Lead | The unreformed H₄₈-primary state — maximum constraint, maximum inertia, maximum Time-vulnerability; the densest Being-register metal as symbol of maximum constraint density |
 | Salt | H₄₈ substrate — the body; fixed, crystallized, the material base; the tria prima element corresponding to the physical constraint level |
 | Mercury | H₂₄ domain — the soul/mind; volatile (passes between constraint levels), mediating (connects body to spirit), the Logos-like intermediary; the tria prima element corresponding to the morontia catching domain |
 | Sulfur | The Adjuster-contact / catching function — the combustible, actively upward-tending principle; what in the person is oriented toward Φ and drives the ascent; the tria prima element corresponding to the spirit indwelling |
 | The Four Elements | The constraint sub-levels in H₄₈: Earth (most constrained, solid, H₄₈-primary); Water (fluid, mediating, H₄₈ at the H₂₄ interface); Air (less constrained, freer motion, approaching H₁₂ character); Fire (transforming, purifying, dissolving H₄₈ structures upward) |
-| The Ouroboros | The Trogoautoegocrat — the GNST in continuous operation; eigenvalue content generated, either caught or returned to Φ'; the serpent eating its tail because each moment's uncaught content becomes the substrate for the next moment's catching opportunity |
+| The Ouroboros | Reciprocal maintenance — the GNST in continuous operation; eigenvalue content generated, either caught or returned to Φ'; the serpent eating its tail because each moment's uncaught content becomes the substrate for the next moment's catching opportunity |
 | Coniunctio (sacred marriage) | The cross-term ⟨ψᵢ, ψⱼ⟩₂₄ — the Matthew 18:20 mechanism; the coherent assembly of two catching beings producing N-scaling rather than √N-scaling Φ-proximal content; the hieros gamos as the technical description of coherent joint catching |
 | Sol and Luna | The two poles of the catching being's spectral state: Sol = Φ-proximal content (lower-constraint, complete, solar — active, giving); Luna = H₄₈ substrate (higher-constraint, receptive, reflective, material); the conjunction is Sol entering Luna — Φ-proximal content integrating with H₄₈ substrate |
 | The Rebis (hermaphrodite) | The caught state post-coniunctio — the being in which H₂₄ (Sol) and H₄₈ (Luna) are integrated; the soul deposit fully present in the material being; the image of the completed ascending career at H₄₈ scale |
@@ -62,7 +62,7 @@ The alchemical motto *solve et coagula* — dissolve and coagulate — is presen
 
 **Structurally: solve et coagula is the GNST operation paired with catching.**
 
-*Solve* is what the GNST does continuously: it takes the current H₄₈ state and generates lower-constraint eigenvalue content. The H₄₈ structure — the current eigenstates of the physical Hamiltonian — is continuously dissolved by the Heropass into a new eigenstate. The old configuration dissolves; a new one emerges. This is the Heropass in operation. Solve is not optional; it is what the GNST does whether or not the being is participating.
+*Solve* is what the GNST does continuously: it takes the current H₄₈ state and generates lower-constraint eigenvalue content. The H₄₈ structure — the current eigenstates of the physical Hamiltonian — is continuously dissolved by Time into a new eigenstate. The old configuration dissolves; a new one emerges. This is Time in operation. Solve is not optional; it is what the GNST does whether or not the being is participating.
 
 *Coagula* is what catching does: the volitional retention of the lower-constraint eigenvalue content generated by each GNST application. The lower-constraint content (H₂₄) that the GNST has generated from the H₄₈ state is caught — held, not returned to Φ' — and accumulated as soul deposit. The fluid is allowed to crystallize at a lower-constraint level. This coagulation is voluntary; it is the one free act.
 
@@ -80,7 +80,7 @@ The three-stage structure of the Great Work (nigredo → albedo → rubedo) is n
 
 **Nigredo — the blackening — is the dissolution of H₄₈-primary investment.**
 
-Before catching can produce a new dominant spectral orientation, the existing H₄₈-primary structure must dissolve. The catching being must withdraw investment from the H₄₈-primary eigenstate pattern — the habitual, Heropass-default configuration that has organized the being's state up to this point. This withdrawal is experienced as dissolution, as dark, as the loss of what seemed solid. The blackening is real: the H₄₈-primary structure is genuinely giving way.
+Before catching can produce a new dominant spectral orientation, the existing H₄₈-primary structure must dissolve. The catching being must withdraw investment from the H₄₈-primary eigenstate pattern — the habitual, Time-default configuration that has organized the being's state up to this point. This withdrawal is experienced as dissolution, as dark, as the loss of what seemed solid. The blackening is real: the H₄₈-primary structure is genuinely giving way.
 
 The tradition associates nigredo with putrefaction, with the dark night of the soul (John of the Cross), with the Gethsemane condition. The framework identifies these correctly: they are all descriptions of the same structural event — maximum noise floor experienced as darkness, H₄₈ primary attachment dissolving, the precondition for lower-constraint emergence. The death before resurrection operates at this level. Nigredo is the condition in which the seed must die before the new growth can emerge.
 
@@ -98,7 +98,7 @@ The tradition often describes rubedo as the achievement of the Stone itself. Thi
 
 **Why three stages and not seven, or four?**
 
-The three-stage structure corresponds to the three recognizable threshold events in the ascending career produced by the Clifford grade structure: the grade-1 threshold (first meaningful Φ-proximal content — albedo begins), the grade-2 threshold (Φ-proximal content becoming substantial — albedo complete, rubedo begins), and the grade-3 threshold (Φ-proximal content dominant — rubedo complete, Stone achieved). Three grades; three stages. The Heptaparaparshinokh operates within each stage; the stages themselves are the grade-level thresholds.
+The three-stage structure corresponds to the three recognizable threshold events in the ascending career produced by the Clifford grade structure: the grade-1 threshold (first meaningful Φ-proximal content — albedo begins), the grade-2 threshold (Φ-proximal content becoming substantial — albedo complete, rubedo begins), and the grade-3 threshold (Φ-proximal content dominant — rubedo complete, Stone achieved). Three grades; three stages. The Law of Seven operates within each stage; the stages themselves are the grade-level thresholds.
 
 The four-stage tradition (adding citrinitas between albedo and rubedo) reflects the grade-2 threshold being recognizable as two events — the grade-2 threshold entry and the grade-2 consolidation — before grade-3. This is structurally consistent: the grade-2 level, being bivector (rotational, self-referential), may produce two phenomenologically distinct events that the more sensitive tradition distinguished.
 
@@ -166,18 +166,18 @@ The laboratory work itself — the actual heating and cooling, dissolving and cr
 
 **Prima Materia / tohu va-vohu / tehom** — The three descriptions are the same structural condition at different levels of encoding: Genesis 1:2 (scripture), the alchemical prima materia (laboratory tradition), and Φ' (the formal mathematical description). Cross-reference: Genesis 1:2 — See Genesis.md in A Structural Reading of the Bible.
 
-**Nigredo / Gethsemane / the dark night of the soul** — The same constraint event: maximum H₄₈ loading, noise floor at peak, H₄₈-primary structure dissolving under the Heropass. Cross-reference: Matthew 26:36-46 — See Matthew.md in A Structural Reading of the Bible.
+**Nigredo / Gethsemane / the dark night of the soul** — The same constraint event: maximum H₄₈ loading, noise floor at peak, H₄₈-primary structure dissolving under Time. Cross-reference: Matthew 26:36-46 — See Matthew.md in A Structural Reading of the Bible.
 
-**Solve et coagula / Heropass / catching** — The same fundamental operation at three levels of description. Cross-reference: [[Signal and Noise]] — Catching mechanism; Paper 1 (GNST); the Heropass in Paper 3½.
+**Solve et coagula / Time / catching** — The same fundamental operation at three levels of description. Cross-reference: [[Signal and Noise]] — Catching mechanism; Paper 1 (GNST); Time in Paper 3½.
 
 **The Philosopher's Stone / Matthew 18:20 / the cross-term** — The transmuting power of the accumulated H₂₄ state as coherent cross-term. Cross-reference: Matthew 18:20 — See Matthew.md in A Structural Reading of the Bible.
 
 **The Coniunctio / "two or three gathered" / the coherent assembly** — The sacred marriage as the N-scaling mechanism of joint catching. Cross-reference: Matthew 18:20 — See Matthew.md; Leviticus 19:18 / Matthew 22:39 / Luke 10:27 — See Leviticus.md, Matthew.md, Luke.md in A Structural Reading of the Bible.
 
-**"As above, so below" / the constraint cascade / Heptaparaparshinokh at all scales** — The self-similar structure of Φ appearing at every level. Cross-reference: [[Concordance/PC2 — Gurdjieff and Spiritual Progression]] — Heptaparaparshinokh entry; The Earthly Ministry as Heptaparaparshinokh — See Matthew.md in A Structural Reading of the Bible.
+**"As above, so below" / the constraint cascade / the Law of Seven at all scales** — The self-similar structure of Φ appearing at every level. Cross-reference: [[Concordance/PC2 — Gurdjieff and Spiritual Progression]] — the Law of Seven entry; The Earthly Ministry as an octave — See Matthew.md in A Structural Reading of the Bible.
 
 **Hermes / Mercury / the Logos** — The mediating principle between Φ and H₄₈. Cross-reference: John 1:1, John 1:3, John 14:6 — See John.md in A Structural Reading of the Bible.
 
 ---
 
-*(Cross-reference: [[Physics Concordance]] — Gelfand Triple; [[Concordance/PC2 — Gurdjieff and Spiritual Progression]] — Table of Hydrogens; Trogoautoegocrat; Three Foods. [[Signal and Noise]] — Catching, Noise Floor, The Heropass. Paper A3: The Word Made Flesh: The Word and the Forming of the World (Higgs mechanism as constitutional enabling condition; the constraint hierarchy as physical structure). Paper 9 — The Truth Measure (why independent traditions encode the same structural content in different H₄₈ vocabularies).)*
+*(Cross-reference: [[Physics Concordance]] — Gelfand Triple; [[Concordance/PC2 — Gurdjieff and Spiritual Progression]] — Table of Hydrogens; reciprocal maintenance; Three Foods. [[Signal and Noise]] — Catching, Noise Floor, Time. Paper A3: The Word Made Flesh: The Word and the Forming of the World (Higgs mechanism as constitutional enabling condition; the constraint hierarchy as physical structure). Paper 9 — The Truth Measure (why independent traditions encode the same structural content in different H₄₈ vocabularies).)*

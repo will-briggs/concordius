@@ -16,7 +16,7 @@ The reader this section is written for is the one the rest of the ministry can r
 
 ---
 
-- [[Science/The Second Law of Thermodynamics|The Second Law of Thermodynamics]] — Entropy as the Heropass made measurable; the one content the dissipation cannot reach
+- [[Science/The Second Law of Thermodynamics|The Second Law of Thermodynamics]] — Entropy as Time made measurable; the one content the dissipation cannot reach
 - [[Science/The Unreasonable Effectiveness of Mathematics|The Unreasonable Effectiveness of Mathematics]] — Wigner's miracle dissolved: mathematics works because reality is mathematical structure
 - [[Science/Euclid — The Elements|Euclid — The Elements]] — The axiomatic method: the archetype of the derivation tier
 - [[Science/Apollonius — Conics|Apollonius — Conics]] — Pure curves derived for beauty, found to be the cosmos's orbits

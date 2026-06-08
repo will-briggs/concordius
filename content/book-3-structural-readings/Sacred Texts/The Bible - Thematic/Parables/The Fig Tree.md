@@ -28,7 +28,7 @@ The Olivet Discourse establishes a set of observable organizational symptoms in 
 
 This is among the most structurally and historically contested phrases in the gospels. The framework's structural reading is neutral between the competing interpretations (near-term fulfillment in 70 AD destruction of Jerusalem vs. eschatological delay vs. "generation" meaning something other than the immediate audience's lifespan).
 
-What the framework can say structurally: the assertion that "heaven and earth will pass away but my words will not" establishes the permanence of Φ-proximate organizational content against the dissolution of H₄₈ material structures. Heaven and earth are the full constraint cascade — the complete organizational architecture of the current H₄₈ configuration. They are subject to Heropass dissolution. Φ-proximate content — the words that are the Logos speaking — is not subject to the same dissolution. The words are not H₄₈-amplitude content. Their persistence is not in doubt.
+What the framework can say structurally: the assertion that "heaven and earth will pass away but my words will not" establishes the permanence of Φ-proximate organizational content against the dissolution of H₄₈ material structures. Heaven and earth are the full constraint cascade — the complete organizational architecture of the current H₄₈ configuration. They are subject to dissolution by Time. Φ-proximate content — the words that are the Logos speaking — is not subject to the same dissolution. The words are not H₄₈-amplitude content. Their persistence is not in doubt.
 
 ---
 

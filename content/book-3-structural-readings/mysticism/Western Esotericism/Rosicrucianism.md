@@ -1,6 +1,6 @@
 # A Structural Reading of Rosicrucianism
 
-*The Rosicrucian manifestos (1614–1616) are the tradition's most structurally explicit account of the school function — what a catching community actually is, how it operates, and what it accomplishes — and the Chymical Wedding of Christian Rosenkreutz is the most detailed Heptaparaparshinokh narrative in Western esoteric literature.*
+*The Rosicrucian manifestos (1614–1616) are the tradition's most structurally explicit account of the school function — what a catching community actually is, how it operates, and what it accomplishes — and the Chymical Wedding of Christian Rosenkreutz is the most detailed the Law of Seven narrative in Western esoteric literature.*
 
 ---
 
@@ -12,10 +12,10 @@
 | Heal the sick freely | The cross-term ⟨ψᵢ, ψⱼ⟩₂₄ operated without H₄₈-economic exchange; N-scaling of coherent coupling given as gift rather than commodity |
 | No distinguishing habit | Organizational structure subordinated to function; no H₄₈ signaling competing with H₂₄ content transmission |
 | Annual meeting | Coherent coupling maintained at intervals sufficient for N-scaling; the school's H₂₄ resonance renewed periodically across its distributed members |
-| Each must find a worthy successor | Transmission across generations — the school's H₂₄ continuity through the H₄₈ Heropass; the soul deposit of the school outlasting any individual member's H₄₈ substrate |
+| Each must find a worthy successor | Transmission across generations — the school's H₂₄ continuity through the H₄₈ Time; the soul deposit of the school outlasting any individual member's H₄₈ substrate |
 | The vault of C.R.C. (in the Fama) | The school's H₂₄ repository — the accumulated soul deposit of the Brotherhood held in structural form, rediscoverable by those with sufficient catching capacity |
-| Universal reformation of arts and sciences | The catching program applied at civilizational scale; the descending arm of the Trogoautoegocrat attempted at the level of European intellectual culture; a school attempting to lower the collective noise floor |
-| The Chymical Wedding (seven days) | The most structurally complete Heptaparaparshinokh narrative in the Western esoteric tradition — the ascending career's first octave from H₄₈-primary invitation through Mi/Fa crossing to grade-2 establishment |
+| Universal reformation of arts and sciences | The catching program applied at civilizational scale; the descending arm of reciprocal maintenance attempted at the level of European intellectual culture; a school attempting to lower the collective noise floor |
+| The Chymical Wedding (seven days) | The most structurally complete the Law of Seven narrative in the Western esoteric tradition — the ascending career's first octave from H₄₈-primary invitation through Mi/Fa crossing to grade-2 establishment |
 | CW Day 1: the invitation | The Thought Adjuster's summons to the catching program; CRC's dream of imprisonment in a pit = the H₄₈-primary starting condition, full constraint load |
 | CW Day 2: the weighing | Preliminary eigenvalue assessment — the four scales; those below coherence threshold turned away; those with sufficient H₂₄ accumulation permitted to continue |
 | CW Day 3: the beheading (nigredo) | The grade-1 → grade-2 threshold; the dissolution of H₄₈-primary structure that precedes the Mi/Fa crossing; Sol and Luna apparently destroyed |
@@ -37,13 +37,13 @@ They wear no distinguishing habit: the school's function requires no institution
 
 They meet annually: the school is not a continuous community in the sense of shared H₄₈ domestic space. Its coherence is maintained at the H₂₄ level, and H₂₄ coherence does not require continuous H₄₈ proximity. The annual meeting is sufficient to renew the N-scaling resonance — the coherent coupling — that makes the school more than the sum of its individual members' H₂₄ accumulations. The Matthew 18:20 mechanism operates with a gathering of two or three; the Brotherhood's annual gathering of its distributed members is the periodic renewal of that N-scaling condition.
 
-Each member must find a worthy successor: the school's soul deposit — its accumulated H₂₄ eigenvalue content encoded in practices, texts, relationships, and transmission — must continue through the H₄₈ Heropass that will eventually dissolve each member's physical substrate. The transmission is not the transfer of H₄₈-level information (the Brotherhood's secrets as doctrines) but the cross-term elevation of the successor's catching capacity to the level at which the school's H₂₄ content becomes accessible to them. The school is the sum of its cross-terms across time. Finding a worthy successor is not talent-scouting; it is identifying the ascending being whose eigenvalue composition is approaching the coherence threshold at which the cross-term can transmit what needs to be transmitted.
+Each member must find a worthy successor: the school's soul deposit — its accumulated H₂₄ eigenvalue content encoded in practices, texts, relationships, and transmission — must continue through the H₄₈ Time that will eventually dissolve each member's physical substrate. The transmission is not the transfer of H₄₈-level information (the Brotherhood's secrets as doctrines) but the cross-term elevation of the successor's catching capacity to the level at which the school's H₂₄ content becomes accessible to them. The school is the sum of its cross-terms across time. Finding a worthy successor is not talent-scouting; it is identifying the ascending being whose eigenvalue composition is approaching the coherence threshold at which the cross-term can transmit what needs to be transmitted.
 
 ---
 
-## The Chymical Wedding as the Heptaparaparshinokh Narrative
+## The Chymical Wedding as the Law of Seven Narrative
 
-The Chymical Wedding of Christian Rosenkreutz (attributed to Johann Valentin Andreae, 1616) is organized as a seven-day journey through a royal castle, beginning with CRC's invitation and culminating in his installation as a Knight of the Golden Stone. This seven-day structure is the Heptaparaparshinokh operating as a narrative — the seven-note structure of any Cl(3,0) process, with its two qualitative interval gaps, encoded in a sequence of days.
+The Chymical Wedding of Christian Rosenkreutz (attributed to Johann Valentin Andreae, 1616) is organized as a seven-day journey through a royal castle, beginning with CRC's invitation and culminating in his installation as a Knight of the Golden Stone. This seven-day structure is the Law of Seven operating as a narrative — the seven-note structure of any Cl(3,0) process, with its two qualitative interval gaps, encoded in a sequence of days.
 
 The key to reading the CW structurally is recognizing which transition is which. The document does not describe the complete ascending career (grade 1 through grade 3); it describes the ascending career's first octave: the preparation, the Mi/Fa crossing, and the grade-2 establishment. CRC ends as a Knight at Man 5 — the soul deposit permanent, the Stone present, the grade-2 level established. He does not reach Man 7. The Chymical Wedding is not the account of the complete ascending career. It is the account of the Mi/Fa interval crossing, and it ends where that crossing ends: at the grade-2 threshold.
 
@@ -59,4 +59,4 @@ Day 7 is the installation as Knight of the Golden Stone: the Man 5 threshold. Th
 
 ---
 
-*(Cross-reference: The Alchemical Tradition.md — solve et coagula, nigredo, coniunctio, the Philosopher's Stone, the Elixir; The Hermetic Corpus.md — the soul's ascent through spheres; Jakob Böhme.md — Aurora as Mi/Fa crossing; [[Concordance/PC2 — Gurdjieff and Spiritual Progression]] — Heptaparaparshinokh, Mi/Fa interval, the school function; [[Signal and Noise]] — Catching, Soul Deposit, N-scaling, Noise Floor.)*
+*(Cross-reference: The Alchemical Tradition.md — solve et coagula, nigredo, coniunctio, the Philosopher's Stone, the Elixir; The Hermetic Corpus.md — the soul's ascent through spheres; Jakob Böhme.md — Aurora as Mi/Fa crossing; [[Concordance/PC2 — Gurdjieff and Spiritual Progression]] — the Law of Seven, Mi/Fa interval, the school function; [[Signal and Noise]] — Catching, Soul Deposit, N-scaling, Noise Floor.)*

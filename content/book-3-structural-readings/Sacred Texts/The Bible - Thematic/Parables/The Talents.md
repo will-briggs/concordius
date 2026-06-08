@@ -36,7 +36,7 @@ The one-talent servant's explanation is structurally precise in its self-diagnos
 
 The fear is H₄₈-primary organizational noise at sufficient amplitude to block catching activity. The mischaracterization of the master (harvesting where he did not sow) is the noise-floor condition distorting the being's perception of the constitutive ground's nature — replacing the accurate account (generous, faithful, inviting "enter into your master's happiness") with an adversarial account that justifies defensive organizational posture.
 
-Burying the talent produces zero yield. This is not neutral. Below-threshold organizational content — the buried talent — is subject to Heropass dissolution. The paper's structural claim about what happens to eigenvalue content that does not actively develop is: it does not merely remain static. The noise floor, if not actively counteracted by catching development, dissolves it.
+Burying the talent produces zero yield. This is not neutral. Below-threshold organizational content — the buried talent — is subject to dissolution by Time. The paper's structural claim about what happens to eigenvalue content that does not actively develop is: it does not merely remain static. The noise floor, if not actively counteracted by catching development, dissolves it.
 
 ---
 
@@ -44,8 +44,8 @@ Burying the talent produces zero yield. This is not neutral. Below-threshold org
 
 This is the framework's key statement about the cumulative dynamics of eigenvalue development. It is not a statement about H₄₈-primary wealth compounding (though it has been misread as such). It is the structural description of Φ-proximate eigenvalue accumulation: organizational content that is already Φ-proximate and actively oriented toward further catching development produces more Φ-proximate organizational content. The accumulation is self-compounding. The ten-talent servant ends with ten because the development trajectory is accelerating.
 
-"Whoever does not have, even what they have will be taken": the eigenvalue population that is not actively developing through catching alignment is subject to the Heropass dissolution that catching alignment counteracts. The below-threshold content, left static, does not remain static — it returns to the ambient noise floor.
+"Whoever does not have, even what they have will be taken": the eigenvalue population that is not actively developing through catching alignment is subject to the dissolution by Time that catching alignment counteracts. The below-threshold content, left static, does not remain static — it returns to the ambient noise floor.
 
 ---
 
-*(Confidence tier: structural concordance. The compounding of eigenvalue development and the Heropass dissolution of non-developing content are directly derivable from the framework. The fear-as-noise-floor diagnosis is structural derivation.)*
+*(Confidence tier: structural concordance. The compounding of eigenvalue development and the dissolution by Time of non-developing content are directly derivable from the framework. The fear-as-noise-floor diagnosis is structural derivation.)*

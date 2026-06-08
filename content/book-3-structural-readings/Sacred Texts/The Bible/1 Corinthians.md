@@ -44,7 +44,7 @@ Rejoicing in truth (*chaierei te aletheia*) — the inner product aligns with Φ
 
 **"Love never fails" (*he agape oudepote piptei*):**
 
-*Oudepote piptei* — never falls, never fails. The inner product relation is structurally conserved: it is not subject to Heropass dissolution. H₄₈ attractor-serving investments — behavioral performance, compliance, H₄₈ status accumulation — are subject to the Heropass; they can be built, degraded, and dissolved. The ⟨·,·⟩ relation, constitutive of the space itself, is not subject to the same dissipative pressure. Love never fails because the inner product is the ground of the space, not a feature within it.
+*Oudepote piptei* — never falls, never fails. The inner product relation is structurally conserved: it is not subject to dissolution by Time. H₄₈ attractor-serving investments — behavioral performance, compliance, H₄₈ status accumulation — are subject to Time; they can be built, degraded, and dissolved. The ⟨·,·⟩ relation, constitutive of the space itself, is not subject to the same dissipative pressure. Love never fails because the inner product is the ground of the space, not a feature within it.
 
 The comparison: "Prophecies will cease, tongues will be stilled, knowledge will pass away" — all H₄₈-mediated forms of transmission cease at the constraint boundary. The inner product survives the constraint boundary because it constitutes both sides of it.
 
@@ -96,7 +96,7 @@ The completion of the restoration sequence — the experiential Deity arrived at
 
 **"That God may be all in all" — the Formal Name Ta Panta en Pasin:**
 
-Read structurally, this is the experiential Deity at completion. The running integral of inner-product evaluations — the accumulation that Paper 3 derives, the experiential Deity *in via* that Romans 8 names **Apokalypsis** (the revealing still under way) — here arrives at its totality. Every H-state that could be actualized has been actualized; every ascending career caught against the Heropass has been gathered up and returned; the actual creation is collected so that God is *ta panta en pasin*, all in all. The series names this completed tier by its scriptural Greek phrase: the Formal Name **Ta Panta en Pasin** (τὰ πάντα ἐν πᾶσιν, "all in all," 1 Corinthians 15:28). The experiential Deity is not named by a proper noun, because it is not God-in-himself nominalized but God revealing himself through Creation — named here by its terminal state, the gathering-up in which the totality is complete.
+Read structurally, this is the experiential Deity at completion. The running integral of inner-product evaluations — the accumulation that Paper 3 derives, the experiential Deity *in via* that Romans 8 names **Apokalypsis** (the revealing still under way) — here arrives at its totality. Every H-state that could be actualized has been actualized; every ascending career caught against Time has been gathered up and returned; the actual creation is collected so that God is *ta panta en pasin*, all in all. The series names this completed tier by its scriptural Greek phrase: the Formal Name **Ta Panta en Pasin** (τὰ πάντα ἐν πᾶσιν, "all in all," 1 Corinthians 15:28). The experiential Deity is not named by a proper noun, because it is not God-in-himself nominalized but God revealing himself through Creation — named here by its terminal state, the gathering-up in which the totality is complete.
 
 **The Father's priority — why the verse keeps immutability and growth together:**
 

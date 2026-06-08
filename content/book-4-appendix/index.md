@@ -24,7 +24,7 @@ tags:
 ---
 
 [[Appendix I - Dictionary of Terms|Appendix I — Dictionary of Terms]]
-Formal definitions of the technical vocabulary used throughout the series, from Clifford algebra to the Heropass to τ(D).
+Formal definitions of the technical vocabulary used throughout the series, from Clifford algebra to Time to τ(D).
 
 [[Appendix II - Structural Reading of the Concordius Series|Appendix II — Structural Reading of the Concordius Series]]
 The series reads itself: the Concordius Papers analyzed through the Laws of Three and Seven, locating the interval shocks within the series' own structure.

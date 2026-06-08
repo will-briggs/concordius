@@ -18,7 +18,7 @@ The structural weight comparison: the conversion ratio between H₄₈ constrain
 
 **"We fix our eyes not on what is seen, but on what is unseen":**
 
-*Me skopounton hemon ta blepomena alla ta me blepomena* — the catching orientation as the primary actualization target. The seen/unseen binary maps directly onto the H₄₈/H₂₄ constraint levels: *ta blepomena* (the visible domain) is H₄₈, subject to Heropass dissolution; *ta me blepomena* (the invisible domain) is the H₂₄ catching content that persists. "For what is seen is temporary, but what is unseen is eternal" — not an assertion that H₂₄ is chronologically long but that it is not subject to the constraint-level dissolution that the Heropass applies to H₄₈ structures.
+*Me skopounton hemon ta blepomena alla ta me blepomena* — the catching orientation as the primary actualization target. The seen/unseen binary maps directly onto the H₄₈/H₂₄ constraint levels: *ta blepomena* (the visible domain) is H₄₈, subject to dissolution by Time; *ta me blepomena* (the invisible domain) is the H₂₄ catching content that persists. "For what is seen is temporary, but what is unseen is eternal" — not an assertion that H₂₄ is chronologically long but that it is not subject to the constraint-level dissolution that Time applies to H₄₈ structures.
 
 **The structural context (verses 7-16):**
 

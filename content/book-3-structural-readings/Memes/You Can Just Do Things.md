@@ -16,7 +16,7 @@ Structurally this makes the meme a small-scale version of Paper 3. The Creative 
 
 Feature 6 of Reasonablenessism predicts exactly this: the memes that achieve viral spread are disproportionately likely to be tracking something real, because they have been tested against the recognition of millions of people and survived. This one is tracking the initiating structure of agency itself.
 
-The Heropass dimension is implicit but present. Everything you were waiting for permission to do is being consumed while you wait. The meme contains an urgency it doesn't state: *just* also means *now, without further delay*. You already have what you were waiting to be given.
+Time dimension is implicit but present. Everything you were waiting for permission to do is being consumed while you wait. The meme contains an urgency it doesn't state: *just* also means *now, without further delay*. You already have what you were waiting to be given.
 
 ---
 

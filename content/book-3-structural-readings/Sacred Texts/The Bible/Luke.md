@@ -42,9 +42,9 @@ All three poles of the H₁ constitutive structure are simultaneously present an
 
 **The Do of the ministry octave**
 
-The Baptism falls at Do in the ministry's Law of Seven (see *The Earthly Ministry as a Heptaparaparshinokh* in Matthew.md). Do is the ground tonic — the structural foundation from which all subsequent development derives.
+The Baptism falls at Do in the ministry's Law of Seven (see *The Earthly Ministry as an octave* in Matthew.md). Do is the ground tonic — the structural foundation from which all subsequent development derives.
 
-A critical requirement of the Heptaparaparshinokh: the octave cannot generate its own tonic from within itself. The ground note must be established from outside the system that will unfold from it. At the ministry's inauguration, this is precisely what occurs. The Father speaks before the Son has taught a word or healed a person. The Creator Son's identity within the 48-constraint domain is established from above, not from within. The octave begins with the tonic sounded by the Father, not by the Son.
+A critical requirement of the Law of Seven: the octave cannot generate its own tonic from within itself. The ground note must be established from outside the system that will unfold from it. At the ministry's inauguration, this is precisely what occurs. The Father speaks before the Son has taught a word or healed a person. The Creator Son's identity within the 48-constraint domain is established from above, not from within. The octave begins with the tonic sounded by the Father, not by the Son.
 
 This is why the Baptism declaration comes first in the narrative structure. It is not biographical introduction. It is the Do — the ground tonic established from H₁ before the octave begins to unfold from within H₄₈.
 
@@ -62,7 +62,7 @@ Matthew 17:5 at the first grade change of the ministry's octave repeats the same
 
 The structure across the two occurrences: the Baptism (Do) establishes the structural identity of the kenotic vessel as the ministry begins. The Transfiguration (first grade change) confirms the same identity at the ministry's natural discontinuity and adds the directive. The Father's declaration is the structural constant of the ministry's octave — sounded at Do to begin it, sounded again at the first grade change to carry it through the interval. In both cases the declaration is external to the octave: it arrives from H₁, not from within the H₄₈ ministry's own development.
 
-*(Cross-reference: Matthew 17:1-9 / Mark 9:2-9 — the Transfiguration, confirming this declaration with *akouete autou*; see Matthew.md and Mark.md. The Earthly Ministry as a Heptaparaparshinokh — see Matthew.md. Paper 13½ — kenosis and the maximum downward entry; Paper 13½, OQ6 — kenotic descent as H₆ → H₄₈; post-Ascension to H₁. Paper 2 — the Trinity as three poles of ⟨·,·⟩. 1 Corinthians 13 / 1 John 4:7-12 — *agapē* as the structural name of ⟨·,·⟩. John 1:14 — "the Word became flesh": the kenotic descent this declaration inaugurates publicly; see John.md. Psalm 2:7 — "You are my Son; today I have begotten you": the constitutive act of ⟨·,·⟩ establishing the responding pole, the variant text preserved in some Luke manuscripts.)*
+*(Cross-reference: Matthew 17:1-9 / Mark 9:2-9 — the Transfiguration, confirming this declaration with *akouete autou*; see Matthew.md and Mark.md. The Earthly Ministry as an octave — see Matthew.md. Paper 13½ — kenosis and the maximum downward entry; Paper 13½, OQ6 — kenotic descent as H₆ → H₄₈; post-Ascension to H₁. Paper 2 — the Trinity as three poles of ⟨·,·⟩. 1 Corinthians 13 / 1 John 4:7-12 — *agapē* as the structural name of ⟨·,·⟩. John 1:14 — "the Word became flesh": the kenotic descent this declaration inaugurates publicly; see John.md. Psalm 2:7 — "You are my Son; today I have begotten you": the constitutive act of ⟨·,·⟩ establishing the responding pole, the variant text preserved in some Luke manuscripts.)*
 
 ---
 
@@ -114,7 +114,7 @@ This is not self-care in the contemporary therapeutic sense. It is calibration: 
 
 **The structural problem the routine solves:**
 
-A ministry of healing and teaching at H₄₈ through H₁₂ levels requires simultaneous operation across multiple constraint levels. The Creator Son operates at H₆ as primary during the ministry, but the bestowal is a genuine H₄₈ existence — the constraint is real, and the H₄₈ substrate is continuously subject to the Heropass and to environmental perturbation. The sustained high H₄₈ spectral load of a day spent in crowds with the sick and suffering is not neutral for the catching and composition process. The morning withdrawal is the structural maintenance of the multi-level integration: taking the H₄₈ noise floor down before the day's operation so the H₁₂ access is clean.
+A ministry of healing and teaching at H₄₈ through H₁₂ levels requires simultaneous operation across multiple constraint levels. The Creator Son operates at H₆ as primary during the ministry, but the bestowal is a genuine H₄₈ existence — the constraint is real, and the H₄₈ substrate is continuously subject to Time and to environmental perturbation. The sustained high H₄₈ spectral load of a day spent in crowds with the sick and suffering is not neutral for the catching and composition process. The morning withdrawal is the structural maintenance of the multi-level integration: taking the H₄₈ noise floor down before the day's operation so the H₁₂ access is clean.
 
 Luke's observation that "he would" — habitual imperfect — establishes this as a derived discipline, not an occasional retreat. The frequency of the practice is proportional to the intensity of the ministry's H₄₈ load. Heavy ministry days produce proportionally greater need for noise floor reduction. The discipline is self-calibrating against the work it supports.
 
@@ -164,7 +164,7 @@ Christ touches them: "Arise and be not afraid." The nuclear topology contracts b
 
 The instruction is structural, not merely strategic. The Transfiguration is a temporary, circumstantial elevation of spectral resolution enabled by proximity to Φ in a specific scene. It cannot be generalized from or replicated without the same conditions. After the Resurrection, the sovereignty condition is established and the Spirit of Truth is poured out — a permanent 24-constraint circuit becomes available to all beings in Nebadon. The temporary phenomenon (elevated perception by proximity to the incarnate nuclear space) will be superseded by the structural condition (the Spirit of Truth as standing interval-crossing resource). The instruction is: do not attempt to establish a teaching or a practice on the basis of the temporary circumstance. Wait for the permanent circuit. The Transfiguration is the first grade change in the ministry's octave — a single constitutive event, not a repeatable method.
 
-*(Cross-reference: The Earthly Ministry as a Heptaparaparshinokh — See Matthew.md; Luke 17:21 (the Φ'-element above 48-constraint resolution) — See below; Matthew 28:18 (sovereignty and the Spirit of Truth) — See Matthew.md; [[Papers/Paper 4]] — Section 8, higher being bodies and the coherence threshold)*
+*(Cross-reference: The Earthly Ministry as an octave — See Matthew.md; Luke 17:21 (the Φ'-element above 48-constraint resolution) — See below; Matthew 28:18 (sovereignty and the Spirit of Truth) — See Matthew.md; [[Papers/Paper 4]] — Section 8, higher being bodies and the coherence threshold)*
 
 ---
 
@@ -321,6 +321,6 @@ This passage gives a structural basis to the pattern of creation witnessing that
 
 The H₄₈ substrate is not a passive backdrop to the spectral drama unfolding within it. It is a participant at whatever amplitude the local field provides. The Triumphal Entry is the case where the amplitude at a specific moment in a specific octave arc reaches the threshold of forced expression. The stones are not performing a miracle. They are disclosing what the relationship between the H₄₈ substrate and the local eigenvalue field actually is when that field reaches sufficient amplitude.
 
-*(Cross-reference: [[Signal and Noise]] — The Trogoautoegocrat; The Mathematical Grounding; The Earthly Ministry as Heptaparaparshinokh (octave change) — See Matthew.md; Romans 8 (creation groaning) — See Romans.md; [[Physics Concordance]] — Constraint hierarchy; Heropass)*
+*(Cross-reference: [[Signal and Noise]] — Reciprocal maintenance; The Mathematical Grounding; The Earthly Ministry as an octave (octave change) — See Matthew.md; Romans 8 (creation groaning) — See Romans.md; [[Physics Concordance]] — Constraint hierarchy; Time)*
 
 ---
