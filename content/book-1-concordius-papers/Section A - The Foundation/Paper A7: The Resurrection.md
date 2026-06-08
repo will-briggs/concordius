@@ -4,7 +4,7 @@
 
 *Paper A7 of Section A, and its close. The previous paper ended at a sealed tomb; this one follows what the tradition says came after, to the end of the book. Each section opens with the story — told tenderly, and anchored on the Scripture that carries it — and then states what the event would *be* in the framework's own terms: the objects, the operations, the tier at which the claim is held. The miracles are where the structure is obliged either to say something exact or to admit it cannot. The foundation laid across Section A becomes, at the end, a thing handed on: the inheritance Section B takes up.*
 
-*Status: the structural readings are tiered inline. The algebra of the glorified body (e₀ absent from the organizing Clifford algebra), the Ascension as a constraint-level transition, Pentecost as the universalization of τ_nuclear, the Return as the one transition not self-administrable, and the new creation as the global removal of e₀ are derivations within the framework. Their identification with the named events is concordance. The events themselves are testimony, received as testimony and not derived. Beneath all of it the section's one unearned premise still stands — that reality admits this model at all.*
+*Status: the structural readings are tiered inline. The algebra of the glorified body (e₀ absent from the organizing Clifford algebra), the Ascension as a constraint-level transition, Pentecost as the universalization of τ_nuclear, the Return as the one transition not self-administrable, and the new creation as the global removal of e₀ are derivations within the framework. Their identification with the named events is concordance. The events themselves are testimony, received as testimony and not derived. A closing survey gives the physical record of the apostolic age, tiered as it stands — the miracles unattested by their nature; the world, the named officials, the practice, the settings, the earliest manuscripts, and the apostles' graves attested at point after point (the Pilate Stone; the Caiaphas ossuary; Givat ha-Mivtar; the Gallio, Erastus, and politarch inscriptions; the Bethesda and Siloam pools; P52; the Vatican and St-Paul tombs), following standard scholarship. Beneath all of it the section's one unearned premise still stands — that reality admits this model at all.*
 
 ---
 
@@ -179,6 +179,33 @@ The letters are the maturation of the spectral structure: many members, each its
 Then the long time began — the centuries no single story can hold, of ordinary people keeping faith without seeing the end of it: parents teaching children who would teach children, the bread broken in catacombs and kitchens, most of the names lost. Some of them died for it, in arenas and on roads; and to the church under that weight the word came, *be thou faithful unto death, and I will give thee a crown of life* (Revelation 2:10). It is a word for people who must hold on in the dark, on trust, with no morning yet in sight.
 
 The age that follows is conducted under e₀ at full strength — H₄₈, where the GNST rate and the accumulated unchosen spectrum are both maximal, the most demanding catching environment in the sequence. The work is the accumulation of the deposit across generations that do not see the end: catching against the maximal pull, building what survives dissolution. Structurally it is a held state before a transition it cannot perform on itself — the passage into H₁ is not reachable by ascending effort, for the reason the next station makes exact. *Be thou faithful unto death, and I will give thee a crown of life* (Revelation 2:10) is the instruction for precisely that position: keep accumulating the invariant under the generator of decay, and wait for the transition you cannot administer.
+
+---
+
+## The Physical Record
+
+<hr>
+
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+
+> **"For the king knoweth of these things… for I am persuaded that none of these things are hidden from him; for this thing was not done in a corner."**
+> *— Acts 26:26*
+
+</div>
+
+<hr>
+
+Paul, on trial before a king, said the thing "was not done in a corner," and he was right: the events sit in real places, under named officials, in a datable decade, and the spade has met that world at point after point. It is worth saying exactly what the spade can and cannot reach, because the pattern is itself the lesson.
+
+What it cannot reach is the miracle. A resurrection leaves no artifact; an empty tomb is, to a trowel, only an empty tomb; the wind of Pentecost cast no shadow in any layer. The events on which everything turns are by their nature the kind that leave no trace — which is why this paper has held them, throughout, as testimony, and must.
+
+What it reaches firmly is the world they happened in, down to the very men. The two who tried him are both in the ground with their names on them: *Pontius Pilatus, prefect of Judea*, on a limestone block from Caesarea (found 1961), the only object that bears his name; and *Joseph son of Caiaphas*, on a first-century ossuary (1990), the bone-box of the high priest who presided over the trial. The death he died is there too — the heel bone from Givat ha-Mivtar (1968), a crucified first-century man with the iron nail still driven through it, bent where it struck a knot in the olive wood, and his bones afterward gathered by his family into an ossuary: the only physical remains of a Roman crucifixion from the period, and proof that a crucified body could be given burial, exactly as the Gospels say his was.
+
+And the world of the spreading church is attested as densely. The officials of Paul's roads keep turning up under his feet: the Gallio inscription from Delphi names Gallio proconsul of Achaia in AD 51–52, fixing Paul's eighteen months in Corinth (Acts 18:12) to a calendar year — the firmest date in the apostle's life; *Erastus*, "the treasurer of the city" Paul greets from Corinth (Romans 16:23), is named on a pavement there; and the odd word Luke chose for the magistrates of Thessalonica — *politarchs* (Acts 17:6), long charged against him as an error — turns up on inscription after inscription from that very city. He had the local title exactly right. The settings hold as well: the Pool of Bethesda with its five porches (John 5) and the Pool of Siloam (John 9) have both been dug out where John placed them; at Capernaum a first-century house was venerated as Peter's early enough to leave Christian graffiti scratched on its walls, and a first-century fishing boat was lifted whole from the lake's mud.
+
+What it reaches at one remove is the text itself: within a generation or two of the apostles the words are already physically present — the Rylands fragment of John's Gospel (P52), a scrap dated near AD 125, the oldest surviving piece of the New Testament, with others close behind. And what it reaches only with proper caution is the graves of the apostles, venerated from the second century: Peter's beneath the Vatican, where a mid-second-century shrine stands over a grave the early church marked as his — though the bones found there cannot be identified with certainty, and the church has said so; and Paul's beneath the basilica that bears his name, where bone fragments sealed in the sarcophagus were radiocarbon-dated to the first or second century, consistent with the tradition. One famous object is left unresolved on purpose: the ossuary inscribed *James son of Joseph brother of Jesus*, whose forgery trial ended not in proof either way but in "not proven," which is the honest verdict and is recorded as that.
+
+So the ground holds the world of the events — the judges, the officials, the practice, the places, the words, the graves — with a thoroughness the Old Testament's earlier record never reached, and confirms, in artifact after artifact, that none of it was done in a corner. What the ground never holds is the one set of events the whole thing turns on. That is not a gap in the evidence; it is the shape of the claim. And the next station is the same case carried to its limit: the Return is the one event no excavation will ever turn up, because it has not yet happened and, when it does, will come from outside history rather than from within it. The spade reaches the apostles' graves, and stops there. What lies past them is not buried; it is promised.
 
 ---
 
