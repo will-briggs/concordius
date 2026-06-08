@@ -6,7 +6,7 @@ tags:
 
 # Section F — The Ascension
 
-*The Ascension: the road home, the ascending career voiced by four instruments at once, from the one elementary act of catching to the face-to-face state the whole climb was turned toward.*
+*The ascending career sounded as polyphony, four instruments and one climb; the single elementary operation the whole ascent is made of; the self built to its ceiling, the three generators developed; the first shock, the closed self given the power to bond; the heart, the first bivector formed; the boundary that is not a matter of degree, crystallization; the last grade-2 note, both higher centers, the state of the saints; the dissolution, death and the climb spent to its last reserve; the second shock, the one that admits no human hand; and the face the whole climb was turned toward.*
 
 *Papers F0–F7*
 

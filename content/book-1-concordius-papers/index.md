@@ -6,7 +6,7 @@ tags:
 
 # Book 1 — Concordius Papers
 
-*The whole framework, built from the ground up and walked end to end: reality modeled as a Gelfand triple, and the arc that follows from it — the Foundation, the Inheritance received and tested, the company of witnesses, the inversion and its privation, the road home, and the practice of a single life. Sections A through G, no faith asked of the reader but the willingness to follow the argument.*
+*The ground modeled as a Gelfand triple and the world's arc read by it — the Foundation; the instrument received, tested by its own method, and handed on — the Inheritance; the cloud of witnesses who reached the same reality by other roads — the Company; evil read in the lives that carried it furthest — the Inversion; evil named as privation, a good lost rather than a power gained — the Privation; the road home, the ascending career voiced four ways at once — the Ascension; and the practice traced through a single life to the one move left to the reader — the Practice.*
 
 ---
 

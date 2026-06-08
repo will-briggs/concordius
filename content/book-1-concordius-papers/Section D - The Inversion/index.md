@@ -6,7 +6,7 @@ tags:
 
 # Section D — The Inversion
 
-*The Inversion: evil read in the lives that carried it furthest, three men and three results each the inversion of one element, the archetype beneath them, and the fall into the world.*
+*Hitler as the complete inversion of the Good (e₁); Stalin as the inversion of the True (e₂); Mao as the inversion of the Beautiful (e₃); the crossing between the three men and the three results, the demagogue and the crowd; the Holocaust as the inversion of courage (e₁e₂); the Great Purge as the inversion of temperance (e₁e₃); the Great Leap as the inversion of diligence (e₂e₃); Lucifer, the root of evil exposed; the crossing from the archetype to evil at large, the Fall; and where the three witnesses stop together, the hinge into what follows under Gödel's license.*
 
 *Papers D0–D7*
 
