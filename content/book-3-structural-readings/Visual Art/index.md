@@ -21,6 +21,7 @@ The readings collected here apply the Concordius framework to visual works that 
 
 **The Constitutive Relation**
 
+- [[Polykleitos — The Canon]] — Polykleitos, c. 440 BC
 - [[The Creation of Adam]] — Michelangelo, c. 1512
 - [[The School of Athens]] — Raphael, 1509–1511
 

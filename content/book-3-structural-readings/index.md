@@ -104,7 +104,7 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 
 ### Visual Art
 
-[[Visual Art/The Creation of Adam|The Creation of Adam]] · [[Paper 13 - The Last Supper and the Body|The Last Supper]] · [[Visual Art/The Transfiguration|The Transfiguration]] · [[Visual Art/The School of Athens|The School of Athens]] · [[Visual Art/Christ Pantocrator, Cefalù|Christ Pantocrator, Cefalù]] · [[Visual Art/Hildegard — Scivias|Hildegard — Scivias]] · [[Visual Art/The Ancient of Days|The Ancient of Days]] · [[Visual Art/Blake — The Great Red Dragon|Blake — The Great Red Dragon]] · [[Visual Art/Blake — Satan Smiting Job|Blake — Satan Smiting Job]] · [[Visual Art/Doré — Lucifer|Doré — Lucifer]] · [[Visual Art/Doré — The Empyrean|Doré — The Empyrean]]
+[[Visual Art/Polykleitos — The Canon|Polykleitos — The Canon]] · [[Visual Art/The Creation of Adam|The Creation of Adam]] · [[Paper 13 - The Last Supper and the Body|The Last Supper]] · [[Visual Art/The Transfiguration|The Transfiguration]] · [[Visual Art/The School of Athens|The School of Athens]] · [[Visual Art/Christ Pantocrator, Cefalù|Christ Pantocrator, Cefalù]] · [[Visual Art/Hildegard — Scivias|Hildegard — Scivias]] · [[Visual Art/The Ancient of Days|The Ancient of Days]] · [[Visual Art/Blake — The Great Red Dragon|Blake — The Great Red Dragon]] · [[Visual Art/Blake — Satan Smiting Job|Blake — Satan Smiting Job]] · [[Visual Art/Doré — Lucifer|Doré — Lucifer]] · [[Visual Art/Doré — The Empyrean|Doré — The Empyrean]]
 
 ### Film
 

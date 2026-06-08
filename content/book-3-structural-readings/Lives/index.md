@@ -75,6 +75,13 @@ These are not biographies and not appraisals. A Life reading does not rank the f
 - [[Lives/Theophrastus|Theophrastus]] — *the life* (botany; the Characters)
 - [[Lives/Sargon|Sargon]] — *the life* (the first empire)
 - [[Lives/Darius|Darius]] — *the life* (empire held by administration)
+- [[Lives/Phidias|Phidias]] — *the life* (the ideal form caught in the body)
+- [[Lives/Zeno of Elea|Zeno of Elea]] — *the life* (the paradoxes; the reductio)
+- [[Lives/Mozi|Mozi]] — *the life* (universal, impartial love)
+- [[Lives/Xunzi|Xunzi]] — *the life* (nature is bad; goodness by cultivation)
+- [[Lives/Sun Tzu|Sun Tzu]] — *the life* (winning without fighting; wu wei in conflict)
+- Polykleitos → [[Visual Art/Polykleitos — The Canon|The Canon]] *(work)*
+- Leucippus → [[Lives/Democritus|Democritus]] *(read with the atomism)*
 - Apollonius → [[Science/Apollonius — Conics|Conics]] *(work)*
 - Zhuangzi → [[Sacred Texts/Zhuangzi — The Inner Chapters|The Inner Chapters]] *(work)*
 - Hillel → [[Aphorisms/The Golden Rule|The Golden Rule]] *(already read)*
