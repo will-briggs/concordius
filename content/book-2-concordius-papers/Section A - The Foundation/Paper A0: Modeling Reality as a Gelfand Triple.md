@@ -38,15 +38,6 @@ It is nevertheless incomplete. The [[Appendix B - Lexicon#Eigenstate|eigenstate]
 
 The resolution is the rigged Hilbert space, or Gelfand triple: a triplet of spaces Φ ⊂ H ⊂ Φ′ in which Φ is a dense nuclear subspace of H and Φ′ is its distributional dual. This is the framework in which Dirac's bra-ket formalism is rigorously justified (Gelfand and Vilenkin, 1964; Maurin, 1968). It is not a supplement to H — it is the correct mathematical framework for quantum mechanics, of which the bare Hilbert space H is a central but incomplete component.
 
-<hr>
-
-<figure>
-<img src="/static/images/dirac-1933.jpg" alt="Portrait of Paul Dirac, 1933" style="max-width:100%;">
-<figcaption><em>Paul Dirac</em> (1933). Dirac's bra-ket notation treated |x⟩ and |p⟩ as eigenstates that no element of the Hilbert space could hold — a formalism that worked before it was justified. The Gelfand triple Φ ⊂ H ⊂ Φ′ is the structure in which that informal method is made rigorous.</figcaption>
-</figure>
-
-<hr>
-
 This paper makes two connected claims. First, that the Gelfand triple structure is not arbitrary but inevitable: given any model of reality founded on inner product structure, the three domains Φ, H, and Φ′ are forced by the mathematics. Second, that the inner product ⟨·,·⟩ itself — prior to its completion into the triple — inevitably generates five distinct structural actualities, each following necessarily from what the inner product is. Both claims are developed below. The relationship between the two projections is examined in Section 7.
 
 This paper has one assumption: that reality can be modeled as a Gelfand triple. Everything else is derived. The structures demonstrated here exist without names — they are mathematical objects whose identities are established by the mathematics alone. The paper ends at the point where mathematics can take us no further.
@@ -77,7 +68,14 @@ Nuclear spaces have a projective limit representation: Φ = ⋂ₖ Hₖ where H 
 
 The distributional dual Φ′ consists of continuous linear functionals on Φ. It contains Φ and H as proper subsets (via H ≅ H* ↪ Φ′). Its elements include the Dirac delta distribution δ(x − x₀) — pure localization at a point with infinite intensity, not a square-integrable function — and white noise, a stochastic process with infinite variance that cannot be a point of H. These objects have precise mathematical structure that exceeds what H can contain (Gelfand and Vilenkin, 1964).
 
----
+<hr>
+
+<figure>
+<img src="/static/images/dirac-1933.jpg" alt="Portrait of Paul Dirac, 1933" style="max-width:100%;">
+<figcaption><em>Paul Dirac</em> (1933). Dirac's bra-ket notation treated |x⟩ and |p⟩ as eigenstates that no element of the Hilbert space could hold — a formalism that worked before it was justified. The Gelfand triple Φ ⊂ H ⊂ Φ′ is the structure in which that informal method is made rigorous.</figcaption>
+</figure>
+
+<hr>
 
 ## 3. The Gelfand Triple: Construction and Invariance
 
