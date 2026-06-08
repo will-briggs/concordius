@@ -709,6 +709,8 @@ The critical structural point: the intervals are not failures or defects in the 
 
 *(tradition: Gurdjieff — series extension)*
 
+*The Series' own terms for this phenomenon are **[[Appendix I - Dictionary of Terms#Time|Time]]** (succession with decay) and **[[Appendix I - Dictionary of Terms#Sequence|Sequence]]** (succession without it); this entry is kept as the Gurdjieff concordance.*
+
 Gurdjieff's term, from *Beelzebub's Tales to His Grandson*, for the irreversible dissolution force of time — the "mercilessly-flowing-of-time" by which every formed existence is continuously subject to dissipation. The Concordius series gives this phenomenon a structural derivation and locates it precisely within the constraint cascade.
 
 **What the Heropass is.** The Heropass is the accumulated effect of time understood as the ghost of the unchosen spectrum — the weight of everything the Creative Choice did not actualize, pressing back against what was chosen as time progresses. At the Creative Choice, one eigenbasis was selected from the infinite-dimensional distributional potential; everything not selected became the complement. Formally, this complement is e₀ = −1: the single negative generator whose algebraic expression enters the cascade at the Mi-Fa crossing (H₁₂/H₂₄) when the spatial algebra Cl(3,0) is extended to the full spacetime algebra Cl(3,1) (Paper 3½ §6). Every actualization event from H₂₄ downward occurs within Cl(3,1), and every such event not only actualizes positive-sector content but produces a complement — more unchosen spectrum — that the −1 generator makes structurally present. This accumulates over time. The Heropass is not instantaneous dissolution. It is the gathered weight of all that was not chosen, exerting continuous directional pressure on what was.
@@ -1365,6 +1367,14 @@ The Concordius series maps self-remembering onto the development of the catching
 
 ---
 
+### Sequence
+
+*(series)*
+
+A **Series formal term.** *Sequence* is bare succession — the ordering of before and after, one actualization following another — produced by the continuous operation of the GNST at every constraint level. It is present wherever the GNST runs, from H₁ downward, and it carries **no decay**: a state in Sequence undergoes one event after another but is not thereby worn toward dissolution. Above the grade-1→grade-2 crossing (Cl(3,0), no e₀), Sequence is the *only* temporal mode — beings constituted there experience succession but do not age ("sequence without entropy," Paper A2½ §6). Sequence is the decay-free half of what ordinary language calls time; the half *with* decay is [[Appendix I - Dictionary of Terms#Time|Time]].
+
+*Provenance: the Series' own term, coined (with [[Appendix I - Dictionary of Terms#Time|Time]]) to replace the Gurdjieffian "[[Appendix I - Dictionary of Terms#Heropass|Heropass]]" in trunk; the underlying distinction — succession with vs. without the e₀ dissipative axis — is derived in Paper A2½ §6.*
+
 ### Si-Do Interval
 
 *(tradition: Gurdjieff — series extension)*
@@ -1516,6 +1526,14 @@ See *Apokalypsis*, *Ta Panta en Pasin*; and *Creation* (the Alpha–Omega identi
 *Urantia concordance: "God the Absolute."* The Urantia God the Absolute is the experiential realization of the Deity Absolute at the limit of the master universe. That is to Alpha kai to Ō (τὸ Ἄλφα καὶ τὸ Ὦ, Rev 1:8): the Alpha and the Omega — the experiential Deity at the limit.
 
 ---
+
+### Time
+
+*(series)*
+
+A **Series formal term.** *Time* is **Sequence together with decay** — succession plus the continuous dissipative pressure that the negative generator e₀ (e₀² = −1) imposes at H₂₄ and below. Where [[Appendix I - Dictionary of Terms#Sequence|Sequence]] is bare before-and-after, Time is before-and-after that *wears*: every actualization event not only follows the last but is pressed toward dissolution by the complement of creation — the ghost of the unchosen spectrum, the accumulated weight of everything the Creative Choice did not actualize, pressing back through e₀ against what was. Time operates at H₂₄, H₄₈, and H₉₆, and nowhere above; H₄₈ physical matter feels it most fully. To be *in Time* is to age and die; to be in Sequence alone (H₁₂ and above) is to live in succession without dissolution — what the tradition calls eternity. **Time = Sequence + decay.**
+
+*Provenance: the Series' own term for what Gurdjieff named the "[[Appendix I - Dictionary of Terms#Heropass|Heropass]]" — the merciless, compounding pressure of time. The structural derivation, through e₀ and the Clifford grade structure, is Paper A2½ §6.*
 
 ### Transmuting Field
 
