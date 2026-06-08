@@ -1,8 +1,8 @@
 ---
-title: Appendix V - Machine-readable Concordius Framework
+title: Appendix E - Machine-readable Concordius Framework
 ---
 
-# Appendix V — Machine-readable Concordius Framework
+# Appendix E — Machine-readable Concordius Framework
 
 ---
 
@@ -57,7 +57,7 @@ Subscript = number of independently operating constraint law-sets. More constrai
 
 **Catching / ascending career** — The volitional process by which a H₄₈ being progressively replaces H₄₈-primary eigenvalue content with ⟨·,·⟩-organized (H₂₄) content. An eigenvalue replacement program, not primarily moral preparation. Constitutively volitional: the dual pairing ⟨φ, f⟩ requires f to orient toward φ; it cannot be forced.
 
-**H-origin / Φ'-origin states** — Which domain of the Gelfand triple a being is constituted in; follows from the triple's architecture with no added assumption. *H-origin* (angelic): ψ ∈ H — constitutive inner-product access (⟨ψ,φ⟩ defined for every φ∈H), norm-bounded (‖ψ‖<∞), stable under bounded operators, GNST expansion convergent in the H-norm; the geometry is native, no boundary to cross; office = transmission; highest origin at H₁. *Φ'-origin* (mortal): f ∈ Φ' — a continuous functional on Φ, not square-integrable (δₓ the canonical case); no direct inner-product access, only the dual pairing ⟨φ,f⟩ through a Φ-probe; H-membership only asymptotically approachable, by accumulating Φ-proximate content (the catching career). Embodied, the mortal is a finite H₄₈-state — the body the occasion where Φ' and Φ touch. Prose home: Paper A3 §3; concordance (angelologies / anthropologies): Appendix I, *Angelic origin / Mortal origin*.
+**H-origin / Φ'-origin states** — Which domain of the Gelfand triple a being is constituted in; follows from the triple's architecture with no added assumption. *H-origin* (angelic): ψ ∈ H — constitutive inner-product access (⟨ψ,φ⟩ defined for every φ∈H), norm-bounded (‖ψ‖<∞), stable under bounded operators, GNST expansion convergent in the H-norm; the geometry is native, no boundary to cross; office = transmission; highest origin at H₁. *Φ'-origin* (mortal): f ∈ Φ' — a continuous functional on Φ, not square-integrable (δₓ the canonical case); no direct inner-product access, only the dual pairing ⟨φ,f⟩ through a Φ-probe; H-membership only asymptotically approachable, by accumulating Φ-proximate content (the catching career). Embodied, the mortal is a finite H₄₈-state — the body the occasion where Φ' and Φ touch. Prose home: Paper A3 §3; concordance (angelologies / anthropologies): Appendix A, *Angelic origin / Mortal origin*.
 
 **Dual pairing ⟨φ, f⟩** — The structural mechanism by which a Φ'-origin being at H₄₈ receives Φ-proximate content. φ ∈ Φ (lower-constraint content); f ∈ Φ' (the catching being's functional state). Requires volitional orientation of f toward φ. The catching act = performing this alignment.
 
@@ -287,4 +287,4 @@ M is **not yet quantifiable** (Paper 10½ OQ5): account for the messenger filter
 
 ---
 
-*This file is Appendix V of Book 4. For full derivations, see the Concordius Papers (Book 1). For the technical vocabulary in full, see Appendix I — Dictionary of Terms. For the reading method in full, see the Framework and Method section of Book 3 — Structural Readings.*
+*This file is Appendix E of Book 4. For full derivations, see the Concordius Papers (Book 1). For the technical vocabulary in full, see Appendix A — Dictionary of Terms. For the reading method in full, see the Framework and Method section of Book 3 — Structural Readings.*

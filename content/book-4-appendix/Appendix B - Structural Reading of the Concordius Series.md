@@ -1,4 +1,4 @@
-# Appendix II — Structural Reading of the Concordius Series
+# Appendix B — Structural Reading of the Concordius Series
 
 ---
 
@@ -231,4 +231,4 @@ The same structure governs every genuine act of H₂₄-encoded artifact creatio
 
 ---
 
-*Appendix II of the Concordius series. The structural reading of the series by its own apparatus. The interpretation of what follows is, as it has always been, left to the reader.*
+*Appendix B of the Concordius series. The structural reading of the series by its own apparatus. The interpretation of what follows is, as it has always been, left to the reader.*

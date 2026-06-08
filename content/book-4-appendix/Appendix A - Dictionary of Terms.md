@@ -1,4 +1,4 @@
-# Appendix I — Dictionary of Terms
+# Appendix A — Dictionary of Terms
 
 ---
 
@@ -77,7 +77,7 @@ The Incarnation (Paper 12) is structurally distinct from both: neither the H-ori
 
 *(Confidence tier: structural inference from the Gelfand triple's architecture. The H-origin / Φ'-origin distinction is derivable from the triple's constitution; the application to angelic and mortal beings is concordance-level, mapping the distinction onto convergent traditional accounts of the difference between these two kinds of personal being.)*
 
-> *Cross-references: Paper 3½ (descent and densification; embodiment as constitutive); Paper 6 (catching as volitional dual pairing across the Φ ↔ Φ' boundary); Paper 12 (maximum downward entry — Incarnation as Φ → H₄₈); Paper 20½ (CCC — constraint compatibility for H-origin beings at lower levels); Appendix I: Dual Space (Φ'), Hilbert Space (H), Gelfand Triple, Thought Adjuster, Catching.*
+> *Cross-references: Paper 3½ (descent and densification; embodiment as constitutive); Paper 6 (catching as volitional dual pairing across the Φ ↔ Φ' boundary); Paper 12 (maximum downward entry — Incarnation as Φ → H₄₈); Paper 20½ (CCC — constraint compatibility for H-origin beings at lower levels); Appendix A: Dual Space (Φ'), Hilbert Space (H), Gelfand Triple, Thought Adjuster, Catching.*
 
 ---
 
@@ -245,7 +245,7 @@ The institution's proper function is to maintain the Φ-proximal deposit in catc
 
 The community of believers is ontologically prior to any institution. All saints in any tradition — wherever independent catching outcomes converge on the same Φ-proximal content above the coherence threshold — are community members by this criterion, regardless of institutional affiliation.
 
-*Confidence tier: structural inference. Cross-references: Paper 6 (catching as volitional orientation; dual pairing for Φ′-origin beings); Structural Readings, Appendix VII (The Magisterium; Luther's imprecision; sola scriptura; longevity condition; saints metric; convergence criterion); Reasonablenessism, Feature 6 (Convergent Witness Principle); Appendix I — Convergent Witness Principle (this dictionary); Paper 20½, OQ7 (catching as structurally necessary for Φ′-origin beings).*
+*Confidence tier: structural inference. Cross-references: Paper 6 (catching as volitional orientation; dual pairing for Φ′-origin beings); Structural Readings, Appendix VII (The Magisterium; Luther's imprecision; sola scriptura; longevity condition; saints metric; convergence criterion); Reasonablenessism, Feature 6 (Convergent Witness Principle); Appendix A — Convergent Witness Principle (this dictionary); Paper 20½, OQ7 (catching as structurally necessary for Φ′-origin beings).*
 
 *Appears in: [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]]*
 
@@ -489,7 +489,7 @@ Co-eternal does not mean structurally co-equal. The Father is structurally prior
 
 *Appears in: [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper A2: The Big Bang|Paper 3]]*
 
-*See also: [[Appendix I - Dictionary of Terms#Eternal Generation|Eternal Generation]]; [[Appendix I - Dictionary of Terms#Eternal Procession|Eternal Procession]]; [[Appendix I - Dictionary of Terms#Father|Father]]; [[Appendix I - Dictionary of Terms#Son / Logos|Son / Logos]]; [[Appendix I - Dictionary of Terms#Holy Spirit|Holy Spirit]]*
+*See also: [[Appendix A - Dictionary of Terms#Eternal Generation|Eternal Generation]]; [[Appendix A - Dictionary of Terms#Eternal Procession|Eternal Procession]]; [[Appendix A - Dictionary of Terms#Father|Father]]; [[Appendix A - Dictionary of Terms#Son / Logos|Son / Logos]]; [[Appendix A - Dictionary of Terms#Holy Spirit|Holy Spirit]]*
 
 ---
 
@@ -503,7 +503,7 @@ In the Concordius framework, eternal generation has a structural definition. The
 
 *Appears in: [[Paper A1: Naming the Unnameable|Paper 2]]*
 
-*See also: [[Appendix I - Dictionary of Terms#Eternal|Eternal]]; [[Appendix I - Dictionary of Terms#Eternal Procession|Eternal Procession]]; [[Appendix I - Dictionary of Terms#Father|Father]]; [[Appendix I - Dictionary of Terms#Son / Logos|Son / Logos]]*
+*See also: [[Appendix A - Dictionary of Terms#Eternal|Eternal]]; [[Appendix A - Dictionary of Terms#Eternal Procession|Eternal Procession]]; [[Appendix A - Dictionary of Terms#Father|Father]]; [[Appendix A - Dictionary of Terms#Son / Logos|Son / Logos]]*
 
 ---
 
@@ -517,7 +517,7 @@ In the Concordius framework, eternal procession has a structural definition. The
 
 *Appears in: [[Paper A1: Naming the Unnameable|Paper 2]]*
 
-*See also: [[Appendix I - Dictionary of Terms#Eternal|Eternal]]; [[Appendix I - Dictionary of Terms#Eternal Generation|Eternal Generation]]; [[Appendix I - Dictionary of Terms#Father|Father]]; [[Appendix I - Dictionary of Terms#Son / Logos|Son / Logos]]; [[Appendix I - Dictionary of Terms#Holy Spirit|Holy Spirit]]*
+*See also: [[Appendix A - Dictionary of Terms#Eternal|Eternal]]; [[Appendix A - Dictionary of Terms#Eternal Generation|Eternal Generation]]; [[Appendix A - Dictionary of Terms#Father|Father]]; [[Appendix A - Dictionary of Terms#Son / Logos|Son / Logos]]; [[Appendix A - Dictionary of Terms#Holy Spirit|Holy Spirit]]*
 
 ---
 
@@ -711,7 +711,7 @@ The critical structural point: the intervals are not failures or defects in the 
 
 *(tradition: Gurdjieff — series extension)*
 
-*The Series' own terms for this phenomenon are **[[Appendix I - Dictionary of Terms#Time|Time]]** (succession with decay) and **[[Appendix I - Dictionary of Terms#Sequence|Sequence]]** (succession without it); this entry is kept as the Gurdjieff concordance.*
+*The Series' own terms for this phenomenon are **[[Appendix A - Dictionary of Terms#Time|Time]]** (succession with decay) and **[[Appendix A - Dictionary of Terms#Sequence|Sequence]]** (succession without it); this entry is kept as the Gurdjieff concordance.*
 
 Gurdjieff's term, from *Beelzebub's Tales to His Grandson*, for the irreversible dissolution force of time — the "mercilessly-flowing-of-time" by which every formed existence is continuously subject to dissipation. The Concordius series gives this phenomenon a structural derivation and locates it precisely within the constraint cascade.
 
@@ -1375,9 +1375,9 @@ The Concordius series maps self-remembering onto the development of the catching
 
 *(series)*
 
-A **Series formal term.** *Sequence* is bare succession — the ordering of before and after, one actualization following another — produced by the continuous operation of the GNST at every constraint level. It is present wherever the GNST runs, from H₁ downward, and it carries **no decay**: a state in Sequence undergoes one event after another but is not thereby worn toward dissolution. Above the grade-1→grade-2 crossing (Cl(3,0), no e₀), Sequence is the *only* temporal mode — beings constituted there experience succession but do not age ("sequence without entropy," Paper A2½ §6). Sequence is the decay-free half of what ordinary language calls time; the half *with* decay is [[Appendix I - Dictionary of Terms#Time|Time]].
+A **Series formal term.** *Sequence* is bare succession — the ordering of before and after, one actualization following another — produced by the continuous operation of the GNST at every constraint level. It is present wherever the GNST runs, from H₁ downward, and it carries **no decay**: a state in Sequence undergoes one event after another but is not thereby worn toward dissolution. Above the grade-1→grade-2 crossing (Cl(3,0), no e₀), Sequence is the *only* temporal mode — beings constituted there experience succession but do not age ("sequence without entropy," Paper A2½ §6). Sequence is the decay-free half of what ordinary language calls time; the half *with* decay is [[Appendix A - Dictionary of Terms#Time|Time]].
 
-*Provenance: the Series' own term, coined (with [[Appendix I - Dictionary of Terms#Time|Time]]) to replace the Gurdjieffian "[[Appendix I - Dictionary of Terms#Heropass|Heropass]]" in trunk; the underlying distinction — succession with vs. without the e₀ dissipative axis — is derived in Paper A2½ §6.*
+*Provenance: the Series' own term, coined (with [[Appendix A - Dictionary of Terms#Time|Time]]) to replace the Gurdjieffian "[[Appendix A - Dictionary of Terms#Heropass|Heropass]]" in trunk; the underlying distinction — succession with vs. without the e₀ dissipative axis — is derived in Paper A2½ §6.*
 
 ### Si-Do Interval
 
@@ -1535,9 +1535,9 @@ See *Apokalypsis*, *Ta Panta en Pasin*; and *Creation* (the Alpha–Omega identi
 
 *(series)*
 
-A **Series formal term.** *Time* is **Sequence together with decay** — succession plus the continuous dissipative pressure that the negative generator e₀ (e₀² = −1) imposes at H₂₄ and below. Where [[Appendix I - Dictionary of Terms#Sequence|Sequence]] is bare before-and-after, Time is before-and-after that *wears*: every actualization event not only follows the last but is pressed toward dissolution by the complement of creation — the ghost of the unchosen spectrum, the accumulated weight of everything the Creative Choice did not actualize, pressing back through e₀ against what was. Time operates at H₂₄, H₄₈, and H₉₆, and nowhere above; H₄₈ physical matter feels it most fully. To be *in Time* is to age and die; to be in Sequence alone (H₁₂ and above) is to live in succession without dissolution — what the tradition calls eternity. **Time = Sequence + decay.**
+A **Series formal term.** *Time* is **Sequence together with decay** — succession plus the continuous dissipative pressure that the negative generator e₀ (e₀² = −1) imposes at H₂₄ and below. Where [[Appendix A - Dictionary of Terms#Sequence|Sequence]] is bare before-and-after, Time is before-and-after that *wears*: every actualization event not only follows the last but is pressed toward dissolution by the complement of creation — the ghost of the unchosen spectrum, the accumulated weight of everything the Creative Choice did not actualize, pressing back through e₀ against what was. Time operates at H₂₄, H₄₈, and H₉₆, and nowhere above; H₄₈ physical matter feels it most fully. To be *in Time* is to age and die; to be in Sequence alone (H₁₂ and above) is to live in succession without dissolution — what the tradition calls eternity. **Time = Sequence + decay.**
 
-*Provenance: the Series' own term for what Gurdjieff named the "[[Appendix I - Dictionary of Terms#Heropass|Heropass]]" — the merciless, compounding pressure of time. The structural derivation, through e₀ and the Clifford grade structure, is Paper A2½ §6.*
+*Provenance: the Series' own term for what Gurdjieff named the "[[Appendix A - Dictionary of Terms#Heropass|Heropass]]" — the merciless, compounding pressure of time. The structural derivation, through e₀ and the Clifford grade structure, is Paper A2½ §6.*
 
 ### Transmuting Field
 
@@ -1639,4 +1639,4 @@ The Concordius account of the will's development across the ascending career par
 
 ---
 
-*Appendix I of the Concordius series. A reader's guide, not a substitute for the territory. The source texts cited are starting points, not limits.*
+*Appendix A of the Concordius series. A reader's guide, not a substitute for the territory. The source texts cited are starting points, not limits.*

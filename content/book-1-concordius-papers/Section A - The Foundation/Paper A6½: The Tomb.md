@@ -76,7 +76,7 @@ So the series sets down its tools and waits at the stone, with the women, in the
 
 ---
 
-*Cross-reference: Paper A3 (the Son's articulating act; the first bivector); Paper A4 (the material order of life, here running down); Paper A5 (the cohering self, now undone); Paper A1 (the Word, the naming); Appendix I (the felt-spectrum; the antipode; the preserved norm). Scripture: John 19:38–42; 1 Peter 3:18–19; Psalm 139:7–8; Matthew 27:57–66.*
+*Cross-reference: Paper A3 (the Son's articulating act; the first bivector); Paper A4 (the material order of life, here running down); Paper A5 (the cohering self, now undone); Paper A1 (the Word, the naming); Appendix A (the felt-spectrum; the antipode; the preserved norm). Scripture: John 19:38–42; 1 Peter 3:18–19; Psalm 139:7–8; Matthew 27:57–66.*
 
 ---
 

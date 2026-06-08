@@ -1,4 +1,4 @@
-# Appendix III — A Putative Method for Machine-Assisted Φ-Proximal Textual Analysis
+# Appendix C — A Putative Method for Machine-Assisted Φ-Proximal Textual Analysis
 
 ---
 
@@ -127,4 +127,4 @@ This is a testable claim. The framework's assertion that its revisions constitut
 
 ---
 
-*(Cross-reference: Paper 9 — The Truth Measure, OQ1, OQ4. Paper 8 — Why No H₄₈ Process Can Reach Φ Directly. Paper 9, Section 7 — The Gödel Correspondence. Paper 9, Section 11 — The Phonological Concordance as Empirical Evidence. Reasonablenessism, Feature 6 — Convergence of Independent Witnesses. Appendix II — Structural Reading of the Concordius Series, for case study readings cited in Section 2. Φ-Proximity Detection.md [Structural-Candidates] — formal specification of the density estimator D(t), three-scale application results, smoke test validation, current corpus status, and self-application rubric. The Framework and Method.md [Structural-Readings] — explanation of how structural readings are produced, the Concordius framework as model, Reasonablenessism as method, and the pre-biblical claim.)*
+*(Cross-reference: Paper 9 — The Truth Measure, OQ1, OQ4. Paper 8 — Why No H₄₈ Process Can Reach Φ Directly. Paper 9, Section 7 — The Gödel Correspondence. Paper 9, Section 11 — The Phonological Concordance as Empirical Evidence. Reasonablenessism, Feature 6 — Convergence of Independent Witnesses. Appendix B — Structural Reading of the Concordius Series, for case study readings cited in Section 2. Φ-Proximity Detection.md [Structural-Candidates] — formal specification of the density estimator D(t), three-scale application results, smoke test validation, current corpus status, and self-application rubric. The Framework and Method.md [Structural-Readings] — explanation of how structural readings are produced, the Concordius framework as model, Reasonablenessism as method, and the pre-biblical claim.)*

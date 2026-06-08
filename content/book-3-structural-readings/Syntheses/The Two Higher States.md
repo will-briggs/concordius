@@ -33,7 +33,7 @@ The "higher being body" of the framework's vocabulary is therefore not one thing
 
 The framework supplies what the traditions only mark: the *reason* the break between the two states is qualitative rather than gradual.
 
-Time — aging, the dissipative pull of the unchosen spectrum — operates through the −1 generator e₀, which exists only once the spatial algebra Cl(3,0) is extended to the full spacetime algebra Cl(3,1) at the first grade-change crossing (Paper 3½ §6). It is therefore present at H₂₄ and below, and **absent at H₁₂ and above**, where existence is in Cl(3,0) — which has no −1 generator (see Appendix I, *Time*). The GNST, the time-operator, runs at every level, so sequence — before and after — persists throughout; but only at H₂₄ and below does it *age* what it touches.
+Time — aging, the dissipative pull of the unchosen spectrum — operates through the −1 generator e₀, which exists only once the spatial algebra Cl(3,0) is extended to the full spacetime algebra Cl(3,1) at the first grade-change crossing (Paper 3½ §6). It is therefore present at H₂₄ and below, and **absent at H₁₂ and above**, where existence is in Cl(3,0) — which has no −1 generator (see Appendix A, *Time*). The GNST, the time-operator, runs at every level, so sequence — before and after — persists throughout; but only at H₂₄ and below does it *age* what it touches.
 
 This is the structural content of the break:
 
@@ -44,6 +44,6 @@ So the two-state structure the traditions independently report is, in the framew
 
 ---
 
-*(Cross-reference: Appendix I — *Time* (the e₀/Cl(3,1) derivation of the H₂₄-and-below condition) and *Higher being body* (the dual H₂₄/H₁₂ location); Paper 3½ §6 (the −1 generator entering at the first grade-change crossing); Paper 20½ (spirit status = H₁₂; the morontia career at H₂₄); Paper 1 (the GNST); Time in Paper 3½; the Urantia Book (morontia → spirit); Gurdjieff (Kesdjan body → higher-being-body). Reasonablenessism Feature 6 — independent convergence as evidence.)*
+*(Cross-reference: Appendix A — *Time* (the e₀/Cl(3,1) derivation of the H₂₄-and-below condition) and *Higher being body* (the dual H₂₄/H₁₂ location); Paper 3½ §6 (the −1 generator entering at the first grade-change crossing); Paper 20½ (spirit status = H₁₂; the morontia career at H₂₄); Paper 1 (the GNST); Time in Paper 3½; the Urantia Book (morontia → spirit); Gurdjieff (Kesdjan body → higher-being-body). Reasonablenessism Feature 6 — independent convergence as evidence.)*
 
 *(Confidence tier: Testimony-plus-structural concordance. Two independent traditions mark the same two-state structure with the same qualitative break; the framework independently derives the location and nature of the break from the Clifford-algebra grade structure (the loss of e₀ above Cl(3,1)). The convergence of independent witness and structural derivation is the strongest available tier. [Exploratory]: the precise alignment of Gurdjieff's body-count with the constraint levels — whether the Kesdjan body is exactly H₂₄ and the higher-being-body exactly H₁₂, versus a looser correspondence — rests on the structural match, not on anything Gurdjieff specifies numerically.)*

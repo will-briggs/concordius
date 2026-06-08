@@ -1,10 +1,10 @@
 ---
-title: "Appendix IV — Falsifiable Quantitative Predictions of the Concordius Framework"
+title: "Appendix D — Falsifiable Quantitative Predictions of the Concordius Framework"
 tags:
   - nav-order::6.4
 ---
 
-# Appendix IV — Falsifiable Quantitative Predictions of the Concordius Framework
+# Appendix D — Falsifiable Quantitative Predictions of the Concordius Framework
 
 ---
 
@@ -207,4 +207,4 @@ The predictions are the bet. The physics is the table.
 
 ---
 
-*Cross-references: Paper 3½ §9 (cascade timing derivation and GUT retrodiction); Paper 3½ §2 (dark matter structural identification); Paper 6 §2 (dark matter as cross-level norm content); Paper 4 (Higgs mechanism at H₄₈ completion); Paper 20½ (Constraint Compatibility Condition); Appendix III (Φ-proximity detection methodology).*
+*Cross-references: Paper 3½ §9 (cascade timing derivation and GUT retrodiction); Paper 3½ §2 (dark matter structural identification); Paper 6 §2 (dark matter as cross-level norm content); Paper 4 (Higgs mechanism at H₄₈ completion); Paper 20½ (Constraint Compatibility Condition); Appendix C (Φ-proximity detection methodology).*
