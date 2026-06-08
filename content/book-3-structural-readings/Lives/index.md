@@ -125,3 +125,18 @@ These are not biographies and not appraisals. A Life reading does not rank the f
 ### Si — Modernity
 
 *(none yet)*
+
+<!-- ════════ ROSTER PROGRESS — RESUME HERE ════════
+Mi row: COMPLETE.
+Fa row: IN PROGRESS.
+  Fa done: Paul, Peter, Athanasius, Hypatia, Seneca, Origen, Jerome, John Chrysostom,
+    Ambrose, Constantine, Antony of the Desert, Gregory of Nyssa
+    (+ works Boethius->Philosophy, Pseudo-Dionysius->Mysticism; reuse Marcus Aurelius/Epictetus/Plotinus->Philosophy).
+  Fa remaining: evangelists Matthew/Mark/Luke/John, James, Jude, Stephen, Clement, Ignatius,
+    Polycarp, Justin, Perpetua, Irenaeus, Tertullian, John Cassian, Ephrem the Syrian, Basil,
+    Gregory of Nazianzus, Cyril of Alexandria, Leo the Great, Akiva, Judah ha-Nasi, Nagarjuna,
+    Asanga, Vasubandhu, Buddhaghosa, Augustus, Philo, Hermes Trismegistus, Attila, Ptolemy,
+    Diophantus, Pappus, Galen.
+  Then: Sol, La, Si rows.
+RULE: every C6 roster wikilink pipe must be ESCAPED (\| ) — it is a markdown table.
+═════════════════════════════════════════════════ -->
