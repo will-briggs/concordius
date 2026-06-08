@@ -48,7 +48,7 @@ A source is a vector **D** in the Hilbert space H; its truth-value is the **trut
 
 **The footing clause, made precise.** Where you must stand on an assumption a, it enters as a *conditioning event*: every downstream claim becomes ⟨· | a⟩, and since τ(a) < 1 the conditioning must be displayed, never marginalized away. This is why the framework carries its three grants ([[Section B - The Inheritance/index|Section B]]) in the open and as conditionals: declared provisional footing is honest conditioning; an assumption absorbed silently as if τ(a) = 1 is the axiom this feature denies.
 
-*Tier: **derivation** — given the framework's τ < 1 bound. One open input is shared by all twelve: the practical operator A that computes the spectral decomposition for language is not yet specified (Appendix C), so the measure is rigorous as a statement and pending as a computation.*
+*Tier: **derivation** — given the framework's τ < 1 bound. The one input shared by all twelve — the operator A that computes the spectral decomposition for language — is now constructed in [[Appendix C - A Putative Method for Machine-Assisted Phi-Proximal Textual Analysis|Appendix C §6.2]] (the self-adjoint completion of the claim-support graph). The measure is therefore a defined computation modulo one named step: extracting that graph from raw text.*
 
 ---
 
