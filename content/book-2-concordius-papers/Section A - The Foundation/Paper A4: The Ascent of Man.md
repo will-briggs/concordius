@@ -17,7 +17,7 @@ Nothing in this paper was witnessed; every date is reconstructed — from ancien
 ---
 
 <figure>
-<img src="/static/images/trouvelot-orion-nebula.jpg" alt="Trouvelot, The Great Nebula in Orion" style="max-width:100%;">
+<img src="/static/images/trouvelot-orion-nebula.jpg" alt="Trouvelot, The Great Nebula in Orion" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>É. L. Trouvelot, The Great Nebula in Orion</em> (1882). Drawn by hand from years at the eyepiece, before astrophotography — a region where the elements this paper follows are still being made.</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ Nothing in this paper was witnessed; every date is reconstructed — from ancien
 <hr>
 
 <figure>
-<img src="/static/images/duria-antiquior.jpg" alt="Henry De la Beche, Duria Antiquior, c. 1830" style="max-width:100%;">
+<img src="/static/images/duria-antiquior.jpg" alt="Henry De la Beche, Duria Antiquior, c. 1830" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Henry De la Beche, Duria Antiquior — a more ancient Dorset</em> (c. 1830). The first work of palaeo-art: the earliest attempt to picture a vanished world from its fossils alone. The deep past this paper reads, drawn for the first time.</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ After recombination came the **cosmic dark ages**: a long, cold, structureless i
 <hr>
 
 <figure>
-<img src="/static/images/rosse-whirlpool-m51.jpg" alt="Lord Rosse, drawing of the Whirlpool nebula M51, 1845" style="max-width:100%;">
+<img src="/static/images/rosse-whirlpool-m51.jpg" alt="Lord Rosse, drawing of the Whirlpool nebula M51, 1845" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>William Parsons (Lord Rosse), drawing of the Whirlpool 'nebula' M51</em> (1845). Sketched by eye at the Leviathan of Parsonstown — the first spiral ever seen in the sky, long before anyone knew it was another galaxy.</figcaption>
 </figure>
 
@@ -124,7 +124,7 @@ By the close of this chapter the stage is set: a rocky planet, liquid water, an 
 <hr>
 
 <figure>
-<img src="/static/images/haeckel-radiolaria.webp" alt="Ernst Haeckel, Radiolaria, Kunstformen der Natur, 1904" style="max-width:100%;">
+<img src="/static/images/haeckel-radiolaria.webp" alt="Ernst Haeckel, Radiolaria, Kunstformen der Natur, 1904" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Ernst Haeckel, Radiolaria — Kunstformen der Natur</em> (1904). Single-celled drifters of the open ocean, their crystalline mineral skeletons drawn with a naturalist's exactness — not the first life, but a measure of the intricacy life would reach.</figcaption>
 </figure>
 
@@ -153,7 +153,7 @@ The single most consequential biological innovation in the planet's history was 
 <hr>
 
 <figure>
-<img src="/static/images/wilson-1900-cell.jpg" alt="E. B. Wilson, diagram of a cell, 1900" style="max-width:100%;">
+<img src="/static/images/wilson-1900-cell.jpg" alt="E. B. Wilson, diagram of a cell, 1900" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>E. B. Wilson, diagram of a cell</em> (from <em>The Cell in Development and Inheritance</em>, 1900). The eukaryotic cell as a reference book drew it before the electron microscope — the nucleus and its parts rendered with the care of the day. The complex cell whose long-delayed arrival this section recounts.</figcaption>
 </figure>
 
@@ -170,7 +170,7 @@ The Asgard archaea are the key recent evidence. The first one was cultivated onl
 <hr>
 
 <figure>
-<img src="/static/images/haeckel-jellyfish.jpg" alt="Ernst Haeckel, Discomedusae jellyfish, Kunstformen der Natur, 1904" style="max-width:100%;">
+<img src="/static/images/haeckel-jellyfish.jpg" alt="Ernst Haeckel, Discomedusae jellyfish, Kunstformen der Natur, 1904" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Ernst Haeckel, Discomedusae — Kunstformen der Natur</em> (1904). Jellyfish: among the oldest body-plans still swimming, animals of radial symmetry from before there was a front or a back.</figcaption>
 </figure>
 
@@ -187,7 +187,7 @@ It ended in ice. The **Cryogenian** glaciations — the **Sturtian** (~717–660
 <hr>
 
 <figure>
-<img src="/static/images/trilobite-plate.jpg" alt="Trilobites, 19th-century engraving" style="max-width:100%;">
+<img src="/static/images/trilobite-plate.jpg" alt="Trilobites, 19th-century engraving" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Trilobites, from James Dwight Dana's Manual of Geology</em> (1895). The armoured arthropods of the Cambrian seas — among the first animals to carry hard parts, and so among the first to leave a clear fossil record.</figcaption>
 </figure>
 
@@ -204,7 +204,7 @@ Among the Cambrian animals were the first **chordates** and the first **vertebra
 <hr>
 
 <figure>
-<img src="/static/images/knight-laelaps.jpg" alt="Charles R. Knight, Leaping Laelaps, 1897" style="max-width:100%;">
+<img src="/static/images/knight-laelaps.jpg" alt="Charles R. Knight, Leaping Laelaps, 1897" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Charles R. Knight, Leaping Laelaps</em> (1897). The picture that set the dinosaurs in motion — agile, alert — overturning the old image of sluggish reptiles. The land first reached in the Devonian would, in time, be theirs.</figcaption>
 </figure>
 
@@ -221,7 +221,7 @@ The conquest of land was completed by the **amniotes**, whose self-contained egg
 <hr>
 
 <figure>
-<img src="/static/images/knight-mammoth.jpg" alt="Charles R. Knight, Woolly Mammoth" style="max-width:100%;">
+<img src="/static/images/knight-mammoth.jpg" alt="Charles R. Knight, Woolly Mammoth" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Charles R. Knight, Woolly Mammoth</em> (early 20th c.). The Ice-Age giant of the mammal line — the warm-blooded inheritance that spread across the cooling world after the great reptiles were gone.</figcaption>
 </figure>
 
@@ -240,7 +240,7 @@ Their inheritance came by catastrophe. **66 million years ago**, an asteroid rou
 <hr>
 
 <figure>
-<img src="/static/images/huxley-mans-place.jpg" alt="T. H. Huxley, frontispiece to Man's Place in Nature, 1863" style="max-width:100%;">
+<img src="/static/images/huxley-mans-place.jpg" alt="T. H. Huxley, frontispiece to Man's Place in Nature, 1863" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>T. H. Huxley, frontispiece to 'Evidence as to Man's Place in Nature'</em> (1863). Gibbon, orang, chimpanzee, gorilla, man — the skeletons set in a row, the comparison that made the kinship impossible to look away from.</figcaption>
 </figure>
 
@@ -271,7 +271,7 @@ Here the animal climb reaches its last rung. The australopithecine grade — a c
 <hr>
 
 <figure>
-<img src="/static/images/kupka-neanderthal.jpg" alt="František Kupka, La Chapelle-aux-Saints Neanderthal reconstruction, 1909" style="max-width:100%;">
+<img src="/static/images/kupka-neanderthal.jpg" alt="František Kupka, La Chapelle-aux-Saints Neanderthal reconstruction, 1909" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>František Kupka, reconstruction of the Neanderthal of La Chapelle-aux-Saints</em> (1909). The first widely seen portrait of an extinct human — drawn, in its day, as a stooping brute; later science has stood him upright.</figcaption>
 </figure>
 
@@ -310,7 +310,7 @@ Then Judah fell too. **Babylon** took Jerusalem and burned the Temple in 586 BCE
 <hr>
 
 <figure>
-<img src="/static/images/geertgen-nativity-night.jpg" alt="Geertgen tot Sint Jans, The Nativity at Night, c. 1490" style="max-width:100%;">
+<img src="/static/images/geertgen-nativity-night.jpg" alt="Geertgen tot Sint Jans, The Nativity at Night, c. 1490" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Geertgen tot Sint Jans, The Nativity at Night</em> (c. 1490). The light in the scene comes from the child himself. Where the long material climb of this paper arrives.</figcaption>
 </figure>
 

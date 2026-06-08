@@ -15,7 +15,7 @@ This paper argues that modeling reality as a rigged [[Appendix B - Lexicon#Hilbe
 ---
 
 <figure>
-<img src="/static/images/hilbert-1912.jpg" alt="Portrait of David Hilbert, 1912" style="max-width:100%;">
+<img src="/static/images/hilbert-1912.jpg" alt="Portrait of David Hilbert, 1912" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>David Hilbert</em> (1912). The Hilbert space — the H that bears his name — is the middle term of the Gelfand triple Φ ⊂ H ⊂ Φ′; the framework reads it as the domain of created reality: the complete, structured states between the nuclear source Φ and its distributional dual Φ′.</figcaption>
 </figure>
 

@@ -19,7 +19,7 @@ The work is finished and the body is in the ground. This paper holds the interva
 ---
 
 <figure>
-<img src="/static/images/holbein-dead-christ.jpg" alt="Hans Holbein the Younger, The Body of the Dead Christ in the Tomb" style="max-width:100%;">
+<img src="/static/images/holbein-dead-christ.jpg" alt="Hans Holbein the Younger, The Body of the Dead Christ in the Tomb" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Hans Holbein the Younger, The Body of the Dead Christ in the Tomb</em> (1521–22). Kunstmuseum Basel. Painted at life size, at eye level, with no halo and no angels — only the body, three days into what bodies do. Dostoevsky stood before it and said a man could lose his faith looking at it. It is here for the same reason: this paper refuses to look away from the death before it speaks of anything after.</figcaption>
 </figure>
 

@@ -19,7 +19,7 @@ The names come from the Christian and Hebrew Scriptures, the Gospel of John abov
 ---
 
 <figure>
-<img src="/static/images/antonello-jerome-study.jpg" alt="Antonello da Messina, St. Jerome in His Study" style="max-width:100%;">
+<img src="/static/images/antonello-jerome-study.jpg" alt="Antonello da Messina, St. Jerome in His Study" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Antonello da Messina, St. Jerome in His Study</em> (c. 1474–75). National Gallery, London. Jerome's life work was naming: the Vulgate gave Western Christendom its precise Latin terms for what the Greek and Hebrew originals described. Paper A1 performs the analogous operation on the Gelfand triple — finding the correct names for what the mathematics of Paper A0 necessarily entails. The study, the open texts, the act of careful annotation: this is what the paper attempts.</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ And because the power to name is a gift and not a possession, it has to be carri
 <hr>
 
 <figure>
-<img src="/static/images/domenichino-john-evangelist.jpg" alt="Domenichino, Saint John the Evangelist" style="max-width:100%;">
+<img src="/static/images/domenichino-john-evangelist.jpg" alt="Domenichino, Saint John the Evangelist" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Domenichino, Saint John the Evangelist</em> (c. 1620s). The evangelist with his eagle, pen in hand, looking up to the source he transcribes — the man who wrote "In the beginning was the Logos." The name this section lays beside the nuclear space Φ is the one John set down first.</figcaption>
 </figure>
 
@@ -170,7 +170,7 @@ This is the second naming, and notice what it has and has not taken from you. Th
 <hr>
 
 <figure>
-<img src="/static/images/dore-rose-paradise.jpg" alt="Gustave Doré, The Empyrean (Paradiso Canto 31)" style="max-width:100%;">
+<img src="/static/images/dore-rose-paradise.jpg" alt="Gustave Doré, The Empyrean (Paradiso Canto 31)" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Gustave Doré, The Empyrean</em> (Paradiso, Canto 31, 1868). The blessed arrayed as a rose of light around a single point at the center. Dante's image is the journey's-end Paradise this section sets aside — yet it keeps the one feature the structural sense needs: an absolute center from which every distance is measured, itself at no distance from anything.</figcaption>
 </figure>
 

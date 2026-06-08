@@ -9,7 +9,7 @@
 ---
 
 <figure>
-<img src="/static/images/feature-10-carta-marina.jpg" alt="Olaus Magnus, Carta Marina" style="max-width:100%;">
+<img src="/static/images/feature-10-carta-marina.jpg" alt="Olaus Magnus, Carta Marina" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Olaus Magnus, Carta Marina</em> (1539). The charted coast gives way to sea-monsters at its margins — a map that marks exactly where reliable knowledge ends and another method must take over.</figcaption>
 </figure>
 

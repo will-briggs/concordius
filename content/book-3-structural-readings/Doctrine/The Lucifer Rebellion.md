@@ -7,7 +7,7 @@
 ---
 
 <figure>
-<img src="/static/images/dore-lucifer.jpg" alt="Doré, Lucifer" style="max-width:100%;">
+<img src="/static/images/dore-lucifer.jpg" alt="Doré, Lucifer" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Gustave Doré, Lucifer</em> (1866). Illustration for Milton's <em>Paradise Lost</em>. <em>How you have fallen from heaven, morning star, son of the dawn</em> (Isa 14:12). The being of maximum organizational brilliance at the moment of maximum organizational descent.</figcaption>
 </figure>
 
@@ -182,7 +182,7 @@ This is the exact structural description of the overdeterminate move: the being 
 ---
 
 <figure>
-<img src="/static/images/blake-satan-job.jpg" alt="Blake, Satan Smiting Job" style="max-width:100%;">
+<img src="/static/images/blake-satan-job.jpg" alt="Blake, Satan Smiting Job" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>William Blake, Satan Smiting Job with Sore Boils</em> (1826). Tate Britain. The adversarial function at maximum H₄₈ noise-floor amplitude: the structural demonstration that the accusation was wrong about the depth of Job's organizational constitution.</figcaption>
 </figure>
 
@@ -237,7 +237,7 @@ The adversary's function — applied to H₁₂ beings in the rebellion, to H₄
 ---
 
 <figure>
-<img src="/static/images/blake-great-red-dragon.jpg" alt="Blake, The Great Red Dragon" style="max-width:100%;">
+<img src="/static/images/blake-great-red-dragon.jpg" alt="Blake, The Great Red Dragon" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>William Blake, The Great Red Dragon and the Woman Clothed with the Sun</em> (c. 1805). Brooklyn Museum. Maximum H₄₈-primary accumulation organized as governing structure: seven heads as claimed sovereignty at each constraint level, ten horns as the force structure of the H₄₈-primary project.</figcaption>
 </figure>
 

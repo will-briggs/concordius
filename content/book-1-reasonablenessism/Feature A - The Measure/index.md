@@ -13,7 +13,7 @@ tags:
 ---
 
 <figure>
-<img src="/static/images/feature-01-vermeer-balance.jpg" alt="" style="max-width:100%;">
+<img src="/static/images/feature-01-vermeer-balance.jpg" alt="" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Johannes Vermeer, Woman Holding a Balance</em> (c. 1664). The balance is held level and empty before anything is set in it — the measure exists, and its honesty is that it weighs each thing on its own, with a ceiling no claim reaches.</figcaption>
 </figure>
 

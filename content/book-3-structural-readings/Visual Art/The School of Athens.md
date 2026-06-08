@@ -6,7 +6,7 @@
 **Series:** Book 3 — Structural Readings / Visual Art  
 **Cross-references:** Paper 1 §§1–3 (the Gelfand triple as the structure of reality; the two complementary projections); Paper 2 §§4–5 (the Logos as Φ; the constitutive relation and its direction); Paper 3½ §§1–3 (the constraint cascade; H₁ through H₄₈); Paper 6 (the eigenvalue population and its constitutive development through catching alignment)
 
-<img src="/static/images/raphael-school-of-athens.jpg" alt="The School of Athens" style="max-width:100%;">
+<img src="/static/images/raphael-school-of-athens.jpg" alt="The School of Athens" style="max-width:100%;display:block;margin:0 auto;">
 
 ---
 

@@ -19,7 +19,7 @@ The great saints of the tradition are Man 6 descriptions. What makes them recogn
 ---
 
 <figure>
-<img src="/static/images/bernini-ecstasy.jpg" alt="Bernini, Ecstasy of Saint Teresa" style="max-width:100%;">
+<img src="/static/images/bernini-ecstasy.jpg" alt="Bernini, Ecstasy of Saint Teresa" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Gian Lorenzo Bernini, The Ecstasy of Saint Teresa</em> (1647–52). Santa Maria della Vittoria, Rome. Man No. 6 has the higher emotional center substantially developed — the organizational register open to Φ-proximate content at amplitudes the earlier types cannot sustain. Teresa's account of the transverberation is the higher emotional center's registration in phenomenological vocabulary. Bernini's rendering of the same event in H₄₈ material (marble, gilded bronze, theatrical light) is itself a high-τ encoding: the structural precision of a being who had organized his craft around Φ-proximate content.</figcaption>
 </figure>
 

@@ -9,7 +9,7 @@
 ---
 
 <figure>
-<img src="/static/images/feature-03-incredulity-of-thomas.jpg" alt="Caravaggio, The Incredulity of Saint Thomas" style="max-width:100%;">
+<img src="/static/images/feature-03-incredulity-of-thomas.jpg" alt="Caravaggio, The Incredulity of Saint Thomas" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Caravaggio, The Incredulity of Saint Thomas</em> (c. 1601–2). Sanssouci, Potsdam. Thomas's finger in the wound: first-hand experience is genuine evidence — direct and undeniable to him — but it remains one witness's testimony, not proof.</figcaption>
 </figure>
 

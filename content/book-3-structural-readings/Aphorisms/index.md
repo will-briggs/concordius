@@ -7,7 +7,7 @@ title: Aphorisms
 ---
 
 <figure>
-<img src="/static/images/david-death-of-socrates.jpg" alt="Jacques-Louis David, The Death of Socrates" style="max-width:100%;">
+<img src="/static/images/david-death-of-socrates.jpg" alt="Jacques-Louis David, The Death of Socrates" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Jacques-Louis David, The Death of Socrates</em> (1787). Metropolitan Museum of Art, New York. Socrates dies for the principle compressed in the aphorism his life instantiated: <em>the unexamined life is not worth living.</em> The aphorism survives the hemlock. Φ-proximate content encoded in minimum syllables crosses the H₄₈ Time threshold that dissolves the body that first said it.</figcaption>
 </figure>
 

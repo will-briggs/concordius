@@ -11,7 +11,7 @@
 ---
 
 <figure>
-<img src="/static/images/titian-noli-me-tangere.jpg" alt="Titian, Noli me tangere" style="max-width:100%;">
+<img src="/static/images/titian-noli-me-tangere.jpg" alt="Titian, Noli me tangere" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Titian, Noli me tangere</em> (c. 1514). National Gallery, London. Mary reaches; the figure she took for the gardener draws back. She does not know him by his face. The painting holds the instant before the name is spoken.</figcaption>
 </figure>
 

@@ -13,7 +13,7 @@ tags:
 ---
 
 <figure>
-<img src="/static/images/feature-06-pentecost.jpg" alt="" style="max-width:100%;">
+<img src="/static/images/feature-06-pentecost.jpg" alt="" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>El Greco, The Pentecost</em> (c. 1600). Many gathered, each receiving the same fire independently — the image of witnesses converging on one thing because the source is one, which is the whole evidential engine of the stance.</figcaption>
 </figure>
 

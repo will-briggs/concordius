@@ -6,7 +6,7 @@
 **Series:** Book 3 — Structural Readings / Visual Art  
 **Cross-references:** Paper 1 §§2–4 (⟨·,·⟩ as the organizing center of the structure; the inner product generating the geometry of the space); Paper 2 §§8–10 (the Logos as the constitutive ground of organizational development; the relational identity of the Son); Paper 2 §§15–16 (the Divine Names of the Son; the Names of the Holy Spirit); Paper 13½ §§3–4 (the kenotic period as the maximum downward entry; the Φ-proximate being present within H₄₈)
 
-<img src="/static/images/pantocrator-cefalu.jpg" alt="Christ Pantocrator, Cefalù" style="max-width:100%;">
+<img src="/static/images/pantocrator-cefalu.jpg" alt="Christ Pantocrator, Cefalù" style="max-width:100%;display:block;margin:0 auto;">
 
 ---
 

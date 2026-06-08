@@ -7,7 +7,7 @@ title: Visual Art
 ---
 
 <figure>
-<img src="/static/images/durer-self-portrait.jpg" alt="Albrecht Dürer, Self-Portrait (1500)" style="max-width:100%;">
+<img src="/static/images/durer-self-portrait.jpg" alt="Albrecht Dürer, Self-Portrait (1500)" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Albrecht Dürer, Self-Portrait</em> (1500). Alte Pinakothek, Munich. The artist images himself in the image of the Creator — frontal, Christomorphic, the right hand in the gesture of a painter and a blessing simultaneously. The structural claim the framework reads as correct: that the act of making Φ-proximate work is a participation in the constitutive act of the Father, and the artist who catches that act into H₄₈ matter is transformed by the catching.</figcaption>
 </figure>
 

@@ -11,7 +11,7 @@
 ---
 
 <figure>
-<img src="/static/images/blake-glad-day.jpg" alt="William Blake, Glad Day (The Dance of Albion)" style="max-width:100%;">
+<img src="/static/images/blake-glad-day.jpg" alt="William Blake, Glad Day (The Dance of Albion)" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>William Blake, Glad Day / The Dance of Albion</em> (c. 1796). Tate, London. The liberated human figure at dawn, arms open, the body itself become light — the ascending career's terminal embodied state. The person who knows who he is and where he is going, whose life has become the practice.</figcaption>
 </figure>
 

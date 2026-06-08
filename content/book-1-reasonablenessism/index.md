@@ -13,7 +13,7 @@ tags:
 ---
 
 <figure style="margin-bottom: 3rem;">
-<img src="/static/images/rembrandt-two-old-men-disputing.jpg" alt="Rembrandt van Rijn, Two Old Men Disputing, 1628" style="max-width:100%;">
+<img src="/static/images/rembrandt-two-old-men-disputing.jpg" alt="Rembrandt van Rijn, Two Old Men Disputing, 1628" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Rembrandt van Rijn, Two Old Men Disputing (St. Peter and St. Paul in Discussion)</em> (1628). One finger holds a place in the open text; the other mind attends. No credential is visible here — no institution, no office. Only two people following an argument together, testing what the text actually says. The court of last appeal has always looked like this.</figcaption>
 </figure>
 

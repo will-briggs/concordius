@@ -7,7 +7,7 @@ title: Philosophy
 ---
 
 <figure>
-<img src="/static/images/platos-cave-saenredam.jpg" alt="Plato's Cave" style="max-width:100%;">
+<img src="/static/images/platos-cave-saenredam.jpg" alt="Plato's Cave" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Jan Saenredam after Cornelis van Haarlem, Allegory of Plato's Cave</em> (c. 1604). The prisoner ascending from shadow to light: the structural ascent from H₄₈ appearance to H₂₄ structural reality that Plotinus, Epictetus, Marcus Aurelius, and Spinoza each describe by independent philosophical routes.</figcaption>
 </figure>
 

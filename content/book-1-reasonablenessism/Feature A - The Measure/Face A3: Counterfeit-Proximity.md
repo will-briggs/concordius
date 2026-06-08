@@ -7,7 +7,7 @@
 ---
 
 <figure>
-<img src="/static/images/holbein-the-ambassadors.jpg" alt="" style="max-width:100%;">
+<img src="/static/images/holbein-the-ambassadors.jpg" alt="" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Hans Holbein the Younger, The Ambassadors</em> (1533). Stretched across the foreground is a shape that reads as nothing from straight on and resolves into a skull only from one extreme angle. A thing can carry real structure and still be pointed the wrong way; strength of signal is not the same as truth of direction.</figcaption>
 </figure>
 

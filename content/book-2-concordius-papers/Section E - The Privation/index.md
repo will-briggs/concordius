@@ -13,7 +13,7 @@ tags:
 ---
 
 <figure>
-<img src="/static/images/masaccio-expulsion.jpg" alt="Masaccio, The Expulsion from the Garden of Eden" style="max-width:100%;">
+<img src="/static/images/masaccio-expulsion.jpg" alt="Masaccio, The Expulsion from the Garden of Eden" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Masaccio, The Expulsion from the Garden of Eden</em> (c. 1425). Privation made visible: not a thing added but a good lost — the gate closed, the light withdrawn, the first turning carried out into a colder world.</figcaption>
 </figure>
 

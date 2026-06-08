@@ -9,7 +9,7 @@
 ---
 
 <figure>
-<img src="/static/images/feature-06-pentecost.jpg" alt="El Greco, The Pentecost" style="max-width:100%;">
+<img src="/static/images/feature-06-pentecost.jpg" alt="El Greco, The Pentecost" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>El Greco, The Pentecost</em> (c. 1600). Museo del Prado. Separate figures each receive the same descending flame — witnesses who could not have agreed in advance, converging on one source.</figcaption>
 </figure>
 

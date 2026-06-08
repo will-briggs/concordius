@@ -7,7 +7,7 @@
 ---
 
 <figure>
-<img src="/static/images/durer-melancholia.jpg" alt="" style="max-width:100%;">
+<img src="/static/images/durer-melancholia.jpg" alt="" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Albrecht Dürer, Melencolia I</em> (1514). Reason seated amid its own instruments, capable of everything except the one thing it most wants — to step outside itself and certify its own result. The figure broods exactly at the boundary this face names.</figcaption>
 </figure>
 

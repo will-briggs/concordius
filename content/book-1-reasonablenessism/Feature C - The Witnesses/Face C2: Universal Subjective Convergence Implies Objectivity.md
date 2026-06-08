@@ -9,7 +9,7 @@
 ---
 
 <figure>
-<img src="/static/images/feature-08-air-pump.jpg" alt="Joseph Wright of Derby, An Experiment on a Bird in the Air Pump" style="max-width:100%;">
+<img src="/static/images/feature-08-air-pump.jpg" alt="Joseph Wright of Derby, An Experiment on a Bird in the Air Pump" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Joseph Wright of Derby, An Experiment on a Bird in the Air Pump</em> (1768). The National Gallery, London. A room of observers attends a single demonstration and sees the same thing — where everyone who looks confirms the same result, the inference to an objective fact is strongest.</figcaption>
 </figure>
 

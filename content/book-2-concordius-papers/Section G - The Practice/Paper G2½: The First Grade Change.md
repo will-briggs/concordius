@@ -19,7 +19,7 @@ The first grade change — Gurdjieff's [[Appendix B - Lexicon#Mi-Fa Interval|Mi�
 ---
 
 <figure>
-<img src="/static/images/blake-satan-job.jpg" alt="Blake — Satan Smiting Job" style="max-width:100%;">
+<img src="/static/images/blake-satan-job.jpg" alt="Blake — Satan Smiting Job" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>William Blake, Satan Smiting Job with Sore Boils</em> (c. 1826). Tate Britain, London. The Mi-Fa interval requires a shock from outside the system to cross. The cross-term mechanism operating under maximum organizational pressure — the Jobian affliction — is the structural account of what that shock is: not punishment, but the eigenvalue population encountering the constitutive ground at an amplitude the noise floor normally prevents, under conditions that make the catching alignment impossible to mistake.</figcaption>
 </figure>
 

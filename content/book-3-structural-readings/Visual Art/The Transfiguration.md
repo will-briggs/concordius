@@ -6,7 +6,7 @@
 **Series:** Book 3 — Structural Readings / Visual Art  
 **Cross-references:** Paper 6½ §7 (the bestowal sequence; the kenotic period; the seventh bestowal as the fullest H₄₈ disclosure of the Φ-amplitude); Paper 6½ §§1–2 (the three kenoses; the constraint of the nuclear topology under the amplitude limiter); Paper 13½ §§3–5 (the kenotic differential; what the amplitude limiter suppresses); The Pre-Incarnation Saints (the three blocking conditions; the saints' organizational state during the kenotic period)
 
-<img src="/static/images/fra-angelico-transfiguration.jpg" alt="The Transfiguration" style="max-width:100%;">
+<img src="/static/images/fra-angelico-transfiguration.jpg" alt="The Transfiguration" style="max-width:100%;display:block;margin:0 auto;">
 
 ---
 

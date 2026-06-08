@@ -13,7 +13,7 @@ tags:
 ---
 
 <figure>
-<img src="/static/images/bosch-ascent-of-the-blessed.jpg" alt="Hieronymus Bosch, Ascent of the Blessed" style="max-width:100%;">
+<img src="/static/images/bosch-ascent-of-the-blessed.jpg" alt="Hieronymus Bosch, Ascent of the Blessed" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Hieronymus Bosch, Ascent of the Blessed</em> (c. 1505–15). The ascending career as a single image: souls drawn up a tunnel of light toward the face at its end — the climb home, carried at the last by powers not their own.</figcaption>
 </figure>
 

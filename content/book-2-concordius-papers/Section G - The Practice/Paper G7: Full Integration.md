@@ -11,7 +11,7 @@
 ---
 
 <figure>
-<img src="/static/images/friedrich-wanderer.jpg" alt="Caspar David Friedrich, Wanderer above the Sea of Fog" style="max-width:100%;">
+<img src="/static/images/friedrich-wanderer.jpg" alt="Caspar David Friedrich, Wanderer above the Sea of Fog" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Caspar David Friedrich, Wanderer above the Sea of Fog</em> (c. 1818). Kunsthalle Hamburg. The wanderer stands on the summit he has climbed — the whole ascent behind him — and faces a country that opens past the edge of the rock, into fog he cannot step out onto. He has gone as far as the climb goes. What lies beyond is not the next ridge; it is reached, if at all, by something other than another step.</figcaption>
 </figure>
 

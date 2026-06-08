@@ -9,7 +9,7 @@
 ---
 
 <figure>
-<img src="/static/images/feature-05-moneylender.jpg" alt="Quentin Matsys, The Moneylender and His Wife" style="max-width:100%;">
+<img src="/static/images/feature-05-moneylender.jpg" alt="Quentin Matsys, The Moneylender and His Wife" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Quentin Matsys, The Moneylender and His Wife</em> (1514). Musée du Louvre. The coin is weighed for its gold, not for whose hand passed it — value read from the content, never from the provenance.</figcaption>
 </figure>
 

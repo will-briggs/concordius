@@ -19,7 +19,7 @@ Paper A4 carried the body the whole way and named, but did not enter, the one tr
 ---
 
 <figure>
-<img src="/static/images/michelangelo-creation-of-adam.jpg" alt="Michelangelo, The Creation of Adam" style="max-width:100%;">
+<img src="/static/images/michelangelo-creation-of-adam.jpg" alt="Michelangelo, The Creation of Adam" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Michelangelo, The Creation of Adam</em> (c. 1512). Sistine Chapel, Vatican. The body is already formed — muscled, complete, lying on the earth. What has not yet crossed the gap between the two hands is whatever it is that will make the formed body a *someone*. Michelangelo left the fingers not quite touching, which is exactly where the science still leaves them.</figcaption>
 </figure>
 

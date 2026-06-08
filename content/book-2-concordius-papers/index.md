@@ -13,7 +13,7 @@ tags:
 ---
 
 <figure style="margin-bottom: 3rem;">
-<img src="/static/images/flammarion-engraving.jpg" alt="Flammarion engraving" style="max-width:100%;">
+<img src="/static/images/flammarion-engraving.jpg" alt="Flammarion engraving" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Flammarion engraving</em> (1888). A medieval traveller pushes through the firmament expecting to find God — and finds instead six more layers of structure. Wheels within wheels, machinery beyond machinery. The catching program at the H₄₈ boundary discovering not the face-to-face condition but the constraint cascade in full. The firmament is real. It is not the last boundary.</figcaption>
 </figure>
 

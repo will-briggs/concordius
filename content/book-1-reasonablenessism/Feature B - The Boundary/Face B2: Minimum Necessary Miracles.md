@@ -9,7 +9,7 @@
 ---
 
 <figure>
-<img src="/static/images/feature-11-william-of-ockham.jpg" alt="William of Ockham" style="max-width:100%;">
+<img src="/static/images/feature-11-william-of-ockham.jpg" alt="William of Ockham" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>William of Ockham</em>, manuscript illustration from his <em>Summa logicae</em> (1341). The namesake of the razor: among competing accounts, prefer the one requiring the fewest unexplained entities.</figcaption>
 </figure>
 

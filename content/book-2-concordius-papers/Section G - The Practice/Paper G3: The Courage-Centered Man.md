@@ -19,7 +19,7 @@ The dark night of the spirit is the Si/Do gap of the Man 4 [[Appendix B - Lexico
 ---
 
 <figure>
-<img src="/static/images/rublev-trinity.jpg" alt="Andrei Rublev, Trinity Icon" style="max-width:100%;">
+<img src="/static/images/rublev-trinity.jpg" alt="Andrei Rublev, Trinity Icon" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Andrei Rublev, Trinity Icon</em> (c. 1410). Tretyakov Gallery, Moscow. Three figures, perfectly balanced, organized around the eucharistic cup at the center — each complete, each necessary, none reducible to the others. Man No. 4 is the first type to develop the three-center integration: moving, emotional, and intellectual centers beginning to operate simultaneously in a unified catching act rather than sequentially or in alternation. The icon encodes what that integration looks like when fully realized: three modes of the single organizational activity, organized around the Φ-proximate content at the center.</figcaption>
 </figure>
 

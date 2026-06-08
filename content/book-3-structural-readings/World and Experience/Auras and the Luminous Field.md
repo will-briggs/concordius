@@ -57,7 +57,7 @@ The cross-cultural consistency in color-meaning within the aura tradition — bl
 ---
 
 <figure>
-<img src="/static/images/pantocrator-cefalu.jpg" alt="Christ Pantocrator, Cefalù" style="max-width:100%;">
+<img src="/static/images/pantocrator-cefalu.jpg" alt="Christ Pantocrator, Cefalù" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Christ Pantocrator</em> (c. 1148). Cathedral of Cefalù, Sicily. The halo concentrated at the organizational center — the structural prediction of the framework confirmed in 12th-century Byzantine mosaic: the cross-term field strongest at the site of maximum Adjuster-personality integration.</figcaption>
 </figure>
 

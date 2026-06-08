@@ -9,7 +9,7 @@
 ---
 
 <figure>
-<img src="/static/images/feature-07-ouroboros.png" alt="Ouroboros (Theodoros Pelecanos, 1478)" style="max-width:100%;">
+<img src="/static/images/feature-07-ouroboros.png" alt="Ouroboros (Theodoros Pelecanos, 1478)" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Ouroboros</em>, drawn by Theodoros Pelecanos (1478) in the alchemical treatise <em>Synosius</em>. The serpent closes on its own tail: the figure of a claim whose very denial would perform what it denies.</figcaption>
 </figure>
 

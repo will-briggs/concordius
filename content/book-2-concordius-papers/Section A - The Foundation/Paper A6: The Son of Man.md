@@ -11,7 +11,7 @@
 ---
 
 <figure>
-<img src="/static/images/ford-madox-brown-washing-feet.jpg" alt="Ford Madox Brown, Jesus Washing Peter's Feet" style="max-width:100%;">
+<img src="/static/images/ford-madox-brown-washing-feet.jpg" alt="Ford Madox Brown, Jesus Washing Peter's Feet" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Ford Madox Brown, Jesus Washing Peter's Feet</em> (1852–56). Tate, London. The one through whom all things were made, kneeling at the feet of a fisherman with a towel. The whole argument of this paper is in the posture.</figcaption>
 </figure>
 

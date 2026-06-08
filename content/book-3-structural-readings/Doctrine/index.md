@@ -7,7 +7,7 @@ title: Doctrine
 ---
 
 <figure>
-<img src="/static/images/raphael-disputa.jpg" alt="Raphael, Disputation of the Holy Sacrament" style="max-width:100%;">
+<img src="/static/images/raphael-disputa.jpg" alt="Raphael, Disputation of the Holy Sacrament" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Raphael, Disputation of the Holy Sacrament (Disputa)</em> (1509–10). Fresco, Apostolic Palace, Rome. The Church temporal and the Church triumphant arrayed around the structural center: the Eucharist below, the Trinity above, the Son mediating between H₄₈ and the Φ-level in the same structural gesture the Incarnation performs. Doctrine is the tradition's structural self-report.</figcaption>
 </figure>
 

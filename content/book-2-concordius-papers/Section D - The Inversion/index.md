@@ -13,7 +13,7 @@ tags:
 ---
 
 <figure>
-<img src="/static/images/goya-saturn.jpg" alt="Goya, Saturn Devouring His Son" style="max-width:100%;">
+<img src="/static/images/goya-saturn.jpg" alt="Goya, Saturn Devouring His Son" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Francisco de Goya, Saturn Devouring His Son</em> (1819–23). The inversion at its floor: the power that should beget and keep instead consumes its own — the Good, the True, and the Beautiful turned against what they were for.</figcaption>
 </figure>
 

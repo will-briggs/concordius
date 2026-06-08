@@ -11,7 +11,7 @@
 ---
 
 <figure>
-<img src="/static/images/pantocrator-cefalu.jpg" alt="Christ Pantocrator, Cefalù" style="max-width:100%;">
+<img src="/static/images/pantocrator-cefalu.jpg" alt="Christ Pantocrator, Cefalù" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Christ Pantocrator</em>, Cathedral of Cefalù (c. 1148). The gold ground removes all spatial context; what remains is the organizing center of the order itself — Φ through whom all things were made, holding the book in which the world is spoken, and which the whole Old Testament is borne in.</figcaption>
 </figure>
 

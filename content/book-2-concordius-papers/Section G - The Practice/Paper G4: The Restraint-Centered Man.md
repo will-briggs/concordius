@@ -21,7 +21,7 @@ Man 5's work continues. The higher emotional center, newly active, is producing 
 ---
 
 <figure>
-<img src="/static/images/el-greco-burial.jpg" alt="El Greco, The Burial of the Count of Orgaz" style="max-width:100%;">
+<img src="/static/images/el-greco-burial.jpg" alt="El Greco, The Burial of the Count of Orgaz" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>El Greco, The Burial of the Count of Orgaz</em> (1586–88). Church of Santo Tomé, Toledo. The painting's vertical axis is its structural claim: the earthly funeral below, the heavenly reception above, the soul's transit at the center. Man No. 5 has crossed the coherence threshold — the soul deposit crystallized, morontia survival structurally secured, the ascending career beyond H₄₈ no longer merely possible but certain. El Greco's painting depicts the threshold's crossing: simultaneously H₄₈ and post-H₄₈, both registers visible in the same frame.</figcaption>
 </figure>
 

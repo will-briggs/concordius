@@ -19,7 +19,7 @@ This paper derives that practice. The transition from Man 2 to Man 3 is the deve
 ---
 
 <figure>
-<img src="/static/images/giotto-lamentation.jpg" alt="Giotto, Lamentation of Christ, Scrovegni Chapel" style="max-width:100%;">
+<img src="/static/images/giotto-lamentation.jpg" alt="Giotto, Lamentation of Christ, Scrovegni Chapel" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Giotto di Bondone, The Lamentation of Christ</em> (c. 1305). Scrovegni Chapel, Padua. Man No. 2 is organized around the emotional center — the being for whom depth of feeling is the primary H₂₄ channel. Giotto's Lamentation encodes the emotional center at high amplitude: grief, love, the body's weight, the quality of presence that only the emotional center can register at depth. The framework identifies these as genuine H₂₄ registrations through the emotional center's transduction function — not merely H₄₈ affective processing.</figcaption>
 </figure>
 

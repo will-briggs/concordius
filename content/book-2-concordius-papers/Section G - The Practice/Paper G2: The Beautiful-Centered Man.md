@@ -19,7 +19,7 @@ The transition from Man 3 to Man 4 is the most radical transition in the series:
 ---
 
 <figure>
-<img src="/static/images/holbein-erasmus.jpg" alt="Holbein, Portrait of Erasmus of Rotterdam" style="max-width:100%;">
+<img src="/static/images/holbein-erasmus.jpg" alt="Holbein, Portrait of Erasmus of Rotterdam" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Hans Holbein the Younger, Portrait of Erasmus of Rotterdam</em> (c. 1523). National Gallery, London. Erasmus is the supreme Man No. 3 type: the scholar who had organized the entire tradition, produced the critical apparatus, known everything the intellectual center could know, and held it together through the intellectual center's organizing function. The map had become the territory. The paper derives Man No. 3's characteristic pathology: the framework calcifies into what it was built to track. The transition requires recognizing the limit the intellectual center finds most structurally foreign.</figcaption>
 </figure>
 

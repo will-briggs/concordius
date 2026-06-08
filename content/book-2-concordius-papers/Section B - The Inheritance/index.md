@@ -13,7 +13,7 @@ tags:
 ---
 
 <figure>
-<img src="/static/images/rembrandt-apostle-paul.jpg" alt="Rembrandt, The Apostle Paul" style="max-width:100%;">
+<img src="/static/images/rembrandt-apostle-paul.jpg" alt="Rembrandt, The Apostle Paul" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Rembrandt, The Apostle Paul</em> (c. 1657). The inheritance written down and handed on: a man at his desk with the sword and the book, the received corpus becoming a trust passed to whoever reads next.</figcaption>
 </figure>
 

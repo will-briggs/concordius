@@ -9,7 +9,7 @@ tags:
 ---
 
 <figure>
-<img src="/static/images/friedrich-abbey-oakwood.jpg" alt="Caspar David Friedrich, The Abbey in the Oakwood" style="max-width:100%;">
+<img src="/static/images/friedrich-abbey-oakwood.jpg" alt="Caspar David Friedrich, The Abbey in the Oakwood" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Caspar David Friedrich, The Abbey in the Oakwood</em> (1809–10). Alte Nationalgalerie, Berlin. Monks carry a coffin through leafless oaks toward a ruined choir at dusk — the one surviving aperture in a stripped, wintry landscape. The image reads the apophatic core of the mystical traditions: the dark night, the cloud of unknowing, the via negativa — the ascending career passing through the stripping of all H₄₈ content, oriented toward a Φ-level opening it has not yet entered.</figcaption>
 </figure>
 

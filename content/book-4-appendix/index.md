@@ -13,7 +13,7 @@ tags:
 ---
 
 <figure style="margin-bottom: 3rem;">
-<img src="/static/images/gray-anatomy-appendix.png" alt="Gray's Anatomy, Fig. 536 — Arteries of cecum and vermiform appendix" style="max-width:100%;">
+<img src="/static/images/gray-anatomy-appendix.png" alt="Gray's Anatomy, Fig. 536 — Arteries of cecum and vermiform appendix" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Henry Gray, Anatomy of the Human Body</em>, Fig. 536 (1858). Arteries of the cecum and vermiform appendix. The appendix: an organ considered vestigial for over a century until structural analysis revealed it serves as a reservoir for beneficial gut flora and a training ground for the immune system. Not every appendix is unnecessary.</figcaption>
 </figure>
 

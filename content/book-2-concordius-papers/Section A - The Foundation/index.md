@@ -13,7 +13,7 @@ tags:
 ---
 
 <figure>
-<img src="/static/images/masaccio-trinity.jpg" alt="Masaccio, The Trinity" style="max-width:100%;">
+<img src="/static/images/masaccio-trinity.jpg" alt="Masaccio, The Trinity" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Masaccio, The Trinity</em> (c. 1427–28). Fresco, Santa Maria Novella, Florence. The only painting in the Western tradition where Father, Son, Spirit, and human figure are arranged in geometrically exact perspective — the structure of the Gelfand triple rendered visible. The Father is the ground above; the Son hangs between; the human figure kneels below in the H₄₈ frame. The structure is not a metaphor. It is a map.</figcaption>
 </figure>
 

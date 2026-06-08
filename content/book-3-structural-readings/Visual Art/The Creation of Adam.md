@@ -6,7 +6,7 @@
 **Series:** Book 3 — Structural Readings / Visual Art  
 **Cross-references:** Paper 2 §§1–5 (the Cogito; the existence of awareness as the starting point; Φ as constitutive of awareness); Paper 3 (the Creative Choice; the constitutive decision and the relational structure it institutes); Paper 6 (the eigenvalue population; catching alignment as the constitutive volitional act; the noise floor)
 
-<img src="/static/images/michelangelo-creation-of-adam.jpg" alt="The Creation of Adam" style="max-width:100%;">
+<img src="/static/images/michelangelo-creation-of-adam.jpg" alt="The Creation of Adam" style="max-width:100%;display:block;margin:0 auto;">
 
 ---
 

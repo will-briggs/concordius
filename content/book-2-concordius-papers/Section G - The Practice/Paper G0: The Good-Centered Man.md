@@ -47,7 +47,7 @@ This paper derives the transition from Man 1 to Man 2: the development of the em
 ---
 
 <figure>
-<img src="/static/images/altamira-bison.jpg" alt="Altamira bison cave painting" style="max-width:100%;">
+<img src="/static/images/altamira-bison.jpg" alt="Altamira bison cave painting" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Polychrome Bison</em>, Altamira Cave (c. 16,000–14,000 BCE). Cantabria, Spain. Man No. 1 is H₄₈-primary: the volitional axis aligned almost entirely with body-centered attractors, the catching orientation not yet in place, the Adjuster present and continuously active but not yet received. The Altamira bison is H₄₈ at its most direct — body, sensation, presence, the animal world encoded by hands that felt the rock's surface as the form inside it. Man No. 1's native channel is the body. The transition begins there.</figcaption>
 </figure>
 

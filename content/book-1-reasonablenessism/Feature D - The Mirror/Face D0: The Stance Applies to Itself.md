@@ -9,7 +9,7 @@
 ---
 
 <figure>
-<img src="/static/images/feature-04-las-meninas.jpg" alt="Diego Velázquez, Las Meninas" style="max-width:100%;">
+<img src="/static/images/feature-04-las-meninas.jpg" alt="Diego Velázquez, Las Meninas" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Diego Velázquez, Las Meninas</em> (1656). Museo del Prado. The painter paints himself painting the scene, and the far mirror shows what the canvas faces — the work turned back upon itself.</figcaption>
 </figure>
 

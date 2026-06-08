@@ -11,7 +11,7 @@
 ---
 
 <figure>
-<img src="/static/images/blake-ancient-of-days.jpg" alt="William Blake, The Ancient of Days" style="max-width:100%;">
+<img src="/static/images/blake-ancient-of-days.jpg" alt="William Blake, The Ancient of Days" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>William Blake, The Ancient of Days</em> (1794). The compass reaches into the dark to measure it — structure imposed level upon level — the constraint cascade itself.</figcaption>
 </figure>
 
@@ -107,7 +107,7 @@ Paper A1 established Father = ⟨·,·⟩. The New Testament states *θεὸς �
 <hr>
 
 <figure>
-<img src="/static/images/michelangelo-separation.jpg" alt="Michelangelo, The Separation of Light from Darkness" style="max-width:100%;">
+<img src="/static/images/michelangelo-separation.jpg" alt="Michelangelo, The Separation of Light from Darkness" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Michelangelo, The Separation of Light from Darkness</em> (Sistine Chapel, 1512). The made world steps out of the unformed — the algebra now descending into matter.</figcaption>
 </figure>
 
@@ -200,7 +200,7 @@ A being constituted entirely by 96-constraint matter could not perceive a 48-con
 <hr>
 
 <figure>
-<img src="/static/images/newton-prism.jpg" alt="The dispersion of white light through a prism" style="max-width:100%;">
+<img src="/static/images/newton-prism.jpg" alt="The dispersion of white light through a prism" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>The dispersion of white light through a prism</em> (after Newton's Opticks, 1704). One beam opened into its hidden orders — the structure was in the light all along.</figcaption>
 </figure>
 
@@ -254,7 +254,7 @@ This is Augustine's privation doctrine made formal rather than merely defensible
 <hr>
 
 <figure>
-<img src="/static/images/durer-melancholia.jpg" alt="Albrecht Dürer, Melencolia I" style="max-width:100%;">
+<img src="/static/images/durer-melancholia.jpg" alt="Albrecht Dürer, Melencolia I" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Albrecht Dürer, Melencolia I</em> (1514). The instruments of measure set down, the figure still — knowledge come to the edge of what it can weigh.</figcaption>
 </figure>
 

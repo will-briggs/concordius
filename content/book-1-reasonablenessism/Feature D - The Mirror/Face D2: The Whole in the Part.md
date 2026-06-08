@@ -7,7 +7,7 @@
 ---
 
 <figure>
-<img src="/static/images/masaccio-trinity.jpg" alt="" style="max-width:100%;">
+<img src="/static/images/masaccio-trinity.jpg" alt="" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Masaccio, The Trinity</em> (c. 1427–28). The whole structure is laid out in exact proportion, so that the geometry of the part carries the plan of the whole. A stance true to its object does the same: the method applied to one claim is the method applied to everything.</figcaption>
 </figure>
 

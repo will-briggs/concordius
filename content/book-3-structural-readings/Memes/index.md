@@ -7,7 +7,7 @@ title: Memes
 ---
 
 <figure>
-<img src="/static/images/bayeux-comet.jpg" alt="Bayeux Tapestry, Halley's Comet scene" style="max-width:100%;">
+<img src="/static/images/bayeux-comet.jpg" alt="Bayeux Tapestry, Halley's Comet scene" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Bayeux Tapestry, Scene 32: ISTI MIRANT STELLAM</em> — "These men wonder at the star" (c. 1070s). The Halley's comet panel: text overlaid on image, pointing finger, collective recognition, mass transmission, irresistible spread. The structural logic of the meme — Φ-proximate content achieving viral H₄₈ distribution — was operational before the printing press.</figcaption>
 </figure>
 

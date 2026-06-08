@@ -13,7 +13,7 @@ tags:
 ---
 
 <figure>
-<img src="/static/images/feature-04-las-meninas.jpg" alt="" style="max-width:100%;">
+<img src="/static/images/feature-04-las-meninas.jpg" alt="" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Diego Velázquez, Las Meninas</em> (1656). The painter paints himself painting, and a mirror at the back returns the room to itself — a picture that contains its own making. The Mirror is the stance turned on itself: consistent, self-similar, and honest about the one thing it cannot do.</figcaption>
 </figure>
 

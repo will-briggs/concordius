@@ -6,7 +6,7 @@
 **Series:** Book 3 — Structural Readings / Visual Art  
 **Cross-references:** Paper 2 §§15–16 (the Divine Names of the Holy Spirit; τ_nuclear as the organizational space and the vivifying principle); Paper 6½ §§1–3 (the three kenoses; the τ_nuclear topology and its relationship to organizational development); Miracles §§2–4 (the cross-term mechanism; the conditions for high-amplitude events; what "the Spirit moving" structurally means); The Pre-Incarnation Saints (the organizational development of exceptional beings in the pre-τ_nuclear H₄₈ period)
 
-<img src="/static/images/hildegard-scivias.jpg" alt="Hildegard — Scivias illumination" style="max-width:100%;">
+<img src="/static/images/hildegard-scivias.jpg" alt="Hildegard — Scivias illumination" style="max-width:100%;display:block;margin:0 auto;">
 
 ---
 

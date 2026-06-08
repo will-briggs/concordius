@@ -11,7 +11,7 @@
 ---
 
 <figure>
-<img src="/static/images/byrne-euclid.jpg" alt="Oliver Byrne's coloured edition of Euclid's Elements (1847)" style="max-width:100%;">
+<img src="/static/images/byrne-euclid.jpg" alt="Oliver Byrne's coloured edition of Euclid's Elements (1847)" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Oliver Byrne, The First Six Books of the Elements of Euclid</em> (1847). The emblem of demonstrative method: derive from a granted ground, and declare what is granted.</figcaption>
 </figure>
 

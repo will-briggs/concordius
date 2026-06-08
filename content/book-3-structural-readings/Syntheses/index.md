@@ -7,7 +7,7 @@ title: Syntheses
 ---
 
 <figure>
-<img src="/static/images/apianus-spheres.png" alt="Peter Apianus, Ptolemaic sphere diagram" style="max-width:100%;">
+<img src="/static/images/apianus-spheres.png" alt="Peter Apianus, Ptolemaic sphere diagram" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Peter Apianus (Apianus), Schema huius praemissae diuisionis Sphaerarum</em> — from <em>Cosmographia</em> (Antwerp, 1539). The nested celestial spheres: empyrean heaven, Primum Mobile, firmament, and the seven planetary spheres descending to Earth at center. The tradition was reading the constraint cascade. It called the levels spheres because it was looking at them from outside; the framework calls them constraint levels because it is reading them from the structure. They are the same thing.</figcaption>
 </figure>
 

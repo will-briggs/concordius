@@ -13,7 +13,7 @@ tags:
 ---
 
 <figure>
-<img src="/static/images/fra-angelico-forerunners.jpg" alt="Fra Angelico, The Forerunners of Christ with Saints and Martyrs" style="max-width:100%;">
+<img src="/static/images/fra-angelico-forerunners.jpg" alt="Fra Angelico, The Forerunners of Christ with Saints and Martyrs" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Fra Angelico, The Forerunners of Christ with Saints and Martyrs</em> (c. 1423–24). The great cloud of witnesses ranked in glory — the company that caught the Good, the True, and the Beautiful, each pointing past himself to the ground the others point to as well.</figcaption>
 </figure>
 

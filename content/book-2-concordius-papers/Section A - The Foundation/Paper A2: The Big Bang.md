@@ -16,7 +16,7 @@ The universe was once hot, dense, and far smaller than it is now, and it has bee
 ---
 
 <figure>
-<img src="/static/images/turner-light-and-colour.jpg" alt="J. M. W. Turner, Light and Colour (Goethe's Theory) — The Morning after the Deluge — Moses Writing the Book of Genesis" style="max-width:100%;">
+<img src="/static/images/turner-light-and-colour.jpg" alt="J. M. W. Turner, Light and Colour (Goethe's Theory) — The Morning after the Deluge — Moses Writing the Book of Genesis" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>J. M. W. Turner, Light and Colour (Goethe's Theory) — The Morning after the Deluge — Moses Writing the Book of Genesis</em> (1843). Tate Britain, London. Turner painted light condensing out of formless radiance — neither chaos nor finished form, but the moment between. It is the nearest thing in art to what the equations describe at the start: a hot, structureless brilliance out of which the definite, ordered world precipitates.</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ It must be said plainly that inflation is the **leading paradigm and not a confi
 <hr>
 
 <figure>
-<img src="/static/images/wmap-cmb-9yr.png" alt="WMAP nine-year all-sky map of the cosmic microwave background" style="max-width:100%;">
+<img src="/static/images/wmap-cmb-9yr.png" alt="WMAP nine-year all-sky map of the cosmic microwave background" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>WMAP nine-year cosmic microwave background</em> (NASA / WMAP Science Team, 2012). The oldest light we can see — the relic photons of the hot Big Bang, freed when the cooling universe first turned transparent, mapped across the whole sky in Mollweide projection. The ±200 µK ripples are the seeds of every later galaxy; the massless photon §5 follows from the Higgs vacuum is this same carrier, seen as the afterglow it became.</figcaption>
 </figure>
 

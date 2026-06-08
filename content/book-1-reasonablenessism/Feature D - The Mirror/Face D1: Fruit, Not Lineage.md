@@ -9,7 +9,7 @@
 ---
 
 <figure>
-<img src="/static/images/feature-12-basket-of-fruit.jpg" alt="Caravaggio, Basket of Fruit" style="max-width:100%;">
+<img src="/static/images/feature-12-basket-of-fruit.jpg" alt="Caravaggio, Basket of Fruit" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Caravaggio, Basket of Fruit</em> (c. 1599). Pinacoteca Ambrosiana, Milan. The fruit is judged by what hangs in the basket — some of it already spotting and turning — not by the vine it came from.</figcaption>
 </figure>
 

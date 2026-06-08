@@ -13,7 +13,7 @@ tags:
 ---
 
 <figure>
-<img src="/static/images/feature-10-carta-marina.jpg" alt="" style="max-width:100%;">
+<img src="/static/images/feature-10-carta-marina.jpg" alt="" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Olaus Magnus, Carta Marina</em> (1539). At the edge of the charted sea the mapmaker draws monsters — the honest mark of where knowledge stops and something else begins. The Boundary is the discipline of drawing that line in the open rather than pretending it isn't there.</figcaption>
 </figure>
 
