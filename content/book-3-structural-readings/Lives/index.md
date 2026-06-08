@@ -80,7 +80,11 @@ These are not biographies and not appraisals. A Life reading does not rank the f
 - [[Lives/Mozi|Mozi]] — *the life* (universal, impartial love)
 - [[Lives/Xunzi|Xunzi]] — *the life* (nature is bad; goodness by cultivation)
 - [[Lives/Sun Tzu|Sun Tzu]] — *the life* (winning without fighting; wu wei in conflict)
+- [[Lives/Lysippos|Lysippos]] — *the life* (the canon revised toward life)
+- [[Lives/Apelles|Apelles]] — *the life* (the greatest painter, wholly lost)
 - Polykleitos → [[Visual Art/Polykleitos — The Canon|The Canon]] *(work)*
+- Praxiteles → [[Visual Art/Praxiteles — The Aphrodite of Knidos|The Aphrodite of Knidos]] *(work)*
+- Myron → [[Visual Art/Myron — The Discobolus|The Discobolus]] *(work)*
 - Leucippus → [[Lives/Democritus|Democritus]] *(read with the atomism)*
 - Apollonius → [[Science/Apollonius — Conics|Conics]] *(work)*
 - Zhuangzi → [[Sacred Texts/Zhuangzi — The Inner Chapters|The Inner Chapters]] *(work)*

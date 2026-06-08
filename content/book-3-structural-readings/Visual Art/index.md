@@ -22,6 +22,8 @@ The readings collected here apply the Concordius framework to visual works that 
 **The Constitutive Relation**
 
 - [[Polykleitos — The Canon]] — Polykleitos, c. 440 BC
+- [[Myron — The Discobolus]] — Myron, c. 450 BC
+- [[Praxiteles — The Aphrodite of Knidos]] — Praxiteles, c. 360 BC
 - [[The Creation of Adam]] — Michelangelo, c. 1512
 - [[The School of Athens]] — Raphael, 1509–1511
 
