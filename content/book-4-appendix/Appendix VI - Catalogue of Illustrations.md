@@ -60,11 +60,22 @@ title: Appendix VI - Catalogue of Illustrations
 **Paper A5: The Breath of Life**
 - *Hildegard von Bingen receiving the vision* &nbsp;·&nbsp; `hildegard-scivias.jpg`
 
+**Paper A6: The Son of Man**
+- *Ford Madox Brown, Jesus Washing Peter's Feet* (1852–56) &nbsp;·&nbsp; `ford-madox-brown-washing-feet.jpg`
+
 **Paper A6½: The Tomb**
-- *Geertgen tot Sint Jans, The Nativity at Night* (c. 1490) &nbsp;·&nbsp; `geertgen-nativity-night.jpg`
+- *Hans Holbein the Younger, The Body of the Dead Christ in the Tomb* (1521–22) &nbsp;·&nbsp; `holbein-dead-christ.jpg`
+
+**Paper A7: The Resurrection**
+- *Titian, Noli me Tangere* (c. 1514) &nbsp;·&nbsp; `titian-noli-me-tangere.jpg`
 
 **Paper 7 - What We Know**
 - *Rembrandt, The Philosopher in Meditation* (1632) &nbsp;·&nbsp; `rembrandt-philosopher-meditation.jpg`
+
+### Section B
+
+**Paper B0: The Proof**
+- *Oliver Byrne, The First Six Books of the Elements of Euclid* (1847) &nbsp;·&nbsp; `byrne-euclid.jpg`
 
 ### Section II
 
