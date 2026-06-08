@@ -1,10 +1,10 @@
 ---
-title: Book 1 - Concordius Papers
+title: Book 2 - Concordius Papers
 tags:
   - nav-order::1
 ---
 
-# Book 1 — Concordius Papers
+# Book 2 — Concordius Papers
 
 ---
 
@@ -88,4 +88,4 @@ Wittgenstein was right. Not how the world is, but that it is: this is the beginn
 
 ---
 
-*The series begins with [[book-1-concordius-papers/section-a---the-foundation/index|Section A — The Foundation]].*
+*The series begins with [[book-2-concordius-papers/section-a---the-foundation/index|Section A — The Foundation]].*

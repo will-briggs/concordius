@@ -287,4 +287,4 @@ M is **not yet quantifiable** (Paper 10½ OQ5): account for the messenger filter
 
 ---
 
-*This file is Appendix E of Book 4. For full derivations, see the Concordius Papers (Book 1). For the technical vocabulary in full, see Appendix A — Dictionary of Terms. For the reading method in full, see the Framework and Method section of Book 3 — Structural Readings.*
+*This file is Appendix E of Book 4. For full derivations, see the Concordius Papers (Book 2). For the technical vocabulary in full, see Appendix A — Dictionary of Terms. For the reading method in full, see the Framework and Method section of Book 3 — Structural Readings.*

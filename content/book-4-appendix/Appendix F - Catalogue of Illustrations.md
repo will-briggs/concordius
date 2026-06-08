@@ -15,9 +15,9 @@ title: Appendix F - Catalogue of Illustrations
 **Concordius — index**
 - *Caspar David Friedrich, Monk by the Sea* (1808–10) &nbsp;·&nbsp; `friedrich-monk-by-the-sea.jpg`
 
-## Book 1 — Concordius Papers
+## Book 2 — Concordius Papers
 
-**Book 1 — Concordius Papers — index**
+**Book 2 — Concordius Papers — index**
 - *Flammarion engraving* (1888) &nbsp;·&nbsp; `flammarion-engraving.jpg`
 
 ### Section A
@@ -137,9 +137,9 @@ title: Appendix F - Catalogue of Illustrations
 **Paper G7: Full Integration — You Can't Get There from Here**
 - *Caspar David Friedrich, Wanderer above the Sea of Fog* (c. 1818) &nbsp;·&nbsp; `friedrich-wanderer.jpg`
 
-## Book 2 — Reasonablenessism
+## Book 1 — Reasonablenessism
 
-**Book 2 — Reasonablenessism — index**
+**Book 1 — Reasonablenessism — index**
 - *Rembrandt van Rijn, Two Old Men Disputing (St. Peter and St. Paul in Discussion)* (1628) &nbsp;·&nbsp; `rembrandt-two-old-men-disputing.jpg`
 
 **Feature 1 — No Source Is Axiom**

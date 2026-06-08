@@ -1,10 +1,10 @@
 ---
-title: Book 2 - Reasonablenessism
+title: Book 1 - Reasonablenessism
 tags:
   - nav-order::1
 ---
 
-# Book 2 — Reasonablenessism
+# Book 1 — Reasonablenessism
 
 ---
 

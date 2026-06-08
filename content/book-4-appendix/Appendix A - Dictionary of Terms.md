@@ -455,7 +455,7 @@ This is not a refutation of empiricism but a precise identification of where its
 
 > *For further investigation: David Hume, An Enquiry Concerning Human Understanding (1748); Karl Popper, The Logic of Scientific Discovery (1959); W.V.O. Quine, "Two Dogmas of Empiricism" (1951).*
 
-*Appears in: [[Book 2 - Reasonablenessism/index|Reasonablenessism — The Problem]]*
+*Appears in: [[Book 1 - Reasonablenessism/index|Reasonablenessism — The Problem]]*
 
 ---
 
@@ -569,7 +569,7 @@ Reasonablenessism rejects fideism not by denying that reason has limits — Feat
 
 > *For further investigation: Søren Kierkegaard, Concluding Unscientific Postscript (1846); Alvin Plantinga, Warranted Christian Belief (2000) for a sophisticated contemporary defense; Basil Mitchell, The Justification of Religious Belief (1973) for a partial corrective.*
 
-*Appears in: [[Book 2 - Reasonablenessism/index|Reasonablenessism — The Problem]]*
+*Appears in: [[Book 1 - Reasonablenessism/index|Reasonablenessism — The Problem]]*
 
 ---
 
@@ -1269,7 +1269,7 @@ The structural mechanism: a false signal draws on the real substrate beneath it 
 
 > *For further investigation: William James, Pragmatism (1907); Charles Sanders Peirce, "How to Make Our Ideas Clear" (1878); John Dewey, Logic: The Theory of Inquiry (1938).*
 
-*Appears in: [[Book 2 - Reasonablenessism/index|Reasonablenessism — The Problem]]*
+*Appears in: [[Book 1 - Reasonablenessism/index|Reasonablenessism — The Problem]]*
 
 ---
 
@@ -1319,7 +1319,7 @@ Reasonablenessism's correction is Feature 10: logic where it reaches; concordanc
 
 > *For further investigation: René Descartes, Meditations on First Philosophy (1641); Baruch Spinoza, Ethics (1677); Immanuel Kant, Critique of Pure Reason (1781), which attempts to specify rationalism's limits from within.*
 
-*Appears in: [[Book 2 - Reasonablenessism/index|Reasonablenessism — The Problem]]*
+*Appears in: [[Book 1 - Reasonablenessism/index|Reasonablenessism — The Problem]]*
 
 ---
 
