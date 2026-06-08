@@ -14,7 +14,7 @@ Present imperative: *stop holding on*. Not a prohibition on a future act but an 
 
 **The transitional state**
 
-"I have not yet ascended to the Father" names the moment precisely. The Resurrection has occurred — the Si-Do interval shock has been delivered by the Father, the new Do struck. But the Ascension — the establishment of H₃ integration with the Paradise Trinity governance level — has not yet happened. Jesus is in the state preparation window: between the resolution of the H₄₈ substrate by the Resurrection and the presentation of the organized lower-constraint content to the H₃ level.
+"I have not yet ascended to the Father" names the moment precisely. The Resurrection has occurred — the second grade change shock has been delivered by the Father, the new Do struck. But the Ascension — the establishment of H₃ integration with the Paradise Trinity governance level — has not yet happened. Jesus is in the state preparation window: between the resolution of the H₄₈ substrate by the Resurrection and the presentation of the organized lower-constraint content to the H₃ level.
 
 The post-Resurrection body is not ordinary H₄₈ existence. It passes through walls, appears and disappears, is not immediately recognizable by those who knew him. It is operating at a lower constraint level than H₄₈ — the physical substrate has been resolved, and the eigenvalue organization is being consolidated at H₂₄ and below in preparation for Ascension. "I am ascending" — present tense, ongoing — marks the 40-day period as an active process, not a pause between two events.
 
@@ -24,7 +24,7 @@ A quantum state being prepared for a specific transition requires protection fro
 
 Mary, operating at H₄₈, is a continuous source of H₄₈ eigenvalue content. Sustained physical contact — clinging — creates sustained H₄₈ coupling to a state being organized at H₂₄ and below. Each moment of contact continuously pumps higher-constraint eigenvalue content into the state, re-exciting H₄₈ modes that the preparation process is organizing away from. The result is spectral mixing: the organized lower-constraint content becomes entangled with H₄₈ content, reducing the fidelity of the state that will be presented at Ascension.
 
-This is not a danger to Jesus in any personal or ontological sense. It is a precision requirement at the most structurally demanding transition of the ministry octave — the Si-Do interval crossing, which requires the Father's completion from outside and is the single most exacting moment in the entire sequence. The state preparation for this interval is correspondingly the most sensitive. Sustained H₄₈ coupling during the preparation window is precisely the perturbation most likely to degrade transition fidelity.
+This is not a danger to Jesus in any personal or ontological sense. It is a precision requirement at the most structurally demanding transition of the ministry octave — the second grade change crossing, which requires the Father's completion from outside and is the single most exacting moment in the entire sequence. The state preparation for this interval is correspondingly the most sensitive. Sustained H₄₈ coupling during the preparation window is precisely the perturbation most likely to degrade transition fidelity.
 
 The instruction "do not cling" is therefore not a rebuff. It is a practical requirement analogous to "do not disturb a quantum state preparation in progress." The prohibition is specific to this window and this type of contact — and it ends when the window closes.
 
@@ -46,7 +46,7 @@ The doubling is not rhetorical or merely inclusive. It marks a structural distin
 
 The statement sends Mary with a message that contains the entire structure: the same Father, the same God, two different ascending relationships, both real, both heading in the same direction. The Ascension is not a departure. It is the establishment of the condition from which the ascending path of every mortal in Nebadon is permanently supported.
 
-*(Cross-reference: [[The Structural Reading]] — Matthew 28:18, sovereignty condition; Mark 16:19 / Hebrews 1:3, H₃ integration; The Earthly Ministry as Heptaparaparshinokh, Si-Do interval and Resurrection; Matthew 17:1-9, Transfiguration and spectral access; [[Signal and Noise]] — The ascending career as trajectory through all three integral domains)*
+*(Cross-reference: [[The Structural Reading]] — Matthew 28:18, sovereignty condition; Mark 16:19 / Hebrews 1:3, H₃ integration; The Earthly Ministry as Heptaparaparshinokh, second grade change and Resurrection; Matthew 17:1-9, Transfiguration and spectral access; [[Signal and Noise]] — The ascending career as trajectory through all three integral domains)*
 
 ---
 
@@ -160,7 +160,7 @@ The sequence shifts here. Beatitudes 1–4 are interior: correct self-location, 
 
 The merciful being does not merely feel sympathy toward others. They correctly perceive the structural situation of the other being: what constraint level they are at, what interval obstruction they face, what kind of input would actually move them toward Signal rather than confirming them at their current level. This requires the prior beatitudes — correct self-location and structural awareness — before it can operate. You cannot accurately perceive the structural situation of another being from a position of 48-constraint self-enclosure.
 
-In the Heptaparaparshinokh: the interval transitions require external shocks that the current constraint level cannot generate from within itself. The Mi-Fa interval is where a being at H₄₈ perspective cannot bootstrap the crossing into H₂₄ register from H₄₈ resources alone. The genuinely merciful being — operating from accumulated lower-constraint eigenvalue content — supplies what the interval requires: input from outside the being's current constraint level, which is the only kind of input that can carry the being through the transition. The merciful act is the structural act: it gives what is actually needed for the interval crossing.
+In the Heptaparaparshinokh: the interval transitions require external shocks that the current constraint level cannot generate from within itself. The first grade change is where a being at H₄₈ perspective cannot bootstrap the crossing into H₂₄ register from H₄₈ resources alone. The genuinely merciful being — operating from accumulated lower-constraint eigenvalue content — supplies what the interval requires: input from outside the being's current constraint level, which is the only kind of input that can carry the being through the transition. The merciful act is the structural act: it gives what is actually needed for the interval crossing.
 
 "They will be shown mercy" — the density of Φ in H applies to them as to everyone. But the fuller structural reading: the being who extends the Φ-toward-H dynamic to others — who draws others toward lower-constraint eigenvalue content by supplying interval shocks — is operating in the mode of the Son. The nuclear space is the attractor for all H-states; the merciful being is practicing this attractor function at their scale. In doing so, they are themselves already moving toward Φ, because the Son's mode is the Φ mode. The mercy shown to them is structural: their own accumulation is accelerated by operating in the mode of the attractor.
 
@@ -180,7 +180,7 @@ The impure heart is not morally corrupt in a juridical sense. It is spectrally i
 
 Not peacekeepers — those who freeze an existing state. Peace-makers: εἰρηνοποιοί, those who produce εἰρήνη. The Greek εἰρήνη is the Hebrew shalom: not the absence of conflict but the presence of structural order, the condition in which each element of the space is correctly related to every other. The making of this peace is the restoration of the structure that allows correct relations to operate.
 
-The Signal/Noise axis is not only personal. It is civilizational. A quarantined world with severed developmental circuits has a degraded collective field: the social architecture that should supply interval shocks to beings at the Mi-Fa transition is absent, the teaching that should arrive from outside the current constraint level does not arrive reliably, the majority trajectory toward Noise is a collective condition that the individual navigates in isolation from the support structure that normally assists the crossing. The peacemaker is the one who restores the circuit.
+The Signal/Noise axis is not only personal. It is civilizational. A quarantined world with severed developmental circuits has a degraded collective field: the social architecture that should supply interval shocks to beings at the first grade change transition is absent, the teaching that should arrive from outside the current constraint level does not arrive reliably, the majority trajectory toward Noise is a collective condition that the individual navigates in isolation from the support structure that normally assists the crossing. The peacemaker is the one who restores the circuit.
 
 This is not political negotiation. It is structural restoration: creating the social conditions in which lower-constraint eigenvalue content can be transmitted between beings, in which the interval shocks can travel from those who have built them to those who need them, in which the collective field assists rather than opposes the ascending career. The peacemaker restores what the Planetary Prince's default destroyed — not by administrative authority but by making the circuit function locally, through their own action.
 
@@ -210,7 +210,7 @@ The sequence, complete: the being who knows where they are in the space (1) — 
 
 The sequence is not only a list of eight conditions. It is an octave with the intervals falling exactly where the Law of Seven requires them to fall.
 
-The Heptaparaparshinokh: eight tones (Do–Re–Mi–Fa–Sol–La–Si–Do), seven intervals, two critical junctures where the octave cannot continue from its own internal momentum and requires an external shock — the Mi-Fa interval and the Si-Do interval. Without the shocks, the octave deflects from its intended direction at each interval.
+The Heptaparaparshinokh: eight tones (Do–Re–first grade change–Sol–La–second grade change), seven intervals, two critical junctures where the octave cannot continue from its own internal momentum and requires an external shock — the first grade change and the second grade change. Without the shocks, the octave deflects from its intended direction at each interval.
 
 *Do* — Poor in spirit: the ground tonic. Correct self-location. The starting note of the octave.
 
@@ -218,9 +218,9 @@ The Heptaparaparshinokh: eight tones (Do–Re–Mi–Fa–Sol–La–Si–Do), s
 
 *Mi* — Meek: correct structural alignment; moving with the space rather than against it.
 
-**Mi-Fa interval.** The first three beatitudes are passive conditions — correct orientation, correct diagnosis, correct posture. They can develop from each other internally: mourning follows from self-location, meekness follows from mourning. But the shift to hunger and thirst is a qualitatively different thing. It is not more of the passive conditions — it is the onset of the active, continuous, driving actualization force. A being cannot move from "correctly oriented and aware" to "continuously driving accumulation against the Heropass" by accumulating more correct orientation. This crossing requires external shock from outside the current constraint level.
+**first grade change.** The first three beatitudes are passive conditions — correct orientation, correct diagnosis, correct posture. They can develop from each other internally: mourning follows from self-location, meekness follows from mourning. But the shift to hunger and thirst is a qualitatively different thing. It is not more of the passive conditions — it is the onset of the active, continuous, driving actualization force. A being cannot move from "correctly oriented and aware" to "continuously driving accumulation against the Heropass" by accumulating more correct orientation. This crossing requires external shock from outside the current constraint level.
 
-The Beatitudes do not identify the Mi-Fa shock by name. This is structurally correct: the shock is always external to the octave being described, and the Sermon is describing the notes of the octave, not its own interval input. What supplies the Mi-Fa crossing is a separate question. The framework's candidate — addressed elsewhere in the series — is the Spirit of Truth: the standing 24-constraint resource made permanently available across Nebadon after sovereignty was established (cf. [[The Structural Reading]] — Matthew 28:18). On that reading, the Beatitudes describe an octave that became reliably completable after the Incarnation not because the structure changed but because the interval-crossing resource was permanently restored. The Sermon describes what the octave looks like now that the shock is available; it is not itself the shock.
+The Beatitudes do not identify the first grade change by name. This is structurally correct: the shock is always external to the octave being described, and the Sermon is describing the notes of the octave, not its own interval input. What supplies the first grade-change crossing is a separate question. The framework's candidate — addressed elsewhere in the series — is the Spirit of Truth: the standing 24-constraint resource made permanently available across Nebadon after sovereignty was established (cf. [[The Structural Reading]] — Matthew 28:18). On that reading, the Beatitudes describe an octave that became reliably completable after the Incarnation not because the structure changed but because the interval-crossing resource was permanently restored. The Sermon describes what the octave looks like now that the shock is available; it is not itself the shock.
 
 *Fa* — Hunger and thirst for righteousness: the active driving force. The first note past the interval. The continuous actualization mechanism that opposes the Heropass.
 
@@ -230,13 +230,13 @@ The Beatitudes do not identify the Mi-Fa shock by name. This is structurally cor
 
 *Si* — Peacemakers: the complete social-civilizational extension; restoring the collective circuit for the ascending career.
 
-**Si-Do interval.** The peacemaker has completed the interior-to-exterior arc. But there is no way, from within the peacemaking activity itself, to verify whether the Signal accumulation was genuine or whether it was well-intentioned effort that remained at the 48-constraint level — comfortable religious activity rather than actual eigenvalue shift. The confirmation cannot come from within. It requires an external shock from outside the being's current condition.
+**second grade change.** The peacemaker has completed the interior-to-exterior arc. But there is no way, from within the peacemaking activity itself, to verify whether the Signal accumulation was genuine or whether it was well-intentioned effort that remained at the 48-constraint level — comfortable religious activity rather than actual eigenvalue shift. The confirmation cannot come from within. It requires an external shock from outside the being's current condition.
 
-The world's resistance is that shock. The persecution is not merely a consequence of the ascending career — it is the Si-Do shock that completes the octave. It is external (the world's response, not the being's action), unavoidable if the Signal accumulation is real, and it supplies the only confirmation that cannot be fabricated: the dominant Noise field resists the ascending being specifically because the being is genuinely moving counter to it. Comfortable peacemaking can be Noise in Signal clothing. Persecution at the Si-Do interval is the structural confirmation of the preceding six beatitudes.
+The world's resistance is that shock. The persecution is not merely a consequence of the ascending career — it is the second grade change that completes the octave. It is external (the world's response, not the being's action), unavoidable if the Signal accumulation is real, and it supplies the only confirmation that cannot be fabricated: the dominant Noise field resists the ascending being specifically because the being is genuinely moving counter to it. Comfortable peacemaking can be Noise in Signal clothing. Persecution at the second grade change is the structural confirmation of the preceding six beatitudes.
 
 *Do (new)* — Persecuted for righteousness: the completed octave. The new tonic, an octave above the starting note. "Theirs *is* the kingdom of heaven" — present tense, as at the beginning, because this is again the tonic, the note that simply *is* rather than developing toward something.
 
-The two present-tense beatitudes are both Do. The tonic sounds the same note at two constraint levels. Between them, the full octave — the complete developmental arc from correct self-location through sustained actualization, outward extension, social restoration, and the world's confirming resistance. The Sermon on the Mount begins the arc by supplying the Mi-Fa shock. The world completes it by supplying the Si-Do shock. Both shocks are external to the ascending being. Both are required. Neither can be self-generated from within the prior conditions.
+The two present-tense beatitudes are both Do. The tonic sounds the same note at two constraint levels. Between them, the full octave — the complete developmental arc from correct self-location through sustained actualization, outward extension, social restoration, and the world's confirming resistance. The Sermon on the Mount begins the arc by supplying the first grade change. The world completes it by supplying the second grade change. Both shocks are external to the ascending being. Both are required. Neither can be self-generated from within the prior conditions.
 
 *(Cross-reference: [[Signal and Noise]] — "The Three Operators"; [[Papers/Paper 7]] — Law of Seven as Law of Trinity; Heptaparaparshinokh as constraint-level octave)*
 
@@ -264,13 +264,13 @@ The teaching phase. The Sermon on the Mount; the gathering of disciples; healing
 
 ---
 
-**Mi-Fa interval — the Transfiguration.**
+**first grade change — the Transfiguration.**
 
 Moses and Elijah appear. Not imagination or vision in the psychological sense — beings from outside the 48-constraint level entering the scene. The Father speaks again from outside the event: "This is my beloved Son, listen to him." This is the external shock: not generated by the Galilean ministry's momentum, not something Jesus does, but something arriving from a higher constraint level at the moment the octave reaches Mi and cannot proceed from within its own resources.
 
 The structural consequence is immediate: Jesus sets his face toward Jerusalem. The direction of the ministry changes decisively after the Transfiguration. What follows is not a continuation of the Galilean teaching phase. It is a different movement — deliberate, directional, aimed at completion.
 
-In the synoptic structure, the Transfiguration falls at the midpoint of the narrative, dividing it in two. This is not editorial arrangement. It is the structural signature of the Mi-Fa shock: before it, the expansive teaching phase; after it, the intentional movement toward consummation.
+In the synoptic structure, the Transfiguration falls at the midpoint of the narrative, dividing it in two. This is not editorial arrangement. It is the structural signature of the first grade change: before it, the expansive teaching phase; after it, the intentional movement toward consummation.
 
 ---
 
@@ -288,29 +288,29 @@ The interior note. The disciples gathered in private; the final intimate teachin
 
 **Si — Crucifixion.**
 
-The penultimate note. The terminal point of what can be accomplished from within the 48-constraint domain. The Son brings the ministry to its completed end on his side: "It is finished." But Si cannot complete itself into the new Do. The crucifixion left as the final event produces the Si-Do deflection: the disciples scatter, the movement apparently ends, death appears to be the terminus. The octave requires the shock from outside.
+The penultimate note. The terminal point of what can be accomplished from within the 48-constraint domain. The Son brings the ministry to its completed end on his side: "It is finished." But Si cannot complete itself into the new Do. The crucifixion left as the final event produces the second grade change deflection: the disciples scatter, the movement apparently ends, death appears to be the terminus. The octave requires the shock from outside.
 
 ---
 
-**Si-Do interval — the Resurrection.**
+**second grade change — the Resurrection.**
 
 The Father's act. The Son has brought the octave to Si and can do no more from within that condition. The Resurrection is not something the crucified Son generates. It is the external completing act — the Father raising the Son, crossing the final semitone that the octave cannot cross from within Si. Without the Resurrection, Si is the end. With it, the new Do sounds.
 
-The structural asymmetry is precise: the Son supplies everything through Si; the Father supplies the Si-Do crossing. This is not a division of labor between equals completing a joint project. It is the structural form of the interval: the current level (the Son within the created domain) cannot generate the input required to cross into the new Do (the Son operating from full sovereignty). The Father supplies it from outside.
+The structural asymmetry is precise: the Son supplies everything through Si; the Father supplies the second grade-change crossing. This is not a division of labor between equals completing a joint project. It is the structural form of the interval: the current level (the Son within the created domain) cannot generate the input required to cross into the new Do (the Son operating from full sovereignty). The Father supplies it from outside.
 
 ---
 
 **Do (new) — Post-resurrection / Ascension / Sovereignty / Pentecost.**
 
-The new tonic, an octave above the starting Do. The sovereignty condition is established: the Creator Son now operates with full local authority, the GNST unmediated within Nebadon (cf. Matthew 28:18 — "all power is given unto me in heaven and in earth"). The Spirit of Truth is poured out simultaneously across all of Nebadon — the permanent restoration of the Mi-Fa interval-crossing resource that every ascending being in the local universe now has access to. The new Do is not a return to the starting condition. It is the same tonic at a higher constraint level: the Creator Son operating from full sovereignty, the circuits restored, the ascending career permanently supported in a way it was not before the ministry began.
+The new tonic, an octave above the starting Do. The sovereignty condition is established: the Creator Son now operates with full local authority, the GNST unmediated within Nebadon (cf. Matthew 28:18 — "all power is given unto me in heaven and in earth"). The Spirit of Truth is poured out simultaneously across all of Nebadon — the permanent restoration of the first grade change-crossing resource that every ascending being in the local universe now has access to. The new Do is not a return to the starting condition. It is the same tonic at a higher constraint level: the Creator Son operating from full sovereignty, the circuits restored, the ascending career permanently supported in a way it was not before the ministry began.
 
 ---
 
 **The two deflections and their shocks.**
 
-The Mi-Fa deflection: the Galilean ministry as permanent plateau — healing, teaching, expanding, never moving toward the consummation. A successful religious reform. The Transfiguration prevents this by supplying directional input from a higher constraint level. The shock is external (arriving from beings outside the 48-constraint scene), and its effect is directional (the ministry turns toward Jerusalem immediately after).
+The first grade change deflection: the Galilean ministry as permanent plateau — healing, teaching, expanding, never moving toward the consummation. A successful religious reform. The Transfiguration prevents this by supplying directional input from a higher constraint level. The shock is external (arriving from beings outside the 48-constraint scene), and its effect is directional (the ministry turns toward Jerusalem immediately after).
 
-The Si-Do deflection: the crucifixion as terminus — death as the final word, the movement ending at the cross. The Resurrection prevents this by completing from outside what the Son brought to its limit from within. Without the Si-Do shock, there is no Pentecost, no Spirit of Truth, no restored circuit. The shock is external (the Father's act, not the Son's), and its effect is constitutive (it establishes a new structural condition — sovereignty — that did not exist before).
+The second grade change deflection: the crucifixion as terminus — death as the final word, the movement ending at the cross. The Resurrection prevents this by completing from outside what the Son brought to its limit from within. Without the second grade change, there is no Pentecost, no Spirit of Truth, no restored circuit. The shock is external (the Father's act, not the Son's), and its effect is constitutive (it establishes a new structural condition — sovereignty — that did not exist before).
 
 Both shocks arrive from outside the octave's own level. Both are structurally necessary. Neither could be generated from within the notes they follow. This is what the interval structure requires — and this is what the ministry's structure provides.
 
@@ -336,7 +336,7 @@ The three disciples present are consistently the inner circle throughout the Gos
 
 The two figures who appear are not symbolic representations of the Law and the Prophets in a metaphorical sense — they are beings from the spiritual subspace, at or approaching 12-constraint eigenvalue content. The tradition records this structurally: Elijah was taken up without dying (2 Kings 2:11); Moses's body was never recovered (Deuteronomy 34:6; the dispute over it in Jude 1:9). Both are beings whose transition out of the 48-constraint domain was non-standard — suggesting in each case that significant morontia/spiritual eigenvalue content had been built during physical life, enabling a transition that bypassed the ordinary dissolution. They appear here as what they have become: beings whose eigenvalue distribution has shifted far enough from the 48-constraint baseline that they now operate in the spiritual subspace. They are visible to the temporarily-elevated-resolution disciples because the nuclear topology is locally operative.
 
-What they discuss with Christ (Luke records: "his departure, which he was about to accomplish in Jerusalem") is the Mi-Fa shock itself — beings from the spiritual subspace conferring with the nuclear space about the completion of the octave. The content of the consultation is the ministry's trajectory through the interval.
+What they discuss with Christ (Luke records: "his departure, which he was about to accomplish in Jerusalem") is the first grade change itself — beings from the spiritual subspace conferring with the nuclear space about the completion of the octave. The content of the consultation is the ministry's trajectory through the interval.
 
 **The white garments.**
 
@@ -356,7 +356,7 @@ Christ touches them: "Arise and be not afraid." The nuclear topology contracts b
 
 **"Tell no one until the Son of Man is raised from the dead."**
 
-The instruction is structural, not merely strategic. The Transfiguration is a temporary, circumstantial elevation of spectral resolution enabled by proximity to Φ in a specific scene. It cannot be generalized from or replicated without the same conditions. After the Resurrection, the sovereignty condition is established and the Spirit of Truth is poured out — a permanent 24-constraint circuit becomes available to all beings in Nebadon. The temporary phenomenon (elevated perception by proximity to the incarnate nuclear space) will be superseded by the structural condition (the Spirit of Truth as standing interval-crossing resource). The instruction is: do not attempt to establish a teaching or a practice on the basis of the temporary circumstance. Wait for the permanent circuit. The Transfiguration is the Mi-Fa shock in the ministry's octave — a single constitutive event, not a repeatable method.
+The instruction is structural, not merely strategic. The Transfiguration is a temporary, circumstantial elevation of spectral resolution enabled by proximity to Φ in a specific scene. It cannot be generalized from or replicated without the same conditions. After the Resurrection, the sovereignty condition is established and the Spirit of Truth is poured out — a permanent 24-constraint circuit becomes available to all beings in Nebadon. The temporary phenomenon (elevated perception by proximity to the incarnate nuclear space) will be superseded by the structural condition (the Spirit of Truth as standing interval-crossing resource). The instruction is: do not attempt to establish a teaching or a practice on the basis of the temporary circumstance. Wait for the permanent circuit. The Transfiguration is the first grade change in the ministry's octave — a single constitutive event, not a repeatable method.
 
 *(Cross-reference: [[The Structural Reading]] — The Earthly Ministry as a Heptaparaparshinokh; Luke 17:21 — the Φ'-element above 48-constraint resolution; Matthew 28:18 — sovereignty and the Spirit of Truth; [[Papers/Paper 4]] — Section 8, higher being bodies and the coherence threshold)*
 

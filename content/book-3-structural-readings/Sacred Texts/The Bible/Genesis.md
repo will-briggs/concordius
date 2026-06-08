@@ -202,7 +202,7 @@ The Sabbath passage is not a postscript to the creation narrative. It is the Hep
 
 The seventh day is when the completion is noted and marked — not when the last act of making occurred. The creative work was done on the sixth day; the seventh day is the structural acknowledgment of completion. The Heptaparaparshinokh does not terminate on the last active stage. The seventh stage is qualitatively different from the six that precede it: the first six stages produce the elements of the structure; the seventh stage is the completion-as-completion — the moment when the structure is recognized as whole.
 
-In the framework's terms: the Si-Do position is the point where the octave has run its full course and what was implicit at Do₁ has been fully actualized at Do₂. The seventh day is the fulfillment that makes the first day's potential actual.
+In the framework's terms: the second grade change position is the point where the octave has run its full course and what was implicit at Do₁ has been fully actualized at Do₂. The seventh day is the fulfillment that makes the first day's potential actual.
 
 **"He rested from all his work"**
 
@@ -212,13 +212,13 @@ The rest is therefore the structural marker of completion, not the absence of di
 
 **"He blessed the seventh day and made it holy"**
 
-Two acts mark the seventh day as structurally distinct from the preceding six — neither was applied to any creative day before. *Barak* (blessed) invests the seventh stage with generative potential; *qadash* (set apart, made holy) marks it as occupying a higher constraint level than the surrounding structure. *Qadosh* in the framework: operating at a higher constraint level than the surrounding substrate. The seventh day is *qadosh* because it occupies the Si-Do position in the Heptaparaparshinokh — the interval that completes and resolves the cycle, carrying a different structural valence from the six active stages.
+Two acts mark the seventh day as structurally distinct from the preceding six — neither was applied to any creative day before. *Barak* (blessed) invests the seventh stage with generative potential; *qadash* (set apart, made holy) marks it as occupying a higher constraint level than the surrounding structure. *Qadosh* in the framework: operating at a higher constraint level than the surrounding substrate. The seventh day is *qadosh* because it occupies the second grade change position in the Heptaparaparshinokh — the interval that completes and resolves the cycle, carrying a different structural valence from the six active stages.
 
 **The Sabbath commandment as structural derivation**
 
 EXOD 20:8-11 grounds the human Sabbath explicitly in this cosmological structure: "for in six days the LORD made the heavens and the earth... but he rested on the seventh day." The human work week is not merely analogous to the cosmological Heptaparaparshinokh — it is the human instantiation of the same structure. A seven-stage cycle without a distinguished seventh stage is structurally truncated; the octave without the resolving tone is incomplete. The commandment derives from this structural fact.
 
-*(S) — The seventh day as the Si-Do completion of the cosmological Heptaparaparshinokh: structural, following from the framework's account of the Law of Seven and the qualitative distinction of the seventh stage. The *qadosh* marking as structural distinction: structural. Cross-reference: EXOD 20:8-11 — the Sabbath commandment; LEV 23 — the seven annual feasts as Heptaparaparshinokh at the yearly scale.)*
+*(S) — The seventh day as the second grade change completion of the cosmological Heptaparaparshinokh: structural, following from the framework's account of the Law of Seven and the qualitative distinction of the seventh stage. The *qadosh* marking as structural distinction: structural. Cross-reference: EXOD 20:8-11 — the Sabbath commandment; LEV 23 — the seven annual feasts as Heptaparaparshinokh at the yearly scale.)*
 
 ---
 
@@ -370,7 +370,7 @@ This triple identification reappears at the Baptism of Jesus: "This is my Son, w
 
 **Three days of travel**
 
-Abraham sees the place from afar only on the third day (verse 4). The three-day structure before arrival at the place of completion is not a geographical report; it is the structural signature of the descent-and-return, the kenotic movement into the most constrained position before the constraint is resolved. The three-day structure recurs: Jonah's three days in the great fish, the three days of the Passion and Resurrection. The Heptaparaparshinokh requires external input at the Mi-Fa interval; three is the structural minimum for the shock to operate — departure from normal, passage through the constraint, arrival at the resolution.
+Abraham sees the place from afar only on the third day (verse 4). The three-day structure before arrival at the place of completion is not a geographical report; it is the structural signature of the descent-and-return, the kenotic movement into the most constrained position before the constraint is resolved. The three-day structure recurs: Jonah's three days in the great fish, the three days of the Passion and Resurrection. The Heptaparaparshinokh requires external input at the first grade change; three is the structural minimum for the shock to operate — departure from normal, passage through the constraint, arrival at the resolution.
 
 **"God himself will provide the lamb"**
 
@@ -388,7 +388,7 @@ The full Akedah has a canonical Law of Three structure: Abraham as the affirming
 
 The universal reach of GEN 12:3 is now confirmed with oath: *nisba'ti* — I have sworn (verse 16). What was announced as promise is now structurally sealed. The structural trajectory from GEN 3:15 (proto-evangelion, structural specification) through GEN 12:3 (covenant promise, particular channel selected) to GEN 22:16-18 (covenant confirmed with oath, universal reach reiterated) is the Heptaparaparshinokh of the covenant program running to its first major completion.
 
-*(S) — The triple identification of Isaac as structurally parallel to the Baptism/Transfiguration identifications: structural, following from the typological relationship the New Testament explicitly develops (Hebrews 11:17-19; John 3:16). The three-day structure as Mi-Fa shock interval: structural. The YHWH Yireh name as preserving the seeing/providing ambiguity: structural. The ram's catching as the substitutionary principle's first instantiation: structural. The Law of Three analysis: structural. Cross-reference: GEN 3:15 — the proto-evangelion that specifies the shape; GEN 12:1-3 — the covenant channel; see NT readings for Passion and Resurrection.)*
+*(S) — The triple identification of Isaac as structurally parallel to the Baptism/Transfiguration identifications: structural, following from the typological relationship the New Testament explicitly develops (Hebrews 11:17-19; John 3:16). The three-day structure as first grade change interval: structural. The YHWH Yireh name as preserving the seeing/providing ambiguity: structural. The ram's catching as the substitutionary principle's first instantiation: structural. The Law of Three analysis: structural. Cross-reference: GEN 3:15 — the proto-evangelion that specifies the shape; GEN 12:1-3 — the covenant channel; see NT readings for Passion and Resurrection.)*
 
 ---
 

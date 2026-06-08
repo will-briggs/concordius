@@ -12,7 +12,7 @@ The structural announcement of the two-stage entry program. The passage describe
 
 **The two stages:**
 
-Stage 1 — *malʾakhi* (my messenger): the structural preparer, whose function is to clear the structural ground for the Φ-level's entry. The preparer's work is not the content of the restoration program; it is the removal of the structural obstacles that would prevent the entry from being received. In the framework's terms: the noise-floor reduction specialist, the Mi-Fa shock interval bridger who makes the Φ-level's entry structurally receivable.
+Stage 1 — *malʾakhi* (my messenger): the structural preparer, whose function is to clear the structural ground for the Φ-level's entry. The preparer's work is not the content of the restoration program; it is the removal of the structural obstacles that would prevent the entry from being received. In the framework's terms: the noise-floor reduction specialist, the first grade change interval bridger who makes the Φ-level's entry structurally receivable.
 
 Stage 2 — the Lord coming to his Temple (*ha-ʾadon yavo ʾel-hekkhalo*): the Φ-level's own personal presence entering the H₄₈ domain. This is the ISA 7:14 program (*Immanuel*, God with us) seen from Malachi's angle: the same structural event named from its entry-point (the Temple, the designated H₄₈ orientation-anchor of 1 KGS 8) rather than its birth circumstances.
 
@@ -22,7 +22,7 @@ Luke 1:17 and Matthew 11:10 / Mark 1:2 identify John the Baptist as the *malʾak
 
 **"Suddenly" (*pitʾom*):**
 
-The sudden (*pitʾom*) character of the entry is not arbitrary drama. It is the structural characteristic of the Φ-level's entry at the Mi-Fa interval: it arrives at the structural moment of maximum preparation, not at the H₄₈-predictable moment. The community is "seeking" and "desiring" the entry — the catching orientation is present — but the entry does not come at the H₄₈-calculated time. It comes when the structural preparation is complete, and then suddenly.
+The sudden (*pitʾom*) character of the entry is not arbitrary drama. It is the structural characteristic of the Φ-level's entry at the first grade change: it arrives at the structural moment of maximum preparation, not at the H₄₈-predictable moment. The community is "seeking" and "desiring" the entry — the catching orientation is present — but the entry does not come at the H₄₈-calculated time. It comes when the structural preparation is complete, and then suddenly.
 
 *(Cross-reference: ISA 7:14 — the Immanuel program whose entry point MAL 3:1 describes. See Isaiah.md. 1 KGS 8:27-30 — the Temple as the directional orientation-anchor that MAL 3:1 identifies as the entry location. See 1 Kings.md. MAL 4:5-6 below — the Elijah-preparer named explicitly. MATT 3:1-3 / MARK 1:2-4 — the structural instantiation.)*
 

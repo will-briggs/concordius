@@ -2,7 +2,7 @@
 
 **Text:** Matthew 24:32–35; Mark 13:28–31; Luke 21:29–33  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Parables  
-**Cross-references:** Paper 13½ §§5–6 (the kenotic period as the Si-Do interval; terminal conditions and their observable precursors); The Pre-Incarnation Saints (stasis and release events); The Wicked Tenants (the vineyard's organizational state before the transfer)
+**Cross-references:** Paper 13½ §§5–6 (the kenotic period as the second grade change; terminal conditions and their observable precursors); The Pre-Incarnation Saints (stasis and release events); The Wicked Tenants (the vineyard's organizational state before the transfer)
 
 ---
 

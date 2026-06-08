@@ -42,11 +42,11 @@ The structural account: the Sabbath is a structural fact built into creation bef
 
 *Qadash* — to set apart, to make holy. The Sabbath is already *qadosh* at the level of creation (GEN 2:3: "God blessed the seventh day and made it holy"). The commandment's requirement is to treat it as holy — to align human practice with the structural fact. The Sabbath's holiness is not conferred by human observance; it is recognized and instantiated by it.
 
-*Qadosh* in the framework: operating at a higher constraint level than the surrounding substrate. The seventh day is structurally *qadosh* because it occupies the Si-Do position in the Heptaparaparshinokh — the position of completion and resolution, qualitatively distinct from the six active stages. The human Sabbath practice is the H₄₈ instantiation of that structural position: the stopping is structural compliance, not arbitrary rest.
+*Qadosh* in the framework: operating at a higher constraint level than the surrounding substrate. The seventh day is structurally *qadosh* because it occupies the second grade change position in the Heptaparaparshinokh — the position of completion and resolution, qualitatively distinct from the six active stages. The human Sabbath practice is the H₄₈ instantiation of that structural position: the stopping is structural compliance, not arbitrary rest.
 
 **"Six days you shall labor and do all your work"**
 
-The six active days are not a concession — they are the structural requirement. The Heptaparaparshinokh requires six stages of active differentiation before the seventh stage of completion can be reached. A Sabbath without the preceding work is structurally incoherent: the Si-Do position resolves what the first six stages built; without the building, there is nothing to resolve. The commandment mandates both: the six active stages *and* the seventh stage of completion. The truncation of either disrupts the cycle.
+The six active days are not a concession — they are the structural requirement. The Heptaparaparshinokh requires six stages of active differentiation before the seventh stage of completion can be reached. A Sabbath without the preceding work is structurally incoherent: the second grade change position resolves what the first six stages built; without the building, there is nothing to resolve. The commandment mandates both: the six active stages *and* the seventh stage of completion. The truncation of either disrupts the cycle.
 
 **"For in six days the LORD made the heavens and the earth"**
 
@@ -56,7 +56,7 @@ The derivation is explicit: the human work week mirrors the divine creative patt
 
 DEUT 5:15 gives a second grounding for the same commandment: "Remember that you were slaves in Egypt and that the LORD your God brought you out of there with a mighty hand... Therefore the LORD your God has commanded you to observe the Sabbath day." The creation grounding (Exodus version) and the liberation grounding (Deuteronomy version) are not in tension; they are two aspects of the same structural fact. Creation is the structural argument: the seven-stage cycle is the structure of reality, and the Sabbath honors that structure. Liberation is the experiential argument: the being who has been freed from the constraint of slavery has been restored to the structural vocation the Sabbath instantiates. Slaves cannot observe Sabbath because they do not control their time; free beings who do not observe Sabbath are behaving as slaves.
 
-*(S) — The Sabbath commandment's derivation from the creation structure: structural, following from the explicit grounding in the text and the framework's account of the Law of Seven. The *zakhor*/*shamor* complementarity (inner recognition and outer observance): structural. The *qadosh* marking as Si-Do position: structural. Cross-reference: GEN 2:1-3 — the creation-week Sabbath; LEV 23 — the seven annual feasts; LEV 25 — the seven-year cycle.)*
+*(S) — The Sabbath commandment's derivation from the creation structure: structural, following from the explicit grounding in the text and the framework's account of the Law of Seven. The *zakhor*/*shamor* complementarity (inner recognition and outer observance): structural. The *qadosh* marking as second grade change position: structural. Cross-reference: GEN 2:1-3 — the creation-week Sabbath; LEV 23 — the seven annual feasts; LEV 25 — the seven-year cycle.)*
 
 ---
 

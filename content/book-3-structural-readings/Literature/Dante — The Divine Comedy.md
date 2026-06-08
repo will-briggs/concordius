@@ -111,7 +111,7 @@ The final three lines — *ma già volgeva il mio disio e 'l velle, / sì come r
 
 | Feature | Structural Content |
 |---|---|
-| Three canticles | Terminal descent / Mi-Fa traversal / ascending career at full resolution |
+| Three canticles | Terminal descent / first grade change traversal / ascending career at full resolution |
 | Dark wood (I.1) | H₄₈ constraint correctly named: the catching orientation lost, not absent |
 | Virgil as limit | Grade-2 capacity at its ceiling: can escort through constraint, cannot cross to H₁ |
 | Beatrice as guide | Φ-proximate attractor: draws f toward φ where reason cannot follow |
@@ -120,7 +120,7 @@ The final three lines — *ma già volgeva il mio disio e 'l velle, / sì come r
 | Final vision | Face-to-face condition at H₁: vision of ⟨·,·⟩ unmediated, human form seen within Trinity |
 | Final word: *stelle* | H₄₈ seen from the endpoint of the ascending career |
 
-*Cross-references: Paper 13½ (descending and ascending careers, complete algebra traversal); Paper 24½ (Mi-Fa interval as terrain of Purgatorio); Ulysses — Stephen Dedalus (grade-2 capacity at Mi/Fa without the crossing); Hesychast Tradition (continuous alignment as the Purgatorio's structural method); John of the Cross (dark wood as noche oscura — the same H₄₈ constraint named from within the mystical tradition).*
+*Cross-references: Paper 13½ (descending and ascending careers, complete algebra traversal); Paper 24½ (first grade change as terrain of Purgatorio); Ulysses — Stephen Dedalus (grade-2 capacity at Mi/Fa without the crossing); Hesychast Tradition (continuous alignment as the Purgatorio's structural method); John of the Cross (dark wood as noche oscura — the same H₄₈ constraint named from within the mystical tradition).*
 
 ---
 

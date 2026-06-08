@@ -96,7 +96,7 @@ These are not biographies and not appraisals. A Life reading does not rank the f
 
 ### Fa — The Post-Incarnation Synthesis
 
-- [[Lives/Paul|Paul]] — *the life* (Damascus; the Mi–Fa shock received)
+- [[Lives/Paul|Paul]] — *the life* (Damascus; the first grade change received)
 - [[Lives/Peter|Peter]] — *the life* (denial and restoration; catching through collapse)
 - [[Lives/Athanasius|Athanasius]] — *the life* (contra mundum; theosis named)
 - [[Lives/Hypatia|Hypatia]] — *the life* (the catching mind torn by the mob)

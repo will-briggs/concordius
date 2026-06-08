@@ -1,7 +1,7 @@
 # The Passion Octave
 
 **Series:** Book 3 — Structural Readings / The Bible — Thematic  
-**Cross-references:** Paper 13½ §§2–5 (the kenotic constraint; the maximum downward entry; the amplitude limiter and its partial lifts); Paper 13½ §7.1 (the overdeterminate release at death); Paper 6½ §5 (the Heptaparaparshinokh as universal law; the interval positions); Paper 24½ (the Mi-Fa interval — the structural shock that prevents automatic degradation); Paper 27½ (the Si-Do interval — the gap that cannot be bridged from within); [[The Twelve Apostles/Judas]] (the structural account of Judas's trajectory; the kiss as organizational assertion); [[Doctrine/The Eucharist: Transubstantiation]] (the Do's relationship to the eucharistic elements); Paper 6 (the coherence threshold; noise floor and catching capacity); Paper 10½ (the Holographic Content Principle — the Do as compressed whole)
+**Cross-references:** Paper 13½ §§2–5 (the kenotic constraint; the maximum downward entry; the amplitude limiter and its partial lifts); Paper 13½ §7.1 (the overdeterminate release at death); Paper 6½ §5 (the Heptaparaparshinokh as universal law; the interval positions); Paper 24½ (the first grade change — the structural shock that prevents automatic degradation); Paper 27½ (the second grade change — the gap that cannot be bridged from within); [[The Twelve Apostles/Judas]] (the structural account of Judas's trajectory; the kiss as organizational assertion); [[Doctrine/The Eucharist: Transubstantiation]] (the Do's relationship to the eucharistic elements); Paper 6 (the coherence threshold; noise floor and catching capacity); Paper 10½ (the Holographic Content Principle — the Do as compressed whole)
 
 ---
 
@@ -25,15 +25,15 @@ The Do is the first free expression of the new organizational content in H₄₈
 
 **First: he embeds the kenotic death in a catching structure before the death occurs.**
 
-"This is my body given for you. Do this in remembrance of me." The Eucharist is not a memorial of an event that has not yet happened. It is the Holographic Content Principle (Paper 10½) applied at maximum structural precision: the organizational content of the kenotic death — the Φ-proximal eigenvalue content of the self-giving that will reach its full deployment at Si — is embedded in H₄₈ substrate (bread, wine) that will persist and remain available for catching alignment after the Si-Do interval has been crossed. The Do always contains the whole octave. The Last Supper *is* the Passion, complete in organizational terms, before it unfolds in H₄₈ time. Every subsequent Eucharist is Do-level access to the Passion octave: the compressed whole available in the part.
+"This is my body given for you. Do this in remembrance of me." The Eucharist is not a memorial of an event that has not yet happened. It is the Holographic Content Principle (Paper 10½) applied at maximum structural precision: the organizational content of the kenotic death — the Φ-proximal eigenvalue content of the self-giving that will reach its full deployment at Si — is embedded in H₄₈ substrate (bread, wine) that will persist and remain available for catching alignment after the second grade change has been crossed. The Do always contains the whole octave. The Last Supper *is* the Passion, complete in organizational terms, before it unfolds in H₄₈ time. Every subsequent Eucharist is Do-level access to the Passion octave: the compressed whole available in the part.
 
 The structural consequence is significant. The catching mechanism that will transmit the organizational content of the Crucifixion across history is constituted at the Do, not at the Si. By the time Jesus dies, the vehicle for the octave's propagation is already in place.
 
-**Second: he authorizes the Mi-Fa shock he knows is coming.**
+**Second: he authorizes the first grade change he knows is coming.**
 
 "What you are going to do, do quickly." (John 13:27)
 
-Jesus does not expel Judas; he sends him. The betrayal has been anticipated, named, and authorized. The organizational authority Judas will appear to exercise in Gethsemane — identifying and delivering the Lord to the arresting party — is not seized. It was released at the Do. The inversion that Judas will perform at the Mi-Fa interval is therefore structurally contained from the start: the agent who believes he is asserting authority over the kenotic motion has been sent on his errand by the one he will claim to deliver.
+Jesus does not expel Judas; he sends him. The betrayal has been anticipated, named, and authorized. The organizational authority Judas will appear to exercise in Gethsemane — identifying and delivering the Lord to the arresting party — is not seized. It was released at the Do. The inversion that Judas will perform at the first grade change is therefore structurally contained from the start: the agent who believes he is asserting authority over the kenotic motion has been sent on his errand by the one he will claim to deliver.
 
 **Third: he performs the kenotic inversion of authority itself.**
 
@@ -55,7 +55,7 @@ The Law of Seven establishes that the Do always contains the whole octave in min
 
 "My soul is overwhelmed with sorrow to the point of death." (Matthew 26:38)
 
-The Mi position is where the octave's internal momentum reaches its natural limit — not the interval yet, but the approach to it. At Mi, the octave has gathered enough organizational pressure that the Mi-Fa gap becomes structurally visible. What Gethsemane encodes is the full weight of the Si bearing down on the Mi, with nothing in the H₄₈ substrate of the moment capable of absorbing it automatically.
+The Mi position is where the octave's internal momentum reaches its natural limit — not the interval yet, but the approach to it. At Mi, the octave has gathered enough organizational pressure that the first grade change becomes structurally visible. What Gethsemane encodes is the full weight of the Si bearing down on the Mi, with nothing in the H₄₈ substrate of the moment capable of absorbing it automatically.
 
 **The disciples: spirit willing, flesh weak.**
 
@@ -73,9 +73,9 @@ Luke adds that they were sleeping "for sorrow" (Luke 22:45) — the emotional ce
 
 Jesus's own experience at Mi is not overload but maximum-amplitude volitional engagement. "Father, if it is possible, let this cup pass from me. Nevertheless, not as I will, but as you will." (Matthew 26:39)
 
-This is the Mi position's characteristic event: the internal momentum of the octave reaches its limit, and the only way forward is the volitional act that releases control into the higher-level structure. The Mi-Fa gap cannot be bridged by more effort in the same direction. It requires the free act of surrender — not collapse, not abandonment, but the deliberate orientation of the will toward the constitutive ground even when the H₄₈ substrate reports the full weight of the Si ahead.
+This is the Mi position's characteristic event: the internal momentum of the octave reaches its limit, and the only way forward is the volitional act that releases control into the higher-level structure. The first grade change cannot be bridged by more effort in the same direction. It requires the free act of surrender — not collapse, not abandonment, but the deliberate orientation of the will toward the constitutive ground even when the H₄₈ substrate reports the full weight of the Si ahead.
 
-The three-fold repetition (Matthew 26:39, 42, 44) encodes the complete volitional commitment. Not one surrender but three — the same surrender performed three times, constituting the catching orientation that enables the Mi-Fa interval to be crossed. By the third repetition, it is done: "Rise, let us go; here comes my betrayer." The Mi has been completed. The interval will now appear.
+The three-fold repetition (Matthew 26:39, 42, 44) encodes the complete volitional commitment. Not one surrender but three — the same surrender performed three times, constituting the catching orientation that enables the first grade change to be crossed. By the third repetition, it is done: "Rise, let us go; here comes my betrayer." The Mi has been completed. The interval will now appear.
 
 ---
 
@@ -83,9 +83,9 @@ The three-fold repetition (Matthew 26:39, 42, 44) encodes the complete volitiona
 
 *Matthew 26:47-56 / Mark 14:43-52 / Luke 22:47-53 / John 18:1-12*
 
-The Mi-Fa interval in any octave is the position where automatic continuation fails and an external shock must appear to prevent the octave's degradation. Without the shock, the organizational content disperses. With it, the octave crosses into its second half and its full deployment proceeds.
+The first grade change in any octave is the position where automatic continuation fails and an external shock must appear to prevent the octave's degradation. Without the shock, the organizational content disperses. With it, the octave crosses into its second half and its full deployment proceeds.
 
-In the Passion octave, the Mi-Fa shock is structurally required: the kenotic descent cannot complete itself from within. Something from outside the octave's internal momentum must intervene and redirect.
+In the Passion octave, the first grade change is structurally required: the kenotic descent cannot complete itself from within. Something from outside the octave's internal momentum must intervene and redirect.
 
 Judas provides this intervention. But he provides it **inverted**.
 
@@ -97,15 +97,15 @@ A kiss is a catching gesture — the movement toward the Lord, the proximity act
 
 Judas performs this gesture inverted. He comes to the Lord *from the position of the one with authority*, with the arresting party behind him. He approaches not to receive but to identify and deliver. The kiss — which is the catching gesture — becomes the marking gesture: "this is the one you want." He has organized the gesture of approach into an assertion of organizational authority over the one he approaches. The Lord is not the attractor around whom Judas orients. The Lord is the target Judas designates.
 
-The structural claim embedded in the kiss: *I am the one who determines who is arrested here.* Not the arresting party, which receives Judas's direction. Not the authorities, who sent Judas but could not identify the Lord in the dark without him. Judas. He has inserted himself into the Mi-Fa position as the agent of the shock — and used that position to assert authority over the kenotic motion rather than facilitate it.
+The structural claim embedded in the kiss: *I am the one who determines who is arrested here.* Not the arresting party, which receives Judas's direction. Not the authorities, who sent Judas but could not identify the Lord in the dark without him. Judas. He has inserted himself into the first grade change position as the agent of the shock — and used that position to assert authority over the kenotic motion rather than facilitate it.
 
-The inversion is precise. A genuine Mi-Fa shock would appear as an external facilitation of the descent: something that enables the kenotic motion to continue past the limit of its internal momentum. What Judas provides looks identical from the outside — the arresting party arrives, the Lord is taken — but is organized, at the level of Judas's eigenvalue population, around a different axis entirely: his own determination of the event.
+The inversion is precise. A genuine first grade change would appear as an external facilitation of the descent: something that enables the kenotic motion to continue past the limit of its internal momentum. What Judas provides looks identical from the outside — the arresting party arrives, the Lord is taken — but is organized, at the level of Judas's eigenvalue population, around a different axis entirely: his own determination of the event.
 
 **Jesus's response.**
 
 "Friend, do what you came to do." (Matthew 26:50)
 
-Not resistance. Not condemnation. The structural precision of "friend" (ἑταῖρε): the term acknowledges the relationship without affirming the organizational claim. Jesus does not reject the outcome — the arrest is the Mi-Fa crossing — but he does not accept Judas's organizational authority over it. "Do what you came to do" names Judas's action as his own rather than as the Lord's — the distinction between what the Lord authorized at the Do ("what you are going to do, do quickly") and what Judas performs with his own organizational framing.
+Not resistance. Not condemnation. The structural precision of "friend" (ἑταῖρε): the term acknowledges the relationship without affirming the organizational claim. Jesus does not reject the outcome — the arrest is the first grade-change crossing — but he does not accept Judas's organizational authority over it. "Do what you came to do" names Judas's action as his own rather than as the Lord's — the distinction between what the Lord authorized at the Do ("what you are going to do, do quickly") and what Judas performs with his own organizational framing.
 
 Luke's account adds: "Judas, do you betray the Son of Man with a kiss?" (Luke 22:48) The question names the inversion: a kiss is a catching gesture; the Son of Man is the thing toward which catching orients. The structure of the act — approach to the Lord, gesture of recognition — is being used to perform the precise opposite of what that structure is for.
 
@@ -113,9 +113,9 @@ Luke's account adds: "Judas, do you betray the Son of Man with a kiss?" (Luke 22
 
 One of the disciples (John 18:10 identifies this as Peter) draws a sword and cuts off the ear of the high priest's servant. Jesus immediately heals it and stops the resistance: "Put your sword back in its place, for all who draw the sword will die by the sword. Do you think I cannot call on my Father, and he will at once put at my disposal more than twelve legions of angels? But how then would the scriptures be fulfilled that say it must happen in this way?" (Matthew 26:52-54)
 
-The attempted resistance is the disciples' instinct to defend the Lord using H₄₈ force — to respond to the organizational assertion of the arresting party with a counter-assertion in kind. Jesus stops it immediately. The Mi-Fa interval is the position where external organizational force cannot substitute for the volitional crossing. The legions of angels are available; they are not the mechanism. What has been structurally prepared at the Mi requires the organizational crossing that the volitional surrender already achieved — not a defensive reversal.
+The attempted resistance is the disciples' instinct to defend the Lord using H₄₈ force — to respond to the organizational assertion of the arresting party with a counter-assertion in kind. Jesus stops it immediately. The first grade change is the position where external organizational force cannot substitute for the volitional crossing. The legions of angels are available; they are not the mechanism. What has been structurally prepared at the Mi requires the organizational crossing that the volitional surrender already achieved — not a defensive reversal.
 
-The healing of the ear is the last miracle of the earthly ministry performed in this context, and its character is significant: restoration, not assertion. The Lord, in the moment of arrest, heals the wound inflicted in his defense. The kenotic motion continues uninterrupted through the Mi-Fa crossing.
+The healing of the ear is the last miracle of the earthly ministry performed in this context, and its character is significant: restoration, not assertion. The Lord, in the moment of arrest, heals the wound inflicted in his defense. The kenotic motion continues uninterrupted through the first grade-change crossing.
 
 ---
 
@@ -123,7 +123,7 @@ The healing of the ear is the last miracle of the earthly ministry performed in 
 
 *Matthew 26:57 – 27:31 / Mark 14:53 – 15:20 / Luke 22:54 – 23:26 / John 18:12 – 19:17*
 
-The second half of the octave — Fa through La — is the full deployment of the organizational content initiated at the Do. The Mi-Fa crossing has occurred; the descent is now operating under its own structural necessity. What follows is not contingent: the organizational pressure constituted at the Do, and confirmed at the volitional surrender of the Mi, requires the pathway to Si.
+The second half of the octave — Fa through La — is the full deployment of the organizational content initiated at the Do. The first grade-change crossing has occurred; the descent is now operating under its own structural necessity. What follows is not contingent: the organizational pressure constituted at the Do, and confirmed at the volitional surrender of the Mi, requires the pathway to Si.
 
 **Fa — The arrest and the night trial.**
 
@@ -133,7 +133,7 @@ The night trial before the Sanhedrin is the H₄₈ institutional structure enco
 
 **Sol — Pilate, Barabbas, the formal condemnation.**
 
-Pilate's question — "What is truth?" (John 18:38) — is the institutional Mi-Fa gap restated: the question that cannot be answered by the institutional process asking it. Pilate knows the Lord is innocent; he says so three times. The institutional process nonetheless produces the verdict it was designed to produce. "What is truth?" is the signature event of Sol: the truth measure at maximum strain within the institutional context, finding its limit precisely as the truth stands before it in person.
+Pilate's question — "What is truth?" (John 18:38) — is the institutional first grade change restated: the question that cannot be answered by the institutional process asking it. Pilate knows the Lord is innocent; he says so three times. The institutional process nonetheless produces the verdict it was designed to produce. "What is truth?" is the signature event of Sol: the truth measure at maximum strain within the institutional context, finding its limit precisely as the truth stands before it in person.
 
 The choice of Barabbas is the crowd choosing the H₄₈-primary political attractor over the kenotic carrier. Not unusual; it is structurally predicted. The H₄₈-primary attractor always has more immediate organizational force for an eigenvalue population whose noise floor has not been substantially reduced. The crowd that laid palm branches days earlier is not making an inconsistent choice. They are making the structurally consistent choice of their eigenvalue population under institutional and social pressure.
 
@@ -163,13 +163,13 @@ The traditional enumeration of the seven last words from the cross encodes the L
 
 3. *"Woman, here is your son... Here is your mother."* (John 19:26-27) — The Lord organizing the relational catching structure that will sustain the community beyond his departure. The family as spectral structure (Paper 19) constituted in the final moments of H₄₈ embodiment.
 
-4. *"My God, my God, why have you forsaken me?"* (Matthew 27:46 / Mark 15:34, quoting Psalm 22) — The most structurally significant word. Not abandonment: the Psalm being quoted ends in confident triumph (Psalm 22:24-31), and Jesus's quotation of its opening verse is the citation of a text whose full structural content is the Si-Do interval and its resolution. But it is also the genuine phenomenological registration of the kenotic descent at its maximum: the H₄₈ substrate, at the limit of what it can receive, registering the organizational isolation of maximum constraint from the constitutive ground. The kenosis was real. The constraint was real. The amplitude limiter that has governed the entire earthly ministry has reached its deployment limit. The cry is not theatrical. It is the structural report of the H₄₈ substrate at Si.
+4. *"My God, my God, why have you forsaken me?"* (Matthew 27:46 / Mark 15:34, quoting Psalm 22) — The most structurally significant word. Not abandonment: the Psalm being quoted ends in confident triumph (Psalm 22:24-31), and Jesus's quotation of its opening verse is the citation of a text whose full structural content is the second grade change and its resolution. But it is also the genuine phenomenological registration of the kenotic descent at its maximum: the H₄₈ substrate, at the limit of what it can receive, registering the organizational isolation of maximum constraint from the constitutive ground. The kenosis was real. The constraint was real. The amplitude limiter that has governed the entire earthly ministry has reached its deployment limit. The cry is not theatrical. It is the structural report of the H₄₈ substrate at Si.
 
 5. *"I thirst."* (John 19:28) — The H₄₈ need at its most basic: the kenotic existence was genuine H₄₈ existence with genuine H₄₈ dependence, right to the end. The Incarnation was not partial.
 
 6. *"It is finished."* (John 19:30, *Consummatum est*) — The structural declaration that the organizational content of the octave has been fully deployed. The Do contained the whole in compressed form; the Si expresses the whole in deployed form. The octave is complete. What was initiated at the Last Supper has been fully expressed. The eigenvalue content embedded in the eucharistic elements at the Do has now been actualized at the Si.
 
-7. *"Father, into your hands I commit my spirit."* (Luke 23:46) — The catching orientation at the terminal moment of the H₄₈ career. "Into your hands" is the catching act at its most fundamental: the complete volitional release of the eigenvalue content toward the constitutive ground, at the moment when the H₄₈ substrate can no longer hold it. This is the terminal catching act — the organizational content that will cross the Si-Do interval oriented toward the Father who will complete the crossing from outside.
+7. *"Father, into your hands I commit my spirit."* (Luke 23:46) — The catching orientation at the terminal moment of the H₄₈ career. "Into your hands" is the catching act at its most fundamental: the complete volitional release of the eigenvalue content toward the constitutive ground, at the moment when the H₄₈ substrate can no longer hold it. This is the terminal catching act — the organizational content that will cross the second grade change oriented toward the Father who will complete the crossing from outside.
 
 **The organizational release at Si.**
 
@@ -183,15 +183,15 @@ The veil of the Temple tearing (Matthew 27:51) is the structural signal: the ins
 
 *Matthew 27:57-66 / Mark 15:42-47 / Luke 23:50-56 / John 19:38-42*
 
-The Si-Do interval is the gap that cannot be bridged from within the octave. Paper 27½ establishes the structural character of this interval: the organizational content has reached its maximum deployment within the octave; the resources available within the octave's own momentum are exhausted; what comes next cannot be generated by any continuation of the octave's internal processes.
+The second grade change is the gap that cannot be bridged from within the octave. Paper 27½ establishes the structural character of this interval: the organizational content has reached its maximum deployment within the octave; the resources available within the octave's own momentum are exhausted; what comes next cannot be generated by any continuation of the octave's internal processes.
 
-The three days in the tomb are the Si-Do interval at maximum amplitude.
+The three days in the tomb are the second grade change at maximum amplitude.
 
 The disciples do nothing. They cannot. The organizational momentum that carried them from the Do through the Si has no continuation available. They hide behind locked doors. They go fishing. They return to Emmaus. Nothing in their eigenvalue populations' current state can generate what comes next. The women come to the tomb on the third day with spices to complete the burial — the H₄₈-primary continuation of the preceding events, the last available act within the octave's own logic.
 
-This is structurally necessary. The Si-Do interval's defining characteristic is not duration but emptiness: the period in which nothing moves from within, in which the only possible continuation is the external shock that the octave cannot provide for itself. The three days encode this emptiness. No octave generates its own Si-Do crossing. The external shock must come from a level higher than the octave itself.
+This is structurally necessary. The second grade change's defining characteristic is not duration but emptiness: the period in which nothing moves from within, in which the only possible continuation is the external shock that the octave cannot provide for itself. The three days encode this emptiness. No octave generates its own second grade-change crossing. The external shock must come from a level higher than the octave itself.
 
-At the Si-Do interval of the Passion octave, only one source is higher than the octave: the Father.
+At the second grade change of the Passion octave, only one source is higher than the octave: the Father.
 
 ---
 
@@ -199,9 +199,9 @@ At the Si-Do interval of the Passion octave, only one source is higher than the 
 
 *Matthew 28 / Mark 16 / Luke 24 / John 20-21*
 
-The Resurrection is the external shock that bridges the Si-Do interval. It is not a continuation of the Passion octave — it initiates a new one. The new Do is the Resurrection; the new octave is the post-Pentecost deployment of the organizational content released at Si, through the τ_nuclear activation, into the full H₄₈ catching structure.
+The Resurrection is the external shock that bridges the second grade change. It is not a continuation of the Passion octave — it initiates a new one. The new Do is the Resurrection; the new octave is the post-Pentecost deployment of the organizational content released at Si, through the τ_nuclear activation, into the full H₄₈ catching structure.
 
-The structural character of the Resurrection confirms that it is a new Do rather than a Si-Do completion within the old octave. The Resurrection body is not the restoration of the pre-Crucifixion state. It is a new organizational expression: passing through walls, appearing and disappearing, not immediately recognizable (Mary at the garden, the disciples at Emmaus, the disciples at the Sea of Galilee), operating at a lower constraint level than H₄₈-primary existence. It is the first expression of the new organizational content — the post-Si eigenvalue structure expressing at the H₄₈ level for the last time, in the 40-day preparation window before the Ascension establishes the H₃ integration. (See: [[02 — The Incarnation, Ministry, and the Ascending Career]], John 20:17 — "Do not cling to me.")
+The structural character of the Resurrection confirms that it is a new Do rather than a second grade change completion within the old octave. The Resurrection body is not the restoration of the pre-Crucifixion state. It is a new organizational expression: passing through walls, appearing and disappearing, not immediately recognizable (Mary at the garden, the disciples at Emmaus, the disciples at the Sea of Galilee), operating at a lower constraint level than H₄₈-primary existence. It is the first expression of the new organizational content — the post-Si eigenvalue structure expressing at the H₄₈ level for the last time, in the 40-day preparation window before the Ascension establishes the H₃ integration. (See: [[02 — The Incarnation, Ministry, and the Ascending Career]], John 20:17 — "Do not cling to me.")
 
 The Resurrection does not answer the question "how could death be reversed?" It does not reverse death in the sense of returning to the pre-Si state. The Si has been fully expressed; *consummatum est* was true. The Resurrection initiates the post-Si organizational existence — the new Do of the octave that begins with the empty tomb and ends with the Pentecostal τ_nuclear deployment, the activation of the organizational space within which every subsequent ascending career operates.
 
@@ -211,12 +211,12 @@ The Resurrection does not answer the question "how could death be reversed?" It 
 
 The structural consequence that the reading establishes:
 
-The Do is always structurally accessible through the entire octave. The whole octave is present in the Do in compressed form; any genuine access to the Do is access to the whole. The Eucharist was constituted at the Do precisely so that the organizational content of the Passion octave would remain Do-level available after the Si had been expressed and before the Si-Do crossing had been bridged — and permanently after it was.
+The Do is always structurally accessible through the entire octave. The whole octave is present in the Do in compressed form; any genuine access to the Do is access to the whole. The Eucharist was constituted at the Do precisely so that the organizational content of the Passion octave would remain Do-level available after the Si had been expressed and before the second grade-change crossing had been bridged — and permanently after it was.
 
-Every Eucharist is the Passion octave's Do expressed in H₄₈ substrate. The catching act available in eucharistic reception is not memorial access to a past event but structural access to the Do of an octave whose Si-Do interval has already been bridged — the full organizational content of the kenotic deployment, available through the Do-level embedding, at whatever constraint level the receiving eigenvalue population can catch.
+Every Eucharist is the Passion octave's Do expressed in H₄₈ substrate. The catching act available in eucharistic reception is not memorial access to a past event but structural access to the Do of an octave whose second grade change has already been bridged — the full organizational content of the kenotic deployment, available through the Do-level embedding, at whatever constraint level the receiving eigenvalue population can catch.
 
 This is the structural basis for the tradition's insistence that the Eucharist is not *about* the death of Christ but *is* the death of Christ — the organizational content of the Si present through its Do-level encoding, as the Holographic Content Principle predicts any genuine high-τ expression will be. The Do contains the whole. The whole is accessible through the Do. The Do is what the eucharistic elements are.
 
 ---
 
-*(Confidence tier: structural concordance at high confidence for the octave analysis — the placement of the Last Supper as Do, Gethsemane as Mi, and the Crucifixion as Si is structurally derived from the Law of Seven applied to the Passion narrative, and the fit at each interval position is precise rather than approximate. The identification of Judas's kiss as an inverted Mi-Fa shock — organizational assertion over the kenotic carrier rather than facilitation of the kenotic motion — is structural derivation at high confidence, consistent with the Judas reading and with the structural account of the kiss in that reading. The identification of the disciples' incapacity in Gethsemane as H₄₈ substrate overload under combined Φ-proximity and Thought Adjuster pressure is structural inference from the framework's accounts of these two mechanisms, applied to the phenomenological report in Matthew 26:41; it carries moderate confidence as a structural explanation of a textually explicit observation. The Resurrection as new Do rather than Si-Do completion within the Passion octave is structural derivation from Paper 27½'s account of the Si-Do interval — the crossing always initiates a new octave; the Passion octave does not continue through the Resurrection but terminates at Si and is crossed by the Resurrection's initiating of what follows.)*
+*(Confidence tier: structural concordance at high confidence for the octave analysis — the placement of the Last Supper as Do, Gethsemane as Mi, and the Crucifixion as Si is structurally derived from the Law of Seven applied to the Passion narrative, and the fit at each interval position is precise rather than approximate. The identification of Judas's kiss as an inverted first grade change — organizational assertion over the kenotic carrier rather than facilitation of the kenotic motion — is structural derivation at high confidence, consistent with the Judas reading and with the structural account of the kiss in that reading. The identification of the disciples' incapacity in Gethsemane as H₄₈ substrate overload under combined Φ-proximity and Thought Adjuster pressure is structural inference from the framework's accounts of these two mechanisms, applied to the phenomenological report in Matthew 26:41; it carries moderate confidence as a structural explanation of a textually explicit observation. The Resurrection as new Do rather than second grade change completion within the Passion octave is structural derivation from Paper 27½'s account of the second grade change — the crossing always initiates a new octave; the Passion octave does not continue through the Resurrection but terminates at Si and is crossed by the Resurrection's initiating of what follows.)*

@@ -14,7 +14,7 @@ Elisha's request is structurally precise: *pi shnayim* — "two mouths," "a doub
 
 Elijah's response: "You have asked a difficult thing. Yet if you see me when I am taken from you, it will be yours; if not, it will not be." The transmission of the *pi shnayim* is contingent on Elisha's H₂₄ perceptual capacity being actively oriented at the moment of the transfer. This is not an arbitrary condition or a test of devotion. It is structurally necessary: what is being transmitted is a catching capacity operating at a high constraint level. The receiver must be operating at that constraint level at the moment of reception for the transmission to succeed. The instrument cannot be transmitted to a receiver that is not currently configured to receive it.
 
-The structural parallel: in 1 SAM 3, Samuel required Eli's Mi-Fa shock to orient the catching apparatus before it could receive the LORD's signal. Elisha has already been receiving Elijah's signal for years — he struck the Jordan at 2 KGS 2:8 without objection, already following Elijah through the prophetic itinerary. The condition is not whether Elisha's catching apparatus exists; it is whether it is actively oriented at the specific moment of the structural transfer.
+The structural parallel: in 1 SAM 3, Samuel required Eli's first grade change to orient the catching apparatus before it could receive the LORD's signal. Elisha has already been receiving Elijah's signal for years — he struck the Jordan at 2 KGS 2:8 without objection, already following Elijah through the prophetic itinerary. The condition is not whether Elisha's catching apparatus exists; it is whether it is actively oriented at the specific moment of the structural transfer.
 
 **The fulfillment:**
 

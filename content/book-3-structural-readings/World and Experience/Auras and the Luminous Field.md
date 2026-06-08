@@ -1,6 +1,6 @@
 # Auras and the Luminous Field
 
-*Cross-reference: Paper 13½, §3–4 (kenosis; miracle cross-terms; amplitude modulation); Paper 13½, OQ8 (binding mechanism; phenomenology of the overdeterminate condition); Paper 4, §6 (metric character of time across Mi-Fa; Cl(3,0) and Cl(3,1)); Paper 20½, OQ6 (H₂₄-organized H₄₈ matter; electromagnetically dark content); Paper 2, §15 (Phos / Light as density of Φ in H)*
+*Cross-reference: Paper 13½, §3–4 (kenosis; miracle cross-terms; amplitude modulation); Paper 13½, OQ8 (binding mechanism; phenomenology of the overdeterminate condition); Paper 4, §6 (metric character of time across first grade change; Cl(3,0) and Cl(3,1)); Paper 20½, OQ6 (H₂₄-organized H₄₈ matter; electromagnetically dark content); Paper 2, §15 (Phos / Light as density of Φ in H)*
 
 ---
 
