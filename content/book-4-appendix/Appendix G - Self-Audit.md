@@ -52,11 +52,13 @@ Each reviewer reads only its own lane, holds the whole corpus in view, and runs 
 
 | Book | Words | Form |
 |---|---|---|
-| Book 1 — Reasonablenessism (the Good) | ~11,800 | 13 flat files — the accessible givens |
-| Book 2 — Concordius Papers (the True) | ~236,000 | super-octave A–G, each section an octave |
-| Book 3 — Structural Readings (the Beautiful) | ~449,000 | category folders (Lives, Literature, Sacred Texts, Film, …) |
-| Book 4 — Appendix (apparatus) | ~54,800 | 7 appendices (A–F; this is G); Appendix D carries the formal spine |
-| **Corpus** | **~752,000** | |
+| Book 1 — Reasonablenessism (the Good) | ~15,800 | four features (A–D), each four faces, plus a framing index — the accessible givens |
+| Book 2 — Concordius Papers (the True) | ~230,700 | super-octave A–G, each section an octave |
+| Book 3 — Structural Readings (the Beautiful) | ~440,000 | category folders (Sacred Texts, Film, Lives, Literature, …) |
+| Book 4 — Appendix (apparatus) | ~53,400 | 7 appendices (A–G); Appendix D carries the formal spine |
+| **Corpus** | **~739,800** | |
+
+*(Word counts are current and exact below; prose only — YAML front matter and HTML tags stripped. The figures sit a little under earlier snapshots: Book 2 fell as A2 was trimmed and de-theologized, and Book 1 rose as its twelve flat features were rebuilt into the four-feature, sixteen-face structure.)*
 
 - **GoodChecker — PASS on consistency.** The whole reduces to one Cl(3,0) / one Gelfand triple / one cascade; no paper contradicts the global structure. The corrected grade-2 assignment (**temperance = e₁e₃, diligence = e₂e₃**) holds everywhere — the drift check returns **zero real hits**. *Deferred:* the deepest pass — line-by-line re-derivation of every paper — has not been run, so no clean global **ERROR/SMUGGLE** verdict can yet be asserted, only the absence of structural drift.
 - **TruthChecker — PASS on honesty; FLAG on completeness.** No contradiction is open; the once-broken grade-2 seam stays healed. The corpus is honest about its unfinished state — the gap is declared, not hidden, so it is **not a HIDDEN-SEAM**. But the live consequence is real: the corpus still points at ~19 papers that no longer exist in it.
@@ -64,18 +66,28 @@ Each reviewer reads only its own lane, holds the whole corpus in view, and runs 
 
 ### Book level
 
-- **Book 1 (the Good) — PASS; a prior flag resolved.** Reasonablenessism, ~11,800 words across 13 flat files, is the smallest book and the only Triptych panel with no octave structure. An earlier pass of this audit flagged exactly that as *"under-built for the book that **is** the True."* The flag was itself a mislabel, and naming it is what corrected it: this book is not the True but the **Good** — the accessible givens, the ground anyone can pick up — and a spare, plain, structure-light Good is exactly right, not under-built. The disproportion was a fault in the frame, not in the work. *(This is the second place in this audit where the instrument, not the corpus, was found wanting — see §4.)*
-- **Book 2 (the True) — PASS.** The Concordius Papers, ~236,000 words, the super-octave A–G present and ordered: the heaviest, most formal book, the long articulation of what Φ looks like from H₄₈ — as the True should be.
-- **Book 3 (the Beautiful) — PASS on richness.** ~449,000 words across a wide range; the largest book, and still growing. It is also the chief origin and destination of the dangling links.
+- **Book 1 (the Good) — PASS; a prior flag resolved.** Reasonablenessism, ~15,800 words across four features (sixteen faces) and a framing index, is the smallest book and the only Triptych panel with no octave structure. An earlier pass of this audit flagged exactly that as *"under-built for the book that **is** the True."* The flag was itself a mislabel, and naming it is what corrected it: this book is not the True but the **Good** — the accessible givens, the ground anyone can pick up — and a spare, plain, structure-light Good is exactly right, not under-built. The disproportion was a fault in the frame, not in the work. *(This is the second place in this audit where the instrument, not the corpus, was found wanting — see §4.)*
+- **Book 2 (the True) — PASS.** The Concordius Papers, ~230,700 words, the super-octave A–G present and ordered: the heaviest, most formal book, the long articulation of what Φ looks like from H₄₈ — as the True should be.
+- **Book 3 (the Beautiful) — PASS on richness.** ~440,000 words across a wide range; the largest book, and still growing. It is also the chief origin and destination of the dangling links.
 - **Book 4 (apparatus) — PASS, with the dictionary's forward-pointers still owed.** Appendix D holds the formal spine and is current. Appendix B (the Lexicon) still cross-references parked content and has not yet been given forward-pointers for the recently migrated terms (Time, the Law of Seven, reciprocal maintenance).
 
 ### Section level (Book 2)
 
-Section words: **A 67,198 · B 24,747 · C 19,470 · D 27,127 · E 21,199 · F 19,974 · G 53,818.**
+Section words: **A 62,940 · B 24,617 · C 19,329 · D 27,039 · E 21,120 · F 19,885 · G 53,320.**
 
 - **GoodChecker — PASS.** Each section A–G is a structurally well-formed octave: seven notes plus the two interval half-papers plus an index; grades run in order; the shocks sit on the grade boundaries.
 - **TruthChecker — PASS.** Within-section logic is consistent; the standing Section-A rule (no Urantia content) holds.
-- **BeautyChecker — FLAG: DISPROPORTION.** **A (67k) and G (54k) outweigh the five middle notes (B–F, ~19–27k each) by roughly 2.5–3.5×.** Some is justified (A carries the long science review and the psychology; G carries the practical program), but the imbalance is large enough to warrant a proportion review. The Foundation and the Practice currently outweigh the combined-average of the middle five by a wide margin.
+- **BeautyChecker — FLAG: DISPROPORTION.** **A (63k) and G (53k) outweigh the five middle notes (B–F, ~19–27k each) by roughly 2.5–3×.** Some is justified (A carries the long science review and the psychology; G carries the practical program), but the imbalance is large enough to warrant a proportion review. The Foundation and the Practice currently outweigh the combined-average of the middle five by a wide margin.
+
+### Section level (Books 1, 3, 4)
+
+Word counts by section, exact (prose only):
+
+- **Book 1 — Reasonablenessism** (the four features): A The Measure 3,179 · B The Boundary 2,945 · C The Witnesses 2,937 · D The Mirror 2,986; framing index 3,711. **Total 15,758.**
+- **Book 3 — Structural Readings** (categories): Sacred Texts 234,269 · Film 31,148 · World and Experience 27,460 · Doctrine 24,615 · Literature 23,240 · Lives 23,199 · Mysticism 18,309 · Visual Art 16,442 · Aphorisms 12,495 · Philosophy 11,409 · Science 6,451 · Syntheses 5,057 · Memes 553; front matter 5,338. **Total 439,985.**
+- **Book 4 — Appendix** (per appendix): B Lexicon 32,891 · C Catalogue 4,885 · E Predictions 4,770 · F Putative Method 4,248 · G Self-Audit 2,714 · A Math Primer 1,825 · D Machine-readable 1,621; index 411. **Total 53,365.**
+
+*(Book 2's section figures are given above. Book totals: 1 — 15,758; 2 — 230,718; 3 — 439,985; 4 — 53,365. **Corpus total 739,826.**)*
 
 ### Paper level
 
