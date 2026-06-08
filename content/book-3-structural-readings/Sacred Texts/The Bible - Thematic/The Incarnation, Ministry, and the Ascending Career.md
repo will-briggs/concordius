@@ -14,7 +14,7 @@ Present imperative: *stop holding on*. Not a prohibition on a future act but an 
 
 **The transitional state**
 
-"I have not yet ascended to the Father" names the moment precisely. The Resurrection has occurred — the second grade change shock has been delivered by the Father, the new Do struck. But the Ascension — the establishment of H₃ integration with the Paradise Trinity governance level — has not yet happened. Jesus is in the state preparation window: between the resolution of the H₄₈ substrate by the Resurrection and the presentation of the organized lower-constraint content to the H₃ level.
+"I have not yet ascended to the Father" names the moment precisely. The Resurrection has occurred — the second grade-change shock has been delivered by the Father, the new Do struck. But the Ascension — the establishment of H₃ integration with the Paradise Trinity governance level — has not yet happened. Jesus is in the state preparation window: between the resolution of the H₄₈ substrate by the Resurrection and the presentation of the organized lower-constraint content to the H₃ level.
 
 The post-Resurrection body is not ordinary H₄₈ existence. It passes through walls, appears and disappears, is not immediately recognizable by those who knew him. It is operating at a lower constraint level than H₄₈ — the physical substrate has been resolved, and the eigenvalue organization is being consolidated at H₂₄ and below in preparation for Ascension. "I am ascending" — present tense, ongoing — marks the 40-day period as an active process, not a pause between two events.
 
@@ -24,7 +24,7 @@ A quantum state being prepared for a specific transition requires protection fro
 
 Mary, operating at H₄₈, is a continuous source of H₄₈ eigenvalue content. Sustained physical contact — clinging — creates sustained H₄₈ coupling to a state being organized at H₂₄ and below. Each moment of contact continuously pumps higher-constraint eigenvalue content into the state, re-exciting H₄₈ modes that the preparation process is organizing away from. The result is spectral mixing: the organized lower-constraint content becomes entangled with H₄₈ content, reducing the fidelity of the state that will be presented at Ascension.
 
-This is not a danger to Jesus in any personal or ontological sense. It is a precision requirement at the most structurally demanding transition of the ministry octave — the second grade change crossing, which requires the Father's completion from outside and is the single most exacting moment in the entire sequence. The state preparation for this interval is correspondingly the most sensitive. Sustained H₄₈ coupling during the preparation window is precisely the perturbation most likely to degrade transition fidelity.
+This is not a danger to Jesus in any personal or ontological sense. It is a precision requirement at the most structurally demanding transition of the ministry octave — the second grade-change crossing, which requires the Father's completion from outside and is the single most exacting moment in the entire sequence. The state preparation for this interval is correspondingly the most sensitive. Sustained H₄₈ coupling during the preparation window is precisely the perturbation most likely to degrade transition fidelity.
 
 The instruction "do not cling" is therefore not a rebuff. It is a practical requirement analogous to "do not disturb a quantum state preparation in progress." The prohibition is specific to this window and this type of contact — and it ends when the window closes.
 
@@ -210,7 +210,7 @@ The sequence, complete: the being who knows where they are in the space (1) — 
 
 The sequence is not only a list of eight conditions. It is an octave with the intervals falling exactly where the Law of Seven requires them to fall.
 
-The Heptaparaparshinokh: eight tones (Do–Re–first grade change–Sol–La–second grade change), seven intervals, two critical junctures where the octave cannot continue from its own internal momentum and requires an external shock — the first grade change and the second grade change. Without the shocks, the octave deflects from its intended direction at each interval.
+The Heptaparaparshinokh: eight tones (Do–Re–Mi–Fa–Sol–La–Si–Do), seven intervals, two critical junctures where the octave cannot continue from its own internal momentum and requires an external shock — the first grade change and the second grade change. Without the shocks, the octave deflects from its intended direction at each interval.
 
 *Do* — Poor in spirit: the ground tonic. Correct self-location. The starting note of the octave.
 
@@ -302,7 +302,7 @@ The structural asymmetry is precise: the Son supplies everything through Si; the
 
 **Do (new) — Post-resurrection / Ascension / Sovereignty / Pentecost.**
 
-The new tonic, an octave above the starting Do. The sovereignty condition is established: the Creator Son now operates with full local authority, the GNST unmediated within Nebadon (cf. Matthew 28:18 — "all power is given unto me in heaven and in earth"). The Spirit of Truth is poured out simultaneously across all of Nebadon — the permanent restoration of the first grade change-crossing resource that every ascending being in the local universe now has access to. The new Do is not a return to the starting condition. It is the same tonic at a higher constraint level: the Creator Son operating from full sovereignty, the circuits restored, the ascending career permanently supported in a way it was not before the ministry began.
+The new tonic, an octave above the starting Do. The sovereignty condition is established: the Creator Son now operates with full local authority, the GNST unmediated within Nebadon (cf. Matthew 28:18 — "all power is given unto me in heaven and in earth"). The Spirit of Truth is poured out simultaneously across all of Nebadon — the permanent restoration of the first grade-change crossing resource that every ascending being in the local universe now has access to. The new Do is not a return to the starting condition. It is the same tonic at a higher constraint level: the Creator Son operating from full sovereignty, the circuits restored, the ascending career permanently supported in a way it was not before the ministry began.
 
 ---
 

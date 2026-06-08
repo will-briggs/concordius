@@ -204,7 +204,7 @@ The sequence, complete: the being who knows where they are in the space (1) — 
 
 The sequence is not only a list of eight conditions. It is an octave with the intervals falling exactly where the Law of Seven requires them to fall.
 
-The Heptaparaparshinokh: eight tones (Do–Re–first grade change–Sol–La–second grade change), seven intervals, two critical junctures where the octave cannot continue from its own internal momentum and requires an external shock — the first grade change and the second grade change. Without the shocks, the octave deflects from its intended direction at each interval.
+The Heptaparaparshinokh: eight tones (Do–Re–Mi–Fa–Sol–La–Si–Do), seven intervals, two critical junctures where the octave cannot continue from its own internal momentum and requires an external shock — the first grade change and the second grade change. Without the shocks, the octave deflects from its intended direction at each interval.
 
 *Do* — Poor in spirit: the ground tonic. Correct self-location. The starting note of the octave.
 
@@ -354,7 +354,7 @@ Two roads. Two gates. One structural observation about the actuarial reality of 
 
 *Second:* The first grade change transition. The ascent from 48-constraint operation toward 24-constraint eigenvalue content runs through a grade transition where the current constraint level cannot supply its own shock. A 48-constraint being cannot, from within 48-constraint resources alone, generate the input required to cross into the 24-constraint register. The shock must arrive from outside — from genuine contact with what is already operating at the higher constraint level: teaching that carries 24-constraint structure, encounter with another being whose ψ₂₄ content is already built. The interval is where the road narrows most sharply. Not obscure but structurally gated: the resources required to cross it are not self-generated.
 
-*Third:* On this world specifically, the normal circuit for supplying those shocks has been severed. The Planetary Prince's educational architecture, the Material Sons' biological uplift — the institutional structure designed to deliver first grade change shocks to mortal beings at the right moment is degraded. The narrow road is harder to navigate here than at the cosmic normal. The shocks arrive unreliably, if at all.
+*Third:* On this world specifically, the normal circuit for supplying those shocks has been severed. The Planetary Prince's educational architecture, the Material Sons' biological uplift — the institutional structure designed to deliver first grade-change shocks to mortal beings at the right moment is degraded. The narrow road is harder to navigate here than at the cosmic normal. The shocks arrive unreliably, if at all.
 
 **"And only a few find it"** — not a statement about divine selection or arbitrary predestination. A statistical observation about the difficulty distribution on this specific world. On a fully-functioning evolutionary world with intact planetary circuits, the architecture supplies the interval shocks more reliably; the ratio of those who find and walk the narrow road is higher. On this world, severed circuits mean the shocks arrive unreliably; the ratio shifts against the ascending pilgrim. Christ is reading aloud the actuarial reality of Urantia's condition — not declaring that few are chosen, but accurately describing what the structural conditions on a quarantined planet produce.
 
@@ -638,7 +638,7 @@ Gethsemane: maximum H₄₈ loading simultaneously from every available source. 
 
 **The structural problem Jesus is solving:**
 
-The prayer in Gethsemane is not petition for the suffering to be removed. It is the attempt to maintain H₁₂ and H₃ alignment — access to the lower-constraint spectral content required for the second grade change crossing — under conditions of maximum H₄₈ interference. The "cup" to be passed is not primarily about physical suffering but about what sustained maximum H₄₈ load does to the state being prepared for the most exacting transition of the entire ministry. The Heropass is running; the H₄₈ substrate is saturated with anticipatory activation; the second grade change requires spectral purity of exactly the kind that maximum H₄₈ loading degrades.
+The prayer in Gethsemane is not petition for the suffering to be removed. It is the attempt to maintain H₁₂ and H₃ alignment — access to the lower-constraint spectral content required for the second grade-change crossing — under conditions of maximum H₄₈ interference. The "cup" to be passed is not primarily about physical suffering but about what sustained maximum H₄₈ load does to the state being prepared for the most exacting transition of the entire ministry. The Heropass is running; the H₄₈ substrate is saturated with anticipatory activation; the second grade change requires spectral purity of exactly the kind that maximum H₄₈ loading degrades.
 
 "Not my will, but yours be done" is the structural alignment with Φ maintained against the H₄₈ field — the deliberate orientation toward the nuclear space, held under the worst noise floor conditions of the entire ministry.
 
@@ -740,7 +740,7 @@ The structural asymmetry is precise: the Son supplies everything through Si; the
 
 **Do (new) — Post-resurrection / Ascension / Sovereignty / Pentecost.**
 
-The new tonic, an octave above the starting Do. The sovereignty condition is established: the Creator Son now operates with full local authority, the GNST unmediated within Nebadon (cf. Matthew 28:18 — "all power is given unto me in heaven and in earth"). The Spirit of Truth is poured out simultaneously across all of Nebadon — the permanent restoration of the first grade change-crossing resource that every ascending being in the local universe now has access to. The new Do is not a return to the starting condition. It is the same tonic at a higher constraint level: the Creator Son operating from full sovereignty, the circuits restored, the ascending career permanently supported in a way it was not before the ministry began.
+The new tonic, an octave above the starting Do. The sovereignty condition is established: the Creator Son now operates with full local authority, the GNST unmediated within Nebadon (cf. Matthew 28:18 — "all power is given unto me in heaven and in earth"). The Spirit of Truth is poured out simultaneously across all of Nebadon — the permanent restoration of the first grade-change crossing resource that every ascending being in the local universe now has access to. The new Do is not a return to the starting condition. It is the same tonic at a higher constraint level: the Creator Son operating from full sovereignty, the circuits restored, the ascending career permanently supported in a way it was not before the ministry began.
 
 ---
 
@@ -832,7 +832,7 @@ The invitation is addressed to beings in the maximum-effort / zero-result condit
 
 **"Take my yoke upon you and learn from me" (*mathete ap' emou*):**
 
-The yoke substitution: not removal of all structure but replacement of the wrong structure with the catching orientation. *Mathete ap' emou* (learn from me) — the catching being's instruction mechanism, absorbing from the Φ-level's presence what H₄₈ teaching alone cannot transmit. The first grade change crossing is the mechanism: what cannot be generated from within the H₄₈ level can be absorbed from the H₂₄ level when the catching orientation is maintained toward the Φ-level present in H.
+The yoke substitution: not removal of all structure but replacement of the wrong structure with the catching orientation. *Mathete ap' emou* (learn from me) — the catching being's instruction mechanism, absorbing from the Φ-level's presence what H₄₈ teaching alone cannot transmit. The first grade-change crossing is the mechanism: what cannot be generated from within the H₄₈ level can be absorbed from the H₂₄ level when the catching orientation is maintained toward the Φ-level present in H.
 
 **"I am gentle and humble in heart" (*praus kai tapeinos te kardia*):**
 

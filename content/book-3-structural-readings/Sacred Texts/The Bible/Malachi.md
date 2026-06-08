@@ -12,7 +12,7 @@ The structural announcement of the two-stage entry program. The passage describe
 
 **The two stages:**
 
-Stage 1 — *malʾakhi* (my messenger): the structural preparer, whose function is to clear the structural ground for the Φ-level's entry. The preparer's work is not the content of the restoration program; it is the removal of the structural obstacles that would prevent the entry from being received. In the framework's terms: the noise-floor reduction specialist, the first grade change interval bridger who makes the Φ-level's entry structurally receivable.
+Stage 1 — *malʾakhi* (my messenger): the structural preparer, whose function is to clear the structural ground for the Φ-level's entry. The preparer's work is not the content of the restoration program; it is the removal of the structural obstacles that would prevent the entry from being received. In the framework's terms: the noise-floor reduction specialist, the first grade change bridger who makes the Φ-level's entry structurally receivable.
 
 Stage 2 — the Lord coming to his Temple (*ha-ʾadon yavo ʾel-hekkhalo*): the Φ-level's own personal presence entering the H₄₈ domain. This is the ISA 7:14 program (*Immanuel*, God with us) seen from Malachi's angle: the same structural event named from its entry-point (the Temple, the designated H₄₈ orientation-anchor of 1 KGS 8) rather than its birth circumstances.
 
