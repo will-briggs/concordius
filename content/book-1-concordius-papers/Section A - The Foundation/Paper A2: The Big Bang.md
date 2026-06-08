@@ -4,6 +4,8 @@
 
 *The scientific case that the universe had a beginning — the recession of the galaxies, the cosmic microwave background, and the abundances of the light elements converging on a hot, dense start 13.8 billion years ago — the physics of the first fraction of a second, and the point where known methods run out; and the close, where that beginning is read as the Creative Choice, the selection of one ordered world out of the distributional potential.*
 
+**Confidence —** *Math:* **— (not engaged)** here beyond the framework's own apparatus. *Science:* **concordance** — three independent lines (the recession of the galaxies, the cosmic microwave background, the light-element abundances) converging on a hot dense beginning ≈ 13.8 Gyr, to current cosmology. *Theology:* **concordance** — the beginning read as the Creative Choice, the selection of one ordered world out of the distributional potential.
+
 ---
 
 ## Abstract

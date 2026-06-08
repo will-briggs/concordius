@@ -2,6 +2,8 @@
 
 *The Gelfand triple Φ ⊂ H ⊂ Φ′ — a nuclear space of maximum structure, a self-dual Hilbert space of complete states, and a distributional dual of excess potential — and the five actualities the inner product's own structure forces: the fundamental relation, the nuclear structure, the metric absolute, the nuclear topology, and the realized nuclear space. The inner product ⟨·,·⟩, invariant across all three domains, is the foundational object the standard formalism leaves implicit.*
 
+**Confidence —** *Math:* **derivation** — the five actualities forced by the inner product's own structure (the Gelfand triple Φ ⊂ H ⊂ Φ′). *Science:* **— (not engaged)**. *Theology:* **— (not engaged)** — the identifications are made in [[Paper A1: From the Cogito to the Logos]], not here.
+
 ---
 
 ## Abstract
