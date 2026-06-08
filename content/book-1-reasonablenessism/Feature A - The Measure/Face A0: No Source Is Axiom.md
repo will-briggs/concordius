@@ -42,7 +42,7 @@ You don't have to become an expert. You have to treat each source as a witness r
 
 ## Formal Statement (Concordius Framework)
 
-A source is a vector **D** in the Hilbert space H; its truth-value is the **truth measure** τ(D) = ‖P_Φ D‖² ⁄ ‖D‖² ∈ [0, 1) — the fraction of D's spectral energy in the Φ-region of the ⟨·,·⟩-generated decomposition (defined in [[Appendix E - Machine-readable Concordius Framework|Appendix E]]; operationalized through the four proxies of [[Appendix C - A Putative Method for Machine-Assisted Phi-Proximal Textual Analysis|Appendix C]] — semantic coherence, cross-tradition convergence, predictive yield, generative centrality).
+A source is a vector **D** in the Hilbert space H; its truth-value is the **truth measure** τ(D) = ‖P_Φ D‖² ⁄ ‖D‖² ∈ [0, 1) — the fraction of D's spectral energy in the Φ-region of the ⟨·,·⟩-generated decomposition (defined in [[Appendix A - Machine-readable Concordius Framework|Appendix A]]; operationalized through the four proxies of [[Appendix C - A Putative Method for Machine-Assisted Phi-Proximal Textual Analysis|Appendix C]] — semantic coherence, cross-tradition convergence, predictive yield, generative centrality).
 
 **The theorem this feature rests on.** For every D generated within H₄₈, **τ(D) < 1 strictly**. The Φ-region is contained in no finite-constraint substrate (Φ ⊄ H₄₈), so the projection loses energy: P_Φ D ≠ D. Equivalently, by the Gödel–Tarski bound, no H₄₈ language carries its own truth-predicate — truth here *is* Φ-proximity, and Φ lies outside H₄₈ by construction. An "axiom" is a source of warrant 1, i.e. τ = 1; the theorem says none exists. Provenance cannot supply it either: τ is a functional of the content vector alone, constant across substrate, institution, and tradition.
 

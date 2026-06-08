@@ -50,7 +50,7 @@ The second object is the **aggregation rule** — how separate pieces of evidenc
 
 ## Formal Statement (Concordius Framework)
 
-The object is the **evidence-aggregation operator** on the conditioned measure {τ(C | aᵢ)}. Its faces are the canonical reductions: **B0** the single term (a bounded log-likelihood increment, 0 < |Δℓ| < ∞); **B1** the sum over independent witnesses (coherent signal ∝ n against incoherent noise ∝ √n, SNR ∝ √n); **B2** the n → ∞, zero-exception limit (universal invariance = objectivity); and **B3** the infimum (worst-case warrant, ρ(C) = inf over the strongest opposition). The corpus's own messenger-invariant recovery — the source as the convergent core across independent channels — is B1 (see Appendix E).
+The object is the **evidence-aggregation operator** on the conditioned measure {τ(C | aᵢ)}. Its faces are the canonical reductions: **B0** the single term (a bounded log-likelihood increment, 0 < |Δℓ| < ∞); **B1** the sum over independent witnesses (coherent signal ∝ n against incoherent noise ∝ √n, SNR ∝ √n); **B2** the n → ∞, zero-exception limit (universal invariance = objectivity); and **B3** the infimum (worst-case warrant, ρ(C) = inf over the strongest opposition). The corpus's own messenger-invariant recovery — the source as the convergent core across independent channels — is B1 (see Appendix A).
 
 *Tier: **derivation** for B0/B1/B2; **criterion** for B3 (the admissible-opposition set is interpretive).*
 

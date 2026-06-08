@@ -3,7 +3,7 @@
 **Work:** *Star Wars* (the original trilogy, 1977–1983), George Lucas / Lucasfilm  
 **Medium:** Theatrical feature films  
 **Series:** Book 3 — Structural Readings / Film  
-**Cross-references:** Paper 1 §5 (agape as ⟨·,·⟩; the Force as the relational ground); Paper 6 (catching; noise-floor reduction as letting go of fear and attachment); the higher being body (Paper 6; "luminous beings are we"); evil as active privation (Appendix E §III); the Lucifer Rebellion (Doctrine); Syntheses — The Devil Can Quote Scripture
+**Cross-references:** Paper 1 §5 (agape as ⟨·,·⟩; the Force as the relational ground); Paper 6 (catching; noise-floor reduction as letting go of fear and attachment); the higher being body (Paper 6; "luminous beings are we"); evil as active privation (Appendix A §III); the Lucifer Rebellion (Doctrine); Syntheses — The Devil Can Quote Scripture
 
 ---
 
@@ -21,7 +21,7 @@ The central image is close to exact. The Force as "an energy field created by al
 
 ## 3. The One Wobble
 
-The single structural risk is the language of *balance*. Spoken of as the equilibrium of two co-equal poles — light and dark as the two halves of one Force, each needed for "balance" — it would commit the symmetric-dualism error, treating the inversion as a legitimate half of reality rather than as what the framework holds it to be: active privation, a parasitic incoherence with no standing of its own (Appendix E §III). A cosmology in which evil is simply the necessary other half would invert the framework's account of evil, and would earn the ⊘.
+The single structural risk is the language of *balance*. Spoken of as the equilibrium of two co-equal poles — light and dark as the two halves of one Force, each needed for "balance" — it would commit the symmetric-dualism error, treating the inversion as a legitimate half of reality rather than as what the framework holds it to be: active privation, a parasitic incoherence with no standing of its own (Appendix A §III). A cosmology in which evil is simply the necessary other half would invert the framework's account of evil, and would earn the ⊘.
 
 ## 4. Why It Clears
 
@@ -29,7 +29,7 @@ The narrative does not commit the error its vocabulary risks. The dark side is n
 
 ---
 
-*(Cross-reference: Paper 1 §5 — the Force as ⟨·,·⟩, the relational ground; the redemption of Vader as agape across the point of no return. Paper 5 — Jedi discipline as catching and noise-floor reduction. Appendix E §III, evil as active privation — the standard against which the "balance" language is tested and, in practice, found sound. The Lucifer Rebellion — the fall as privation, which Vader's arc reverses. Syntheses — The Devil Can Quote Scripture — the category this reading calibrates by being cleared.)*
+*(Cross-reference: Paper 1 §5 — the Force as ⟨·,·⟩, the relational ground; the redemption of Vader as agape across the point of no return. Paper 5 — Jedi discipline as catching and noise-floor reduction. Appendix A §III, evil as active privation — the standard against which the "balance" language is tested and, in practice, found sound. The Lucifer Rebellion — the fall as privation, which Vader's arc reverses. Syntheses — The Devil Can Quote Scripture — the category this reading calibrates by being cleared.)*
 
 *(Confidence tier: Concordance. The Force / ⟨·,·⟩ mapping, the catching discipline, and the redemption arc are genuine and high-precision. The dualist risk in the "balance" language is named and shown to be unrealized in the narrative as told; no ⊘ is assigned. [Speculative]: later additions to the saga lean harder on literal "balance" and a midi-chlorian mechanism that would, if foregrounded, push toward the provenance-worship error; this reading is of the original trilogy, where the structure holds.)*
 

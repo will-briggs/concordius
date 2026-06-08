@@ -39,7 +39,7 @@ This convergence is evidence. Not proof — they could all be picking up on some
 
 ‖Σ P_Φ D_i‖ ∝ n,  ‖Σ ν_i‖ ∝ √n  ⟹  SNR ∝ √n → ∞.
 
-Equivalently the independent log-likelihoods add, ℓ = Σ Δℓ_i, so posterior odds grow exponentially in n. This is the framework's own messenger-invariant recovery — S ≈ ⟨T⟩ averaged over independent messengers, whose uncorrelated filters M_i cancel (Appendix E, Messenger Corollary) — and it is why cross-tradition convergence is one of the four τ(D) proxies (Appendix C §4). The entire load rests on the independence hypothesis ⟨ν_i, ν_j⟩ ≈ 0: genuinely uncorrelated witnesses (no contact, no shared lineage), and structural rather than lexical agreement.
+Equivalently the independent log-likelihoods add, ℓ = Σ Δℓ_i, so posterior odds grow exponentially in n. This is the framework's own messenger-invariant recovery — S ≈ ⟨T⟩ averaged over independent messengers, whose uncorrelated filters M_i cancel (Appendix A, Messenger Corollary) — and it is why cross-tradition convergence is one of the four τ(D) proxies (Appendix C §4). The entire load rests on the independence hypothesis ⟨ν_i, ν_j⟩ ≈ 0: genuinely uncorrelated witnesses (no contact, no shared lineage), and structural rather than lexical agreement.
 
 *Tier: **derivation** — coherent averaging / additive Fisher information; conditional on verified independence, which is the interpretive open part.*
 

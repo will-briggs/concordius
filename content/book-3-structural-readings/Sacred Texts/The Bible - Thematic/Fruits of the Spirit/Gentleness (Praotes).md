@@ -7,7 +7,7 @@ tags: [fruits-of-the-spirit, gentleness, meekness, kenosis, constraint-level]
 
 **Text:** Galatians 5:22; Matthew 5:5; Matthew 11:29; 1 Peter 3:15  
 **Series:** Book 3 — Structural Readings / The Bible — Thematic / Fruits of the Spirit  
-**Cross-references:** Pride Goes Before a Fall (Aphorisms); Paper 13½ (The Maximum Downward Entry); Kenosis (Appendix E)
+**Cross-references:** Pride Goes Before a Fall (Aphorisms); Paper 13½ (The Maximum Downward Entry); Kenosis (Appendix A)
 
 ---
 
