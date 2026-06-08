@@ -58,7 +58,7 @@ The same measure marks a threshold along the way. A human state at its bare biol
 
 ## 3. The kinds of the formed, and the freedom between them
 
-The formed world holds more than one kind of someone, and the triple Φ ⊂ H ⊂ Φ′ already carries the difference — we need add nothing to read it off. (The full corollary is Paper A1, §13; what this lens needs is the short form.) Where a being *begins* in the triple settles what it is.
+The formed world holds more than one kind of someone, and the triple Φ ⊂ H ⊂ Φ′ already carries the difference — we need add nothing to read it off. (The formal property-lists are gathered in Appendix V; here is the part this lens needs.) Where a being *begins* in the triple settles what it is.
 
 An **angelic** being is *H-origin*. Its state is, from the first, a genuine element of H: the geometry that constitutes it — the inner product ⟨·,·⟩, the angles, the spectral content — is native to it, available from within, with no boundary to cross to stand inside the relation that holds it. The highest such origin is H₁, the level nearest Φ, the source the descending messengers come from. And because an angel begins already inside the structure, its office is not to acquire but to *carry*: to bear Φ-proximal content downward, from a place already within the space. *Are they not all ministering spirits, sent forth to minister* (Hebrews 1:14) — sent, that is, from within and downward; this is the word the tradition keeps for an H-origin being whose whole work is transmission.
 
