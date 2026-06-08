@@ -1,20 +1,14 @@
 # Paper B0: The Proof
 
-*The founding paper of what follows Section I: the reference the series lays down before it turns outward to read what it did not make. Companion to Paper 1 (where the foundation is laid) and Paper 7 (where the one assumption is confessed).*
+*The inherited line of mathematics — from the earliest record of counting through the Gelfand triple — and the one object built within it: the truth measure τ, the fraction of a state's spectral energy lying in the nuclear region, with 0 ≤ τ ≤ 1 and the value 1 a limit no proper element of H attains. A proof in the strict sense — granted premises, then a chain of inferences each forced by a defect in the last — closing on an exact account of what is borrowed, what is added, and what is assumed.*
 
-*Status: the lineage of §2 is documentary, reconstructed as far as the record allows; the construction of §3 is exact and derivable within the inherited apparatus with no new primitive; its operationalization is an open problem, marked as such; the closing statement of what is borrowed, added, and assumed is the load-bearing claim of the paper.*
-
----
-
-## Abstract
-
-We begin with the earliest plausible record of counting and trace the lineage of mathematics through the Gelfand triple to the one thing the series adds to it: the truth measure τ. The lineage is taken as granted premises; the passage from them to the structure is a chain of stated inferences, each forced by a defect in the last, and so the argument can be read as a proof — of the structure, and of τ as a well-defined functional upon it. What τ *signifies* — whether it answers to anything beyond itself — is not a mathematical question and is not raised here.
+**Confidence —** *Math:* **derivation** — within the inherited, granted rigged-triple apparatus (no new primitive), τ is defined and its two properties (0 ≤ τ ≤ 1; τ = 1 ⟺ ψ ∈ Φ) are exact; the operationalization of the nuclear region N is an open problem, marked as such. *Science:* **— (not engaged)** — no empirical claim; the §2 lineage is historical documentation, reconstructed as far as the record allows (the Lebombo arithmetic reading interpretive, not settled). *Theology:* **— (not engaged)** — no reading is offered; whether τ signifies anything, and the identifications that name these objects, are deferred to Section A and to the theologian's paper that follows.
 
 ---
 
 <figure>
 <img src="/static/images/byrne-euclid.jpg" alt="Oliver Byrne's coloured edition of Euclid's Elements (1847)" style="max-width:100%;">
-<figcaption><em>Oliver Byrne, The First Six Books of the Elements of Euclid</em> (1847). The emblem of the method every name in this paper inherits: derive from a granted ground, declare what is granted. This paper concerns one structure built that way, and the single stone the series cuts to add to it.</figcaption>
+<figcaption><em>Oliver Byrne, The First Six Books of the Elements of Euclid</em> (1847). The emblem of demonstrative method: derive from a granted ground, and declare what is granted.</figcaption>
 </figure>
 
 <hr>
@@ -88,7 +82,7 @@ The line can now be drawn exactly, in three terms rather than two.
 
 **Added:** the functional τ of §3, and it alone. It is *derivable within the borrowed apparatus* — a definition, not a discovery; it proves no theorem the named figures did not, and could have been written down by any of them. It adds no mathematics in that it introduces no primitive; it adds exactly one object in that the object had not been written before. Both are true and are held together.
 
-**Assumed:** everything past the form of τ. Whether this functional signifies anything — whether it answers to some feature of what is real, and what that feature would be — is not a mathematical question and is not touched here. That is the *reading*, and it is no part of this paper. The reading is not new in any case: it is the single assumption laid on the first line of Paper 1, that reality may be modeled by this structure at all, confessed again at the close of Paper 7 as the one thing the series cannot establish from within. The identifications that interpret the apparatus — that name what these objects are — are made where they belong: in Section I, and, for the terms by which this measure will be read, in the theologian's paper that follows. This paper introduces no reading of its own. It fixes the mathematics and stops.
+**Assumed:** everything past the form of τ. Whether this functional signifies anything — whether it answers to some feature of what is real, and what that feature would be — is not a mathematical question and is not touched here. That is the *reading*, and it is no part of this paper. The reading is not new in any case: it is the single assumption laid down at the foundation — that reality may be modeled by this structure at all ([[Paper A0: Modeling Reality as a Gelfand Triple]]) — named again where the series confesses the one thing it cannot establish from within. The identifications that interpret the apparatus — that name what these objects are — are made where they belong: in Section A, and, for the terms by which this measure will be read, in the theologian's paper that follows ([[Paper B1: The Sacred Trust]]). No reading is introduced here: the mathematics is fixed, and there it rests.
 
 ---
 
