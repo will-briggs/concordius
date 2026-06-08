@@ -98,6 +98,18 @@ dl antonello-jerome-study.jpg \
   "https://uploads4.wikiart.org/images/antonello-da-messina/st-jerome-in-his-study.jpg" \
   "Paper 2: Antonello da Messina - St. Jerome in His Study (c. 1474-75)"
 
+dl ford-madox-brown-washing-feet.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Jesus%20washing%20Peter%27s%20feet.jpg" \
+  "Paper A6: Ford Madox Brown - Jesus Washing Peter's Feet (1852-56)"
+
+dl holbein-dead-christ.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein-%20The%20Body%20of%20the%20Dead%20Christ%20in%20the%20Tomb.JPG" \
+  "Paper A6½: Hans Holbein the Younger - The Body of the Dead Christ in the Tomb (1521-22)"
+
+dl titian-noli-me-tangere.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Noli%20me%20Tangere%20-%20Google%20Art%20Project.jpg" \
+  "Paper A7: Titian - Noli me Tangere (c. 1514)"
+
 # ─── Book 1 — Concordius Papers section frontispieces ───────────────────────
 
 dl masaccio-trinity.jpg \
