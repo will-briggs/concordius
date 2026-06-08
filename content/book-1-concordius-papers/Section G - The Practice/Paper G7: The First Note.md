@@ -1,8 +1,10 @@
 *← [[Paper G6: The Humility-Centered Man|Paper G6: The Humility-Centered Man]]*
 
-# The First Note
+# Paper G7: The First Note
 
-*The closing paper of the Concordius series, the close of Section G — and of the series. It introduces nothing new. It gathers the seven men the section described, and turns at the end to the one thing the description was never able to do.*
+*The seven men gathered and set back in order, and then the one thing the description was never able to do: the turn from knowing the road to walking it. A completed octave does not return to where it began — its last note is the first note of the next.*
+
+**Confidence —** *Math:* **— (not engaged)**. *Science:* **— (not engaged)**. *Theology:* **synthesis** — the seven men gathered; it asserts nothing beyond the papers it recapitulates, turning at the end to the reader.
 
 ---
 

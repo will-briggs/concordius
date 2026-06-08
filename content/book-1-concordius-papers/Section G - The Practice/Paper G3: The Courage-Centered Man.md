@@ -2,7 +2,9 @@
 
 # Paper G3: The Courage-Centered Man
 
-*Concordius Structural Series — Section G: The Practice*
+*Man No. 4: the first type that cannot be born into — reached only through deliberate, sustained, three-center catching work, the series' first qualitative discontinuity between what a person is by constitution and what he has become by choice. The three centers that operated in alternation now begin to operate at once, each contributing its H₂₄ function to a single act; the characteristic practice is self-remembering (divided attention made continuous) and the characteristic raw material is intentional suffering (friction taken as the forge, not the obstacle to be avoided). The transition obstacle is the dark night of the spirit — the dissolution of the deliberate effort itself — crossed not by greater effort but by its release into the Adjuster's direct action: Man 5 begins with the surrender of the effort the effort was preparing for.*
+
+**Confidence —** *Math:* **inference** — Man 4 as the first achieved (not born) three-center integration in the apparatus. *Science:* **concordance** — the psychology of deliberate practice, divided attention, and engagement with difficulty. *Theology:* **concordance** — self-remembering, intentional suffering, the dark night of the spirit crossed by surrender.
 
 ---
 

@@ -2,21 +2,23 @@
 
 # Paper G0: The Good-Centered Man
 
-*Concordius Structural Series — Section G: The Practice*
+*Man No. 1: the person whose center of gravity lies in the instinctive and moving centers — H₄₈-primary orientation, the volitional axis aligned almost entirely with H₄₈ attractors, the soul deposit minimal, the indwelling Adjuster always present and acting but contact near-zero because the noise floor is at its maximum. The ascending career is structurally available and not yet functionally available, and the gap between the two is the whole problem and the whole opportunity. The transition to Man 2 runs through Man 1's native channel — the body — as the entry point for H₂₄ contact: concrete, sustained physical practice oriented above the H₄₈ level, which the body can receive before the mind has conceptualized it.*
+
+**Confidence —** *Math:* **inference** — Man 1 placed in the apparatus (H₄₈-primary orientation, the Adjuster acting against a maximal noise floor); a motivated mapping, not a forced one. *Science:* **concordance** — the somatic and behavioral practices (the body as entry channel) converge with the modern record. *Theology:* **concordance** — the ascending career structurally available, the indwelling presence always acting.
 
 ---
 
 ## Preliminary Note: What This Section Is
 
-Papers G0 through G6 constitute a new kind of paper in the series. Papers 1–21 built the framework, showed it in operation, and applied it to the broadest available objects. The Seven Men papers turn the apparatus toward the individual: not the family (Paper 19), not all of history (Paper 20), but the concrete person asking the concrete question of what to do.
+Papers G0 through G6 constitute a new kind of paper in the series. The foregoing sections built the framework, showed it in operation, and applied it to the broadest available objects. The Seven Men papers turn the apparatus toward the individual: not the family, not all of history, but the concrete person asking the concrete question of what to do.
 
 Gurdjieff designated seven types of person, numbered 1 through 7, by their characteristic center-of-gravity: which center dominates, how much soul material has been crystallized, and what the relationship between the individual's intentional effort and the automatic operation of the [[Appendix I - Dictionary of Terms#Heropass|Heropass]] is. The designation is not a [[Appendix I - Dictionary of Terms#Personality|personality]] taxonomy — it is a spectral description. Men 1, 2, and 3 are [[Appendix I - Dictionary of Terms#Mechanical vs. Volitional|mechanical]]: born as one type or another, their center-of-gravity determined by which center is dominant in their biological and developmental inheritance. Men 4 through 7 are products of intentional work: no person is born a [[Appendix I - Dictionary of Terms#Man No. 1 through Man No. 7|Man 4]]; Man 4 must be achieved through deliberate [[Appendix I - Dictionary of Terms#Catching|catching]] effort. Men 5, 6, and 7 represent increasing levels of [[Appendix I - Dictionary of Terms#H₂₄|H₂₄]] crystallization — the accumulated [[Appendix I - Dictionary of Terms#Soul Deposit|soul deposit]] that survives the dissolution of the [[Appendix I - Dictionary of Terms#H₄₈|H₄₈]] substrate and constitutes the being who can continue the [[Appendix I - Dictionary of Terms#Ascending Career|ascending career]] beyond this life.
 
 The framework of Papers G0–G6 is grounded in four resources simultaneously:
 
-1. **Mathematical ground**: the [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand triple]], the Laws of Three and Seven, τ(D), the Eigenvalue Transmission Theorem, the catching mechanics of Paper A4
-2. **Esoteric tradition**: Gurdjieff's system (the primary typology), the alchemical tradition (Paper A6's [[Appendix I - Dictionary of Terms#Alchemical Stages|Nigredo]]/Albedo/Citrinitas/Rubedo as stages of H₂₄ crystallization), the [[Appendix I - Dictionary of Terms#Urantia Book|Urantia]] cosmology ([[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]], [[Appendix I - Dictionary of Terms#Morontia|morontia]], the ascending career), the mystical tradition at large
-3. **Theological grounding**: the Beatitudes (Paper A1's eight-fold [[Appendix I - Dictionary of Terms#Octave|octave]] of Signal accumulation), the Pauline epistles on the body/soul/spirit constitution, the patristic tradition on theosis, Augustine on the will
+1. **Mathematical ground**: the [[Appendix I - Dictionary of Terms#Gelfand Triple|Gelfand triple]], the Laws of Three and Seven, τ(D), the Eigenvalue Transmission Theorem, the catching mechanics
+2. **Esoteric tradition**: Gurdjieff's system (the primary typology), the alchemical tradition ([[Appendix I - Dictionary of Terms#Alchemical Stages|Nigredo]]/Albedo/Citrinitas/Rubedo as stages of H₂₄ crystallization), the [[Appendix I - Dictionary of Terms#Urantia Book|Urantia]] cosmology ([[Appendix I - Dictionary of Terms#Thought Adjuster|Thought Adjuster]], [[Appendix I - Dictionary of Terms#Morontia|morontia]], the ascending career), the mystical tradition at large
+3. **Theological grounding**: the Beatitudes (the eight-fold [[Appendix I - Dictionary of Terms#Octave|octave]] of Signal accumulation), the Pauline epistles on the body/soul/spirit constitution, the patristic tradition on theosis, Augustine on the will
 4. **Modern psychology**: cognitive behavioral therapy (the cognitive triangle; behavioral activation; schema theory; urge surfing; exposure and response prevention); depth psychology (the shadow; individuation); developmental psychology (attachment theory); positive psychology (character strengths; flow; post-traumatic growth)
 
 These four resources do not contradict each other when read at the right structural level. They are independent witnesses to the same structural terrain. The convergences are the evidence. The divergences are located and named honestly.
@@ -30,7 +32,7 @@ Each paper in this section has the following structure:
 - The warning: what does not work for this type (common false transitions)
 - A practical regime: phase-by-phase, concrete, actionable
 
-*Cross-reference: Paper A3 (The Son Articulates: The Word and the Forming of the World — the physical substrate enabling the ascending career); Papers 6 and 6½ (The [[Appendix I - Dictionary of Terms#Trogoautoegocrat|Trogoautoegocrat]] — the octave structure of the Men 1-7 sequence); Paper A2½ (Descent as [[Appendix I - Dictionary of Terms#Densification|Densification]] — what it means to receive content from a lower-constraint domain); Paper A2 (the Creative Choice — the constitutive [[Appendix I - Dictionary of Terms#Love|love]] that makes the ascending career available to Man 1).*
+*Cross-reference: [[Paper A3: The Word Made Flesh]] (the physical substrate enabling the ascending career); the [[Appendix I - Dictionary of Terms#Trogoautoegocrat|Trogoautoegocrat]] (the octave structure of the Men 1–7 sequence); [[Paper A2½: The Constraint Cascade]] (descent as [[Appendix I - Dictionary of Terms#Densification|densification]] — receiving content from a lower-constraint domain); [[Paper A2: The Big Bang]] (the Creative Choice — the constitutive [[Appendix I - Dictionary of Terms#Love|love]] that makes the ascending career available to Man 1).*
 
 ---
 
@@ -47,7 +49,7 @@ Man No. 1 is the person whose center-of-gravity lies in the instinctive and movi
 
 ## Structural Description
 
-**Trinity-mode and its virtue.** Man 1 operates in the **Father-alone** mode (Moon; e₁, grade 1, squares +1; Paper A5 §8). Its virtue is **gratitude** — the first of the three *generators* of the virtue-algebra (the expression-virtues: self-returning, practicable alone, present in any world). The career builds the three generators (Men 1–3) before it can forge their products (Men 4–6); this is the first. *(Grade structure derivation, §8; virtue-name concordance; Structural Candidates, Overdetermination Capture §6½.)*
+**Trinity-mode and its virtue.** Man 1 operates in the **Father-alone** mode (Moon; e₁, grade 1, squares +1; [[Paper A3: The Word Made Flesh]]). Its virtue is **gratitude** — the first of the three *generators* of the virtue-algebra (the expression-virtues: self-returning, practicable alone, present in any world). The career builds the three generators (Men 1–3) before it can forge their products (Men 4–6); this is the first. *(Grade structure derivation, [[Paper A3: The Word Made Flesh]]; virtue-name concordance; Structural Candidates, Overdetermination Capture §6½.)*
 
 **[[Appendix I - Dictionary of Terms#State Vector|State vector]]:** ψ₁ ≈ Σ aₙ |φₙ^H₄₈⟩
 

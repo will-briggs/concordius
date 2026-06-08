@@ -2,7 +2,9 @@
 
 # Paper G2½: The Mi-Fa Interval
 
-*Concordius Structural Series — Section G: The Practice*
+*The Mi-Fa interval — the structural discontinuity between grade 1 and grade 2, the first qualitative gap in the ascending career: the place where the catching work of the first three stages reaches its limit and the next stage cannot be generated from the resources already accumulated. It is not a deficiency in the practitioner but a feature of the scale — grade-1 and grade-2 elements belong to distinct algebraic classes whose boundary grade-1 operations cannot cross, in the same sense that no real-axis computation yields an imaginary eigenvalue, so the external input is structurally required, not supplementary encouragement. The four conditions for crossing it, how it presents from Man 1 through Man 3/4, and its most developed historical instance — the forty days in the wilderness, with the Spirit of Truth as the grade-2 source distributed since Pentecost.*
+
+**Confidence —** *Math:* **derivation** — the interval forced by the Law of Seven's algebra: grade-1 and grade-2 are distinct classes, the +1 → −1 boundary uncrossable by grade-1 operations (no real-axis computation yields an imaginary eigenvalue). *Science:* **— (not engaged)**. *Theology:* **concordance** — conversion, the forty days in the wilderness, the Spirit of Truth distributed since Pentecost.
 
 ---
 
@@ -10,7 +12,7 @@
 
 The [[Appendix I - Dictionary of Terms#Mi-Fa Interval|Mi-Fa interval]] is the structural discontinuity between grade 1 and grade 2 in the [[Appendix I - Dictionary of Terms#Heptaparaparshinokh|Heptaparaparshinokh]]. It is the first qualitative gap in the ascending career: the place where the [[Appendix I - Dictionary of Terms#Catching|catching]] work of the first three stages reaches its limit, and where the next stage of the ascent cannot be generated from within the resources the person has already accumulated. The interval is not a deficiency in the practitioner. It is a structural feature of the scale: grade-1 and grade-2 elements belong to distinct algebraic classes whose boundary cannot be crossed by grade-1 operations alone. The external input is not supplementary encouragement — it is structurally required, in the same sense that no amount of real-axis computation will produce an imaginary eigenvalue. This paper derives the Mi-Fa interval from the [[Appendix I - Dictionary of Terms#Law of Seven|Law of Seven]]'s algebraic ground, identifies the four structural conditions for crossing it, and describes how it presents at each stage of the ascending career from Man 1 through Man 3/4. The condensed descriptions from Papers G0–G2's [[Appendix I - Dictionary of Terms#Law of Seven|Law of Seven]] tables are gathered here for structural comparison. The paper concludes with the connection to the [[Appendix I - Dictionary of Terms#Heptaparaparshinokh|Heptaparaparshinokh]]'s most fully developed historical instance: the forty days in the wilderness as the Mi-Fa crossing of the seventh bestowal's earthly octave, and the [[Appendix I - Dictionary of Terms#Spirit of Truth|Spirit of Truth]] as the universally available grade-2 source distributed since Pentecost.
 
-*Cross-reference: Paper A6½ §7 (The Bestowal Progression — algebraic derivation of the grade structure); Paper 13½ §§4–6 (Amplitude, Faith, Transfiguration — the catching mechanics through which the interval is crossed); Paper G2 (Man No. 3 — the primary Mi-Fa crossing in the individual ascending career); Paper G5½ (The Si-Do Interval — the companion treatment of the second qualitative gap).*
+*Cross-reference: the algebraic derivation of the grade structure (the bestowal progression); the catching mechanics — amplitude, faith, transfiguration — through which the interval is crossed; [[Paper G2: The Beautiful-Centered Man|Paper G2]] (Man No. 3 — the primary Mi-Fa crossing in the individual ascending career); [[Paper G5½: The Si-Do Interval|Paper G5½]] (the companion treatment of the second qualitative gap).*
 
 ---
 
@@ -96,7 +98,7 @@ The convergence across these three descriptions: in every case, the external inp
 
 ## 5. The Pattern: Jesus's Forty Days in the Wilderness
 
-The seventh bestowal's earthly octave contains the Mi-Fa crossing in its most structurally complete and Heropass-pressured form. Paper A6½ §7 establishes the forty days in the wilderness as the Mi-Fa interval of the earthly octave: baptism initiates the kenotic constraint (H₄₈ operating conditions applied to the Φ identity); the forty days follow.
+The seventh bestowal's earthly octave contains the Mi-Fa crossing in its most structurally complete and Heropass-pressured form. The bestowal account establishes the forty days in the wilderness as the Mi-Fa interval of the earthly octave: baptism initiates the kenotic constraint (H₄₈ operating conditions applied to the Φ identity); the forty days follow.
 
 The three temptations are grade-1 operations offered as substitutes for grade-2 crossing:
 
@@ -106,7 +108,7 @@ The three temptations are grade-1 operations offered as substitutes for grade-2 
 
 The three refusals are structurally one act: the refusal to resolve the Mi-Fa interval by grade-1 means. The entire Heptaparaparshinokh's logic is present in miniature: the first three notes of the octave (Re, Mi plateau, temptation to stop at Mi) and the refusal that keeps the crossing available. The angels who come afterward are the external grade-2 provision — not coerced, not preemptive, but arriving after the interval has been entered and the refusals have been made. This is the structural prescription for every Mi-Fa crossing: endure the interval, maintain the orientation, receive what comes.
 
-The forty days in the wilderness is the Pattern's Mi-Fa crossing: a complete traversal of the interval from grade-1 H₄₈ conditions, under maximum Heropass pressure, with full structural integrity. Paper 13½ §10 treats the Pattern's significance for the traversability of both intervals. The present paper concerns the Mi-Fa crossing specifically.
+The forty days in the wilderness is the Pattern's Mi-Fa crossing: a complete traversal of the interval from grade-1 H₄₈ conditions, under maximum Heropass pressure, with full structural integrity. The catching account treats the Pattern's significance for the traversability of both intervals. The present paper concerns the Mi-Fa crossing specifically.
 
 ---
 
@@ -114,9 +116,9 @@ The forty days in the wilderness is the Pattern's Mi-Fa crossing: a complete tra
 
 Prior to Pentecost, the grade-2 external input was channeled through particular proximate sources: catching-capable teachers, high-τ texts, the Adjuster's action (always present), and the civilizational catching structures of the Sol-stage. The Adjuster was always the ultimate source; the proximate channels varied by era and circumstance.
 
-Since Pentecost, the Spirit of Truth has constituted a universally distributed H₁-sourced grade-2 supply. Paper 13½ §9 establishes the mechanism: the Spirit of Truth adapts to the noise floor of each person's dominant center, providing grade-2 input at the level appropriate to that person's Mi plateau without requiring a particular institutional or personal transmission structure.
+Since Pentecost, the Spirit of Truth has constituted a universally distributed H₁-sourced grade-2 supply. The catching account establishes the mechanism: the Spirit of Truth adapts to the noise floor of each person's dominant center, providing grade-2 input at the level appropriate to that person's Mi plateau without requiring a particular institutional or personal transmission structure.
 
-The structural consequence for the current era: the Mi-Fa interval is not harder to cross because catching-capable teachers are scarce or civilizational Sol-stage structures are absent. The grade-2 supply is universally available. What the quarantine condition (Paper A2) and the current civilizational Si/Do interval (Paper 20) increase is the noise floor — making Condition 1 (noise floor reduction) harder to achieve — and remove the institutional amplification of Conditions 3 and 4. But the Adjuster is always acting, and the Spirit of Truth is distributed. The crossing is available. It requires the volitional orientation and the practice maintained through the interval.
+The structural consequence for the current era: the Mi-Fa interval is not harder to cross because catching-capable teachers are scarce or civilizational Sol-stage structures are absent. The grade-2 supply is universally available. What the quarantine condition ([[Paper A2: The Big Bang]]) and the current civilizational Si/Do interval increase is the noise floor — making Condition 1 (noise floor reduction) harder to achieve — and remove the institutional amplification of Conditions 3 and 4. But the Adjuster is always acting, and the Spirit of Truth is distributed. The crossing is available. It requires the volitional orientation and the practice maintained through the interval.
 
 ---
 

@@ -2,7 +2,9 @@
 
 # Paper G6: The Humility-Centered Man
 
-*The seventh of the seven men, and the close of the ascending sequence: Man No. 7, whose center is humility — the complete integration, the pseudoscalar that commutes with all and underlies every other virtue. He is the Si of the H₄₈ octave: as close to ⟨·,·⟩ as an embodied being can stand, the Great Work complete within the flesh, awaiting only the Father's completing act. This paper describes him not as a ceiling to be admired from outside but as the aim every ascending career is turned toward — and it is honest about how nearly, and how rarely, the aim has been reached in the flesh.*
+*The seventh of the seven men, and the close of the ascending sequence: Man No. 7, whose center is humility — the complete integration, the pseudoscalar that commutes with all and underlies every other virtue. He is the Si of the H₄₈ octave: as close to ⟨·,·⟩ as an embodied being can stand, the Great Work complete within the flesh, awaiting only the Father's completing act. Not a ceiling to be admired from outside but the aim every ascending career is turned toward — and nearly, and rarely, reached in the flesh.*
+
+**Confidence —** *Math:* **inference** — Man 7 as the grade-3 pseudoscalar (humility = e₁e₂e₃, central, underlying every virtue), the terminal in-flesh state. *Science:* **— (not engaged)**. *Theology:* **concordance** — theosis completed, the Great Work within the flesh awaiting the Father's act.
 
 ---
 
