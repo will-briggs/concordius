@@ -6,7 +6,7 @@ tags:
 
 # Section D — The Inversion
 
-*The Inversion — the Fa and its shock: evil read in the lives that carried it furthest, three men and three results each the inversion of one element, the archetype beneath them, and the fall into the world.*
+*The Inversion: evil read in the lives that carried it furthest, three men and three results each the inversion of one element, the archetype beneath them, and the fall into the world.*
 
 *Papers D0–D7*
 
@@ -28,7 +28,7 @@ tags:
 
 ---
 
-The **Fa** of the larger octave, and its first shock — the turn from the company of witnesses to the company's photographic negative. Evil read not as an abstraction but in the lives that carried it furthest: three men, each the complete inversion of one generator; three results, each the inversion of one bivector; the archetype beneath them; and the fall by which the inversion entered the world. Every reading is a descending octave, dated and exact, the discipline of the two shocks shown reversed — and the victims kept always at the moral center, the perpetrators the object of study, never of sympathy.
+The first grade change — the turn from the company of witnesses to the company's photographic negative. Evil read not as an abstraction but in the lives that carried it furthest: three men, each the complete inversion of one generator; three results, each the inversion of one bivector; the archetype beneath them; and the fall by which the inversion entered the world. Every reading is a descending octave, dated and exact, the discipline of the two shocks shown reversed — and the victims kept always at the moral center, the perpetrators the object of study, never of sympathy.
 
 ---
 
@@ -43,7 +43,7 @@ Stalin as the inversion of the True (e₂) — the Party set in the place of the
 **[[Paper D2: Mao Zedong|Paper D2 — Mao Zedong]]**
 Mao as the inversion of the Beautiful (e₃) — beauty enlisted to direct to a man and a Party the glory due the Creator: *Soli Deo Gloria* turned into the worship of a living man.
 
-**[[Paper D2½: The Demagogue and the Crowd|Paper D2½ — The Demagogue and the Crowd]]** *(Mi–Fa interval)*
+**[[Paper D2½: The Demagogue and the Crowd|Paper D2½ — The Demagogue and the Crowd]]** *(first grade change)*
 The crossing between the three men and the three results: a man, however inverted, cannot become a catastrophe alone — something must come from outside him. The two culpabilities, the leader's and the led's, each weighed in its own measure.
 
 **[[Paper D3: The Holocaust|Paper D3 — The Holocaust]]**
@@ -58,8 +58,8 @@ Mao's catastrophe read as the inversion of diligence (e₂e₃) — honest fruit
 **[[Paper D6: Lucifer|Paper D6 — Lucifer]]**
 Evil at its root: where the human doors each inverted one axis, this reaches the archetype beneath them — the one in whom all three are inverted at once, and from whom the human inversions descend.
 
-**[[Paper D6½: The Fall|Paper D6½ — The Fall]]** *(Si–Do interval)*
-The Si–Do crossing inverted — the passage by which the inversion left the archetype and entered the world at large. The crossing no one makes alone, read from its dark side.
+**[[Paper D6½: The Fall|Paper D6½ — The Fall]]** *(second grade change)*
+The second grade-change crossing inverted — the passage by which the inversion left the archetype and entered the world at large. The crossing no one makes alone, read from its dark side.
 
 **[[Paper D7: Evil|Paper D7 — Evil]]**
 The closing note and the hinge into what follows: the dark octave traced as far as the framework's three witnesses can carry it, to the edge where the canon is sparse and math and science fall silent — and the warrant, under Gödel, for the next section's outside witness.

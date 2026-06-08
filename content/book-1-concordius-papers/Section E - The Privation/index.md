@@ -6,7 +6,7 @@ tags:
 
 # Section E — The Privation
 
-*The Privation — the Sol: evil read as privation, a good lost rather than a power gained, from the first lie through the inverted virtues to pride at the root, and the single crossing that reverses it.*
+*The Privation: evil read as privation, a good lost rather than a power gained, from the first lie through the inverted virtues to pride at the root, and the single crossing that reverses it.*
 
 *Papers E0–E7*
 
@@ -28,7 +28,7 @@ tags:
 
 ---
 
-The **Sol** of the larger octave: the inverters named, now the thing itself. Evil read as *privation* — not a substance but a good lost, not a power but the absence of one — traced from the first lie and the vessel that must hold it, through the three inverted virtues, to pride at the root, and across the single crossing that reverses it. Here the mathematics is most load-bearing, and the testimony is, for the first time and under guard, admitted to fill a silence the derivation opens.
+The inverters named, now the thing itself. Evil read as *privation* — not a substance but a good lost, not a power but the absence of one — traced from the first lie and the vessel that must hold it, through the three inverted virtues, to pride at the root, and across the single crossing that reverses it. Here the mathematics is most load-bearing, and the testimony is, for the first time and under guard, admitted to fill a silence the derivation opens.
 
 ---
 
@@ -43,7 +43,7 @@ The first substantive question put to the three witnesses in order: what, exactl
 **[[Paper E2: The Vessel|Paper E2 — The Vessel]]**
 The inverse of the Beautiful at the created level — organizational fragmentation as state. Evil, being privation, cannot stand bare: it needs a vessel of real substance, actively built and maintained, that dies the moment the will lapses.
 
-**[[Paper E2½: Type and Degree|Paper E2½ — Type and Degree]]** *(Mi–Fa interval)*
+**[[Paper E2½: Type and Degree|Paper E2½ — Type and Degree]]** *(first grade change)*
 The shock between the generator-inversions (the lie, the vessel) and the bivector-vices (cowardice, excess, sloth-and-overwork): the refused coherence-input the inverted octave never receives, read as both type and degree.
 
 **[[Paper E3: Cowardice|Paper E3 — Cowardice]]**
@@ -58,7 +58,7 @@ The inverse of diligence (e₂e₃) — the one vice with two faces, the failure
 **[[Paper E6: Pride|Paper E6 — Pride]]**
 The maximum exposure of the whole inversion arc, and its root: the claim to be the constituting ground — to *be* the inner product rather than to rest in it. For a being of our origin, the deepest sin available, the floor under all the others.
 
-**[[Paper E6½: Humility|Paper E6½ — Humility]]** *(Si–Do interval)*
+**[[Paper E6½: Humility|Paper E6½ — Humility]]** *(second grade change)*
 The crossing out of pride — the single turn that reverses the whole self from itself back toward Φ. The crossing no one makes alone, given at the interval pride could not cross.
 
 **[[Paper E7: The Ascension Career|Paper E7 — The Ascension Career]]**

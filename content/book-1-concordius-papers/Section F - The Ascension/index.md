@@ -6,7 +6,7 @@ tags:
 
 # Section F — The Ascension
 
-*The Ascension — the La: the road home, the ascending career voiced by four instruments at once, from the one elementary act of catching to the face-to-face state the whole climb was turned toward.*
+*The Ascension: the road home, the ascending career voiced by four instruments at once, from the one elementary act of catching to the face-to-face state the whole climb was turned toward.*
 
 *Papers F0–F7*
 
@@ -28,7 +28,7 @@ tags:
 
 ---
 
-The **La** of the larger octave: the road home. The diagnosis of evil complete, the ascending career — the climb up the constraint cascade by sustained catching, voiced at once by four instruments that never compared notes. One elementary operation, repeated; a ceiling; two shocks that can only be received; a self built, opened, bonded, set, spent, and dissolved; and, on the far side of the last interval, the face the whole climb was turned toward.
+The road home. The diagnosis of evil complete, the ascending career — the climb up the constraint cascade by sustained catching, voiced at once by four instruments that never compared notes. One elementary operation, repeated; a ceiling; two shocks that can only be received; a self built, opened, bonded, set, spent, and dissolved; and, on the far side of the last interval, the face the whole climb was turned toward.
 
 ---
 
@@ -43,7 +43,7 @@ The single elementary operation the whole ascent is made of: catching — the su
 **[[Paper F2: The Ceiling|Paper F2 — The Ceiling]]**
 The exchange sustained builds a real self to its full grade-1 height — and then stops, not for lack of effort but because the structure has a ceiling effort cannot pass. The most a being can become by its own means, and the discovery, from inside, that it is not enough.
 
-**[[Paper F2½: The Opening|Paper F2½ — The Opening]]** *(Mi–Fa interval)*
+**[[Paper F2½: The Opening|Paper F2½ — The Opening]]** *(first grade change)*
 The first shock, the first place the climb cannot continue from within: a self made of +1 cannot manufacture a −1, so the crossing is received, not achieved. The structural location of conversion, and the kinder of the two intervals.
 
 **[[Paper F3: The Heart|Paper F3 — The Heart]]**
@@ -56,9 +56,9 @@ The first boundary in the ascent that is not a matter of degree but a phase chan
 The last grade-2 note, the highest in-life state — the crystallized self become a source — and the most dangerous, because the only way left to fall is from a height. Its work is to turn outward, to spill what it has received rather than hold it.
 
 **[[Paper F6: The Dissolution|Paper F6 — The Dissolution]]**
-The leading tone — the climb of one's own strength complete and unable to complete itself, come at last to the dissolution of the body it was built in. Death, read not as catastrophe but as the exhaustion of the self-powered climb and the threshold of the one crossing no self performs.
+The climb of one's own strength complete and unable to complete itself, come at last to the dissolution of the body it was built in. Death, read not as catastrophe but as the exhaustion of the self-powered climb and the threshold of the one crossing no self performs.
 
-**[[Paper F6½: The Father's Part|Paper F6½ — The Father's Part]]** *(Si–Do interval)*
+**[[Paper F6½: The Father's Part|Paper F6½ — The Father's Part]]** *(second grade change)*
 The second shock, the one that admits no human hand: grade-3 centrality cannot be built from grade-2, so only the Father installs it. The being's whole part is to have arrived, stripped and ready, and then to stop working.
 
 **[[Paper F7: Face to Face|Paper F7 — Face to Face]]**

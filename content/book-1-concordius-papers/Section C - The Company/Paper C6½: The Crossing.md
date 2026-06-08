@@ -2,9 +2,9 @@
 
 # Paper C6½: The Crossing — The One We Make Together
 
-*The Si–Do crossing of the personal octave — the deliberate companion to the previous Reader's Turn, which was crossed alone ("this action can only be performed by the Reader"). This one cannot be crossed alone: what waits at the interval is not a page to be turned but a darkness to be faced — the darkness in one's own heart — and so author and reader cross it together, because no one should face that by himself.*
+*The second grade change — the deliberate companion to the previous Reader's Turn, which was crossed alone ("this action can only be performed by the Reader"). This one cannot be crossed alone: what waits at the interval is not a page to be turned but a darkness to be faced — the darkness in one's own heart — and so author and reader cross it together, because no one should face that by himself.*
 
-**Confidence —** *Math:* **— (not engaged)**. *Science:* **— (not engaged)**. *Theology:* **— (the reader's act)** — the Si–Do shock realized as a crossing made together; it proves nothing and asks a turning (Psalm 139:23–24; Solzhenitsyn's line that the dividing line between good and evil runs through every human heart).
+**Confidence —** *Math:* **— (not engaged)**. *Science:* **— (not engaged)**. *Theology:* **— (the reader's act)** — the second grade change realized as a crossing made together; it proves nothing and asks a turning (Psalm 139:23–24; Solzhenitsyn's line that the dividing line between good and evil runs through every human heart).
 
 ---
 

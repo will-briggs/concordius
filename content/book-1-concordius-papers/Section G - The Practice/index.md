@@ -6,7 +6,7 @@ tags:
 
 # Section G — The Practice
 
-*The Practice — the Si, the leading tone: the seven men, the framework traced through a single human life level by level, from the first stirring of catching to the last reach toward Φ, and the turn handed to the reader.*
+*The Practice: the seven men, the framework traced through a single human life level by level, from the first stirring of catching to the last reach toward Φ, and the turn handed to the reader.*
 
 *Papers G0–G7*
 

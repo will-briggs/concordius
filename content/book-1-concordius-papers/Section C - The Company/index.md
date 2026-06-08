@@ -6,7 +6,7 @@ tags:
 
 # Section C — The Company
 
-*The Company — the Mi: the cloud of witnesses who caught the Good, the True, the Beautiful, and the overcoming virtues by roads the framework never walked, and the whole human story gathered as one octave.*
+*The Company: the cloud of witnesses who caught the Good, the True, the Beautiful, and the overcoming virtues by roads the framework never walked, and the whole human story gathered as one octave.*
 
 *Papers C0–C7*
 
@@ -28,7 +28,7 @@ tags:
 
 ---
 
-The Foundation built and the Inheritance received, the company that reached the same reality by other roads. The **Mi** of the larger octave — the inspirations, the witnesses: for each note of the personal octave, witnesses who could not have arranged their agreement caught the structure the mathematics derives and said it in their own tongue. The three generators read three ways, the three bivectors three ways, and then the whole human story gathered as a single cloud — and, at the close, the one silence the cloud kept, turned to face the inversion.
+The Foundation built and the Inheritance received, the company that reached the same reality by other roads. The inspirations, the witnesses: for each note of the personal octave, witnesses who could not have arranged their agreement caught the structure the mathematics derives and said it in their own tongue. The three generators read three ways, the three bivectors three ways, and then the whole human story gathered as a single cloud — and, at the close, the one silence the cloud kept, turned to face the inversion.
 
 ---
 
@@ -43,7 +43,7 @@ The True — e₂, the Logos, the articulating principle through which what is b
 **[[Paper C2: The Beautiful|Paper C2 — The Beautiful]]**
 The Beautiful — e₃, ordered love made visible, the right proportion that not only holds but delights. Three uncolludable witnesses to a harmony the eye, ear, and body recognize as right before any argument is offered.
 
-**[[Paper C2½: The Witnesses Were Already There|Paper C2½ — The Witnesses Were Already There]]** *(Mi–Fa interval)*
+**[[Paper C2½: The Witnesses Were Already There|Paper C2½ — The Witnesses Were Already There]]** *(first grade change)*
 The first shock: the turn from the three generators (contemplable, reasoned from the mathematics) to the three bivectors (the overcoming virtues, which cannot be contemplated but only lived). The witnesses for them were waiting before the framework arrived.
 
 **[[Paper C3: The Courageous|Paper C3 — The Courageous]]**
@@ -58,8 +58,8 @@ Diligence — e₂e₃, sustained and rightly-aimed labor that bears fruit acros
 **[[Paper C6: The Host of Witnesses|Paper C6 — The Host of Witnesses]]**
 Humility — I, the pseudoscalar, the complete integration in which all six elements are gathered into one — made into a roster: the whole human story laid out as an octave, each name one voice in a company none of them is the center of.
 
-**[[Paper C6½: The Crossing|Paper C6½ — The Crossing]]** *(Si–Do interval)*
-The Si–Do crossing of the personal octave — the companion to the Reader's Turn, which was crossed alone. This one cannot be: what waits at the interval is a darkness to be faced, not a page to be turned.
+**[[Paper C6½: The Crossing|Paper C6½ — The Crossing]]** *(second grade change)*
+The second grade change — the companion to the Reader's Turn, which was crossed alone. This one cannot be: what waits at the interval is a darkness to be faced, not a page to be turned.
 
 **[[Paper C7: The Inversion|Paper C7 — The Inversion]]**
 The closing note struck in the minor — the one silence the Host kept (the tyrants, left unsaid) given a voice, not to seat the inverters among the witnesses but to study what they are: the Good, the True, and the Beautiful turned against themselves. The door into the Inversion.
