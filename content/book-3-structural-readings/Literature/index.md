@@ -25,6 +25,8 @@ Structural readings of literary works through the Concordius framework.
 - [[Herodotus — The Histories|Herodotus — The Histories (c. 430 BC)]]
 - [[Valmiki — The Ramayana|Valmiki — The Ramayana (anc.)]]
 - [[Euripides — The Bacchae|Euripides — The Bacchae (405 BC)]]
+- [[Hesiod — Theogony|Hesiod — Theogony (c. 700 BC)]]
+- [[Thucydides — History of the Peloponnesian War|Thucydides — History of the Peloponnesian War (c. 400 BC)]]
 - [[Dante — The Divine Comedy|Dante — The Divine Comedy (1320)]]
 - [[Augustine — Confessions|Augustine — Confessions (397–400)]]
 - [[Shakespeare's Sonnets/index|Shakespeare's Sonnets]]

@@ -1,0 +1,13 @@
+# A Structural Reading of Julius Caesar
+
+*Caesar is read here for the single act that made his name a word for absolute rule in two later languages (Kaiser, Tsar): the crossing of the Rubicon — the general who, forbidden by law to bring his army into Italy, brought it anyway, "the die is cast," and ended five hundred years of the Roman Republic. He is the structural study of a supreme gift that will not submit itself to any order above its own will, and of the assassination that answered it.*
+
+---
+
+Caesar's abilities were vast and the framework grants them: among the finest generals of any age, a writer of austere clarity, a reformer of genuine vision (the calendar that, lightly adjusted, still governs our years). The structural pivot is the Rubicon. The Republic's whole order rested on the principle that even the greatest man submits to the law — lays down his command at the boundary, subordinates his will to the shared frame. Caesar, at the moment of choice, would not: he placed his own judgement and his own dignity above the order that had made him, and crossed. The framework reads this as the inversion's exact move at the scale of a state — a part, however magnificent, refusing the whole and making itself the centre — the same structure Sophocles' Creon enacts and the corpus places at the root of pride.
+
+The assassination is the structural answer, and a tragic one. The conspirators killed him in the name of the Republic, the order he had usurped — but the Republic was already dead, and his murder bought not its restoration but a worse round of civil war ending in the open monarchy of his heir. The framework reads the whole arc as the lesson that a supreme will placed above the common order cannot simply be removed once it has broken the frame: the inversion, at that scale, does not reverse by the death of the man. Caesar dead became *Caesar* the title, the divine emperor — the thing his killers most feared, installed for good. The Ides of March is the part's seizure of the whole completed by the very blow meant to undo it.
+
+*Confidence: concordance — the Rubicon read as the will refusing the order above it, the assassination as the inversion not reversible by removing the man; the genuine gifts named. Messenger: Caesar survives partly in his own hand (the Commentaries — a general's self-account, shaped for Rome) and partly through Suetonius and Plutarch; the filters are a politician's and his biographers'.*
+
+*(Cross-reference: [[Literature/Sophocles — Antigone|Sophocles — Antigone]] (the part that puts itself where the whole belongs); [[Lives/Cicero|Cicero]] (who tried to save the Republic from him); [[Paper D7: Evil]] on inversion.)*

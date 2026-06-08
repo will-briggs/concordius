@@ -58,7 +58,13 @@ These are not biographies and not appraisals. A Life reading does not rank the f
 - [[Lives/Pericles|Pericles]] — *the life* (the civic trellis; the Funeral Oration)
 - Euripides → [[Literature/Euripides — The Bacchae|The Bacchae]] *(work)*
 - Lucretius → [[Philosophy/Lucretius — De Rerum Natura|De Rerum Natura]] *(work)*
-- Moses, David, Solomon, Isaiah, Jeremiah, Ezekiel → [[Paper A3: The Word Made Flesh]] *(read in the OT octave)*
+- [[Lives/Cyrus the Great|Cyrus the Great]] — *the life* (tolerant empire; the LORD's anointed)
+- [[Lives/Alexander the Great|Alexander the Great]] — *the life* (the empty summit of conquest)
+- [[Lives/Julius Caesar|Julius Caesar]] — *the life* (the Rubicon; the will above the order)
+- [[Lives/Eratosthenes|Eratosthenes]] — *the life* (the Earth measured from two shadows)
+- Thucydides → [[Literature/Thucydides — History of the Peloponnesian War|History of the Peloponnesian War]] *(work)*
+- Hesiod → [[Literature/Hesiod — Theogony|Theogony]] *(work)*
+- Moses, David, Solomon, Isaiah, Jeremiah, Ezekiel, Daniel → [[Paper A3: The Word Made Flesh]] *(read in the OT octave)*
 - Lao Tzu → [[Sacred Texts/The Tao Te Ching|Tao Te Ching]] *(work already read)*
 
 ### Fa — The Post-Incarnation Synthesis

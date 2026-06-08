@@ -78,6 +78,8 @@ Readings across both testaments, organized by book. The full biblical corpus (31
 [[Literature/Herodotus — The Histories|Herodotus — The Histories]]
 [[Literature/Valmiki — The Ramayana|Valmiki — The Ramayana]]
 [[Literature/Euripides — The Bacchae|Euripides — The Bacchae]]
+[[Literature/Hesiod — Theogony|Hesiod — Theogony]]
+[[Literature/Thucydides — History of the Peloponnesian War|Thucydides — The Peloponnesian War]]
 [[Literature/Dante — The Divine Comedy|Dante — The Divine Comedy]]
 [[Literature/Augustine — Confessions|Augustine — Confessions]]
 [[Literature/Atlas Shrugged|Rand — Atlas Shrugged]] ⊘
