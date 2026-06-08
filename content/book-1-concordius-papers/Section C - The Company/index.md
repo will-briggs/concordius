@@ -6,9 +6,7 @@ tags:
 
 # Section C — The Company
 
-*The Good (e₁), with the reading-method set out; the True (e₂, the Logos), read across three uncolludable witnesses; the Beautiful (e₃, ordered love), accuracy made sensible; the turn from the three generators to the three bivectors, the witnesses found already there; courage (e₁e₂), the rotation held against cost; temperance (e₁e₃), the just measure; diligence (e₂e₃), rightly-aimed labor bearing fruit; humility, the pseudoscalar that gathers the rest, and with it the whole human story as one cloud; the crossing no one faces alone, the darkness in the heart faced together; and the one silence the cloud kept — the tyrants, given a voice, struck in the minor.*
-
-*Papers C0–C7*
+*Papers C0–C7: The Good (e₁), with the reading-method set out; the True (e₂, the Logos), read across three uncolludable witnesses; the Beautiful (e₃, ordered love), accuracy made sensible; the turn from the three generators to the three bivectors, the witnesses found already there; courage (e₁e₂), the rotation held against cost; temperance (e₁e₃), the just measure; diligence (e₂e₃), rightly-aimed labor bearing fruit; humility, the pseudoscalar that gathers the rest, and with it the whole human story as one cloud; the crossing no one faces alone, the darkness in the heart faced together; and the one silence the cloud kept — the tyrants, given a voice, struck in the minor.*
 
 ---
 
