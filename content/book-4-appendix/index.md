@@ -25,7 +25,7 @@ A layman's ladder from numbers and arrows to the Gelfand triple the framework re
 [[Appendix B - Lexicon|Appendix B — Lexicon]]
 Formal definitions of the technical vocabulary used throughout the series, from Clifford algebra to Time to τ(D).
 
-[[Appendix C - Catalogue of Illustrations|Appendix C — Catalogue of Illustrations]]
+[[Appendix C - Catalogue: Illustrations & Quotations|Appendix C — Catalogue: Illustrations & Quotations]]
 A catalogue of the artworks reproduced across the corpus, generated from the figures actually in place, with the page each one appears on.
 
 [[Appendix D - Machine-readable Concordius Framework|Appendix D — Machine-readable Concordius Framework]]
