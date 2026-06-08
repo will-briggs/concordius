@@ -26,7 +26,15 @@ These are not biographies and not appraisals. A Life reading does not rank the f
 
 ### Mi — The Axial Age and the First Civilizations
 
-*(none yet)*
+- [[Lives/The Buddha|The Buddha]] — *the life* (the awakening; the Four Noble Truths)
+- [[Lives/Socrates|Socrates]] — *the life* (the examined life and the death)
+- [[Lives/Pythagoras|Pythagoras]] — *the life* (number as the substance of things)
+- [[Lives/Heraclitus — On Nature|Heraclitus — On Nature]] — *the work* (the logos)
+- [[Lives/Parmenides — On Nature|Parmenides — On Nature]] — *the work* (Being is one)
+- [[Lives/Homer — The Iliad and the Odyssey|Homer — The Iliad and the Odyssey]] — *the work* (wrath; the homeward return)
+- [[Lives/Confucius — The Analects|Confucius — The Analects]] — *the work* (the making of the junzi)
+- [[Lives/Euclid — The Elements|Euclid — The Elements]] — *the work* (the axiomatic method)
+- Lao Tzu → [[Sacred Texts/The Tao Te Ching|Tao Te Ching]] *(work already read)*
 
 ### Fa — The Post-Incarnation Synthesis
 
