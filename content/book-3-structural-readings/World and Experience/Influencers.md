@@ -3,7 +3,7 @@
 **Subject:** Influence as such — the celestial orbs of astrology, the "stars" of fame, the social-media "influencer" — read for what influence technically *is*, and for the one thing it is never: power
 **Medium:** Cultural phenomenon, lived experience, and the language itself
 **Series:** Book 3 — Structural Readings / World and Experience
-**Cross-references:** *Overdetermination Capture — The Geography of Hell* §6½–§6¾ (band-modulation; field vs. driver) [Structural Candidates]; Paper 3 (the one constitutive act); Paper 6 §§7–13 (the celestial sifting bodies); the *Predestination* reading (free will; no decisions at run-time); the *First Commandment* reading (no other constitutive ground); Paper 13½ §3 (the Thought Adjuster's non-overdetermining indwelling); Paper 6½ (the kenoses); [[World and Experience/Astrology|Astrology]] (the boundary — influence mistaken for force); Reasonablenessism Face B1
+**Cross-references:** *Overdetermination Capture — The Geography of Hell* §6½–§6¾ (band-modulation; field vs. driver) [Structural Candidates]; Paper 3 (the one constitutive act); Paper 6 §§7–13 (the celestial sifting bodies); the *Predestination* reading (free will; no decisions at run-time); the *First Commandment* reading (no other constitutive ground); Paper 13½ §3 (the Thought Adjuster's non-overdetermining indwelling); Paper 6½ (the kenoses); [[World and Experience/Astrology|Astrology]] (the boundary — influence mistaken for force); Reasonablenessism Face C1
 
 ---
 
@@ -43,6 +43,6 @@ And the structure defends itself. Any influence that mistakes itself for power �
 
 ---
 
-*(Confidence tier: structural derivation for the power/influence (constitutive/modulatory) distinction and the field-vs-driver criterion (*Overdetermination Capture* §6¾); concordance for the *influentia* etymology and the orb → star → influencer continuity — the language preserves the structural identity (Face B1); [Exploratory] for the screens-as-orbs / feed-as-envy-band application. That only God holds power, and declines to coerce the will, follows from the one constitutive act (Paper 3), the non-overdetermining Adjuster (Paper 13½ §3), and the resistibility of grace (the Predestination reading).)*
+*(Confidence tier: structural derivation for the power/influence (constitutive/modulatory) distinction and the field-vs-driver criterion (*Overdetermination Capture* §6¾); concordance for the *influentia* etymology and the orb → star → influencer continuity — the language preserves the structural identity (Face C1); [Exploratory] for the screens-as-orbs / feed-as-envy-band application. That only God holds power, and declines to coerce the will, follows from the one constitutive act (Paper 3), the non-overdetermining Adjuster (Paper 13½ §3), and the resistibility of grace (the Predestination reading).)*
 
 *τ(D): Priority A as cultural diagnosis. The continuity of the influencer role from the celestial orbs to the feed — carried in the unbroken word "influence" and the living identity "stars" — is a high-density convergence of language, astrology, and contemporary life on one structure: influence modulates, it never constitutes. The reading's edge is inoculatory: to name influence as influence is to recover the power of decision it was never able to take from you.*

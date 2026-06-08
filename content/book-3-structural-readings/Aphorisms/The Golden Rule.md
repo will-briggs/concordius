@@ -11,7 +11,7 @@ tags: [aphorism, agape, inner-product, lateral-expression, H₄₈, symmetry]
 
 ---
 
-The Golden Rule achieves the widest cross-traditional convergence of any moral formulation in the historical record. This is the Face B1 signal at maximum amplitude: every moral tradition that has left sufficient textual record independently arrives at the same structural claim. The question is what structure they are all independently tracking.
+The Golden Rule achieves the widest cross-traditional convergence of any moral formulation in the historical record. This is the Face C1 signal at maximum amplitude: every moral tradition that has left sufficient textual record independently arrives at the same structural claim. The question is what structure they are all independently tracking.
 
 ---
 
@@ -39,7 +39,7 @@ The Golden Rule achieves universal cross-traditional convergence because it is n
 
 *(Cross-reference: 1 Cor 13 — Paul's definition of agape: "Love does not seek its own" — the non-H₄₈-self-referential character of ⟨·,·⟩; the inner product does not privilege either element. Gal 3:28 — "neither Jew nor Greek, slave nor free, male nor female" — the agape condition's structural indifference to H₄₈ categorical distinctions; ⟨·,·⟩ does not discriminate by H₄₈ substrate properties. Epictetus, Enchiridion 1 ✶ — the Stoic *proairesis* as the locus of structural freedom: the Golden Rule operates at the *proairesis* level, not the H₄₈-outcome level. John 15:12 — "Love one another as I have loved you" — the ⟨·,·⟩-governed relational standard instantiated at the Son's H₄₈ level as the operational model.)*
 
-*(Confidence tier: Testimony-plus-structural concordance. The convergence across Confucian, Jewish, Christian, Islamic, Hindu, Buddhist, and Zoroastrian traditions — independently attested, with no plausible common textual derivation — is the most robust Face B1 signal in the entire collection of structural readings. The framework's account of agape as lateral ⟨·,·⟩ expression is confirmed by every tradition that has independently tracked the structure.)*
+*(Confidence tier: Testimony-plus-structural concordance. The convergence across Confucian, Jewish, Christian, Islamic, Hindu, Buddhist, and Zoroastrian traditions — independently attested, with no plausible common textual derivation — is the most robust Face C1 signal in the entire collection of structural readings. The framework's account of agape as lateral ⟨·,·⟩ expression is confirmed by every tradition that has independently tracked the structure.)*
 
 ---
 

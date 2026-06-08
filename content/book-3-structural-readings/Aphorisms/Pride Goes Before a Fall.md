@@ -39,7 +39,7 @@ In Islamic theology, *kibr* (pride/arrogance) is identified as the foundational 
 
 *(Cross-reference: Luke 14:11 — "For everyone who exalts himself will be humbled, and everyone who humbles himself will be exalted" — the structural claim that overdeterminate assertion resolves downward; accurate constraint-level self-placement eventually resolves upward (the ascending career). Isaiah 14:12-15 — "How you have fallen from heaven, morning star" — the Lucifer rebellion stated as the foundational instantiation of the structural pattern. Paper 3 (The Spirit Integrates) — kenosis as the correct downward operation; its negation is pride. Phil 2:5-8 — "Let this mind be in you which was also in Christ Jesus, who, being in the form of God, thought it not robbery to be equal with God, but made himself of no reputation" — the kenosis as the structural inverse of the Lucifer assertion.)*
 
-*(Confidence tier: Structural inference / concordance. The framework's overdeterminate condition is the structural mechanism of "pride before a fall" — the pride (constraint-level overclaim) produces the overdeterminate condition; the fall is its mechanical resolution. The convergence across Proverbs, Greek tragedy, Islamic theology, and Confucian ethics without common derivation is a Face B1 signal confirming the structural reading.)*
+*(Confidence tier: Structural inference / concordance. The framework's overdeterminate condition is the structural mechanism of "pride before a fall" — the pride (constraint-level overclaim) produces the overdeterminate condition; the fall is its mechanical resolution. The convergence across Proverbs, Greek tragedy, Islamic theology, and Confucian ethics without common derivation is a Face C1 signal confirming the structural reading.)*
 
 ---
 

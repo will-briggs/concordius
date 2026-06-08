@@ -3,7 +3,7 @@
 **Subject:** Gödel's first and second incompleteness theorems (1931)  
 **Field:** Mathematical logic; the foundations of mathematics  
 **Series:** Book 3 — Structural Readings / Science  
-**Cross-references:** Paper 8 (incompleteness derived from the Gelfand triple); Paper 1 (Φ exceeds any H₄₈-level description); the Si/Do interval (the gap a system cannot cross from within); Reasonablenessism Faces A0, A2, C1
+**Cross-references:** Paper 8 (incompleteness derived from the Gelfand triple); Paper 1 (Φ exceeds any H₄₈-level description); the Si/Do interval (the gap a system cannot cross from within); Reasonablenessism Faces A0, A2, B1
 
 ---
 
@@ -21,11 +21,11 @@ The second theorem is the sharper one for the framework. A consistent system can
 
 ## 4. What It Does and Doesn't Say
 
-The boundary, marked plainly (Face C1). Gödel's theorems are about formal systems; they do not, by themselves, prove the existence of Φ, or of God, or of anything beyond mathematics — and the framework would be counterfeiting if it claimed they did. What they establish is narrower and, for the scientific reader, more disarming: that the dream of a closed, self-certifying, self-sufficient formal account of everything is not merely unachieved but provably impossible. The materialist-formalist hope — that reality is, at bottom, a complete system that contains its own justification — is refuted not by a mystic but by the most rigorous logician of the century, on the system's own ground. The framework adds only the reading: the place the system cannot reach from within is not empty. It is where truth keeps going. Gödel proved the door is there. He did not, and the framework does not pretend he did, prove what is on the other side — only that the system cannot shut it.
+The boundary, marked plainly (Face B1). Gödel's theorems are about formal systems; they do not, by themselves, prove the existence of Φ, or of God, or of anything beyond mathematics — and the framework would be counterfeiting if it claimed they did. What they establish is narrower and, for the scientific reader, more disarming: that the dream of a closed, self-certifying, self-sufficient formal account of everything is not merely unachieved but provably impossible. The materialist-formalist hope — that reality is, at bottom, a complete system that contains its own justification — is refuted not by a mystic but by the most rigorous logician of the century, on the system's own ground. The framework adds only the reading: the place the system cannot reach from within is not empty. It is where truth keeps going. Gödel proved the door is there. He did not, and the framework does not pretend he did, prove what is on the other side — only that the system cannot shut it.
 
 ---
 
-*(Cross-reference: Paper 8 — the structural derivation of incompleteness from the Gelfand triple, of which this reading is the popular face; truth (Φ) versus provability (H₄₈ closure). Paper 1 — Φ as exceeding any H₄₈-level formalization. The Si/Do interval / the Postscript — the gap a system cannot cross from within, here in formal-logical form. Face A2 (the self-sealing test) — consistency as the one thing the system most needs and least can supply; Face C1 — the boundary between what Gödel proves and what the framework reads.)*
+*(Cross-reference: Paper 8 — the structural derivation of incompleteness from the Gelfand triple, of which this reading is the popular face; truth (Φ) versus provability (H₄₈ closure). Paper 1 — Φ as exceeding any H₄₈-level formalization. The Si/Do interval / the Postscript — the gap a system cannot cross from within, here in formal-logical form. Face A2 (the self-sealing test) — consistency as the one thing the system most needs and least can supply; Face B1 — the boundary between what Gödel proves and what the framework reads.)*
 
 *(Confidence tier: Concordance with an explicit boundary. The identification of provability with H₄₈ closure and truth with Φ-proximity is developed rigorously in Paper 8; the theorems are not contested but read. The reading asserts nothing Gödel's results don't license, and marks the line where structural reading begins and mathematical proof ends.)*
 

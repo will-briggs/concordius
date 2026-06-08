@@ -157,7 +157,7 @@ The seven-level structure appears in traditions that could not have derived it f
 
 Seven independent sources. Six distinct cultural and temporal contexts. No traceable common derivation. All arrive at seven levels. All describe the organizational character of each level in ways that are structurally consonant with the framework's account.
 
-Face B1 (Independent Convergence Accumulates): when multiple independent witnesses arrive at the same structural description by different methods, in different traditions, with no knowledge of each other, the convergence is evidence of contact with the same reality. At the level of detail and precision demonstrated here — not just "seven levels" but consistent organizational characterization at each level — the convergence is among the strongest available in the structural readings collection.
+Face C1 (Independent Convergence Accumulates): when multiple independent witnesses arrive at the same structural description by different methods, in different traditions, with no knowledge of each other, the convergence is evidence of contact with the same reality. At the level of detail and precision demonstrated here — not just "seven levels" but consistent organizational characterization at each level — the convergence is among the strongest available in the structural readings collection.
 
 The framework does not derive the seven levels from the traditions. It derives them from the mathematics of the Gelfand triple and the constraint compatibility condition. The traditions arrive there independently. The mathematical derivation and the cross-tradition testimony are two independent witnesses to the same structural fact.
 

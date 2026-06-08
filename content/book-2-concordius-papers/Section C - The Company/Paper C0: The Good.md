@@ -6,7 +6,7 @@
 
 *The Good — e₁, the constitutive ground itself, ⟨·,·⟩ read as the source from which all organization derives and toward which the only fit response is gratitude — the first of the three transcendentals, present across three witnesses who could not have arranged their agreement: a Greek philosopher (Plato's Form of the Good "beyond being"), a Florentine painter (the gap in the Creation of Adam), and the oldest book of the Chinese (the nameless Tao).*
 
-**Confidence —** *Math:* **— (not engaged)** beyond naming the element — e₁ = ⟨·,·⟩ is taken from the algebra; no new mathematics. *Science:* **— (not engaged)**. *Theology:* **concordance** — the reading (the Good = the constitutive ground, e₁ = ⟨·,·⟩; native virtue gratitude) across three uncolludable witnesses (Face B1), each graded honestly: two clean catches (Plato; the Tao Te Ching) and one supplied inference (the Creation of Adam). The convergence of independent witnesses is the evidential mechanism, offered as weight, not proof.
+**Confidence —** *Math:* **— (not engaged)** beyond naming the element — e₁ = ⟨·,·⟩ is taken from the algebra; no new mathematics. *Science:* **— (not engaged)**. *Theology:* **concordance** — the reading (the Good = the constitutive ground, e₁ = ⟨·,·⟩; native virtue gratitude) across three uncolludable witnesses (Face C1), each graded honestly: two clean catches (Plato; the Tao Te Ching) and one supplied inference (the Creation of Adam). The convergence of independent witnesses is the evidential mechanism, offered as weight, not proof.
 
 ---
 

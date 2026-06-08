@@ -1,6 +1,6 @@
-*← [[Face B0: Personal Experience as Testimony|Face B0: Personal Experience as Testimony]]*
+*← [[Face C0: Personal Experience as Testimony|Face C0: Personal Experience as Testimony]]*
 
-# Face B1: Convergence of Independent Witnesses
+# Face C1: Convergence of Independent Witnesses
 
 ---
 
@@ -45,4 +45,4 @@ Equivalently the independent log-likelihoods add, ℓ = Σ Δℓ_i, so posterior
 
 ---
 
-*[[Face B2: Universal Subjective Convergence Implies Objectivity|Face B2: Universal Subjective Convergence Implies Objectivity]] →*
+*[[Face C2: Universal Subjective Convergence Implies Objectivity|Face C2: Universal Subjective Convergence Implies Objectivity]] →*

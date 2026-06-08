@@ -147,10 +147,10 @@ title: "Appendix C - Catalogue: Illustrations & Quotations"
 **Face A0: No Source Is Axiom**
 - *Johannes Vermeer, Woman Holding a Balance* (c. 1664) &nbsp;·&nbsp; `feature-01-vermeer-balance.jpg`
 
-**Face B3: The Steelman Is the Test**
+**Face C3: The Steelman Is the Test**
 - *Diego Velázquez, The Forge of Vulcan* (1630) &nbsp;·&nbsp; `feature-02-forge-of-vulcan.jpg`
 
-**Face B0: Personal Experience as Testimony**
+**Face C0: Personal Experience as Testimony**
 - *Caravaggio, The Incredulity of Saint Thomas* (c. 1601–2) &nbsp;·&nbsp; `feature-03-incredulity-of-thomas.jpg`
 
 **Face D0: The Stance Applies to Itself**
@@ -159,22 +159,22 @@ title: "Appendix C - Catalogue: Illustrations & Quotations"
 **Face A1: Provenance Is Irrelevant to Truth-Value**
 - *Quentin Matsys, The Moneylender and His Wife* (1514) &nbsp;·&nbsp; `feature-05-moneylender.jpg`
 
-**Face B1: Convergence of Independent Witnesses**
+**Face C1: Convergence of Independent Witnesses**
 - *El Greco, The Pentecost* (c. 1600) &nbsp;·&nbsp; `feature-06-pentecost.jpg`
 
 **Face A2: The Self-Sealing Test**
 - *Ouroboros* &nbsp;·&nbsp; `feature-07-ouroboros.png`
 
-**Face B2: Universal Subjective Convergence Implies Objectivity**
+**Face C2: Universal Subjective Convergence Implies Objectivity**
 - *Joseph Wright of Derby, An Experiment on a Bird in the Air Pump* (1768) &nbsp;·&nbsp; `feature-08-air-pump.jpg`
 
-**Face C0: Explicit Confidence Tiers**
+**Face B0: Explicit Confidence Tiers**
 - *The Great Chain of Being* (1579) &nbsp;·&nbsp; `feature-09-great-chain-of-being.png`
 
-**Face C1: Logic Where It Reaches; Concordance Where It Doesn't**
+**Face B1: Logic Where It Reaches; Concordance Where It Doesn't**
 - *Olaus Magnus, Carta Marina* (1539) &nbsp;·&nbsp; `feature-10-carta-marina.jpg`
 
-**Face C2: Minimum Necessary Miracles**
+**Face B2: Minimum Necessary Miracles**
 - *William of Ockham* (1341) &nbsp;·&nbsp; `feature-11-william-of-ockham.jpg`
 
 **Face D1: Fruit, Not Lineage**
@@ -337,7 +337,7 @@ title: "Appendix C - Catalogue: Illustrations & Quotations"
 **1 Corinthians 8:2** · *Paper F2: The Ceiling*
 > And if any man think that he knoweth any thing, he knoweth nothing yet as he ought to know.
 
-**2 Corinthians 13:1** · *Feature B — The Witnesses*
+**2 Corinthians 13:1** · *Feature C — The Witnesses*
 > In the mouth of two or three witnesses every word may be established.
 
 **2 Corinthians 13:1** · *Section C — The Company*
@@ -586,7 +586,7 @@ title: "Appendix C - Catalogue: Illustrations & Quotations"
 **1 Thessalonians 5:21** · *Section B — The Inheritance*
 > Prove all things; hold fast that which is good.
 
-**Ludwig Wittgenstein**, *Tractatus 7* · *Feature C — The Boundary*
+**Ludwig Wittgenstein**, *Tractatus 7* · *Feature B — The Boundary*
 > Whereof one cannot speak, thereof one must be silent.
 
 **Wittgenstein**, *A Lecture on Ethics (1929)* · **

@@ -10,6 +10,6 @@
 
 The famous self-account — "at fifteen I set my heart on learning… at seventy I could follow what my heart desired without overstepping the line" — is one of the clearest descriptions of the whole ascending career on record: the decades-long building of a self until right action is no longer a constraint imposed on appetite but the very shape of appetite — Man 5 and beyond, the deposit crystallised, the virtue become the self rather than its discipline. And the Silver Rule — "do not impose on others what you do not desire" — is the inner product stated as a maxim, the same structure as the Golden Rule reached by an independent tradition.
 
-*Confidence: concordance — ren as lateral ⟨·,·⟩, li as noise-floor discipline, the seventy-years saying as the ascending career; strong convergence with Section G (Face B1). Messenger: the Analects were compiled by disciples over generations; the voice is the school's memory of the master, already filtered.*
+*Confidence: concordance — ren as lateral ⟨·,·⟩, li as noise-floor discipline, the seventy-years saying as the ascending career; strong convergence with Section G (Face C1). Messenger: the Analects were compiled by disciples over generations; the voice is the school's memory of the master, already filtered.*
 
 *(Cross-reference: [[Aphorisms/The Golden Rule]]; [[Paper G0: The Good-Centered Man]] and the Section G practice; [[Sacred Texts/The Tao Te Ching|Lao Tzu]], the complementary Chinese witness.)*

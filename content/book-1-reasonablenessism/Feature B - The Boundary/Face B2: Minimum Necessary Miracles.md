@@ -1,6 +1,6 @@
-*← [[Face C1: Logic Where It Reaches; Concordance Where It Doesn't|Face C1: Logic Where It Reaches; Concordance Where It Doesn't]]*
+*← [[Face B1: Logic Where It Reaches; Concordance Where It Doesn't|Face B1: Logic Where It Reaches; Concordance Where It Doesn't]]*
 
-# Face C2: Minimum Necessary Miracles
+# Face B2: Minimum Necessary Miracles
 
 ---
 
@@ -45,4 +45,4 @@ This isn't naivety. You're not forbidden from considering the more complex expla
 
 ---
 
-*[[Face C3: Coherence|Face C3: Coherence]] →*
+*[[Face B3: Coherence|Face B3: Coherence]] →*

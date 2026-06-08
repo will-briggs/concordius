@@ -1,4 +1,4 @@
-# Face C3: Coherence
+# Face B3: Coherence
 
 ---
 
@@ -29,7 +29,7 @@ You believe two things that have never been in the same room — a principle you
 
 ## Formal Statement (Concordius Framework)
 
-The deductive closure Cl(𝒫) of one's primitives (see [[Feature C - The Boundary/Face C1: Logic Where It Reaches; Concordance Where It Doesn't|C1]]) must be **consistent**: there is no claim C with both C and ¬C in Cl(𝒫). The requirement is not optional, because of *ex falso quodlibet* — from a contradiction, every proposition is derivable, so an inconsistent closure satisfies Cl(𝒫) = the whole language. Warrant-typing (C0) then collapses: every claim becomes trivially "deductive," and the distinction between derived, inferred, and posited — the entire point of the Boundary — is destroyed. Coherence is therefore the precondition of the Boundary's other three faces, not a peer to them. It is the **CONTRADICTION** check of the corpus's own TruthChecker raised to a feature, and it recurs at the meta-level in the Mirror: the self-application ([[Feature D - The Mirror/Face D0: The Stance Applies to Itself|D0]]) must itself be consistent.
+The deductive closure Cl(𝒫) of one's primitives (see [[Feature B - The Boundary/Face B1: Logic Where It Reaches; Concordance Where It Doesn't|B1]]) must be **consistent**: there is no claim C with both C and ¬C in Cl(𝒫). The requirement is not optional, because of *ex falso quodlibet* — from a contradiction, every proposition is derivable, so an inconsistent closure satisfies Cl(𝒫) = the whole language. Warrant-typing (C0) then collapses: every claim becomes trivially "deductive," and the distinction between derived, inferred, and posited — the entire point of the Boundary — is destroyed. Coherence is therefore the precondition of the Boundary's other three faces, not a peer to them. It is the **CONTRADICTION** check of the corpus's own TruthChecker raised to a feature, and it recurs at the meta-level in the Mirror: the self-application ([[Feature D - The Mirror/Face D0: The Stance Applies to Itself|D0]]) must itself be consistent.
 
 *Tier: **derivation** — ex falso is theorem-grade; coherence is the consistency requirement without which the typed closure is meaningless.*
 

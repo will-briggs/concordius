@@ -69,19 +69,19 @@ Each feature is a folder; each holds four faces. Twelve of the sixteen faces are
 *What a claim is worth, and the limits of worth — the truth-measure τ and its range.*
 [[Face A0: No Source Is Axiom|A0 · No Source Is Axiom]] · [[Face A1: Provenance Is Irrelevant to Truth-Value|A1 · Provenance Is Irrelevant]] · [[Face A2: The Self-Sealing Test|A2 · The Self-Sealing Test]] · [[Face A3: Counterfeit-Proximity|A3 · Counterfeit-Proximity]]
 
-### [[Feature B - The Witnesses/index|Feature B — The Witnesses]]
-*How independent evidence combines — one witness, many, all, and the worst case.*
-[[Face B0: Personal Experience as Testimony|B0 · Personal Experience as Testimony]] · [[Face B1: Convergence of Independent Witnesses|B1 · Convergence of Independent Witnesses]] · [[Face B2: Universal Subjective Convergence Implies Objectivity|B2 · Universal Subjective Convergence]] · [[Face B3: The Steelman Is the Test|B3 · The Steelman Is the Test]]
-
-### [[Feature C - The Boundary/index|Feature C — The Boundary]]
+### [[Feature B - The Boundary/index|Feature B — The Boundary]]
 *Derivation, its types, where it stops — and the consistency without which the closure collapses.*
-[[Face C0: Explicit Confidence Tiers|C0 · Explicit Confidence Tiers]] · [[Face C1: Logic Where It Reaches; Concordance Where It Doesn't|C1 · Logic Where It Reaches]] · [[Face C2: Minimum Necessary Miracles|C2 · Minimum Necessary Miracles]] · [[Face C3: Coherence|C3 · Coherence]]
+[[Face B0: Explicit Confidence Tiers|B0 · Explicit Confidence Tiers]] · [[Face B1: Logic Where It Reaches; Concordance Where It Doesn't|B1 · Logic Where It Reaches]] · [[Face B2: Minimum Necessary Miracles|B2 · Minimum Necessary Miracles]] · [[Face B3: Coherence|B3 · Coherence]]
+
+### [[Feature C - The Witnesses/index|Feature C — The Witnesses]]
+*How independent evidence combines — one witness, many, all, and the worst case.*
+[[Face C0: Personal Experience as Testimony|C0 · Personal Experience as Testimony]] · [[Face C1: Convergence of Independent Witnesses|C1 · Convergence of Independent Witnesses]] · [[Face C2: Universal Subjective Convergence Implies Objectivity|C2 · Universal Subjective Convergence]] · [[Face C3: The Steelman Is the Test|C3 · The Steelman Is the Test]]
 
 ### [[Feature D - The Mirror/index|Feature D — The Mirror]]
 *The stance turned on itself — consistent, self-sustaining, self-similar, and honest about its limit.*
 [[Face D0: The Stance Applies to Itself|D0 · The Stance Applies to Itself]] · [[Face D1: Fruit, Not Lineage|D1 · Fruit, Not Lineage]] · [[Face D2: The Whole in the Part|D2 · The Whole in the Part]] · [[Face D3: The Self-Limit|D3 · The Self-Limit]]
 
-*Why four, and why these. Each object constrains one part of the measure τ: the **Measure** its domain and range; the **Witnesses** how it updates on evidence; the **Boundary** the type of warrant and the edge of derivation; the **Mirror** the measure applied to itself. The Law of Three still governs at this level — the Measure is bounded reception (Passive), the Witnesses are accumulating evidence (Active), the Boundary and the Mirror are the mediating, self-consistent reconciliation — but the honest partition is by object, not by the even thirds the twelve were first sorted into. Three of the four objects come to four faces naturally; the fourth (the Mirror) has two firm faces and two that complete the pattern, and that asymmetry is named rather than hidden.*
+*Why four, and why these. Each object constrains one part of the measure τ: the **Measure** its domain and range; the **Boundary** the type of warrant and the edge of derivation; the **Witnesses** how it updates on evidence; the **Mirror** the measure applied to itself. The Law of Three still governs at this level — the Measure is bounded reception (Passive), the Witnesses are accumulating evidence (Active), the Boundary and the Mirror are the mediating, self-consistent reconciliation — but the honest partition is by object, not by the even thirds the twelve were first sorted into. Three of the four objects come to four faces naturally; the fourth (the Mirror) has two firm faces and two that complete the pattern, and that asymmetry is named rather than hidden.*
 
 ## What This Requires
 
@@ -112,8 +112,8 @@ That is Reasonablenessism. It is how the material is approached. It is how a lif
 ### In Concordius (primary application)
 
 The three core applications:
-1. **No text is axiom; all are evidence** — every source introduced as an independent witness, not a proof text *(Faces A0, B1, C1)*
-2. **Universal subjectivity implies objectivity** — the consciousness-preeminence argument of S1E2 rests on the cogito's unrivaled consistency *(Face B2)*
+1. **No text is axiom; all are evidence** — every source introduced as an independent witness, not a proof text *(Faces A0, C1, B1)*
+2. **Universal subjectivity implies objectivity** — the consciousness-preeminence argument of S1E2 rests on the cogito's unrivaled consistency *(Face C2)*
 3. **Believe on evidence, not provenance** — applied at every major source introduction *(Faces A1, D1)*
 
 The series is itself an extended demonstration of Reasonablenessism applied to the largest available questions. Reasonablenessism is the epistemological frame from which the series operates; Paper 18 is the structural reading of Reasonablenessism within the Concordius framework.
@@ -127,20 +127,20 @@ The series is itself an extended demonstration of Reasonablenessism applied to t
 **On Face A2 (self-sealing test):**
 The self-sealing test identifies a category of claims, but does it over-generate? Is there a self-sealing argument for positions that should not approach axiom status? The provisional response: a genuine self-sealing claim is one where *every possible denial* performs what it denies — not just some clever framing of the denial. Test this carefully for each candidate claim before elevating it.
 
-**On Face B2 (universal subjectivity as grounds for inferring objectivity):**
-The original statement was overstated and has been corrected. The remaining boundary question: how similar, and how broadly convergent, before the inference becomes strong? The cogito is near-maximal — bare self-awareness confirmed without known exception, structurally the same across all subjects. Most inner experiences fall well short of this. The discipline is to evaluate each candidate claim on its actual convergence data, not to assume that "I feel this strongly" extends to the universal register. Face B2 is a meter for measuring evidential weight, not a blanket license for treating inner experience as objective.
+**On Face C2 (universal subjectivity as grounds for inferring objectivity):**
+The original statement was overstated and has been corrected. The remaining boundary question: how similar, and how broadly convergent, before the inference becomes strong? The cogito is near-maximal — bare self-awareness confirmed without known exception, structurally the same across all subjects. Most inner experiences fall well short of this. The discipline is to evaluate each candidate claim on its actual convergence data, not to assume that "I feel this strongly" extends to the universal register. Face C2 is a meter for measuring evidential weight, not a blanket license for treating inner experience as objective.
 
-**On Face B0 (personal experience as testimony):**
+**On Face C0 (personal experience as testimony):**
 What is the right weight for personal experience that has been tested — where the person has actively sought disconfirmation and not found it? The distinction between *anecdotal* personal testimony and *practiced, scrutinized* personal testimony is worth developing. Scrutinized personal testimony seems to deserve meaningfully more weight.
 
 **On Face D0 (self-referential application) — the regress question:**
 If Reasonablenessism applies to itself, does Face D0 apply to itself? Yes — and this is not a vicious regress. The regress terminates because each application of Face D0 to itself yields the same result: the requirement is justified. Face D0 is not self-sealing in the strong sense — it is possible to deny Face D0 without performing a self-contradiction. But it is self-*consistent*: applying it to itself produces a stable fixed point.
 
 **On the confidence tiers taxonomy:**
-Concordius uses three tiers for scientific concordance. The full epistemology needs a general taxonomy distinguishing: (a) logical derivation — near-axiomatic, approaches Face A2 territory; (b) cross-traditional structural convergence among non-colluding independent witnesses — strong, calibrated to independence and breadth; (c) historical testimony — moderate, calibrated to proximity, corroboration, and motive to deceive; (d) single-tradition testimony — weak unless internally consistent and corroborated; (e) untested personal testimony — lowest, flagged per Face B0; (f) scrutinized personal testimony — higher than untested, still below (c). These are different in kind, not just degree.
+Concordius uses three tiers for scientific concordance. The full epistemology needs a general taxonomy distinguishing: (a) logical derivation — near-axiomatic, approaches Face A2 territory; (b) cross-traditional structural convergence among non-colluding independent witnesses — strong, calibrated to independence and breadth; (c) historical testimony — moderate, calibrated to proximity, corroboration, and motive to deceive; (d) single-tradition testimony — weak unless internally consistent and corroborated; (e) untested personal testimony — lowest, flagged per Face C0; (f) scrutinized personal testimony — higher than untested, still below (c). These are different in kind, not just degree.
 
-**On the weighting scheme for Faces B1 and C2 together:**
-Face B1 (convergence) and Face C2 (minimum necessary miracles) can pull in opposite directions: an account requiring one miracle but confirmed by multiple independent witnesses may be preferable to a miracle-free account with no independent support. The features are both evidential weights on the same scale, but without an explicit weighting scheme the comparison is imprecise. A candidate resolution: Face B1 weight is multiplicative (each genuinely independent witness multiplies evidential weight); Face C2 weight is subtractive (each additional required unexplained event reduces confidence by a fixed factor). Whether these are commensurable is the question to resolve.
+**On the weighting scheme for Faces C1 and B2 together:**
+Face C1 (convergence) and Face B2 (minimum necessary miracles) can pull in opposite directions: an account requiring one miracle but confirmed by multiple independent witnesses may be preferable to a miracle-free account with no independent support. The features are both evidential weights on the same scale, but without an explicit weighting scheme the comparison is imprecise. A candidate resolution: Face C1 weight is multiplicative (each genuinely independent witness multiplies evidential weight); Face B2 weight is subtractive (each additional required unexplained event reduces confidence by a fixed factor). Whether these are commensurable is the question to resolve.
 
 **On the name:**
 Reasonablenessism is accurate but inelegant. The -ism suffix implies a school, which is correct in one sense and potentially misleading in another. The stance is not a school you join — it's a description of how you already think when you're thinking well. Alternative framings considered and rejected: *critical realism* (already a technical term with specific commitments), *evidentialism* (too closely associated with specific debates in religious epistemology), *fallibilism* (Peirce's term, captures only part of it). Reasonablenessism it is.
@@ -151,15 +151,15 @@ Reasonablenessism is accurate but inelegant. The -ism suffix implies a school, w
 
 These thinkers arrived at parts of Reasonablenessism by independent routes. None names the full stance, but each contributes to it.
 
-- **Charles Sanders Peirce** — abduction (inference to the best explanation); truth as the long-run limit of inquiry; fallibilism; the community of inquirers as the corrective mechanism. Closest predecessor to Face B1 (convergence) and Face B3 (steelman as test). Didn't extend it to non-scientific domains with enough seriousness.
+- **Charles Sanders Peirce** — abduction (inference to the best explanation); truth as the long-run limit of inquiry; fallibilism; the community of inquirers as the corrective mechanism. Closest predecessor to Face C1 (convergence) and Face C3 (steelman as test). Didn't extend it to non-scientific domains with enough seriousness.
 - **William James** — pragmatism is a partial approach that Reasonablenessism corrects; James was right that "live hypotheses" deserve live evaluation regardless of institutional credentialing; wrong to reduce truth to utility. The deeper failure: pragmatism applies at finite timescales and cannot reach the scales of Infinity and Eternity at which Truth actually operates. The corrective is to separate James's genuine contribution — evidential openness — from his theory of truth.
-- **John Henry Newman** — the "illative sense" in *A Grammar of Assent*: cumulative, informal reasoning toward certainty across domains that formal logic cannot reach. Faces B1 and C1 in particular. He remained inside Catholic authority structures, which limited his application of Face A1.
-- **Michael Polanyi** — tacit knowledge; the knower is always already involved; "we know more than we can tell." Closest to Faces B2 and B0. Personal knowledge as epistemic rather than merely psychological.
+- **John Henry Newman** — the "illative sense" in *A Grammar of Assent*: cumulative, informal reasoning toward certainty across domains that formal logic cannot reach. Faces C1 and B1 in particular. He remained inside Catholic authority structures, which limited his application of Face A1.
+- **Michael Polanyi** — tacit knowledge; the knower is always already involved; "we know more than we can tell." Closest to Faces C2 and C0. Personal knowledge as epistemic rather than merely psychological.
 - **G.K. Chesterton** — Faces A1 and D1 practiced as literary method; evaluated orthodoxy on its fruit and its survival of the steelman. *Orthodoxy* is informal Reasonablenessism applied to one specific body of doctrine.
-- **Karl Popper** — the falsifiability criterion as a partial version of Face B3; the steelman as the test. Too narrowly applied (only to empirical science) and too dismissive of domains where controlled falsification is unavailable.
+- **Karl Popper** — the falsifiability criterion as a partial version of Face C3; the steelman as the test. Too narrowly applied (only to empirical science) and too dismissive of domains where controlled falsification is unavailable.
 - **Nassim Taleb** — Face D1 (evaluate by results, not credentials) and Face A1 (skin in the game as epistemic corrective to institutional authority). The via negativa. Doesn't have a positive epistemology for the domains Reasonablenessism addresses.
-- **Gurdjieff** — explicit confidence tiers (Face C0) practiced as pedagogical method: never give the student the answer in the register they're expecting; distinguish what you know from what you're working on. The epistemological discipline embedded in the method of the Fourth Way.
-- **Wittgenstein (*Tractatus* → *Investigations*)** — the boundary between what can be said and what cannot (Face C1 at its sharpest); the transition from derivation to acknowledgment; the late work's insistence on evaluating language by its use rather than its form (Face D1 applied to philosophy itself).
+- **Gurdjieff** — explicit confidence tiers (Face B0) practiced as pedagogical method: never give the student the answer in the register they're expecting; distinguish what you know from what you're working on. The epistemological discipline embedded in the method of the Fourth Way.
+- **Wittgenstein (*Tractatus* → *Investigations*)** — the boundary between what can be said and what cannot (Face B1 at its sharpest); the transition from derivation to acknowledgment; the late work's insistence on evaluating language by its use rather than its form (Face D1 applied to philosophy itself).
 
 ---
 
@@ -170,8 +170,8 @@ These thinkers arrived at parts of Reasonablenessism by independent routes. None
 **May 2026 — Features separated into individual files**
 The preamble content (The Problem, The Epistemic Agent, What This Requires, Why It Matters) and the feature index now live in this file. Each of the twelve features lives in its own file in four registers: succinct principle, brief description, full uninitiated argument, and Concordius structural grounding.
 
-**May 2026 — Face B2 corrected**
-The original statement of Face B2 ("Objectivity is universal subjectivity") was an identity claim — it collapsed the distinction rather than describing the evidential relationship between the two. The correct claim is inferential: universal or near-universal similarly-experienced subjectivity *implies* objectivity. This correction is itself an example of the stance in operation: applied to its own formulations, it catches overstatement and brings the claim back within its actual warrant.
+**May 2026 — Face C2 corrected**
+The original statement of Face C2 ("Objectivity is universal subjectivity") was an identity claim — it collapsed the distinction rather than describing the evidential relationship between the two. The correct claim is inferential: universal or near-universal similarly-experienced subjectivity *implies* objectivity. This correction is itself an example of the stance in operation: applied to its own formulations, it catches overstatement and brings the claim back within its actual warrant.
 
 **May 2026 — Initial project creation**
 The 12 features have been stable for some time in the Concordius context. The project here is to ask: what does Reasonablenessism look like *as a way of living*, not just as a method for evaluating theological cosmology? The daily-life applications section above is the beginning of that inquiry. The open questions section is where the stance itself needs more development. Both will grow.

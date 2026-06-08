@@ -31,7 +31,7 @@ By its fruit (Face D1), the test is the force/influence line itself. Held as *th
 
 There is a third thing to say, past *real* and *not-forcing*: the malefic influence **wanes**. The bias has two sources, and only one decays. The **structural correspondence** — the HCP imprint, "as above, so below" (Paper 10½) — is permanent; the cascade's organization does not fade. But the **malefic** register — the elevated bias a *fallen* body carries, a contained, will-maintained δ lodged in its gravity well (Structural Candidates, *Overdetermination Capture* §6) — is temporary: it relaxes as the rebellion is worked out toward the terminal adjudication. So the precise prediction is not "astrology fades" but that its *malefic* component thins over time while the structural correspondence persists. The medieval practitioners were not crediting nothing; they were reading a **stronger environment** than ours.
 
-*Discipline:* held at the eschatological reach (Face C1), and near-unfalsifiable on its own — we cannot measure a past century's coupling strength, and declining *belief* is not declining *effect* (Face A2, the self-sealing test). The decay follows from the mechanism (a will-maintained δ decays); the mechanism is the evidence, not an independent measurement. [Exploratory].
+*Discipline:* held at the eschatological reach (Face B1), and near-unfalsifiable on its own — we cannot measure a past century's coupling strength, and declining *belief* is not declining *effect* (Face A2, the self-sealing test). The decay follows from the mechanism (a will-maintained δ decays); the mechanism is the evidence, not an independent measurement. [Exploratory].
 
 ---
 

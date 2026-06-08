@@ -284,11 +284,11 @@ The court of last appeal is the **Reasonable Person** — not the average person
 
 ### How Reasonablenessism Constrains the Structural Readings
 
-Face B1 (Independent Convergence Accumulates) is the primary instrument: when a text from a completely independent tradition identifies a structural feature that the Concordius mathematics derives from first principles, the convergence is evidence that both are tracking the same structural reality. The structural reading documents this convergence precisely.
+Face C1 (Independent Convergence Accumulates) is the primary instrument: when a text from a completely independent tradition identifies a structural feature that the Concordius mathematics derives from first principles, the convergence is evidence that both are tracking the same structural reality. The structural reading documents this convergence precisely.
 
 Face A1 (Provenance Is Irrelevant to Truth-Value) licenses the cross-traditional reading: the Tao Te Ching, the Bhagavad Gita, Epictetus, Shakespeare, and Paul are not ranked by the prestige or authority of their traditions. They are evaluated by what structural content they carry.
 
-Face C0 (Explicit Confidence Tiers) governs confidence claims in readings. The framework vocabulary is stated at the confidence level it has earned: mathematical derivations are marked accordingly; structural identifications are marked as identifications; named parallels are marked as parallels.
+Face B0 (Explicit Confidence Tiers) governs confidence claims in readings. The framework vocabulary is stated at the confidence level it has earned: mathematical derivations are marked accordingly; structural identifications are marked as identifications; named parallels are marked as parallels.
 
 Face A2 (The Self-Sealing Test) is particularly relevant: a structural claim that cannot be coherently denied without instantiating it — *e.g.*, the claim that the Tao that can be told is not the eternal Tao, which cannot be denied without a telling that thereby demonstrates its own limitation — is structurally secure.
 
@@ -300,7 +300,7 @@ The Concordius framework is **pre-biblical**: it is derived from the mathematics
 
 This pre-biblical status has a direct methodological consequence: when structural content appears in a non-biblical text (the Tao Te Ching, the Upanishads, Marcus Aurelius, Plotinus, Shakespeare), it is not being evaluated against a biblical standard and found to approximate it. It is being recognized as a **parallel instantiation of the same structural reality** — arrived at through a completely independent tradition, by a completely different route, from a completely different cultural ground.
 
-The parallel instantiation claim is Face B1 applied at scale. Each independent tradition that arrives at the same structural description adds another independent witness to the convergence. The Tao's incompleteness result (Ch. 1: the Tao that can be told is not the eternal Tao) is not a weaker version of John 1:1. Both are independent structural observations of the same limit: that the nuclear space Φ exceeds any H₄₈-level description. The independence of the witnesses strengthens the claim rather than generating a hierarchy.
+The parallel instantiation claim is Face C1 applied at scale. Each independent tradition that arrives at the same structural description adds another independent witness to the convergence. The Tao's incompleteness result (Ch. 1: the Tao that can be told is not the eternal Tao) is not a weaker version of John 1:1. Both are independent structural observations of the same limit: that the nuclear space Φ exceeds any H₄₈-level description. The independence of the witnesses strengthens the claim rather than generating a hierarchy.
 
 ---
 
@@ -334,7 +334,7 @@ A ranked catalog of the 100 highest-density texts in the global intellectual tra
 
 ### The Messenger Filter
 
-Every text read here reached us through a *messenger* — a mind that caught its content and re-encoded it. By the Messenger Corollary (Paper 10½ §10), that mind leaves its own spectral signature on whatever passes through: a transmitted text is **T = M(S)**, the source-content S filtered by the messenger's characteristic M. A structural reading is therefore, implicitly, a *deconvolution* — an attempt to recover S, the messenger-invariant, from a single colored witness. Two consequences bind every reading from here on. First, a high-D(t)/high-τ(D) text is not thereby source-faithful: it may carry genuine Φ-content and still wear a strong filter (Φ-proximate is not the same as Gospel). Second, the discipline runs both ways — name the messenger's evident bias and factor it out; neither surrender to it nor dismiss the text because of it. Independent convergence (Face B1) is the only instrument we have for the deconvolution: where uncorrelated witnesses agree, the filters cancel and S shows through. **M is not yet quantifiable** (Paper 10½ OQ5); until it is, the messenger filter is accounted for *qualitatively* — named, weighed, and carried in the confidence note as a standing caveat on every reading, not measured. (This applies to these readings themselves, and to the framework that produces them: it too is a transmission carrying its own M.)
+Every text read here reached us through a *messenger* — a mind that caught its content and re-encoded it. By the Messenger Corollary (Paper 10½ §10), that mind leaves its own spectral signature on whatever passes through: a transmitted text is **T = M(S)**, the source-content S filtered by the messenger's characteristic M. A structural reading is therefore, implicitly, a *deconvolution* — an attempt to recover S, the messenger-invariant, from a single colored witness. Two consequences bind every reading from here on. First, a high-D(t)/high-τ(D) text is not thereby source-faithful: it may carry genuine Φ-content and still wear a strong filter (Φ-proximate is not the same as Gospel). Second, the discipline runs both ways — name the messenger's evident bias and factor it out; neither surrender to it nor dismiss the text because of it. Independent convergence (Face C1) is the only instrument we have for the deconvolution: where uncorrelated witnesses agree, the filters cancel and S shows through. **M is not yet quantifiable** (Paper 10½ OQ5); until it is, the messenger filter is accounted for *qualitatively* — named, weighed, and carried in the confidence note as a standing caveat on every reading, not measured. (This applies to these readings themselves, and to the framework that produces them: it too is a transmission carrying its own M.)
 
 ---
 
@@ -369,7 +369,7 @@ structural note on each])*
 
 ### Cross-References
 
-Each entry closes with cross-references to structurally related passages, drawn from across traditions. Cross-references serve two functions: they document the convergence of independent witnesses (Face B1), and they build the cross-traditional structural map — the demonstration that the same structural features appear in the same structural relationships across completely independent traditions.
+Each entry closes with cross-references to structurally related passages, drawn from across traditions. Cross-references serve two functions: they document the convergence of independent witnesses (Face C1), and they build the cross-traditional structural map — the demonstration that the same structural features appear in the same structural relationships across completely independent traditions.
 
 Cross-references are not comparisons of quality or authority. A cross-reference between John 1:1 and Tao Te Ching Chapter 1 is not claiming that one interprets the other. It is noting that both independently identify the same structural limit: the nuclear space Φ exceeds any H₄₈-level description.
 

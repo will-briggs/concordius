@@ -1,6 +1,6 @@
-*← [[Face B2: Universal Subjective Convergence Implies Objectivity|Face B2: Universal Subjective Convergence Implies Objectivity]]*
+*← [[Face C2: Universal Subjective Convergence Implies Objectivity|Face C2: Universal Subjective Convergence Implies Objectivity]]*
 
-# Face B3: The Steelman Is the Test
+# Face C3: The Steelman Is the Test
 
 ---
 
@@ -43,4 +43,4 @@ When you can state their position so well that they say *yes, that's it* — the
 
 ---
 
-*[[Feature C - The Boundary/index|Feature C — The Boundary]] →*
+*[[Feature B - The Boundary/index|Feature B — The Boundary]] →*

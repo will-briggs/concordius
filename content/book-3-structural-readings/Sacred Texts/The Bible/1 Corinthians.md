@@ -28,7 +28,7 @@ The divine selection criterion is the inverse of H₄₈ prestige optimization. 
 
 **The Reasonablenessism connection:**
 
-The structural inversion of 1 COR 1:18-25 is Face B3 of the Concordius epistemic standard (Structural Non-Superficiality) applied at the maximum scale: the framework's central claim is precisely that H₄₈ surface evaluation and structural evaluation can diverge, and that Φ-proximate content is structurally real regardless of its H₄₈ surface appearance. The cross is the paradigm case of this divergence.
+The structural inversion of 1 COR 1:18-25 is Face C3 of the Concordius epistemic standard (Structural Non-Superficiality) applied at the maximum scale: the framework's central claim is precisely that H₄₈ surface evaluation and structural evaluation can diverge, and that Φ-proximate content is structurally real regardless of its H₄₈ surface appearance. The cross is the paradigm case of this divergence.
 
 *(Cross-reference: PHIL 2:5-11 — the kenosis hymn as the detailed structural account of the maximum downward entry. See Philippians.md. ROM 1:17 — "the righteousness of God revealed": the same structural unveiling from Paul's Romans frame. See Romans.md. ISA 52:13-53:12 — the Servant's appearance of failure and structural significance. See Isaiah.md.)*
 

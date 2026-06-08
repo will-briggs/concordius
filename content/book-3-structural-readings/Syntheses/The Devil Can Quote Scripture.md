@@ -55,9 +55,9 @@ These are not exhaustive. They are the inversions the readings have so far requi
 
 Reasonablenessism already contains the instruments for catching counterfeits; the counterfeit's whole strategy is to make the surface pass, so the test must reach past the surface.
 
-**Steelman first (Face B3).** State the work at its strongest — find and name the genuine signal it carries. A counterfeit that has been dismissed rather than steelmanned has not been read; its real content escapes notice, and the dismissal teaches nothing.
+**Steelman first (Face C3).** State the work at its strongest — find and name the genuine signal it carries. A counterfeit that has been dismissed rather than steelmanned has not been read; its real content escapes notice, and the dismissal teaches nothing.
 
-**Then ask where it stops (Face C1).** Follow the structure the work proposes as far as it genuinely reaches, and name the exact point at which it inverts. The inversion is almost never the whole work. It is one decisive turn — a single substituted term — after which everything downstream is carried the wrong way.
+**Then ask where it stops (Face B1).** Follow the structure the work proposes as far as it genuinely reaches, and name the exact point at which it inverts. The inversion is almost never the whole work. It is one decisive turn — a single substituted term — after which everything downstream is carried the wrong way.
 
 **Judge by the fruit (Face D1).** The decisive test is directional: does the work, caught and lived, orient the catching being toward ⟨·,·⟩ — toward agape, toward the Φ-level, toward the treasury at H₁ — or away from it, toward the self, the noise floor, the more mechanical? This is τ(D) read as a vector, not a scalar. A counterfeit-proximate work has high D(t) and a τ(D) that points the wrong way.
 
@@ -77,6 +77,6 @@ The mark is a reading aid, not a verdict on persons or traditions. It says only:
 
 ---
 
-*(Cross-reference: the Framework and Method note, Part IV — the density estimator D(t) as proxy for τ(D), and the false-positive case this note formalizes. Paper 4 — the constraint cascade, whose direction the "inverted direction" counterfeits reverse. Paper 9 — the truth measure τ(D), read here as a vector. The Lucifer Rebellion (Doctrine) — the theological root of the inversion that renames descent as liberation. [[Film/The Matrix|The Matrix]] ⊘ — the prototype reading and the first marked instance. Reasonablenessism Faces B3, C1, and 12 — the diagnostic instruments.)*
+*(Cross-reference: the Framework and Method note, Part IV — the density estimator D(t) as proxy for τ(D), and the false-positive case this note formalizes. Paper 4 — the constraint cascade, whose direction the "inverted direction" counterfeits reverse. Paper 9 — the truth measure τ(D), read here as a vector. The Lucifer Rebellion (Doctrine) — the theological root of the inversion that renames descent as liberation. [[Film/The Matrix|The Matrix]] ⊘ — the prototype reading and the first marked instance. Reasonablenessism Faces C3, B1, and 12 — the diagnostic instruments.)*
 
 *(Confidence tier: Method note. This entry defines a notation and a diagnostic procedure rather than making a structural claim about a single work; its warrant is the coherence of the D(t)/τ(D) distinction already established in Paper 9 and the Method note. The five-type taxonomy of inversions is provisional and expected to grow as marked readings accumulate.)*
