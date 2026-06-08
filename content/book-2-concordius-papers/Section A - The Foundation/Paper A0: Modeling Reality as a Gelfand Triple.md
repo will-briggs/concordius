@@ -71,7 +71,7 @@ The distributional dual Φ′ consists of continuous linear functionals on Φ. I
 <hr>
 
 <figure>
-<img src="/static/images/dirac-1933.jpg" alt="Portrait of Paul Dirac, 1933" style="max-width:100%;">
+<img src="/static/images/dirac-1933.jpg" alt="Portrait of Paul Dirac, 1933" style="max-width:50%;display:block;margin:0 auto;">
 <figcaption><em>Paul Dirac</em> (1933). Dirac's bra-ket notation treated |x⟩ and |p⟩ as eigenstates that no element of the Hilbert space could hold — a formalism that worked before it was justified. The Gelfand triple Φ ⊂ H ⊂ Φ′ is the structure in which that informal method is made rigorous.</figcaption>
 </figure>
 
@@ -257,7 +257,7 @@ The Gelfand triple is the minimum necessary mathematical structure for quantum m
 <hr>
 
 <figure>
-<img src="/static/images/von-neumann-los-alamos.jpg" alt="John von Neumann, Los Alamos identity badge photograph" style="max-width:100%;">
+<img src="/static/images/von-neumann-los-alamos.jpg" alt="John von Neumann, Los Alamos identity badge photograph" style="max-width:50%;display:block;margin:0 auto;">
 <figcaption><em>John von Neumann, Los Alamos identity badge</em> (c. 1943–45). Von Neumann's <em>Mathematische Grundlagen der Quantenmechanik</em> (1932) made the inner-product Hilbert space the rigorous foundation of quantum mechanics — the structure this paper reads as foundational, and which the Gelfand triple completes.</figcaption>
 </figure>
 
