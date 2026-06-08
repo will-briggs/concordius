@@ -22,9 +22,6 @@ tags:
 [[Appendix A - Dictionary of Terms|Appendix A — Dictionary of Terms]]
 Formal definitions of the technical vocabulary used throughout the series, from Clifford algebra to Time to τ(D).
 
-[[Appendix B - Structural Reading of the Concordius Series|Appendix B — Structural Reading of the Concordius Series]]
-The series reads itself: the Concordius Papers analyzed through the Laws of Three and Seven, locating the interval shocks within the series' own structure.
-
 [[Appendix C - A Putative Method for Machine-Assisted Phi-Proximal Textual Analysis|Appendix C — A Putative Method for Machine-Assisted Φ-Proximal Textual Analysis]]
 A candidate operationalization of τ(D): four observables, a two-stage filtering algorithm, and the current state of the detection program.
 
@@ -33,3 +30,9 @@ What the framework predicts that science has not yet confirmed: the H₂₄→H�
 
 [[Appendix E - Machine-readable Concordius Framework|Appendix E — Machine-readable Concordius Framework]]
 A dense structured reference for machine use: core mathematical identities, constraint cascade, key concept definitions, triune operations, cross-tradition mappings, and reading method — optimized for LLM-assisted structural readings.
+
+[[Appendix F - Catalogue of Illustrations|Appendix F — Catalogue of Illustrations]]
+A catalogue of the artworks reproduced across the corpus, generated from the figures actually in place, with the page each one appears on.
+
+[[Appendix G - Self-Audit|Appendix G — Self-Audit: A Critical Reading of the Concordius Framework]]
+The framework read against its own three reviewers — the intended structure, how the GoodChecker, TruthChecker, and BeautyChecker are run, and the current results at the framework, book, section, and paper levels. No holds barred.
