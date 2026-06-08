@@ -28,7 +28,7 @@ tags:
 
 ---
 
-Section F is the **La** of the larger octave: the road home. The diagnosis of evil complete, the work turns to the ascending career — the climb up the constraint cascade by sustained catching, voiced at once by four instruments that never compared notes. One elementary operation, repeated; a ceiling; two shocks that can only be received; a self built, opened, bonded, set, spent, and dissolved; and, on the far side of the last interval, the face the whole climb was turned toward.
+The **La** of the larger octave: the road home. The diagnosis of evil complete, the ascending career — the climb up the constraint cascade by sustained catching, voiced at once by four instruments that never compared notes. One elementary operation, repeated; a ceiling; two shocks that can only be received; a self built, opened, bonded, set, spent, and dissolved; and, on the far side of the last interval, the face the whole climb was turned toward.
 
 ---
 

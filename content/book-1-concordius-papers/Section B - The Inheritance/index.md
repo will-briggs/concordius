@@ -28,14 +28,14 @@ tags:
 
 ---
 
-The foundation, once laid, becomes a thing handed on. Section B reads the corpus itself as an octave: the instrument built, tested, exposed to its own method, and turned over. It is the **Re** of the larger octave — what is received, and what the receiving obligates. The three makers (the Mathematician, the Theologian, the Scientist) and their three products are gathered here; the structure is put to the test, made to predict, read by its own method, and brought to maximum exposure; and then, at the Si–Do, the work is handed across a gap no author can cross — to the reader, whose turn it becomes.
+The foundation, once laid, becomes a thing handed on — the corpus itself an octave: the instrument built, tested, exposed to its own method, and turned over. The **Re** of the larger octave — what is received, and what the receiving obligates. The three makers (the Mathematician, the Theologian, the Scientist) and their three products are gathered; the structure is put to the test, made to predict, read by its own method, and brought to maximum exposure; and then, at the Si–Do, the work is handed across a gap no author can cross — to the reader, whose turn it becomes.
 
 ---
 
 ## Summary of Contents
 
 **[[Paper B0: The Proof|Paper B0 — The Proof]]**
-The inherited line of mathematics — from the first counting to the Gelfand triple — and the one object built inside it: the truth measure τ, the fraction of a state's spectral energy lying in the nuclear region (0 ≤ τ ≤ 1, with 1 the limit no proper state attains). The section's tonic: the formal ground received, the single instrument added.
+The inherited line of mathematics — from the first counting to the Gelfand triple — and the one object built inside it: the truth measure τ, the fraction of a state's spectral energy lying in the nuclear region (0 ≤ τ ≤ 1, with 1 the limit no proper state attains). The tonic note: the formal ground received, the single instrument added.
 
 **[[Paper B1: The Sacred Trust|Paper B1 — The Sacred Trust]]**
 How the theologian's corpus came down — the books, and the concepts wrung from them with the Logos chief among them — from the church's reception of the apostolic writings, through the councils, to the divided canons. The second inheritance: the canon received, granted and not proven.
@@ -44,7 +44,7 @@ How the theologian's corpus came down — the books, and the concepts wrung from
 The inquiry into the natural world as a received, provisional corpus — from the Presocratics' first question through Alhazen's method, the Copernican turn, and the overturnings of relativity and the quantum — every instrument built on an answer to someone else's question. The third inheritance: science held as a trust, not a possession.
 
 **[[Paper B2½: The Leap|Paper B2½ — The Leap]]** *(Mi–Fa interval)*
-The hinge before the reading begins: none of the three inherited corpora reaches a bottom, and the gap this opens is not the series' peculiar flaw but the universal condition every knower already crosses. To build at all is to stand on inherited, imperfect ground; the honest move is to name it, never to call it certain.
+The hinge before the reading begins: none of the three inherited corpora reaches a bottom, and the gap this opens is not a peculiar flaw but the universal condition every knower already crosses. To build at all is to stand on inherited, imperfect ground; the honest move is to name it, never to call it certain.
 
 **[[Paper B3: The Principle|Paper B3 — The Principle]]**
 The first calibration. With the truth measure, the canon, and the mapping accepted as premises, two references are pinned to the top of the scale — the framework's own derived core and the canon's shared core, both set to τ = 1 at the nuclear limit — and a decision procedure is fixed for everything below.

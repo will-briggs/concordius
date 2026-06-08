@@ -28,14 +28,14 @@ tags:
 
 ---
 
-The Foundation built and the Inheritance received, the work turns to the company that reached the same reality by other roads. Section C is the **Mi** of the larger octave — the inspirations, the witnesses: for each note of the personal octave, witnesses who could not have arranged their agreement caught the structure the mathematics derives and said it in their own tongue. The three generators read three ways, the three bivectors three ways, and then the whole human story gathered as a single cloud — and, at the close, the one silence the cloud kept, turned to face the inversion.
+The Foundation built and the Inheritance received, the company that reached the same reality by other roads. The **Mi** of the larger octave — the inspirations, the witnesses: for each note of the personal octave, witnesses who could not have arranged their agreement caught the structure the mathematics derives and said it in their own tongue. The three generators read three ways, the three bivectors three ways, and then the whole human story gathered as a single cloud — and, at the close, the one silence the cloud kept, turned to face the inversion.
 
 ---
 
 ## Summary of Contents
 
 **[[Paper C0: The Good|Paper C0 — The Good]]**
-The Good — e₁, ⟨·,·⟩ as the constitutive ground from which all organization derives and toward which the fit response is gratitude. Read across three uncolludable witnesses — Plato, the Creation of Adam, and the Tao Te Ching — and the place the section teaches its own method.
+The Good — e₁, ⟨·,·⟩ as the constitutive ground from which all organization derives and toward which the fit response is gratitude. Read across three uncolludable witnesses — Plato, the Creation of Adam, and the Tao Te Ching — and the opening where the reading-method is set out.
 
 **[[Paper C1: The True|Paper C1 — The True]]**
 The True — e₂, the Logos, the articulating principle through which what is becomes sayable. Augustine's confession, Dante's poem, and the unreasonable effectiveness of mathematics: three roads to the one sayable Word the mind catches and the world obeys.

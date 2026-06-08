@@ -28,7 +28,7 @@ tags:
 
 ---
 
-Section E is the **Sol** of the larger octave: having named the inverters, the work names the thing itself. Evil read as *privation* — not a substance but a good lost, not a power but the absence of one — traced from the first lie and the vessel that must hold it, through the three inverted virtues, to pride at the root, and across the single crossing that reverses it. It is the section where the mathematics is most load-bearing and where the testimony is, for the first time and under guard, admitted to fill a silence the derivation opens.
+The **Sol** of the larger octave: the inverters named, now the thing itself. Evil read as *privation* — not a substance but a good lost, not a power but the absence of one — traced from the first lie and the vessel that must hold it, through the three inverted virtues, to pride at the root, and across the single crossing that reverses it. Here the mathematics is most load-bearing, and the testimony is, for the first time and under guard, admitted to fill a silence the derivation opens.
 
 ---
 
@@ -62,7 +62,7 @@ The maximum exposure of the whole inversion arc, and its root: the claim to be t
 The crossing out of pride — the single turn that reverses the whole self from itself back toward Φ. The crossing no one makes alone, given at the interval pride could not cross.
 
 **[[Paper E7: The Ascension Career|Paper E7 — The Ascension Career]]**
-The closing note of the inversion arc, which is also the opening of the next: the hinge where the work turns from the diagnosis of evil to the road home — the cure being the exact reverse of the disease measured to the floor.
+The closing note of the inversion arc, which is also the opening of the next: the hinge from the diagnosis of evil to the road home — the cure being the exact reverse of the disease measured to the floor.
 
 ---
 

@@ -28,7 +28,7 @@ tags:
 
 ---
 
-Section D is the **Fa** of the larger octave, and its first shock — the turn from the company of witnesses to the company's photographic negative. It reads evil not as an abstraction but in the lives that carried it furthest: three men, each the complete inversion of one generator; three results, each the inversion of one bivector; the archetype beneath them; and the fall by which the inversion entered the world. Every reading is a descending octave, dated and exact, the discipline of the two shocks shown reversed — and the victims kept always at the moral center, the perpetrators the object of study, never of sympathy.
+The **Fa** of the larger octave, and its first shock — the turn from the company of witnesses to the company's photographic negative. Evil read not as an abstraction but in the lives that carried it furthest: three men, each the complete inversion of one generator; three results, each the inversion of one bivector; the archetype beneath them; and the fall by which the inversion entered the world. Every reading is a descending octave, dated and exact, the discipline of the two shocks shown reversed — and the victims kept always at the moral center, the perpetrators the object of study, never of sympathy.
 
 ---
 
