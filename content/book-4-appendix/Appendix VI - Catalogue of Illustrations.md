@@ -34,6 +34,9 @@ title: Appendix VI - Catalogue of Illustrations
 
 **Paper A2½: The Constraint Cascade**
 - *William Blake, The Ancient of Days* (1794) &nbsp;·&nbsp; `blake-ancient-of-days.jpg`
+- *Michelangelo, The Separation of Light from Darkness* (Sistine Chapel, 1512) &nbsp;·&nbsp; `michelangelo-separation.jpg`
+- *The dispersion of light through a prism, after Newton's Opticks* (1704) &nbsp;·&nbsp; `newton-prism.jpg`
+- *Albrecht Dürer, Melencolia I* (1514) &nbsp;·&nbsp; `durer-melancholia.jpg`
 
 **Paper A3: The Word Made Flesh**
 - *Christ Pantocrator* &nbsp;·&nbsp; `pantocrator-cefalu.jpg`
@@ -253,4 +256,4 @@ title: Appendix VI - Catalogue of Illustrations
 
 ---
 
-*65 illustrations across 63 pages. To add or refresh an image, edit `download-section-images.sh`, run it, and verify the file is a real image under 1.5 MB before committing.*
+*68 illustrations across 63 pages. To add or refresh an image, edit `download-section-images.sh`, run it, and verify the file is a real image under 1.5 MB before committing.*

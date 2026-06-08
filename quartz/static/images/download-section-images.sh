@@ -174,6 +174,16 @@ dl durer-melancholia.jpg \
   "https://upload.wikimedia.org/wikipedia/commons/e/e1/Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project.jpg" \
   "Human Conditions: Dürer - Melencolia I (1514)"
 
+# --- A2½ "Constraint Cascade" register seams (added 2026-06) ---
+dl michelangelo-separation.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo,%20Separation%20of%20Light%20from%20Darkness%2000.jpg" \
+  "Section A (A2½ seam): Michelangelo - The Separation of Light from Darkness (1512)"
+
+# VERIFY on run: confirm this resolves to a prism / light-dispersion figure (PD). Fallback: Commons Category:Dispersion in prisms or Category:Opticks (book).
+dl newton-prism.jpg \
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Table%20of%20Opticks,%20Cyclopaedia,%20Volume%202.jpg" \
+  "Section A (A2½ seam): Newton - dispersion of light through a prism (Opticks, 1704)"
+
 dl durer-praying-hands.jpg \
   "https://upload.wikimedia.org/wikipedia/commons/6/63/Albrecht_D%C3%BCrer_-_Praying_Hands%2C_1508_-_Google_Art_Project.jpg" \
   "Health: Dürer - Praying Hands (1508)"
@@ -348,7 +358,7 @@ for f in \
   kells-chi-rho.png raphael-parnassus.jpg friedrich-wanderer.jpg \
   friedrich-abbey-oakwood.jpg \
   durer-self-portrait.jpg bayeux-comet.jpg david-death-of-socrates.jpg \
-  van-eyck-mystic-lamb.jpg durer-melancholia.jpg \
+  van-eyck-mystic-lamb.jpg durer-melancholia.jpg michelangelo-separation.jpg newton-prism.jpg \
   durer-praying-hands.jpg bruegel-tower-of-babel.jpg \
   rembrandt-two-old-men-disputing.jpg holbein-the-ambassadors.jpg \
   friedrich-monk-by-the-sea.jpg \
