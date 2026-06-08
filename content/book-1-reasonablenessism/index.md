@@ -65,21 +65,23 @@ This person is not a fiction. You know them. You are trying to be them. The ques
 
 Each feature is a folder; each holds four faces. Twelve of the sixteen faces are the original twelve features; the formalization showed where four more belonged, completing each object's account of the measure.
 
-### [[Feature A - The Measure/index|Feature A — The Measure]]
+### [[Feature A - The Measure/index|Feature A — The Measure]] · *the Good*
 *What a claim is worth, and the limits of worth — the truth-measure τ and its range.*
 [[Face A0: No Source Is Axiom|A0 · No Source Is Axiom]] · [[Face A1: Provenance Is Irrelevant to Truth-Value|A1 · Provenance Is Irrelevant]] · [[Face A2: The Self-Sealing Test|A2 · The Self-Sealing Test]] · [[Face A3: Counterfeit-Proximity|A3 · Counterfeit-Proximity]]
 
-### [[Feature B - The Boundary/index|Feature B — The Boundary]]
+### [[Feature B - The Boundary/index|Feature B — The Boundary]] · *the True*
 *Derivation, its types, where it stops — and the consistency without which the closure collapses.*
 [[Face B0: Explicit Confidence Tiers|B0 · Explicit Confidence Tiers]] · [[Face B1: Logic Where It Reaches; Concordance Where It Doesn't|B1 · Logic Where It Reaches]] · [[Face B2: Minimum Necessary Miracles|B2 · Minimum Necessary Miracles]] · [[Face B3: Coherence|B3 · Coherence]]
 
-### [[Feature C - The Witnesses/index|Feature C — The Witnesses]]
+### [[Feature C - The Witnesses/index|Feature C — The Witnesses]] · *the Beautiful*
 *How independent evidence combines — one witness, many, all, and the worst case.*
 [[Face C0: Personal Experience as Testimony|C0 · Personal Experience as Testimony]] · [[Face C1: Convergence of Independent Witnesses|C1 · Convergence of Independent Witnesses]] · [[Face C2: Universal Subjective Convergence Implies Objectivity|C2 · Universal Subjective Convergence]] · [[Face C3: The Steelman Is the Test|C3 · The Steelman Is the Test]]
 
-### [[Feature D - The Mirror/index|Feature D — The Mirror]]
+### [[Feature D - The Mirror/index|Feature D — The Mirror]] · *the Good, the True, and the Beautiful*
 *The stance turned on itself — consistent, self-sustaining, self-similar, and honest about its limit.*
 [[Face D0: The Stance Applies to Itself|D0 · The Stance Applies to Itself]] · [[Face D1: Fruit, Not Lineage|D1 · Fruit, Not Lineage]] · [[Face D2: The Whole in the Part|D2 · The Whole in the Part]] · [[Face D3: The Self-Limit|D3 · The Self-Limit]]
+
+*The four also carry the three transcendentals. The **Measure** is the **Good** — what a claim is worth holding. The **Boundary** is the **True** — what can be derived, and the honest edge where derivation stops. The **Witnesses** are the **Beautiful** — independent voices converging on one thing. And the **Mirror** is all three at once: the stance turned on itself, held to its own account of the good, the true, and the beautiful.*
 
 *Why four, and why these. Each object constrains one part of the measure τ: the **Measure** its domain and range; the **Boundary** the type of warrant and the edge of derivation; the **Witnesses** how it updates on evidence; the **Mirror** the measure applied to itself. The Law of Three still governs at this level — the Measure is bounded reception (Passive), the Witnesses are accumulating evidence (Active), the Boundary and the Mirror are the mediating, self-consistent reconciliation — but the honest partition is by object, not by the even thirds the twelve were first sorted into. Three of the four objects come to four faces naturally; the fourth (the Mirror) has two firm faces and two that complete the pattern, and that asymmetry is named rather than hidden.*
 
