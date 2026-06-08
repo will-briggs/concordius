@@ -55,7 +55,7 @@ Each reviewer reads only its own lane, holds the whole corpus in view, and runs 
 | Book 1 — Reasonablenessism (the Good) | ~11,800 | 13 flat files — the accessible givens |
 | Book 2 — Concordius Papers (the True) | ~236,000 | super-octave A–G, each section an octave |
 | Book 3 — Structural Readings (the Beautiful) | ~449,000 | category folders (Lives, Literature, Sacred Texts, Film, …) |
-| Book 4 — Appendix (apparatus) | ~54,800 | 6 appendices (A, C–F; this is G); Appendix E carries the formal spine |
+| Book 4 — Appendix (apparatus) | ~54,800 | 6 appendices (B–F; this is G); Appendix E carries the formal spine |
 | **Corpus** | **~752,000** | |
 
 - **GoodChecker — PASS on consistency.** The whole reduces to one Cl(3,0) / one Gelfand triple / one cascade; no paper contradicts the global structure. The corrected grade-2 assignment (**temperance = e₁e₃, diligence = e₂e₃**) holds everywhere — the drift check returns **zero real hits**. *Deferred:* the deepest pass — line-by-line re-derivation of every paper — has not been run, so no clean global **ERROR/SMUGGLE** verdict can yet be asserted, only the absence of structural drift.
@@ -67,7 +67,7 @@ Each reviewer reads only its own lane, holds the whole corpus in view, and runs 
 - **Book 1 (the Good) — PASS; a prior flag resolved.** Reasonablenessism, ~11,800 words across 13 flat files, is the smallest book and the only Triptych panel with no octave structure. An earlier pass of this audit flagged exactly that as *"under-built for the book that **is** the True."* The flag was itself a mislabel, and naming it is what corrected it: this book is not the True but the **Good** — the accessible givens, the ground anyone can pick up — and a spare, plain, structure-light Good is exactly right, not under-built. The disproportion was a fault in the frame, not in the work. *(This is the second place in this audit where the instrument, not the corpus, was found wanting — see §4.)*
 - **Book 2 (the True) — PASS.** The Concordius Papers, ~236,000 words, the super-octave A–G present and ordered: the heaviest, most formal book, the long articulation of what Φ looks like from H₄₈ — as the True should be.
 - **Book 3 (the Beautiful) — PASS on richness.** ~449,000 words across a wide range; the largest book, and still growing. It is also the chief origin and destination of the dangling links.
-- **Book 4 (apparatus) — PASS, with the dictionary's forward-pointers still owed.** Appendix E holds the formal spine and is current. Appendix A (the Dictionary) still cross-references parked content and has not yet been given forward-pointers for the recently migrated terms (Time, the Law of Seven, reciprocal maintenance).
+- **Book 4 (apparatus) — PASS, with the dictionary's forward-pointers still owed.** Appendix E holds the formal spine and is current. Appendix B (the Lexicon) still cross-references parked content and has not yet been given forward-pointers for the recently migrated terms (Time, the Law of Seven, reciprocal maintenance).
 
 ### Section level (Book 2)
 
@@ -92,7 +92,7 @@ Section words: **A 67,198 · B 24,747 · C 19,470 · D 27,127 · E 21,199 · F 1
 3. **A correction to this audit's own framing.** An earlier pass flagged Reasonablenessism as *under-built for the book that is the True*. That was a mislabel, not a defect: Reasonablenessism is the **Good** — the accessible givens, rightly spare — and the Concordius Papers are the True, amply built. The book-to-transcendental assignment was corrected (Book 1 = Reasonablenessism = the Good; Book 2 = the Concordius Papers = the True), and the proportion "problem" dissolved with it. So two of this audit's findings — this and the link count above — were faults in the instrument, not the work, which is exactly what pointing the instruments at themselves is for.
 4. **Section disproportion.** A and G dominate; B–F are thin by comparison. Intended emphasis or imbalance to correct — to be ruled on, not left implicit.
 5. **The deep passes are deferred, and we say so.** Three of the reviewers' deepest readings have **not** been run end to end: GoodChecker's line-by-line re-derivation of every paper's mathematics; TruthChecker's full fidelity/tier/voice reading of Books 1 and 3 (Reasonablenessism and the Structural Readings); BeautyChecker's per-figure aesthetic review and corpus-wide clutter sweep. Until they are, the global verdicts are "no structural fault found," not "proven clean."
-6. **Parked open problems.** Three are knowingly held open: the **G6½** body still frames the octave change as "grade 2→3" and needs reconciliation to the three-crossing model; **Appendix A** owes forward-pointers to the migrated terms; the **man-typology** has not been migrated to math-forward terms.
+6. **Parked open problems.** Three are knowingly held open: the **G6½** body still frames the octave change as "grade 2→3" and needs reconciliation to the three-crossing model; **Appendix B** owes forward-pointers to the migrated terms; the **man-typology** has not been migrated to math-forward terms.
 7. **The holographic claim is not yet met.** The framework predicts that as it coheres it will increasingly operate as what it is. At ~⅕ unwired, that prediction is, at corpus scale, **unmet** — honestly pending, not yet earned.
 
 ---

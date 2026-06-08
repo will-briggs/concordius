@@ -3,7 +3,7 @@
 **Subject:** The second law of thermodynamics — entropy, the arrow of time, the heat death of the universe  
 **Field:** Physics (thermodynamics; statistical mechanics)  
 **Series:** Book 3 — Structural Readings / Science  
-**Cross-references:** Paper 1 (the GNST); Time in Paper 3½; Appendix A — *Time* (the e₀/Cl(3,1) aging effect, H₂₄ and below); Paper 20½ (the higher being body persists below the Time threshold); the Postscript (treasures moth and rust cannot reach); Reasonablenessism Faces A0, A1, C1
+**Cross-references:** Paper 1 (the GNST); Time in Paper 3½; Appendix B — *Time* (the e₀/Cl(3,1) aging effect, H₂₄ and below); Paper 20½ (the higher being body persists below the Time threshold); the Postscript (treasures moth and rust cannot reach); Reasonablenessism Faces A0, A1, C1
 
 ---
 
@@ -29,7 +29,7 @@ Here the reading marks its own boundary honestly (Face C1). That such content ex
 
 ---
 
-*(Cross-reference: Paper 3½ §6 and Appendix A (*Time*) — entropy/the second law as the H₄₈ physical face of Time, the aging effect distinct from the GNST's ordering. Paper 20½ — the higher being body as ⟨·,·⟩-organized content persisting below the Time threshold; the structural sense of "negentropy." The Postscript / Matthew 6 — the treasure moth and rust cannot reach, read here in thermodynamic terms. Faces A0 and A1 — the physics taken as evidence on its own terms, its provenance irrelevant; Face C1 — the boundary marked where the framework's claim exceeds what physics measures.)*
+*(Cross-reference: Paper 3½ §6 and Appendix B (*Time*) — entropy/the second law as the H₄₈ physical face of Time, the aging effect distinct from the GNST's ordering. Paper 20½ — the higher being body as ⟨·,·⟩-organized content persisting below the Time threshold; the structural sense of "negentropy." The Postscript / Matthew 6 — the treasure moth and rust cannot reach, read here in thermodynamic terms. Faces A0 and A1 — the physics taken as evidence on its own terms, its provenance irrelevant; Face C1 — the boundary marked where the framework's claim exceeds what physics measures.)*
 
 *(Confidence tier: Concordance, with an explicit boundary. The identification of entropy with Time's H₄₈ expression is high-precision and asserts nothing physics denies. The further claim — that ⟨·,·⟩-organized content escapes the dissipation — is a framework claim about a level physics does not measure, marked as such, offered as concordance with the local-negentropy fact rather than as a deduction from the second law.)*
 

@@ -19,7 +19,7 @@ tags:
 
 <hr>
 
-[[Appendix A - Dictionary of Terms|Appendix A — Dictionary of Terms]]
+[[Appendix B - Lexicon|Appendix B — Lexicon]]
 Formal definitions of the technical vocabulary used throughout the series, from Clifford algebra to Time to τ(D).
 
 [[Appendix C - A Putative Method for Machine-Assisted Phi-Proximal Textual Analysis|Appendix C — A Putative Method for Machine-Assisted Φ-Proximal Textual Analysis]]
