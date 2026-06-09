@@ -2,10 +2,14 @@
 
 # Adam A2A: You Can't Get There From Here
 
+---
+
 <figure>
 <img src="/static/images/bruegel-blind.jpg" alt="Pieter Bruegel the Elder, The Blind Leading the Blind" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>The Parable of the Blind Leading the Blind</em>, Pieter Bruegel the Elder (1568). Museo di Capodimonte, Naples.</figcaption>
 </figure>
+
+---
 
 Adam read the paper through, sat back in his chair, and harrumphed.
 

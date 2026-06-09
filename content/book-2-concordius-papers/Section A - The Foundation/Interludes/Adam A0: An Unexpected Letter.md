@@ -1,9 +1,13 @@
 # Adam A0: An Unexpected Letter
 
+---
+
 <figure>
 <img src="/static/images/vermeer-letter.jpg" alt="Johannes Vermeer, Girl Reading a Letter at an Open Window" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Girl Reading a Letter at an Open Window</em>, Johannes Vermeer (c. 1657–59). Gemäldegalerie Alte Meister, Dresden.</figcaption>
 </figure>
+
+---
 
 The morning post came at the usual hour, through the slot in the front door, and Adam did not get up for it. He had been at his desk since five — he kept the hours of a man who had long ago stopped negotiating with his own body — and the small avalanche on the mat could wait until he wanted coffee.
 

@@ -2,10 +2,14 @@
 
 # Adam A1: An Unexpected Visitor
 
+---
+
 <figure>
 <img src="/static/images/repin-unexpected-visitor.jpg" alt="Ilya Repin, They Did Not Expect Him" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>They Did Not Expect Him</em>, Ilya Repin (1884–88). Tretyakov Gallery, Moscow.</figcaption>
 </figure>
+
+---
 
 After reading it through three times, he was annoyed. Not only because he could not find a hole in the math — and he had to admit that he could not — but because he could see where the paper was going. They were going to try to answer the question. THE question. The only one that matters.
 

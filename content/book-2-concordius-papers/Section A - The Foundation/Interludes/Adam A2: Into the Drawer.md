@@ -2,10 +2,14 @@
 
 # Adam A2: Into the Drawer
 
+---
+
 <figure>
 <img src="/static/images/hoogstraten-letter-rack.jpg" alt="Samuel van Hoogstraten, Trompe-l'œil letter rack" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Trompe-l'œil: A Letter Rack</em>, Samuel van Hoogstraten (c. 1664). Staatliche Kunsthalle, Karlsruhe.</figcaption>
 </figure>
+
+---
 
 Well, they did it. They went out and did it.
 

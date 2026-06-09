@@ -2,10 +2,14 @@
 
 # Adam A2D: Number Our Days
 
+---
+
 <figure>
 <img src="/static/images/champaigne-vanitas.jpg" alt="Philippe de Champaigne, Vanitas still life" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Still-Life with a Skull (Vanitas)</em>, Philippe de Champaigne (c. 1671). Musée de Tessé, Le Mans.</figcaption>
 </figure>
+
+---
 
 The third part was not addressed to the physicist in him. He knew it within a page, and read it anyway.
 

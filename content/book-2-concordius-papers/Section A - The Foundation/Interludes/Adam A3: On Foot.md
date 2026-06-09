@@ -2,10 +2,14 @@
 
 # Adam A3: On Foot
 
+---
+
 <figure>
 <img src="/static/images/van-gogh-shoes.jpg" alt="Vincent van Gogh, Shoes" style="max-width:100%;display:block;margin:0 auto;">
 <figcaption><em>Shoes</em>, Vincent van Gogh (1886). Van Gogh Museum, Amsterdam.</figcaption>
 </figure>
+
+---
 
 The last part did not argue. It gathered.
 
