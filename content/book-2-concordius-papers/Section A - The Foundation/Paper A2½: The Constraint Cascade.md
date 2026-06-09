@@ -349,4 +349,4 @@ The algebra is forced; the name is received; the world points home. Held apart, 
 
 ---
 
-*[[Paper A3: Phi Enters Creation|Paper A3 — Φ Enters Creation]] →*
+*[[Adam A3: On Foot]] →*

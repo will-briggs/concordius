@@ -1,4 +1,4 @@
-*← [[Paper A2½: The Constraint Cascade|Paper A2½: The Constraint Cascade: Descent as Densification]]*
+*← [[Adam A3: On Foot]]*
 
 # Paper A3: Φ Enters Creation: The Word Made Flesh
 
