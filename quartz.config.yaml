@@ -126,7 +126,7 @@ plugins:
   - source: github:quartz-community/explorer
     enabled: true
     options:
-      title: "The 4 Books"
+      title: "The Framework"
     layout:
       position: left
       priority: 50
