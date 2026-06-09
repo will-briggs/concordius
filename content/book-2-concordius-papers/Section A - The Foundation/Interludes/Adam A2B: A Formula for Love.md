@@ -4,7 +4,7 @@
 
 <figure>
 <img src="/static/images/bronzino-allegory.jpg" alt="Agnolo Bronzino, Venus, Cupid, Folly and Time" style="max-width:100%;display:block;margin:0 auto;">
-<figcaption><em>Venus, Cupid, Folly and Time (An Allegory)</em>, Agnolo Bronzino (c. 1545). Love laid out as a cipher to be decoded — very nearly a formula.</figcaption>
+<figcaption><em>Venus, Cupid, Folly and Time</em>, Agnolo Bronzino (c. 1545). National Gallery, London.</figcaption>
 </figure>
 
 He read the first part of the cascade through twice, and the second time was colder than the first, because by the end of the first he had seen what they were doing.

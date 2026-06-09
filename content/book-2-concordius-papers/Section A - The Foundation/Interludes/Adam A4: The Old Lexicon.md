@@ -4,7 +4,7 @@
 
 <figure>
 <img src="/static/images/spitzweg-bookworm.jpg" alt="Carl Spitzweg, The Bookworm" style="max-width:100%;display:block;margin:0 auto;">
-<figcaption><em>The Bookworm (Der Bücherwurm)</em>, Carl Spitzweg (c. 1850). An old man up the library ladder among his towering volumes, hunting a single word.</figcaption>
+<figcaption><em>The Bookworm (Der Bücherwurm)</em>, Carl Spitzweg (c. 1850). Museum Georg Schäfer, Schweinfurt.</figcaption>
 </figure>
 
 And now they had defined the angels.

@@ -4,7 +4,7 @@
 
 <figure>
 <img src="/static/images/duchamp-nude-descending.jpg" alt="Marcel Duchamp, Nude Descending a Staircase, No. 2" style="max-width:100%;display:block;margin:0 auto;">
-<figcaption><em>Nude Descending a Staircase, No. 2</em>, Marcel Duchamp (1912). The descent itself, rendered as nothing but motion down a stair.</figcaption>
+<figcaption><em>Nude Descending a Staircase, No. 2</em>, Marcel Duchamp (1912). Philadelphia Museum of Art.</figcaption>
 </figure>
 
 The charm survived the Dirac equation. That was the trouble.

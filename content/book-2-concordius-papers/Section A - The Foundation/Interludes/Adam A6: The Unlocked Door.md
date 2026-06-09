@@ -4,7 +4,7 @@
 
 <figure>
 <img src="/static/images/hammershoi-open-doors.jpg" alt="Vilhelm Hammershøi, A Room in the Artist's Home in Strandgade" style="max-width:100%;display:block;margin:0 auto;">
-<figcaption><em>A Room in the Artist's Home in Strandgade, Copenhagen, with the Artist's Wife</em>, Vilhelm Hammershøi (1901). A hushed interior, the inner door standing open onto the next still room.</figcaption>
+<figcaption><em>A Room in the Artist's Home in Strandgade, Copenhagen, with the Artist's Wife</em>, Vilhelm Hammershøi (1901). Statens Museum for Kunst, Copenhagen.</figcaption>
 </figure>
 
 They had done it again, and again it did not seem quite fair.

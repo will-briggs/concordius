@@ -4,7 +4,7 @@
 
 <figure>
 <img src="/static/images/wright-alchemist.jpg" alt="Joseph Wright of Derby, The Alchemist Discovering Phosphorus" style="max-width:100%;display:block;margin:0 auto;">
-<figcaption><em>The Alchemist in Search of the Philosopher's Stone</em>, Joseph Wright of Derby (1771). The experimenter at his apparatus, caught in the posture of prayer — both men, at last, in the one room.</figcaption>
+<figcaption><em>The Alchemist in Search of the Philosopher's Stone</em>, Joseph Wright of Derby (1771). Derby Museum and Art Gallery.</figcaption>
 </figure>
 
 It was clear now where the whole thing was going. He had felt it gathering for two papers, and now he could say it outright: they were walking toward the Life of Christ. Everything leaned that way — the Word entering the world, the body coming up out of the dust — a road to the manger, and they were most of the way down it.

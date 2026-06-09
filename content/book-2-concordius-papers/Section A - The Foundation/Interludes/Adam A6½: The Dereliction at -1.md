@@ -4,7 +4,7 @@
 
 <figure>
 <img src="/static/images/friedrich-sea-of-ice.jpg" alt="Caspar David Friedrich, The Sea of Ice" style="max-width:100%;display:block;margin:0 auto;">
-<figcaption><em>The Sea of Ice (The Wreck of Hope)</em>, Caspar David Friedrich (1823–24). Hope wrecked and abandoned at the floor of the world.</figcaption>
+<figcaption><em>The Sea of Ice (The Wreck of Hope)</em>, Caspar David Friedrich (1823–24). Hamburger Kunsthalle, Hamburg.</figcaption>
 </figure>
 
 He had been ready for everything else.
