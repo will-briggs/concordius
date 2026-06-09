@@ -1,0 +1,15 @@
+# A Structural Reading of Alexander the Great
+
+---
+
+*Alexander conquered the known world before he was thirty-three and died with no world left to want — the figure who, in the legend, wept because there were no more lands to take. He is read here as one of the clearest ancient instances of the conqueror's structure: a genuine, prodigious gift turned wholly outward into domination, reaching the absolute ceiling of what the will-to-conquer can attain, and finding at that ceiling not fulfilment but emptiness.*
+
+---
+
+The gift was real and the framework does not deny it: tactical genius, personal courage, a reach of ambition that fused Greek and Persian and Indian worlds into contact and seeded the Hellenistic age in which much later catching (the Septuagint, Alexandria's library, the koine that would carry the Gospel) became possible. Structurally, Alexander is a being of enormous capacity whose centre of gravity locked onto the H₄₈ summit — conquest, glory, the extension of his own name across the earth — and who climbed it with a completeness almost no one matches. The framework reads the famous weeping (whether or not Plutarch's) as the exact phenomenology the corpus predicts: the will organised around domination reaches the top of its ladder and discovers the top is empty, because nothing at that level was ever going to be enough.
+
+This is the inversion's signature read in a life of real grandeur rather than mere cruelty. Alexander is not the genocidal tyrant of the corpus's Volume D; his conquests were not extermination, and his rule was often syncretic and curious. But the orientation is the structural lesson: a gift that could have been turned toward the ground was turned toward the self's expansion across the world, and at the summit of that expansion there was no rest — only, in the legend, more world wanted and none left. He died young, his empire shattered among his generals within a year, the most complete worldly success the ancient world produced dissolving almost the moment its centre stopped. The ceiling reached, and nothing above it that conquest could buy.
+
+*Confidence: concordance — the conquest read as the gift turned to domination, the weeping as the empty summit, the swift dissolution as the inversion's instability; the genuine cultural fruit named, the conquest not endorsed. Messenger: the contemporary accounts are lost; Alexander reaches us through later historians (Arrian, Plutarch, Curtius) writing centuries after, on a heavily legend-encrusted tradition.*
+
+*(Cross-reference: [[Paper F2: The Ceiling]] on the summit that cannot satisfy; [[Paper D7: Evil]] on the inversion; [[Aphorisms/Pride Goes Before a Fall]].)*
