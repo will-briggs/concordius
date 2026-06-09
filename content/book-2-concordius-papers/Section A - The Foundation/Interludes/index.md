@@ -15,3 +15,4 @@ title: Interludes
 - **[[Adam A2D: Number Our Days]]** — Adam reads the two books.
 - **[[Adam A3: On Foot]]** — Adam reaches the end of the cascade.
 - **[[Adam A4: The Old Lexicon]]** — Adam checks their Greek.
+- **[[Adam A5: The Same Room]]** — Adam sees where it is going.

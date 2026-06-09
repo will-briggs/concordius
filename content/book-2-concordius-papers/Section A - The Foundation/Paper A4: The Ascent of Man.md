@@ -462,4 +462,4 @@ Zugibe, F.T. (2005). *The Crucifixion of Jesus: A Forensic Inquiry.* M. Evans.
 
 ---
 
-*[[Paper A5: The Breath of Life|Paper A5 — The Breath of Life]] →*
+*[[Adam A5: The Same Room]] →*
