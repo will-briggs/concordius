@@ -1,6 +1,6 @@
 *← [[Paper A0: Modeling Reality as a Gelfand Triple|Paper A0: Modeling Reality as a Gelfand Triple]]*
 
-# An Unexpected Visitor
+# Adam A1: An Unexpected Visitor
 
 After reading it through three times, he was annoyed. Not only because he could not find a hole in the math — and he had to admit that he could not — but because he could see where the paper was going. They were going to try to answer the question. THE question. The only one that matters.
 

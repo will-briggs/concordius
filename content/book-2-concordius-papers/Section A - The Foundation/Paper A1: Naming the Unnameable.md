@@ -1,4 +1,4 @@
-*← [[An Unexpected Visitor]]*
+*← [[Adam A1: An Unexpected Visitor]]*
 
 # Paper A1: Naming the Unnameable: From the Cogito to the Logos
 

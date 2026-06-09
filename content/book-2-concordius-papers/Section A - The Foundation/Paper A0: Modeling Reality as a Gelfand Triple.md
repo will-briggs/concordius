@@ -1,4 +1,4 @@
-*← [[An Unexpected Letter]]*
+*← [[Adam A0: An Unexpected Letter]]*
 
 # Paper A0: Modeling Reality as a Gelfand Triple: Two Complementary Projections of Complete Structure
 
@@ -334,4 +334,4 @@ von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer
 
 ---
 
-*[[An Unexpected Visitor]] →*
+*[[Adam A1: An Unexpected Visitor]] →*

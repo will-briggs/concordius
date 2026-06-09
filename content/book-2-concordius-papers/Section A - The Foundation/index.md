@@ -80,6 +80,6 @@ By the end of Paper A7, the framework is built. Everything that follows — the 
 
 ---
 
-*Begin the Foundation: [[An Unexpected Letter]] →*
+*Begin the Foundation: [[Adam A0: An Unexpected Letter]] →*
 
 *[[Section B - The Inheritance/index|Section B → The Inheritance]] →*
