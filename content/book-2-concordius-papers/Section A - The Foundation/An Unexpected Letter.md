@@ -14,7 +14,7 @@ A page in, he saw what it was trying to do, and he guffawed — a short, surpris
 
 It would get one — though not the kind they were after. He carried the pages down the hall to the study — the long room at the back where the serious reading was done, functional analysis shelved into Aquinas, the Gelfand–Vilenkin volumes within reach of the chair — not to find out whether it was true (it was not; he knew that the way he knew his own hand) but to find the hole. There is always a hole. A thing that reaches this far has torn somewhere, and he meant to find the tear, name it exactly, and — the part he was almost looking forward to — read the cut of the mistake backward to the student who had made it.
 
-He sat down and took up the red pencil, the way he had sat down for his entire academic life: to grade a freshman paper written by someone who didn't quite understand what they were trying to do.
+He sat down and took up the red pencil, the way he had sat down for his entire academic life: to grade a freshman paper written by someone who didn't quite understand what they were reaching for.
 
 ---
 
