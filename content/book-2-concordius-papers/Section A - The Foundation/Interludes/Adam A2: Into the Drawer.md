@@ -26,7 +26,7 @@ He was satisfied. The seam he had been hunting since the first envelope was foun
 
 ---
 
-The third paper came some months later, on a Thursday, while he was out on his weekly round of errands. He had very nearly stopped expecting one — that had been the entire point of the drawer — so the sight of it on the mat stopped him in the doorway with the groceries still in his arms: the same typed address, no return, the same ordinary postage. Thicker than the last. He sighed.
+The third paper came some months later, on a Thursday, while he was out on his weekly round of errands. He had very nearly forgotten the exercise — the sight of it on the mat stopped him in the doorway with the groceries still in his arms: the same typed address, no return, the same ordinary postage. Thicker than the last. He sighed.
 
 He sighed because he had to admit, standing there in his coat, that he had never quite stopped thinking about the other two. They had come at him from two directions — the structure from the one side, the names from the other — and between them they had walked him right up to the water and then not let him take a drop. He had the disagreeable sense of a man being hemmed in: triangulated by a correspondent he could not see, each paper another bearing taken on him out of the dark. And here, now, was the third vector.
 
