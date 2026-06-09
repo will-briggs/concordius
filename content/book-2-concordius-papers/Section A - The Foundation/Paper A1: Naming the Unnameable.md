@@ -559,4 +559,4 @@ And the oldest and dearest name His friends have found for that regard — the n
 
 ---
 
-*[[Paper A2: The Big Bang|Paper A2: The Big Bang]] →*
+*[[Adam A2: Into the Drawer]] →*

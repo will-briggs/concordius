@@ -1,0 +1,29 @@
+*← [[Paper A1: Naming the Unnameable|Paper A1: Naming the Unnameable]]*
+
+# Adam A2: Into the Drawer
+
+Well, they did it. They went out and did it.
+
+Did the dictionary definitions match? He could not say they didn't. Was the mathematics correct? He could not say it wasn't. He had sat down with the pencil sharpened and risen an hour later without a single mark to make — which had happened to him perhaps twice before in a long life of reading, and both times he had remembered the name on the paper for thirty years.
+
+But it was not the paper he had been waiting for. There was no Gödel in it. No assault on the theorem, no clever way around it, not even the honest white flag he had half-wanted to see them raise. They had not gone at the foundation from inside the system at all. They had done something quieter, and — he could see it now — cleverer: they had set the names down beside the structures and let a man notice, on his own, that they fell on the same places. Naming. Concordance. And there, he saw, was his out.
+
+Because a concordance is not a proof. Two columns can agree the whole way down and still be only two columns. They had proven nothing; they were circling the thing and calling the circle an argument. This paper was as incomplete as the last — but incomplete in a new direction. The first one had walked him to the water and admitted, to its credit, that it stopped there. This one wanted to carry him across without mentioning that they had left the ground. They wanted him to believe the Logos was a *Person.* And that he would not do. *I can't,* he thought, setting the pencil down. *I simply can't.*
+
+The cogito was the cheap part. Not dishonest — he made himself be exact about it, because the distance between the two words was the whole matter — not dishonest, but cheap. They had taken *I think, therefore I am,* the one thing a man cannot doubt, and used it as a scaling datum, a fixed quantity to set everything else against. The gears turned; he granted that the gears turned. But it was a bridge a man had to cross on his own feet, and he had stood at that exact bank once before and declined, and he was not going to be walked over it now by a typed page with no return address. They had nowhere shown him that their *personality* meant anything. It was not what psychology meant by the word. It was not what anyone he respected meant by it. Why, he asked the quiet of the study, should he take instruction from a pair of cranks with obviously far too much time on their hands?
+
+And yet.
+
+The symmetry was there, and he had to admit it; he hated to and he did. The definitions lined up. The distinctions among the modes of the one God — the ground, the speaking Word, the indwelling life — answered, one to one, to distinctions the mathematics had been forced into on its own terms, with no theology anywhere in the room when it happened. That was not nothing. He gave them that. He had never once failed to give a true thing its due; it was the only loyalty he had never broken.
+
+But — and it was the largest *but* of his entire long career of qualifying things — is Φ a person?
+
+No. Of course not.
+
+Truth is a thing one aims at. An ideal, standing at the far end of every honest sentence, drawing the work toward it and never once turning to look back. You do not pray to a limit. You do not get a letter from an asymptote. Φ was the most beautiful object he knew of, and it was an *object,* and a man who had spent sixty years refusing to mistake the elegant for the true was not about to begin, at eighty-three, on the word of a stranger.
+
+He was satisfied. The seam he had been hunting since the first envelope was found at last, and it ran precisely here — between the structure and the Person — and it would not bear weight, and that was the end of it. He stopped, a little to his own surprise, expecting any further mail. He squared the pages, slid them into the desk drawer, and pushed it shut. Then he set the study back in order — von Neumann up off the arm of the chair, the Gelfand–Vilenkin volumes returned to their high shelf — and went to put the kettle on.
+
+---
+
+*[[Paper A2: The Big Bang|Paper A2: The Big Bang]] →*
