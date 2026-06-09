@@ -1,6 +1,6 @@
 *← [[Paper G6: The Best a Man Can Do on This Plane|Paper G6: The Best a Man Can Do on This Plane]]*
 
-# Paper G6½: The Octave Change
+# Paper G6½: The Octave Change (Draft)
 
 ---
 

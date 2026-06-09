@@ -1,6 +1,6 @@
 *← [[Paper G2: The Brain-Orientation|Paper G2: The Brain-Orientation]]*
 
-# Paper G2½: The First Grade Change
+# Paper G2½: The First Grade Change (Draft)
 
 ---
 

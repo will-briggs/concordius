@@ -1,6 +1,6 @@
 *← [[Paper G2: The Brain-Orientation|Paper G2: The Brain-Orientation]]*
 
-# Paper G3: The Courage-Centered Man
+# Paper G3: The Courage-Centered Man (Draft)
 
 ---
 

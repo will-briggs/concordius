@@ -1,6 +1,6 @@
 *← [[Paper G6½: The Octave Change|Paper G6½: The Octave Change]]*
 
-# Paper G7: Full Integration — You Can't Get There from Here
+# Paper G7: Full Integration — You Can't Get There from Here (Draft)
 
 ---
 

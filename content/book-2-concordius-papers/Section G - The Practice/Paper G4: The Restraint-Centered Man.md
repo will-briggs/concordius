@@ -1,6 +1,6 @@
 *← [[Paper G3: The Courage-Centered Man|Paper G3: The Courage-Centered Man]]*
 
-# Paper G4: The Restraint-Centered Man
+# Paper G4: The Restraint-Centered Man (Draft)
 
 ---
 

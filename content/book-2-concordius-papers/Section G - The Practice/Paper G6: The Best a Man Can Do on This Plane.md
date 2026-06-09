@@ -1,6 +1,6 @@
 *← [[Paper G5: The Diligence-Centered Man|Paper G5: The Diligence-Centered Man]]*
 
-# Paper G6: The Best a Man Can Do on This Plane
+# Paper G6: The Best a Man Can Do on This Plane (Draft)
 
 ---
 

@@ -1,6 +1,6 @@
 *← [[Paper G4: The Restraint-Centered Man|Paper G4: The Restraint-Centered Man]]*
 
-# Paper G5: The Diligence-Centered Man
+# Paper G5: The Diligence-Centered Man (Draft)
 
 ---
 
