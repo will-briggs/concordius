@@ -1,6 +1,6 @@
 *← [[Paper E2: The Vessel|Paper E2: The Vessel]]*
 
-# Paper E2½: Type and Degree
+# Paper E2½: Type and Degree (Draft)
 
 ---
 

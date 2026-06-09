@@ -1,6 +1,6 @@
 *← [[Paper C3: The Courageous|Paper C3: The Courageous]]*
 
-# Paper C4: The Restrained — The Just Measure, Read Three Ways
+# Paper C4: The Restrained — The Just Measure, Read Three Ways (Draft)
 
 ---
 

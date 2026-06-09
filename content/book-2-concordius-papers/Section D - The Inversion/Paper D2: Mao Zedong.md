@@ -1,6 +1,6 @@
 *← [[Paper D1: Joseph Stalin|Paper D1: Joseph Stalin]]*
 
-# Paper D2: Mao Zedong: The Complete Inversion of the Beautiful
+# Paper D2: Mao Zedong: The Complete Inversion of the Beautiful (Draft)
 
 ---
 

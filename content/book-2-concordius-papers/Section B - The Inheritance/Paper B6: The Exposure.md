@@ -1,6 +1,6 @@
 *← [[Paper B5: The Method|Paper B5: The Method]]*
 
-# Paper B6: The Exposure
+# Paper B6: The Exposure (Draft)
 
 ---
 

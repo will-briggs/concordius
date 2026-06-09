@@ -1,6 +1,6 @@
 *← [[Paper C6½: The Crossing|Paper C6½: The Crossing]]*
 
-# Paper C7: The Inversion — Do, in the Minor Key
+# Paper C7: The Inversion — Do, in the Minor Key (Draft)
 
 ---
 

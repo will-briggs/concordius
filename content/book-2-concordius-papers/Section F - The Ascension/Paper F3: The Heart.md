@@ -1,6 +1,6 @@
 *← [[Paper F2½: The Opening|Paper F2½ — The Opening]]*
 
-# Paper F3: The Heart
+# Paper F3: The Heart (Draft)
 
 ---
 

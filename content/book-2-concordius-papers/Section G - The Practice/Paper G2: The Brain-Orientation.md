@@ -1,6 +1,12 @@
 *← [[Paper G1: The Heart-Orientation|Paper G1: The Heart-Orientation]]*
 
-# Paper G2: The Brain-Orientation
+# Paper G2: The Brain-Orientation (Draft)
+
+*(Draft — being reframed from its “Centered Man” title to the orientation below. Existing content kept as raw material.)*
+
+> **The Brain-Orientation — the Beautiful (e₃) — “I'll believe it when I see it”.** *I'll believe it when I see it.* It trusts the correspondence of inner and outer, once confirmed. Its two professions are the **scientist** (who believes when the test bears the hypothesis out — the outer answering the inner) and the **artist** (who believes when the made thing matches the inner state — the inner made outer): recording the artifacts of Creation, and making them. (Orientation definitions: *The Thirty-Six — Constitutions × Orientations*, Structural-Candidates.)
+
+**Remaining work.** The body below is the older *Brain*-as-constitution material (“Centered Man”). It needs reorganizing to the orientation above: lead with the believe-it-when-seen stance and the two professions, keep the Beautiful (e₃) as the transcendental reached, carry the instrument-≠-orientation caveat, and retire the “type of man / Man No.” language for “orientation.”
 
 ---
 

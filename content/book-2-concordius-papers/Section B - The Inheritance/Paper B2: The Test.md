@@ -1,6 +1,6 @@
 *← [[Paper B1: The Sacred Trust|Paper B1: The Sacred Trust]]*
 
-# Paper B2: The Test
+# Paper B2: The Test (Draft)
 
 ---
 

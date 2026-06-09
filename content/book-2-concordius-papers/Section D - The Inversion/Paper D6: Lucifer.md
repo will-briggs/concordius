@@ -1,6 +1,6 @@
 *← [[Paper D5: The Great Leap Forward|Paper D5: The Great Leap Forward]]*
 
-# Paper D6: Lucifer: The Maximum Exposure of Evil
+# Paper D6: Lucifer: The Maximum Exposure of Evil (Draft)
 
 ---
 

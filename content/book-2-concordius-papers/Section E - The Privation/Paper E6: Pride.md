@@ -1,6 +1,6 @@
 *← [[Paper E5: Sloth and Overwork|Paper E5: Sloth and Overwork]]*
 
-# Paper E6: Pride
+# Paper E6: Pride (Draft)
 
 ---
 

@@ -1,6 +1,6 @@
 *← [[Section D - The Inversion/index|Section D ← The Inversion]]*
 
-# Paper E0: The Derivation and the Testimony
+# Paper E0: The Derivation and the Testimony (Draft)
 
 ---
 

@@ -1,6 +1,6 @@
 *← [[Paper B3: The Principle|Paper B3: The Principle]]*
 
-# Paper B4: The Prediction
+# Paper B4: The Prediction (Draft)
 
 ---
 

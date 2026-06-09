@@ -4,7 +4,7 @@ tags:
   - nav-order::2
 ---
 
-# The Zodiac — The Twelve Constitutions
+# The Zodiac — The Twelve Constitutions (Draft)
 
 *Reasonablenessism (Book 1). One file per sign — the twelve constitutions of man (the H₁₂ wheel), each a station of (element × modality). Each sign carries three of the 36: its Good-, True-, and Beautiful-oriented forms. The full derivation from the algebra is at the foot of this page; the broader program is* The Thirty-Six — Constitutions × Orientations *(in development). Tier: exploratory; nothing here is earned yet.*
 

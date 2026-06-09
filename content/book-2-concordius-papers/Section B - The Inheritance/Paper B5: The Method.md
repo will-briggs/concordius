@@ -1,6 +1,6 @@
 *← [[Paper B4: The Prediction|Paper B4: The Prediction]]*
 
-# Paper B5: The Method
+# Paper B5: The Method (Draft)
 
 ---
 

@@ -1,6 +1,6 @@
 *← [[Paper E6: Pride|Paper E6: Pride]]*
 
-# Paper E6½: Humility
+# Paper E6½: Humility (Draft)
 
 ---
 

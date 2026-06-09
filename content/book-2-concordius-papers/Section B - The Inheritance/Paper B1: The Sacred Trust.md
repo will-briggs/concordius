@@ -1,6 +1,6 @@
 *← [[Paper B0: The Proof|Paper B0: The Proof]]*
 
-# Paper B1: The Sacred Trust
+# Paper B1: The Sacred Trust (Draft)
 
 ---
 

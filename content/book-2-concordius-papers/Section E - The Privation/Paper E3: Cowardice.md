@@ -1,6 +1,6 @@
 *← [[Paper E2½: Type and Degree|Paper E2½: Type and Degree]]*
 
-# Paper E3: Cowardice
+# Paper E3: Cowardice (Draft)
 
 ---
 

@@ -1,6 +1,12 @@
 *← [[Section F - The Ascension/index|Section F ← The Ascension]]*
 
-# Paper G0: The Gut-Orientation
+# Paper G0: The Gut-Orientation (Draft)
+
+*(Draft — being reframed from its “Centered Man” title to the orientation below. Existing content kept as raw material.)*
+
+> **The Gut-Orientation — the Good (e₁) — proof.** *This is true, therefore that follows.* It accepts its priors and derives, asking only what they entail, never why they hold. Its two professions look opposite and are one: the **mathematician** (priors = the axiom set, worked through the brain) and the **statesman** (priors = the way the world is, worked through the body). The centre names the *mode of knowing, not the organ used* — the gut-oriented mathematician thinks with his brain. (Orientation definitions: *The Thirty-Six — Constitutions × Orientations*, Structural-Candidates.)
+
+**Remaining work.** The body below is the older *Gut*-as-constitution material (“Centered Man”). It needs reorganizing to the orientation above: lead with the proof-stance and the two professions, keep the Good (e₁) as the transcendental reached, carry the instrument-≠-orientation caveat, and retire the “type of man / Man No.” language for “orientation.”
 
 ---
 

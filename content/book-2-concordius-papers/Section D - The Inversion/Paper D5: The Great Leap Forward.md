@@ -1,6 +1,6 @@
 *← [[Paper D4: The Great Purge|Paper D4: The Great Purge]]*
 
-# Paper D5: The Great Leap Forward: The Inversion of Diligence
+# Paper D5: The Great Leap Forward: The Inversion of Diligence (Draft)
 
 ---
 

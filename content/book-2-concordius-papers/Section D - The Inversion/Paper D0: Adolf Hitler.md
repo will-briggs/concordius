@@ -1,6 +1,6 @@
 *← [[Section C - The Company/index|Section C ← The Company]]*
 
-# Paper D0: Adolf Hitler: The Complete Inversion of the Good
+# Paper D0: Adolf Hitler: The Complete Inversion of the Good (Draft)
 
 ---
 

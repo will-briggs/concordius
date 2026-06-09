@@ -1,6 +1,6 @@
 *← [[Paper E6½: Humility|Paper E6½: Humility]]*
 
-# Paper E7: The Ascension Career
+# Paper E7: The Ascension Career (Draft)
 
 ---
 

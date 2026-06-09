@@ -1,6 +1,6 @@
 *← [[Paper C2: The Beautiful|Paper C2: The Beautiful]]*
 
-# Paper C2½: The Witnesses Were Already There
+# Paper C2½: The Witnesses Were Already There (Draft)
 
 ---
 

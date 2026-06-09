@@ -1,6 +1,6 @@
 *← [[Paper D2: Mao Zedong|Paper D2: Mao Zedong]]*
 
-# Paper D2½: The Demagogue and the Crowd
+# Paper D2½: The Demagogue and the Crowd (Draft)
 
 ---
 

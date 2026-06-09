@@ -4,7 +4,7 @@ tags:
   - nav-order::9
 ---
 
-# Position 9 — Libra
+# Position 9 — Libra (Draft)
 
 *Reasonablenessism (Book 1, "The Zodiac"). Exploratory stub: this constitution's coordinates and scaffold. The readings below are **not yet earned** — placeholders to be filled and tested. Tier: hypothesis. See* The Thirty-Six — Constitutions × Orientations (Program) *and* the derivation at the foot of the index*.*
 

@@ -1,6 +1,6 @@
 *← [[Paper D0: Adolf Hitler|Paper D0: Adolf Hitler]]*
 
-# Paper D1: Joseph Stalin: The Complete Inversion of the True
+# Paper D1: Joseph Stalin: The Complete Inversion of the True (Draft)
 
 ---
 

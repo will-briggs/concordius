@@ -1,6 +1,6 @@
 *← [[Paper C0: The Good|Paper C0: The Good]]*
 
-# Paper C1: The True — The Word, Read Three Ways
+# Paper C1: The True — The Word, Read Three Ways (Draft)
 
 ---
 

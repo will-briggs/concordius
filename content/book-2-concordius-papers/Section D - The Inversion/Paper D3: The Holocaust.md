@@ -1,6 +1,6 @@
 *← [[Paper D2½: The Demagogue and the Crowd|Paper D2½: The Demagogue and the Crowd]]*
 
-# Paper D3: The Holocaust: The Inversion of Bravery
+# Paper D3: The Holocaust: The Inversion of Bravery (Draft)
 
 ---
 

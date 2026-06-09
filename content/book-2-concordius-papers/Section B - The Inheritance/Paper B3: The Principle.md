@@ -1,6 +1,6 @@
 *← [[Paper B2½: The Leap|Paper B2½: The Leap]]*
 
-# Paper B3: The Principle
+# Paper B3: The Principle (Draft)
 
 ---
 

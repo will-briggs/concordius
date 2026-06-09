@@ -1,6 +1,6 @@
 *← [[Paper C1: The True|Paper C1: The True]]*
 
-# Paper C2: The Beautiful — Order Made to Delight, Read Three Ways
+# Paper C2: The Beautiful — Order Made to Delight, Read Three Ways (Draft)
 
 ---
 

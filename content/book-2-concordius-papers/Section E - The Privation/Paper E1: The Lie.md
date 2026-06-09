@@ -1,6 +1,6 @@
 *← [[Paper E0: The Derivation and the Testimony|Paper E0: The Derivation and the Testimony]]*
 
-# Paper E1: The Lie
+# Paper E1: The Lie (Draft)
 
 ---
 

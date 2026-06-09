@@ -1,6 +1,6 @@
 *← [[Section B - The Inheritance/index|Section B ← The Inheritance]]*
 
-# Paper C0: The Good — The Ground, Read Three Ways
+# Paper C0: The Good — The Ground, Read Three Ways (Draft)
 
 ---
 

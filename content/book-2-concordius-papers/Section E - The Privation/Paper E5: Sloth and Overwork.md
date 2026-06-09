@@ -1,6 +1,6 @@
 *← [[Paper E4: Excess|Paper E4: Excess]]*
 
-# Paper E5: Sloth and Overwork
+# Paper E5: Sloth and Overwork (Draft)
 
 ---
 

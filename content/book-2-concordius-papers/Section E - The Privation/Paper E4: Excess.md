@@ -1,6 +1,6 @@
 *← [[Paper E3: Cowardice|Paper E3: Cowardice]]*
 
-# Paper E4: Excess
+# Paper E4: Excess (Draft)
 
 ---
 

@@ -1,6 +1,6 @@
 *← [[Paper C2½: The Witnesses Were Already There|Paper C2½: The Witnesses Were Already There]]*
 
-# Paper C3: The Courageous — The Principle Held to the Fire, Read Three Ways
+# Paper C3: The Courageous — The Principle Held to the Fire, Read Three Ways (Draft)
 
 ---
 

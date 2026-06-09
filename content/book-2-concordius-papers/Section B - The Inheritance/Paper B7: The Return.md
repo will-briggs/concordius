@@ -1,6 +1,6 @@
 *← [[Paper B6½: The Reader's Turn|Paper B6½: The Reader's Turn]]*
 
-# Paper B7: The Return
+# Paper B7: The Return (Draft)
 
 ---
 

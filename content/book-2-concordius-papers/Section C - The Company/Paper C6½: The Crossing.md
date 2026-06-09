@@ -1,6 +1,6 @@
 *← [[Paper C6: The Host of Witnesses|Paper C6: The Host of Witnesses]]*
 
-# Paper C6½: The Crossing — The One We Make Together
+# Paper C6½: The Crossing — The One We Make Together (Draft)
 
 ---
 

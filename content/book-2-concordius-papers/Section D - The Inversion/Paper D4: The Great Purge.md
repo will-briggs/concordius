@@ -1,6 +1,6 @@
 *← [[Paper D3: The Holocaust|Paper D3: The Holocaust]]*
 
-# Paper D4: The Great Purge: The Inversion of Temperance
+# Paper D4: The Great Purge: The Inversion of Temperance (Draft)
 
 ---
 

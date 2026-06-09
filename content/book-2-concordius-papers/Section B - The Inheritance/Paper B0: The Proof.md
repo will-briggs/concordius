@@ -1,6 +1,6 @@
 *← [[Section A - The Foundation/index|Section A ← The Foundation]]*
 
-# Paper B0: The Proof
+# Paper B0: The Proof (Draft)
 
 ---
 

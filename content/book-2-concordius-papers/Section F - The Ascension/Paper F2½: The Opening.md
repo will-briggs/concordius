@@ -1,6 +1,6 @@
 *← [[Paper F2: The Ceiling|Paper F2 — The Ceiling]]*
 
-# Paper F2½: The Opening
+# Paper F2½: The Opening (Draft)
 
 ---
 

@@ -1,6 +1,12 @@
 *← [[Paper G0: The Gut-Orientation|Paper G0: The Gut-Orientation]]*
 
-# Paper G1: The Heart-Orientation
+# Paper G1: The Heart-Orientation (Draft)
+
+*(Draft — being reframed from its “Centered Man” title to the orientation below. Existing content kept as raw material.)*
+
+> **The Heart-Orientation — the True (e₂) — truth beyond proof.** *There is a truth beneath the axioms and beneath the matter.* It seeks what no prior entails and no test can show — truth without axiom, without hypothesis. Its two professions are the **theologian** (reaching beneath the matter) and the **philosopher** (beneath the axioms), both for a truth neither proof nor sight will hand them. (Orientation definitions: *The Thirty-Six — Constitutions × Orientations*, Structural-Candidates.)
+
+**Remaining work.** The body below is the older *Heart*-as-constitution material (“Centered Man”). It needs reorganizing to the orientation above: lead with the truth-beyond stance and the two professions, keep the True (e₂) as the transcendental reached, carry the instrument-≠-orientation caveat, and retire the “type of man / Man No.” language for “orientation.”
 
 ---
 

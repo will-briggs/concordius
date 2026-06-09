@@ -1,6 +1,6 @@
 *← [[Paper C4: The Restrained|Paper C4: The Restrained]]*
 
-# Paper C5: The Diligent — The Labor That Bears Fruit, Read Three Ways
+# Paper C5: The Diligent — The Labor That Bears Fruit, Read Three Ways (Draft)
 
 ---
 

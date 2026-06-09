@@ -1,6 +1,6 @@
 *← [[Paper C5: The Diligent|Paper C5: The Diligent]]*
 
-# Paper C6: Humility — The Host of Witnesses
+# Paper C6: Humility — The Host of Witnesses (Draft)
 
 ---
 
