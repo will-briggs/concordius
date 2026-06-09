@@ -98,4 +98,4 @@ And then, into the silence, a word. *Behold, a virgin shall conceive, and bear a
 
 ---
 
-*[[Paper A4: The Ascent of Man|Paper A4 — The Ascent of Man]] →*
+*[[Adam A4: The Old Lexicon]] →*

@@ -1,4 +1,4 @@
-*← [[Paper A3: Phi Enters Creation|Paper A3 — Φ Enters Creation]]*
+*← [[Adam A4: The Old Lexicon]]*
 
 # Paper A4: The Ascent of Man: From Particle to Body
 

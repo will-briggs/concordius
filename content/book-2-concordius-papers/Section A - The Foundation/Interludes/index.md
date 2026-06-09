@@ -14,3 +14,4 @@ title: Interludes
 - **[[Adam A2C: Down the Staircase]]** — Adam reads the descent.
 - **[[Adam A2D: Number Our Days]]** — Adam reads the two books.
 - **[[Adam A3: On Foot]]** — Adam reaches the end of the cascade.
+- **[[Adam A4: The Old Lexicon]]** — Adam checks their Greek.
