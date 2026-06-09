@@ -83,9 +83,9 @@ dl bronzino-allegory.jpg        "Angelo Bronzino - Venus, Cupid, Folly and Time 
 dl duchamp-nude-descending.jpg  "Marcel Duchamp, 1912, Nu descendant un escalier no 2 (Nude Descending a Staircase No. 2), oil on canvas, 147 x 89.2 cm, Philadelphia Museum of Art.jpg" "A2C — Duchamp, Nude Descending a Staircase No.2 (1912)"
 dl champaigne-vanitas.jpg       "StillLifeWithASkull.jpg"                                                       "A2D — de Champaigne, Vanitas (c.1671)"
 dl van-gogh-shoes.jpg           "Vincent Willem van Gogh 138.jpg"                                               "A3 — Van Gogh, Shoes (1886)"
-dl durer-jerome-study.jpg       "Albrecht Dürer - St Jerome in his Study - WGA07159.jpg"                         "A4 — Dürer, St. Jerome in His Study (1514)"
+dl spitzweg-bookworm.jpg        "Carl Spitzweg - Der Bücherwurm.jpg"                                            "A4 — Carl Spitzweg, The Bookworm (c.1850)"
 dl wright-alchemist.jpg         "JosephWright-Alchemist.jpg"                                                    "A5 — Wright of Derby, The Alchemist (1771)"
-dl hammershoi-open-doors.jpg    "Vilhelm Hammershøi - Interior, Strandgade 30 - Google Art Project.jpg"         "A6 — Hammershøi, Interior, Strandgade 30 (c.1901)"
+dl hammershoi-open-doors.jpg    "Vilhelm Hammershøi - A Room in the Artist's Home in Strandgade, Copenhagen, with the Artist's Wife - Google Art Project.jpg" "A6 — Hammershøi, A Room in the Artist's Home in Strandgade (1901)"
 dl friedrich-sea-of-ice.jpg     "Caspar David Friedrich - Das Eismeer - Hamburger Kunsthalle - 02.jpg"          "A6½ — Friedrich, The Sea of Ice (1823-24)"
 
 # ─── Verification ────────────────────────────────────────────────────────────

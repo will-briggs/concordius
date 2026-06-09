@@ -3,8 +3,8 @@
 # Adam A4: The Old Lexicon
 
 <figure>
-<img src="/static/images/durer-jerome-study.jpg" alt="Albrecht Dürer, Saint Jerome in His Study" style="max-width:100%;display:block;margin:0 auto;">
-<figcaption><em>Saint Jerome in His Study</em>, Albrecht Dürer (1514). The old translator among his books, the lion drowsing — the long lexical labour over a single word.</figcaption>
+<img src="/static/images/spitzweg-bookworm.jpg" alt="Carl Spitzweg, The Bookworm" style="max-width:100%;display:block;margin:0 auto;">
+<figcaption><em>The Bookworm (Der Bücherwurm)</em>, Carl Spitzweg (c. 1850). An old man up the library ladder among his towering volumes, hunting a single word.</figcaption>
 </figure>
 
 And now they had defined the angels.

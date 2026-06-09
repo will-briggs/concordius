@@ -3,8 +3,8 @@
 # Adam A6: The Unlocked Door
 
 <figure>
-<img src="/static/images/hammershoi-open-doors.jpg" alt="Vilhelm Hammershøi, Interior, Strandgade 30" style="max-width:100%;display:block;margin:0 auto;">
-<figcaption><em>Interior, Strandgade 30</em>, Vilhelm Hammershøi (c. 1901). A run of pale doors standing open the length of a quiet house.</figcaption>
+<img src="/static/images/hammershoi-open-doors.jpg" alt="Vilhelm Hammershøi, A Room in the Artist's Home in Strandgade" style="max-width:100%;display:block;margin:0 auto;">
+<figcaption><em>A Room in the Artist's Home in Strandgade, Copenhagen, with the Artist's Wife</em>, Vilhelm Hammershøi (1901). A hushed interior, the inner door standing open onto the next still room.</figcaption>
 </figure>
 
 They had done it again, and again it did not seem quite fair.
