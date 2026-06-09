@@ -2,6 +2,11 @@
 
 # Adam A6½: The Dereliction at -1
 
+<figure>
+<img src="/static/images/friedrich-sea-of-ice.jpg" alt="Caspar David Friedrich, The Sea of Ice" style="max-width:100%;display:block;margin:0 auto;">
+<figcaption><em>The Sea of Ice (The Wreck of Hope)</em>, Caspar David Friedrich (1823–24). Hope wrecked and abandoned at the floor of the world.</figcaption>
+</figure>
+
 He had been ready for everything else.
 
 He had been ready for the algebra, and the angels, and the two rooms thrown open; he had armoured against each in its turn, and where the armour failed he had at least seen the blow land. He was not ready for the cry.

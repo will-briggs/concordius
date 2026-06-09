@@ -2,6 +2,11 @@
 
 # Adam A2B: A Formula for Love
 
+<figure>
+<img src="/static/images/bronzino-allegory.jpg" alt="Agnolo Bronzino, Venus, Cupid, Folly and Time" style="max-width:100%;display:block;margin:0 auto;">
+<figcaption><em>Venus, Cupid, Folly and Time (An Allegory)</em>, Agnolo Bronzino (c. 1545). Love laid out as a cipher to be decoded — very nearly a formula.</figcaption>
+</figure>
+
 He read the first part of the cascade through twice, and the second time was colder than the first, because by the end of the first he had seen what they were doing.
 
 It opened by handing him back his own knife. The thing he had told Joe was the fatal flaw — that you cannot *derive* the Name, that the crossing from a structure to a God is a step taken on a man's own two feet and not a theorem — they set at the very head of the page, in nearly his words, and made it their first principle. *The structure is derivable; the name is not.* A week ago he would have called that honesty and been disarmed by it. He knew better now. You do not concede a man's objection on the first page unless you mean to get his guard down, and he had watched them get the *correction* to do that same work two days before. It was the same hand. He left the knife where it was.

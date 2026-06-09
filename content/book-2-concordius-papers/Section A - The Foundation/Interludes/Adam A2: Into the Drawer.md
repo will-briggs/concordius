@@ -2,6 +2,11 @@
 
 # Adam A2: Into the Drawer
 
+<figure>
+<img src="/static/images/hoogstraten-letter-rack.jpg" alt="Samuel van Hoogstraten, Trompe-l'œil letter rack" style="max-width:100%;display:block;margin:0 auto;">
+<figcaption><em>Trompe-l'œil: A Letter Rack</em>, Samuel van Hoogstraten (c. 1664). Papers tucked away behind the tape — the matter, one tells oneself, filed and closed.</figcaption>
+</figure>
+
 Well, they did it. They went out and did it.
 
 Did the dictionary definitions match? He could not say they didn't. Was the mathematics correct? He could not say it wasn't. He had sat down with the pencil sharpened and risen an hour later without a single mark to make against the mathematics — which had happened to him perhaps twice before in a long life of reading, and both times he had remembered the name on the paper for thirty years.

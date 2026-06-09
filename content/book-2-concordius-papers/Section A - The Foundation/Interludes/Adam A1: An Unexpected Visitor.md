@@ -2,6 +2,11 @@
 
 # Adam A1: An Unexpected Visitor
 
+<figure>
+<img src="/static/images/repin-unexpected-visitor.jpg" alt="Ilya Repin, They Did Not Expect Him" style="max-width:100%;display:block;margin:0 auto;">
+<figcaption><em>They Did Not Expect Him</em>, Ilya Repin (1884–88). The visitor no one in the house was waiting for, in the doorway before anyone has decided how to feel.</figcaption>
+</figure>
+
 After reading it through three times, he was annoyed. Not only because he could not find a hole in the math — and he had to admit that he could not — but because he could see where the paper was going. They were going to try to answer the question. THE question. The only one that matters.
 
 He had given three years to that question once — really given them, in a seminary, before the physics, under a Jesuit director of the old Thomist kind. He had not left because he stopped believing. He left because of a circle he could not square, and he had been precise about it even then. The vows rested on two claims, and he could grant exactly one. The first was easy: that under everything there is a ground — being itself, *ipsum esse,* the relation in which all that exists is held. You reach it by argument; he had, at twenty-five, and he held it still. The second was the one the vow actually required — that the ground is a *Person,* that it knows you by name, that what it is, is *Love* — and from the first to the second he had never found a step he was entitled to take. He had told his director the plain truth: *I don't know enough yet to promise this.* The old man had said it was the most honest thing he'd heard in that office in years, and meant it.

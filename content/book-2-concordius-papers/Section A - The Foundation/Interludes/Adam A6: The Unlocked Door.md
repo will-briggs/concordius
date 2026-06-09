@@ -2,6 +2,11 @@
 
 # Adam A6: The Unlocked Door
 
+<figure>
+<img src="/static/images/hammershoi-open-doors.jpg" alt="Vilhelm Hammershøi, Interior, Strandgade 30" style="max-width:100%;display:block;margin:0 auto;">
+<figcaption><em>Interior, Strandgade 30</em>, Vilhelm Hammershøi (c. 1901). A run of pale doors standing open the length of a quiet house.</figcaption>
+</figure>
+
 They had done it again, and again it did not seem quite fair.
 
 This time it was the soul — or the mind, depending which of his two houses you asked in. The paper took the thing the neurologists cut for and the thing the catechism calls the breath of life, and it did not set the two side by side and ask the reader to admire the resemblance. It simply treated them as one object, the mathematics running underneath like a floor laid under two rooms, and carried on. The waking of an interior; the living soul; the long material labour of writing it down — one account, and no seam where the seam was meant to be.

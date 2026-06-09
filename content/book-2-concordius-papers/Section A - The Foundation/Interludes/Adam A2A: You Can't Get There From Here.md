@@ -2,6 +2,11 @@
 
 # Adam A2A: You Can't Get There From Here
 
+<figure>
+<img src="/static/images/bruegel-blind.jpg" alt="Pieter Bruegel the Elder, The Blind Leading the Blind" style="max-width:100%;display:block;margin:0 auto;">
+<figcaption><em>The Parable of the Blind Leading the Blind</em>, Pieter Bruegel the Elder (1568). A procession headed, with great confidence, exactly where it cannot arrive.</figcaption>
+</figure>
+
 Adam read the paper through, sat back in his chair, and harrumphed.
 
 "Well. This one doesn't say anything controversial at all." He harrumphed a second time, as though it might correct the first, and found that it did not.

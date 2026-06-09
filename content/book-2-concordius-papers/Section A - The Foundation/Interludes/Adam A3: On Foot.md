@@ -2,6 +2,11 @@
 
 # Adam A3: On Foot
 
+<figure>
+<img src="/static/images/van-gogh-shoes.jpg" alt="Vincent van Gogh, Shoes" style="max-width:100%;display:block;margin:0 auto;">
+<figcaption><em>Shoes</em>, Vincent van Gogh (1886). The worn boots of a man who has done his travelling on foot.</figcaption>
+</figure>
+
 The last part did not argue. It gathered.
 
 Three things had been set down, it said, each in the only hand that could hold it: the algebra, which needs no name and cannot supply one; the naming, which the algebra cannot perform upon itself; and the descent, the named structure densifying down the grades to the floor of the world. Held apart, three separate accounts and no fourth. Held together — on the one recognition no derivation reaches — a single motion: Love, which is the inner product, generating of its own nature a world at a real distance from itself and building the long road back into the descent.

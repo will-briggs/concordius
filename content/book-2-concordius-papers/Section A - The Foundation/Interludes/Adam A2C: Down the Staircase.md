@@ -2,6 +2,11 @@
 
 # Adam A2C: Down the Staircase
 
+<figure>
+<img src="/static/images/duchamp-nude-descending.jpg" alt="Marcel Duchamp, Nude Descending a Staircase, No. 2" style="max-width:100%;display:block;margin:0 auto;">
+<figcaption><em>Nude Descending a Staircase, No. 2</em>, Marcel Duchamp (1912). The descent itself, rendered as nothing but motion down a stair.</figcaption>
+</figure>
+
 The charm survived the Dirac equation. That was the trouble.
 
 He had gone into the second part the way he used to go into deep water as a young man — sure of himself, on his own ground, certain his feet would find the bottom. And they had walked the structure straight down into Cl(3,1): the spacetime algebra, Hestenes', the very form of the Dirac equation he had lived inside for fifteen years. They had not got there by writing it down — the way every physicist since Dirac has simply *written it down* because the experiments demand it — but by counting. Three Persons and no anti-Persons; three positive generators and the single negative their complement leaves behind; therefore three dimensions of space and one of time; therefore the Lorentzian signature, the +,+,+,− that the world insists upon and that no one has ever been able to say *why.* And out of it drops E = mc², as it must. And out of it drops the photon, massless because it sits exactly on the seam where the two sides meet.

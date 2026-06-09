@@ -2,6 +2,11 @@
 
 # Adam A2D: Number Our Days
 
+<figure>
+<img src="/static/images/champaigne-vanitas.jpg" alt="Philippe de Champaigne, Vanitas still life" style="max-width:100%;display:block;margin:0 auto;">
+<figcaption><em>Still-Life with a Skull (Vanitas)</em>, Philippe de Champaigne (c. 1671). The hourglass set between the tulip and the skull — our days, counted out.</figcaption>
+</figure>
+
 The third part was not addressed to the physicist in him. He knew it within a page, and read it anyway.
 
 It was about wearing out. He was eighty-three; he had not needed a paper to introduce him to the subject. But he had never before seen the two names for the thing set down as one thing. Entropy — the dissipative axis, the reason the arrow of time points the one way and not the other — and mortality, the older word, the dust going back to dust: the paper said these were not two facts that happened to keep agreeing but a single fact with a single cause, the one minus sign at the floor of the algebra, met from two directions. The scientist meets it as the Lorentzian signature. The mortal meets it as death. *Aging is entropy, and aging is the wage of the Choice, and these are the same wearing.* He had given his life to the first half of that sentence and his evasions to the second, and here a stranger had welded them.

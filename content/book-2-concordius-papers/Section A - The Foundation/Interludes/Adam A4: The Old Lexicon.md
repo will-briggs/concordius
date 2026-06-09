@@ -2,6 +2,11 @@
 
 # Adam A4: The Old Lexicon
 
+<figure>
+<img src="/static/images/durer-jerome-study.jpg" alt="Albrecht Dürer, Saint Jerome in His Study" style="max-width:100%;display:block;margin:0 auto;">
+<figcaption><em>Saint Jerome in His Study</em>, Albrecht Dürer (1514). The old translator among his books, the lion drowsing — the long lexical labour over a single word.</figcaption>
+</figure>
+
 And now they had defined the angels.
 
 He read it through twice, to be sure he was not inventing it. Two kinds of formed being fall straight out of the triple, the paper said: the mortal, who begins in Φ′ and reaches the geometry only through a probe — and the *angelic,* who begins already inside H, native to the space, nearest Φ, whose whole office is to carry the high content downward. *Ministering spirits, sent forth to minister.* H-origin and Φ′-origin. Two addresses in the one building.

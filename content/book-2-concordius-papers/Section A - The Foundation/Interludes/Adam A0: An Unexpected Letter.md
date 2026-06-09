@@ -1,5 +1,10 @@
 # Adam A0: An Unexpected Letter
 
+<figure>
+<img src="/static/images/vermeer-letter.jpg" alt="Johannes Vermeer, Girl Reading a Letter at an Open Window" style="max-width:100%;display:block;margin:0 auto;">
+<figcaption><em>Girl Reading a Letter at an Open Window</em>, Johannes Vermeer (c. 1657–59). A solitary figure at a window, wholly given over to a letter she had no reason to expect.</figcaption>
+</figure>
+
 The morning post came at the usual hour, through the slot in the front door, and Adam did not get up for it. He had been at his desk since five — he kept the hours of a man who had long ago stopped negotiating with his own body — and the small avalanche on the mat could wait until he wanted coffee.
 
 He had lived in this house seventeen years and could not have told you the name of the man who brought the mail, or the milk, or who did the laundry or removed the trash, or their faces, or even whether it was the same men week to week. People who delivered things were a category, not individuals; his attention went where he sent it, and he had never once thought to send it there. So the figure who posted the envelopes through the slot that morning came and went the way weather comes and goes, and left about as much trace. (Both women who had nearly married him had said some version of the same thing: *you are entirely present in your mind, and not quite present anywhere else.* He had not disputed it then. He was, he supposed, not disputing it now.)
