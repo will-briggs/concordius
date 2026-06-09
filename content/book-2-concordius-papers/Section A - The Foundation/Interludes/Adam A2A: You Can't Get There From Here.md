@@ -44,4 +44,14 @@ Joe said nothing for a moment. He had seen that light come up in Adam's eye perh
 
 ---
 
+The next paper arrived with the same indistinctness as the rest — a weekday morning, in among the post. He took it off the pile as though it were the most natural thing in the world, carried it to the desk, and sat down to read. He had to work to keep the self-contentment off his face. He was about to win. They were about to lose.
+
+It was not the next paper. It was the previous one, come back marked with a correction — *his* correction. The authors had taken it back. They wrote that they had been wrong; that it had most likely been their own bias, the wish to have the mathematics flatter the tradition they had come from. They thanked a reviewer. They thanked *him* — for notes he had made only to himself, in the margin of a copy that was, at that moment, lying face-down in the drawer beside his knee.
+
+He spent the next hour going through the house for a camera. He looked at the lamps and the spines of the books and the corners of the ceiling where a man would put one. He found none. He could not explain it, and he did not like things he could not explain; he had spent a life not liking them, and the not-liking was most of what had made him good.
+
+He kept coming back to the correction, because it troubled him in the wrong direction — men who are hiding something do not hand you the place they were caught; they bury it, and these had gone and printed it. He turned that over for a while. And then, with something close to relief, he had it: the trick. They were softening him up — get the knife back in the drawer, get him grateful, get him onto their side of the table before they asked him to swallow the proof they cannot prove. Cheap. But clever. The old Adam was back all at once, the knife up out of the drawer where he had laid it, ready for the next paper.
+
+---
+
 *[[Paper A2A: The Constraint Cascade|Paper A2A: The Constraint Cascade: The Algebra and Its Author]] →*
