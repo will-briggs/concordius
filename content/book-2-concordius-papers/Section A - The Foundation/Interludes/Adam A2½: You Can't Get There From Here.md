@@ -38,9 +38,9 @@ Joe scratched his jaw. "So — is there? Something before the Big Bang?"
 
 "And you're going to read it."
 
-Adam was quiet a moment. "I am going to read it," he said, "because I would like to watch a clever man walk up to a wall I cannot get over, and learn whether he has noticed that it is there." He lifted the pages off Joe's knee and squared them, himself, this time. "If he hasn't, I'll have my hole at last. And if he has —"
+"Read it?" Something lit in him that he would have let no one but Joe see. He reached over and took the pages back off Joe's knee. "Joe, I am going to *relish* it. That's just it — they think they have me hemmed in. Three papers, closing from three sides. But you can't get there from here, and that is the very thing they have forgotten. The mathematics alone does not reach it. The theology alone does not reach it. The science does not reach it. Not one of the three crosses that wall on its own — and the moment they try to bind the three together into a single proof, into something that stands *outside* all of it and points back at the ground of all of it —" he turned his free hand over, palm up "— Gödel. Again. You cannot establish the foundation from inside the system, and there is no outside to stand on. So they cannot hand me a proof. They can hand me a guess, or they can hand me a metaphor, and the instant they pretend it is one inch more than that —" the words were coming quicker now "— that is where we have them, Joe. That is where we have them."
 
-He left it. Joe did not make him finish it. He drank off the last of his coffee, said he'd see himself out, and left Adam alone with the next thing already turning over in him — the late light laid long and level across the floorboards, the two tepid bottles still standing where he'd set them.
+Joe said nothing for a moment. He had seen that light come up in Adam's eye perhaps three or four times in fifty years, and he had learned not to put a hand near it. It was the look of a hunted man who has concluded, on what seems to him like sound evidence, that he is the one doing the hunting. He did not mention it. He drank off the last of his coffee, said he'd see himself out, and left Adam alone with the pages — the late light laid long and level across the floorboards, the two tepid bottles still standing where he'd set them.
 
 ---
 
