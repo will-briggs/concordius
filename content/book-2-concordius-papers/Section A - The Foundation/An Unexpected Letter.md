@@ -4,7 +4,7 @@ The morning post came at the usual hour, through the slot in the front door, and
 
 He had lived in this house seventeen years and could not have told you the name of the man who brought the mail, or the milk, or who did the laundry or removed the trash, or their faces, or even whether it was the same men week to week. People who delivered things were a category, not individuals; his attention went where he sent it, and he had never once thought to send it there. So the figure who posted the envelopes through the slot that morning came and went the way weather comes and goes, and left about as much trace. (Both women who had nearly married him had said some version of the same thing: *you are entirely present in your mind, and not quite present anywhere else.* He had not disputed it then. He was, he supposed, not disputing it now.)
 
-He gathered the mail when the kettle went on. Two bills, a journal he no longer read and could not bring himself to cancel, the parish bulletin — and one envelope that did not belong. Plain. Address typed. Postage ordinary. No return.
+He gathered the mail when the kettle went on. Two bills, a journal he no longer read and could not bring himself to cancel, the parish bulletin — and one envelope that did not belong. Plain. Address typed. Postage ordinary. No return. But thick — like a folded paper.
 
 He turned it over twice, the way you check a coin you suspect. "I wasn't expecting anything," he said to the kitchen, which did not answer. He set it with the bills. "I don't like receiving things I'm not expecting. Give an old man his habits."
 
