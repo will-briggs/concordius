@@ -104,4 +104,4 @@ And the throughline closes here. Every mark a mind ever left was a reaching — 
 
 ---
 
-*[[Paper A6: The Son of Man|Paper A6: The Son of Man: Maximum Kenosis]] →*
+*[[Adam A6: The Unlocked Door]] →*

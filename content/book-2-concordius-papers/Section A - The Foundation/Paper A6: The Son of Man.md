@@ -1,4 +1,4 @@
-*← [[Paper A5: The Breath of Life|Paper A5 — The Breath of Life]]*
+*← [[Adam A6: The Unlocked Door]]*
 
 # Paper A6: The Son of Man: Maximum Kenosis
 
