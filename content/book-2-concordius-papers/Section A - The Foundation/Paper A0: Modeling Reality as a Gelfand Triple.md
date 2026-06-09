@@ -1,4 +1,4 @@
-*← [[Paper A0: An Unexpected Letter|Paper A0: An Unexpected Letter]]*
+*← [[An Unexpected Letter]]*
 
 # Paper A0: Modeling Reality as a Gelfand Triple: Two Complementary Projections of Complete Structure
 
