@@ -18,7 +18,25 @@ He could see exactly how it would work. On the tired; on the lonely; on the half
 
 It was not built for him. And what he felt, looking at the squared stack, was not anger — he turned the word over and it surprised him — it was *embarrassment.* A little embarrassment on their behalf, that they had run the thing all this distance and never once looked up to see whom they were running it on. He had stood at a gap exactly this width for sixty years and not stepped, on nights longer than any they knew how to engineer. They had brought a slow tide to a man made of stone.
 
-He would keep reading. Of course he would keep reading — he would be there on the day they finally set the proof on the table or admitted in print that they could not, and he intended to be looking straight at them when it came. There was a fresh paper under the stack, *Φ Enters Creation,* and the tea had gone stone cold, and he drew the new one toward him without ceremony — a man pulling up a chair to watch a long bluff to its end.
+---
+
+The next time Joe came by, Adam was in his usual place at the desk, the study as tidy as ever, the mailed papers nowhere in sight, bent over some great tome and laying small notes into its margins with the red pencil. After a while Joe asked about the last one — the paper Adam had told him was a trick.
+
+"The last —? Oh. Those anonymous things in the post." He waved the pencil. "Ha. I worked it out. One long con, run on an old man they thought too far gone not to be suckered in."
+
+Joe knew his friend better than Adam knew himself. Adam wore his tells the way a man wears a uniform he has had on so long he has forgotten it is there. "So you're done with them," Joe said.
+
+"Done. Yes, of course. They never came round to the proof, you see. Just deferral, and correction. They made some good retrodictions — I'll give them that — but they still haven't handed me one thing I can hang my hat on."
+
+"I see," said Joe.
+
+And he did see. He had known Adam since they were nineteen, and had heard him be *done* with a good many things he was not done with; the tell was never in what Adam said but in how thoroughly he said it — a man does not deliver a three-part verdict on a thing he has stopped thinking about, and he does not keep the red pencil sharp for it. Joe looked at the too-tidy desk, and at the drawer, and said none of it. He finished his coffee, made some remark about the weather turning, and let himself out — and would not, walking to his car, have taken the far side of a bet that Adam would have the next one open before the week was out.
+
+---
+
+A few days later Adam was standing near the door when the morning's post came through the slot. He looked down, and there it was in the scatter on the mat: typed address, no return, ordinary postage. *Ha,* he said, to no one. *They think the fish is still on the hook.*
+
+He was aware of the trick now, and a man aware of the trick is in no hurry. He finished his coffee. He finished it slowly, looking out the window, glancing now and then at the little pile he had not yet gone to collect. Only once he had satisfied himself that he was crossing the room at his own leisure, in his own time, for reasons entirely his own, did he go to the mat, take up the single unmarked envelope, carry it back to the desk, and sit down to read.
 
 ---
 
