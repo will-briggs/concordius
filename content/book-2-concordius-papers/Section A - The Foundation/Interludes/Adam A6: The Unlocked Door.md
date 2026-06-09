@@ -18,4 +18,8 @@ He sat with the last page turned, and did not reach for anything. The next one, 
 
 ---
 
+It landed on the mat on a Saturday, the way the important ones did. He had not been waiting for it — but he had not, if he was honest, been *not* waiting either. The magician had him now, both hands, and the trick was working its way through to wherever it was going; he had not caught the sleight, and somewhere back in the last paper he had understood that he was not meant to, that catching it had never been the game. And today — he noted it with the mild, far-off interest of a man taking his own pulse — today he did not especially want to. It would only spoil the trick.
+
+---
+
 *[[Paper A6: The Son of Man|Paper A6: The Son of Man: Maximum Kenosis]] →*
