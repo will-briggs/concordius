@@ -10,7 +10,7 @@ That was the trouble with it. The first paper had reached for the foundation, an
 
 It sat with him some days. He did not know what to make of a paper that wanted nothing from him.
 
-Joe let himself in on what might have been a Tuesday; the days had a way of not announcing themselves in that house, and Adam had long since stopped requiring them to. He came down the two shallow steps into the middle of the room — the conversation pit Adam had sunk into the floor decades ago and never once considered filling back in, a ring of low cushioned seating that had been the very height of something the season it went in and had simply outlasted the fashion into a kind of permanence — and settled into the place that had been his for thirty years.
+Joe let himself in that afternoon, the way he always had, and brought the morning's milk in off the step with him because Adam plainly hadn't — two bottles gone tepid that he set on the kitchen counter on his way through. He crossed to the worn armchair that had been his side of the room for thirty years and settled into it.
 
 "Joe. Read this."
 
@@ -40,7 +40,7 @@ Joe scratched his jaw. "So — is there? Something before the Big Bang?"
 
 Adam was quiet a moment. "I am going to read it," he said, "because I would like to watch a clever man walk up to a wall I cannot get over, and learn whether he has noticed that it is there." He lifted the pages off Joe's knee and squared them, himself, this time. "If he hasn't, I'll have my hole at last. And if he has —"
 
-He left it. Joe did not make him finish it. He drank off the last of his coffee, said he'd see himself out, and left Adam down in the old pit with the next thing already turning over in him and the light going long and level across the floor the way it had done for more years than either of them was any longer in the habit of counting.
+He left it. Joe did not make him finish it. He drank off the last of his coffee, said he'd see himself out, and left Adam alone with the next thing already turning over in him — the late light laid long and level across the floorboards, the two tepid bottles still standing where he'd set them.
 
 ---
 
