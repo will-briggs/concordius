@@ -80,6 +80,6 @@ By the end of Paper A7, the framework is built. Everything that follows — the 
 
 ---
 
-*Begin the Foundation: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper A0 — Modeling Reality as a Gelfand Triple]] →*
+*Begin the Foundation: [[Paper A0: An Unexpected Letter|Paper A0 — An Unexpected Letter]] →*
 
 *[[Section B - The Inheritance/index|Section B → The Inheritance]] →*
