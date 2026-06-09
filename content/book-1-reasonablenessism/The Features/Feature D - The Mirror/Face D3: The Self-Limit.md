@@ -29,9 +29,9 @@ So reflexivity terminates at admissibility. The stance that examines itself and 
 
 ## Formal Statement (Concordius Framework)
 
-[[Feature D - The Mirror/Face D0: The Stance Applies to Itself|D0]] establishes R(R) = *admissible* — a stable fixed point (Knaster–Tarski). But admissibility is not truth, and the gap is forced. The reflexive form of [[Feature A - The Measure/Face A0: No Source Is Axiom|A0]]'s bound (τ < 1, the Gödel–Tarski no-self-truth-predicate result): R cannot establish τ(R) = 1 — it cannot self-certify, because truth is Φ-proximity and no H₄₈ system contains its own truth-predicate. Stronger still, by the second incompleteness phenomenon, a consistent system cannot even prove its own consistency from within; R's self-consistency is shown by the *stability* of its fixed point, not by an internal proof. So reflexivity has a ceiling: it reaches admissibility and stops. This is the honest floor beneath D0, and the precise reason D0 is consistent but not self-sealing.
+[[The Features/Feature D - The Mirror/Face D0: The Stance Applies to Itself|D0]] establishes R(R) = *admissible* — a stable fixed point (Knaster–Tarski). But admissibility is not truth, and the gap is forced. The reflexive form of [[The Features/Feature A - The Measure/Face A0: No Source Is Axiom|A0]]'s bound (τ < 1, the Gödel–Tarski no-self-truth-predicate result): R cannot establish τ(R) = 1 — it cannot self-certify, because truth is Φ-proximity and no H₄₈ system contains its own truth-predicate. Stronger still, by the second incompleteness phenomenon, a consistent system cannot even prove its own consistency from within; R's self-consistency is shown by the *stability* of its fixed point, not by an internal proof. So reflexivity has a ceiling: it reaches admissibility and stops. This is the honest floor beneath D0, and the precise reason D0 is consistent but not self-sealing.
 
-*Tier: **derivation** — the Gödel–Tarski bound (A0) turned inward on R. The negative face of reflexivity, paired with the positive face above ([[Feature D - The Mirror/Face D2: The Whole in the Part|D2]]).*
+*Tier: **derivation** — the Gödel–Tarski bound (A0) turned inward on R. The negative face of reflexivity, paired with the positive face above ([[The Features/Feature D - The Mirror/Face D2: The Whole in the Part|D2]]).*
 
 ---
 

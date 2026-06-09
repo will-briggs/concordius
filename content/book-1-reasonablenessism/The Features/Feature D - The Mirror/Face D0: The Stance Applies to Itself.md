@@ -1,4 +1,4 @@
-*← [[Feature D - The Mirror/index|Feature D — The Mirror]]*
+*← [[The Features/Feature D - The Mirror/index|Feature D — The Mirror]]*
 
 # Face D0: The Stance Applies to Itself
 

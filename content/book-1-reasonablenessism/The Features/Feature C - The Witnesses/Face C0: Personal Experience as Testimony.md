@@ -1,4 +1,4 @@
-*← [[Feature C - The Witnesses/index|Feature C — The Witnesses]]*
+*← [[The Features/Feature C - The Witnesses/index|Feature C — The Witnesses]]*
 
 # Face C0: Personal Experience as Testimony
 

@@ -43,4 +43,4 @@ When you can state their position so well that they say *yes, that's it* — the
 
 ---
 
-*[[Feature B - The Boundary/index|Feature B — The Boundary]] →*
+*[[The Features/Feature B - The Boundary/index|Feature B — The Boundary]] →*

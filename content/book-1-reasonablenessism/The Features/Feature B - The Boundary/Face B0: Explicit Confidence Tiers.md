@@ -1,4 +1,4 @@
-*← [[Feature B - The Boundary/index|Feature B — The Boundary]]*
+*← [[The Features/Feature B - The Boundary/index|Feature B — The Boundary]]*
 
 # Face B0: Explicit Confidence Tiers
 

@@ -1,4 +1,4 @@
-*← [[Feature A - The Measure/index|Feature A — The Measure]]*
+*← [[The Features/Feature A - The Measure/index|Feature A — The Measure]]*
 
 # Face A0: No Source Is Axiom
 

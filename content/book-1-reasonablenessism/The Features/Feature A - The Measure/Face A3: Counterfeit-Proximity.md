@@ -35,4 +35,4 @@ The operator A constructed in [[Appendix F - A Putative Method for Machine-Assis
 
 ---
 
-*[[Feature C - The Witnesses/index|Feature C — The Witnesses]] →*
+*[[The Features/Feature C - The Witnesses/index|Feature C — The Witnesses]] →*

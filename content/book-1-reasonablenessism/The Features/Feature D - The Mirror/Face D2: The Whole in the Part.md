@@ -29,10 +29,10 @@ If your way of weighing evidence in a scientific paper is unrecognizable as the 
 
 ## Formal Statement (Concordius Framework)
 
-This is the **Holographic Content Principle** (the corpus's HCP, enacted in Paper B6) read as a feature of the stance. Formally: a sound evaluation operator R is **scale-invariant** — its restriction to any sub-domain reproduces R's structure, so R is a fixed point not only of self-application ([[Feature D - The Mirror/Face D0: The Stance Applies to Itself|D0]]) but of *restriction*. The corpus's own measure exhibits it: τ(D) = ‖P_Φ D‖² ⁄ ‖D‖² has the identical form at the scale of a claim, a document, and the whole corpus, and the four objects (Measure, Witnesses, Boundary, Mirror) each re-present the one measure. Where self-similarity fails — where a part does not carry the whole's structure — the HCP reads it as incompleteness in the part or unsoundness in the whole.
+This is the **Holographic Content Principle** (the corpus's HCP, enacted in Paper B6) read as a feature of the stance. Formally: a sound evaluation operator R is **scale-invariant** — its restriction to any sub-domain reproduces R's structure, so R is a fixed point not only of self-application ([[The Features/Feature D - The Mirror/Face D0: The Stance Applies to Itself|D0]]) but of *restriction*. The corpus's own measure exhibits it: τ(D) = ‖P_Φ D‖² ⁄ ‖D‖² has the identical form at the scale of a claim, a document, and the whole corpus, and the four objects (Measure, Witnesses, Boundary, Mirror) each re-present the one measure. Where self-similarity fails — where a part does not carry the whole's structure — the HCP reads it as incompleteness in the part or unsoundness in the whole.
 
-*Tier: **criterion** — scale-invariance is well-posed; that a *sound* stance must be self-similar is the HCP, itself a near-derivation from the nuclear structure of the Gelfand triple (the whole recoverable from a dense part). The positive face of reflexivity, paired with the negative face below ([[Feature D - The Mirror/Face D3: The Self-Limit|D3]]).*
+*Tier: **criterion** — scale-invariance is well-posed; that a *sound* stance must be self-similar is the HCP, itself a near-derivation from the nuclear structure of the Gelfand triple (the whole recoverable from a dense part). The positive face of reflexivity, paired with the negative face below ([[The Features/Feature D - The Mirror/Face D3: The Self-Limit|D3]]).*
 
 ---
 
-*[[Feature D - The Mirror/Face D3: The Self-Limit|Face D3: The Self-Limit]] →*
+*[[The Features/Feature D - The Mirror/Face D3: The Self-Limit|Face D3: The Self-Limit]] →*
