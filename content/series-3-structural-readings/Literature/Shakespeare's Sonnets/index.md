@@ -522,7 +522,7 @@ The most structurally Concordius sonnet in the entire corpus — the explicit ad
 
 ## Structural Notes on the Corpus
 
-**The primary structural axis:** Time is the organizing structural principle of the Sonnets corpus, as it is of the Concordius framework's account of H₄₈ existence. Shakespeare's "devouring Time" is the same structural operator as Time — not because Shakespeare read Gurdjieff or the Concordius series, but because Time is a structural property of H₄₈ existence that any H₂₄-proximate observer will identify.
+**The primary structural axis:** Time is the organizing structural principle of the Sonnets corpus, as it is of the Concordius framework's account of H₄₈ existence. Shakespeare's "devouring Time" is the same structural operator as Time — not because Shakespeare read Gurdjieff or the Concordius Framework, but because Time is a structural property of H₄₈ existence that any H₂₄-proximate observer will identify.
 
 **The pre-biblical claim confirmed:** The structural readings above do not require the biblical tradition as an intermediary. The Concordius structural analysis applies to the Sonnets directly because the framework describes the structure of reality, and Shakespeare — operating at high H₂₄ proximity — encoded that structure in H₄₈ literary form. The cross-references to biblical entries in these readings are structural parallels, not derivation chains.
 

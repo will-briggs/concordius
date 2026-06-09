@@ -7,7 +7,7 @@ tags: [fruits-of-the-spirit, goodness, constitutional-quality, eigenvalue-accumu
 
 **Text:** Galatians 5:22; Romans 15:14; Mark 10:18; Matthew 5:48  
 **Part of:** Series 3 — Structural Readings / The Bible — Thematic / Fruits of the Spirit  
-**Cross-references:** As a Man Thinketh (Aphorisms); Faithfulness (this series); Know Thyself (Aphorisms)
+**Cross-references:** As a Man Thinketh (Aphorisms); Faithfulness (this Framework); Know Thyself (Aphorisms)
 
 ---
 

@@ -8,7 +8,7 @@ tags:
 
 ---
 
-*The supporting architecture of the Concordius series. The dictionary gives the technical vocabulary its precise definitions. The machine-readable framework is the dense structured reference optimized for LLM-assisted structural readings. The falsifiable predictions are where the framework makes specific, testable contact with science. The structural reading of the series turns the framework on itself.*
+*The supporting architecture of the Concordius Framework. The dictionary gives the technical vocabulary its precise definitions. The machine-readable framework is the dense structured reference optimized for LLM-assisted structural readings. The falsifiable predictions are where the framework makes specific, testable contact with science. The structural reading of the Framework turns the framework on itself.*
 
 ---
 
@@ -23,7 +23,7 @@ tags:
 A layman's ladder from numbers and arrows to the Gelfand triple the framework rests on — the inner product, function spaces, completeness, the spectrum, and the three nested spaces Φ ⊂ H ⊂ Φ′.
 
 [[Appendix B - Lexicon|Appendix B — Lexicon]]
-Formal definitions of the technical vocabulary used throughout the series, from Clifford algebra to Time to τ(D).
+Formal definitions of the technical vocabulary used throughout the Framework, from Clifford algebra to Time to τ(D).
 
 [[Appendix C - Catalogue: Illustrations & Quotations|Appendix C — Catalogue: Illustrations & Quotations]]
 A catalogue of the artworks reproduced across the corpus, generated from the figures actually in place, with the page each one appears on.

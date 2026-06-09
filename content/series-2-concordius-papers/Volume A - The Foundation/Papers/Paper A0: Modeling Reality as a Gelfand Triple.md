@@ -109,7 +109,7 @@ Every self-adjoint operator A on H, when its domain is taken within Φ, has a co
 
 > **ψ = ∫ ⟨eλ, ψ⟩ eλ dμ(λ)**
 
-where dμ is the spectral measure on the spectrum of A. The position eigenstates |x⟩ = δ(x − x₀) are exactly the distributional eigenvectors of the position operator, living in Φ′ rather than H. This is the mechanism by which the triple produces specific, finite outcomes from the infinite structure of the state space: the spectral measure dμ coordinates the H-state ψ and the Φ′-eigenstates eλ jointly into a finite result. This result — the central consequence the Gelfand triple makes possible — is named the **Generalized Nuclear Spectral Theorem (GNST)**. Taken not as a theorem proved once but as the standing operation of the model, the GNST is a continuous act; that operative sense is developed in §6, and it is the GNST so understood to which the rest of the series refers.
+where dμ is the spectral measure on the spectrum of A. The position eigenstates |x⟩ = δ(x − x₀) are exactly the distributional eigenvectors of the position operator, living in Φ′ rather than H. This is the mechanism by which the triple produces specific, finite outcomes from the infinite structure of the state space: the spectral measure dμ coordinates the H-state ψ and the Φ′-eigenstates eλ jointly into a finite result. This result — the central consequence the Gelfand triple makes possible — is named the **Generalized Nuclear Spectral Theorem (GNST)**. Taken not as a theorem proved once but as the standing operation of the model, the GNST is a continuous act; that operative sense is developed in §6, and it is the GNST so understood to which the rest of the Framework refers.
 
 ---
 

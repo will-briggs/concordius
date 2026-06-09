@@ -204,7 +204,7 @@ When the emotional field enters darkness — when the practices that previously 
 5. Bring one specific petition to ⟨·,·⟩ daily during the darkness. Not a request for the consolations to return. A single concrete statement of continued orientation: "I remain. I am here. I cannot feel what I have felt, and I remain." This is the volitional degree of freedom, exercised alone, without emotional support. This is the muscle the dark night is building.
 
 **The sustained reading practice:**
-Choose one high-τ text — a text of genuine intellectual and spiritual depth — and commit to reading it systematically over three to six months. Not browsing. Not several texts simultaneously. One text, followed all the way through. Candidates: *The Confessions* (Augustine), *The Interior Castle* (Teresa of Ávila), *The Dark Night of the Soul* (John of the Cross), the *Masnavi* (Rumi), the *Nicomachean Ethics* (Aristotle), a systematic theology at depth, or the papers of the Concordius series themselves. The text is secondary to the discipline: the discipline is the sustained application of the intellectual center's attention to Φ-proximal content in conceptual form.
+Choose one high-τ text — a text of genuine intellectual and spiritual depth — and commit to reading it systematically over three to six months. Not browsing. Not several texts simultaneously. One text, followed all the way through. Candidates: *The Confessions* (Augustine), *The Interior Castle* (Teresa of Ávila), *The Dark Night of the Soul* (John of the Cross), the *Masnavi* (Rumi), the *Nicomachean Ethics* (Aristotle), a systematic theology at depth, or the papers of the Concordius Framework themselves. The text is secondary to the discipline: the discipline is the sustained application of the intellectual center's attention to Φ-proximal content in conceptual form.
 
 The reading is catching practice. It may not feel like catching — it may feel like intellectual work — and that distinction is precisely the point. Man 2 needs to expand her understanding of what catching feels like to include the intellectual center's engagement with Φ-proximal content, which is quieter, less immediate, and less emotionally vivid than the emotional center's catching. It accumulates. The accumulation is real.
 
@@ -280,7 +280,7 @@ Gurdjieff describes a higher emotional center whose function is categorically di
 
 ---
 
-*Paper G1 of the Concordius series. Volume G continues with Paper G2: The Brain-Orientation.*
+*Paper G1 of the Concordius Framework. Volume G continues with Paper G2: The Brain-Orientation.*
 
 ---
 

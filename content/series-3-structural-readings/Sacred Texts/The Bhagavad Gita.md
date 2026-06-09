@@ -84,7 +84,7 @@ The descent-densification sequence stated as the Φ-level's structural response 
 
 **The structural parallel with the maximum downward entry:**
 
-Paper 12 (The Maximum Downward Entry) in the Concordius series addresses the structural claim that the Φ-level's maximum possible structural entry into H₄₈ occurs at a single historical locus, the Incarnation. The Gita's *avatāra* doctrine is the structural parallel from the Hindu tradition: the Φ-level's structural entry into H₄₈ at structurally critical junctures. The question of whether the structural claim is once-for-all or recurrent is tradition-internal; the structural claim that the Φ-level can and does enter H₄₈ in structural self-presentation is shared.
+Paper 12 (The Maximum Downward Entry) in the Concordius Framework addresses the structural claim that the Φ-level's maximum possible structural entry into H₄₈ occurs at a single historical locus, the Incarnation. The Gita's *avatāra* doctrine is the structural parallel from the Hindu tradition: the Φ-level's structural entry into H₄₈ at structurally critical junctures. The question of whether the structural claim is once-for-all or recurrent is tradition-internal; the structural claim that the Φ-level can and does enter H₄₈ in structural self-presentation is shared.
 
 *(Cross-reference: JOHN 1:14 — "The Word became flesh and made his dwelling among us": the NT parallel of the *avatāra* principle. PHIL 2:5-11 — the kenosis hymn as the structural description of the maximum downward entry. GEN 1:2 — "the Spirit of God hovering over the waters": the Φ-level's structural presence at the creation's H₄₈ beginning.)*
 

@@ -14,7 +14,7 @@ tags:
 
 ## Prefatory Note
 
-A framework that cannot be wrong is not a contribution to knowledge. The Concordius series has been careful throughout to distinguish what is derived from what is identified from what is testified — three tiers of confidence, each with its own epistemic weight and its own exposure to error. This appendix applies that same care to a different kind of question: not what the framework says, but what it predicts that science has not yet confirmed, and what experimental result would constitute evidence against it.
+A framework that cannot be wrong is not a contribution to knowledge. The Concordius Framework has been careful throughout to distinguish what is derived from what is identified from what is testified — three tiers of confidence, each with its own epistemic weight and its own exposure to error. This appendix applies that same care to a different kind of question: not what the framework says, but what it predicts that science has not yet confirmed, and what experimental result would constitute evidence against it.
 
 The predictions collected here share a structure. Each begins with something the framework derives from the Gelfand triple and the cascade timing — not from post-hoc fitting to known physics, but from the internal logic of the structure itself. Each then identifies an observational consequence that science either has not confirmed or has not yet been able to test. Each is accompanied by a statement of what would disconfirm it.
 
@@ -22,7 +22,7 @@ A framework that predicts things is a framework that can fail. These predictions
 
 **On the distinction between retrodiction and prediction.** Several results derived from the cascade framework correspond to things physics already knows — the GUT transition at ~10⁻³⁶ s, the gross behavior of dark matter as gravitationally active and electromagnetically invisible. These are retrodictions: the framework arrived at them independently and finds them already confirmed. They constitute evidential weight for the framework, but they are not predictions in the strict sense. The appendix distinguishes clearly between them. The genuine predictions are those for which science currently has no confirmed answer — either because the experimental capability does not yet exist, or because no existing theory has been aimed at the question.
 
-**Confidence tiers follow the series' notation.** *Derived* means the claim follows from the Gelfand triple structure with mathematical warrant equivalent to Papers 1–5. *Derived (open)* means the structural argument is sound but the formal derivation is incomplete and the result is not yet exact. *Concordance* means the claim is motivated by the framework and convergent with independent evidence but is not formally derived.
+**Confidence tiers follow the Framework's notation.** *Derived* means the claim follows from the Gelfand triple structure with mathematical warrant equivalent to Papers 1–5. *Derived (open)* means the structural argument is sound but the formal derivation is incomplete and the result is not yet exact. *Concordance* means the claim is motivated by the framework and convergent with independent evidence but is not formally derived.
 
 ---
 

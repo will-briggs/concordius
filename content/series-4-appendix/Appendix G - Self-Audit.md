@@ -6,7 +6,7 @@
 
 ---
 
-> **Read this last, if at all.** Everywhere else the series performs its structure and leaves the noticing to the reader. This appendix does the opposite: it turns the framework's own instruments on the framework and writes down what they find — the ledger, not the music. Nothing in the series depends on it. It exists so that the work's claims about itself can be checked against the work as it actually stands.
+> **Read this last, if at all.** Everywhere else the Framework performs its structure and leaves the noticing to the reader. This appendix does the opposite: it turns the framework's own instruments on the framework and writes down what they find — the ledger, not the music. Nothing in the Framework depends on it. It exists so that the work's claims about itself can be checked against the work as it actually stands.
 
 ---
 

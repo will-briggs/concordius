@@ -7,7 +7,7 @@ tags: [fruits-of-the-spirit, faithfulness, pistis, dual-pairing, temporal-consis
 
 **Text:** Galatians 5:22; Hebrews 11:1; Hebrews 11:6; Matthew 25:21  
 **Part of:** Series 3 — Structural Readings / The Bible — Thematic / Fruits of the Spirit  
-**Cross-references:** Seek and Ye Shall Find (Aphorisms); Forbearance (this series); The Unexamined Life Is Not Worth Living (Aphorisms)
+**Cross-references:** Seek and Ye Shall Find (Aphorisms); Forbearance (this Framework); The Unexamined Life Is Not Worth Living (Aphorisms)
 
 ---
 
@@ -33,6 +33,6 @@ Matthew 25:21: "His master replied, 'Well done, good and faithful (*pistos*) ser
 
 The unfaithful servant buries the talent — abstention. The faithful servants invest and multiply. The structural account: faithfulness = the catching orientation consistently engaged; unfaithfulness = the catching orientation withdrawn and the catching capacity unused. Time dissolves the H₄₈ substrate regardless; the faithfulness determines what accumulates below the threshold before it does.
 
-*(Cross-reference: Seek and Ye Shall Find ✶✶ (Aphorisms) — the dual pairing ⟨φ, f⟩ as the structural mechanism; faithfulness is the temporal extension of the seeking that the pairing requires. Forbearance (*Makrothymia*) (this series) — the temporal patience required to maintain faithfulness through H₄₈ intervals of apparent disconfirmation; *pistis* and *makrothymia* together describe the full temporal structure of the sustained catching orientation. Hebrews 11:6 — "without faith it is impossible to please God, for whoever would draw near to God must believe that he exists and that he rewards those who seek him" — the dual structure of *pistis*: the orientation toward ⟨·,·⟩ as the organizational ground (he exists) and the structural trust that the catching program produces its organizational result (rewards those who seek him). Together these constitute the faithful catching orientation.)*
+*(Cross-reference: Seek and Ye Shall Find ✶✶ (Aphorisms) — the dual pairing ⟨φ, f⟩ as the structural mechanism; faithfulness is the temporal extension of the seeking that the pairing requires. Forbearance (*Makrothymia*) (this Framework) — the temporal patience required to maintain faithfulness through H₄₈ intervals of apparent disconfirmation; *pistis* and *makrothymia* together describe the full temporal structure of the sustained catching orientation. Hebrews 11:6 — "without faith it is impossible to please God, for whoever would draw near to God must believe that he exists and that he rewards those who seek him" — the dual structure of *pistis*: the orientation toward ⟨·,·⟩ as the organizational ground (he exists) and the structural trust that the catching program produces its organizational result (rewards those who seek him). Together these constitute the faithful catching orientation.)*
 
 *(Confidence tier: Structural derivation. The identification of faithfulness as the temporal consistency of the catching orientation is derivable from the framework: the eigenvalue replacement program operates cumulatively; consistent orientation is the structural requirement for cumulative accumulation. Hebrews 11:1's *hypostasis* and *elenchos* provide the most structurally precise textual formulation of what the catching orientation does: it constitutes and evidences what H₄₈ perception cannot directly access.)*

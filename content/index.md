@@ -44,7 +44,7 @@ It is the method the Concordius Papers use when they leave the domain of formal 
 
 ## Series 2 — Concordius Papers
 
-The foundational series. Beginning from two assumptions — that reality has the structure of a specific mathematical object (the Gelfand triple), and the bare fact that you are aware of your own existence — and building step by step toward a framework that maps with remarkable precision onto what the major theological and mystical traditions have been describing, in their various vocabularies, for four thousand years. The whole book is one long attempt at a single question: what Φ looks like from inside H₄₈ — what the complete structure looks like from the human vantage.
+The foundational Series. Beginning from two assumptions — that reality has the structure of a specific mathematical object (the Gelfand triple), and the bare fact that you are aware of your own existence — and building step by step toward a framework that maps with remarkable precision onto what the major theological and mystical traditions have been describing, in their various vocabularies, for four thousand years. The whole book is one long attempt at a single question: what Φ looks like from inside H₄₈ — what the complete structure looks like from the human vantage.
 
 The argument is rigorous. The mathematics can be checked by those with the background to check it. Those without that background can follow the structural intuitions the papers work hard to make available. What is asked of the reader is only what Wittgenstein found himself holding at the edge of his most rigorous work: a genuine pause at the fact that anything exists at all.
 
@@ -64,6 +64,6 @@ They apply the framework to the Bible, Shakespeare's Sonnets, Plato, Laozi, Spin
 
 ## Series 4 — Appendix
 
-Reference material for the series. Formal definitions of the technical vocabulary used throughout the papers, the structural self-reading of the Concordius series itself, the candidate operationalization of the Φ-proximity detection program, and the framework's falsifiable quantitative predictions.
+Reference material for the Framework. Formal definitions of the technical vocabulary used throughout the papers, the structural self-reading of the Concordius Framework itself, the candidate operationalization of the Φ-proximity detection program, and the framework's falsifiable quantitative predictions.
 
 [[series-4-appendix/index|Browse the Appendix →]]

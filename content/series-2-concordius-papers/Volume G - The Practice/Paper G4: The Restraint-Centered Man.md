@@ -4,7 +4,7 @@
 
 ---
 
-*Man No. 5: the person who has crossed the coherence threshold — the soul deposit, built by Man 4's sustained work, has crystallized into a stable H₂₄ eigenstructure that will persist through the dissolution of the H₄₈ substrate, so the ascending career beyond this life is secured. This is the first genuine ontological boundary in the series rather than a developmental transition: where Men 1 through 4 have a career possible but not secured, for Man 5 it is both possible and certain. With the certainty comes its particular temptation — premature rest — answered structurally: the crystallization is the beginning of what the career has been building toward, not its end, and the higher emotional center, newly active, is producing contact that requires development to receive.*
+*Man No. 5: the person who has crossed the coherence threshold — the soul deposit, built by Man 4's sustained work, has crystallized into a stable H₂₄ eigenstructure that will persist through the dissolution of the H₄₈ substrate, so the ascending career beyond this life is secured. This is the first genuine ontological boundary in the Framework rather than a developmental transition: where Men 1 through 4 have a career possible but not secured, for Man 5 it is both possible and certain. With the certainty comes its particular temptation — premature rest — answered structurally: the crystallization is the beginning of what the career has been building toward, not its end, and the higher emotional center, newly active, is producing contact that requires development to receive.*
 
 **Confidence —** *Math:* **inference** — Man 5 as the crossing of the coherence threshold (the threshold itself derived elsewhere): a stable H₂₄ eigenstructure surviving H₄₈ dissolution. *Science:* **— (not engaged)**. *Theology:* **concordance** — morontia survival assured; the ontological boundary and the temptation of premature rest.
 
@@ -12,7 +12,7 @@
 
 ## Abstract
 
-[[Appendix B - Lexicon#Man No. 1 through Man No. 7|Man No. 5]] has crossed the [[Appendix B - Lexicon#Coherence Threshold|coherence threshold]]. The [[Appendix B - Lexicon#Soul Deposit|soul deposit]] — accumulated through the sustained three-center [[Appendix B - Lexicon#Catching|catching]] work of Man 4 — has crystallized: it has formed a stable [[Appendix B - Lexicon#H₂₄|H₂₄]] eigenstructure above the coherence threshold that will persist through the dissolution of the [[Appendix B - Lexicon#H₄₈|H₄₈]] substrate. The [[Appendix B - Lexicon#Ascending Career|ascending career]] beyond this life is structurally secured. In [[Appendix B - Lexicon#Urantia Book|Urantia]] terminology: [[Appendix B - Lexicon#Morontia|morontia]] survival is assured. This is the first threshold in the series that is a genuine ontological boundary rather than a developmental transition. Men 1 through 4 are all persons whose ascending career is possible but not yet secured; Man 5 is the person for whom it is both possible and certain, because the minimum Φ-proximal deposit required to constitute a post-H₄₈ being is stably in place.
+[[Appendix B - Lexicon#Man No. 1 through Man No. 7|Man No. 5]] has crossed the [[Appendix B - Lexicon#Coherence Threshold|coherence threshold]]. The [[Appendix B - Lexicon#Soul Deposit|soul deposit]] — accumulated through the sustained three-center [[Appendix B - Lexicon#Catching|catching]] work of Man 4 — has crystallized: it has formed a stable [[Appendix B - Lexicon#H₂₄|H₂₄]] eigenstructure above the coherence threshold that will persist through the dissolution of the [[Appendix B - Lexicon#H₄₈|H₄₈]] substrate. The [[Appendix B - Lexicon#Ascending Career|ascending career]] beyond this life is structurally secured. In [[Appendix B - Lexicon#Urantia Book|Urantia]] terminology: [[Appendix B - Lexicon#Morontia|morontia]] survival is assured. This is the first threshold in the Framework that is a genuine ontological boundary rather than a developmental transition. Men 1 through 4 are all persons whose ascending career is possible but not yet secured; Man 5 is the person for whom it is both possible and certain, because the minimum Φ-proximal deposit required to constitute a post-H₄₈ being is stably in place.
 
 Man 5's development continues — there are two further levels — but the question of whether the ascending career will continue has been answered. With this answer comes a particular temptation: premature rest. The crystallization is real; the achievement is real; the ascending career is secured; why continue? The paper addresses this question structurally: the crystallization is the beginning of what the ascending career has been building toward, not its end. The first post-H₄₈ phase of the ascending career will require capacities that Man 5 is only beginning to develop. The temptation to rest in the crystallized soul is the Man 5 version of the earlier types' characteristic arrest at their achieved level.
 
@@ -67,7 +67,7 @@ Julian of Norwich's "showings" are precise descriptions of the higher emotional 
 
 The crystallization is real. The ascending career is secured. The higher emotional center's first registrations are extraordinary. The Adjuster's reliable guidance is a gift of incomparable quality. Why continue?
 
-This is Man 5's primary temptation, and it is the most understandable temptation in the series. Men 1-3's temptations are primarily the attractions of the dominant center's [[Appendix B - Lexicon#Mechanical vs. Volitional|mechanical]] satisfactions over the H₂₄ work. Man 4's temptation is the effort mistaken for the achievement. Man 5's temptation is the achievement mistaken for the completion.
+This is Man 5's primary temptation, and it is the most understandable temptation in the Framework. Men 1-3's temptations are primarily the attractions of the dominant center's [[Appendix B - Lexicon#Mechanical vs. Volitional|mechanical]] satisfactions over the H₂₄ work. Man 4's temptation is the effort mistaken for the achievement. Man 5's temptation is the achievement mistaken for the completion.
 
 The structural reading is unambiguous: Man 5 is not the completion. It is the first level at which completion has become structurally visible as a direction. Paradise — the terminal state of the ascending career, where the Adjuster and the ascending soul achieve full fusion in the presence of ⟨·,·⟩ — is not Man 5. It is the horizon toward which Man 5 is oriented. Man 5 has built the vehicle (the morontia body) that makes the rest of the journey possible. The vehicle is built; the journey continues.
 
@@ -134,7 +134,7 @@ The crystallized soul's persistence through H₄₈ dissolution changes the stru
 
 ---
 
-*Paper G4 of the Concordius series. Volume G continues with Paper G5: The Diligence-Centered Man.*
+*Paper G4 of the Concordius Framework. Volume G continues with Paper G5: The Diligence-Centered Man.*
 
 ---
 

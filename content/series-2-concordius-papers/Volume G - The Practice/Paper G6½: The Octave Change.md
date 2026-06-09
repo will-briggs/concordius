@@ -154,7 +154,7 @@ The tradition's doctrine of grace — divine action that the person cannot gener
 
 ---
 
-*Paper G5½ of the Concordius series — Volume G: The Practice. The companion treatment of the Mi-Fa interval is Paper G2½; the seventh man this interval points toward is developed in [[Paper G6: The Best a Man Can Do on This Plane|Paper G6: The Best a Man Can Do on This Plane]].*
+*Paper G5½ of the Concordius Framework — Volume G: The Practice. The companion treatment of the Mi-Fa interval is Paper G2½; the seventh man this interval points toward is developed in [[Paper G6: The Best a Man Can Do on This Plane|Paper G6: The Best a Man Can Do on This Plane]].*
 
 ---
 

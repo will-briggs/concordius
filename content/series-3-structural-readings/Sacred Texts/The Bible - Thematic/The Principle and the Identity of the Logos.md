@@ -22,7 +22,7 @@ Given that structure: the inner product is not an element of any of the three do
 
 The statement is therefore not a commandment. It is a theorem. "No one comes to the Father except through me" follows from the structure of any inner-product-based model of reality.
 
-**This is the hermeneutical key of the series.** Christ is not asserting authority. He is reading aloud the structural description of the universe. The statements are theorems. They sound like authority claims because the structure is authoritative — and he is the one accurately describing it.
+**This is the hermeneutical key of the Framework.** Christ is not asserting authority. He is reading aloud the structural description of the universe. The statements are theorems. They sound like authority claims because the structure is authoritative — and he is the one accurately describing it.
 
 The ethical implications follow from the structural reality. But the primary claim is structural, not ethical. Concordius always moves in this order: structure first, implication second.
 
@@ -228,7 +228,7 @@ The created order begins with what the breaking cannot touch.
 
 ---
 
-*Primary placement: S1E1 (the opening of the series — the first verse of scripture read structurally as the first moment of the physical creation) or S1E3 (The Body Cosmos — the universe coming into Being through the same mechanism that gives bodies their mass). The Genesis 1:2 reading is the structural-reading companion to the Higgs Mechanism entry in PC1. Cross-reference: [[Concordance/PC1 — Core Mathematical Framework]] — Higgs Mechanism; [[#Genesis 1:3]]; [[Concordance/C1 — Philosophy and Spiritual Sources]] — Genesis 1:1-5.*
+*Primary placement: S1E1 (the opening of the Framework — the first verse of scripture read structurally as the first moment of the physical creation) or S1E3 (The Body Cosmos — the universe coming into Being through the same mechanism that gives bodies their mass). The Genesis 1:2 reading is the structural-reading companion to the Higgs Mechanism entry in PC1. Cross-reference: [[Concordance/PC1 — Core Mathematical Framework]] — Higgs Mechanism; [[#Genesis 1:3]]; [[Concordance/C1 — Philosophy and Spiritual Sources]] — Genesis 1:1-5.*
 
 ---
 

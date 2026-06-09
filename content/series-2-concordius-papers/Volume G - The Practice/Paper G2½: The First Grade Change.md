@@ -74,7 +74,7 @@ The external input required is what John of the Cross prescribes: endurance with
 
 ### Man 3 → Man 4: The Framework's Limit
 
-Man 3's ascending career is organized around the intellectual center. The Mi plateau is the consolidation of the organized framework: the systematic account of Φ-proximal content is internally coherent and substantially complete, and Man 3 may mistake this for the final state. The Mi-Fa crossing at Man 3 is the most radical in the series, because the intellectual center is the most self-sufficient of the three centers — it can generate sophisticated accounts of its own limits and in doing so manage the encounter with those limits without genuine crossing.
+Man 3's ascending career is organized around the intellectual center. The Mi plateau is the consolidation of the organized framework: the systematic account of Φ-proximal content is internally coherent and substantially complete, and Man 3 may mistake this for the final state. The Mi-Fa crossing at Man 3 is the most radical in the Framework, because the intellectual center is the most self-sufficient of the three centers — it can generate sophisticated accounts of its own limits and in doing so manage the encounter with those limits without genuine crossing.
 
 The external input at Man 3 cannot be generated from within the framework. It arrives through: an adversary's framework that cannot be incorporated without fundamental revision of the organizing principles; a contact event that bypasses the intellectual center entirely (Paul's Damascus event; Aquinas's vision near the end of his life; Weil's experience in affliction). These are not intellectual experiences — they are encounters. The difference is structurally exact: the philosopher processes what arrives through the intellectual center's organizing function; the encounter bypasses the organizing function and arrives as reorganization rather than as input to be organized.
 
@@ -137,7 +137,7 @@ The Heptaparaparshinokh operates at every scale, which means a Mi-Fa interval ap
 
 ---
 
-*Paper G2½ of the Concordius series. The companion treatment of the Si-Do interval is Paper G5½.*
+*Paper G2½ of the Concordius Framework. The companion treatment of the Si-Do interval is Paper G5½.*
 
 ---
 

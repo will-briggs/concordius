@@ -97,7 +97,7 @@ Man 6 can fall back. The irreversibility of Man 7 is not yet achieved. Three spe
 
 ## The Hagiographic Record as Structural Evidence
 
-The series has consistently applied the [[Appendix B - Lexicon#Convergent Witness Principle|convergent witness principle]]: independent sources that could not have cross-contaminated each other, arriving at the same structural identification, constitute evidential weight that neither source alone provides.
+The Framework has consistently applied the [[Appendix B - Lexicon#Convergent Witness Principle|convergent witness principle]]: independent sources that could not have cross-contaminated each other, arriving at the same structural identification, constitute evidential weight that neither source alone provides.
 
 The hagiographic tradition is the largest available collection of convergent witness testimony about the Man 6-7 terrain. The records come from every tradition: Eastern Christian (Seraphim of Sarov, Gregory Palamas, Symeon the New Theologian), Western Christian (Francis of Assisi, Meister Eckhart, Julian of Norwich, John of the Cross, Teresa of Ávila, Teresa of Calcutta), Islamic (Rumi, Ibn Arabi, al-Hallaj, Rabia al-Adawiyya), Hindu (Ramakrishna, Ramana Maharshi, Sri Aurobindo, Anandamayi Ma), Buddhist (Milarepa, Khenpo Gangshar, Pema Chödrön at the direction-pointing stage), Jewish (Baal Shem Tov, Nachman of Breslov). The traditions use entirely different vocabulary. The structural descriptions converge on the same features:
 
@@ -128,7 +128,7 @@ This paper has described Man 6 as the state in which both higher centers are sub
 
 ---
 
-*Paper G5 of the Concordius series. Volume G pauses here. Paper G5½ (Man No. 7) follows after reflection.*
+*Paper G5 of the Concordius Framework. Volume G pauses here. Paper G5½ (Man No. 7) follows after reflection.*
 
 ---
 

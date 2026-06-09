@@ -7,7 +7,7 @@ tags: [fruits-of-the-spirit, kindness, practical-agape, H₄₈-action, catching
 
 **Text:** Galatians 5:22; Matthew 11:28-30; Romans 2:4; Ephesians 4:32  
 **Part of:** Series 3 — Structural Readings / The Bible — Thematic / Fruits of the Spirit  
-**Cross-references:** Love (Agape) (this series); The Good Samaritan (Parables)
+**Cross-references:** Love (Agape) (this Framework); The Good Samaritan (Parables)
 
 ---
 

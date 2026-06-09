@@ -4,7 +4,7 @@
 
 ---
 
-*Concordius Structural Series*
+*Concordius Structural Framework*
 
 ---
 

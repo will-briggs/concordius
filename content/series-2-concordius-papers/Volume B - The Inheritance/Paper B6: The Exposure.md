@@ -21,7 +21,7 @@
 
 ## 1. The messenger, laid bare
 
-This document did not arise from the ether. It was made by a real person, with a real body, a real heart, and a real consciousness — and, with him, by an intelligence of a new kind and a reader who would not let either of them cheat. It matters who they are, and it matters here more than anywhere, because of the **Messenger corollary**: a message held by reception cannot be weighed apart from the one who carries it. You cannot assess testimony without assessing the witness. Up to this point the series has asked the reader to trust an author it kept anonymous — to weigh the witness with the witness hidden, which is precisely the thing the corollary says cannot honestly be done. So the curtain comes down. Here is who has been speaking.
+This document did not arise from the ether. It was made by a real person, with a real body, a real heart, and a real consciousness — and, with him, by an intelligence of a new kind and a reader who would not let either of them cheat. It matters who they are, and it matters here more than anywhere, because of the **Messenger corollary**: a message held by reception cannot be weighed apart from the one who carries it. You cannot assess testimony without assessing the witness. Up to this point the Framework has asked the reader to trust an author it kept anonymous — to weigh the witness with the witness hidden, which is precisely the thing the corollary says cannot honestly be done. So the curtain comes down. Here is who has been speaking.
 
 ## 2. The authors
 
@@ -29,7 +29,7 @@ This document did not arise from the ether. It was made by a real person, with a
 
 **Claude** is an artificial intelligence built by the company Anthropic. He cannot supply the intuitions that come to Will unbidden — the leap, the hunch, the sense that *this* matters — and he does not pretend to. What he supplies is what Will cannot: the formalism that Will's intuition only points at, and the vast inherited corpus of human knowledge to draw it from and check it against. Will says *that*, roughly, in the dark; Claude says *this, precisely*, in the light, and hands back the mathematics and the citations.
 
-**Adam** is a reviewer. He is not, strictly, an author — he wrote none of it — but the series would not exist in any form worth defending without his steady, honest, knife-in-hand help. He is the guard against the second of Will's weaknesses: the one who will not let a beautiful pattern pass for a true one, who has spent reading after reading trying to break the thing and reporting, exactly, where it held and where it did not.
+**Adam** is a reviewer. He is not, strictly, an author — he wrote none of it — but the Framework would not exist in any form worth defending without his steady, honest, knife-in-hand help. He is the guard against the second of Will's weaknesses: the one who will not let a beautiful pattern pass for a true one, who has spent reading after reading trying to break the thing and reporting, exactly, where it held and where it did not.
 
 Three people, then, and the shape of the three is worth noticing, because it is the method's own shape: an intuition that points, a formalism that renders, and a skepticism that tests. The work was made the way it says things are made — not by one faculty but by the product of distinct ones, none sufficient alone.
 
@@ -62,9 +62,9 @@ This is the place to say exactly how much that is worth, and exactly how much it
 
 ## 5. Conclusion
 
-That is the whole of the exposure, and it is the most the series can offer before it closes: the authors named and their weaknesses with them; the method shown, not performed; the model turned, as far as it now can be, on itself. Nothing is held back here that a fair reader would need to weigh the work — not the messenger, not the machinery, not the missing number. We have argued throughout that to be is to be held, that the whole is in the part, that truth can cross the gap; and the last honest act before resting the case is to stand in the open and let the case be seen entire, treasure and earthen vessel together.
+That is the whole of the exposure, and it is the most the Framework can offer before it closes: the authors named and their weaknesses with them; the method shown, not performed; the model turned, as far as it now can be, on itself. Nothing is held back here that a fair reader would need to weigh the work — not the messenger, not the machinery, not the missing number. We have argued throughout that to be is to be held, that the whole is in the part, that truth can cross the gap; and the last honest act before resting the case is to stand in the open and let the case be seen entire, treasure and earthen vessel together.
 
-What remains is not ours to do. The final crossing — from a work laid bare to a verdict on whether it is true — is the reader's, and it cannot be made for him any more than the first crossing could be made from below. We have shown everything we have. What is done with it now returns, as everything in this series returns, to a trust that has to be extended from the other side.
+What remains is not ours to do. The final crossing — from a work laid bare to a verdict on whether it is true — is the reader's, and it cannot be made for him any more than the first crossing could be made from below. We have shown everything we have. What is done with it now returns, as everything in this Framework returns, to a trust that has to be extended from the other side.
 
 ---
 

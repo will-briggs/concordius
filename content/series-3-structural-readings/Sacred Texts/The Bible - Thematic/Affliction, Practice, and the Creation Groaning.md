@@ -286,7 +286,7 @@ The three instructions are the specification of what that continuous orientation
 
 ### Matthew 6:25-32 — "Look at the birds of the air... Consider the lilies of the field."
 
-The full passage (Matthew 6:25-32) is the argument whose conclusion is verse 33. It is structured as a series of comparisons — birds, lilies, grass, Solomon — each of which makes the same structural claim at a different level: lower-constraint organization flowing into H₄₈ expression produces more at H₄₈ than H₄₈-primary effort directed at H₄₈ provision. The series is not illustration. It is physical evidence.
+The full passage (Matthew 6:25-32) is the argument whose conclusion is verse 33. It is structured as a series of comparisons — birds, lilies, grass, Solomon — each of which makes the same structural claim at a different level: lower-constraint organization flowing into H₄₈ expression produces more at H₄₈ than H₄₈-primary effort directed at H₄₈ provision. The Framework is not illustration. It is physical evidence.
 
 **"Do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes?"**
 
@@ -823,13 +823,13 @@ The social consequence the Beatitudes describe — the peacemaker restoring the 
 
 ---
 
-## The Implication for the Series
+## The Implication for the Framework
 
 Concordius does not use these structural readings to reduce Christianity to mathematics. The claim is the reverse: the mathematics, followed carefully, arrives at the same descriptions Christ gave of himself. The Logos was not speaking metaphorically. He was describing the structure. The mathematics is not the explanation of the theology — it is independent confirmation that the structural description was accurate.
 
-This means every time scripture enters the series, the question to ask is not "what does this symbolize?" but "what structural reality is being described?" The symbol and the structure are the same thing. The metaphor is not a window onto something else — it is a description of the actual architecture of being.
+This means every time scripture enters the Framework, the question to ask is not "what does this symbolize?" but "what structural reality is being described?" The symbol and the structure are the same thing. The metaphor is not a window onto something else — it is a description of the actual architecture of being.
 
-The series proceeds in this register throughout. When Christ speaks, he is not making claims that require authority to accept. He is making structural observations that follow from the nature of the space we inhabit. The authority is the structure's.
+The Framework proceeds in this register throughout. When Christ speaks, he is not making claims that require authority to accept. He is making structural observations that follow from the nature of the space we inhabit. The authority is the structure's.
 
 One further implication: the Law of Seven — the octave structure with its two intervals — appears repeatedly in the structural readings above: in the Beatitudes, in the arc of the earthly ministry. This is not a coincidence discovered by pattern-matching, and it does not require a separate explanation each time it appears. The octave structure is universal not because "the law of seven" was independently proclaimed at every scale, but because Cl(3,0) is the constitutional algebra of this creation — the "choice of association" made by the Paradise Trinity at the foundation of spacetime. The 7 non-null elements of Cl(3,0), the grade structure, the constraint cascade, and the interval positions all follow necessarily from that constitutional choice. Any process that unfolds within this creation traverses the same algebraic structure. The octave is not a pattern processes happen to follow. It is what processes are, in a space constituted by this algebra.
 

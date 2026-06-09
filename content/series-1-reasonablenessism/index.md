@@ -128,7 +128,7 @@ The three core applications:
 2. **Universal subjectivity implies objectivity** — the consciousness-preeminence argument of S1E2 rests on the cogito's unrivaled consistency *(Face C2)*
 3. **Believe on evidence, not provenance** — applied at every major source introduction *(Faces A1, D1)*
 
-The series is itself an extended demonstration of Reasonablenessism applied to the largest available questions. Reasonablenessism is the epistemological frame from which the series operates; Paper 18 is the structural reading of Reasonablenessism within the Concordius framework.
+The Framework is itself an extended demonstration of Reasonablenessism applied to the largest available questions. Reasonablenessism is the epistemological frame from which the Framework operates; Paper 18 is the structural reading of Reasonablenessism within the Concordius framework.
 
 ---
 

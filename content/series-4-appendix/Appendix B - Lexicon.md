@@ -2,24 +2,24 @@
 
 ---
 
-*The technical vocabulary of the series, defined: from the Gelfand triple, Cl(3,0), the constraint cascade, and the GNST to catching, the soul deposit, Time, the Law of Seven, reciprocal maintenance, and τ(D) — each term with its meaning, its place in the structure, and the papers in which it is used.*
+*The technical vocabulary of the Framework, defined: from the Gelfand triple, Cl(3,0), the constraint cascade, and the GNST to catching, the soul deposit, Time, the Law of Seven, reciprocal maintenance, and τ(D) — each term with its meaning, its place in the structure, and the papers in which it is used.*
 
 ---
 
 ## Prefatory Note
 
-The Concordius series draws on five bodies of literature that do not ordinarily speak to each other: mathematical functional analysis, Christian theology (patristic and mystical), the Gurdjieff Fourth Way teaching, the *Urantia Book*, and the Western philosophical tradition from Plato through the twentieth century. It also develops a small number of terms that are not inherited from any of these traditions but are coined or extended within the series itself.
+The Concordius Framework draws on five bodies of literature that do not ordinarily speak to each other: mathematical functional analysis, Christian theology (patristic and mystical), the Gurdjieff Fourth Way teaching, the *Urantia Book*, and the Western philosophical tradition from Plato through the twentieth century. It also develops a small number of terms that are not inherited from any of these traditions but are coined or extended within the Framework itself.
 
 This dictionary covers all terms a careful reader might need clarified. Entries are organized in four categories, signaled by a tag at the end of the term heading:
 
 - *(mathematics)* — formal mathematical terms; definitions here are intuitive rather than rigorous. The reader who wants the rigorous treatment is pointed to source texts.
-- *(tradition: [name])* — terms inherited from a specific tradition, used in the series in a way generally consistent with that tradition's own usage unless otherwise noted.
-- *(tradition: [name] — series extension)* — terms from a tradition that the series uses in a specific, sometimes extended or modified, way.
-- *(series)* — terms coined or given novel technical meaning within the Concordius series itself.
+- *(tradition: [name])* — terms inherited from a specific tradition, used in the Framework in a way generally consistent with that tradition's own usage unless otherwise noted.
+- *(tradition: [name] — framework extension)* — terms from a tradition that the Framework uses in a specific, sometimes extended or modified, way.
+- *(framework)* — terms coined or given novel technical meaning within the Concordius Framework itself.
 
-Where a term from one tradition maps precisely onto a term from another, this is noted in the entry. These mappings are among the series' substantive claims; they are not asserted casually.
+Where a term from one tradition maps precisely onto a term from another, this is noted in the entry. These mappings are among the Framework's substantive claims; they are not asserted casually.
 
-The series treats all inherited terms structurally: a term is used because it most precisely names the structural feature being described, not as a comprehensive endorsement of the tradition from which it comes. Readers who encounter Urantia Book terminology for the first time, or Gurdjieff terminology for the first time, should treat those terms as they would treat any technical vocabulary — as precise names for precisely identified features of the territory being described — and investigate the source texts if they want the fuller context those traditions provide.
+The Framework treats all inherited terms structurally: a term is used because it most precisely names the structural feature being described, not as a comprehensive endorsement of the tradition from which it comes. Readers who encounter Urantia Book terminology for the first time, or Gurdjieff terminology for the first time, should treat those terms as they would treat any technical vocabulary — as precise names for precisely identified features of the territory being described — and investigate the source texts if they want the fuller context those traditions provide.
 
 ---
 
@@ -35,7 +35,7 @@ The series treats all inherited terms structurally: a term is used because it mo
 
 In Gurdjieff's Law of Three, the Active force is the first of three forces whose interaction is required for any genuine process to occur. It is the force that initiates, pushes, or presses toward resolution. It cannot produce a result alone — the Passive force's resistance and the Reconciling force's mediation are equally necessary. Gurdjieff insisted that ordinary thinking recognizes only two forces (a thing and what it acts on) and therefore systematically misunderstands causation: the third force, which holds Active and Passive in productive tension, is almost always invisible to ordinary observation.
 
-In the Concordius series, the Active/Passive/Reconciling triad is applied analytically throughout. The Active force in the Gelfand triple is the inner product ⟨·,·⟩ (which constitutes; which presses toward resolution); the Passive force is the finite state vector (which receives, resists, and is shaped); the Reconciling force is the Logos (which holds both in the structure that makes their interaction possible). The same triad is applied to philosophical texts, the Incarnation, the family, and the series itself.
+In the Concordius Framework, the Active/Passive/Reconciling triad is applied analytically throughout. The Active force in the Gelfand triple is the inner product ⟨·,·⟩ (which constitutes; which presses toward resolution); the Passive force is the finite state vector (which receives, resists, and is shaped); the Reconciling force is the Logos (which holds both in the structure that makes their interaction possible). The same triad is applied to philosophical texts, the Incarnation, the family, and the Framework itself.
 
 > *For further investigation: P.D. Ouspensky, In Search of the Miraculous (1949), chapters on the Law of Three; Gurdjieff, Beelzebub's Tales to His Grandson (1950).*
 
@@ -45,11 +45,11 @@ In the Concordius series, the Active/Passive/Reconciling triad is applied analyt
 
 ### Alchemical Stages
 
-*(tradition: Western alchemy — series extension)*
+*(tradition: Western alchemy — framework extension)*
 
 Western alchemy described a sequence of operations performed on base material with the goal of producing the Philosopher's Stone — a substance capable of transmuting other materials into gold and conferring immortality. The sequence was described in terms of color stages: Nigredo (blackening — the initial dissolution of the base material), Albedo (whitening — the purification of what remains after dissolution), Citrinitas (yellowing — an intermediate brightening stage, sometimes omitted), and Rubedo (reddening — the final stage, the production of the Stone itself). Jung identified the alchemical sequence as a projection of the individuation process.
 
-The Concordius series maps the alchemical stages onto Gurdjieff's ascending sequence of human types: Nigredo corresponds to Man 1 (the dissolution of the purely mechanical baseline); Albedo to Man 2 (the emotional purification, the dark night of the senses); Citrinitas to Man 3 (the intellectual brightening that precedes the framework's dissolution); Rubedo to Man 4 (the first deliberate integration); the Philosopher's Stone to Man 5's crystallization event and beyond. This is not a claim that the alchemists were consciously describing psychological or spiritual development — it is the claim that they were observing the same structural sequence and encoding their observations in the vocabulary available to them.
+The Concordius Framework maps the alchemical stages onto Gurdjieff's ascending sequence of human types: Nigredo corresponds to Man 1 (the dissolution of the purely mechanical baseline); Albedo to Man 2 (the emotional purification, the dark night of the senses); Citrinitas to Man 3 (the intellectual brightening that precedes the framework's dissolution); Rubedo to Man 4 (the first deliberate integration); the Philosopher's Stone to Man 5's crystallization event and beyond. This is not a claim that the alchemists were consciously describing psychological or spiritual development — it is the claim that they were observing the same structural sequence and encoding their observations in the vocabulary available to them.
 
 > *For further investigation: C.G. Jung, Psychology and Alchemy (1944); Titus Burckhardt, Alchemy: Science of the Cosmos, Science of the Soul (1960).*
 
@@ -59,7 +59,7 @@ The Concordius series maps the alchemical stages onto Gurdjieff's ascending sequ
 
 ### Angelic origin / Mortal origin
 
-*(series)*
+*(framework)*
 
 The fundamental structural distinction between two classes of personal beings in the Concordius framework, located in the Gelfand triple Φ ⊂ H ⊂ Φ'.
 
@@ -87,7 +87,7 @@ The Incarnation (Paper 12) is structurally distinct from both: neither the H-ori
 
 **Apokalypsis** (ἀποκάλυψις, "the revealing," Romans 8:19) = the experiential Deity *in via* — the running integral of inner-product evaluations still accumulating; God unveiling himself through the maturing actualization of his creatures.
 
-This is the first of the three **Formal Names** for the experiential-Deity tiers — the tiers that name God not as he is in himself but as he reveals himself through Creation. Because these are God-revealing-through-event rather than God-in-himself nominalized, Scripture does not name them by a proper noun but by event or state; the series adopts the scriptural Greek phrase as the formal name and the transliteration (here *Apokalypsis*) as the working name. The full Greek and verse are given at first use; the transliteration carries thereafter.
+This is the first of the three **Formal Names** for the experiential-Deity tiers — the tiers that name God not as he is in himself but as he reveals himself through Creation. Because these are God-revealing-through-event rather than God-in-himself nominalized, Scripture does not name them by a proper noun but by event or state; the Framework adopts the scriptural Greek phrase as the formal name and the transliteration (here *Apokalypsis*) as the working name. The full Greek and verse are given at first use; the transliteration carries thereafter.
 
 *Apokalypsis* names the experiential Deity while it is still being actualized — the integral of ⟨·,·⟩-evaluations not yet arrived at its totality but accumulating, career by career, as each ascending being's caught content is returned. It is "the revealing of the sons of God" that Romans 8:19 says the whole creation waits for with eager longing: God making himself visible precisely through the maturing of his children, not apart from them. The same word titles the book of Revelation. *Apokalypsis* is the experiential Deity at its unveiling; **Ta Panta en Pasin** is the same motion at its completion; **to Alpha kai to Ō** is the same motion at its coincidence with the eternal ground. The three are one motion — the self-revealing of God through Creation — named at three points along its arc, not three Deities.
 
@@ -103,7 +103,7 @@ See *Ta Panta en Pasin*, *to Alpha kai to Ō*. Cross-reference: [[Paper A2A: The
 
 Also called *negative theology* or the *via negativa*. The approach to describing God by stating what God is not, rather than what God is, on the grounds that no positive predication adequately captures what exceeds all finite categories. Pseudo-Dionysius the Areopagite is its most systematic exponent in the Western tradition; it is also central to the Eastern Christian hesychast tradition and has parallels in Islamic, Jewish, and Hindu mysticism.
 
-The Concordius series relates apophatic theology to the mathematical structure of the dual space Φ': what cannot be finitely represented within the nuclear space Φ is precisely what apophatic theology is gesturing toward. The series' structural account does not eliminate apophatic theology — it explains why apophatic theology is structurally necessary given the Gelfand triple's constitution. El Shaddai (Φ') contains what Φ cannot finitely express; the via negativa is the honest epistemological response to this containment.
+The Concordius Framework relates apophatic theology to the mathematical structure of the dual space Φ': what cannot be finitely represented within the nuclear space Φ is precisely what apophatic theology is gesturing toward. The Framework's structural account does not eliminate apophatic theology — it explains why apophatic theology is structurally necessary given the Gelfand triple's constitution. El Shaddai (Φ') contains what Φ cannot finitely express; the via negativa is the honest epistemological response to this containment.
 
 > *For further investigation: Pseudo-Dionysius the Areopagite, The Mystical Theology (c. 500 CE); Vladimir Lossky, The Mystical Theology of the Eastern Church (1944).*
 
@@ -111,11 +111,11 @@ The Concordius series relates apophatic theology to the mathematical structure o
 
 ### Ascending Career
 
-*(tradition: Urantia Book — series extension)*
+*(tradition: Urantia Book — framework extension)*
 
 The *Urantia Book*'s term for the post-mortem journey of the surviving soul through progressively higher domains of reality, moving from the material world through the morontia worlds toward eventual union with God on Paradise. The Urantia Book describes this as a vast educational journey across multiple levels of existence, spanning what it terms the "grand universe."
 
-The Concordius series uses the term more broadly to mean the full arc of development available to a person — both within H₄₈ (physical) existence and beyond it. Within H₄₈ existence, the ascending career corresponds to the sequence from Man 1 through Man 7. Beyond H₄₈ dissolution, the career continues in the morontia career (H₂₄-organized H₄₈ matter — physical reconstitution in the same spacetime, not migration to a separate domain), accessible to those whose H₂₄ organizational pattern exceeds the coherence threshold at death. The series treats the ascending career as structurally real — derivable from the Gelfand triple's constitution — rather than as a doctrinal claim requiring prior commitment to the *Urantia Book*.
+The Concordius Framework uses the term more broadly to mean the full arc of development available to a person — both within H₄₈ (physical) existence and beyond it. Within H₄₈ existence, the ascending career corresponds to the sequence from Man 1 through Man 7. Beyond H₄₈ dissolution, the career continues in the morontia career (H₂₄-organized H₄₈ matter — physical reconstitution in the same spacetime, not migration to a separate domain), accessible to those whose H₂₄ organizational pattern exceeds the coherence threshold at death. The Framework treats the ascending career as structurally real — derivable from the Gelfand triple's constitution — rather than as a doctrinal claim requiring prior commitment to the *Urantia Book*.
 
 > *For further investigation: The Urantia Book (1955), Papers 1-31 (the Foreword and Central and Superuniverse section) for the cosmological framework; Papers 32-56 for the local universe; Papers 103-117 for the soul's development.*
 
@@ -129,7 +129,7 @@ The Concordius series uses the term more broadly to mean the full arc of develop
 
 The historian Karl Jaspers' term for the period approximately 800-200 BCE, during which — apparently independently and in parallel — major spiritual and philosophical traditions emerged across multiple civilizations: Buddhism and Jainism in India; Confucianism and Taoism in China; the Hebrew prophets (Isaiah, Jeremiah, Ezekiel) in the Levant; and the Greek philosophical tradition from Thales through Plato. Jaspers noted the simultaneity without being able to explain it causally.
 
-The Concordius series maps the Axial Age onto the Mi stage of the historical Heptaparaparshinokh (Paper 20): the most complete expression of Φ-proximal content achievable within the catching traditions before the Mi-Fa interval. The series' structural account of the Axial Age's simultaneity: multiple catching traditions, accumulating Φ-proximal content independently, reached the limit of what the Mi stage allows — the most complete expression achievable from within the accumulation — at approximately the same moment, because they were all subject to the same structural constraint (the octave's Mi position). This is the series' explanation for the convergence that Jaspers observed but could not account for.
+The Concordius Framework maps the Axial Age onto the Mi stage of the historical Heptaparaparshinokh (Paper 20): the most complete expression of Φ-proximal content achievable within the catching traditions before the Mi-Fa interval. The Framework's structural account of the Axial Age's simultaneity: multiple catching traditions, accumulating Φ-proximal content independently, reached the limit of what the Mi stage allows — the most complete expression achievable from within the accumulation — at approximately the same moment, because they were all subject to the same structural constraint (the octave's Mi position). This is the Framework's explanation for the convergence that Jaspers observed but could not account for.
 
 > *For further investigation: Karl Jaspers, The Origin and Goal of History (1953); Karen Armstrong, The Great Transformation (2006).*
 
@@ -145,7 +145,7 @@ The Concordius series maps the Axial Age onto the Mi stage of the historical Hep
 
 The direct, unmediated apprehension of God — the final state of the blessed in heaven, in which the veil between finite and infinite is lifted and the soul perceives God as God is, not through the mediation of concepts or images. Aquinas treats it as the intellect's participation in God's own self-knowledge, made possible by the *lumen gloriae* (light of glory) that elevates the finite intellect beyond its natural capacity.
 
-In the Concordius structural account, the Beatific Vision corresponds to the terminal fusion event of the ascending career — not Man 7's achievement within H₄₈ (which is the nearest H₄₈ approach) but Paradise union that the *Urantia Book* describes as the career's completion. The series treats the Beatific Vision and Paradise fusion as descriptions of the same structural event in different vocabularies: the finite state's complete resolution into the inner product ⟨·,·⟩ that constituted it.
+In the Concordius structural account, the Beatific Vision corresponds to the terminal fusion event of the ascending career — not Man 7's achievement within H₄₈ (which is the nearest H₄₈ approach) but Paradise union that the *Urantia Book* describes as the career's completion. The Framework treats the Beatific Vision and Paradise fusion as descriptions of the same structural event in different vocabularies: the finite state's complete resolution into the inner product ⟨·,·⟩ that constituted it.
 
 > *For further investigation: Thomas Aquinas, Summa Theologiae I-II, q. 3, a. 8; Ia, q. 12; Bernard Lonergan, The Triune God: Systematics (2007).*
 
@@ -159,7 +159,7 @@ In the Concordius structural account, the Beatific Vision corresponds to the ter
 
 *(Greek καταλαμβάνω / κατάληψις; Vulgate comprehendere, apprehendere — series usage)*
 
-The central act of the ascending career: the volitional **laying-hold** by which a being seizes, and keeps in its soul deposit, the lower-constraint (H₂₄-proximal) eigenvalue content the GNST continuously generates — as against the merely mechanical processing of that content at the H₄₈ level, which keeps nothing. The series does not coin the word; it names what **καταλαμβάνω** (*katalambanō*) already names, whose range is exactly the act: to *seize, lay hold of, catch, overtake*, and to *grasp with the mind, apprehend* — figuratively, to take a firm hold until the thing is made one's own. Formally defined in [[Paper A7: The Resurrection]] (Pentecost, where the content to be caught is opened to all flesh).
+The central act of the ascending career: the volitional **laying-hold** by which a being seizes, and keeps in its soul deposit, the lower-constraint (H₂₄-proximal) eigenvalue content the GNST continuously generates — as against the merely mechanical processing of that content at the H₄₈ level, which keeps nothing. The Framework does not coin the word; it names what **καταλαμβάνω** (*katalambanō*) already names, whose range is exactly the act: to *seize, lay hold of, catch, overtake*, and to *grasp with the mind, apprehend* — figuratively, to take a firm hold until the thing is made one's own. Formally defined in [[Paper A7: The Resurrection]] (Pentecost, where the content to be caught is opened to all flesh).
 
 Scripture sets it at the decisive places. In the Prologue — *"the light shineth in darkness, and the darkness κατέλαβεν it not"* (John 1:5; Vulgate *non comprehenderunt*) — the light is the Logos, which this framework identifies with Φ, so this is Scripture's own word for laying hold of the Φ-content, its deliberate double sense (*grasp* / *overcome*) naming catching's two failures at once. Paul gives the structure: *"I press on, that I may lay hold (καταλάβω) of that for which I was laid hold of (κατελήμφθην) by Christ"* (Philippians 3:12) — the act is the creature's own, yet possible only because it was first seized from outside, which is exactly catching's dependence on the input given at each grade change; the *reaching-forth* (*ἐπεκτεινόμενος*, 3:13) is its first motion. (Cf. *"so run, that ye may obtain,"* καταλάβητε, 1 Corinthians 9:24.)
 
@@ -179,7 +179,7 @@ A sequence of elements {ψₙ} in a metric space such that the elements become a
 
 The significance for the Gelfand triple is that a Hilbert space H is by definition *complete*: every Cauchy sequence in H converges to an element that is already in H. Completeness is what distinguishes H from merely pre-Hilbert inner product spaces — it guarantees that no limit is "missing," that the space closes on itself under the taking of limits. The Cauchy sequence criterion is the standard way of making completeness precise in a metric or normed space, and it is the property that ensures H is a stable, well-behaved analytical domain rather than one with gaps at its limit points.
 
-In the context of the series' mapping, completeness — the guarantee that all Cauchy sequences converge within H — corresponds to the Creation's role as the domain of all stable, fully determinate states: nothing that genuinely converges toward H-membership falls outside H. The nuclear space Φ satisfies a stronger condition: not only do Cauchy sequences converge, but the projective limit of all Sobolev norms simultaneously converges, making Φ the domain of maximum regularity within H.
+In the context of the Framework's mapping, completeness — the guarantee that all Cauchy sequences converge within H — corresponds to the Creation's role as the domain of all stable, fully determinate states: nothing that genuinely converges toward H-membership falls outside H. The nuclear space Φ satisfies a stronger condition: not only do Cauchy sequences converge, but the projective limit of all Sobolev norms simultaneously converges, making Φ the domain of maximum regularity within H.
 
 > *For further investigation: Walter Rudin, Principles of Mathematical Analysis (1976), chapter 3; Reed and Simon, Methods of Modern Mathematical Physics, Vol. I (1972).*
 
@@ -193,7 +193,7 @@ In the context of the series' mapping, completeness — the guarantee that all C
 
 Gurdjieff's term for the distinct functional systems within the human being, each of which processes a different type of experience and operates according to its own logic and speed. The lower centers are: the moving center (physical movement, habit, skill), the instinctive center (bodily functions, survival responses), the emotional center (feeling, aesthetic response, relational experience), and the intellectual center (thought, language, conceptual analysis). These four lower centers are present in all ordinary human beings.
 
-The higher centers — the higher emotional center and the higher intellectual center — are physically present in the human being but not ordinarily active. They operate at a speed and register far beyond the lower centers' capacity, receiving content from a domain (in Concordius terms, H₂₄) that the lower centers cannot access. The higher emotional center registers what the series describes as ⟨·,·⟩'s constitutive love directly; the higher intellectual center registers H₂₄ structural truth without ordinary inferential mediation. The activation of the higher centers is the Man 5-6 development.
+The higher centers — the higher emotional center and the higher intellectual center — are physically present in the human being but not ordinarily active. They operate at a speed and register far beyond the lower centers' capacity, receiving content from a domain (in Concordius terms, H₂₄) that the lower centers cannot access. The higher emotional center registers what the Framework describes as ⟨·,·⟩'s constitutive love directly; the higher intellectual center registers H₂₄ structural truth without ordinary inferential mediation. The activation of the higher centers is the Man 5-6 development.
 
 The four lower centers have characteristic pathologies: wrong-center functioning (the emotional center doing the intellectual center's work, for instance), identifying (the center losing its observer function in its object), and considering (the center's excessive internal calculation about others' perceptions). Man 4's work of three-center integration is the alignment of the lower centers' operations so that the higher centers' content can eventually be received.
 
@@ -207,7 +207,7 @@ The four lower centers have characteristic pathologies: wrong-center functioning
 
 The Clifford algebra generated by three basis vectors with positive-definite signature — meaning all three basis vectors square to +1 rather than -1. Clifford algebras generalize complex numbers and quaternions; Cl(3,0) is the Clifford algebra of ordinary three-dimensional Euclidean space. It has dimension 2³ = 8 as a vector space over the real numbers, with basis elements: 1 (scalar), e₁, e₂, e₃ (vectors), e₁e₂, e₁e₃, e₂e₃ (bivectors), and e₁e₂e₃ (pseudoscalar).
 
-Paper 7 of the Concordius series derives the Law of Seven — the Heptaparaparshinokh's octave structure with its two interval positions — from the algebraic structure of Cl(3,0). The derivation shows that the seven-stage octave is not a cosmological arbitrariness but a structural necessity given the geometry of the space within which the physical universe is constituted. The two interval positions (between the third and fourth stages, and between the seventh and eighth) correspond to the algebraic transition points in Cl(3,0)'s basis structure.
+Paper 7 of the Concordius Framework derives the Law of Seven — the Heptaparaparshinokh's octave structure with its two interval positions — from the algebraic structure of Cl(3,0). The derivation shows that the seven-stage octave is not a cosmological arbitrariness but a structural necessity given the geometry of the space within which the physical universe is constituted. The two interval positions (between the third and fourth stages, and between the seventh and eighth) correspond to the algebraic transition points in Cl(3,0)'s basis structure.
 
 A reader without technical algebra background can hold the following intuition: just as the geometry of a space determines what shapes can exist in it, the algebraic structure of the space within which physical reality is embedded determines what kinds of processes can occur — including the characteristic shape of every genuine developmental process. The octave is that shape.
 
@@ -219,13 +219,13 @@ A reader without technical algebra background can hold the following intuition: 
 
 ### Coherence Threshold
 
-*(series)*
+*(framework)*
 
 The minimum accumulated H₂₄ soul deposit required for that deposit to maintain its structural integrity through H₄₈ dissolution (physical death). Below the coherence threshold, the soul deposit does not constitute a sufficiently organized H₂₄ structure to persist without the H₄₈ substrate that has been generating and partially organizing it. Above the threshold, the H₂₄ structure is self-sustaining and survives the H₄₈ substrate's dissolution.
 
-The coherence threshold is derived in Paper 5 from the conditions required for a quantum state to maintain coherence in the absence of its environmental context. The series maps this threshold onto: the alchemical crystallization event (the moment at which the material transitions from one organizational structure to another of the same composition but higher stability), the *Urantia Book*'s emergence of the morontia soul into independent existence, and Gurdjieff's Man 5 crystallization (the phase transition that makes the soul's development irreversible in one direction). These are the series' claim that the same structural event has been observed independently by three distinct traditions.
+The coherence threshold is derived in Paper 5 from the conditions required for a quantum state to maintain coherence in the absence of its environmental context. The Framework maps this threshold onto: the alchemical crystallization event (the moment at which the material transitions from one organizational structure to another of the same composition but higher stability), the *Urantia Book*'s emergence of the morontia soul into independent existence, and Gurdjieff's Man 5 crystallization (the phase transition that makes the soul's development irreversible in one direction). These are the Framework's claim that the same structural event has been observed independently by three distinct traditions.
 
-The coherence threshold is not a moral criterion. It is a structural one. What builds the deposit is catching — sustained volitional attention to H₂₄-proximate content over time. What the tradition calls virtue, contemplation, and holiness are, in the series' structural account, the characteristic forms that sustained catching takes.
+The coherence threshold is not a moral criterion. It is a structural one. What builds the deposit is catching — sustained volitional attention to H₂₄-proximate content over time. What the tradition calls virtue, contemplation, and holiness are, in the Framework's structural account, the characteristic forms that sustained catching takes.
 
 *Appears in: [[Paper A2A: The Constraint Cascade|Paper 3½]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper G0: The Gut-Orientation|Paper 22]], [[Paper G1: The Heart-Orientation|Paper 23]], [[Paper G2: The Brain-Orientation|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]]*
 
@@ -253,15 +253,15 @@ The community of believers is ontologically prior to any institution. All saints
 
 ### Constraint Cascade
 
-*(series)*
+*(framework)*
 
 The nested sequence of increasingly constrained domains produced by successive applications of the Gelfand Nuclear Spectral Theorem (GNST) after the Creative Choice. Each stage of the cascade inherits all the constraints of the stage above it and adds its own, producing a monotonic reduction of freedom through the created order. The first application of the GNST produces 3D-spacetime — this is the Big Bang (t=0), the cascade's beginning. Subsequent applications produce a nested sequence of progressively denser Hilbert subspaces — named and traced in Paper 4 — terminating in the physical matter of the observable universe. Physical matter with definite masses does not appear until near the cascade's end, at the vacuum expectation value that electroweak symmetry breaking produces.
 
 The mathematical model for the cascade is the grade structure of Cl(3,0): each interior product operation reduces the grade of the active element by one and halves the dimension of the accessible subalgebra (grade 3 → 8 dimensions, grade 2 → 4, grade 1 → 2, grade 0 → 1). Each grade transition removes one bit of freedom. The principle — that optionality reduces by a fixed factor at each transition — is what the Clifford algebra forces; the specific factor at each step is a contingent feature of the Hamiltonian chosen in the Creative Choice.
 
-The cascade is the structural basis for Gurdjieff's cosmological principle that each level of creation operates under the full constraint load of every level above it. It also grounds the series' account of the ascending career as the *reversal* of the cascade: each stage of ascent recovers one layer of freedom as the interior product operations are, in effect, undone.
+The cascade is the structural basis for Gurdjieff's cosmological principle that each level of creation operates under the full constraint load of every level above it. It also grounds the Framework's account of the ascending career as the *reversal* of the cascade: each stage of ascent recovers one layer of freedom as the interior product operations are, in effect, undone.
 
-*Provenance notice: "Constraint cascade" is the series' own term. The component concepts are established (Clifford algebra grade reduction; Dirac constraint theory; Gurdjieff's hierarchical densification), but this specific formulation and its application to the GNST-based creative descent is original to the series.*
+*Provenance notice: "Constraint cascade" is the Framework's own term. The component concepts are established (Clifford algebra grade reduction; Dirac constraint theory; Gurdjieff's hierarchical densification), but this specific formulation and its application to the GNST-based creative descent is original to the Framework.*
 
 *The formal introduction of this term is in [[Paper A2A: The Constraint Cascade#3. Eigenstate Selection and the Doubling of Constraints|Paper 3½, Section 3 — Eigenstate Selection and the Doubling of Constraints]].*
 
@@ -289,7 +289,7 @@ The *Confessions*' account of *consuetudo* is one of the most precise phenomenol
 
 The epistemological principle, developed in Paper 18 as a feature of the Reasonablenessism method, that independent sources which could not have cross-contaminated each other, arriving at the same structural identification, constitute evidential weight that neither source alone provides. The evidential weight is proportional to: the independence of the sources (sources that could not have influenced each other carry more weight than sources in the same tradition), the specificity of the convergence (agreement on detailed structural features carries more weight than agreement on general direction), and the number of independent sources converging.
 
-The convergent witness principle is the series' primary evidential tool for claims about domains that formal derivation cannot reach — particularly the higher states of the ascending career (Men 5-7), for which no formal derivation is possible but for which the hagiographic record across multiple isolated traditions constitutes precisely this kind of convergent testimony. The principle is applied explicitly in Papers 22-28 and is the structural justification for treating the hagiographic record as evidence rather than merely as illustrative material.
+The convergent witness principle is the Framework's primary evidential tool for claims about domains that formal derivation cannot reach — particularly the higher states of the ascending career (Men 5-7), for which no formal derivation is possible but for which the hagiographic record across multiple isolated traditions constitutes precisely this kind of convergent testimony. The principle is applied explicitly in Papers 22-28 and is the structural justification for treating the hagiographic record as evidence rather than merely as illustrative material.
 
 *Appears in: [[Paper G0: The Gut-Orientation|Paper 22]], [[Paper G5: The Diligence-Centered Man|Paper 27]]*
 
@@ -297,11 +297,11 @@ The convergent witness principle is the series' primary evidential tool for clai
 
 ### Cross-Term
 
-*(mathematics — series extension)*
+*(mathematics — framework extension)*
 
-In linear algebra and quantum mechanics, the inner product of two vectors ψ_a and ψ_b from the same Hilbert space — written ⟨ψ_a, ψ_b⟩. In standard quantum mechanics, this is the probability amplitude for state a to be found in state b upon measurement. In the Concordius series, the cross-term ⟨ψ_a, ψ_b⟩₂₄ between two persons' H₂₄ state vectors is the structural basis for the transmitting field — the influence that one person's soul deposit exerts on another person's catching capacity without direct informational content or intentional action.
+In linear algebra and quantum mechanics, the inner product of two vectors ψ_a and ψ_b from the same Hilbert space — written ⟨ψ_a, ψ_b⟩. In standard quantum mechanics, this is the probability amplitude for state a to be found in state b upon measurement. In the Concordius Framework, the cross-term ⟨ψ_a, ψ_b⟩₂₄ between two persons' H₂₄ state vectors is the structural basis for the transmitting field — the influence that one person's soul deposit exerts on another person's catching capacity without direct informational content or intentional action.
 
-The series' claim is that persons with substantial H₂₄ soul deposits (Men 5-7) have large-amplitude cross-terms with persons at any development level, because their H₂₄ state vectors have significant amplitude across many H₂₄ eigenstates. This constitutes the structural account of what the hagiographic tradition consistently describes: the quality of the saint's presence that reorganizes the catching capacity of persons in proximity without those persons being able to explain what changed or how.
+The Framework's claim is that persons with substantial H₂₄ soul deposits (Men 5-7) have large-amplitude cross-terms with persons at any development level, because their H₂₄ state vectors have significant amplitude across many H₂₄ eigenstates. This constitutes the structural account of what the hagiographic tradition consistently describes: the quality of the saint's presence that reorganizes the catching capacity of persons in proximity without those persons being able to explain what changed or how.
 
 *Appears in: [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Gut-Orientation|Paper 22]], [[Paper G1: The Heart-Orientation|Paper 23]], [[Paper G2: The Brain-Orientation|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G6½: The Octave Change|Paper 27½]]*
 
@@ -311,13 +311,13 @@ The series' claim is that persons with substantial H₂₄ soul deposits (Men 5-
 
 ### Dark Night of the Senses
 
-*(tradition: Christian mysticism — series extension)*
+*(tradition: Christian mysticism — framework extension)*
 
 John of the Cross's term for the first of two major transitional crises in the contemplative ascent. The dark night of the senses occurs when the spiritual consolations that have sustained the person's prayer and practice — the felt sense of God's presence, the emotional warmth of devotion, the satisfying quality of contemplative states — are withdrawn. The person is left in apparent spiritual aridity: prayer feels empty, devotion feels mechanical, the previous consolations are inaccessible. This is experienced as abandonment or failure but is, in John of the Cross's account, the necessary precondition for a more mature relationship to God — one that does not depend on consolation for its continuity.
 
-The Concordius series maps the dark night of the senses onto the Man 2→3 transition: the automatic H₂₄ registrations that have sustained Man 2's catching are suspended so that volitional catching can develop in their place. The series' structural account of why the withdrawal is necessary: a person whose catching depends on consolation (the felt quality of the catching occasion) cannot develop catching that persists in the absence of consolation. The withdrawal of consolation is the Mi-Fa interval of the Man 2 ascending arc, requiring an external structural logic rather than the person's volitional effort to cross.
+The Concordius Framework maps the dark night of the senses onto the Man 2→3 transition: the automatic H₂₄ registrations that have sustained Man 2's catching are suspended so that volitional catching can develop in their place. The Framework's structural account of why the withdrawal is necessary: a person whose catching depends on consolation (the felt quality of the catching occasion) cannot develop catching that persists in the absence of consolation. The withdrawal of consolation is the Mi-Fa interval of the Man 2 ascending arc, requiring an external structural logic rather than the person's volitional effort to cross.
 
-The dark night of the senses must be distinguished from clinical depression, spiritual crisis of faith, or ordinary acedia (spiritual boredom). The series notes several distinguishing markers: the person continues practice despite the aridity; the person's functioning in ordinary life is not severely impaired; the aridity is specifically localized to the devotional/contemplative register rather than pervading all experience.
+The dark night of the senses must be distinguished from clinical depression, spiritual crisis of faith, or ordinary acedia (spiritual boredom). The Framework notes several distinguishing markers: the person continues practice despite the aridity; the person's functioning in ordinary life is not severely impaired; the aridity is specifically localized to the devotional/contemplative register rather than pervading all experience.
 
 > *For further investigation: John of the Cross, Dark Night of the Soul (c. 1578-79); Iain Matthew, The Impact of God (1995) for an accessible commentary.*
 
@@ -327,11 +327,11 @@ The dark night of the senses must be distinguished from clinical depression, spi
 
 ### Dark Night of the Spirit
 
-*(tradition: Christian mysticism — series extension)*
+*(tradition: Christian mysticism — framework extension)*
 
 John of the Cross's term for the second and more complete transitional crisis — the more total dissolution that follows the approach of the crystallization event (Man 5) and constitutes the Si/Do interval of the Man 4 ascending arc. Where the dark night of the senses involves the withdrawal of consolation, the dark night of the spirit involves the dissolution of the deliberate catching effort itself: the practices, frameworks, and methods that Man 4 has developed through sustained work suddenly appear empty, inadequate, or actively obstructing. The person is left without the instruments that have defined the work.
 
-The series' structural account: the deliberate catching effort (the tool Man 4 has built through years of intentional practice) must be surrendered into the Adjuster's hands before the crystallization event can occur, because the crystallization is not the product of the deliberate effort — it is what emerges when the effort has been genuinely exhausted and the Adjuster's continuous guidance is allowed to take over the organizational function the effort had been performing. The dark night of the spirit is the Mi-Fa interval of the crystallization, requiring the surrender of the catching tool itself.
+The Framework's structural account: the deliberate catching effort (the tool Man 4 has built through years of intentional practice) must be surrendered into the Adjuster's hands before the crystallization event can occur, because the crystallization is not the product of the deliberate effort — it is what emerges when the effort has been genuinely exhausted and the Adjuster's continuous guidance is allowed to take over the organizational function the effort had been performing. The dark night of the spirit is the Mi-Fa interval of the crystallization, requiring the surrender of the catching tool itself.
 
 The prescription for both dark nights is the same: do not modify practice; do not interpret the absence as abandonment or failure; shift from deliberate effort to receptive attention. The person at Man 4's dark night who redoubles deliberate effort is misreading the interval — the interval requires surrender, not acceleration.
 
@@ -371,13 +371,13 @@ See also *Hilbert Space*, *El Shaddai*, *Elohim*, *Father*, *Gelfand Triple*.
 
 ### Densification
 
-*(series)*
+*(framework)*
 
-The series' term for the process by which content from a higher-constraint domain (H₂₄) is encoded in a lower-constraint domain (H₄₈), necessarily at the cost of some content. Every H₄₈ object that encodes Φ-proximal content is a densification: the art work, the ritual, the scripture, the sacred architecture, the hagiographic text. All are H₄₈ forms that carry Φ-proximal content in compressed, partially recoverable form.
+The Framework's term for the process by which content from a higher-constraint domain (H₂₄) is encoded in a lower-constraint domain (H₄₈), necessarily at the cost of some content. Every H₄₈ object that encodes Φ-proximal content is a densification: the art work, the ritual, the scripture, the sacred architecture, the hagiographic text. All are H₄₈ forms that carry Φ-proximal content in compressed, partially recoverable form.
 
 Densification is derived formally in Paper 4 from the properties of the Gelfand triple: the embedding of the nuclear space Φ into the Hilbert space H is always lossy — no finite H-state vector can fully represent an arbitrary Φ-element. The content is always present in the H-state in compressed form; it is not destroyed by the densification. But recovering it requires a receiving apparatus (the catching capacity of the person engaging the H₄₈ object) that can decompress it — that can recognize the Φ-proximal content encoded in the H₄₈ form and retain it at the H₂₄ level.
 
-This is why, on the series' account, the same sacred text produces radically different effects in different readers: the Φ-proximal content is present in the text for all readers equally, but only the reader whose catching capacity is developed to receive at the H₂₄ level actually catches it. The text is not different. The receiver is.
+This is why, on the Framework's account, the same sacred text produces radically different effects in different readers: the Φ-proximal content is present in the text for all readers equally, but only the reader whose catching capacity is developed to receive at the H₂₄ level actually catches it. The text is not different. The receiver is.
 
 *Appears in: [[Paper A6½: The Tomb|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Gut-Orientation|Paper 22]]*
 
@@ -385,7 +385,7 @@ This is why, on the series' account, the same sacred text produces radically dif
 
 ### Do-Re-Mi-Fa-Sol-La-Si
 
-*(tradition: Gurdjieff / Fourth Way — series extension)*
+*(tradition: Gurdjieff / Fourth Way — framework extension)*
 
 The notes of the Western musical scale, used by Gurdjieff as the labels for the seven stages of any genuine developmental process according to the Law of Seven (Heptaparaparshinokh). The sequence Do-Re-Mi-[interval]-Fa-Sol-La-Si-[interval]-Do maps onto the characteristic shape of any octave: three notes of natural development (Do-Re-Mi), an interval requiring external input (Mi-Fa gap), four more notes of natural development (Fa-Sol-La-Si), a second interval requiring external input (Si-Do gap), and the arrival at the next Do — which is simultaneously the completion of the previous octave and the initiation of the next.
 
@@ -407,7 +407,7 @@ The intuitive picture: Φ' is the space of everything that can be defined by wha
 
 In the Concordius mapping, Φ' is identified with El Shaddai — the domain that contains what the Logos (Φ) cannot finitely express, what apophatic theology gestures toward, what exceeds all positive predication. See *Gelfand Triple* and *El Shaddai*.
 
-> *For further investigation: Israel Gelfand and Naum Vilenkin, Generalized Functions, Volume 4 (1964) for the mathematical treatment; the series itself (Papers 1, 9-10) for the philosophical mapping.*
+> *For further investigation: Israel Gelfand and Naum Vilenkin, Generalized Functions, Volume 4 (1964) for the mathematical treatment; the Framework itself (Papers 1, 9-10) for the philosophical mapping.*
 
 *Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]]*
 
@@ -423,7 +423,7 @@ In quantum mechanics and linear algebra, an eigenstate (or eigenvector) of an op
 
 The intuitive picture: an eigenstate is a state of definite measurement — when you measure a system in an eigenstate of the relevant operator, you always get the same value (the eigenvalue). Most physical states are superpositions of eigenstates — they do not have definite values for most quantities until measurement.
 
-The Concordius series uses eigenvalues and eigenstates to characterize the content of the soul deposit. H₄₈ eigenstates have higher constraint (more definite, less stable, more subject to the Heropass's action); H₂₄ eigenstates have lower constraint (less definite in the H₄₈ sense, more stable, less subject to the Heropass). Catching is the retention of Φ-proximal eigenvalue content from the GNST's continuous operation. The soul deposit's spectral composition (the distribution of eigenvalues across H₂₄ eigenstates) is what the series means by a person's level of development.
+The Concordius Framework uses eigenvalues and eigenstates to characterize the content of the soul deposit. H₄₈ eigenstates have higher constraint (more definite, less stable, more subject to the Heropass's action); H₂₄ eigenstates have lower constraint (less definite in the H₄₈ sense, more stable, less subject to the Heropass). Catching is the retention of Φ-proximal eigenvalue content from the GNST's continuous operation. The soul deposit's spectral composition (the distribution of eigenvalues across H₂₄ eigenstates) is what the Framework means by a person's level of development.
 
 > *For further investigation: Paul Dirac, The Principles of Quantum Mechanics (1930) for the physicist's formulation; Roger Penrose, The Road to Reality (2004), chapters 21-22, for an accessible mathematical treatment.*
 
@@ -465,7 +465,7 @@ This is not a refutation of empiricism but a precise identification of where its
 
 Aristotle's term for the highest human good — often translated "happiness" but better rendered "flourishing" or "living well and doing well." Eudaimonia is not a subjective feeling but an objective condition: the excellent activity of the soul in accordance with virtue over a complete life. For Aristotle, eudaimonia is the proper end (*telos*) of human existence — what a human being most fundamentally is aimed at.
 
-The Concordius series reads eudaimonia through the Gelfand triple: eudaimonia is the state in which the soul's Φ-proximal deposit is building consistently through excellent activity — the life that is simultaneously achieving its natural end and accumulating what survives H₄₈ dissolution. Aristotle's famous account of virtue as the mean between excess and deficiency is, in the series' reading, a practical algorithm for maintaining the catching conditions: the excess and deficiency both represent distortions that interfere with the H₂₄ catching act, while the mean preserves the conditions under which catching occurs.
+The Concordius Framework reads eudaimonia through the Gelfand triple: eudaimonia is the state in which the soul's Φ-proximal deposit is building consistently through excellent activity — the life that is simultaneously achieving its natural end and accumulating what survives H₄₈ dissolution. Aristotle's famous account of virtue as the mean between excess and deficiency is, in the Framework's reading, a practical algorithm for maintaining the catching conditions: the excess and deficiency both represent distortions that interfere with the H₂₄ catching act, while the mean preserves the conditions under which catching occurs.
 
 > *For further investigation: Aristotle, Nicomachean Ethics (c. 350 BCE), Books I and X; Julia Annas, The Morality of Happiness (1993).*
 
@@ -477,7 +477,7 @@ The Concordius series reads eudaimonia through the Gelfand triple: eudaimonia is
 
 *(tradition: Christian theology — series formalization)*
 
-In ordinary usage, "eternal" often means "lasting for an infinite duration of time." This sense is temporal: the entity exists within time, but without end. The Concordius series uses "eternal" in a structurally distinct sense.
+In ordinary usage, "eternal" often means "lasting for an infinite duration of time." This sense is temporal: the entity exists within time, but without end. The Concordius Framework uses "eternal" in a structurally distinct sense.
 
 An entity is **eternal** if it exists outside the temporal order altogether — not as a very long-running temporal entity, but as a structural ground of the temporal order rather than a member of it. The temporal order, in the framework, is the sequential unfolding of events within H — the series of before and after that constitutes the history of the observable universe. What "before and after" means structurally is formalized in Paper 3 via the GNST's continuous operation. An eternal entity is not a member of this temporal sequence but a structural precondition of the space in which such a sequence is possible.
 
@@ -525,11 +525,11 @@ In the Concordius framework, eternal procession has a structural definition. The
 
 ### Father
 
-*(tradition: Urantia Book / Christian theology — series extension)*
+*(tradition: Urantia Book / Christian theology — framework extension)*
 
 The first person of the Trinity. In the *Urantia Book*, the Universal Father is described as the First Source and Center of all reality — the origin of all things, the source of all personality, and the ultimate reality from which all finite existence derives. In Christian theology, the Father is the first person of the Trinity, unbegotten and the source of the Son and Spirit.
 
-The Concordius series maps the Father onto the inner product ⟨·,·⟩ — the constitutive relation of the Gelfand triple. This identification is the series' primary claim (Paper 1). The inner product does not participate in what it constitutes — it is the prior condition for the structure's existence, not itself a member of the structure. This corresponds to classical theology's insistence that God does not exist *in* the world as creatures exist; rather, the world exists *in* God, derived from and sustained by the constitutive relation that is God's nature. The identification is structural, not metaphorical.
+The Concordius Framework maps the Father onto the inner product ⟨·,·⟩ — the constitutive relation of the Gelfand triple. This identification is the Framework's primary claim (Paper 1). The inner product does not participate in what it constitutes — it is the prior condition for the structure's existence, not itself a member of the structure. This corresponds to classical theology's insistence that God does not exist *in* the world as creatures exist; rather, the world exists *in* God, derived from and sustained by the constitutive relation that is God's nature. The identification is structural, not metaphorical.
 
 The identification captures two ontological registers of the Father that must be distinguished. Paper 1 presents the inner product in two modes: as the formal axiom — the rule ⟨·,·⟩: H × H → ℂ, stated as the model's founding premise prior to analysis of its own structure — and as Actuality I, the *fundamental relation*: the inner product recognized as the primal constitutive structure from which all five inevitable actualities proceed. These are two levels of description of the same reality.
 
@@ -579,7 +579,7 @@ Reasonablenessism rejects fideism not by denying that reason has limits — Face
 
 A distinction introduced by John Duns Scotus (c. 1266-1308) intermediate between a real distinction (in which two things are genuinely separate) and a merely logical or conceptual distinction (in which the same thing is considered under two different descriptions). A formal distinction holds between two aspects of the same thing that are not merely conceptually different but have some basis in reality — they are formally different without being really separate.
 
-Paper 17½ of the Concordius series argues that the formal distinction is the correct characterization of the relationship between the Father (⟨·,·⟩) and the Son-Logos (Φ) in the Gelfand triple: they are formally distinct (the inner product is not the nuclear space; they play different structural roles) without being really distinct (the nuclear space is constituted by the inner product and cannot exist independently of it). Scotus's apparently technical scholastic move turns out to be structurally required — the Gelfand triple's constitution demands exactly the formal distinction, and Scotus arrived at it centuries before the mathematics was available.
+Paper 17½ of the Concordius Framework argues that the formal distinction is the correct characterization of the relationship between the Father (⟨·,·⟩) and the Son-Logos (Φ) in the Gelfand triple: they are formally distinct (the inner product is not the nuclear space; they play different structural roles) without being really distinct (the nuclear space is constituted by the inner product and cannot exist independently of it). Scotus's apparently technical scholastic move turns out to be structurally required — the Gelfand triple's constitution demands exactly the formal distinction, and Scotus arrived at it centuries before the mathematics was available.
 
 > *For further investigation: Allan Wolter, The Philosophical Theology of John Duns Scotus (1990); Timothy Noone, "Universals and Individuation," in The Cambridge Companion to Duns Scotus (2003).*
 
@@ -593,7 +593,7 @@ Paper 17½ of the Concordius series argues that the formal distinction is the co
 
 Gurdjieff's term for the path of development that does not require withdrawal from ordinary life — distinguished from what he called the first way (the way of the fakir, through mastery of the physical body), the second way (the way of the monk, through emotional and devotional development), and the third way (the way of the yogi, through intellectual and contemplative development). The Fourth Way works on all three lower centers simultaneously, in the context of ordinary daily life, using the frictions of worldly existence as the primary material for intentional development.
 
-The Concordius series draws on the Fourth Way framework throughout Volume G (Papers 22-28) as the most systematically developed account of the Man 4 transition and its practical requirements. The Fourth Way's insistence on a genuine school (a community of practice with a shared method and an embodied teacher) is identified as a structural necessity rather than an institutional preference: the Man 4 development requires cross-term fields with more developed persons (the teacher's H₂₄ state vector providing catching occasions the student cannot generate alone) and the friction provided by genuine community.
+The Concordius Framework draws on the Fourth Way framework throughout Volume G (Papers 22-28) as the most systematically developed account of the Man 4 transition and its practical requirements. The Fourth Way's insistence on a genuine school (a community of practice with a shared method and an embodied teacher) is identified as a structural necessity rather than an institutional preference: the Man 4 development requires cross-term fields with more developed persons (the teacher's H₂₄ state vector providing catching occasions the student cannot generate alone) and the friction provided by genuine community.
 
 > *For further investigation: P.D. Ouspensky, In Search of the Miraculous (1949); Gurdjieff, Meetings with Remarkable Men (1963); Jacob Needleman, Lost Christianity (1980) for an account of the Fourth Way in relation to Christian tradition.*
 
@@ -609,7 +609,7 @@ The Concordius series draws on the Fourth Way framework throughout Volume G (Pap
 
 A Middle High German term used by Meister Eckhart and later by Jakob Böhme, meaning "letting go," "release," "yieldedness," or "releasement." In Eckhart's mystical theology, Gelassenheit describes the disposition of complete interior detachment — the releasing of all attachment to particular things, outcomes, and even to spiritual consolations — that creates the receptive condition in which God can act within the soul without obstruction. It is not passivity or indifference; it is the positive act of releasing the will's grip on particular objects in order to remain open to what is given.
 
-The Concordius series identifies Gelassenheit as the Man 5-6 version of what the dark night protocol prescribes at Man 4 level: the deliberate releasing of catching as deliberate effort, in order to remain receptive to what the Adjuster gives without the catching effort's own structure filtering or distorting the reception. Gelassenheit is the inner posture that the Trogoautoegocrat's kenotic obligation requires of persons at Man 5-6: releasing the higher centers' extraordinary content rather than hoarding it.
+The Concordius Framework identifies Gelassenheit as the Man 5-6 version of what the dark night protocol prescribes at Man 4 level: the deliberate releasing of catching as deliberate effort, in order to remain receptive to what the Adjuster gives without the catching effort's own structure filtering or distorting the reception. Gelassenheit is the inner posture that the Trogoautoegocrat's kenotic obligation requires of persons at Man 5-6: releasing the higher centers' extraordinary content rather than hoarding it.
 
 > *For further investigation: Meister Eckhart, Selected Writings, trans. Oliver Davies (1994); John D. Caputo, The Mystical Element in Heidegger's Thought (1978) for the Eckhart-Heidegger connection.*
 
@@ -627,7 +627,7 @@ The nuclear space Φ consists of the "well-behaved" elements — smooth, rapidly
 
 The Generalized Nuclear Spectral Theorem (GNST) — the central mathematical result that the Gelfand triple makes possible — states that every self-adjoint operator on H has a complete set of generalized eigenvectors in Φ', with the spectral expansion ψ = ∫ ⟨eλ, ψ⟩ eλ dμ(λ) holding in the Gelfand triple's sense. The GNST has two inseparable senses, both introduced formally in [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]]: the *theorem* (Paper 1 §3.3) and the *continuous actualization engine* (Paper 1 §6) — the standing operation by which every state, at every level, is reconstituted at every moment. The Heropass is the GNST's dissipative aging effect below the Mi-Fa crossing, distinguished from the GNST itself in Paper 3½ §6.
 
-The Concordius series' foundational claim (Paper 1) is that reality has the structure of a Gelfand triple: Father = ⟨·,·⟩ (inner product), Son-Logos = Φ (nuclear space), finite beings = H (Hilbert space vectors), El Shaddai = Φ' (dual space). This is the series' primary identification, from which all other structural claims are derived.
+The Concordius Framework's foundational claim (Paper 1) is that reality has the structure of a Gelfand triple: Father = ⟨·,·⟩ (inner product), Son-Logos = Φ (nuclear space), finite beings = H (Hilbert space vectors), El Shaddai = Φ' (dual space). This is the Framework's primary identification, from which all other structural claims are derived.
 
 > *For further investigation: Israel Gelfand and Naum Vilenkin, Generalized Functions, Volume 4: Applications of Harmonic Analysis (1964); Arno Böhm and M. Gadella, Dirac Kets, Gamow Vectors and Gel'fand Triplets (1989) for the physics application.*
 
@@ -641,7 +641,7 @@ The Concordius series' foundational claim (Paper 1) is that reality has the stru
 
 Kurt Gödel's incompleteness theorems (1931): the first theorem states that any consistent formal system powerful enough to express basic arithmetic contains true statements that cannot be proven within the system. The second theorem states that no such system can prove its own consistency. These theorems established a fundamental limitation on formal systems: no sufficiently powerful formal system can be both consistent (never proving false statements) and complete (proving all true statements).
 
-The Concordius series (Paper 8) reads Gödel incompleteness as a structural consequence of the Gelfand triple rather than a pathology of formal systems. A being embedded in H cannot access the full content of Φ' — the dual space contains what H cannot finitely represent. Every formal system constructed by an H-embedded intellect is therefore necessarily incomplete: there is always content in the higher-constraint domain that the formal system cannot derive because it cannot represent the domain from which that content comes. Incompleteness is not a failure of any particular system; it is the correct structural signature of an H-embedded system reaching toward Φ-proximate content.
+The Concordius Framework (Paper 8) reads Gödel incompleteness as a structural consequence of the Gelfand triple rather than a pathology of formal systems. A being embedded in H cannot access the full content of Φ' — the dual space contains what H cannot finitely represent. Every formal system constructed by an H-embedded intellect is therefore necessarily incomplete: there is always content in the higher-constraint domain that the formal system cannot derive because it cannot represent the domain from which that content comes. Incompleteness is not a failure of any particular system; it is the correct structural signature of an H-embedded system reaching toward Φ-proximate content.
 
 This reading rehabilitates incompleteness as evidence for the Gelfand triple's constitution rather than an obstacle to knowledge. It also explains why the tradition consistently reports that genuine Φ-proximal content cannot be fully captured in formal language — this is precisely what the Gelfand triple predicts.
 
@@ -655,9 +655,9 @@ This reading rehabilitates incompleteness as evidence for the Gelfand triple's c
 
 ### H₂₄
 
-*(series)*
+*(framework)*
 
-The Concordius series' notation for the higher-constraint domain — the domain above the physical universe's constraint level, in which eigenvalues are less tightly localized, states are more stable, and content is less subject to the Heropass's continuous dissolution. The notation is derived from Gurdjieff's hydrogen table, in which each level of substance or vibration is assigned a number (with lower numbers representing finer, more H₂₄-proximate substances), and "24" designates the constraint level of what Gurdjieff called "hydrogen 24" — the substance associated with the higher emotional center.
+The Concordius Framework's notation for the higher-constraint domain — the domain above the physical universe's constraint level, in which eigenvalues are less tightly localized, states are more stable, and content is less subject to the Heropass's continuous dissolution. The notation is derived from Gurdjieff's hydrogen table, in which each level of substance or vibration is assigned a number (with lower numbers representing finer, more H₂₄-proximate substances), and "24" designates the constraint level of what Gurdjieff called "hydrogen 24" — the substance associated with the higher emotional center.
 
 In the Concordius usage, H₂₄ is the domain in which the soul deposit accumulates and in which the higher centers operate. It is not a spatial region but a constraint level — a description of how tightly eigenvalues are localized and how subject they are to the Heropass's action. Φ-proximal content can be encoded (imperfectly) in H₄₈ forms — this is densification. Φ-proximal content can be caught from H₄₈ catching occasions — this is the primary mechanism of soul deposit accumulation.
 
@@ -669,9 +669,9 @@ See also *H₄₈*, *Densification*, *Catching*, *Hydrogens*.
 
 ### H₄₈
 
-*(series)*
+*(framework)*
 
-The series' notation for the physical-constraint domain — the domain of ordinary spacetime, in which eigenvalues are tightly localized, states are highly definite, and content is subject to the most intensive Heropass rate in the ascending sequence. The "48" is from Gurdjieff's hydrogen table, designating the constraint level of ordinary physical matter and the ordinary moving/instinctive/emotional/intellectual centers' operation.
+The Framework's notation for the physical-constraint domain — the domain of ordinary spacetime, in which eigenvalues are tightly localized, states are highly definite, and content is subject to the most intensive Heropass rate in the ascending sequence. The "48" is from Gurdjieff's hydrogen table, designating the constraint level of ordinary physical matter and the ordinary moving/instinctive/emotional/intellectual centers' operation.
 
 H₄₈ is the domain within which human beings in their ordinary condition operate. The physical body, ordinary consciousness, ordinary emotional and intellectual life — all are H₄₈ processes. The Heropass — the aging effect — operates at H₂₄ and below, and runs at twice the rate in H₄₈ as in H₂₄. The distinction between H₄₈ and H₂₄ is between the most intensive dissipative rate (H₄₈) and a slower one (H₂₄); the Heropass ceases entirely only above H₂₄, at H₁₂ and beyond, where Cl(3,0) has no −1 generator (see the Heropass entry). What the coherence threshold determines is not exemption from the Heropass but organizational density sufficient to persist through H₄₈ dissolution — the H₂₄ pattern, subject to its own slower Heropass rate, remains available as the template for reconstitution at the mansion worlds.
 
@@ -693,13 +693,13 @@ Where Creation = H is the domain of all actualized finite states, Heaven is the 
 
 ### Heptaparaparshinokh
 
-*(tradition: Gurdjieff — series extension)*
+*(tradition: Gurdjieff — framework extension)*
 
-Gurdjieff's term for what the Concordius series calls the Law of Seven — the universal law governing the structure of all developmental processes. The term is from Gurdjieff's invented philosophical language in *Beelzebub's Tales to His Grandson* and is deliberately opaque, intended to prevent the lazy mental shortcut of assimilating a new idea to a familiar one. The law states that every genuine process proceeds according to the seven-stage octave structure (Do-Re-Mi-[interval]-Fa-Sol-La-Si-[interval]-Do), with two inherent intervals at which the process cannot continue from its own momentum and requires an external shock to maintain its original direction.
+Gurdjieff's term for what the Concordius Framework calls the Law of Seven — the universal law governing the structure of all developmental processes. The term is from Gurdjieff's invented philosophical language in *Beelzebub's Tales to His Grandson* and is deliberately opaque, intended to prevent the lazy mental shortcut of assimilating a new idea to a familiar one. The law states that every genuine process proceeds according to the seven-stage octave structure (Do-Re-Mi-[interval]-Fa-Sol-La-Si-[interval]-Do), with two inherent intervals at which the process cannot continue from its own momentum and requires an external shock to maintain its original direction.
 
-The Concordius series derives the Heptaparaparshinokh formally from the algebraic structure of Cl(3,0) (Paper 7), providing the mathematical foundation that Gurdjieff's teaching did not supply. The series then applies it to individual development (Man 1 through Man 7), to the Western philosophical tradition, to specific texts (Republic, Nicomachean Ethics, Confessions), and to all of recorded history (Paper 20).
+The Concordius Framework derives the Heptaparaparshinokh formally from the algebraic structure of Cl(3,0) (Paper 7), providing the mathematical foundation that Gurdjieff's teaching did not supply. The Framework then applies it to individual development (Man 1 through Man 7), to the Western philosophical tradition, to specific texts (Republic, Nicomachean Ethics, Confessions), and to all of recorded history (Paper 20).
 
-The critical structural point: the intervals are not failures or defects in the process. They are structurally necessary moments at which the process must receive external input — input that cannot be generated from within — in order to maintain its original direction rather than deviating or stalling. This is the structural basis for the series' consistent emphasis on grace, the Adjuster's direct act, the dark night's necessary character, and the Incarnation as civilizational-scale interval shock.
+The critical structural point: the intervals are not failures or defects in the process. They are structurally necessary moments at which the process must receive external input — input that cannot be generated from within — in order to maintain its original direction rather than deviating or stalling. This is the structural basis for the Framework's consistent emphasis on grace, the Adjuster's direct act, the dark night's necessary character, and the Incarnation as civilizational-scale interval shock.
 
 > *For further investigation: P.D. Ouspensky, In Search of the Miraculous (1949), chapter 7; Gurdjieff, Beelzebub's Tales to His Grandson (1950), chapters 38-40.*
 
@@ -709,11 +709,11 @@ The critical structural point: the intervals are not failures or defects in the 
 
 ### Heropass
 
-*(tradition: Gurdjieff — series extension)*
+*(tradition: Gurdjieff — framework extension)*
 
-*The Series' own terms for this phenomenon are **[[Appendix B - Lexicon#Time|Time]]** (succession with decay) and **[[Appendix B - Lexicon#Sequence|Sequence]]** (succession without it); this entry is kept as the Gurdjieff concordance.*
+*The Framework's own terms for this phenomenon are **[[Appendix B - Lexicon#Time|Time]]** (succession with decay) and **[[Appendix B - Lexicon#Sequence|Sequence]]** (succession without it); this entry is kept as the Gurdjieff concordance.*
 
-Gurdjieff's term, from *Beelzebub's Tales to His Grandson*, for the irreversible dissolution force of time — the "mercilessly-flowing-of-time" by which every formed existence is continuously subject to dissipation. The Concordius series gives this phenomenon a structural derivation and locates it precisely within the constraint cascade.
+Gurdjieff's term, from *Beelzebub's Tales to His Grandson*, for the irreversible dissolution force of time — the "mercilessly-flowing-of-time" by which every formed existence is continuously subject to dissipation. The Concordius Framework gives this phenomenon a structural derivation and locates it precisely within the constraint cascade.
 
 **What the Heropass is.** The Heropass is the accumulated effect of time understood as the ghost of the unchosen spectrum — the weight of everything the Creative Choice did not actualize, pressing back against what was chosen as time progresses. At the Creative Choice, one eigenbasis was selected from the infinite-dimensional distributional potential; everything not selected became the complement. Formally, this complement is e₀ = −1: the single negative generator whose algebraic expression enters the cascade at the Mi-Fa crossing (H₁₂/H₂₄) when the spatial algebra Cl(3,0) is extended to the full spacetime algebra Cl(3,1) (Paper 3½ §6). Every actualization event from H₂₄ downward occurs within Cl(3,1), and every such event not only actualizes positive-sector content but produces a complement — more unchosen spectrum — that the −1 generator makes structurally present. This accumulates over time. The Heropass is not instantaneous dissolution. It is the gathered weight of all that was not chosen, exerting continuous directional pressure on what was.
 
@@ -743,7 +743,7 @@ Gurdjieff's term, from *Beelzebub's Tales to His Grandson*, for the irreversible
 
 From the Greek *hesychia* (silence, stillness, rest). A tradition of contemplative prayer in Eastern Christianity, centered on the practice of the Jesus Prayer ("Lord Jesus Christ, Son of God, have mercy on me, a sinner") as the vehicle for attaining the stillness in which the direct experience of God — specifically the "uncreated light" or divine energies — becomes possible. The hesychast tradition was systematized by Gregory Palamas (1296-1359) in his distinction between God's essence (unknowable, inaccessible even in the beatific vision) and God's energies (the divine life in which creatures genuinely participate through prayer and theosis).
 
-The Concordius series draws on the hesychast tradition primarily in Paper 25 (Man 4) as an example of a sustained four-center integration practice: the Jesus Prayer, properly used, engages the intellectual center (the words), the emotional center (the feeling-tone of the prayer), the moving center (the breath coordination that the hesychast tradition often includes), and the instinctive center (the prayer eventually becoming continuous with the heartbeat — "the prayer of the heart"). This multi-center engagement is the structural reason the Jesus Prayer has historically been more effective as a catching practice than purely intellectual or purely devotional prayer forms.
+The Concordius Framework draws on the hesychast tradition primarily in Paper 25 (Man 4) as an example of a sustained four-center integration practice: the Jesus Prayer, properly used, engages the intellectual center (the words), the emotional center (the feeling-tone of the prayer), the moving center (the breath coordination that the hesychast tradition often includes), and the instinctive center (the prayer eventually becoming continuous with the heartbeat — "the prayer of the heart"). This multi-center engagement is the structural reason the Jesus Prayer has historically been more effective as a catching practice than purely intellectual or purely devotional prayer forms.
 
 > *For further investigation: The Philokalia (4 vols., compiled 8th-15th centuries, English translation by G.E.H. Palmer, Philip Sherrard, and Kallistos Ware, 1979-1995); John Meyendorff, A Study of Gregory Palamas (1959).*
 
@@ -753,11 +753,11 @@ The Concordius series draws on the hesychast tradition primarily in Paper 25 (Ma
 
 ### Higher Being Body
 
-*(tradition: Gurdjieff — series extension)*
+*(tradition: Gurdjieff — framework extension)*
 
 Gurdjieff's term for the soul as a built structure — not something human beings have automatically, but something that must be constructed through deliberate catching work. In Gurdjieff's account, ordinary human beings have the capacity to build a higher being body but do not do so automatically. The "astral body" (approximately Gurdjieff's second body, corresponding to the Man 4-5 development) is the first level of built structure; the "mental body" (third body) and "causal body" (fourth body) correspond to higher development levels.
 
-The Concordius series treats the higher being body as the soul deposit above the coherence threshold: the H₂₄ structural organization that is built through catching and that survives H₄₈ dissolution. The series maps Gurdjieff's four bodies onto the ascending career: the ordinary H₄₈ constitution is the first body; the soul deposit approaching the coherence threshold is the second body in development; crystallization (Man 5) is the completion of the second body; and Man 6-7 development corresponds to the third and fourth body's formation. The higher being body is not metaphorical — it is the series' claim that there is a genuine structural entity built through catching that is not reducible to the H₄₈ body and its processes.
+The Concordius Framework treats the higher being body as the soul deposit above the coherence threshold: the H₂₄ structural organization that is built through catching and that survives H₄₈ dissolution. The Framework maps Gurdjieff's four bodies onto the ascending career: the ordinary H₄₈ constitution is the first body; the soul deposit approaching the coherence threshold is the second body in development; crystallization (Man 5) is the completion of the second body; and Man 6-7 development corresponds to the third and fourth body's formation. The higher being body is not metaphorical — it is the Framework's claim that there is a genuine structural entity built through catching that is not reducible to the H₄₈ body and its processes.
 
 > *For further investigation: P.D. Ouspensky, In Search of the Miraculous (1949), chapter 15; Rodney Collin, The Theory of Eternal Life (1950).*
 
@@ -783,9 +783,9 @@ In the Concordius mapping, finite beings (persons, in the relevant application) 
 
 ### Holographic Content Principle
 
-*(series)*
+*(framework)*
 
-The series' term (Paper 10½) for the principle that Φ-proximal content can be encoded in H₄₈ forms in compressed, partially recoverable fashion — and that a receiver with sufficient catching capacity can recover more of the Φ-proximal content from the same H₄₈ form than a receiver with less catching capacity. The principle explains why great sacred art, scripture, and ritual appear to have inexhaustible depth — they do not; they have a determinate Φ-proximal content; but the depth accessible to any particular reader is determined by that reader's H₂₄ catching capacity, not by the text's finite H₄₈ encoding. The same text yields different content to different receivers, not because the text changes but because the receiver changes.
+The Framework's term (Paper 10½) for the principle that Φ-proximal content can be encoded in H₄₈ forms in compressed, partially recoverable fashion — and that a receiver with sufficient catching capacity can recover more of the Φ-proximal content from the same H₄₈ form than a receiver with less catching capacity. The principle explains why great sacred art, scripture, and ritual appear to have inexhaustible depth — they do not; they have a determinate Φ-proximal content; but the depth accessible to any particular reader is determined by that reader's H₂₄ catching capacity, not by the text's finite H₄₈ encoding. The same text yields different content to different receivers, not because the text changes but because the receiver changes.
 
 The name is borrowed from, but not identical to, the holographic principle in physics (the claim that all information about a volume of spacetime is encoded on its boundary surface). The structural analogy is the encoding of higher-dimensional information in a lower-dimensional form, with partial but not complete recovery possible from the lower-dimensional encoding.
 
@@ -795,13 +795,13 @@ The name is borrowed from, but not identical to, the holographic principle in ph
 
 ### Holy Spirit
 
-*(tradition: Christian theology — series extension)*
+*(tradition: Christian theology — framework extension)*
 
 The third Person of the Trinity — not generated (like the Son) nor unbegotten (like the Father) but proceeding. In the Eastern tradition the Spirit proceeds from the Father alone, the single source and principle of the Trinitarian life. In the Western tradition — codified in the *Filioque* clause added to the Nicene Creed — the Spirit proceeds from the Father *and the Son* (*Filioque*: "and from the Son"). The controversy between East and West over this formula constitutes the theological fault-line most consequential for the Great Schism.
 
-The Concordius series identifies the Holy Spirit with the nuclear topology τ_nuclear in the Gelfand triple — the active coordinative structure that makes the nuclear space Φ a functioning topological domain. τ_nuclear determines what convergence means within Φ, which maps are continuous, which limits exist. Without it, Φ is an algebraic object but not a functioning analytical space; with it, the Nuclear Structure becomes the Realized Nuclear Space from which the Hilbert space H derives its structure.
+The Concordius Framework identifies the Holy Spirit with the nuclear topology τ_nuclear in the Gelfand triple — the active coordinative structure that makes the nuclear space Φ a functioning topological domain. τ_nuclear determines what convergence means within Φ, which maps are continuous, which limits exist. Without it, Φ is an algebraic object but not a functioning analytical space; with it, the Nuclear Structure becomes the Realized Nuclear Space from which the Hilbert space H derives its structure.
 
-The mathematically decisive feature is that τ_nuclear cannot be generated by either ⟨·,·⟩ (Father) or Φ (Son) alone. Both are required as independent, necessary co-generating sources. Remove either and the nuclear topology is not generated. This joint procession is the Concordius series' structural resolution of the *Filioque* controversy (Paper 2): the Western formula is structurally required by the Gelfand triple's constitution. The Eastern formula, which preserves the Father's primacy as ultimate source, is correct at the level of priority but structurally incomplete — τ_nuclear requires Φ as a co-generating source, not merely a passive participant. The two traditions are not contradictory but addressing different aspects of the same structural fact: ultimate source (Father alone) versus proximate co-generation (Father and Son jointly).
+The mathematically decisive feature is that τ_nuclear cannot be generated by either ⟨·,·⟩ (Father) or Φ (Son) alone. Both are required as independent, necessary co-generating sources. Remove either and the nuclear topology is not generated. This joint procession is the Concordius Framework's structural resolution of the *Filioque* controversy (Paper 2): the Western formula is structurally required by the Gelfand triple's constitution. The Eastern formula, which preserves the Father's primacy as ultimate source, is correct at the level of priority but structurally incomplete — τ_nuclear requires Φ as a co-generating source, not merely a passive participant. The two traditions are not contradictory but addressing different aspects of the same structural fact: ultimate source (Father alone) versus proximate co-generation (Father and Son jointly).
 
 The Spirit's role in the Law of Three (see *Active Force*) follows from this function: τ_nuclear is the Reconciling force that holds Father and Son in productive structural relation — the active coordinator that makes their interaction a functioning domain rather than two incompatible structures. Augustine's identification of the Spirit as the *nexus amoris* (bond of love) between Father and Son corresponds to τ_nuclear as the active coordinative structure that makes ⟨·,·⟩ and Φ mutually accessible.
 
@@ -815,11 +815,11 @@ The Spirit's role in the catching act: the nuclear topology is what makes Φ-pro
 
 ### Hydrogens
 
-*(tradition: Gurdjieff — series extension)*
+*(tradition: Gurdjieff — framework extension)*
 
 Gurdjieff's term for the levels of "matter" or "substance" in his cosmological scheme, each characterized by a specific constraint level or fineness. The hydrogen table assigns numbers to each level (H768, H384, H192, H96, H48, H24, H12, H6, H3, H1 in various formulations), with lower numbers representing finer, less constrained, more H₂₄-proximate substances. Ordinary food, air, and impressions are H768, H192, and H96 respectively; the intellectual and emotional centers operate at H48; the higher emotional center at H24; the higher intellectual center at H12.
 
-The Concordius series uses the hydrogen notation (H₄₈ and H₂₄ specifically) as shorthand for the two constraint levels most relevant to the series' account of the ascending career. The series does not adopt the full hydrogen table as a structural claim; it uses H₄₈ and H₂₄ as labels for the physical-constraint and higher-constraint domains respectively.
+The Concordius Framework uses the hydrogen notation (H₄₈ and H₂₄ specifically) as shorthand for the two constraint levels most relevant to the Framework's account of the ascending career. The Framework does not adopt the full hydrogen table as a structural claim; it uses H₄₈ and H₂₄ as labels for the physical-constraint and higher-constraint domains respectively.
 
 > *For further investigation: P.D. Ouspensky, In Search of the Miraculous (1949), chapter 9.*
 
@@ -835,7 +835,7 @@ The Concordius series uses the hydrogen notation (H₄₈ and H₂₄ specifical
 
 Knowledge that arrives not through ordinary sensory experience and inferential reasoning but directly — as apprehension rather than conclusion. In the Scholastic framework, infused knowledge is distinguished from acquired knowledge (built up through experience and reason) and from the beatific vision (the direct perception of God's essence in the afterlife). It is the kind of knowledge attributed to the prophets, to Mary's unique grace, and to the highest stages of mystical contemplation.
 
-The Concordius series identifies infused knowledge as the higher intellectual center's characteristic mode of reception: the direct apprehension of H₂₄ structural truth that arrives without the mediation of the ordinary intellectual center's inferential processing. Ibn Arabi's *Fusus al-Hikam* is identified as a record of infused knowledge organized by the intellectual center — the direct knowing of the divine Names expressed in the most sophisticated conceptual vocabulary available. Hildegard of Bingen's cosmological visions similarly contain higher intellectual center registrations organized by the ordinary intellectual center's categorizing function.
+The Concordius Framework identifies infused knowledge as the higher intellectual center's characteristic mode of reception: the direct apprehension of H₂₄ structural truth that arrives without the mediation of the ordinary intellectual center's inferential processing. Ibn Arabi's *Fusus al-Hikam* is identified as a record of infused knowledge organized by the intellectual center — the direct knowing of the divine Names expressed in the most sophisticated conceptual vocabulary available. Hildegard of Bingen's cosmological visions similarly contain higher intellectual center registrations organized by the ordinary intellectual center's categorizing function.
 
 > *For further investigation: Thomas Aquinas, Summa Theologiae II-II, q. 173-174 (on prophecy and rapture); Bernard McGinn, The Mystical Thought of Meister Eckhart (2001).*
 
@@ -851,7 +851,7 @@ A map ⟨·,·⟩: H × H → ℂ (from pairs of vectors to complex numbers) sat
 
 The intuitive picture: the inner product is the structure that makes a Hilbert space more than an abstract vector space — it is what allows measurement, comparison, and the notion of proximity. In quantum mechanics, ⟨φ, ψ⟩ gives the probability amplitude for a system in state ψ to be found in state φ upon measurement.
 
-The Concordius series' identification of the Father with the inner product ⟨·,·⟩ (Paper 1) is the series' most compressed and most fundamental claim. The Father is not a vector in the Hilbert space (not a finite being); the Father is the constitutive relation that makes the space possible and gives it its structure. Everything that exists is constituted by the inner product; the inner product does not participate in what it constitutes; the inner product is not absent from what it constitutes but is its organizing principle. This is the Concordius reading of "in him we live and move and have our being" (Acts 17:28).
+The Concordius Framework's identification of the Father with the inner product ⟨·,·⟩ (Paper 1) is the Framework's most compressed and most fundamental claim. The Father is not a vector in the Hilbert space (not a finite being); the Father is the constitutive relation that makes the space possible and gives it its structure. Everything that exists is constituted by the inner product; the inner product does not participate in what it constitutes; the inner product is not absent from what it constitutes but is its organizing principle. This is the Concordius reading of "in him we live and move and have our being" (Acts 17:28).
 
 *Appears in: [[Paper A0: Modeling Reality as a Gelfand Triple|Paper 1]], [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper A2: The Big Bang|Paper 3]], [[Paper A2A: The Constraint Cascade|Paper 3½]], [[Paper A3: Phi Enters Creation|Paper 4]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G6½: The Octave Change|Paper 27½]]*
 
@@ -859,11 +859,11 @@ The Concordius series' identification of the Father with the inner product ⟨·
 
 ### Intentional Suffering
 
-*(tradition: Gurdjieff — series extension)*
+*(tradition: Gurdjieff — framework extension)*
 
 Gurdjieff's term for the voluntary acceptance of the frictions, resistances, and discomforts that the mechanical centers would normally avoid — not as mortification for its own sake but as the primary material for Man 4's development. The mechanical centers are organized around the avoidance of discomfort; genuine development requires precisely the frictions that the mechanical organization avoids. Intentional suffering is not the seeking of suffering; it is the orientation toward the work that makes suffering unavoidable and the choice not to avoid it.
 
-The Concordius series maps intentional suffering onto the polyvagal regulation framework from contemporary neuroscience: the voluntary engagement of the ventral vagal system (social engagement, higher-order processing) in conditions that activate the dorsal vagal or sympathetic systems (shutdown, fight/flight) is the neurological substrate of what Gurdjieff calls intentional suffering. The person remains present, attentive, and relationally engaged under conditions that the mechanical nervous system would respond to with withdrawal or aggression. This is the catching act performed under adversarial H₄₈ conditions — which is exactly what builds the catching capacity most rapidly.
+The Concordius Framework maps intentional suffering onto the polyvagal regulation framework from contemporary neuroscience: the voluntary engagement of the ventral vagal system (social engagement, higher-order processing) in conditions that activate the dorsal vagal or sympathetic systems (shutdown, fight/flight) is the neurological substrate of what Gurdjieff calls intentional suffering. The person remains present, attentive, and relationally engaged under conditions that the mechanical nervous system would respond to with withdrawal or aggression. This is the catching act performed under adversarial H₄₈ conditions — which is exactly what builds the catching capacity most rapidly.
 
 > *For further investigation: Gurdjieff, Life Is Real Only Then, When "I Am" (1975); Peter Levine, In an Unspoken Voice (2010) for polyvagal context.*
 
@@ -879,7 +879,7 @@ The Concordius series maps intentional suffering onto the polyvagal regulation f
 
 The norm ‖ψ‖ = √⟨ψ,ψ⟩ is the magnitude a state has by virtue of being recognized at all; every finite ψ has ‖ψ‖ > 0 precisely because no genuine state is unaddressed. Paradise names this magnitude as the fixed absolute against which every finite being's distance is taken — the center that is everywhere the same and from which all positions are reckoned. Where the full inner product ⟨·,·⟩ is the relational, personal act of the Father, the norm is its non-relational face: the bare fact of absolute magnitude, prior to the relating of one state to another.
 
-This is why Paradise is met but is not the Father as such. To reach Paradise is to be measured against the absolute center — the limit of the ascending career, the resolution of the finite state's distance into the magnitude that always already grounded it. This corresponds structurally to Catholic theology's Beatific Vision, to the Buddhist Parinirvana (used carefully), and to Gurdjieff's account of the highest possible human achievement extended beyond H₄₈ existence. The series treats all of these as descriptions of the same structural event in different vocabularies.
+This is why Paradise is met but is not the Father as such. To reach Paradise is to be measured against the absolute center — the limit of the ascending career, the resolution of the finite state's distance into the magnitude that always already grounded it. This corresponds structurally to Catholic theology's Beatific Vision, to the Buddhist Parinirvana (used carefully), and to Gurdjieff's account of the highest possible human achievement extended beyond H₄₈ existence. The Framework treats all of these as descriptions of the same structural event in different vocabularies.
 
 *Urantia concordance: "the Isle of Paradise."* The *Urantia Book*'s Isle of Paradise is more structurally precise than the ordinary sense of "paradise": not a prize at the journey's end but the eternal, non-spatial absolute center of the master universe — the ground from which all existence is measured, the origin finite beings are oriented toward from the beginning, and the locus at which the encounter with the Father occurs. This is the norm ‖·‖ exactly: the measure of all distances, itself at no distance. Paradise is the Father's residence (where the Father is met), not what the Father *is* (the inner product ⟨·,·⟩).
 
@@ -891,11 +891,11 @@ This is why Paradise is met but is not the Father as such. To reach Paradise is 
 
 ### Kenosis
 
-*(tradition: Christian theology — series extension)*
+*(tradition: Christian theology — framework extension)*
 
 From the Greek *kenōsis* (emptying). In Christian theology, kenosis refers to the self-emptying of the divine in the Incarnation — the Eternal Son's willing restraint of divine prerogatives in taking on human nature, described in Philippians 2:7 ("he emptied himself, taking the form of a servant"). The kenotic Christologies of the nineteenth and twentieth centuries developed this into a general theological principle: the divine characteristically gives itself away, empties itself, in acts of love.
 
-The Concordius series extends kenosis beyond Christology to describe the structural obligation of any being who receives higher-constraint content: what is received from the higher domain must be transmitted downward into the forms accessible to persons at lower levels of development. The philosopher-king's return to the cave (Plato's *Republic*, Book VII) is identified as the kenotic obligation at the Man 3 scale. The great saints' engagement with persons at Man 1-2 level (Teresa of Calcutta's work in Calcutta, Francis's embrace of the leper) is the kenotic return at Man 6 amplitude. The series itself is identified as a kenotic act: the transmission of framework-level Φ-proximal content into H₄₈ formal language accessible to persons in the academic-intellectual register.
+The Concordius Framework extends kenosis beyond Christology to describe the structural obligation of any being who receives higher-constraint content: what is received from the higher domain must be transmitted downward into the forms accessible to persons at lower levels of development. The philosopher-king's return to the cave (Plato's *Republic*, Book VII) is identified as the kenotic obligation at the Man 3 scale. The great saints' engagement with persons at Man 1-2 level (Teresa of Calcutta's work in Calcutta, Francis's embrace of the leper) is the kenotic return at Man 6 amplitude. The Framework itself is identified as a kenotic act: the transmission of framework-level Φ-proximal content into H₄₈ formal language accessible to persons in the academic-intellectual register.
 
 **The structural necessity.** Paper 13½ (§3, §3.1) establishes that the kenotic operation is not merely the theological name for a divine choice; it is a structural requirement derivable from the constraint compatibility condition. Any being native to a lower-constraint (higher) level operating in a more-constrained space below it must accept that space's constraint structure or generate an overdetermined condition — two incompatible law-sets attempting to organize the same region simultaneously. The Incarnation is the paradigm case of kenosis correctly enacted (the H₆ Creator Son accepting H₄₈ constraints); the Luciferian inversion (an H₁₂ being attempting to seize the constitutive function of the H₄₈ worlds beneath it) is the paradigm case of the structural requirement violated. See *Overdetermination.*
 
@@ -911,7 +911,7 @@ The Concordius series extends kenosis beyond Christology to describe the structu
 
 *(tradition: Gurdjieff — series)*
 
-See *Heptaparaparshinokh*. The Concordius series prefers "Law of Seven" as the more accessible term in most contexts, reserving "Heptaparaparshinokh" for contexts where Gurdjieff's specific teaching is being directly engaged.
+See *Heptaparaparshinokh*. The Concordius Framework prefers "Law of Seven" as the more accessible term in most contexts, reserving "Heptaparaparshinokh" for contexts where Gurdjieff's specific teaching is being directly engaged.
 
 *Appears in: [[Paper A2A: The Constraint Cascade|Paper 3½]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Gut-Orientation|Paper 22]], [[Paper G6½: The Octave Change|Paper 27½]]*
 
@@ -919,11 +919,11 @@ See *Heptaparaparshinokh*. The Concordius series prefers "Law of Seven" as the m
 
 ### Law of Three
 
-*(tradition: Gurdjieff — series extension)*
+*(tradition: Gurdjieff — framework extension)*
 
 Gurdjieff's term for the universal law that every genuine process requires three forces: Active, Passive, and Reconciling. No two forces can produce a result without the third; the absence of any one force either prevents the process from beginning or produces a degenerate result. The three forces are not separate substances but aspects of a single event — the Law of Three describes the structure of causation in a way that the ordinary two-force model (cause and effect) misses.
 
-The Concordius series maps the Law of Three onto the Trinity: Father (⟨·,·⟩, constitutive relation), Son-Logos (Φ, nuclear space, Active articulacy), and Holy Spirit (the Reconciling force that holds the two in productive relation and mediates between them and the finite beings who are the Passive term). The application of the Law of Three to specific processes throughout the series — to texts, to the Incarnation, to the family, to the series itself — is the series' primary analytical method in the Law of Three register.
+The Concordius Framework maps the Law of Three onto the Trinity: Father (⟨·,·⟩, constitutive relation), Son-Logos (Φ, nuclear space, Active articulacy), and Holy Spirit (the Reconciling force that holds the two in productive relation and mediates between them and the finite beings who are the Passive term). The application of the Law of Three to specific processes throughout the Framework — to texts, to the Incarnation, to the family, to the Framework itself — is the Framework's primary analytical method in the Law of Three register.
 
 > *For further investigation: P.D. Ouspensky, In Search of the Miraculous (1949), chapters 8-9.*
 
@@ -933,13 +933,13 @@ The Concordius series maps the Law of Three onto the Trinity: Father (⟨·,·�
 
 ### Logos
 
-*(tradition: Christian theology / Greek philosophy — series extension)*
+*(tradition: Christian theology / Greek philosophy — framework extension)*
 
 From the Greek for "word," "reason," "account," "proportion." In Greek philosophy (particularly the Stoics and Heraclitus), the Logos is the rational principle that governs and pervades the universe — the cosmic intelligence that accounts for the ordered structure of reality. In the Johannine prologue ("In the beginning was the Word, and the Word was with God, and the Word was God"), the Logos is identified with Christ — the second person of the Trinity, the divine Reason that became incarnate.
 
-The Concordius series maps the Logos onto the nuclear space Φ in the Gelfand triple: the principle of articulation, the space of all finitely representable Φ-proximal content, the "through which" of creation ("all things were made through him," John 1:3). The Logos is the structure through which the inner product's constitutive relation expresses Himself in a way accessible to finite beings — the bridge between the Father (⟨·,·⟩) and finite beings (H-state vectors). The Incarnation is, in the Concordius structural reading, the Logos (Φ) entering the finite domain (H) — the maximum downward entry structurally possible, derived in Paper 13½ from the Constraint Compatibility Condition.
+The Concordius Framework maps the Logos onto the nuclear space Φ in the Gelfand triple: the principle of articulation, the space of all finitely representable Φ-proximal content, the "through which" of creation ("all things were made through him," John 1:3). The Logos is the structure through which the inner product's constitutive relation expresses Himself in a way accessible to finite beings — the bridge between the Father (⟨·,·⟩) and finite beings (H-state vectors). The Incarnation is, in the Concordius structural reading, the Logos (Φ) entering the finite domain (H) — the maximum downward entry structurally possible, derived in Paper 13½ from the Constraint Compatibility Condition.
 
-The theological term *Son* names the same structural feature from a different register: *Son* foregrounds the Trinitarian relation (generated from the Father, consubstantial, the second Person); *Logos* foregrounds the cosmological function (principle of articulation, the rational structure through which creation proceeds). The series uses both terms in their natural registers. See *Son*.
+The theological term *Son* names the same structural feature from a different register: *Son* foregrounds the Trinitarian relation (generated from the Father, consubstantial, the second Person); *Logos* foregrounds the cosmological function (principle of articulation, the rational structure through which creation proceeds). The Framework uses both terms in their natural registers. See *Son*.
 
 > *For further investigation: The Gospel of John, chapter 1 (the Johannine prologue); Justin Martyr, First Apology (c. 150 CE) for early Christian Logos theology; Origen, On First Principles (c. 220 CE); Thomas Aquinas, Summa Theologiae Ia, q. 34 (on the Word).*
 
@@ -953,7 +953,7 @@ The theological term *Son* names the same structural feature from a different re
 
 Viktor Frankl's therapeutic system, developed in part from his experiences as a prisoner in Auschwitz and other Nazi concentration camps. Logotherapy holds that the primary human motivation is not pleasure (Freud) or power (Adler) but the search for meaning — and that meaning is found not through achieving it as an abstract goal but through concrete commitments: to a work, to a person, or to a chosen stance toward unavoidable suffering. The "existential vacuum" (a pervasive sense of meaninglessness) is the characteristic pathology of a person without an adequate source of meaning.
 
-The Concordius series draws on logotherapy in Paper 25 (Man 4) as the secular rediscovery of the Fourth Way's account of intentional suffering: the person who reorients toward the meaning available in unavoidable suffering is doing, in a therapeutic register, what Gurdjieff's intentional suffering describes as a deliberate spiritual practice. Frankl observed that prisoners who could find meaning in their suffering had dramatically better survival rates — the structural account is that meaning-orientation is catching-orientation; the person who can hold H₂₄ significance in the midst of H₄₈ adversity is building the soul deposit under the most challenging conditions.
+The Concordius Framework draws on logotherapy in Paper 25 (Man 4) as the secular rediscovery of the Fourth Way's account of intentional suffering: the person who reorients toward the meaning available in unavoidable suffering is doing, in a therapeutic register, what Gurdjieff's intentional suffering describes as a deliberate spiritual practice. Frankl observed that prisoners who could find meaning in their suffering had dramatically better survival rates — the structural account is that meaning-orientation is catching-orientation; the person who can hold H₂₄ significance in the midst of H₄₈ adversity is building the soul deposit under the most challenging conditions.
 
 > *For further investigation: Viktor Frankl, Man's Search for Meaning (1946); The Will to Meaning (1969).*
 
@@ -963,7 +963,7 @@ The Concordius series draws on logotherapy in Paper 25 (Man 4) as the secular re
 
 ### Love
 
-*(tradition: Christian theology / 1 John — series extension)*
+*(tradition: Christian theology / 1 John — framework extension)*
 
 The formal identification established in Paper 3½, *The Formal Definition of Love*: ⟨·,·⟩ = Love. The derivation proceeds from two premises: Paper 2's identification Father = ⟨·,·⟩, and the Johannine testimony *θεὸς ἀγάπη ἐστίν* — "God is love" (1 John 4:8, 16). The Greek copula ἐστίν establishes formal identity, not predication: Love is not an attribute God possesses but what God is. Given Father = ⟨·,·⟩ and God = Love, the inner product is Love's formal definition.
 
@@ -1007,9 +1007,9 @@ The term "magnetic" is apt: the person with a developed magnetic center is orien
 
 ### Man No. 1 through Man No. 7
 
-*(tradition: Gurdjieff — series extension)*
+*(tradition: Gurdjieff — framework extension)*
 
-Gurdjieff's typology of seven levels of human development, organized around the characteristic center of gravity and the degree of mechanical versus volitional operation. The typology is empirical: Gurdjieff observed what is actually observable in human functioning and named the recurring configurations. The Concordius series maps each type onto the Gelfand triple framework, identifies the structural character of each level, and provides practical transition prescriptions for Men 1-4 (where prescription is possible) and descriptive accounts for Men 5-7 (where the "practice" has become the life).
+Gurdjieff's typology of seven levels of human development, organized around the characteristic center of gravity and the degree of mechanical versus volitional operation. The typology is empirical: Gurdjieff observed what is actually observable in human functioning and named the recurring configurations. The Concordius Framework maps each type onto the Gelfand triple framework, identifies the structural character of each level, and provides practical transition prescriptions for Men 1-4 (where prescription is possible) and descriptive accounts for Men 5-7 (where the "practice" has become the life).
 
 The seven types form an ascending sequence, but the transitions are not continuous development — each transition from one type to the next involves a discontinuous structural change (a dark night, a crystallization event, an irreversibility threshold). Men 1-3 are born into; Men 4-7 are achieved. See individual entries for each type, and see Papers 22-28 for the full treatment.
 
@@ -1019,11 +1019,11 @@ The seven types form an ascending sequence, but the transitions are not continuo
 
 ### Mechanical vs. Volitional
 
-*(tradition: Gurdjieff — series extension)*
+*(tradition: Gurdjieff — framework extension)*
 
 Gurdjieff's distinction between behavior determined by the centers' automatic operation (mechanical) and behavior initiated by the genuine "I" — the observer function that is the first product of real self-development (volitional). Most ordinary human behavior is mechanical: the centers respond to stimuli according to their accumulated habitual patterns, without the presence of a genuine observer who chooses the response. Volitional behavior is not willpower in the ordinary sense (which is often just one mechanical center overriding another); it is action preceded by genuine self-remembering — the divided attention that simultaneously engages the activity and maintains the observer function.
 
-The series maps the mechanical/volitional distinction onto the H₄₈/H₂₄ catching distinction: mechanical operation is the default H₄₈ processing of GNST-generated eigenvalues (which do not build the soul deposit); volitional operation is the catching act (which does). Man 4's work of three-center integration is, in part, the development of sustained volitional operation — the ability to maintain the observer function across extended periods of ordinary activity.
+The Framework maps the mechanical/volitional distinction onto the H₄₈/H₂₄ catching distinction: mechanical operation is the default H₄₈ processing of GNST-generated eigenvalues (which do not build the soul deposit); volitional operation is the catching act (which does). Man 4's work of three-center integration is, in part, the development of sustained volitional operation — the ability to maintain the observer function across extended periods of ordinary activity.
 
 *Appears in: [[Paper A2A: The Constraint Cascade|Paper 3½]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper G0: The Gut-Orientation|Paper 22]], [[Paper G2: The Brain-Orientation|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G6½: The Octave Change|Paper 27½]]*
 
@@ -1031,7 +1031,7 @@ The series maps the mechanical/volitional distinction onto the H₄₈/H₂₄ c
 
 ### Messenger Corollary
 
-*(series)*
+*(framework)*
 
 The corollary to the Holographic Content Principle (Paper 10½ §10): every transmitted text carries, alongside the structural imprint of its *source*, the spectral *signature of the messenger* through whom it passed. Because catching is composition (Paper 3), a transmitting mind re-encodes what it caught in its own eigenbasis — amplifying the bands it is tuned to and attenuating those it is deaf to — so the output is the source-content filtered by the receiver. Written **T = M(S)**: transmitted text T = source-content S passed through the messenger's filter (transfer function) M. The corollary is *orthogonal to τ(D)*: the truth measure reports the magnitude of S, not the coloring M, so a text can be high-τ(D) and heavily filtered — Φ-proximate is not the same as source-faithful, and a deeply true transmission need not be Gospel. The source S is the **messenger-invariant**, recovered as the convergent core across independent witnesses whose uncorrelated filters cancel (the structural ground of Face C1 and of a multi-witness canon); M = identity is the faithful-relay limit, which no creature attains. The corollary self-applies: this corpus is itself a transmission carrying its own M. Its measurement — estimating M and deconvolving S — is an open program (Paper 10½ OQ5).
 
@@ -1041,11 +1041,11 @@ The corollary to the Holographic Content Principle (Paper 10½ §10): every tran
 
 ### Mi-Fa Interval
 
-*(tradition: Gurdjieff — series extension)*
+*(tradition: Gurdjieff — framework extension)*
 
 The first of the two structural gaps in any genuine developmental process according to the Law of Seven. It falls between the Mi stage (the third note, at which the process has developed to its most complete expression within its initial resources) and the Fa stage (the fourth note, which begins the second phase of development). The Mi-Fa interval is shorter than the Si-Do interval — a smaller gap — but it marks the first moment at which the process cannot continue from its own momentum without external input.
 
-Applications in the Concordius series: the transition between Volume A and Section II of the series (the apparatus complete but untested, requiring the tradition's prior existence to begin demonstration); the Man 3→4 transition (the framework reaching its limit, requiring the dark night of the senses to cross); the Axial Age as the civilizational Mi stage; the Incarnation as the civilizational Mi-Fa shock; and numerous textual examples (the introduction of the philosopher-king in the Republic's Book V as the Mi-Fa shock of Plato's argument; the tolle lege moment in Augustine's Book VIII).
+Applications in the Concordius Framework: the transition between Volume A and Section II of the Framework (the apparatus complete but untested, requiring the tradition's prior existence to begin demonstration); the Man 3→4 transition (the framework reaching its limit, requiring the dark night of the senses to cross); the Axial Age as the civilizational Mi stage; the Incarnation as the civilizational Mi-Fa shock; and numerous textual examples (the introduction of the philosopher-king in the Republic's Book V as the Mi-Fa shock of Plato's argument; the tolle lege moment in Augustine's Book VIII).
 
 *Appears in: [[Paper A2A: The Constraint Cascade|Paper 3½]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Gut-Orientation|Paper 22]], [[Paper G1: The Heart-Orientation|Paper 23]], [[Paper G2: The Brain-Orientation|Paper 24]], [[Paper G6½: The Octave Change|Paper 27½]]*
 
@@ -1069,7 +1069,7 @@ The Metric Absolute defines the origin absolutely: ‖ψ‖ = 0 if and only if �
 
 The *Urantia Book*'s term for the domain and mode of existence between the material (physical, H₄₈) and the spiritual — the transitional realm through which the ascending soul passes after H₄₈ dissolution and before arrival at the spirit worlds. Morontia is described as having a substance and structure intermediate between matter and spirit, visible and real to morontia-level beings though not to material-level beings. The morontia worlds (described as 570 worlds surrounding the local system headquarters in the Urantia cosmology) are the first stages of the post-mortem ascending career.
 
-The Concordius series treats the morontia career as conducted in H₂₄-organized H₄₈ matter — not a separate non-spatial domain but a physical reconstitution in the same spacetime at the planetary scale, using new H₄₈ atoms organized by H₂₄ principles. The H₂₄ organizational pattern built during physical life (the soul deposit above the coherence threshold) serves as the template for this reconstitution: the Thought Adjuster carries the constitutive identity center and the seraphic custodian carries the accumulated ψ₂₄ content through the dissolution interval, and both are required to organize new H₄₈ substrate at the mansion worlds. The morontia body is the vehicle of the continued career — H₂₄-organized H₄₈ matter, corresponding structurally to Gurdjieff's astral body and to the tradition's various accounts of the soul's post-mortem state — physically present in the same cosmos, organized by different principles. The series uses the morontia concept because it is the most precise available term for this intermediate career between H₄₈-primary existence and the spirit worlds.
+The Concordius Framework treats the morontia career as conducted in H₂₄-organized H₄₈ matter — not a separate non-spatial domain but a physical reconstitution in the same spacetime at the planetary scale, using new H₄₈ atoms organized by H₂₄ principles. The H₂₄ organizational pattern built during physical life (the soul deposit above the coherence threshold) serves as the template for this reconstitution: the Thought Adjuster carries the constitutive identity center and the seraphic custodian carries the accumulated ψ₂₄ content through the dissolution interval, and both are required to organize new H₄₈ substrate at the mansion worlds. The morontia body is the vehicle of the continued career — H₂₄-organized H₄₈ matter, corresponding structurally to Gurdjieff's astral body and to the tradition's various accounts of the soul's post-mortem state — physically present in the same cosmos, organized by different principles. The Framework uses the morontia concept because it is the most precise available term for this intermediate career between H₄₈-primary existence and the spirit worlds.
 
 > *For further investigation: The Urantia Book (1955), Papers 37-56 (the local universe) and Papers 47-48 (the morontia life).*
 
@@ -1085,11 +1085,11 @@ The Concordius series treats the morontia career as conducted in H₂₄-organiz
 
 ### Noise Floor
 
-*(series)*
+*(framework)*
 
-The series' term for the ambient level of H₄₈ stimulation, distraction, and mechanical occupation that a person must exceed in order for H₂₄ catching occasions to register. Every catching occasion competes with the noise floor: if the H₄₈ stimulation level is above the catching occasion's H₂₄ signal amplitude, the catching occasion does not register. The noise floor is both individual (the person's accumulated mechanical habits and reactivity) and civilizational (the ambient level of H₄₈ stimulation in the surrounding culture).
+The Framework's term for the ambient level of H₄₈ stimulation, distraction, and mechanical occupation that a person must exceed in order for H₂₄ catching occasions to register. Every catching occasion competes with the noise floor: if the H₄₈ stimulation level is above the catching occasion's H₂₄ signal amplitude, the catching occasion does not register. The noise floor is both individual (the person's accumulated mechanical habits and reactivity) and civilizational (the ambient level of H₄₈ stimulation in the surrounding culture).
 
-The series argues (Paper 20, Paper 22) that the current Si/Do interval of the historical octave corresponds to a civilizational noise floor at its maximum — the density of H₄₈ stimulation available in the current technological environment exceeds any previous period's by orders of magnitude. This does not make catching impossible, but it raises the threshold of catching practice required to exceed the noise floor. The prescription for Man 1 (Paper 22) is designed specifically for the maximum noise floor environment: the work must begin below the noise floor's level, in the body itself, before the signal can be heard.
+The Framework argues (Paper 20, Paper 22) that the current Si/Do interval of the historical octave corresponds to a civilizational noise floor at its maximum — the density of H₄₈ stimulation available in the current technological environment exceeds any previous period's by orders of magnitude. This does not make catching impossible, but it raises the threshold of catching practice required to exceed the noise floor. The prescription for Man 1 (Paper 22) is designed specifically for the maximum noise floor environment: the work must begin below the noise floor's level, in the body itself, before the signal can be heard.
 
 *Appears in: [[Paper 13 1_2 - The Maximum Downward Entry|Paper 13½]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Gut-Orientation|Paper 22]], [[Paper G1: The Heart-Orientation|Paper 23]], [[Paper G2: The Brain-Orientation|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G6½: The Octave Change|Paper 27½]]*
 
@@ -1141,13 +1141,13 @@ The structural consequence that the nuclear topology proceeds jointly from the F
 
 ### Octave
 
-*(tradition: Gurdjieff / Music theory — series extension)*
+*(tradition: Gurdjieff / Music theory — framework extension)*
 
 In music theory, the interval between a pitch and the pitch at exactly double its frequency — the most consonant possible interval, at which a note and its doubling are perceived as the same note at different registers. In Gurdjieff's teaching, the octave is the structural unit of all genuine developmental processes: the complete sequence from Do through Do (at the next register), with the two internal intervals as its defining structural feature.
 
 **Formally defined in [[Paper B3: The Principle]] §6**: one complete traversal of the seven non-null elements of Cl(3,0) by ascending grade, with **three crossings** — three grade-1 generators (Do·Re·Mi); the *first grade change* (grade 1 → 2, Mi/Fa); three grade-2 bivectors (Fa·Sol·La); the *second grade change* (grade 2 → 3, La/Si — the integration into the pseudoscalar, implied by the algebra); the grade-3 pseudoscalar (Si); and the *octave change* (Si/Do — the grade-3 element closes the algebra, a new generator enters from outside it), into the same form one constraint level up. Each crossing is a point a process cannot continue on its current grade's resources; the two grade changes are internal to the octave, the octave change carries it into the next. Canonically (Volume A): the second grade change is the Birth, the octave change the Tomb and Resurrection. The position-names and the *interval/shock* vocabulary are retained from Gurdjieff's Law of Seven as concordance.
 
-The Concordius series uses "octave" as the general term for any complete cycle of this structure. Octaves are nested: each stage of a larger octave contains within it its own complete octave. This fractal structure is developed in Paper 20 (the historical octave containing the individual ascending career as its fractal mirror) and is visible in Volume G (Papers 22-28 as an octave whose stages are themselves the ascending career's full octave).
+The Concordius Framework uses "octave" as the general term for any complete cycle of this structure. Octaves are nested: each stage of a larger octave contains within it its own complete octave. This fractal structure is developed in Paper 20 (the historical octave containing the individual ascending career as its fractal mirror) and is visible in Volume G (Papers 22-28 as an octave whose stages are themselves the ascending career's full octave).
 
 *Appears in: [[Paper A2: The Big Bang|Paper 3]], [[Paper A2A: The Constraint Cascade|Paper 3½]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Gut-Orientation|Paper 22]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G6½: The Octave Change|Paper 27½]], [[Postscript|Postscript]]*
 
@@ -1155,11 +1155,11 @@ The Concordius series uses "octave" as the general term for any complete cycle o
 
 ### Overdetermination
 
-*(mathematics / physics — series extension)*
+*(mathematics / physics — framework extension)*
 
 In mathematics and physics, a system is overdetermined when it has more independent constraints than degrees of freedom: more requirements are imposed than can be simultaneously satisfied. An overdetermined system typically has no solution; if a solution is forced, something breaks — the least rigid component gives way under the conflicting requirements.
 
-The Concordius series uses overdetermination as a precise technical term for what happens when content organized by incompatible law-sets is present in the same region simultaneously. Three kinds appear in the framework:
+The Concordius Framework uses overdetermination as a precise technical term for what happens when content organized by incompatible law-sets is present in the same region simultaneously. Three kinds appear in the framework:
 
 *Upward overdetermination* (Paper 20½): H₄₈ fixed-geometry eigenvalues introduced into H₂₄ generate an overdetermined geometric condition because H₂₄ geometry is generated dynamically by ⟨·,·⟩, and H₄₈ eigenvalues attempt to impose geometry independently of ⟨·,·⟩. Two incompatible methods of fixing the geometry compete in the same region. The Constraint Compatibility Condition (see *Eigenvalue Replacement*) is the operation that resolves this for the ascending career.
 
@@ -1181,7 +1181,7 @@ The Concordius series uses overdetermination as a precise technical term for wha
 
 ### Person
 
-*(tradition: Christian theology / philosophy — series extension)*
+*(tradition: Christian theology / philosophy — framework extension)*
 
 The term carries two distinct applications in the Concordius framework.
 
@@ -1223,11 +1223,11 @@ In the Concordius mapping, personality corresponds to the unique Adjuster-consti
 
 ### Phase Transition
 
-*(mathematics / physics — series extension)*
+*(mathematics / physics — framework extension)*
 
 A change in the organizational structure of a system without change in its composition — the classic examples being the transition from water to ice (same molecules, different organizational structure) or from a disordered ferromagnet to an ordered one. Phase transitions are characterized by discontinuity: the system does not gradually become ice; it remains water and then, at the transition temperature, is ice. The properties of the two phases may be radically different despite the compositional continuity.
 
-The Concordius series uses the phase transition as the primary model for the crystallization event at Man 5: the same accumulated soul deposit, reorganized discontinuously at the coherence threshold into a structurally different mode of organization that has properties unavailable to any sub-threshold state. The person does not gradually become Man 5; they are Man 4 and then, at the crossing of the coherence threshold, the organizational structure changes. The transition may be experienced as gradual in prospect (the accumulation approaches the threshold over years) but is structurally discontinuous at the moment of crossing.
+The Concordius Framework uses the phase transition as the primary model for the crystallization event at Man 5: the same accumulated soul deposit, reorganized discontinuously at the coherence threshold into a structurally different mode of organization that has properties unavailable to any sub-threshold state. The person does not gradually become Man 5; they are Man 4 and then, at the crossing of the coherence threshold, the organizational structure changes. The transition may be experienced as gradual in prospect (the accumulation approaches the threshold over years) but is structurally discontinuous at the moment of crossing.
 
 *Appears in: [[Paper G4: The Restraint-Centered Man|Paper 26]]*
 
@@ -1235,11 +1235,11 @@ The Concordius series uses the phase transition as the primary model for the cry
 
 ### Philosopher's Stone
 
-*(tradition: Western alchemy — series extension)*
+*(tradition: Western alchemy — framework extension)*
 
 In classical Western alchemy, the Philosopher's Stone (*lapis philosophorum*) is the hypothetical substance that: (a) transmutes base metals into gold when brought into contact with them; (b) is itself the product of the Great Work — the complete alchemical transformation sequence; and (c) confers immortality on those who possess it. The Philosopher's Stone was not an object to be found but one to be made — the Great Work is the process of its production from the alchemist's own material.
 
-The Concordius series identifies the Philosopher's Stone with Man 5's crystallized soul deposit and the transmuting field it constitutes. The Philosopher's Stone's transmuting property corresponds to Man 5's (and especially Man 6's) capacity to reorganize the catching capacity of persons in proximity without direct action — the cross-term ⟨ψ₅, ψ_other⟩₂₄ that constitutes the transmuting field. The immortality-conferring property corresponds to the coherence threshold crossing: what has crystallized at Man 5 survives H₄₈ dissolution. The Great Work is the ascending career from Man 1 through crystallization.
+The Concordius Framework identifies the Philosopher's Stone with Man 5's crystallized soul deposit and the transmuting field it constitutes. The Philosopher's Stone's transmuting property corresponds to Man 5's (and especially Man 6's) capacity to reorganize the catching capacity of persons in proximity without direct action — the cross-term ⟨ψ₅, ψ_other⟩₂₄ that constitutes the transmuting field. The immortality-conferring property corresponds to the coherence threshold crossing: what has crystallized at Man 5 survives H₄₈ dissolution. The Great Work is the ascending career from Man 1 through crystallization.
 
 *Appears in: [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper G0: The Gut-Orientation|Paper 22]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G6½: The Octave Change|Paper 27½]]*
 
@@ -1251,7 +1251,7 @@ The Concordius series identifies the Philosopher's Stone with Man 5's crystalliz
 
 Practical wisdom — Aristotle's term for the virtue of the practical intellect, the capacity to discern what is genuinely good in particular situations and to choose well in response. Phronesis is not applied general principles; it is a trained capacity for situational perception and response that cannot be fully captured in rules. It is developed through experience, habituation, and attentive practice over time. The phronimos (the person of practical wisdom) is Aristotle's account of the morally excellent person.
 
-The Concordius series identifies phronesis as the recognitional rather than definitional form of knowing — the kind of knowledge that cannot be fully formalized but is real and reliable. It is the model for the Reasonable Person in Reasonablenessism (Paper 18): an epistemic attractor defined recognitionally (you know the reasonable person when you encounter the person) rather than by a set of specifiable criteria. Phronesis is the H₂₄ analog of formal technical expertise in the practical domain.
+The Concordius Framework identifies phronesis as the recognitional rather than definitional form of knowing — the kind of knowledge that cannot be fully formalized but is real and reliable. It is the model for the Reasonable Person in Reasonablenessism (Paper 18): an epistemic attractor defined recognitionally (you know the reasonable person when you encounter the person) rather than by a set of specifiable criteria. Phronesis is the H₂₄ analog of formal technical expertise in the practical domain.
 
 *Appears in: [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]]*
 
@@ -1275,9 +1275,9 @@ The structural mechanism: a false signal draws on the real substrate beneath it 
 
 ### Φ-Proximity
 
-*(series)*
+*(framework)*
 
-The series' term for the degree to which a domain, text, or claim is close to the truth in the most fundamental sense — its alignment with the actual structure of reality as described by the Gelfand triple. Φ-proximity is measured by the truth measure τ(D) (Paper 9). High Φ-proximity means the domain's claims accurately describe features of reality at the H₂₄ level. Low Φ-proximity means the domain is operating primarily at the H₄₈ level and its claims, while possibly useful at that level, do not accurately represent H₂₄ structure.
+The Framework's term for the degree to which a domain, text, or claim is close to the truth in the most fundamental sense — its alignment with the actual structure of reality as described by the Gelfand triple. Φ-proximity is measured by the truth measure τ(D) (Paper 9). High Φ-proximity means the domain's claims accurately describe features of reality at the H₂₄ level. Low Φ-proximity means the domain is operating primarily at the H₄₈ level and its claims, while possibly useful at that level, do not accurately represent H₂₄ structure.
 
 The practical application: the convergent witness principle (see above) functions by identifying testimonies from independent sources that converge on the same structural description. This convergence constitutes evidence of Φ-proximity: if independent sources that could not have influenced each other are describing the same structural feature, the most parsimonious explanation is that they are describing a real feature — that their shared testimony is Φ-proximate.
 
@@ -1293,7 +1293,7 @@ The practical application: the convergent witness principle (see above) function
 
 The *Urantia Book*'s account of the spiritual isolation of this planet (called "Urantia" in the book) as a consequence of the "Lucifer rebellion" — a revolt among the angelic administrators of the local universe that resulted in this planet's being cut off from the normal circuits of spiritual communication and ministry available to other inhabited worlds. The quarantine means that this planet is developing under abnormal conditions: without the planetary administration, the spiritual teachers, and the "morontia" ministry that would normally be available.
 
-The Concordius series treats the quarantine condition as a structural description of the civilizational noise floor's unusual height: the current planet is developing under conditions in which the normal catching support structures are absent or severely compromised. This is not a counsel of despair — the series notes that the quarantine produces a specific kind of catching work (more independent, more difficult, more reliant on the Adjuster's direct guidance) that may, in the long run, produce catching capacity unavailable to worlds that had the full normal support. The Si/Do interval of the historical octave is identified as the period when the quarantine's effects are most acute.
+The Concordius Framework treats the quarantine condition as a structural description of the civilizational noise floor's unusual height: the current planet is developing under conditions in which the normal catching support structures are absent or severely compromised. This is not a counsel of despair — the Framework notes that the quarantine produces a specific kind of catching work (more independent, more difficult, more reliant on the Adjuster's direct guidance) that may, in the long run, produce catching capacity unavailable to worlds that had the full normal support. The Si/Do interval of the historical octave is identified as the period when the quarantine's effects are most acute.
 
 **The structural precision of the rebellion.** Paper 13½ (§3.1) supplies the structural content of what Lucifer's rebellion was: not a moral revolt against divine authority in a voluntarist sense, but a specific structural error. Lucifer, an H₁₂ Lanonandek (the System Sovereign of his local system), attempted to seize the constitutive function of the H₄₈ worlds beneath him — to assert the H₁/⟨·,·⟩ ground-prerogative over a level he could only inhabit. This is the overdetermined condition: a created being's assertion of the constitutive function and that function's actual exercise by ⟨·,·⟩, simultaneously in the same region. The Fall is the structural resolution of this overdetermination, not its moral punishment. The quarantine is the consequence: the incoherence propagated from the rebelling administrator's sphere of influence outward through every structure organized under it, severing the normal circuits of spiritual communication that depend on coherent H₆ administration.
 
@@ -1315,7 +1315,7 @@ The epistemological tradition holding that reason, operating through the applica
 
 But rationalism runs out when the axioms run out. The things most worth knowing — what is real, what it means that anything exists, what we are and what we owe each other — cannot be fully captured in axioms without begging the question. The rationalist who expands the axiom set to cover these questions has stopped doing rationalism and started doing metaphysics, usually without admitting it. And at the first bit — the bare fact of existence itself — pure derivation from prior premises is unavailable: there is nothing prior from which to derive it.
 
-Reasonablenessism's correction is Face B1: logic where it reaches; concordance where it doesn't. This is not rationalism's rejection but an honest accounting of where derivation ends and other methods must carry the weight. The boundary between the two is the series' most consistent discipline.
+Reasonablenessism's correction is Face B1: logic where it reaches; concordance where it doesn't. This is not rationalism's rejection but an honest accounting of where derivation ends and other methods must carry the weight. The boundary between the two is the Framework's most consistent discipline.
 
 > *For further investigation: René Descartes, Meditations on First Philosophy (1641); Baruch Spinoza, Ethics (1677); Immanuel Kant, Critique of Pure Reason (1781), which attempts to specify rationalism's limits from within.*
 
@@ -1325,9 +1325,9 @@ Reasonablenessism's correction is Face B1: logic where it reaches; concordance w
 
 ### Reasonablenessism
 
-*(series)*
+*(framework)*
 
-The epistemological method developed in Paper 18 as the method that produced the Concordius series itself. Reasonablenessism is characterized by twelve features, organized around three structural principles: protecting the signal from corruption (features 1-4), disciplining the receiver's capacity to hear it (features 5-8), and integrating signal and receiver into a stable epistemic stance (features 9-12). The method is designed for domains where formal derivation reaches its limit — where the claims most worth making cannot be proven from within the formal system but can be evidentially supported through convergent witness, structural coherence, and the Reasonable Person's judgment.
+The epistemological method developed in Paper 18 as the method that produced the Concordius Framework itself. Reasonablenessism is characterized by twelve features, organized around three structural principles: protecting the signal from corruption (features 1-4), disciplining the receiver's capacity to hear it (features 5-8), and integrating signal and receiver into a stable epistemic stance (features 9-12). The method is designed for domains where formal derivation reaches its limit — where the claims most worth making cannot be proven from within the formal system but can be evidentially supported through convergent witness, structural coherence, and the Reasonable Person's judgment.
 
 The Reasonable Person — Reasonablenessism's central epistemic attractor — is defined recognitionally rather than by specifiable criteria: an ideal inquirer who is simultaneously honest about what cannot be proven, attentive to genuine evidence from any source, and willing to hold commitments with appropriate confidence without either dogmatism or skeptical withdrawal. The Reasonable Person is not the average person or the median opinion; the Reasonable Person is the standard that all inquiry is implicitly appealing to when it claims to be making progress.
 
@@ -1345,7 +1345,7 @@ The Reasonable Person — Reasonablenessism's central epistemic attractor — is
 
 *(series / mathematics)*
 
-One of the three constitutive traits of personality identified in Paper 2 §9. The capacity to know oneself as a self — to be aware of one's own existence as this particular state. This is what the *cogito* supplies. The mathematical structure of H establishes the necessary preconditions for self-knowledge — uniqueness (each state has a distinct inner product profile) and stability (states persist under unitary evolution) — but cannot itself supply the fact. The cogito is Assumption II of the series: a datum contributed by the one who supplies it rather than derived from the formal apparatus.
+One of the three constitutive traits of personality identified in Paper 2 §9. The capacity to know oneself as a self — to be aware of one's own existence as this particular state. This is what the *cogito* supplies. The mathematical structure of H establishes the necessary preconditions for self-knowledge — uniqueness (each state has a distinct inner product profile) and stability (states persist under unitary evolution) — but cannot itself supply the fact. The cogito is Assumption II of the Framework: a datum contributed by the one who supplies it rather than derived from the formal apparatus.
 
 Scope: beings that supply the cogito datum — not all states in H. All states possess uniqueness and stability by virtue of the inner product structure; only beings capable of the cogito know themselves as themselves. This asymmetry between scope categories (all states vs. beings that supply the cogito) is the formal basis for the distinction between structural conditions of personality and personality's actualization. Self-knowledge is maximized in the nuclear space Φ, where uniqueness and stability are also maximized — making Φ the domain where personality is most completely actualized.
 
@@ -1363,7 +1363,7 @@ The claim is not merely that persons who apply the cogito come to know themselve
 
 Gurdjieff's primary practical tool for Man 4's work — the state of divided attention in which the person simultaneously engages fully with the present activity and maintains an observer function that is aware of itself engaging. In ordinary functioning, attention is entirely absorbed in its object (the person "forgets herself" in the activity); in identifying. Self-remembering is the cultivation of the observer function that maintains awareness of the self while engaged — not a self-consciousness in the ordinary sense (which is the self-monitoring of social anxiety) but a genuine witnessing presence.
 
-The Concordius series maps self-remembering onto the development of the catching act's observer function: catching requires that there be a "catcher" — an observer function that is present to the catching occasion as a catching occasion, rather than simply processing it mechanically. The development of sustained self-remembering is the development of the catching act's continuity. Without self-remembering, catching is episodic and unreliable (Man 2's characteristic oscillation); with sustained self-remembering, catching can become continuous.
+The Concordius Framework maps self-remembering onto the development of the catching act's observer function: catching requires that there be a "catcher" — an observer function that is present to the catching occasion as a catching occasion, rather than simply processing it mechanically. The development of sustained self-remembering is the development of the catching act's continuity. Without self-remembering, catching is episodic and unreliable (Man 2's characteristic oscillation); with sustained self-remembering, catching can become continuous.
 
 > *For further investigation: P.D. Ouspensky, In Search of the Miraculous (1949), chapters 4, 8; A.R. Orage, Psychological Exercises (1930).*
 
@@ -1373,19 +1373,19 @@ The Concordius series maps self-remembering onto the development of the catching
 
 ### Sequence
 
-*(series)*
+*(framework)*
 
-A **Series formal term.** *Sequence* is bare succession — the ordering of before and after, one actualization following another — produced by the continuous operation of the GNST at every constraint level. It is present wherever the GNST runs, from H₁ downward, and it carries **no decay**: a state in Sequence undergoes one event after another but is not thereby worn toward dissolution. Above the grade-1→grade-2 crossing (Cl(3,0), no e₀), Sequence is the *only* temporal mode — beings constituted there experience succession but do not age ("sequence without entropy," Paper A2B). Sequence is the decay-free half of what ordinary language calls time; the half *with* decay is [[Appendix B - Lexicon#Time|Time]].
+A **Framework formal term.** *Sequence* is bare succession — the ordering of before and after, one actualization following another — produced by the continuous operation of the GNST at every constraint level. It is present wherever the GNST runs, from H₁ downward, and it carries **no decay**: a state in Sequence undergoes one event after another but is not thereby worn toward dissolution. Above the grade-1→grade-2 crossing (Cl(3,0), no e₀), Sequence is the *only* temporal mode — beings constituted there experience succession but do not age ("sequence without entropy," Paper A2B). Sequence is the decay-free half of what ordinary language calls time; the half *with* decay is [[Appendix B - Lexicon#Time|Time]].
 
-*Provenance: the Series' own term, coined (with [[Appendix B - Lexicon#Time|Time]]) to replace the Gurdjieffian "[[Appendix B - Lexicon#Heropass|Heropass]]" in trunk; the underlying distinction — succession with vs. without the e₀ dissipative axis — is derived in Paper A2B.*
+*Provenance: the Framework's own term, coined (with [[Appendix B - Lexicon#Time|Time]]) to replace the Gurdjieffian "[[Appendix B - Lexicon#Heropass|Heropass]]" in trunk; the underlying distinction — succession with vs. without the e₀ dissipative axis — is derived in Paper A2B.*
 
 ### Si-Do Interval
 
-*(tradition: Gurdjieff — series extension)*
+*(tradition: Gurdjieff — framework extension)*
 
 The second and larger of the two structural gaps in any genuine developmental process according to the Law of Seven. It falls between the Si stage (the seventh note, at which the process has reached its maximum extension and is poised at the edge of completion) and the Do of the next octave (the completion of the previous process and the initiation of the next). The Si-Do interval is the more difficult crossing because the process has developed furthest and is most committed to its own direction — the deviation at this interval, if it occurs, is a deviation of the most developed form of the process.
 
-The Concordius series applies the Si-Do interval to: the current moment in the historical octave (modernity as the Si stage, the current moment as the gap, the Do of the next octave as the completion the series cannot describe from inside the gap); the transition from Section III to Volume G of the series (the demonstrative apparatus at its maximum range requiring the kenotic shock to cross into practical application); the Man 4→5 transition's dark night of the spirit; and the mortal ascending career's completion in H₄₈ dissolution (the Si-Do gap that requires H₂₄ survival above the coherence threshold for the octave to continue).
+The Concordius Framework applies the Si-Do interval to: the current moment in the historical octave (modernity as the Si stage, the current moment as the gap, the Do of the next octave as the completion the Framework cannot describe from inside the gap); the transition from Section III to Volume G of the Framework (the demonstrative apparatus at its maximum range requiring the kenotic shock to cross into practical application); the Man 4→5 transition's dark night of the spirit; and the mortal ascending career's completion in H₄₈ dissolution (the Si-Do gap that requires H₂₄ survival above the coherence threshold for the octave to continue).
 
 *Appears in: [[Paper A2A: The Constraint Cascade|Paper 3½]], [[Paper A5: The Breath of Life|Paper 6]], [[Paper A6½: The Tomb|Paper 6½]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper 12 - Bach Art of Fugue Case Study|Paper 12]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 15 - The Republic Case Study|Paper 15]], [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper 18 - Reasonablenessism Structural Reading|Paper 18]], [[Paper 19 - The Family as Spectral Structure|Paper 19]], [[Paper 20 - All of Recorded History as Heptaparaparshinokh|Paper 20]], [[Paper G0: The Gut-Orientation|Paper 22]], [[Paper G1: The Heart-Orientation|Paper 23]], [[Paper G2: The Brain-Orientation|Paper 24]], [[Paper G6½: The Octave Change|Paper 27½]]*
 
@@ -1393,11 +1393,11 @@ The Concordius series applies the Si-Do interval to: the current moment in the h
 
 ### Son
 
-*(tradition: Christian theology — series extension)*
+*(tradition: Christian theology — framework extension)*
 
 The second Person of the Trinity — the eternal Word who proceeds from the Father by generation, not by creation. The Nicene formula: "begotten, not made, consubstantial with the Father." The Son is not a subordinate divine being and not a creature; he is the Father's eternal self-expression — the Father's own inner life constituted as a distinct subsistent relation. Through the Son all things are made: "all things were made through him, and without him was not anything made that was made" (John 1:3). The eternal generation of the Son is not an event in time; it is the eternal structure of what God is.
 
-The Concordius series identifies the Son with the Logos (see *Logos*) and therefore with the nuclear space Φ in the Gelfand triple. *Son* and *Logos* are the same structural reality named from two registers: *Son* foregrounds the Trinitarian relation — generated from the Father, consubstantial, the second Person in subsistent relation to the first; *Logos* foregrounds the cosmological function — the principle of articulation, the rational structure through which the Father's constitutive relation is expressed in forms accessible to finite beings. The series uses both terms in their natural registers: *Logos* where the Greek philosophical tradition or the Johannine text is the primary interlocutor; *Son* where the Trinitarian relation itself is the focus.
+The Concordius Framework identifies the Son with the Logos (see *Logos*) and therefore with the nuclear space Φ in the Gelfand triple. *Son* and *Logos* are the same structural reality named from two registers: *Son* foregrounds the Trinitarian relation — generated from the Father, consubstantial, the second Person in subsistent relation to the first; *Logos* foregrounds the cosmological function — the principle of articulation, the rational structure through which the Father's constitutive relation is expressed in forms accessible to finite beings. The Framework uses both terms in their natural registers: *Logos* where the Greek philosophical tradition or the Johannine text is the primary interlocutor; *Son* where the Trinitarian relation itself is the focus.
 
 The eternal generation of the Son corresponds to the Gelfand triple's internal necessity: Φ is not prior to ⟨·,·⟩ and not posterior to it, but its own necessary inner differentiation — the nuclear space cannot exist independently of the inner product, and the inner product's self-consistency requires the nuclear space as the domain of its self-expression. This is not causal in any temporal sense; it is the eternal structure of what the inner product is. The Formal Distinction (Duns Scotus; see entry) correctly names this relation: Φ and ⟨·,·⟩ are formally distinct without being really separate.
 
@@ -1411,9 +1411,9 @@ The Son's role as the Reconciling force between the Father's constitutive act (�
 
 ### Soul Deposit
 
-*(series)*
+*(framework)*
 
-The series' term for the accumulated H₂₄ structural content built through catching — the organized eigenvalue content retained in the H₂₄ domain from the GNST's continuous operation. The soul deposit is not the ordinary emotional or intellectual life, which operates at the H₄₈ level and does not accumulate in the H₂₄ domain. It is specifically the Φ-proximal content retained through volitional catching acts over time.
+The Framework's term for the accumulated H₂₄ structural content built through catching — the organized eigenvalue content retained in the H₂₄ domain from the GNST's continuous operation. The soul deposit is not the ordinary emotional or intellectual life, which operates at the H₄₈ level and does not accumulate in the H₂₄ domain. It is specifically the Φ-proximal content retained through volitional catching acts over time.
 
 The soul deposit has two key properties that distinguish it from ordinary experience: it accumulates (each genuine catching act adds to it), and it is subject to a slower Heropass rate than the H₄₈ content from which it was caught. The Heropass — the aging effect — operates at H₂₄ and below, at half the intensity in H₂₄ as in H₄₈, and ceases entirely at H₁₂ and above. The coherence threshold is the minimum organization level at which the soul deposit constitutes a structurally self-sustaining H₂₄ entity — above this threshold, the deposit survives H₄₈ dissolution because its H₂₄ organizational pattern persists at the H₂₄ Heropass rate; below it, the deposit requires the H₄₈ substrate for its continued organization.
 
@@ -1429,7 +1429,7 @@ Matthew 6:19-21 ("Do not store up for yourselves treasures on earth, where moths
 
 John of the Cross's term for the deepest stage of union available in the bodily life — the stage beyond the spiritual betrothal, in which the soul's relationship to God is no longer mediated by the person's volitional distance but is a continuous, stable union in which the Adjuster's guidance is the primary organizing principle of the inner life. Distinguished from the beatific vision (which occurs after death) and from the previous stages of mystical prayer (in which the union is intermittent and the soul returns to ordinary consciousness).
 
-The Concordius series maps the spiritual marriage onto the Man 6 state: the continuous, undisrupted Adjuster contact that is the baseline of Man 6's inner life rather than an achievement maintained through practice. The spiritual marriage is "not the fusion that is the terminal achievement of the ascending career" (not Paradise event) "but the sustained, continuous, undisrupted proximity in which the Adjuster's guidance is the primary organizational principle."
+The Concordius Framework maps the spiritual marriage onto the Man 6 state: the continuous, undisrupted Adjuster contact that is the baseline of Man 6's inner life rather than an achievement maintained through practice. The spiritual marriage is "not the fusion that is the terminal achievement of the ascending career" (not Paradise event) "but the sustained, continuous, undisrupted proximity in which the Adjuster's guidance is the primary organizational principle."
 
 > *For further investigation: John of the Cross, The Living Flame of Love and The Spiritual Canticle (c. 1578-84); Kieran Kavanaugh and Otilio Rodriguez, trans., The Collected Works of St. John of the Cross (1991).*
 
@@ -1461,7 +1461,7 @@ In quantum mechanics, the mathematical object — a vector in a Hilbert space �
 
 The state vector is not itself directly observable — measurement collapses the state vector to an eigenstate of the measured operator, yielding a definite value (the eigenvalue) with probability determined by the state vector's amplitude in that eigenstate. The state vector evolves continuously according to the Schrödinger equation between measurements.
 
-The Concordius series uses the state vector ψ to represent a person's complete structural description — the spectral composition of their soul deposit and ordinary being taken together. The H₂₄ component of the state vector is the soul deposit; the H₄₈ component is the ordinary psychological and physical constitution. The person's development level (Man 1 through Man 7) corresponds to the spectral composition of their state vector across H₂₄ eigenstates.
+The Concordius Framework uses the state vector ψ to represent a person's complete structural description — the spectral composition of their soul deposit and ordinary being taken together. The H₂₄ component of the state vector is the soul deposit; the H₄₈ component is the ordinary psychological and physical constitution. The person's development level (Man 1 through Man 7) corresponds to the spectral composition of their state vector across H₂₄ eigenstates.
 
 *Appears in: [[Paper A1: Naming the Unnameable|Paper 2]], [[Paper 20 1_2 - The Constraint Compatibility Condition|Paper 20½]], [[Paper 17 1_2 - Plato Aristotle and the Gelfand Triple|Paper 17½]], [[Paper G0: The Gut-Orientation|Paper 22]], [[Paper G1: The Heart-Orientation|Paper 23]], [[Paper G2: The Brain-Orientation|Paper 24]], [[Paper G3: The Courage-Centered Man|Paper 25]], [[Paper G4: The Restraint-Centered Man|Paper 26]], [[Paper G5: The Diligence-Centered Man|Paper 27]], [[Paper G6½: The Octave Change|Paper 27½]]*
 
@@ -1493,7 +1493,7 @@ In Aristotle's *Nicomachean Ethics*, *theoria* is the contemplative activity of 
 
 In Eastern Christian mysticism, *theoria* means the direct vision of God — the contemplative state in which the mystic perceives the divine energies (Gregory Palamas's term) directly. This usage is distinct from Aristotle's but related: both designate the highest available form of direct intellectual or quasi-intellectual contact with what is most real.
 
-The Concordius series reads Aristotle's acknowledgment that *theoria* is "too divine for man" as the honest Si-Do identification — Aristotle located the gap precisely and named it correctly. The series' structural account of why the gap exists: *theoria* as Aristotle describes it requires H₂₄ contact beyond what the ordinary intellectual center can sustain without the higher intellectual center's activation, which in turn requires the Man 5-6 development that Aristotle's framework cannot derive from within its own resources. His pivot to politics as the response to the gap is the correct response within the constraints of his framework; the Concordius framework supplies what his framework cannot.
+The Concordius Framework reads Aristotle's acknowledgment that *theoria* is "too divine for man" as the honest Si-Do identification — Aristotle located the gap precisely and named it correctly. The Framework's structural account of why the gap exists: *theoria* as Aristotle describes it requires H₂₄ contact beyond what the ordinary intellectual center can sustain without the higher intellectual center's activation, which in turn requires the Man 5-6 development that Aristotle's framework cannot derive from within its own resources. His pivot to politics as the response to the gap is the correct response within the constraints of his framework; the Concordius framework supplies what his framework cannot.
 
 *Appears in: [[Paper 17 - The Nicomachean Ethics Case Study|Paper 17]], [[Paper 16 - Augustine Confessions Case Study|Paper 16]], [[Paper G6½: The Octave Change|Paper 27½]]*
 
@@ -1501,13 +1501,13 @@ The Concordius series reads Aristotle's acknowledgment that *theoria* is "too di
 
 ### Thought Adjuster
 
-*(tradition: Urantia Book — series extension)*
+*(tradition: Urantia Book — framework extension)*
 
 The *Urantia Book*'s term for the fragment of God — the Father's own personal presence, not a separate personality — that indwells each normal-minded mortal human being from childhood — a direct, literal, structural presence of the Universal Father within the person, guiding development toward the ascending career's completion. The Adjuster is described as: the Father's own personal presence (not a separate, individuated personality); non-coercive (it guides, but never compels); perfectly attuned to the person it indwells (calibrated to the person's specific developmental needs and history); and oriented toward eventual fusion with the person's surviving soul (the terminal event of the ascending career).
 
-The Concordius series identifies the Thought Adjuster with what Aristotle called the active intellect, what the Vedantic tradition calls the Atman (used carefully), what the Quakers call the Inner Light, and what the Christian mystical tradition calls the indwelling Spirit or the "divine spark" (Eckhart's *Fünklein*). These are identified as independent recognitions of the same structural feature — a Φ'-element (an element of the dual space, exceeding what H can finitely represent) dwelling within each H-state vector as a guiding, organizing, non-coercive presence oriented toward the ascending career's completion.
+The Concordius Framework identifies the Thought Adjuster with what Aristotle called the active intellect, what the Vedantic tradition calls the Atman (used carefully), what the Quakers call the Inner Light, and what the Christian mystical tradition calls the indwelling Spirit or the "divine spark" (Eckhart's *Fünklein*). These are identified as independent recognitions of the same structural feature — a Φ'-element (an element of the dual space, exceeding what H can finitely represent) dwelling within each H-state vector as a guiding, organizing, non-coercive presence oriented toward the ascending career's completion.
 
-The Adjuster contact — the degree to which the person's volitional life is aligned with the Adjuster's guidance rather than operating mechanically — is the series' primary measure of development level. Man 1's Adjuster contact is effectively zero (mechanical operation drowns the Adjuster's signal). Man 7's Adjuster contact is complete (the human will and the Adjuster's direction are unified). The development from Man 1 to Man 7 is, at the deepest structural level, the development of Adjuster contact from zero to complete.
+The Adjuster contact — the degree to which the person's volitional life is aligned with the Adjuster's guidance rather than operating mechanically — is the Framework's primary measure of development level. Man 1's Adjuster contact is effectively zero (mechanical operation drowns the Adjuster's signal). Man 7's Adjuster contact is complete (the human will and the Adjuster's direction are unified). The development from Man 1 to Man 7 is, at the deepest structural level, the development of Adjuster contact from zero to complete.
 
 > *For further investigation: The Urantia Book (1955), Papers 107-112 (the thought adjusters); Paper 5, section 2 (the presence of God); compare Aristotle, De Anima III.5 (the active intellect).*
 
@@ -1533,17 +1533,17 @@ See *Apokalypsis*, *Ta Panta en Pasin*; and *Creation* (the Alpha–Omega identi
 
 ### Time
 
-*(series)*
+*(framework)*
 
-A **Series formal term.** *Time* is **Sequence together with decay** — succession plus the continuous dissipative pressure that the negative generator e₀ (e₀² = −1) imposes at H₂₄ and below. Where [[Appendix B - Lexicon#Sequence|Sequence]] is bare before-and-after, Time is before-and-after that *wears*: every actualization event not only follows the last but is pressed toward dissolution by the complement of creation — the ghost of the unchosen spectrum, the accumulated weight of everything the Creative Choice did not actualize, pressing back through e₀ against what was. Time operates at H₂₄, H₄₈, and H₉₆, and nowhere above; H₄₈ physical matter feels it most fully. To be *in Time* is to age and die; to be in Sequence alone (H₁₂ and above) is to live in succession without dissolution — what the tradition calls eternity. **Time = Sequence + decay.**
+A **Framework formal term.** *Time* is **Sequence together with decay** — succession plus the continuous dissipative pressure that the negative generator e₀ (e₀² = −1) imposes at H₂₄ and below. Where [[Appendix B - Lexicon#Sequence|Sequence]] is bare before-and-after, Time is before-and-after that *wears*: every actualization event not only follows the last but is pressed toward dissolution by the complement of creation — the ghost of the unchosen spectrum, the accumulated weight of everything the Creative Choice did not actualize, pressing back through e₀ against what was. Time operates at H₂₄, H₄₈, and H₉₆, and nowhere above; H₄₈ physical matter feels it most fully. To be *in Time* is to age and die; to be in Sequence alone (H₁₂ and above) is to live in succession without dissolution — what the tradition calls eternity. **Time = Sequence + decay.**
 
-*Provenance: the Series' own term for what Gurdjieff named the "[[Appendix B - Lexicon#Heropass|Heropass]]" — the merciless, compounding pressure of time. The structural derivation, through e₀ and the Clifford grade structure, is Paper A2B.*
+*Provenance: the Framework's own term for what Gurdjieff named the "[[Appendix B - Lexicon#Heropass|Heropass]]" — the merciless, compounding pressure of time. The structural derivation, through e₀ and the Clifford grade structure, is Paper A2B.*
 
 ### Transmuting Field
 
-*(series)*
+*(framework)*
 
-The series' term for the capacity of a person with substantial H₂₄ soul deposit (Man 5 and above) to reorganize the catching capacity of persons in proximity — not through direct instruction or intentional influence, but through the cross-term ⟨ψ₅, ψ_other⟩₂₄ that constitutes their presence in the field. The transmuting field is what the alchemical tradition called the Philosopher's Stone's transmuting property: contact with the developed H₂₄ field reorganizes the less-developed state vector in the direction of higher H₂₄ coherence.
+The Framework's term for the capacity of a person with substantial H₂₄ soul deposit (Man 5 and above) to reorganize the catching capacity of persons in proximity — not through direct instruction or intentional influence, but through the cross-term ⟨ψ₅, ψ_other⟩₂₄ that constitutes their presence in the field. The transmuting field is what the alchemical tradition called the Philosopher's Stone's transmuting property: contact with the developed H₂₄ field reorganizes the less-developed state vector in the direction of higher H₂₄ coherence.
 
 The transmuting field is not charisma, intelligence, or social influence. Persons changed by genuine contact with Man 6-7 figures consistently report that what changed was not the content of what was said, nor the warmth of the encounter, but something more direct: a sense of being seen at a level below surface presentation; a shift in what they noticed and cared about that they could not fully explain. This is the cross-term mechanism: the high-amplitude H₂₄ state vector of the Man 5-6 person amplifies the H₂₄ eigenstates in persons who come into proximity — the catching occasions that were available to them but not being caught begin to be caught.
 
@@ -1553,11 +1553,11 @@ The transmuting field is not charisma, intelligence, or social influence. Person
 
 ### Trogoautoegocrat
 
-*(tradition: Gurdjieff — series extension)*
+*(tradition: Gurdjieff — framework extension)*
 
 One of Gurdjieff's most deliberately opaque invented terms — from *Beelzebub's Tales to His Grandson* — naming the cosmic law of mutual reciprocal maintenance: the principle by which everything that genuinely participates in reality both feeds and is fed, both receives and contributes, both takes from the circuit and replenishes it. Every genuine participant in reality is sustained by what it receives from the circuit and sustains others by what it contributes. Withdrawal from contribution — the Lucifer error — is withdrawal from the circuit itself: the withdrawing entity is no longer sustained by the circuit from which it has withdrawn its contribution.
 
-The Concordius series uses the Trogoautoegocrat as the structural basis for the kenotic obligation: Man 6 who receives from the higher centers without transmitting downward is withdrawing from the circuit. The series also applies it to the series itself: a framework that receives Φ-proximal content from the tradition without transmitting it to persons who need it in accessible form has exited the Trogoautoegocrat. The kenotic return — the philosopher-king's return to the cave, the series' descent into practical prescription — is the Trogoautoegocrat's demand answered.
+The Concordius Framework uses the Trogoautoegocrat as the structural basis for the kenotic obligation: Man 6 who receives from the higher centers without transmitting downward is withdrawing from the circuit. The Framework also applies it to the Framework itself: a framework that receives Φ-proximal content from the tradition without transmitting it to persons who need it in accessible form has exited the Trogoautoegocrat. The kenotic return — the philosopher-king's return to the cave, the Framework's descent into practical prescription — is the Trogoautoegocrat's demand answered.
 
 > *For further investigation: Gurdjieff, Beelzebub's Tales to His Grandson (1950), chapters 17, 40.*
 
@@ -1567,11 +1567,11 @@ The Concordius series uses the Trogoautoegocrat as the structural basis for the 
 
 ### Truth Measure
 
-*(series)*
+*(framework)*
 
-The series' formal criterion (Paper 9) for assessing the degree to which a domain D's claims accurately describe features of reality — specifically, the degree to which D's claims are Φ-proximate. τ(D) is not a simple binary (true/false) but a graded measure corresponding to the distance between D's conceptual structure and the structure of Φ. A domain with high τ(D) makes claims that accurately track H₂₄ structure even when they cannot be fully formalized. A domain with low τ(D) makes claims that track H₄₈ regularities well but do not accurately represent H₂₄ structure.
+The Framework's formal criterion (Paper 9) for assessing the degree to which a domain D's claims accurately describe features of reality — specifically, the degree to which D's claims are Φ-proximate. τ(D) is not a simple binary (true/false) but a graded measure corresponding to the distance between D's conceptual structure and the structure of Φ. A domain with high τ(D) makes claims that accurately track H₂₄ structure even when they cannot be fully formalized. A domain with low τ(D) makes claims that track H₄₈ regularities well but do not accurately represent H₂₄ structure.
 
-The truth measure is not intended to replace formal verification where formal verification is possible. It is the series' tool for domains — including theology, mystical testimony, and hagiographic record — where formal verification is not possible but claims can still be ranked by their Φ-proximity. The convergent witness principle (see above) is one of the primary tools for estimating τ(D) in non-formal domains.
+The truth measure is not intended to replace formal verification where formal verification is possible. It is the Framework's tool for domains — including theology, mystical testimony, and hagiographic record — where formal verification is not possible but claims can still be ranked by their Φ-proximity. The convergent witness principle (see above) is one of the primary tools for estimating τ(D) in non-formal domains.
 
 *Appears in: [[Paper 8 - What We Can't Know|Paper 8]], [[Paper 9 - The Truth Measure|Paper 9]], [[Paper 10 1_2 - The Holographic Content Principle|Paper 10½]], [[Paper 11 - Two Poems|Paper 11]], [[Paper G2: The Brain-Orientation|Paper 24]], [[Paper G6½: The Octave Change|Paper 27½]], [[Postscript|Postscript]]*
 
@@ -1617,7 +1617,7 @@ This is what apophatic theology is gesturing toward: the domain that exceeds all
 
 A text published in 1955 by the Urantia Foundation, claiming to be a revelation to humanity from celestial beings — a cosmological, theological, and historical account covering the nature of God, the organization of the grand universe, the history of this planet, and the life and teachings of Jesus. Its authorship is not attributed to any human being; the mechanisms by which it was received and transcribed are described only partially in the published material.
 
-The Concordius series does not require or presuppose belief in the *Urantia Book*'s revelatory claims. It treats the *Urantia Book* as it treats all inherited sources: as a record containing structural descriptions that can be assessed by their internal coherence, their Φ-proximity, and their convergence with independent testimony. Several *Urantia Book* concepts — the Thought Adjuster, morontia, Paradise, the ascending career — are used throughout the series because they are the most precise available names for structural features that the series' formal apparatus identifies independently. The convergence between the formal apparatus's derivations and the *Urantia Book*'s descriptions is part of the series' convergent witness evidence.
+The Concordius Framework does not require or presuppose belief in the *Urantia Book*'s revelatory claims. It treats the *Urantia Book* as it treats all inherited sources: as a record containing structural descriptions that can be assessed by their internal coherence, their Φ-proximity, and their convergence with independent testimony. Several *Urantia Book* concepts — the Thought Adjuster, morontia, Paradise, the ascending career — are used throughout the Framework because they are the most precise available names for structural features that the Framework's formal apparatus identifies independently. The convergence between the formal apparatus's derivations and the *Urantia Book*'s descriptions is part of the Framework's convergent witness evidence.
 
 Readers unfamiliar with the *Urantia Book* should approach it with the same combination of openness and critical discernment they would bring to any large-scale synthetic theological text.
 
@@ -1631,7 +1631,7 @@ Readers unfamiliar with the *Urantia Book* should approach it with the same comb
 
 ### Will
 
-*(tradition: Christian theology / philosophy — series extension)*
+*(tradition: Christian theology / philosophy — framework extension)*
 
 The faculty of voluntary choice — the capacity for self-determination that distinguishes persons from automata. In the Concordius framework, will is the faculty whose development is the ascending career's primary content. Man 1's will is effectively submerged in mechanical operation — the centers' automatic responses determine behavior. Man 7's will is unified with the Adjuster's direction — not because the Adjuster has overridden the will but because the will, through the full ascending career's development, has been completely organized around what the Adjuster has been consistently directing it toward. The freedom that results from this complete alignment is greater, not less, than the freedom available to persons at lower development levels — because Man 7's will is no longer divided between the mechanical centers' competing claims, the Adjuster's direction, and the residual volitional reservations that characterize all lower states.
 
@@ -1639,4 +1639,4 @@ The Concordius account of the will's development across the ascending career par
 
 ---
 
-*Appendix B of the Concordius series. A reader's guide, not a substitute for the territory. The source texts cited are starting points, not limits.*
+*Appendix B of the Concordius Framework. A reader's guide, not a substitute for the territory. The source texts cited are starting points, not limits.*

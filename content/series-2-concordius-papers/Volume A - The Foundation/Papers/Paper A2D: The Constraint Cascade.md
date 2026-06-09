@@ -74,7 +74,7 @@ The algebra is forced; the name is received; the world points home. Held apart, 
 
 12. **Magueijo, J.** (2003). *Faster Than the Speed of Light: The Story of a Scientific Speculation.* Perseus Books. [Accessible account of VSL theory and the institutional resistance it encountered; relevant to the sociology of how c's constancy became entrenched as a postulate.]
 
-[^hydro]: The series' Hₙ subscripts denote the Hilbert space indexed by the number of constraints operating at each level; the subscript numbers — H₃, H₆, H₁₂, H₂₄, H₄₈, H₉₆ — appear in order with a doubling between each step. These subscripts are derived from the mathematics of eigenstate selection, not assigned from observation: the constraint doubling follows from the information-theoretic structure of binary spectral collapse. The notation describes only between-level structure; it does not attempt to name within-level refinements.
+[^hydro]: The Framework's Hₙ subscripts denote the Hilbert space indexed by the number of constraints operating at each level; the subscript numbers — H₃, H₆, H₁₂, H₂₄, H₄₈, H₉₆ — appear in order with a doubling between each step. These subscripts are derived from the mathematics of eigenstate selection, not assigned from observation: the constraint doubling follows from the information-theoretic structure of binary spectral collapse. The notation describes only between-level structure; it does not attempt to name within-level refinements.
 
 ---
 

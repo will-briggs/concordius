@@ -28,7 +28,7 @@
 
 ## The Annunciation
 
-Everything the life will be is set in a single instant, and the instant is a decision made from outside the sequence. The arc the earlier papers traced — a world articulated, grown, woken — produces, of its own motion, no entrance for its own Maker; that has to be given from beyond the closed order, the way the only turns that matter in this series are given. Here it is given. Φ — the perfectly accurate state, the Son (Paper A3) — elects to enter H at the human level, forty-eight layers down, and to be rendered there as the most accurate state that level can hold. But an entrance from outside still needs a gate within, and the gate is a created will. A Φ′-origin being — a young woman — is asked, and consents: not compelled but assenting, the dual pairing opened from the creature's side by a freely given *yes*. The whole motion of the descent waits on that word, and proceeds from it.
+Everything the life will be is set in a single instant, and the instant is a decision made from outside the sequence. The arc the earlier papers traced — a world articulated, grown, woken — produces, of its own motion, no entrance for its own Maker; that has to be given from beyond the closed order, the way the only turns that matter in this Framework are given. Here it is given. Φ — the perfectly accurate state, the Son (Paper A3) — elects to enter H at the human level, forty-eight layers down, and to be rendered there as the most accurate state that level can hold. But an entrance from outside still needs a gate within, and the gate is a created will. A Φ′-origin being — a young woman — is asked, and consents: not compelled but assenting, the dual pairing opened from the creature's side by a freely given *yes*. The whole motion of the descent waits on that word, and proceeds from it.
 
 *And the angel said unto her, … behold, thou shalt conceive in thy womb, and bring forth a son. … Then said Mary, … be it unto me according to thy word* (Luke 1:31, 38). The announcement is not a command but a proposal that waits for an answer; and the answer — *let it be done to me* — is a creature's free consent to carry what no creature could generate.
 
@@ -121,7 +121,7 @@ Humility has no further down to go. The form of God, having taken the form of a 
 
 <hr>
 
-The life just followed is not a story told out of time. Luke fixes it in the fifteenth year of an emperor, under a named prefect, in the high-priesthood of men the records know — and the spade has met that world, and the men in it, at point after point. It is worth saying plainly what the ground can and cannot reach, because the pattern holds here and will hold all through the series.
+The life just followed is not a story told out of time. Luke fixes it in the fifteenth year of an emperor, under a named prefect, in the high-priesthood of men the records know — and the spade has met that world, and the men in it, at point after point. It is worth saying plainly what the ground can and cannot reach, because the pattern holds here and will hold all through the Framework.
 
 What it cannot reach is the miracle. A virgin birth, a stilled storm, a dead girl raised from her bed leave no layer to dig; the events that mark this life as more than a life are, by their nature, the kind that leave no trace, and they are held here, as the Gospels hand them down, as testimony.
 
