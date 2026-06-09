@@ -1,4 +1,4 @@
-*← [[Paper A2: The Big Bang|Paper A2: The Big Bang]]*
+*← [[Adam A2½: You Can't Get There From Here]]*
 
 # Paper A2½: The Constraint Cascade: Descent as Densification
 

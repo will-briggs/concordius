@@ -187,4 +187,4 @@ The universe had a beginning, hot and dense and finite in the past, and the fact
 
 ---
 
-*[[Paper A2½: The Constraint Cascade|Paper A2½: The Constraint Cascade: Descent as Densification]] →*
+*[[Adam A2½: You Can't Get There From Here]] →*
