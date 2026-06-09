@@ -2,7 +2,7 @@
 
 ---
 
-*The surviving fragments of Heraclitus of Ephesus are read here for one word he was the first in the West to make load-bearing: **logos**. He uses it for the rational structure that orders all things, present in everything and grasped by almost no one — and in doing so he names, six centuries before John's prologue, the framework's Φ: the articulating principle through which all things are made and according to which they hold together.*
+*The surviving fragments of Heraclitus of Ephesus are read here for one word he was the first in the West to make foundational: **logos**. He uses it for the rational structure that orders all things, present in everything and grasped by almost no one — and in doing so he names, six centuries before John's prologue, the framework's Φ: the articulating principle through which all things are made and according to which they hold together.*
 
 ---
 

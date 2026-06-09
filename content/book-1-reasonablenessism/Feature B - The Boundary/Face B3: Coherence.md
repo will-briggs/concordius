@@ -8,7 +8,7 @@
 
 <figure>
 <img src="/static/images/byrne-euclid.jpg" alt="" style="max-width:100%;display:block;margin:0 auto;">
-<figcaption><em>Oliver Byrne, The First Six Books of the Elements of Euclid</em> (1847). A proof holds because every part is consistent with every other; pull one contradiction into it and the whole edifice, not merely the local step, gives way. Coherence is not tidiness — it is what keeps a structure load-bearing.</figcaption>
+<figcaption><em>Oliver Byrne, The First Six Books of the Elements of Euclid</em> (1847). A proof holds because every part is consistent with every other; pull one contradiction into it and the whole edifice, not merely the local step, gives way. Coherence is not tidiness — it is what keeps a structure standing.</figcaption>
 </figure>
 
 ---

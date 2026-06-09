@@ -13,7 +13,7 @@
 
 ## 1. The Structural Claim
 
-The prosperity gospel is the cleanest instance of the proverb that names this section: the devil quoting scripture. It is built entirely of real scripture, deploys the genuine principle that orientation reorganizes a life, and inverts a single term — relocating the treasury from H₁ to H₄₈, from heaven to the bank. It is the inverted-treasure counterfeit in its native theological habitat, reading the exact passage the Postscript turns on and reading it backward.
+The prosperity gospel is the cleanest instance of the proverb that names this section: the devil quoting scripture. It is built entirely of real scripture, deploys the genuine principle that orientation reorganizes a life, and inverts a single term — relocating the treasury from H₁ to H₄₈, from heaven to the bank. It is the inverted-treasure counterfeit in its native theological habitat, reading the exact passage the Postscript rests on and reading it backward.
 
 ## 2. The Genuine Signal
 
@@ -21,7 +21,7 @@ The signal is real and must be granted. Faith does reorganize a life: the being 
 
 ## 3. The Decisive Inversion
 
-Then the term is switched. "Treasures in heaven" — Φ-proximal accumulation at H₁, the higher being body that survives Time — is read as treasures on earth: the house, the jet, the healed body, the multiplied check. The Postscript's text is the precise hinge. *Do not store up treasures on earth, where moth and rust destroy… but store up treasures in heaven… for where your treasure is, there your heart will be also* (Matthew 6:19–21). The prosperity gospel keeps "where your treasure is, there your heart will be also" — the orientation principle — and inverts the location, aiming the heart at exactly the H₄₈ accumulations the passage names as the things Time ("moth and rust") will dissolve. Seed-faith giving completes the inversion: the open hand, a genuine catching posture, is re-instrumentalized as a deposit expecting an H₄₈ return. The framework's verdict is not that wealth is evil — H₄₈ is a real level — but that the treasury has been moved to the one place the source explicitly said it cannot be kept.
+Then the term is switched. "Treasures in heaven" — Φ-proximal accumulation at H₁, the higher being body that survives Time — is read as treasures on earth: the house, the jet, the healed body, the multiplied check. The Postscript's text is the exact reversal. *Do not store up treasures on earth, where moth and rust destroy… but store up treasures in heaven… for where your treasure is, there your heart will be also* (Matthew 6:19–21). The prosperity gospel keeps "where your treasure is, there your heart will be also" — the orientation principle — and inverts the location, aiming the heart at exactly the H₄₈ accumulations the passage names as the things Time ("moth and rust") will dissolve. Seed-faith giving completes the inversion: the open hand, a genuine catching posture, is re-instrumentalized as a deposit expecting an H₄₈ return. The framework's verdict is not that wealth is evil — H₄₈ is a real level — but that the treasury has been moved to the one place the source explicitly said it cannot be kept.
 
 ## 4. The Fruit
 

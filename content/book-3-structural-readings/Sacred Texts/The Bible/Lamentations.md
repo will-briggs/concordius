@@ -10,7 +10,7 @@
 
 *Chasdei YHWH ki loʾ tamnu, ki loʾ khalu rachamav. Chadashim la-beqarim, rabbah ʾemunatekha.* — Because of the LORD's great love (*chesed*) we are not consumed, for his compassions (*rachamim*) never fail. They are new every morning; great is your faithfulness.
 
-The structural context is the book's. Lamentations is the response to the destruction of Jerusalem (586 BCE) — the Temple destroyed, the Davidic dynasty ended, the city burned, the people exiled. The H₄₈ evidence is unambiguous: the covenant structures have collapsed. Chapters 1-2 describe the catastrophe; chapter 3 is the turning point — the pivot from lament to the structural claim that makes the lament endurable.
+The structural context is the book's. Lamentations is the response to the destruction of Jerusalem (586 BCE) — the Temple destroyed, the Davidic dynasty ended, the city burned, the people exiled. The H₄₈ evidence is unambiguous: the covenant structures have collapsed. Chapters 1-2 describe the catastrophe; chapter 3 is the reversal — the move from lament to the structural claim that makes the lament endurable.
 
 **"We are not consumed."**
 

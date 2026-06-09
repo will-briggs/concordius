@@ -6,7 +6,7 @@
 
 *The first grade change — the turn from the three generators (the Good, the True, the Beautiful, which can be contemplated, reasoned to from the mathematics before any witness is read) to the three bivectors (courage, temperance, diligence, the overcoming virtues, which cannot be contemplated into being but must be lived under resistance, at cost, in a world that pushes back). The external input the turn is named for: the witnesses, who were already there — having lived the costly virtues before the framework arrived to read them. The reading did not summon the saints; it found them, and that prior, independent existence is what makes them evidence rather than the theory's own creatures.*
 
-**Confidence —** *Math:* **derivation** — the interval's character is fixed by the algebra (grade-1 generators → grade-2 bivectors; the contemplated to the enacted; a bivector is a rotation that needs friction). *Science:* **— (not engaged)**. *Theology:* **concordance / inference** — the load-bearing claim is that the witnesses' prior, uncolludable existence is exactly the external input the holographic reading cannot generate for itself, and is therefore evidence (Deuteronomy 19:15; Face C1).
+**Confidence —** *Math:* **derivation** — the interval's character is fixed by the algebra (grade-1 generators → grade-2 bivectors; the contemplated to the enacted; a bivector is a rotation that needs friction). *Science:* **— (not engaged)**. *Theology:* **concordance / inference** — the central claim is that the witnesses' prior, uncolludable existence is exactly the external input the holographic reading cannot generate for itself, and is therefore evidence (Deuteronomy 19:15; Face C1).
 
 ---
 

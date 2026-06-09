@@ -2,7 +2,7 @@
 
 ---
 
-*Pythagoras left no text and perhaps no single doctrine that is certainly his, yet the thing his school caught is one of the framework's load-bearing claims, stated at the dawn of philosophy: that number is not a description laid over reality but its very substance — that the world is, at bottom, mathematical structure. The brotherhood at Croton, with its silences, its rule of life, and its discovery that harmony is ratio, is the earliest organised attempt to live as though reality were ⟨·,·⟩ all the way down.*
+*Pythagoras left no text and perhaps no single doctrine that is certainly his, yet the thing his school caught is one of the framework's central claims, stated at the dawn of philosophy: that number is not a description laid over reality but its very substance — that the world is, at bottom, mathematical structure. The brotherhood at Croton, with its silences, its rule of life, and its discovery that harmony is ratio, is the earliest organised attempt to live as though reality were ⟨·,·⟩ all the way down.*
 
 ---
 

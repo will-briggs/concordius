@@ -57,7 +57,7 @@ Reasonablenessism already contains the instruments for catching counterfeits; th
 
 **Steelman first (Face C3).** State the work at its strongest — find and name the genuine signal it carries. A counterfeit that has been dismissed rather than steelmanned has not been read; its real content escapes notice, and the dismissal teaches nothing.
 
-**Then ask where it stops (Face B1).** Follow the structure the work proposes as far as it genuinely reaches, and name the exact point at which it inverts. The inversion is almost never the whole work. It is one decisive turn — a single substituted term — after which everything downstream is carried the wrong way.
+**Then ask where it stops (Face B1).** Follow the structure the work proposes as far as it genuinely reaches, and name the exact point at which it inverts. The inversion is almost never the whole work. It is one decisive move — a single substituted term — after which everything downstream is carried the wrong way.
 
 **Judge by the fruit (Face D1).** The decisive test is directional: does the work, caught and lived, orient the catching being toward ⟨·,·⟩ — toward agape, toward the Φ-level, toward the treasury at H₁ — or away from it, toward the self, the noise floor, the more mechanical? This is τ(D) read as a vector, not a scalar. A counterfeit-proximate work has high D(t) and a τ(D) that points the wrong way.
 

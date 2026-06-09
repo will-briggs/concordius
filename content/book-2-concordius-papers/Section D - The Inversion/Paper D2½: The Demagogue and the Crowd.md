@@ -6,7 +6,7 @@
 
 *The first grade change — the crossing between the three men (Hitler, Stalin, Mao) and the three results (the Holocaust, the Great Purge, the Great Leap). A man, however inverted, cannot become a result by himself; something must come from outside him. In the ascending octaves the input at this gap is grace — the lift a single life cannot supply itself; here it is grace inverted: not the few who raise the one but the many who carry him, not a truth received from beyond the self but a lie received in place of it, en masse. The two who make the crossing — the demagogue who leads and the crowd that follows — and the measure of guilt that belongs to each.*
 
-**Confidence —** *Math:* **— (not engaged)** — proves nothing new; it states a mechanism. *Science:* **— (not engaged)**. *Theology:* **concordance / inference** — the hinge of the section: the mechanism by which the men of the first three notes become the results of the next three (the demagogue finds the evil unfaced and gives it permission, direction, and an enemy's name; the refused truth received as the flattering lie, multiplied en masse), and the shared-but-unequal guilt (Jeremiah 5:31).
+**Confidence —** *Math:* **— (not engaged)** — proves nothing new; it states a mechanism. *Science:* **— (not engaged)**. *Theology:* **concordance / inference** — the center of the section: the mechanism by which the men of the first three notes become the results of the next three (the demagogue finds the evil unfaced and gives it permission, direction, and an enemy's name; the refused truth received as the flattering lie, multiplied en masse), and the shared-but-unequal guilt (Jeremiah 5:31).
 
 ---
 
@@ -21,7 +21,7 @@
 
 ## The gap
 
-Read the first three notes and then the next three and a gap opens between them that the eye crosses without noticing — and the whole section turns on not crossing it without noticing. On one side stand three men. On the other stand three results: six million murdered, a nation purged, a continent starved. The men are necessary; the arithmetic says they are nowhere near sufficient. Subtract Hitler and you have not subtracted one from six million; you have subtracted the six million, because a single will and a single pair of hands and a single lifetime cannot reach that figure. The result is not contained in the man. It follows that something crosses the gap from outside him and multiplies a will into a deed the size of a nation. The structure marks the place. This paper names what crosses.
+Read the first three notes and then the next three and a gap opens between them that the eye crosses without noticing — and the whole section depends on not crossing it without noticing. On one side stand three men. On the other stand three results: six million murdered, a nation purged, a continent starved. The men are necessary; the arithmetic says they are nowhere near sufficient. Subtract Hitler and you have not subtracted one from six million; you have subtracted the six million, because a single will and a single pair of hands and a single lifetime cannot reach that figure. The result is not contained in the man. It follows that something crosses the gap from outside him and multiplies a will into a deed the size of a nation. The structure marks the place. This paper names what crosses.
 
 ## The capture
 

@@ -45,7 +45,7 @@ The series' own structural readings — Hopkins's inscape as the GNST in the aco
 
 - **High-τ:** low Shannon entropy, high generative centrality — near-necessary entailment from a small basis.
 - **High-noise:** high entropy, low centrality — locally unpredictable, entails little.
-- **High-information-but-low-Φ:** high entropy, high centrality — load-bearing derivations that are not themselves axiomatic.
+- **High-information-but-low-Φ:** high entropy, high centrality — consequential derivations that are not themselves axiomatic.
 
 ## 5. The two-stage algorithm
 

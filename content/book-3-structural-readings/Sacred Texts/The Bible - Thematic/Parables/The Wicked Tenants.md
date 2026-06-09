@@ -36,7 +36,7 @@ This is precisely the Luciferian logic at H₄₈ scale. Paper 13½ §3.1 identi
 
 The Psalm 118 quotation is the framework's key. The stone the builders rejected became the cornerstone. In architectural terms: the stone whose function is to anchor the entire structure — to establish its geometry — was evaluated by the builders as unusable and discarded. This is what H₄₈-primary organizational assessment produces when it encounters Φ-proximate organizational content that does not present as H₄₈-primary power.
 
-The cornerstone function is ⟨·,·⟩ organizing the structure. The builders evaluated the stone by H₄₈-primary criteria (appearance, apparent utility for ordinary load-bearing) and found it useless. The constitutive function of the stone is not visible to H₄₈-primary assessment. The rejection is structurally inevitable given the evaluative framework applied, and the structural consequence — the stone becoming the cornerstone anyway, the structure built around it — is equally inevitable. The constitutive ground does not cease to be constitutive ground because the tenants killed the heir.
+The cornerstone function is ⟨·,·⟩ organizing the structure. The builders evaluated the stone by H₄₈-primary criteria (appearance, apparent fitness as ordinary building-stone) and found it useless. The constitutive function of the stone is not visible to H₄₈-primary assessment. The rejection is structurally inevitable given the evaluative framework applied, and the structural consequence — the stone becoming the cornerstone anyway, the structure built around it — is equally inevitable. The constitutive ground does not cease to be constitutive ground because the tenants killed the heir.
 
 ---
 

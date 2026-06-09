@@ -33,7 +33,7 @@ The second note fixes the false principle the whole Leap would hold: that revolu
 
 ## 3. Mi — the inflated harvest (1958)
 
-The third note is motion, and the motion produced, at once, the lie that would kill: the reports. The 1958 harvest was announced in wildly inflated figures — the "Sputnik fields," claims of impossible yields per acre — as officials at every level, afraid to report less than the level above expected, multiplied the numbers upward; and the furnaces consumed the peasants' own tools and pots to produce pig iron mostly useless. This is diligence with its hinge already broken: prodigious work, reported in numbers that had abolished their reference to anything real. The descent is now a dream feeding on its own statistics.
+The third note is motion, and the motion produced, at once, the lie that would kill: the reports. The 1958 harvest was announced in wildly inflated figures — the "Sputnik fields," claims of impossible yields per acre — as officials at every level, afraid to report less than the level above expected, multiplied the numbers upward; and the furnaces consumed the peasants' own tools and pots to produce pig iron mostly useless. This is diligence with its mainspring already broken: prodigious work, reported in numbers that had abolished their reference to anything real. The descent is now a dream feeding on its own statistics.
 
 ### first grade change — the first shock: the contest that raised the dream (1957–58)
 
@@ -45,7 +45,7 @@ With the harvest inflated on paper, the fourth note is the deed, and the deed is
 
 ## 5. Sol — the truth-teller silenced (1959)
 
-The fifth note is the false summit, and it is the precise hinge on which tens of millions of lives turned: the Lushan Conference in the summer of 1959. There Marshal Peng Dehuai, who had seen the countryside, set down for Mao a measured, honest account of the Leap's excesses — the one diligent act the whole catastrophe most needed, the work checked against reality and reported true to power. And Mao, instead of letting the true note correct the course, denounced Peng, purged him, and answered the warning by intensifying the Leap in a new campaign against "right opportunism," so that to report the famine became itself a crime. This is the summit of the inverted La: the honest reckoning offered at the last possible moment to the one man who could have stopped it, and destroyed for being honest. After Lushan the famine was guaranteed, because telling the truth about it had been made fatal.
+The fifth note is the false summit, and it is the precise point on which tens of millions of lives hung: the Lushan Conference in the summer of 1959. There Marshal Peng Dehuai, who had seen the countryside, set down for Mao a measured, honest account of the Leap's excesses — the one diligent act the whole catastrophe most needed, the work checked against reality and reported true to power. And Mao, instead of letting the true note correct the course, denounced Peng, purged him, and answered the warning by intensifying the Leap in a new campaign against "right opportunism," so that to report the famine became itself a crime. This is the summit of the inverted La: the honest reckoning offered at the last possible moment to the one man who could have stopped it, and destroyed for being honest. After Lushan the famine was guaranteed, because telling the truth about it had been made fatal.
 
 ## 6. La — the falling house (1960–61)
 

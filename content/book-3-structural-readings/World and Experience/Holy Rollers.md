@@ -13,7 +13,7 @@
 
 ## 1. The Structural Claim
 
-The colloquial "holy rollers" — the demonstratively ecstatic of the Pentecostal and charismatic traditions — are easy to file too quickly. The skeptic files them as mass emotion mistaken for God; the partisan files them as the only worship that is truly alive. The framework files them more precisely: as a genuine corporate catching practice, descended directly from Pentecost, that operates at unusually high H₄₈ affective amplitude — and whose besetting danger is exactly that the amplitude is so high that it is mistaken for the thing it is not the measure of. The practice is real. The hazard is real. They are not the same, and the whole reading turns on keeping them apart.
+The colloquial "holy rollers" — the demonstratively ecstatic of the Pentecostal and charismatic traditions — are easy to file too quickly. The skeptic files them as mass emotion mistaken for God; the partisan files them as the only worship that is truly alive. The framework files them more precisely: as a genuine corporate catching practice, descended directly from Pentecost, that operates at unusually high H₄₈ affective amplitude — and whose besetting danger is exactly that the amplitude is so high that it is mistaken for the thing it is not the measure of. The practice is real. The hazard is real. They are not the same, and the whole reading depends on keeping them apart.
 
 ## 2. The Genuine Signal
 

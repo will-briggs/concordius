@@ -8,7 +8,7 @@ tags:
 
 ---
 
-*Papers E0–E7: A derivation set beside a testimony, and Gödel's license to admit an outside witness; the first lie, stated exactly and refuted; the vessel, the inverse of the Beautiful at the created level; the gap between the generator-inversions and the bivector-vices, plotted by type and degree; cowardice, the inverse of courage; excess, the inverse of temperance; sloth and overwork, the inverse of diligence; pride, the root under all the rest; the crossing out of pride, which is humility; and the hinge from the diagnosis of evil to the road home.*
+*Papers E0–E7: A derivation set beside a testimony, and Gödel's license to admit an outside witness; the first lie, stated exactly and refuted; the vessel, the inverse of the Beautiful at the created level; the gap between the generator-inversions and the bivector-vices, plotted by type and degree; cowardice, the inverse of courage; excess, the inverse of temperance; sloth and overwork, the inverse of diligence; pride, the root under all the rest; the crossing out of pride, which is humility; and the crossing from the diagnosis of evil to the road home.*
 
 ---
 
@@ -28,7 +28,7 @@ tags:
 
 ---
 
-The inverters named, now the thing itself. Evil read as *privation* — not a substance but a good lost, not a power but the absence of one — traced from the first lie and the vessel that must hold it, through the three inverted virtues, to pride at the root, and across the single crossing that reverses it. Here the mathematics is most load-bearing, and the testimony is, for the first time and under guard, admitted to fill a silence the derivation opens.
+The inverters named, now the thing itself. Evil read as *privation* — not a substance but a good lost, not a power but the absence of one — traced from the first lie and the vessel that must hold it, through the three inverted virtues, to pride at the root, and across the single crossing that reverses it. Here the mathematics carries the most, and the testimony is, for the first time and under guard, admitted to fill a silence the derivation opens.
 
 ---
 
@@ -62,7 +62,7 @@ The inverters named, now the thing itself. Evil read as *privation* — not a su
 *The octave change — the crossing out of pride. The exposure showed the root sin entire: the whole self turned from Φ toward itself, all three bivectors inverted at once; this interval is the single turn that reverses it. In the ascending octaves the octave change was always the crossing no one makes alone — a death opening onto vindication, a reader's turn, a darkness faced together; here it is the same gap and the same kind of crossing: humility, the turn of the whole self back toward the ground, which a being cannot fully make on its own because pride is the one state hidden from the eye that holds it, and which is therefore met — as every octave change is — by an input from outside. The lowest point and the turning point at once.*
 
 **[[Paper E7: The Ascension Career|Paper E7 — The Ascension Career]]**
-*The hinge from the diagnosis of evil to the road home. Everything from the first tyrant to the root sin under all of them was one long account of a single disease, the self turned from the ground; the crossing just made, humility, was the turn back. It sets a tone rather than argues, naming the direction the rest of the work runs — upward — and the name of the road, the ascension career: the Φ′-origin being's climb, by sustained catching, from the floor it was born on toward the inner product itself. The inversion ran away from Φ; the ascension career runs toward it.*
+*The crossing from the diagnosis of evil to the road home. Everything from the first tyrant to the root sin under all of them was one long account of a single disease, the self turned from the ground; the crossing just made, humility, was the turn back. It sets a tone rather than argues, naming the direction the rest of the work runs — upward — and the name of the road, the ascension career: the Φ′-origin being's climb, by sustained catching, from the floor it was born on toward the inner product itself. The inversion ran away from Φ; the ascension career runs toward it.*
 
 ---
 

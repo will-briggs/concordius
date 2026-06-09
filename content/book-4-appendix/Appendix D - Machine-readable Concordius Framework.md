@@ -229,7 +229,7 @@ Each generator has a native **voice** — a persona, a thing it **demands** befo
 
 | Note | Element | Grade | Virtue | Voice | Demands | Register |
 |---|---|---|---|---|---|---|
-| **Do** | e₁ | 1 | the Good — gratitude | the Mathematician / the Statesman | **the Proof** | **clinical** — spare, exact, load-bearing; stated the way a proof or a statute is stated |
+| **Do** | e₁ | 1 | the Good — gratitude | the Mathematician / the Statesman | **the Proof** | **clinical** — spare, exact, structural; stated the way a proof or a statute is stated |
 | **Re** | e₂ | 1 | the True — charity | the Philosopher / the Theologian | **the Sacred Trust** | **pastoral** — addressed to a person, in the second person where it can be; landing on meaning |
 | **Mi** | e₃ | 1 | the Beautiful — ordered love | the Scientist / the Artist | **the Test** | **lyric precision** — accuracy that is itself felt as delight |
 | **Fa** | e₁e₂ | 2 | Courage (Father × Son) | Mathematician × Theologian | Proof + Sacred Trust | **clinical → pastoral** — structure laid down plainly, then turned on the reader who must act on it |

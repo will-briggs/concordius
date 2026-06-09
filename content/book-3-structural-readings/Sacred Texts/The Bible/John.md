@@ -198,7 +198,7 @@ The Father's love (⟨·,·⟩) for the H-state domain (the world) takes the for
 
 The present-tense crossing of the constraint boundary: the shift in structural state that the catching orientation produces now, within the H₄₈ career, not only at its end.
 
-*Amen amen lego hymin* — the double-*amen* marks what follows as structurally load-bearing. *Ho ton logon mou akouo* (the one continuously attending to the Logos's structural output, present participle: ongoing, not once-and-finished).
+*Amen amen lego hymin* — the double-*amen* marks what follows as structurally central. *Ho ton logon mou akouo* (the one continuously attending to the Logos's structural output, present participle: ongoing, not once-and-finished).
 
 **"Has eternal life" (*echei zoen aionion*, present tense):**
 

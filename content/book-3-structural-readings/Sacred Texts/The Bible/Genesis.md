@@ -436,7 +436,7 @@ The "man" is identified at the narrative's end as Elohim in face-to-face encount
 
 **"He touched the socket of Jacob's hip"**
 
-*Vayigga' be-kaf yerecho* — he touched the hollow of his thigh. The touch is light (*naga'*) but structurally determinative: the hip socket is dislocated. What the night-long wrestling had not achieved, a touch achieves. The wound is not the result of the fight's intensity; it is an act of precision. The structural trace of the encounter is installed at the point of maximum structural vulnerability: the hip, the load-bearing joint, the structural center of the body's movement. The trace persists: Jacob limps on his hip after the encounter, and the dietary prohibition of verse 32 embeds the encounter's mark in communal practice.
+*Vayigga' be-kaf yerecho* — he touched the hollow of his thigh. The touch is light (*naga'*) but structurally determinative: the hip socket is dislocated. What the night-long wrestling had not achieved, a touch achieves. The wound is not the result of the fight's intensity; it is an act of precision. The structural trace of the encounter is installed at the point of maximum structural vulnerability: the hip, the joint the whole body rests on, the structural center of the body's movement. The trace persists: Jacob limps on his hip after the encounter, and the dietary prohibition of verse 32 embeds the encounter's mark in communal practice.
 
 **"I will not let you go unless you bless me"**
 
