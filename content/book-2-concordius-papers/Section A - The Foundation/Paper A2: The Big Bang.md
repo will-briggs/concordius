@@ -13,6 +13,7 @@
 ## Abstract
 
 The universe was once hot, dense, and far smaller than it is now, and it has been expanding and cooling ever since. That claim is not speculation; it is the convergent reading of three independent bodies of evidence — the recession of the galaxies, the cosmic microwave background, and the cosmic abundances of the light elements — and it places the beginning of the present expansion at **13.8 billion years ago** (13.787 ± 0.020 Gyr; Planck Collaboration 2020). This paper reconstructs that beginning as the science now has it: the evidence that there was a beginning at all; the earliest accessible epochs and the **Planck wall** beyond which general relativity and quantum mechanics, taken together, stop giving answers; the **inflationary** account of the first instant, which is the leading paradigm and remains observationally unconfirmed; and the present frontier, where the model is under real strain — the Hubble tension hardening into a crisis, hints from large galaxy surveys that the dark energy is not constant, and the surprising brightness of the earliest galaxies. The paper is candid about one thing in particular: modern cosmology does not claim to know what caused the Big Bang, or what, if anything, "before" it could mean. The cause of the beginning is not determined, and is widely held to be not determinable, by current methods.
+
 ---
 
 <figure>
