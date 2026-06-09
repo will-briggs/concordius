@@ -16,9 +16,9 @@ He believed that. He noticed that he had said it aloud, which he did not usually
 
 ---
 
-This one stuck in his head longer than any of the others — but only, he was careful to tell himself, because of the one loose thread he could not tuck back: *why bother?* Why would anyone go to such lengths — the Greek, the algebra, the years of it — to run a trick on one old man in one house? It made no sense as a con, and a con that makes no sense is a con with a piece missing, and a missing piece was precisely the kind of thing he had never in his life been able to leave alone.
+This one stuck in his head longer than any of the others — but only, he was careful to tell himself, because of the one loose thread he could not tuck back: *why bother?* Why would anyone go to such lengths to run a trick on one old man in one old house in one small town? It made no sense as a con, and a con that makes no sense is a con with a piece missing, and a missing piece was precisely the kind of thing he had never in his life been able to leave alone.
 
-He was still worrying at it when, one morning, he heard the plop of the mail through the slot and felt his stomach drop before he had a reason for it. Nothing about the sound was any different from any other morning. He knew anyway. He came out of the study, and there it was on the mat among the rest: typed address, no return, standard postage.
+He was still worrying at it when, one morning, he heard the plop of the mail through the slot and felt his stomach drop before he had a reason for it. Nothing about the sound was any different from any other morning. He felt it anyway. He came out of the study, and there it was on the mat among the rest: typed address, no return, standard postage.
 
 He had to admit it now. They had him. He was on the ride — and the thing about a ride is that the man on it is not the man working the levers. They had his evenings, and his attention, and his Greek lexicon down off the shelf for the first time in thirty years, and the next envelope half-opened in his mind before his hand was near it; whatever else was so, *they* were the ones pulling and he was the one being pulled. He bent down — slower than he once would have — took the envelope up off the mat, and carried it back to the study.
 
