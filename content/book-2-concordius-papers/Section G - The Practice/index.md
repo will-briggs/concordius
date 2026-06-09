@@ -66,13 +66,13 @@ The structural implication for the earthly octave: the mansion worlds are H₂�
 
 ## Summary of Contents
 
-**[[Paper G0: The Good-Centered Man|Paper G0: The Good-Centered Man]]**
+**[[Paper G0: The Gut-Orientation|Paper G0: The Gut-Orientation]]**
 *Man No. 1: the person whose center of gravity lies in the instinctive and moving centers — H₄₈-primary orientation, the volitional axis aligned almost entirely with H₄₈ attractors, the soul deposit minimal, the indwelling Adjuster always present and acting but contact near-zero because the noise floor is at its maximum. The ascending career is structurally available and not yet functionally available, and the gap between the two is the whole problem and the whole opportunity. The transition to Man 2 runs through Man 1's native channel — the body — as the entry point for H₂₄ contact: concrete, sustained physical practice oriented above the H₄₈ level, which the body can receive before the mind has conceptualized it.*
 
-**[[Paper G1: The True-Centered Man|Paper G1: The True-Centered Man]]**
+**[[Paper G1: The Heart-Orientation|Paper G1: The Heart-Orientation]]**
 *Man No. 2: the person whose center of gravity lies in the emotional center — the most direct H₂₄ receptor available, so catching is frequent and direct but unstable, because it rides the emotional field: when the field is bright catching flows, when dark it collapses. The soul deposit accumulates episodically, past Man 1's reach, but not yet to the coherence threshold, because it is not yet volitionally grounded. The defining condition is the dark night — not absence, but the exposure of the emotional center's dependence on confirmation — and the transition to Man 3 is the development of the intellectual center as a second, reliable channel that operates when feeling is dark as well as when it is light.*
 
-**[[Paper G2: The Beautiful-Centered Man|Paper G2: The Beautiful-Centered Man]]**
+**[[Paper G2: The Brain-Orientation|Paper G2: The Brain-Orientation]]**
 *Man No. 3: the person whose center of gravity lies in the intellectual center — the first type able to build a stable catching framework, a conceptual organization of Φ-proximal content that persists regardless of emotional state. That is his irreplaceable contribution, and his characteristic pathology is its calcification: the organizing tool becomes the organizing object, the map becomes the territory, the best account of ⟨·,·⟩ mistaken for contact with it. The transition to Man 4 is the most radical in the series — the intellectual center recognizing a limit that is not a deficiency to be corrected by better thinking, and recovering what was bypassed: emotional depth, the body's participation, and the humility that understanding is not possession.*
 
 **[[Paper G2½: The First Grade Change|Paper G2½: The First Grade Change]]**
@@ -98,6 +98,6 @@ The structural implication for the earthly octave: the mansion worlds are H₂�
 
 ---
 
-*Begin the Practice: [[Paper G0: The Good-Centered Man|Paper G0 — The Good-Centered Man]] →*
+*Begin the Practice: [[Paper G0: The Gut-Orientation|Paper G0 — The Gut-Orientation]] →*
 
 *Section G completes the Concordius series. The ascending career continues beyond the paper's end.*

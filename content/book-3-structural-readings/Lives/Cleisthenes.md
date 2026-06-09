@@ -12,4 +12,4 @@ The framework reads Cleisthenes alongside its own claim that the conditions of a
 
 *Confidence: concordance — the tribal reorganisation read as deliberate structural design distributing participation, the trellis for the Periclean flowering. Messenger: Cleisthenes himself is shadowy; the reforms reach us mainly through Herodotus and the Aristotelian Constitution of the Athenians.*
 
-*(Cross-reference: [[Lives/Solon|Solon]] (whose work he extended); [[Lives/Pericles|Pericles]] (the flowering it enabled); [[Paper G0: The Good-Centered Man]] on the conditions of catching.)*
+*(Cross-reference: [[Lives/Solon|Solon]] (whose work he extended); [[Lives/Pericles|Pericles]] (the flowering it enabled); [[Paper G0: The Gut-Orientation]] on the conditions of catching.)*

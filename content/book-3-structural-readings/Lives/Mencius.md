@@ -12,4 +12,4 @@ This sets Mencius against the rival view (later Xunzi's) that nature is bad and 
 
 *Confidence: concordance — the four sprouts read as the native catching-orientation, cultivation-not-imposition as the law of development, the good-but-obscured as privation. Messenger: the Mencius was compiled by his school; the voice is close to the man by ancient standards but still a disciple's record.*
 
-*(Cross-reference: [[Sacred Texts/Confucius — The Analects|Confucius]], whose line he extends; [[Paper G0: The Good-Centered Man]] on orientation as native; [[Paper D7: Evil]] on the good obscured, not absent.)*
+*(Cross-reference: [[Sacred Texts/Confucius — The Analects|Confucius]], whose line he extends; [[Paper G0: The Gut-Orientation]] on orientation as native; [[Paper D7: Evil]] on the good obscured, not absent.)*

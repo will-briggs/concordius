@@ -12,4 +12,4 @@ The deeper reading is in the contrast with what beat him. Rome lost battle after
 
 *Confidence: concordance — the tactical genius granted, the inability to build named as the limit; Rome's structural resilience read as durable strength over heroic gift. Messenger: Hannibal left no record of his own; he reaches us entirely through his enemies (Polybius, Livy), who had every reason to magnify both his menace and his defeat.*
 
-*(Cross-reference: [[Lives/Alexander the Great|Alexander the Great]] (the gift turned to conquest); [[Lives/Pericles|Pericles]] on the civic structure that holds; [[Paper G0: The Good-Centered Man]] on the built versus the heroic.)*
+*(Cross-reference: [[Lives/Alexander the Great|Alexander the Great]] (the gift turned to conquest); [[Lives/Pericles|Pericles]] on the civic structure that holds; [[Paper G0: The Gut-Orientation]] on the built versus the heroic.)*

@@ -1,6 +1,6 @@
-*← [[Paper G0: The Good-Centered Man|Paper G0: The Good-Centered Man]]*
+*← [[Paper G0: The Gut-Orientation|Paper G0: The Gut-Orientation]]*
 
-# Paper G1: The True-Centered Man
+# Paper G1: The Heart-Orientation
 
 ---
 
@@ -274,8 +274,8 @@ Gurdjieff describes a higher emotional center whose function is categorically di
 
 ---
 
-*Paper G1 of the Concordius series. Section G continues with Paper G2: The Beautiful-Centered Man.*
+*Paper G1 of the Concordius series. Section G continues with Paper G2: The Brain-Orientation.*
 
 ---
 
-*[[Paper G2: The Beautiful-Centered Man|Paper G2: The Beautiful-Centered Man]] →*
+*[[Paper G2: The Brain-Orientation|Paper G2: The Brain-Orientation]] →*

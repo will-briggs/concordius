@@ -1,4 +1,4 @@
-*← [[Paper G2: The Beautiful-Centered Man|Paper G2: The Beautiful-Centered Man]]*
+*← [[Paper G2: The Brain-Orientation|Paper G2: The Brain-Orientation]]*
 
 # Paper G3: The Courage-Centered Man
 

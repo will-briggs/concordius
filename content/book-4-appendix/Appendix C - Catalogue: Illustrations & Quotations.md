@@ -109,13 +109,13 @@ title: "Appendix C - Catalogue: Illustrations & Quotations"
 **Section G — The Practice — index**
 - *William Blake, Glad Day / The Dance of Albion* (c. 1796) &nbsp;·&nbsp; `blake-glad-day.jpg`
 
-**Paper G0: The Good-Centered Man**
+**Paper G0: The Gut-Orientation**
 - *Polychrome Bison* &nbsp;·&nbsp; `altamira-bison.jpg`
 
-**Paper G1: The True-Centered Man**
+**Paper G1: The Heart-Orientation**
 - *Giotto di Bondone, The Lamentation of Christ* (c. 1305) &nbsp;·&nbsp; `giotto-lamentation.jpg`
 
-**Paper G2: The Beautiful-Centered Man**
+**Paper G2: The Brain-Orientation**
 - *Hans Holbein the Younger, Portrait of Erasmus of Rotterdam* (c. 1523) &nbsp;·&nbsp; `holbein-erasmus.jpg`
 
 **Paper G2½: The First Grade Change**

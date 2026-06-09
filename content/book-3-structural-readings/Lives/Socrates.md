@@ -12,4 +12,4 @@ The *daimonion* — the inner voice that only ever forbade — is, structurally,
 
 *Confidence: concordance — the elenchus and the death read as the Man-3 limit and the courage-bivector; an independent witness (Face C1), no derivation claimed. Messenger: we have almost no Socrates except through Plato and Xenophon; the filter is heavy and named — what is read here is the figure the witnesses agree on, not a man we reach directly.*
 
-*(Cross-reference: [[Paper C0: The Good|Plato]], who transmits and extends him; [[Paper G2: The Beautiful-Centered Man]] on the Man-3 calcification; [[Paper C3: The Courageous]] on the principle held to the cost.)*
+*(Cross-reference: [[Paper C0: The Good|Plato]], who transmits and extends him; [[Paper G2: The Brain-Orientation]] on the Man-3 calcification; [[Paper C3: The Courageous]] on the principle held to the cost.)*

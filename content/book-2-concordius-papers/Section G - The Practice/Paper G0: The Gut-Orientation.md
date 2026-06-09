@@ -1,6 +1,6 @@
 *← [[Section F - The Ascension/index|Section F ← The Ascension]]*
 
-# Paper G0: The Good-Centered Man
+# Paper G0: The Gut-Orientation
 
 ---
 
@@ -249,8 +249,8 @@ The paper prescribes community practice where available. The structural reason i
 
 ---
 
-*Paper G0 of the Concordius series. Section G continues with Paper G1: The True-Centered Man.*
+*Paper G0 of the Concordius series. Section G continues with Paper G1: The Heart-Orientation.*
 
 ---
 
-*[[Paper G1: The True-Centered Man|Paper G1: The True-Centered Man]] →*
+*[[Paper G1: The Heart-Orientation|Paper G1: The Heart-Orientation]] →*

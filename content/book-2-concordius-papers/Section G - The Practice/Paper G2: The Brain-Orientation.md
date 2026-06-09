@@ -1,6 +1,6 @@
-*← [[Paper G1: The True-Centered Man|Paper G1: The True-Centered Man]]*
+*← [[Paper G1: The Heart-Orientation|Paper G1: The Heart-Orientation]]*
 
-# Paper G2: The Beautiful-Centered Man
+# Paper G2: The Brain-Orientation
 
 ---
 

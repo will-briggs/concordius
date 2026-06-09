@@ -12,4 +12,4 @@ The famous self-account — "at fifteen I set my heart on learning… at seventy
 
 *Confidence: concordance — ren as lateral ⟨·,·⟩, li as noise-floor discipline, the seventy-years saying as the ascending career; strong convergence with Section G (Face C1). Messenger: the Analects were compiled by disciples over generations; the voice is the school's memory of the master, already filtered.*
 
-*(Cross-reference: [[Aphorisms/The Golden Rule]]; [[Paper G0: The Good-Centered Man]] and the Section G practice; [[Sacred Texts/The Tao Te Ching|Lao Tzu]], the complementary Chinese witness.)*
+*(Cross-reference: [[Aphorisms/The Golden Rule]]; [[Paper G0: The Gut-Orientation]] and the Section G practice; [[Sacred Texts/The Tao Te Ching|Lao Tzu]], the complementary Chinese witness.)*

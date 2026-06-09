@@ -1,4 +1,4 @@
-*← [[Paper G2: The Beautiful-Centered Man|Paper G2: The Beautiful-Centered Man]]*
+*← [[Paper G2: The Brain-Orientation|Paper G2: The Brain-Orientation]]*
 
 # Paper G2½: The First Grade Change
 
@@ -14,7 +14,7 @@
 
 The first grade change — Gurdjieff's [[Appendix B - Lexicon#Mi-Fa Interval|Mi–Fa interval]] in the [[Appendix B - Lexicon#Heptaparaparshinokh|Heptaparaparshinokh]] — is the structural discontinuity between grade 1 and grade 2. It is the first qualitative gap in the ascending career: the place where the [[Appendix B - Lexicon#Catching|catching]] work of the first three stages reaches its limit, and where the next stage of the ascent cannot be generated from within the resources the person has already accumulated. The interval is not a deficiency in the practitioner. It is a structural feature of the scale: grade-1 and grade-2 elements belong to distinct algebraic classes whose boundary cannot be crossed by grade-1 operations alone. The external input is not supplementary encouragement — it is structurally required, in the same sense that no amount of real-axis computation will produce an imaginary eigenvalue. This paper derives the Mi-Fa interval from the [[Appendix B - Lexicon#Law of Seven|Law of Seven]]'s algebraic ground, identifies the four structural conditions for crossing it, and describes how it presents at each stage of the ascending career from Man 1 through Man 3/4. The condensed descriptions from Papers G0–G2's [[Appendix B - Lexicon#Law of Seven|Law of Seven]] tables are gathered here for structural comparison. The paper concludes with the connection to the [[Appendix B - Lexicon#Heptaparaparshinokh|Heptaparaparshinokh]]'s most fully developed historical instance: the forty days in the wilderness as the Mi-Fa crossing of the seventh bestowal's earthly octave, and the [[Appendix B - Lexicon#Spirit of Truth|Spirit of Truth]] as the universally available grade-2 source distributed since Pentecost.
 
-*Cross-reference: the algebraic derivation of the grade structure (the bestowal progression); the catching mechanics — amplitude, faith, transfiguration — through which the interval is crossed; [[Paper G2: The Beautiful-Centered Man|Paper G2]] (Man No. 3 — the primary Mi-Fa crossing in the individual ascending career); [[Paper G6½: The Octave Change|Paper G5½]] (the companion treatment of the second qualitative gap).*
+*Cross-reference: the algebraic derivation of the grade structure (the bestowal progression); the catching mechanics — amplitude, faith, transfiguration — through which the interval is crossed; [[Paper G2: The Brain-Orientation|Paper G2]] (Man No. 3 — the primary Mi-Fa crossing in the individual ascending career); [[Paper G6½: The Octave Change|Paper G5½]] (the companion treatment of the second qualitative gap).*
 
 ---
 
@@ -90,9 +90,9 @@ The individual papers' Law of Seven tables describe the Mi-Fa interval from with
 
 | Man | Mi-Fa content | Source |
 |---|---|---|
-| Man 1 (Paper G0) | The external input that carries the transition through the Mi plateau. Cannot be generated internally. May arrive through teacher, high-τ text, absorbing suffering, or Adjuster's direct action. | [[Paper G0: The Good-Centered Man]] |
-| Man 2 (Paper G1) | The dark night's first arrival: consolations withdraw; emotional center's automatic contact suspended; relational field does not resolve the darkness; nothing in Man 2's existing practice restores contact; the Adjuster provides endurance below the emotional center's detection. | [[Paper G1: The True-Centered Man]] |
-| Man 3 (Paper G2) | The encounter with genuine intellectual limit: adversary's framework that cannot be incorporated, or contact event that bypasses the intellectual center entirely (Damascus; Aquinas's vision; Weil in affliction). Cannot be generated from within the framework; arrives from outside it. | [[Paper G2: The Beautiful-Centered Man]] |
+| Man 1 (Paper G0) | The external input that carries the transition through the Mi plateau. Cannot be generated internally. May arrive through teacher, high-τ text, absorbing suffering, or Adjuster's direct action. | [[Paper G0: The Gut-Orientation]] |
+| Man 2 (Paper G1) | The dark night's first arrival: consolations withdraw; emotional center's automatic contact suspended; relational field does not resolve the darkness; nothing in Man 2's existing practice restores contact; the Adjuster provides endurance below the emotional center's detection. | [[Paper G1: The Heart-Orientation]] |
+| Man 3 (Paper G2) | The encounter with genuine intellectual limit: adversary's framework that cannot be incorporated, or contact event that bypasses the intellectual center entirely (Damascus; Aquinas's vision; Weil in affliction). Cannot be generated from within the framework; arrives from outside it. | [[Paper G2: The Brain-Orientation]] |
 
 The convergence across these three descriptions: in every case, the external input arrives at the level of the transition from below, the dominant center's detection or management function is bypassed, and what is required of the person is the maintenance of a volitional orientation whose result she cannot yet feel. In every case, the continuation of practice through the interval is the structure's requirement, not the consolation of seeing the crossing occur.
 

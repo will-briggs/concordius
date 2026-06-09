@@ -12,4 +12,4 @@ The death is the reading's point. When Syracuse fell, a Roman soldier found the 
 
 *Confidence: concordance — the work and the death read as the derivation-tier intellect at full absorption; the anecdotes used for their structural shape, their wording not vouched. Messenger: the famous sayings ("Eureka," "do not disturb my circles") are later traditions, not contemporary record; the mathematics, by contrast, survives in his own rigorous hand.*
 
-*(Cross-reference: [[Science/Euclid — The Elements|Euclid — The Elements]] (the derivation tier); [[Paper G2: The Beautiful-Centered Man]] on the Man-3 intellect; [[Science/The Unreasonable Effectiveness of Mathematics]].)*
+*(Cross-reference: [[Science/Euclid — The Elements|Euclid — The Elements]] (the derivation tier); [[Paper G2: The Brain-Orientation]] on the Man-3 intellect; [[Science/The Unreasonable Effectiveness of Mathematics]].)*
