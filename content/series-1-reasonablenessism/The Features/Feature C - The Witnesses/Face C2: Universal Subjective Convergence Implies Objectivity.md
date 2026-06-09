@@ -1,6 +1,10 @@
+---
+title: "Face C2: Universal Subjective Convergence Implies Objectivity (Draft)"
+---
+
 *← [[Face C1: Convergence of Independent Witnesses|Face C1: Convergence of Independent Witnesses]]*
 
-# Face C2: Universal Subjective Convergence Implies Objectivity
+# Face C2: Universal Subjective Convergence Implies Objectivity (Draft)
 
 ---
 

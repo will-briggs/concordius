@@ -1,6 +1,10 @@
+---
+title: "Face B1: Logic Where It Reaches; Concordance Where It Doesn't (Draft)"
+---
+
 *← [[Face B0: Explicit Confidence Tiers|Face B0: Explicit Confidence Tiers]]*
 
-# Face B1: Logic Where It Reaches; Concordance Where It Doesn't
+# Face B1: Logic Where It Reaches; Concordance Where It Doesn't (Draft)
 
 ---
 

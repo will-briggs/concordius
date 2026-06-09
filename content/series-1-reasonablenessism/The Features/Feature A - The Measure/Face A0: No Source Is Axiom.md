@@ -1,6 +1,10 @@
+---
+title: "Face A0: No Source Is Axiom (Draft)"
+---
+
 *← [[The Features/Feature A - The Measure/index|Feature A — The Measure]]*
 
-# Face A0: No Source Is Axiom
+# Face A0: No Source Is Axiom (Draft)
 
 ---
 

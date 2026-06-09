@@ -1,6 +1,10 @@
+---
+title: "Face A2: The Self-Sealing Test (Draft)"
+---
+
 *← [[Face A1: Provenance Is Irrelevant to Truth-Value|Face A1: Provenance Is Irrelevant to Truth-Value]]*
 
-# Face A2: The Self-Sealing Test
+# Face A2: The Self-Sealing Test (Draft)
 
 ---
 

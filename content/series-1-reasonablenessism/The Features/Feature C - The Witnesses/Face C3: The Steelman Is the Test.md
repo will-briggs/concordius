@@ -1,6 +1,10 @@
+---
+title: "Face C3: The Steelman Is the Test (Draft)"
+---
+
 *← [[Face C2: Universal Subjective Convergence Implies Objectivity|Face C2: Universal Subjective Convergence Implies Objectivity]]*
 
-# Face C3: The Steelman Is the Test
+# Face C3: The Steelman Is the Test (Draft)
 
 ---
 

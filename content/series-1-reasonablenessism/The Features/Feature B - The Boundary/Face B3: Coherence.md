@@ -1,4 +1,8 @@
-# Face B3: Coherence
+---
+title: "Face B3: Coherence (Draft)"
+---
+
+# Face B3: Coherence (Draft)
 
 ---
 

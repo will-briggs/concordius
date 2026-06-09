@@ -1,6 +1,10 @@
+---
+title: "Face C0: Personal Experience as Testimony (Draft)"
+---
+
 *← [[The Features/Feature C - The Witnesses/index|Feature C — The Witnesses]]*
 
-# Face C0: Personal Experience as Testimony
+# Face C0: Personal Experience as Testimony (Draft)
 
 ---
 

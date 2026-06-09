@@ -1,6 +1,10 @@
+---
+title: "Face B2: Minimum Necessary Miracles (Draft)"
+---
+
 *← [[Face B1: Logic Where It Reaches; Concordance Where It Doesn't|Face B1: Logic Where It Reaches; Concordance Where It Doesn't]]*
 
-# Face B2: Minimum Necessary Miracles
+# Face B2: Minimum Necessary Miracles (Draft)
 
 ---
 

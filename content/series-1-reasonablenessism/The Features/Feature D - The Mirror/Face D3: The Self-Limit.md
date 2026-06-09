@@ -1,4 +1,8 @@
-# Face D3: The Self-Limit
+---
+title: "Face D3: The Self-Limit (Draft)"
+---
+
+# Face D3: The Self-Limit (Draft)
 
 ---
 

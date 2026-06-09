@@ -1,6 +1,10 @@
+---
+title: "Face C1: Convergence of Independent Witnesses (Draft)"
+---
+
 *← [[Face C0: Personal Experience as Testimony|Face C0: Personal Experience as Testimony]]*
 
-# Face C1: Convergence of Independent Witnesses
+# Face C1: Convergence of Independent Witnesses (Draft)
 
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: Feature B — The Boundary
+title: Feature B — The Boundary (Draft)
 tags:
   - nav-order::2
 ---
 
-# Feature B — The Boundary
+# Feature B — The Boundary (Draft)
 
 ---
 

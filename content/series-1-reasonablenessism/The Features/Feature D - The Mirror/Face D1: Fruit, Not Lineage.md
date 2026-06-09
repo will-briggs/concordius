@@ -1,6 +1,10 @@
+---
+title: "Face D1: Fruit, Not Lineage (Draft)"
+---
+
 *← [[Face D0: The Stance Applies to Itself|Face D0: The Stance Applies to Itself]]*
 
-# Face D1: Fruit, Not Lineage
+# Face D1: Fruit, Not Lineage (Draft)
 
 ---
 

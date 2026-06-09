@@ -1,6 +1,10 @@
+---
+title: "Face A1: Provenance Is Irrelevant to Truth-Value (Draft)"
+---
+
 *← [[Face A0: No Source Is Axiom|Face A0: No Source Is Axiom]]*
 
-# Face A1: Provenance Is Irrelevant to Truth-Value
+# Face A1: Provenance Is Irrelevant to Truth-Value (Draft)
 
 ---
 

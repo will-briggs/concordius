@@ -1,4 +1,8 @@
-# Face D2: The Whole in the Part
+---
+title: "Face D2: The Whole in the Part (Draft)"
+---
+
+# Face D2: The Whole in the Part (Draft)
 
 ---
 
