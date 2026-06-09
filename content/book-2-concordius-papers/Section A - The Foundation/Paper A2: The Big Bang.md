@@ -155,7 +155,7 @@ The universe had a beginning, hot and dense and finite in the past, and the fact
 
 ## References
 
-1. **Companion papers**: *Modeling Reality as a Gelfand Triple* (Paper A0); *From the Cogito to the Logos* (Paper A1); *The Constraint Cascade* (Paper A2½); *The Long Ascent* (Paper A4).
+1. **Companion papers**: *Modeling Reality as a Gelfand Triple* (Paper A0); *From the Cogito to the Logos* (Paper A1); *The Constraint Cascade* (Papers A2A–A2D); *The Long Ascent* (Paper A4).
 
 2. **Planck Collaboration** (2020). "Planck 2018 results. VI. Cosmological parameters." *Astronomy & Astrophysics,* 641, A6. [Age 13.787 ± 0.020 Gyr; spatial flatness; the six-parameter ΛCDM model.]
 
@@ -183,8 +183,8 @@ The universe had a beginning, hot and dense and finite in the past, and the fact
 
 ---
 
-*Cross-reference: [[Modeling Reality as a Gelfand Triple]]; [[From the Cogito to the Logos]]; [[Paper A2½: The Constraint Cascade|Paper A2½: The Constraint Cascade]] (the structural descent the beginning initiates, and the three readings gathered); [[Paper A4: The Ascent of Man|Paper A4: The Ascent of Man]] (the material trail from the electroweak vacuum to us)*
+*Cross-reference: [[Modeling Reality as a Gelfand Triple]]; [[From the Cogito to the Logos]]; [[Paper A2A: The Constraint Cascade|Paper A2A: The Constraint Cascade]] (the structural descent the beginning initiates, and the three readings gathered); [[Paper A4: The Ascent of Man|Paper A4: The Ascent of Man]] (the material trail from the electroweak vacuum to us)*
 
 ---
 
-*[[Adam A2½: You Can't Get There From Here]] →*
+*[[Adam A2A: You Can't Get There From Here]] →*

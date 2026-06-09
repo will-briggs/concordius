@@ -12,4 +12,4 @@ His other poem, the Works and Days, completes the witness by bringing this down 
 
 *Confidence: concordance — the theogonic succession read as development toward order, Zeus-wedded-to-justice as order-that-must-be-just, the Works and Days as the same Dike at the human scale. Messenger: Hesiod stands at the edge of oral and written composition; the text is early, layered, and reaches us through a long transmission.*
 
-*(Cross-reference: [[Literature/Homer — The Iliad and the Odyssey|Homer]] (the contemporary fountainhead); [[Paper A2½: The Constraint Cascade]] on the cascade toward order; [[Literature/Sophocles — Antigone|Sophocles — Antigone]] on Dike above the city.)*
+*(Cross-reference: [[Literature/Homer — The Iliad and the Odyssey|Homer]] (the contemporary fountainhead); [[Paper A2A: The Constraint Cascade]] on the cascade toward order; [[Literature/Sophocles — Antigone|Sophocles — Antigone]] on Dike above the city.)*

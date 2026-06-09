@@ -12,4 +12,4 @@ The treatise's other great structure is the *hierarchies* — the ordered ranks 
 
 *Confidence: concordance — the via negativa read as noise-floor reduction in the intellect and the octave change setting-down of the apparatus; the hierarchies as an early cascade. Messenger: the author is anonymous (writing c. 500, pseudonymously as Paul's Athenian convert), so the work reaches us with its very identity a constructed mask — a heavy, declared filter.*
 
-*(Cross-reference: [[Mysticism/The Cloud of Unknowing|The Cloud of Unknowing]] (the same darkness); [[Paper F6½: The Father's Part]] on setting down the apparatus; [[Paper A2½: The Constraint Cascade]] on the graded descent.)*
+*(Cross-reference: [[Mysticism/The Cloud of Unknowing|The Cloud of Unknowing]] (the same darkness); [[Paper F6½: The Father's Part]] on setting down the apparatus; [[Paper A2B: The Constraint Cascade]] on the graded descent.)*

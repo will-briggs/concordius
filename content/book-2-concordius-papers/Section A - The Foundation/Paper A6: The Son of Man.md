@@ -135,7 +135,7 @@ So the ground holds the world of the life — the emperor's reign, the prefect, 
 
 ## References
 
-1. **Companion papers:** Papers A3–A5 (the three lenses, each ending at the birth — the Word made flesh, the body born, the someone born); Paper A2½ (descent as densification; the kenotic mechanism); Paper 13 (the geometry of the table); Paper A6½ (the tomb); Paper A7 (the morning). Appendix B (the felt-spectrum; the antipode at −1).
+1. **Companion papers:** Papers A3–A5 (the three lenses, each ending at the birth — the Word made flesh, the body born, the someone born); Paper A2B (descent as densification; the kenotic mechanism); Paper 13 (the geometry of the table); Paper A6½ (the tomb); Paper A7 (the morning). Appendix B (the felt-spectrum; the antipode at −1).
 
 2. **Scripture:** Philippians 2:6–8 (the kenotic hymn, the spine); Luke 1:31, 38 (the announcement); Luke 2:7 (the birth); Luke 2:49 (the boy in the Temple); Matthew 3:16–17 (the baptism); Mark 10:43–45 (the ministry); Luke 9:51; Zechariah 9:9; Matthew 21:5 (the entry); Luke 22:19; John 13:4–5 (the supper and the washing of feet); Matthew 27:46; Psalm 22:1 (the cry); John 19:30 (*tetelestai*); Luke 23:46 (the commended spirit).
 

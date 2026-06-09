@@ -1,6 +1,6 @@
 *← [[Paper A2: The Big Bang|Paper A2: The Big Bang]]*
 
-# Adam A2½: You Can't Get There From Here
+# Adam A2A: You Can't Get There From Here
 
 Adam read the paper through, sat back in his chair, and harrumphed.
 
@@ -44,4 +44,4 @@ Joe said nothing for a moment. He had seen that light come up in Adam's eye perh
 
 ---
 
-*[[Paper A2½: The Constraint Cascade|Paper A2½: The Constraint Cascade: Descent as Densification]] →*
+*[[Paper A2A: The Constraint Cascade|Paper A2A: The Constraint Cascade: The Algebra and Its Author]] →*

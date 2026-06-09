@@ -41,7 +41,7 @@ title: "Appendix C - Catalogue: Illustrations & Quotations"
 - *J. M. W. Turner, Light and Colour (Goethe's Theory) — The Morning after the Deluge — Moses Writing the Book of Genesis* (1843) &nbsp;·&nbsp; `turner-light-and-colour.jpg`
 - *WMAP nine-year cosmic microwave background* (NASA / WMAP Science Team, 2012) &nbsp;·&nbsp; `wmap-cmb-9yr.png`
 
-**Paper A2½: The Constraint Cascade: Descent as Densification**
+**Paper A2A–A2D: The Constraint Cascade**
 - *William Blake, The Ancient of Days* (1794) &nbsp;·&nbsp; `blake-ancient-of-days.jpg`
 - *Michelangelo, The Separation of Light from Darkness* (Sistine Chapel, 1512) &nbsp;·&nbsp; `michelangelo-separation.jpg`
 - *The dispersion of white light through a prism* (after Newton's Opticks, 1704) &nbsp;·&nbsp; `newton-prism.jpg`
@@ -373,7 +373,7 @@ title: "Appendix C - Catalogue: Illustrations & Quotations"
 **Deuteronomy 29:29** · *Paper D7: Evil*
 > The secret things belong unto the LORD our God: but those things which are revealed belong unto us and to our children for ever.
 
-**Paul Dirac** · *Paper A2½: The Constraint Cascade*
+**Paul Dirac** · *Paper A2B: The Constraint Cascade*
 > God used beautiful mathematics in creating the world.
 
 **Ecclesiastes 4:5–6** · *Paper E5: Sloth and Overwork*
@@ -382,7 +382,7 @@ title: "Appendix C - Catalogue: Illustrations & Quotations"
 **Meister Eckhart**, *Sermon 57* · *Paper A1: Naming the Unnameable*
 > The eye through which I see God is the same eye through which God sees me; my eye and God's eye are one eye, one seeing, one knowing, one love.
 
-**Albert Einstein**, *The World As I See It (1931)* · *Paper A2½: The Constraint Cascade*
+**Albert Einstein**, *The World As I See It (1931)* · *Paper A2A: The Constraint Cascade*
 > The fairest thing we can experience is the mysterious. It is the fundamental emotion which stands at the cradle of true art and true science.
 
 **T. S. Eliot**, *"Little Gidding" (1942)* · *Paper A7: The Resurrection*
@@ -460,7 +460,7 @@ title: "Appendix C - Catalogue: Illustrations & Quotations"
 **John 7:38** · *Paper F5: The Overflow*
 > He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water.
 
-**John Archibald Wheeler** · *Paper A2½: The Constraint Cascade*
+**John Archibald Wheeler** · *Paper A2A: The Constraint Cascade*
 > Behind it all is surely an idea so simple, so beautiful, that when we finally discover it, we will all say, 'How could it have been otherwise?'
 
 **Kena Upanishad 2:3** · *Paper A1: Naming the Unnameable*
@@ -529,7 +529,7 @@ title: "Appendix C - Catalogue: Illustrations & Quotations"
 **Psalm 84:7** · *Paper F0: The Four Instruments*
 > They go from strength to strength, every one of them in Zion appeareth before God.
 
-**Psalm 90:12** · *Paper A2½: The Constraint Cascade*
+**Psalm 90:12** · *Paper A2C: The Constraint Cascade*
 > So teach us to number our days, that we may apply our hearts unto wisdom.
 
 **Revelation 21:4–5** · *Paper A7: The Resurrection*
