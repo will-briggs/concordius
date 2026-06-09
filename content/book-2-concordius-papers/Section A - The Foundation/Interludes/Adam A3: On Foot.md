@@ -12,7 +12,7 @@ He had come to the cascade to spring a trap. He had told Joe precisely where it 
 
 *That is not the behaviour of a crank.* He had thought it once already, two papers back, and tried to take it back. This time he let it stand.
 
-He was honest enough to name the thing he was feeling, here in a room with the curtains half-drawn and no one to perform it for. It was the particular vertigo of the hunter who lifts his eyes from the trail and cannot, for a moment, say which of the two of them has been following the other down it. He had been so sure he was the one tracking.
+He looked down at the red pencil. He had carried it to the desk out of fifty years' habit — the way he had taken it up for every paper he ever sat down to open a vein in — and across four parts and the whole long afternoon he had not once set it to the page. The point was as sharp as when he started. He laid it back in the tray, and left it there.
 
 He did not concede. A thing can be elegant, and consilient, and scrupulously honest about its own limits, and still not be true — he had built his whole life on the gap between the beautiful and the so, and the gap was still there, and into it he could still fit the entire weight of his unbelief. It fit, he noticed. It only fit a little more closely than it had a week ago.
 
