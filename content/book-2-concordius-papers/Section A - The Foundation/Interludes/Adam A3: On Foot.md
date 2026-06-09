@@ -20,7 +20,7 @@ It was not built for him. And what he felt, looking at the squared stack, was no
 
 ---
 
-The next time Joe came by, Adam was in his usual place at the desk, the study as tidy as ever, the mailed papers nowhere in sight, bent over some great tome and laying small notes into its margins with the red pencil. After a while Joe asked about the last one — the paper Adam had told him was a trick.
+The next time Joe came by, Adam was in his usual place at the desk, the study as tidy as ever, the mailed papers nowhere in sight, bent over some great tome and laying small notes into its margins with the red pencil. After a while Joe asked about the last paper — the one Adam had told him was a trick.
 
 "The last —? Oh. Those anonymous things in the post." He waved the pencil. "Ha. I worked it out. One long con, run on an old man they thought too far gone not to be suckered in."
 
@@ -30,7 +30,7 @@ Joe knew his friend better than Adam knew himself. Adam wore his tells the way a
 
 "I see," said Joe.
 
-And he did see. He had known Adam since they were nineteen, and had heard him be *done* with a good many things he was not done with; the tell was never in what Adam said but in how thoroughly he said it — a man does not deliver a three-part verdict on a thing he has stopped thinking about, and he does not keep the red pencil sharp for it. Joe looked at the too-tidy desk, and at the drawer, and said none of it. He finished his coffee, made some remark about the weather turning, and let himself out — and would not, walking to his car, have taken the far side of a bet that Adam would have the next one open before the week was out.
+And he did see. He had known Adam since they were young men, and had heard him be *done* with a good many things he was not done with; the tell was never in what Adam said but in how thoroughly he said it — a man does not deliver a three-part verdict on a thing he has stopped thinking about. Joe looked at the too-tidy desk, and at the drawer, and said none of it. He finished his coffee, made some remark about the weather turning, and let himself out.
 
 ---
 
