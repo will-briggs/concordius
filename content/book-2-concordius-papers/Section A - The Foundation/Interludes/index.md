@@ -17,3 +17,4 @@ title: Interludes
 - **[[Adam A4: The Old Lexicon]]** — Adam checks their Greek.
 - **[[Adam A5: The Same Room]]** — Adam sees where it is going.
 - **[[Adam A6: The Unlocked Door]]** — Adam stops looking for the seam.
+- **[[Adam A6½: The Dereliction at -1]]** — Adam was not ready for the cry.

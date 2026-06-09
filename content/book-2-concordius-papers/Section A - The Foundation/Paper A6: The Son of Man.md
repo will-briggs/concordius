@@ -141,4 +141,4 @@ So the ground holds the world of the life — the emperor's reign, the prefect, 
 
 ---
 
-*[[Paper A6½: The Tomb|Paper A6½: The Tomb]] →*
+*[[Adam A6½: The Dereliction at -1]] →*

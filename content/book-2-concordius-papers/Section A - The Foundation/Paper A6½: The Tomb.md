@@ -1,4 +1,4 @@
-*← [[Paper A6: The Son of Man|Paper A6: The Son of Man: Maximum Kenosis]]*
+*← [[Adam A6½: The Dereliction at -1]]*
 
 # Paper A6½: The Tomb
 
