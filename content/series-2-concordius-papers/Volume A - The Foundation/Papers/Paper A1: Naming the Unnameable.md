@@ -555,7 +555,7 @@ And the oldest and dearest name His friends have found for that regard — the n
 
 ---
 
-*Cross-reference: [[Modeling Reality as a Gelfand Triple]] — the companion paper; [[The Structural Reading]] — the hermeneutical principle; [[Physics Concordance]] — Gelfand Triple entry and complete mapping table; [[Episodes/Season 1/S1E2/Hilbert Space — Notes]] — the derivations in episode-preparatory form*
+*Cross-reference: [[Paper A0: Modeling Reality as a Gelfand Triple]] — the companion paper; [[Appendix B - Lexicon]] — the structures named here, defined; [[Appendix D - Machine-readable Concordius Framework]] — the complete mapping table*
 
 ---
 

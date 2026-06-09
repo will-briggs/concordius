@@ -183,7 +183,7 @@ The universe had a beginning, hot and dense and finite in the past, and the fact
 
 ---
 
-*Cross-reference: [[Modeling Reality as a Gelfand Triple]]; [[From the Cogito to the Logos]]; [[Paper A2A: The Constraint Cascade|Paper A2A: The Constraint Cascade]] (the structural descent the beginning initiates, and the three readings gathered); [[Paper A4: The Ascent of Man|Paper A4: The Ascent of Man]] (the material trail from the electroweak vacuum to us)*
+*Cross-reference: [[Paper A0: Modeling Reality as a Gelfand Triple]]; [[Paper A1: Naming the Unnameable]]; [[Paper A2A: The Constraint Cascade|Paper A2A: The Constraint Cascade]] (the structural descent the beginning initiates, and the three readings gathered); [[Paper A4: The Ascent of Man|Paper A4: The Ascent of Man]] (the material trail from the electroweak vacuum to us)*
 
 ---
 
