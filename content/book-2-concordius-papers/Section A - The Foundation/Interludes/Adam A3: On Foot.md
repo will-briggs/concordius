@@ -12,7 +12,7 @@ He had come to the cascade to spring a trap. He had told Joe precisely where it 
 
 *That is not the behaviour of a crank.* He had thought it once already, two papers back, and tried to take it back. This time he let it stand.
 
-He looked down at the red pencil. He had carried it to the desk out of fifty years' habit — the way he had taken it up for every paper he ever sat down to open a vein in — and across four parts and the whole long afternoon he had not once set it to the page. The point was as sharp as when he started. He laid it back in the tray, and left it there.
+He looked down at what the red pencil had done. He had worked the margins all afternoon, the way he worked every paper — a query here, an objection there, and three separate places where he had written in what he was certain was the correction and then, a paragraph on, had to draw a line back through his own hand because the page had got there before him. The margins were dense with him. And yet, turning back through the four parts now, he could not find among all those marks the *one* mark: the single clean stroke through the sentence that takes the rest of it down. He had filled the margins with questions. He had not found the hole.
 
 He did not concede. A thing can be elegant, and consilient, and scrupulously honest about its own limits, and still not be true — he had built his whole life on the gap between the beautiful and the so, and the gap was still there, and into it he could still fit the entire weight of his unbelief. It fit, he noticed. It only fit a little more closely than it had a week ago.
 
