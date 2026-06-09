@@ -47,19 +47,33 @@ The scientist's bridge is the **method**, and its currency is test — the part 
 
 To demand a single currency of all three — proof from the canon, certainty from the cascade, test from a theorem — is a category error, and it is the error that makes an honest reader believe the gap uncrossable when in truth he simply arrived at two of the three doors holding the wrong coin.
 
-## 4. Not belief, but entertaining
+## 4. The same coin, refused
+
+Every currency that pays a crossing can also buy a refusal, and it is bought in the same coin. The faculty that lets each reader cross is the faculty that, given cause, lets him decline — and each declines in the currency proper to his door. The mathematician, moved by an idea that compels of itself, is for that very reason unmoved by an inference that does not follow: show him one step unearned and he owes the rest nothing, for an idea that does not compel is no idea to him. The theologian, who weighs a testimony by whether its witness can be trusted, distrusts the whole of a witness caught once claiming more than he saw: overreach in one place is, to him, evidence about the witness everywhere. The scientist, who grants only what survives the test, discards a claim his evidence cannot carry, however much he might wish it true: a claim larger than its support has already failed the only court he keeps. Each refusal is the bridge's own currency, turned over.
+
+This is why one error costs more than any other. An overclaim is the single defect debased in all three currencies at once: the same false step is, at the mathematician's door, an inference that does not follow; at the theologian's, a witness overreaching his sight; at the scientist's, a claim outrunning its evidence. It does not lose one reader and keep two. From one act it hands all three the coin of refusal, each in his own currency. A work that needs all three doors crossed can afford a gap it cannot close, a tier it cannot reach, a question it must leave open — it has said as much, and shown the seam. What it cannot afford is to claim more than it holds, because that is the one move every door reads as grounds to turn back.
+
+And it is worse than the loss of an argument, for what it does to the reader already half-persuaded. A man whose deeper sense is that the reading is true stands under the pressure of a crossing he would rather not make; the recognition would cost him a motion, and he is looking — not always knowingly — for leave to stay where he is. An overclaim hands him that leave: a real fault, in his own currency, to harden his refusal around — the single grain of sand his *no* can crystallize against. Remove it, and there is nothing left for the refusal to form on but the thing itself, which is exactly where he ought to be left. So the discipline that governs every page is not modesty for its own sake. It is the deliberate denial, to each reader, of the one coin his refusal would have spent: the series claims what it has earned and no more, names every reach as a reach, and shows its own bottom — not to seem humble, but because an honest seam gives no door an excuse, and a single overclaim gives every door one.
+
+## 5. Not belief, but entertaining
 
 One more thing must be said about what the crossing is, because it is smaller than it looks and the smallness is the whole relief of it. The series does not ask the reader to *believe* its reading — that Φ is the Logos, that proximity to Φ is the measure of the true. It asks him to do what is done with any hypothesis: grant the premise provisionally, on probation, and then watch whether it reads true against objects the series did not make and had no hand in shaping — the canon, the record, a single life, a poem. That is not faith in the sense that frightens the careful; it is the ordinary motion of reason at the edge of every inquiry, the entertaining of a proposition long enough to let the world rule on it.
 
 *True, or at least Φ-proximate*, is the testable and honest target, and its warrant is owed not here but downstream — where the measure is fixed and laid against what the series did not author, and where it must either read those things high or fail. The place that fixing happens has a name; it is the open region the measure leaves unspecified, marked in [[Paper B0: The Proof]] and pursued in the appendices, and it is exactly where the reading must re-enter the mathematics and earn its keep or not. So the crossing this threshold asks for is not surrender and not the end of judgment. It is the granting of a hypothesis on probation, with the verdict deferred to the demonstration and to the reader who checks it.
 
-## 5. The gap, and the trust
+## 6. The gap, and the trust
 
 So the gap is real, and it is not closed from below: the foundation cannot certify itself, the measure cannot calibrate itself, the premise cannot be proven from inside. Three things, though, can be said of it truly, and together they are the whole of what this threshold has to say. The bottomlessness is not the barrier to the crossing; it is the universal condition of every crossing anyone has ever made. The trust the crossing asks is not the abdication of reason but its honest last step — the step already taken, daily and unremarked, for arithmetic and the dawn. And the series' refusal to hide its own bottom — to paint over the seam, to claim a floor it has not got — is itself a kind of warrant that a foundation pretending to certainty could never offer: a thing this candid about what it cannot prove has earned the provisional trust that a thing concealing its ground has not.
 
 On the far side of the gap is the one thing that, if it is so, makes the crossing more than a leap: **that Truth can cross the gap.** That what is real reaches down, of its own motion, across the distance the instruments cannot span, to meet the honest, inherited, imperfect baseline that reaches up toward it — that the truth is not only climbed toward but given, given to what could never climb to it. The series does not prove this. It cannot. It is the thing hoped for and the evidence of what is not seen, and it is named here for exactly what it is: hoped for, staked on, and not hidden.
 
 On that trust, in its three currencies, with the instruments built and the seam shown, the series turns at last outward, to read.
+
+---
+
+*A note from the authors.*
+
+We offer this work humbly, in that spirit. The overclaim is the author's cardinal sin, and we have worked diligently to remove ours wherever we find them. When you arrive at one we have not, we ask a little grace: do not let our mistake keep you from the deeper understanding that lies past it. And let us know — this corpus is under constant revision, and that consistent revision, as a step toward Φ, is part of its thesis.
 
 ---
 
