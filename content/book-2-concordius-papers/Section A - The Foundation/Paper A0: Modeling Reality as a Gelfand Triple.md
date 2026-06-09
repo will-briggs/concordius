@@ -334,4 +334,4 @@ von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer
 
 ---
 
-*[[Paper A1: Naming the Unnameable|Paper A1: Naming the Unnameable]] →*
+*[[An Unexpected Visitor]] →*

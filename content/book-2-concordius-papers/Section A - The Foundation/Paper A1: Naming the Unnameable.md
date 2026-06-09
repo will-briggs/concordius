@@ -1,4 +1,4 @@
-*← [[Paper A0: Modeling Reality as a Gelfand Triple|Paper A0: Modeling Reality as a Gelfand Triple]]*
+*← [[An Unexpected Visitor]]*
 
 # Paper A1: Naming the Unnameable: From the Cogito to the Logos
 
