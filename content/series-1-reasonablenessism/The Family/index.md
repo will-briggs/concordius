@@ -86,6 +86,18 @@ Here the pair is a parent-and-child bloc and the relationship is the third perso
 
 ---
 
+## The moment, and what a fight is
+
+The cross-terms above are static — a relationship's standing shape. The family *in time* is a sequence of moments, and the full signature of a moment is enormous: the compression of everything that led to it and the whole tree of what can follow — every state, every traversal, every decision made or still open — a node with a lawful drift out and free branch-points, the path forward open and the path back partly erased by the lossiness of actualization ([[Paper A2C: The Constraint Cascade|A2C]]). The simplification that makes a moment legible is to keep only the **signs**: at any instant each member is + or − on the Good, on the True, on the Beautiful — one of **2³ = 8** states (the sign-octants of g; magnitudes dropped). The family's momentary signature is the **combination** of its members' sign-states.
+
+Peace, in these terms, is the family in a **coherent superposition** — the members summing to one chord, the cross-terms constructive (§§1–6 positive). **A fight is decomposition.** It is the exact dynamic of the interference math: when a member's sign flips negative on an axis where the others are positive, that mode's cross-term turns negative, the joint state interferes destructively there, and the coherent whole resolves back into the separate, clashing components it was built from. Not a metaphor — decoherence: the superposition decomposing into its own basis.
+
+And because g is three, **a fight is located.** It decomposes on the *specific mode* where the sign clashed — so every fight, beneath its content, is a fight on the Good, or the True, or the Beautiful (the provision and gratitude; the honesty and charity; the order and beauty), and which one is readable from which sign flipped. The repair is the same mode: the member who went − turns + again on that one axis, the cross-term re-constructs, the chord re-coheres. A family does not resolve a fight in general; it re-coheres on the mode that decomposed.
+
+*(The 8 is 2³, and the pull to read it onto the eight elements of Cl(3,0) is resisted until it earns the reading — for now it is only the sign-octants.)*
+
+---
+
 ## What is assigned, and what is open
 
 Everything above is the **structure** of the cross-term, and it holds for any states with the stated signs of g and ⊥ — which is why the six were writable now, before the input model. What is **not** assigned: the concrete spectral signatures — what ψ_C, ψ_F, ψ_M actually *are* for real people, and from what (conception chart? Mode? something else). Until that is fixed, the readings give the *shape* of each relationship and the *conditions* (source-bonded vs horizontal, g positive vs negative), not numbers. The directional-effect model (alignment × susceptibility) is likewise sketched, not derived in full.
