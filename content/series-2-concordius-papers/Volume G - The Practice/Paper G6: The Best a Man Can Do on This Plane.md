@@ -76,6 +76,8 @@ The full structural reading of that generative summit — the spousal bond as �
 
 *Placed 2026-06-09 from the pre-binding Paper 19 (Structural-Candidates), per Will's instruction — the relational summit of G6, honored equal to the individual heroes and uniquely generative. To be woven into this paper's voice in a later pass; the Confidence block is updated at weaving, not before. Tiers as in the source.*
 
+> **Note for future editing (the weave).** When this is woven into G6's voice: fold the placed reading's internal sections — the spousal bond as ⟨·,·⟩ in the social register, the child as a genuinely new spectral entity, the family as its own Law of Three and Law of Seven, the parental vocation as catching-environment management — into the paper's running prose rather than leaving them as a self-contained appendix; the §5 framing above is the seam to grow from. The §6 closer ("The one thing left") already extends to the relational summit without change: the family, like the nine, reaches the height of the plane and does not cross what lies past it by its own power — the octave change of G6½ is owed to it too. At weaving, update the Confidence block to carry the family material and add the relational/generative figure to the descriptor. Keep the moral weight Will set: the relational path is honored as *equal*, never lesser, and is the single generative summit — the only one that makes more climbers.
+
 ### The Question
 
 What is a family, structurally? Not sociologically, not legally, not biologically — but in terms of the framework's account of eigenvalue populations, catching environments, and Adjuster-bearing beings in relation.
