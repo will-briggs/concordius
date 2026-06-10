@@ -273,4 +273,4 @@ And it is held at its tier. The structure can say what each of these events *wou
 
 ---
 
-*[[Volume B - The Inheritance/index|Volume B → The Inheritance]] →*
+*[[Adam A7A: The Last Page|Adam A7A: The Last Page]] →*
