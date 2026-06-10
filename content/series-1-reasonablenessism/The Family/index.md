@@ -114,6 +114,26 @@ This sets the posture, by the hermeneutic of the ancients: where our overlay mee
 
 ---
 
+## The two eights resolved, and the three-spine concordance
+
+The "two eights" are not a tension to smooth; they are **two layers the framework already runs**, and naming them dissolves the moral/amoral confusion. The **graded** eight — scalar + the Heptad (1·3·3·1) — is the **Modes / virtues** ([[Paper G6 - Humility|Volume G]], Modes 1–7), and it is **moral**: the structure of the Good and the turning toward it. The **octant** eight — the sign-vectors of the three generators — is the **relational** layer (this file; two trigrams meeting in a hexagram), and it is **amoral**: yin and yang, the signs the algebra cannot rank. Morality belongs to the *Mode* layer, not the relational one — which is exactly why the per-axis sign came out amoral, and why moralising it imported one layer's content into the other.
+
+The two layers share one spine — the three generators / the three lines / the I Ching's **Three Powers** — and the concordance is one the corpus already holds:
+
+| position | Power | Person | Transcendental | Centre / Mode |
+|---|---|---|---|---|
+| **bottom** | Earth | Father (the Ground) | the Good | Gut — gratitude (Mode 1) |
+| **middle** | Man | Son | the True | Heart — charity (Mode 2) |
+| **top** | Heaven | Spirit | the Beautiful | Brain — ordered love (Mode 3) |
+
+So the **line-position test passes.** The I Ching's ordered ascent — Earth beneath, Man between, Heaven above — lands on the framework's standing order (Gut · Heart · Brain = Father · Son · Spirit = Good · True · Beautiful), the Father read as the *Ground* at the base, the Spirit as the heavenly at the top. The older structure *confirmed* our ordering rather than us imposing one.
+
+And it cost **no new machinery**, which is the standard: the I Ching's relational layer (the octant trigrams, the 64 hexagrams) and the virtue layer (the graded Heptad, the seven Modes) are **two faces of one algebra** — the sign-vectors and the graded basis of Cl(3,0) — on a shared three-generator spine. The framework added nothing; it registered that the two were one object read two ways.
+
+*Still open — the sharpest test: the **trigram attributes** (Heaven, Earth, Fire, Water, Thunder, Wind, Mountain, Lake) against the eight octants of (Good, True, Beautiful). A clean sort validates the spine from a second direction; a forced one is the disconfirmation. Unrun, claimed as neither.*
+
+---
+
 ## What is assigned, and what is open
 
 Everything above is the **structure** of the cross-term, and it holds for any states with the stated signs of g and ⊥ — which is why the six were writable now, before the input model. What is **not** assigned: the concrete spectral signatures — what ψ_C, ψ_F, ψ_M actually *are* for real people, and from what (conception chart? Mode? something else). Until that is fixed, the readings give the *shape* of each relationship and the *conditions* (source-bonded vs horizontal, g positive vs negative), not numbers. The directional-effect model (alignment × susceptibility) is likewise sketched, not derived in full.
