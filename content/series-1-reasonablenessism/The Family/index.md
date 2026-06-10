@@ -94,7 +94,21 @@ Peace, in these terms, is the family in a **coherent superposition** — the mem
 
 And because g is three, **a fight is located.** It decomposes on the *specific mode* where the sign clashed — so every fight, beneath its content, is a fight on the Good, or the True, or the Beautiful (the provision and gratitude; the honesty and charity; the order and beauty), and which one is readable from which sign flipped. The repair is the same mode: the member who went − turns + again on that one axis, the cross-term re-constructs, the chord re-coheres. A family does not resolve a fight in general; it re-coheres on the mode that decomposed.
 
-*(The 8 is 2³, and the pull to read it onto the eight elements of Cl(3,0) is resisted until it earns the reading — for now it is only the sign-octants.)*
+*(The 8 is 2³. The pull to read it onto the eight *elements* of Cl(3,0) is resisted — those share only the number — but the eight *trigrams* are another matter; see below.)*
+
+---
+
+## The dyad's census, and the I Ching
+
+Take the couple at a moment in the sign-model. Each partner is one of **2³ = 8** octants; the pair is therefore one of **8 × 8 = 64** joint states. Per mode the two signs match (++ or −−, the cross-term constructive) or clash (+− or −+, the fight): two of the four cohere, two decompose. The census over the three axes runs **8 / 24 / 24 / 8** — eight couples matched on all three (both in the same octant, fully at peace), twenty-four with one fault line, twenty-four with two, eight opposite on everything.
+
+"In love," read strictly as coherent on all three, is those **8** same-octant states. And the drop that the count is for: of the eight, exactly **one** — (+ + +) — is love turned wholly toward the Good; **one** — (− − −) — is total devotion turned wholly away, the bonded, fallen pair who hold each other all the way down; the middle six are real, peaceful bonds off the Good on a mode or two. Coherence cannot tell love from complicity, because (++) and (−−) share a sign-product; only the sign can. Eight ways to be perfectly in love — one of them also good.
+
+**This is the I Ching.** One person — three binary lines — is a **trigram** (the eight *bagua* are the eight octants); a couple — two trigrams, upper and lower — is a **hexagram**, and there are sixty-four. The *Book of Changes* reads a hexagram as the situation between two threefold forces, exactly as the couple is read here, and its **changing line** — one line flipping, the hexagram becoming another — is, line for line, a sign flipping on one axis: the fight, the decomposition, the state in transit. The match is **structural, not numerical**: a trigram *is* three binary lines, so it shares the skeleton (the 2⁶ states of two three-bit entities, read relationally), where the eight algebra-elements shared only the number. By the hermeneutic of the ancients, this is the dyad's state-space, built and named long ago.
+
+The discipline marks the seam, because here is exactly where a forced concordance would slip in. The I Ching's binary is **yin/yang — complementary** (receptive and active, both whole: Earth ☷ is not evil, it is the yielding); ours is **moral** (toward or away from the Good). The skeleton transfers and the relational reading transfers; **reading our +/− as yang/yin does not** — it would paint a moral polarity over a complementary one. Whether the eight trigrams' own attributes map onto the three generators is the **open test** — a real validation if they do, a real disconfirmation if they don't, claimed here as neither.
+
+*Tier: the 8×8 skeleton and the changing-line dynamic are a genuine structural correspondence (concordance). The line/trigram → mode semantics are **unearned until tested**, and the moral-vs-complementary mismatch is a standing caution against reading the two binaries as one.*
 
 ---
 
