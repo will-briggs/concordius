@@ -32,6 +32,16 @@ The first grade change — the turn from the company of witnesses to the company
 
 ---
 
+## The Mi/Fa gap of the super-octave — where speculation enters
+
+The seven volumes are themselves a super-octave: **A (Do) · B (Re) · C (Mi) — D (Fa) · E (Sol) · F (La) — G (Si)**. Volume D opens the second half, and the C → D boundary is the super-octave's **first grade change — its Mi/Fa interval** (named at the head of this volume). By the Law of Seven that interval cannot be crossed from within the ascending notes; it requires an input from outside them. That input, here, is **speculation** — and it is admitted deliberately, in the open, exactly at this gap.
+
+**Volumes A–C held within the norm.** They drew only on what a reasonable person could grant from the conservative reading of **mathematics, science, and Scripture** — no testimony that varies on those accounts, no Urantia content, no astrological reading, no Gurdjieff carried as ground. That restraint is what makes A–C a foundation a skeptic can stand on.
+
+**From Volume D onward the corpus admits the wider witness set** — the **Urantia** testimony, the **astrological / natal charts**, **Gurdjieff**, **speculative mathematics and science**, and **non-canonical revealed texts** (and, where they earn it, sources such as *Private Dowding*, Maria Valtorta, and Jane Roberts). This is not a loosening of the discipline but its next move: each speculative source is **named as speculation** and tiered as such — never worn as the chain's own ground, never smuggled in — and the load-bearing spine of A–C is never made to depend on it. The reasonable-person foundation stands first and stands alone; the speculative reading is built on top of it and declared, at the gap where the octave itself calls for the input from beyond.
+
+---
+
 ## Summary of Contents
 
 **[[Paper D0: Adolf Hitler|Paper D0 — Adolf Hitler]]**
