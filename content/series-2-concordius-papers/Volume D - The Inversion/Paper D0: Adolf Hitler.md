@@ -19,6 +19,12 @@
 
 ---
 
+## The parasite
+
+Evil has no content of its own — this is the discipline the whole volume is read under, and the living world keeps one clean figure of it: the parasite. A parasite invents nothing. It builds no organ, contributes no function, originates no structure; it takes a body already made and turns one of that body's own functions to its own feeding. It is privation made flesh — not an addition to life but a subtraction worked from inside life, living only on what it drains from a host that was whole before it came. The three lives at the head of this volume are read as three parasites, each defined by which good it feeds on; the three catastrophes that follow are read as what such a parasite does to a body when nothing checks it. The figure is an illustration, not a fourth claim — the natural world's own picture of the privation the mathematics already names.
+
+This first life is the parasite of *being itself*. The Good is e₁, the inner product, the worth of what is — the relation by which each thing is held as a thing worth holding; and its inversion is not cruelty laid over a man but the negation of that worth at the root, the will curved wholly inward, *incurvatus in se*, until nothing outside the self is counted real enough to spare. Its figure among parasites is the consumer that hollows a living host from within while keeping it alive to be consumed — the castrator that threads through every organ and redirects the whole of a creature's life-energy to feeding the invader, so that the host goes on moving, even laboring, but only ever to serve the thing eating it. That is the worth of what is driven toward zero, the truth measure τ pressed toward nothing. The life below is read in seven notes, and the verdict is fixed before the first; the reading only shows how completely it was earned. The victims are the moral center of every note — they are the living substance this parasite consumed — and the perpetrator is the object of study, never of sympathy.
+
 ## The inversion
 
 The Framework has read the pattern in lives that held true: a girl who held the Principle to the fire, a man who tempered a whole art, a man who bore fruit across a long flawed life. The holographic content principle said the whole would be legible in any part; in those parts it was legible as ascent — the low beginning, the gift received from outside, the deed in which heart and Principle become one act, the cost borne, the crossing met from beyond.

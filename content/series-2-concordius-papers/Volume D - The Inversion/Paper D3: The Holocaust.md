@@ -19,6 +19,12 @@
 
 ---
 
+## The parasite unchecked
+
+The three lives before this were the parasite defined — the thing itself, named by which good it feeds on. The three events beginning here are the parasite *unchecked*: what it does to a body when nothing stops it. And the cruelest fact of the biology is the one that carries the lesson — much of the harm a parasite causes is not done by the parasite directly, but by the host's own defenses, provoked into turning on the body they were made to protect. The lethal damage is the protective response itself, run to a pitch where it destroys the flesh it guards.
+
+This is the inversion of *courage* — e₁e₂, the strong spending themselves at risk to shield the weak — and it is courage's exact reversal: the body's whole apparatus of strength and order turned, at no risk to itself, against the part of itself it has been told is foreign. The Holocaust is that turning made industrial: the organs of a modern state — its law, its bureaucracy, its police, its railways, the very systems by which a body keeps itself whole — committed in full resolve to the destruction of millions of its own. Not the failure of strength but strength inverted; not chaos but the machinery of protection driven in reverse. The event is read below as a descending octave, dated note by note. The six million, and the millions of others, are the moral center of every line — they are the living body these turned defenses destroyed — and the perpetration is the object of study, never of fascination.
+
 ## The event as a descending octave
 
 The Holocaust did not arrive; it descended, by steps, over a dozen years, and the rigor of reading it lies in refusing to let it be a single black fact and insisting on the sequence — because the sequence is where the lesson is. Courage is the virtue at this note, and courage has a precise shape: the strong spending themselves, at risk, to shield the weak. The descending octave below inverts that shape at every step — the strong destroying the weak at no risk and calling it strength — and it has, like every octave, two places where it could not have continued on its own momentum, where something entered from outside. At each of those two gaps the world was, in effect, asked to be the grace that lifts; and at each it gave the opposite, and the opposite is what the inversion of bravery looks like at the scale of nations: not the commission of the murder, but the failure to deliver those who were being drawn to death, and the saying, afterward, *we knew it not.*

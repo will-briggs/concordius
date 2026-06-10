@@ -19,6 +19,12 @@
 
 ---
 
+## The parasite unchecked
+
+The third effect is the one that most exactly defines a parasite, and the one that takes longest to see: the host is made to spend itself feeding the thing that is killing it. The body's whole productive economy is drawn off to the invader, so that it forages and labors and consumes at full stretch and starves all the same — every measure of effort diverted to the parasite, the wasting advancing precisely while the host works hardest. To an eye that sees only the labor, the creature looks industrious to the end. What the labor builds is its own death.
+
+This is the inversion of *diligence* — e₂e₃, fruitful work answerable to reality, content to be judged by what it yields — reversed into labor in vain, enormous effort severed from the truth it was meant to serve, building furiously on a foundation that is not there. The Great Leap Forward is that severance at the scale of a nation: hundreds of millions set to total, sincere effort — the communes, the backyard furnaces, the round-the-clock work — in service of a dream the regime forbade reality to correct, until the effort itself produced the deadliest famine in recorded history. The diligence was genuine; it was set to build a fiction, and the fiction was a starvation. The event is read below as a descending octave, dated note by note. The tens of millions who starved are the moral center of every line — they are the body worked to death to feed the parasite — and the perpetration is the object of study, never of fascination.
+
 ## The event as a descending octave
 
 Diligence is fruitful work — patient, honest labor that is checked against reality and therefore yields something real, content to be judged by its fruit. Its inversion is labor in vain: enormous effort severed from the truth it was meant to serve, the one cut that makes work barren, building furiously on a foundation that is not there. The Great Leap descended by steps from a mobilized dream to the deadliest famine in history, and like every octave it had two gaps it could not cross on its own, where an input came from outside. At each, the world could have been the ground the effort needed — the corrective reality, the offered help — and at each what came instead drove the labor further from the real: the outside contest that inflated the dream, and the outside hand the regime refused so the dream would not be seen to fail. Except the work answer to what is, it labours in vain; this work was forbidden to answer, and it built a famine.

@@ -19,6 +19,12 @@
 
 ---
 
+## The parasite
+
+The same figure, the third feeding: a parasite contributes nothing, only diverts. The first fed on being, the second on the true; this one feeds on the *beautiful* — e₃, the revealing Spirit, the window the senses open onto the real, whose native act is doxology, the passing-along of glory to the One the window opens upon. Its inversion does not look like cruelty or like a lie. It looks magnificent: the window made a mirror, beauty's power to draw the heart aimed at the creature in place of the Creator, the glory meant to pass through captured and held by the idol.
+
+Its figure in the living world is the parasite that works neither by consuming the body nor by seizing the will, but by *false display* — the brood parasite whose counterfeit is so well-aimed that the host spends its devotion on the impostor: the cuckoo whose gaping chick presents a lure more compelling than the host's own young, a splendor the parent cannot refuse, so that it feeds the usurper and lets its true offspring die at the nest's edge. That is the inverted Beautiful precisely — a made splendor that captures the love and glory due elsewhere, the spectacle out-competing the real for the heart's worship. Maoist visual doctrine is that lure raised to a state religion: the man painted as the sun, the people as sunflowers turning their faces to him, the Little Red Book held aloft like a thing that glows. The life below is read in seven notes; the victims — the starved, the persecuted, the made to kneel — are the moral center of each, the perpetrator the object of study, never of sympathy.
+
 ## The inversion
 
 The first note of this section read the Good negated; the second, the True. This note reads the Beautiful, and the Beautiful is the most easily mistaken of the three, because its inversion does not look like cruelty or like a lie. It looks magnificent. The Beautiful, in the whole framework, is the revealing door — the generator that lets the real be seen through the senses and points, beyond the thing seen, to its source; beauty is transparent, a window, and its native act is doxology, the giving of glory to the One the window opens onto. Bach understood the door exactly and signed his manuscripts *S.D.G.* — *Soli Deo Gloria*, to God alone the glory — so that the most ordered beauty the West produced was, by its own author's hand, a window and not a wall.

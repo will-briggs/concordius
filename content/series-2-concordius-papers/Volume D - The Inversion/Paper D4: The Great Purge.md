@@ -19,6 +19,12 @@
 
 ---
 
+## The parasite unchecked
+
+The second effect of the unchecked parasite is subtler than open destruction, and in a body more intimate: the corruption not of the host's strength but of its *discernment* — the faculty by which a body tells its own flesh from what is foreign, and so knows what to defend and what to expel. Some parasites work precisely here, cloaking themselves in the host's own markers until its defenses lose the distinction and turn, in earnest, against healthy tissue — the body devouring its own sound organs as though they were the threat, the defense aimed by a corrupted measure at exactly the wrong target.
+
+This is the inversion of *temperance* — e₁e₃, the just weight, the proportion that fits response to thing — reversed into the false balance, the rigged scale, measurement itself enlisted against measure. The Great Purge is that corruption at the scale of a state: a regime turning its terror inward upon its own — its own Party, its own officers, its own most loyal servants — the body politic cannibalizing the very organs that had kept it alive, certain it was excising enemies while it consumed itself. The event is read below as a descending octave, dated note by note. The hundreds of thousands shot and the millions broken are the moral center of every line — they are the sound flesh this corrupted discernment destroyed — and the perpetration is the object of study, never of fascination.
+
 ## The event as a descending octave
 
 Temperance is proportion — the just weight, the fit of response to thing, the tuning that lets a whole flourish. Its inversion is the false balance: terror unmoored from any proportion, measurement enlisted against measure. The Great Purge descended by steps from a single murder to a machinery of quotas, and like every octave it had two gaps it could not cross on its own, where an input came from outside. At each, the world could have weighed the thing truly — its free press, its jurists, its later conscience — and at each it set its thumb on the wrong pan: first by certifying the show trials as justice, then by burying the whole reckoning beneath an alliance it needed. The false balance is the abomination; the world, twice, declined to be the just weight against it.
