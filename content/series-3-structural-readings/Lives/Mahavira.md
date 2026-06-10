@@ -12,4 +12,4 @@ Mahavira's other catch is *anekantavada*, the doctrine of many-sidedness: that a
 
 *Confidence: concordance — ahimsa read as agape universalised, anekantavada as confidence-tier humility; offered as structural shape, the Jain metaphysics of soul-matter not adjudicated. Messenger: the earliest Jain canon was oral for centuries; Mahavira reaches us through a long monastic transmission that shaped what survives.*
 
-*(Cross-reference: [[Lives/The Buddha|the Buddha]], his contemporary; [[Paper C0: The Good]] on agape as the ground; [[Paper G6: The Best a Man Can Do on This Plane]] on the whole exceeding every part.)*
+*(Cross-reference: [[Lives/The Buddha|the Buddha]], his contemporary; [[Paper C0: The Good]] on agape as the ground; [[Paper G6 - Humility]] on the whole exceeding every part.)*

@@ -12,4 +12,4 @@ The Oath is the underappreciated half of the witness. Its content is not techniq
 
 *Confidence: concordance — disease-as-natural-order read as the catching-wager in physiology, the Oath as lateral ⟨·,·⟩ disciplined into a vow. Messenger: "Hippocrates" names a school and a corpus of many hands as much as a man; the treatises and the Oath are of varied and uncertain authorship, gathered under one founding name.*
 
-*(Cross-reference: [[Lives/Thales|Thales]] (the same wager about the cosmos); [[Paper G0: The Gut-Orientation]] on orientation as the root of the virtues; [[World and Experience/Suffering]].)*
+*(Cross-reference: [[Lives/Thales|Thales]] (the same wager about the cosmos); [[Paper G0 - Gratitude]] on orientation as the root of the virtues; [[World and Experience/Suffering]].)*

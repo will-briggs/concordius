@@ -1,6 +1,8 @@
 *← [[Paper G6½: The Octave Change|Paper G6½: The Octave Change]]*
 
-# Paper G7: Full Integration — You Can't Get There from Here (Draft)
+# Paper G7 - Full Integration (Draft)
+
+*You Can't Get There from Here*
 
 ---
 
@@ -44,9 +46,9 @@ And one alone held the whole content in a human substrate and remained within it
 
 That is the whole shape of Volume G. It took a person — the person reading — and asked where in the ascending career he stands, and what from there the work is. It answered seven times, once for each position the structure makes available within this life, and twice more for the two places the octave does not continue by degrees.
 
-**[[Paper G0: The Gut-Orientation|G0]]–[[Paper G2: The Brain-Orientation|G2]]** gave the three generators — the moving-and-instinctive ground where the work must actually begin; the emotional center and its oscillation, with the dark night of the senses located as the first grade change of its arc; the intellectual framework and its trap, the willingness to be wrong as the way past it. **[[Paper G2½: The First Grade Change|G2½]]** treated that first crossing in full: no grade-1 work produces grade-2 structure, so the help must come from outside — available, since one particular morning, to everyone.
+**[[Paper G0 - Gratitude|G0]]–[[Paper G2 - Ordered Love|G2]]** gave the three generators — the moving-and-instinctive ground where the work must actually begin; the emotional center and its oscillation, with the dark night of the senses located as the first grade change of its arc; the intellectual framework and its trap, the willingness to be wrong as the way past it. **[[Paper G2½: The First Grade Change|G2½]]** treated that first crossing in full: no grade-1 work produces grade-2 structure, so the help must come from outside — available, since one particular morning, to everyone.
 
-**[[Paper G3: The Courage-Centered Man|G3]]–[[Paper G5: The Diligence-Centered Man|G5]]** gave the three bivectors — the first type that must be achieved and not born into, requiring a real school; the phase change at which the soul deposit becomes permanent and the transmuting field begins; both higher centers in joint operation, with the last vulnerability the intoxication of the heights, answered only by the return downward to the low place. **[[Paper G6: The Best a Man Can Do on This Plane|G6]]** gave the summit itself — humility, the whole integration, reached and shown by the cloud of masters. **[[Paper G6½: The Octave Change|G6½]]** gave the crossing past it, which no climb supplies.
+**[[Paper G3 - Courage|G3]]–[[Paper G5 - Diligence|G5]]** gave the three bivectors — the first type that must be achieved and not born into, requiring a real school; the phase change at which the soul deposit becomes permanent and the transmuting field begins; both higher centers in joint operation, with the last vulnerability the intoxication of the heights, answered only by the return downward to the low place. **[[Paper G6 - Humility|G6]]** gave the summit itself — humility, the whole integration, reached and shown by the cloud of masters. **[[Paper G6½: The Octave Change|G6½]]** gave the crossing past it, which no climb supplies.
 
 That is the road, walked the whole way up and described as far as a description can go. You have learned the seven modes.
 
@@ -72,7 +74,7 @@ The text cannot answer it. That is not its failure; it is the shape of the thing
 
 ## References
 
-1. **Companion papers** — the seven modes ([[Paper G0: The Gut-Orientation|G0]]–[[Paper G5: The Diligence-Centered Man|G5]]), the summit ([[Paper G6: The Best a Man Can Do on This Plane|G6]]), and the two crossings ([[Paper G2½: The First Grade Change|G2½]], [[Paper G6½: The Octave Change|G6½]]). This paper gathers them and adds nothing of its own.
+1. **Companion papers** — the seven modes ([[Paper G0 - Gratitude|G0]]–[[Paper G5 - Diligence|G5]]), the summit ([[Paper G6 - Humility|G6]]), and the two crossings ([[Paper G2½: The First Grade Change|G2½]], [[Paper G6½: The Octave Change|G6½]]). This paper gathers them and adds nothing of its own.
 2. **[[Paper A5: The Breath of Life|Paper A5]]** — the catching principle: the will follows the investment.
 3. **Genesis 5:24; 2 Kings 2:11.** Enoch and Elijah — taken rather than left to carry it.
 4. **Matthew 6:19–21.** Treasures on earth and in heaven; where your treasure is, there your heart will be also.

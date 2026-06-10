@@ -12,4 +12,4 @@ The Funeral Oration, as Thucydides gives it, is the self-articulation. Pericles 
 
 *Confidence: concordance — the Periclean flowering read as a civic trellis for catching, the Oration as a society's self-articulation, the plague-and-war as the fall already in motion. Messenger: Pericles speaks to us through Thucydides, who reconstructed the Oration; the words are the historian's catch of the statesman as much as the statesman's own.*
 
-*(Cross-reference: [[Literature/Herodotus — The Histories|Herodotus]] (the inquiry into the same wars); [[Paper G0: The Gut-Orientation]] on the conditions of catching; [[Aphorisms/Pride Goes Before a Fall]].)*
+*(Cross-reference: [[Literature/Herodotus — The Histories|Herodotus]] (the inquiry into the same wars); [[Paper G0 - Gratitude]] on the conditions of catching; [[Aphorisms/Pride Goes Before a Fall]].)*

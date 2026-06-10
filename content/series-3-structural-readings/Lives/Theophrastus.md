@@ -10,4 +10,4 @@ Theophrastus inherited Aristotle's conviction that the world is a structured ord
 
 *Confidence: concordance — the botany read as the ordering mind extended to the living world, the Characters as an early structural typology of human kinds. Messenger: much of Theophrastus survives (the botanical works, the Characters), so the filter is lighter than most; but the Characters' purpose — ethical, comic, or scientific — is debated.*
 
-*(Cross-reference: [[Paper G0: The Gut-Orientation]] and the seven-man typology; [[Lives/Hippocrates|Hippocrates]]; [[Science/Evolution by Natural Selection]] on the order in the living world.)*
+*(Cross-reference: [[Paper G0 - Gratitude]] and the seven-man typology; [[Lives/Hippocrates|Hippocrates]]; [[Science/Evolution by Natural Selection]] on the order in the living world.)*

@@ -12,4 +12,4 @@ The "useless tree" that survives precisely because it is no good for timber, the
 
 *Confidence: concordance — wu wei read as action with the grain, the butterfly dream as the loosened H₄₈ self, the reversal of worldly value as freedom; the unaddressed personal ground named as the shared Taoist limit. Messenger: only the Inner Chapters are confidently Zhuangzi's; the text is layered, and reaches us through a long Taoist editorial tradition.*
 
-*(Cross-reference: [[Sacred Texts/The Tao Te Ching|Lao Tzu]] (the Way he plays in); [[Lives/The Buddha|the Buddha]] (the loosened self in another key); [[Paper G4: The Restraint-Centered Man]] on non-grasping.)*
+*(Cross-reference: [[Sacred Texts/The Tao Te Ching|Lao Tzu]] (the Way he plays in); [[Lives/The Buddha|the Buddha]] (the loosened self in another key); [[Paper G4 - Temperance]] on non-grasping.)*

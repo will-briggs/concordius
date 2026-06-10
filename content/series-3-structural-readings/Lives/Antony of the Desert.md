@@ -12,4 +12,4 @@ The structural point is that the monastic move *worked* — that thousands follo
 
 *Confidence: concordance — the desert withdrawal read as environmental noise-floor reduction, the "demons" as the surfacing compulsions, monasticism as a structural invention for the ascent. Messenger: Antony reaches us chiefly through Athanasius's Life of Antony — a hagiography with a theological agenda — so the man is heavily shaped by his biographer.*
 
-*(Cross-reference: [[Paper G3: The Courage-Centered Man]] on the Man-4 discipline; [[Sacred Texts/Patanjali — The Yoga Sutras|Patanjali]] (the inner discipline); [[Mysticism/Pseudo-Dionysius — The Mystical Theology|Pseudo-Dionysius]].)*
+*(Cross-reference: [[Paper G3 - Courage]] on the Man-4 discipline; [[Sacred Texts/Patanjali — The Yoga Sutras|Patanjali]] (the inner discipline); [[Mysticism/Pseudo-Dionysius — The Mystical Theology|Pseudo-Dionysius]].)*

@@ -1,6 +1,8 @@
-*← [[Paper G0: The Gut-Orientation|Paper G0: The Gut-Orientation]]*
+*← [[Paper G0 - Gratitude|Paper G0 - Gratitude]]*
 
-# Paper G1: The Heart-Orientation (Draft)
+# Paper G1 - Charity (Draft)
+
+*Satisfying the Heart*
 
 *(Draft — being reframed from its “Centered Man” title to the orientation below. Existing content kept as raw material.)*
 
@@ -10,9 +12,9 @@
 
 ---
 
-*Man No. 2: the person whose center of gravity lies in the emotional center — the most direct H₂₄ receptor available, so catching is frequent and direct but unstable, because it rides the emotional field: when the field is bright catching flows, when dark it collapses. The soul deposit accumulates episodically, past Man 1's reach, but not yet to the coherence threshold, because it is not yet volitionally grounded. The defining condition is the dark night — not absence, but the exposure of the emotional center's dependence on confirmation — and the transition to Man 3 is the development of the intellectual center as a second, reliable channel that operates when feeling is dark as well as when it is light.*
+*Mode No. 2: the person whose center of gravity lies in the emotional center — the most direct H₂₄ receptor available, so catching is frequent and direct but unstable, because it rides the emotional field: when the field is bright catching flows, when dark it collapses. The soul deposit accumulates episodically, past Mode 1's reach, but not yet to the coherence threshold, because it is not yet volitionally grounded. The defining condition is the dark night — not absence, but the exposure of the emotional center's dependence on confirmation — and the transition to Mode 3 is the development of the intellectual center as a second, reliable channel that operates when feeling is dark as well as when it is light.*
 
-**Confidence —** *Math:* **inference** — Man 2 as the emotional center's unstable H₂₄ reception in the apparatus. *Science:* **concordance** — attachment and depth psychology on the emotional center and the dark night. *Theology:* **concordance** — the dark night read not as absence but as the exposure of dependence on confirmation (Augustine, [[Paper C1: The True]]).
+**Confidence —** *Math:* **inference** — Mode 2 as the emotional center's unstable H₂₄ reception in the apparatus. *Science:* **concordance** — attachment and depth psychology on the emotional center and the dark night. *Theology:* **concordance** — the dark night read not as absence but as the exposure of dependence on confirmation (Augustine, [[Paper C1: The True]]).
 
 ---
 
@@ -280,8 +282,8 @@ Gurdjieff describes a higher emotional center whose function is categorically di
 
 ---
 
-*Paper G1 of the Concordius Framework. Volume G continues with Paper G2: The Brain-Orientation.*
+*Paper G1 of the Concordius Framework. Volume G continues with Paper G2 - Ordered Love.*
 
 ---
 
-*[[Paper G2: The Brain-Orientation|Paper G2: The Brain-Orientation]] →*
+*[[Paper G2 - Ordered Love|Paper G2 - Ordered Love]] →*

@@ -12,4 +12,4 @@ The Eightfold Path is a Man-4 discipline of remarkable completeness: right view 
 
 *Confidence: concordance — the Four Truths read as a noise-floor analysis, anicca as Time, the Path as Man-4 discipline; the divergence over what survives is named, not smoothed. Messenger: the earliest texts were oral for generations before the Pali canon; the voice is the Sangha's, and the traditions differ on the man.*
 
-*(Cross-reference: [[Paper G3: The Courage-Centered Man]] on the Man-4 discipline; [[World and Experience/Suffering]]; [[Syntheses/The Two Higher States]].)*
+*(Cross-reference: [[Paper G3 - Courage]] on the Man-4 discipline; [[World and Experience/Suffering]]; [[Syntheses/The Two Higher States]].)*

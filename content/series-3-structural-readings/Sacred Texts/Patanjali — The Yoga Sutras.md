@@ -12,4 +12,4 @@ The structural precision is in the staging. *Dharana* (concentration), *dhyana* 
 
 *Confidence: concordance — chitta vritti read as the noise floor, the eight limbs as a Man-4 reduction discipline, samadhi as the approach to Φ as mediation drops; the Samkhya metaphysics not adjudicated. Messenger: the Sutras are terse to the point of needing a commentary to be used at all; they reach us through a long line of commentarial transmission that shapes how they are read.*
 
-*(Cross-reference: [[Paper G3: The Courage-Centered Man]] on the Man-4 discipline; [[Mysticism/The Cloud of Unknowing|The Cloud of Unknowing]] (the Western parallel of stilling); [[Sacred Texts/The Bhagavad Gita|the Gita]] on disciplined action.)*
+*(Cross-reference: [[Paper G3 - Courage]] on the Man-4 discipline; [[Mysticism/The Cloud of Unknowing|The Cloud of Unknowing]] (the Western parallel of stilling); [[Sacred Texts/The Bhagavad Gita|the Gita]] on disciplined action.)*

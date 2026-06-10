@@ -1,6 +1,8 @@
-*← [[Paper G5: The Diligence-Centered Man|Paper G5: The Diligence-Centered Man]]*
+*← [[Paper G5 - Diligence|Paper G5 - Diligence]]*
 
-# Paper G6: The Best a Man Can Do on This Plane (Draft)
+# Paper G6 - Humility (Draft)
+
+*All Modes, All at Once, All of the Time*
 
 ---
 
@@ -402,7 +404,7 @@ They reached the top of the climb. Not one of them crossed what lies past it by 
 
 ## References
 
-1. **[[Paper G5: The Diligence-Centered Man|Paper G5]]** — the state from which this summit is the terminus of the person's own catching work.
+1. **[[Paper G5 - Diligence|Paper G5]]** — the state from which this summit is the terminus of the person's own catching work.
 2. **[[Paper G6½: The Octave Change|Paper G6½]]** — the crossing past the summit, which no climb supplies.
 3. **Numbers 12:3; Micah 6:8; Matthew 5:5.** The meekness of the lawgiver; the requirement to walk humbly; the meek who inherit.
 4. **Sources for the cloud:** *Apology* (Socrates); *Analects* (Confucius); *Tao Te Ching* 8, 66 (Lao Tzu); the Pali canon, *Mahāparinibbāna Sutta* (the Buddha); the *Masnavi* (Rumi); the *Fioretti* and Bonaventure's *Life* (Francis); *Story of a Soul* (Thérèse); the memoirs of the Paris years (Gurdjieff).

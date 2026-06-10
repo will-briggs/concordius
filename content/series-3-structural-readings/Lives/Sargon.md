@@ -10,4 +10,4 @@ Before Sargon, the Mesopotamian world was a scatter of rival city-states; he was
 
 *Confidence: concordance — the first empire read as the integration of the many under one, with the standing ambiguity (true ordering vs imposed will) named. Messenger: Sargon is half-legendary, his story shaped by later Mesopotamian tradition (including a birth-legend echoed in Moses); the historical king is dimly recoverable.*
 
-*(Cross-reference: [[Lives/Cyrus the Great|Cyrus the Great]] (empire toward the grain); [[Lives/Alexander the Great|Alexander the Great]]; [[Paper G6: The Best a Man Can Do on This Plane]] on the one that serves the whole.)*
+*(Cross-reference: [[Lives/Cyrus the Great|Cyrus the Great]] (empire toward the grain); [[Lives/Alexander the Great|Alexander the Great]]; [[Paper G6 - Humility]] on the one that serves the whole.)*

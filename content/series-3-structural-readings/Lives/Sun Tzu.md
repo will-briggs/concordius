@@ -12,4 +12,4 @@ The reading neither glorifies war nor pretends the Art of War is a peace teachin
 
 *Confidence: concordance — winning-without-fighting read as wu wei in conflict, acting-with-the-configuration as catching the grain; the work's martial purpose named, not sublimated. Messenger: the Art of War is a layered text of uncertain single authorship; "Sun Tzu" may name a tradition, and the historical author is barely recoverable.*
 
-*(Cross-reference: [[Sacred Texts/Zhuangzi — The Inner Chapters|Zhuangzi]] and [[Sacred Texts/The Tao Te Ching|Lao Tzu]] (wu wei); [[Paper G4: The Restraint-Centered Man]] on non-forcing.)*
+*(Cross-reference: [[Sacred Texts/Zhuangzi — The Inner Chapters|Zhuangzi]] and [[Sacred Texts/The Tao Te Ching|Lao Tzu]] (wu wei); [[Paper G4 - Temperance]] on non-forcing.)*

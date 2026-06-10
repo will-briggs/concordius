@@ -12,4 +12,4 @@ And he would not soften it for power. Denouncing the extravagance of the court o
 
 *Confidence: concordance — the preaching read as the True in pastoral voice, the care of the poor as the kenotic obligation, the exile as courage paid to power. Messenger: Chrysostom survives in a vast body of his own homilies, so his voice is relatively direct, though shaped by the controversies that exiled him.*
 
-*(Cross-reference: [[Paper G1: The Heart-Orientation]] on the pastoral register; [[Paper F5: The Overflow]] on the kenotic obligation; [[Paper C3: The Courageous]].)*
+*(Cross-reference: [[Paper G1 - Charity]] on the pastoral register; [[Paper F5: The Overflow]] on the kenotic obligation; [[Paper C3: The Courageous]].)*

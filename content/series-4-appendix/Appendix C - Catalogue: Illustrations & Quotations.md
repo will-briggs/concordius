@@ -109,34 +109,34 @@ title: "Appendix C - Catalogue: Illustrations & Quotations"
 **Volume G — The Practice — index**
 - *William Blake, Glad Day / The Dance of Albion* (c. 1796) &nbsp;·&nbsp; `blake-glad-day.jpg`
 
-**Paper G0: The Gut-Orientation**
+**Paper G0 - Gratitude**
 - *Polychrome Bison* &nbsp;·&nbsp; `altamira-bison.jpg`
 
-**Paper G1: The Heart-Orientation**
+**Paper G1 - Charity**
 - *Giotto di Bondone, The Lamentation of Christ* (c. 1305) &nbsp;·&nbsp; `giotto-lamentation.jpg`
 
-**Paper G2: The Brain-Orientation**
+**Paper G2 - Ordered Love**
 - *Hans Holbein the Younger, Portrait of Erasmus of Rotterdam* (c. 1523) &nbsp;·&nbsp; `holbein-erasmus.jpg`
 
 **Paper G2½: The First Grade Change**
 - *William Blake, Satan Smiting Job with Sore Boils* (c. 1826) &nbsp;·&nbsp; `blake-satan-job.jpg`
 
-**Paper G3: The Courage-Centered Man**
+**Paper G3 - Courage**
 - *Andrei Rublev, Trinity Icon* (c. 1410) &nbsp;·&nbsp; `rublev-trinity.jpg`
 
-**Paper G4: The Restraint-Centered Man**
+**Paper G4 - Temperance**
 - *El Greco, The Burial of the Count of Orgaz* (1586–88) &nbsp;·&nbsp; `el-greco-burial.jpg`
 
-**Paper G5: The Diligence-Centered Man**
+**Paper G5 - Diligence**
 - *Gian Lorenzo Bernini, The Ecstasy of Saint Teresa* (1647–52) &nbsp;·&nbsp; `bernini-ecstasy.jpg`
 
-**Paper G6: The Best a Man Can Do on This Plane**
+**Paper G6 - Humility**
 - *William Blake, Glad Day / The Dance of Albion* (c. 1796) &nbsp;·&nbsp; `blake-glad-day.jpg` *(reused)*
 
 **Paper G6½: The Octave Change**
 - *William Blake, The Great Red Dragon and the Woman Clothed with the Sun* (c. 1803–05) &nbsp;·&nbsp; `blake-great-red-dragon.jpg`
 
-**Paper G7: Full Integration — You Can't Get There from Here**
+**Paper G7 - Full Integration — You Can't Get There from Here**
 - *Caspar David Friedrich, Wanderer above the Sea of Fog* (c. 1818) &nbsp;·&nbsp; `friedrich-wanderer.jpg`
 
 ### Series 1 — Reasonablenessism
@@ -487,7 +487,7 @@ title: "Appendix C - Catalogue: Illustrations & Quotations"
 **Matthew 6:24** · *Paper E4: Excess*
 > No man can serve two masters... Ye cannot serve God and mammon.
 
-**Micah 6:8** · *Paper G6: The Best a Man Can Do on This Plane*
+**Micah 6:8** · *Paper G6 - Humility*
 > He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?
 
 **Isaac Newton**, *letter to Robert Hooke (1675)* · *Paper B2: The Test*

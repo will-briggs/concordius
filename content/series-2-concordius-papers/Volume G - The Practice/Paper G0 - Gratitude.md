@@ -1,6 +1,8 @@
 *← [[Volume F - The Ascension/index|Volume F ← The Ascension]]*
 
-# Paper G0: The Gut-Orientation (Draft)
+# Paper G0 - Gratitude (Draft)
+
+*Satisfying the Gut*
 
 *(Draft — being reframed from its “Centered Man” title to the orientation below. Existing content kept as raw material.)*
 
@@ -10,9 +12,9 @@
 
 ---
 
-*Man No. 1: the person whose center of gravity lies in the instinctive and moving centers — H₄₈-primary orientation, the volitional axis aligned almost entirely with H₄₈ attractors, the soul deposit minimal, the indwelling Adjuster always present and acting but contact near-zero because the noise floor is at its maximum. The ascending career is structurally available and not yet functionally available, and the gap between the two is the whole problem and the whole opportunity. The transition to Man 2 runs through Man 1's native channel — the body — as the entry point for H₂₄ contact: concrete, sustained physical practice oriented above the H₄₈ level, which the body can receive before the mind has conceptualized it.*
+*Mode No. 1: the person whose center of gravity lies in the instinctive and moving centers — H₄₈-primary orientation, the volitional axis aligned almost entirely with H₄₈ attractors, the soul deposit minimal, the indwelling Adjuster always present and acting but contact near-zero because the noise floor is at its maximum. The ascending career is structurally available and not yet functionally available, and the gap between the two is the whole problem and the whole opportunity. The transition to Mode 2 runs through Mode 1's native channel — the body — as the entry point for H₂₄ contact: concrete, sustained physical practice oriented above the H₄₈ level, which the body can receive before the mind has conceptualized it.*
 
-**Confidence —** *Math:* **inference** — Man 1 placed in the apparatus (H₄₈-primary orientation, the Adjuster acting against a maximal noise floor); a motivated mapping, not a forced one. *Science:* **concordance** — the somatic and behavioral practices (the body as entry channel) converge with the modern record. *Theology:* **concordance** — the ascending career structurally available, the indwelling presence always acting.
+**Confidence —** *Math:* **inference** — Mode 1 placed in the apparatus (H₄₈-primary orientation, the Adjuster acting against a maximal noise floor); a motivated mapping, not a forced one. *Science:* **concordance** — the somatic and behavioral practices (the body as entry channel) converge with the modern record. *Theology:* **concordance** — the ascending career structurally available, the indwelling presence always acting.
 
 ---
 
@@ -255,8 +257,8 @@ The paper prescribes community practice where available. The structural reason i
 
 ---
 
-*Paper G0 of the Concordius Framework. Volume G continues with Paper G1: The Heart-Orientation.*
+*Paper G0 of the Concordius Framework. Volume G continues with Paper G1 - Charity.*
 
 ---
 
-*[[Paper G1: The Heart-Orientation|Paper G1: The Heart-Orientation]] →*
+*[[Paper G1 - Charity|Paper G1 - Charity]] →*

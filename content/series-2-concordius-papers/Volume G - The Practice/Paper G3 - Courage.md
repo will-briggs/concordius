@@ -1,12 +1,14 @@
-*← [[Paper G2: The Brain-Orientation|Paper G2: The Brain-Orientation]]*
+*← [[Paper G2 - Ordered Love|Paper G2 - Ordered Love]]*
 
-# Paper G3: The Courage-Centered Man (Draft)
+# Paper G3 - Courage (Draft)
+
+*Gratitude × Charity under Fire*
 
 ---
 
-*Man No. 4: the first type that cannot be born into — reached only through deliberate, sustained, three-center catching work, the Framework's first qualitative discontinuity between what a person is by constitution and what he has become by choice. The three centers that operated in alternation now begin to operate at once, each contributing its H₂₄ function to a single act; the characteristic practice is self-remembering (divided attention made continuous) and the characteristic raw material is intentional suffering (friction taken as the forge, not the obstacle to be avoided). The transition obstacle is the dark night of the spirit — the dissolution of the deliberate effort itself — crossed not by greater effort but by its release into the Adjuster's direct action: Man 5 begins with the surrender of the effort the effort was preparing for.*
+*Mode No. 4: the first type that cannot be born into — reached only through deliberate, sustained, three-center catching work, the Framework's first qualitative discontinuity between what a person is by constitution and what he has become by choice. The three centers that operated in alternation now begin to operate at once, each contributing its H₂₄ function to a single act; the characteristic practice is self-remembering (divided attention made continuous) and the characteristic raw material is intentional suffering (friction taken as the forge, not the obstacle to be avoided). The transition obstacle is the dark night of the spirit — the dissolution of the deliberate effort itself — crossed not by greater effort but by its release into the Adjuster's direct action: Mode 5 begins with the surrender of the effort the effort was preparing for.*
 
-**Confidence —** *Math:* **inference** — Man 4 as the first achieved (not born) three-center integration in the apparatus. *Science:* **concordance** — the psychology of deliberate practice, divided attention, and engagement with difficulty. *Theology:* **concordance** — self-remembering, intentional suffering, the dark night of the spirit crossed by surrender.
+**Confidence —** *Math:* **inference** — Mode 4 as the first achieved (not born) three-center integration in the apparatus. *Science:* **concordance** — the psychology of deliberate practice, divided attention, and engagement with difficulty. *Theology:* **concordance** — self-remembering, intentional suffering, the dark night of the spirit crossed by surrender.
 
 ---
 
@@ -208,8 +210,8 @@ Mode 4's deliberate three-center work is easily imagined as an interior project 
 
 ---
 
-*Paper G3 of the Concordius Framework. Volume G continues with Paper G4: The Restraint-Centered Man.*
+*Paper G3 of the Concordius Framework. Volume G continues with Paper G4 - Temperance.*
 
 ---
 
-*[[Paper G4: The Restraint-Centered Man|Paper G4: The Restraint-Centered Man]] →*
+*[[Paper G4 - Temperance|Paper G4 - Temperance]] →*

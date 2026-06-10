@@ -1,6 +1,8 @@
-*← [[Paper G1: The Heart-Orientation|Paper G1: The Heart-Orientation]]*
+*← [[Paper G1 - Charity|Paper G1 - Charity]]*
 
-# Paper G2: The Brain-Orientation (Draft)
+# Paper G2 - Ordered Love (Draft)
+
+*Satisfying the Brain*
 
 *(Draft — being reframed from its “Centered Man” title to the orientation below. Existing content kept as raw material.)*
 
@@ -10,9 +12,9 @@
 
 ---
 
-*Man No. 3: the person whose center of gravity lies in the intellectual center — the first type able to build a stable catching framework, a conceptual organization of Φ-proximal content that persists regardless of emotional state. That is his irreplaceable contribution, and his characteristic pathology is its calcification: the organizing tool becomes the organizing object, the map becomes the territory, the best account of ⟨·,·⟩ mistaken for contact with it. The transition to Man 4 is the most radical in the Framework — the intellectual center recognizing a limit that is not a deficiency to be corrected by better thinking, and recovering what was bypassed: emotional depth, the body's participation, and the humility that understanding is not possession.*
+*Mode No. 3: the person whose center of gravity lies in the intellectual center — the first type able to build a stable catching framework, a conceptual organization of Φ-proximal content that persists regardless of emotional state. That is his irreplaceable contribution, and his characteristic pathology is its calcification: the organizing tool becomes the organizing object, the map becomes the territory, the best account of ⟨·,·⟩ mistaken for contact with it. The transition to Mode 4 is the most radical in the Framework — the intellectual center recognizing a limit that is not a deficiency to be corrected by better thinking, and recovering what was bypassed: emotional depth, the body's participation, and the humility that understanding is not possession.*
 
-**Confidence —** *Math:* **inference** — Man 3 as the stable conceptual catching-framework in the apparatus; the incompleteness and truth-measure diagnostics applied (derived elsewhere, not new here). *Science:* **concordance** — cognitive psychology on framework calcification (inquiry vs. rationalization). *Theology:* **concordance** — theosis and the humility of the intellect: understanding is not possession.
+**Confidence —** *Math:* **inference** — Mode 3 as the stable conceptual catching-framework in the apparatus; the incompleteness and truth-measure diagnostics applied (derived elsewhere, not new here). *Science:* **concordance** — cognitive psychology on framework calcification (inquiry vs. rationalization). *Theology:* **concordance** — theosis and the humility of the intellect: understanding is not possession.
 
 ---
 
@@ -277,8 +279,8 @@ The paper identifies the Pharisee as Mode 3's archetype of framework calcificati
 
 ---
 
-*Paper G2 of the Concordius Framework. Volume G continues with Paper G3: The Courage-Centered Man.*
+*Paper G2 of the Concordius Framework. Volume G continues with Paper G3 - Courage.*
 
 ---
 
-*[[Paper G3: The Courage-Centered Man|Paper G3: The Courage-Centered Man]] →*
+*[[Paper G3 - Courage|Paper G3 - Courage]] →*

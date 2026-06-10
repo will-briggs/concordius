@@ -1,12 +1,14 @@
-*← [[Paper G4: The Restraint-Centered Man|Paper G4: The Restraint-Centered Man]]*
+*← [[Paper G4 - Temperance|Paper G4 - Temperance]]*
 
-# Paper G5: The Diligence-Centered Man (Draft)
+# Paper G5 - Diligence (Draft)
+
+*Charity × Ordered Love over Time*
 
 ---
 
-*Man No. 6: the most fully developed state reachable within a human lifetime, short of the one distinction that separates it from Man 7 — Man 6 can still fall back. The remaining vulnerability is not the mechanical centers but the specific temptation of the level: the intoxication of the higher centers' direct contact, the risk of resting in what they receive rather than transmitting it downward through the kenotic obligation. To rest is to exit the reciprocal maintenance by the same mechanism as Lucifer's — the withdrawal of contribution. Man 6's specific work is the kenotic return: bringing what is received in the higher register down into forms accessible at every level, out of the love the higher emotional center has registered as the constitutive principle of reality. The great saints are Man 6 descriptions, recognizable across traditions by the quality of their transmitting field.*
+*Mode No. 6: the most fully developed state reachable within a human lifetime, short of the one distinction that separates it from Mode 7 — Mode 6 can still fall back. The remaining vulnerability is not the mechanical centers but the specific temptation of the level: the intoxication of the higher centers' direct contact, the risk of resting in what they receive rather than transmitting it downward through the kenotic obligation. To rest is to exit the reciprocal maintenance by the same mechanism as Lucifer's — the withdrawal of contribution. Mode 6's specific work is the kenotic return: bringing what is received in the higher register down into forms accessible at every level, out of the love the higher emotional center has registered as the constitutive principle of reality. The great saints are Mode 6 descriptions, recognizable across traditions by the quality of their transmitting field.*
 
-**Confidence —** *Math:* **inference** — Man 6 as both higher centers operating, short of the irreversibility of Man 7. *Science:* **— (not engaged)**. *Theology:* **concordance** — the kenotic return and the Lucifer mechanism of withdrawal; the saints as the convergent record across traditions.
+**Confidence —** *Math:* **inference** — Mode 6 as both higher centers operating, short of the irreversibility of Mode 7. *Science:* **— (not engaged)**. *Theology:* **concordance** — the kenotic return and the Lucifer mechanism of withdrawal; the saints as the convergent record across traditions.
 
 ---
 
@@ -136,4 +138,4 @@ This paper has described Mode 6 as the state in which both higher centers are su
 
 ---
 
-*[[Paper G6: The Best a Man Can Do on This Plane|Paper G6: The Best a Man Can Do on This Plane]] →*
+*[[Paper G6 - Humility|Paper G6 - Humility]] →*

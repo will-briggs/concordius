@@ -12,4 +12,4 @@ The restoration is the structural point. The risen Christ does not replace Peter
 
 *Confidence: testimony for the events; concordance for the reading (the unstable early catching, failure-and-restoration as the deposit built through collapse). Messenger: Peter reaches us through the Gospels and Acts (others' accounts) and two letters of contested authorship; the man is the tradition's memory more than his own record.*
 
-*(Cross-reference: [[Lives/Paul|Paul]] (the other pillar); [[Paper A6: The Son of Man]] on the Life; [[Paper G1: The Heart-Orientation]] on catching that collapses and recovers.)*
+*(Cross-reference: [[Lives/Paul|Paul]] (the other pillar); [[Paper A6: The Son of Man]] on the Life; [[Paper G1 - Charity]] on catching that collapses and recovers.)*

@@ -12,4 +12,4 @@ The framework's correction of Xunzi matches its correction of every "nature is b
 
 *Confidence: concordance — nature-is-bad read as the strong noise floor and the necessity of disciplined cultivation; the denial of native goodness named as the understatement, corrected by privation. Messenger: the Xunzi is largely his own work (unusual for the era), so the filter is lighter, though edited by later hands.*
 
-*(Cross-reference: [[Lives/Mencius|Mencius]] (the opposite half); [[Paper G3: The Courage-Centered Man]] on the discipline that transforms; [[Paper D7: Evil]] on the good obscured, not absent.)*
+*(Cross-reference: [[Lives/Mencius|Mencius]] (the opposite half); [[Paper G3 - Courage]] on the discipline that transforms; [[Paper D7: Evil]] on the good obscured, not absent.)*
