@@ -3,7 +3,7 @@
 **Work:** The mature philosophy of Friedrich Nietzsche — *Thus Spoke Zarathustra* (1883–85), *Beyond Good and Evil* (1886), *On the Genealogy of Morals* (1887), and the *Nachlass* published as *The Will to Power*  
 **Medium:** Philosophy  
 **Part of:** Series 3 — Structural Readings / Philosophy  
-**Cross-references:** the ascending career (Paper 5; the Seven Men, Series 2 Volume G); Paper 1 §5 (agape as ⟨·,·⟩); the Lucifer Rebellion (Doctrine; the ⟨·,·⟩/H₁ ground-prerogative asserted from below, by an H₁₂ being); Wall-E (the last man as perfected noise floor); Reasonablenessism Faces A0, C3, D1; Syntheses — The Devil Can Quote Scripture
+**Cross-references:** the ascending career (Paper 5; the Seven Modes, Series 2 Volume G); Paper 1 §5 (agape as ⟨·,·⟩); the Lucifer Rebellion (Doctrine; the ⟨·,·⟩/H₁ ground-prerogative asserted from below, by an H₁₂ being); Wall-E (the last man as perfected noise floor); Reasonablenessism Faces A0, C3, D1; Syntheses — The Devil Can Quote Scripture
 
 ---
 
@@ -29,7 +29,7 @@ By its fruit (Face D1): Nietzsche's instruments point upward — his counterfeit
 
 ---
 
-*(Cross-reference: Paper 5 and the Seven Men — self-overcoming as the ascending career, the signal Nietzsche carries. Paper 1 §5 / 1 Cor 13 — agape as ⟨·,·⟩, the term he names as slave morality. The Lucifer Rebellion — H₁-autonomy asserted from below, of which the Übermensch is the philosophical form. Wall-E — the last man as the perfected noise floor, a diagnosis the framework shares. Face C3 — the steelman this reading is built on; Face D1 — the directional test that locates the inversion in the conclusion, not the instruments.)*
+*(Cross-reference: Paper 5 and the Seven Modes — self-overcoming as the ascending career, the signal Nietzsche carries. Paper 1 §5 / 1 Cor 13 — agape as ⟨·,·⟩, the term he names as slave morality. The Lucifer Rebellion — H₁-autonomy asserted from below, of which the Übermensch is the philosophical form. Wall-E — the last man as the perfected noise floor, a diagnosis the framework shares. Face C3 — the steelman this reading is built on; Face D1 — the directional test that locates the inversion in the conclusion, not the instruments.)*
 
 *(Confidence tier: Concordance with explicit divergence. The ascending-career signal and the counterfeit-virtue diagnosis are high-precision and genuinely Nietzsche's; the inversion — will to power as source, agape as slavery — is stated plainly across the mature work, so the ⊘ rests on his own claims. [Exploratory]: the Lucifer-structure identification is an analogy of structure, offered as such; Nietzsche would reject the frame and the rejection is itself part of the inversion.)*
 

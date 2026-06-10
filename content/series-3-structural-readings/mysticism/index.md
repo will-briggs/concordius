@@ -36,7 +36,7 @@ The anonymous fourteenth-century English treatise. The cloud of unknowing as the
 
 **[[John of the Cross|John of the Cross]]**
 - [[Mysticism/Pseudo-Dionysius — The Mystical Theology|Pseudo-Dionysius — The Mystical Theology]]
-The sixteenth-century Carmelite's full phenomenological mapping of the ascending career. The Dark Night of the Senses as the Mi/Fa crossing interval (external provision withdrawn, discursive prayer fails, purification of the active catching apparatus). The Dark Night of the Spirit as the Si/Do interval (all accumulated catching content stripped, the being standing with nothing but the pure orientation). The Living Flame of Love as the Man 5/6 state — the catching being at or near face-to-face — the most structurally complete phenomenological report in the Christian mystical tradition.
+The sixteenth-century Carmelite's full phenomenological mapping of the ascending career. The Dark Night of the Senses as the Mi/Fa crossing interval (external provision withdrawn, discursive prayer fails, purification of the active catching apparatus). The Dark Night of the Spirit as the Si/Do interval (all accumulated catching content stripped, the being standing with nothing but the pure orientation). The Living Flame of Love as the Mode 5/6 state — the catching being at or near face-to-face — the most structurally complete phenomenological report in the Christian mystical tradition.
 
 ---
 

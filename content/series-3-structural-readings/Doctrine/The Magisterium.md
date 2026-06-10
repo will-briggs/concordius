@@ -2,7 +2,7 @@
 
 ---
 
-*Cross-reference: Paper 20½ (CCC; H₂₄-organized H₄₈ matter); Appendix B, Part VI (Law of Seven applied to H₂₄-encoded artifact creation); Paper 3½ (Man No. 5; coherence threshold); Paper 1 (GNST); Paper 6 (catching as volitional act); Structural Readings, Appendix C (The Eucharist)*
+*Cross-reference: Paper 20½ (CCC; H₂₄-organized H₄₈ matter); Appendix B, Part VI (Law of Seven applied to H₂₄-encoded artifact creation); Paper 3½ (Mode No. 5; coherence threshold); Paper 1 (GNST); Paper 6 (catching as volitional act); Structural Readings, Appendix C (The Eucharist)*
 
 ---
 
@@ -152,7 +152,7 @@ A school that has lost Φ-proximal content fidelity continues to function as a s
 
 This is not merely a theoretical possibility. It is what produces the recurring crises in the Magisterium's own history: periods in which Φ-proximal content transmission fidelity degrades — the Borgia papacy, the decade before Trent, the commercialization of indulgences — manifest not only as moral corruption but as a specific structural symptom. The first grade change mechanism delivers form without content. The shock is applied; the interval is not crossed; the institution continues while the transformative function is suspended. These periods are not failures of the infallibility claim — they do not meet the defined operating conditions for that claim — but they are diagnostics of H₂₄ transmission degradation in the broader institution.
 
-The metric for Φ-proximal content transmission fidelity is therefore not institutional longevity. It is: does the school produce individuals who demonstrably organize above the coherence threshold? The evidence for Φ-proximal eigenvalue deposits above the threshold is behavioral — the fruits that emerge from constraint levels the individual could not have achieved by H₄₈-only development. The tradition's vocabulary for this is holiness or sanctity; the framework's vocabulary is Man No. 5 and beyond: individuals whose eigenvalue population has reorganized above the threshold, exhibiting the characteristic marks of a being whose dominant organizational principle is no longer H₄₈-primary.
+The metric for Φ-proximal content transmission fidelity is therefore not institutional longevity. It is: does the school produce individuals who demonstrably organize above the coherence threshold? The evidence for Φ-proximal eigenvalue deposits above the threshold is behavioral — the fruits that emerge from constraint levels the individual could not have achieved by H₄₈-only development. The tradition's vocabulary for this is holiness or sanctity; the framework's vocabulary is Mode No. 5 and beyond: individuals whose eigenvalue population has reorganized above the threshold, exhibiting the characteristic marks of a being whose dominant organizational principle is no longer H₄₈-primary.
 
 The Catholic tradition's sustained production of recognized saints across 2,000 years — individuals whose lives exhibit structural markers consistent with H₂₄ eigenvalue organization above the coherence threshold — is concordance-level evidence that the transmission chain has maintained sufficient Φ-proximal content fidelity for the mechanism to continue working in at least some recipients across the full span of the institution's life. This is not a proof; it is structural evidence of the kind the framework identifies as concordance-tier: independent instances pointing at the same structural event, too consistent across too many independent cases to be a coincidence of H₄₈-level social dynamics alone.
 
@@ -206,4 +206,4 @@ The saints metric — sustained production of individuals organizing above the c
 
 ---
 
-*Cross-references: Paper 20½ (CCC; H₂₄-organized H₄₈ matter; eigenvalue replacement); Appendix B, Part VI (Law of Seven applied to artifact creation); Paper 3½ (Man No. 5; coherence threshold; transformation above H₄₈); Paper 1 (GNST); Paper 6 (catching as volitional orientation); Structural Readings, Appendix C (The Eucharist: Transubstantiation)*
+*Cross-references: Paper 20½ (CCC; H₂₄-organized H₄₈ matter; eigenvalue replacement); Appendix B, Part VI (Law of Seven applied to artifact creation); Paper 3½ (Mode No. 5; coherence threshold; transformation above H₄₈); Paper 1 (GNST); Paper 6 (catching as volitional orientation); Structural Readings, Appendix C (The Eucharist: Transubstantiation)*

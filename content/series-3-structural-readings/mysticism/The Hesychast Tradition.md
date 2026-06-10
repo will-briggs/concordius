@@ -13,7 +13,7 @@
 | Hesychia (stillness) | Noise floor reduction; deliberate quieting of H₄₈-primary eigenvalue activity so that lower-constraint content becomes registrable |
 | Nepsis (watchfulness/sobriety) | The observer function; divided attention; the capacity to monitor one's own eigenstate without identifying with it |
 | The Jesus Prayer | Catching-alignment protocol; sustained Φ-proximate orientation maintained through continuous repetition; the prayer of the heart as the catching act given a fixed verbal form |
-| Theosis (deification) | Ascending career terminal direction; increasing participation in divine energies without dissolution of the creature; Man 7 as earthly expression, finaliter as full realization |
+| Theosis (deification) | Ascending career terminal direction; increasing participation in divine energies without dissolution of the creature; Mode 7 as earthly expression, finaliter as full realization |
 | Divine essence (ousia) | The constitutive ⟨·,·⟩ as such — inaccessible to any created catching being; the Si/Do structure is absolute; even Adjuster fusion does not collapse the Creator/creature distinction |
 | Divine energies (energeiai) | The eigenvalue content of ⟨·,·⟩ accessible at each constraint level through the catching act; genuinely God, genuinely participable |
 | Hesychast prayer posture | Physical protocol for noise floor reduction; directing attention to the center (the Thought Adjuster's location) rather than outward to sensory content |

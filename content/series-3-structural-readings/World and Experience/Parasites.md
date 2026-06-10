@@ -53,7 +53,7 @@ On unaffected planets in an undistorted organizational field, the same evolution
 
 The distortion mechanism and the restoration mechanism are the same mechanism operating in opposite directions.
 
-The individual catching program works by building H₂₄-organized eigenvalue content that progressively displaces the H₄₈-primary noise floor. The catching being's organizational field shifts — not by suppressing or eliminating H₄₈ content but by raising the H₂₄-organized proportion until the H₄₈-primary content is no longer the dominant signal. The transmuting field of the advanced catching being (Man 6 amplitude) reorganizes the eigenvalue composition of persons in proximity through the cross-term mechanism, multiplying the effect outward.
+The individual catching program works by building H₂₄-organized eigenvalue content that progressively displaces the H₄₈-primary noise floor. The catching being's organizational field shifts — not by suppressing or eliminating H₄₈ content but by raising the H₂₄-organized proportion until the H₄₈-primary content is no longer the dominant signal. The transmuting field of the advanced catching being (Mode 6 amplitude) reorganizes the eigenvalue composition of persons in proximity through the cross-term mechanism, multiplying the effect outward.
 
 The collective version of this program is what the Urantia tradition calls "settled in Light and Life" — the mature planetary condition in which a civilization's aggregate H₂₄-organized eigenvalue composition has risen to the point where H₄₈-primary organizational strategies no longer dominate the field. A planet settled in Light and Life has not had the extraction-favoring compositional space removed by the Father — the full range remains available, as it always has. What has changed is the organizational field within which those strategies operate. The collective H₂₄-organized composition displaces the Lucifer-distorted field by the same eigenvalue replacement program that operates in the individual ascending career: not suppression but displacement, not constraint but crowding-out.
 
@@ -68,7 +68,7 @@ This means the Lucifer rebellion's biological consequences are, in principle, re
 The structural parallel between Lucifer's organizational error and parasitism is not coincidental — it is the Holographic Content Principle operating in its diagnostic mode. The same organizational failure mode — withdrawal from reciprocal maintenance, extraction without contribution — appears at every scale of H₄₈ existence:
 
 - **Biological scale**: parasitism — organism extracts from host without contributing
-- **Personal scale**: Man 6's temptation of the heights — receiving from the higher centers without the kenotic return
+- **Personal scale**: Mode 6's temptation of the heights — receiving from the higher centers without the kenotic return
 - **Organizational scale**: Lucifer's rebellion — claiming authority and organizational benefit without maintaining the circuit's reciprocal obligations
 - **Cosmological scale**: the fully inverted catching orientation — what the Inferno describes as the terminal organizational state of a being that has systematically chosen extraction over contribution
 

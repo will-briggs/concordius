@@ -48,11 +48,11 @@ That is the whole shape of Volume G. It took a person — the person reading —
 
 **[[Paper G3: The Courage-Centered Man|G3]]–[[Paper G5: The Diligence-Centered Man|G5]]** gave the three bivectors — the first type that must be achieved and not born into, requiring a real school; the phase change at which the soul deposit becomes permanent and the transmuting field begins; both higher centers in joint operation, with the last vulnerability the intoxication of the heights, answered only by the return downward to the low place. **[[Paper G6: The Best a Man Can Do on This Plane|G6]]** gave the summit itself — humility, the whole integration, reached and shown by the cloud of masters. **[[Paper G6½: The Octave Change|G6½]]** gave the crossing past it, which no climb supplies.
 
-That is the road, walked the whole way up and described as far as a description can go. You have learned the seven men.
+That is the road, walked the whole way up and described as far as a description can go. You have learned the seven modes.
 
 ## 4. What the whole apparatus was for
 
-It is worth being exact about what learning them is, and what it is not. To have read the seven men is to hold the map. The map is good — built carefully, checked against the tradition's whole record. But the map is not the country, and reading the map is not the walk. Everything in this section was a description of catching; none of it was the catching. The understanding it delivered is not the deposit; it is, at most, the lowered noise floor against which a deposit might now be made. A text can describe everything the catching is and what a whole life oriented toward it looks like — and it cannot catch on anyone's behalf.
+It is worth being exact about what learning them is, and what it is not. To have read the seven modes is to hold the map. The map is good — built carefully, checked against the tradition's whole record. But the map is not the country, and reading the map is not the walk. Everything in this section was a description of catching; none of it was the catching. The understanding it delivered is not the deposit; it is, at most, the lowered noise floor against which a deposit might now be made. A text can describe everything the catching is and what a whole life oriented toward it looks like — and it cannot catch on anyone's behalf.
 
 The Logos states the entire practical program in three sentences:
 
@@ -72,7 +72,7 @@ The text cannot answer it. That is not its failure; it is the shape of the thing
 
 ## References
 
-1. **Companion papers** — the seven men ([[Paper G0: The Gut-Orientation|G0]]–[[Paper G5: The Diligence-Centered Man|G5]]), the summit ([[Paper G6: The Best a Man Can Do on This Plane|G6]]), and the two crossings ([[Paper G2½: The First Grade Change|G2½]], [[Paper G6½: The Octave Change|G6½]]). This paper gathers them and adds nothing of its own.
+1. **Companion papers** — the seven modes ([[Paper G0: The Gut-Orientation|G0]]–[[Paper G5: The Diligence-Centered Man|G5]]), the summit ([[Paper G6: The Best a Man Can Do on This Plane|G6]]), and the two crossings ([[Paper G2½: The First Grade Change|G2½]], [[Paper G6½: The Octave Change|G6½]]). This paper gathers them and adds nothing of its own.
 2. **[[Paper A5: The Breath of Life|Paper A5]]** — the catching principle: the will follows the investment.
 3. **Genesis 5:24; 2 Kings 2:11.** Enoch and Elijah — taken rather than left to carry it.
 4. **Matthew 6:19–21.** Treasures on earth and in heaven; where your treasure is, there your heart will be also.

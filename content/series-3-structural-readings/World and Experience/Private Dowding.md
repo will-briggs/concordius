@@ -79,7 +79,7 @@ But Dowding is waiting for the reconstitution. Without the morontia form providi
 
 From the outside — from the perspective of the transition facilitators trying to complete the reconstitution — this incoherence makes the substrate attachment more difficult. A highly organized, coherent, Φ-proximate eigenvalue population is easier to attach to H₂₄ substrate than a partially incoherent one with strong H₄₈-primary anchoring. Dowding's H₄₈-primary content was creating organizational drag on a process that was already overloaded.
 
-This is consistent with the general structural account of H₄₈-primary orientation in Papers 6 and 22–24. The H₄₈-primary condition is not a moral deficiency but a structural one: the eigenvalue population is organized primarily around H₄₈ attractors rather than Φ-proximate ones. Most Men No. 1 through No. 3 beings transition with this condition present to various degrees. Under normal transition conditions, this is handled. Under overloaded conditions, it amplifies the difficulty.
+This is consistent with the general structural account of H₄₈-primary orientation in Papers 6 and 22–24. The H₄₈-primary condition is not a moral deficiency but a structural one: the eigenvalue population is organized primarily around H₄₈ attractors rather than Φ-proximate ones. Most Modes No. 1 through No. 3 beings transition with this condition present to various degrees. Under normal transition conditions, this is handled. Under overloaded conditions, it amplifies the difficulty.
 
 ---
 
