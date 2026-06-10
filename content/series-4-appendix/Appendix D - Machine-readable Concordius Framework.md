@@ -31,6 +31,17 @@ Clifford algebra:  Cl(3,0)   spatial/structural algebra; extended to Cl(3,1) (e�
 I commutes with all of Cl(3,0).
 The Higgs mechanism cannot reach I → photon is massless → Father's constitutional trace preserved through the Son's Mi/Fa crossing.
 
+Bivector–vector duality (3D only):  e₁e₂ = I·e₃,  e₂e₃ = I·e₁,  e₃e₁ = I·e₂
+  each pairing = pseudoscalar-dual of the complementary generator; the bond e₁e₂ ≡ the Spirit e₃ up to I
+  (filioque + co-equal Person = one element in dual form). Holds only in n=3 (bivector dual to (n−2)-vector). [A2A §1]
+
+Irreducible representation / instantiation:
+  Cl(3,0) simple (≅ M₂(ℂ)) ⇒ unique irrep S ≅ ℂ²  (spinor; eₖ ↦ Pauli σₖ)  — the structural form of the One
+  any carrier 𝒱 ≅ S ⊗ M   (algebra acts as σ⊗1;  M = multiplicity space = copies of the trinity)
+  dim M = number of instantiated trinities:  1 at the apex (H₁) → doubles per cascade step → ∞ at H₄₈ (matter)
+  Holographic Content Principle ≡ this decomposition: S identical in every summand (form fixed; only multiplicity grows)
+  open: the slot-labelling (which created instance = which copy in M) is not fixed by the algebra. [A2B §8]
+
 Agape  =  ⟨·,·⟩ expressed laterally at H₄₈: the relational orientation that does not depend on the other's H₄₈ properties.
 ```
 
@@ -50,7 +61,7 @@ Agape  =  ⟨·,·⟩ expressed laterally at H₄₈: the relational orientation
 | H₄₈ | 48 | Earth / material | Geometry fixed independently of content; ⟨·,·⟩ operates within geometry |
 | H₉₆ | 96 | Moon / sub-material | Gravitational sifting endpoint; consciousness structurally impossible |
 
-Subscript = number of independently operating constraint law-sets. The level-to-level doubling is graded structural inference, not derivation (the fractal mechanism — each constraint generates its local counterpart; Paper A2B §8). More constraints = denser, more fixed, higher Time (aging) rate — and Time operates only at H₂₄ and below; the GNST runs at every level but ages only where Cl(3,1)'s e₀ is present. H₉₆ is not a waypoint on the ascending career; it is where catching-failed content drains.
+Subscript = number of independently operating constraint law-sets. The level-to-level doubling is graded structural inference, not derivation (the fractal mechanism — each constraint generates its local counterpart; Paper A2B §8). Representation-theoretic form: the doubling is the doubling of the **multiplicity** with which the one irrep S = ℂ² is instantiated (𝒱 ≅ S ⊗ M, dim M : 1 → 2 → … → ∞); the Trinitarian form is invariant down the whole cascade, only the number of copies grows (§I). More constraints = denser, more fixed, higher Time (aging) rate — and Time operates only at H₂₄ and below; the GNST runs at every level but ages only where Cl(3,1)'s e₀ is present. H₉₆ is not a waypoint on the ascending career; it is where catching-failed content drains.
 
 ---
 
