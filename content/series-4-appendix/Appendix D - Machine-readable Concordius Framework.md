@@ -38,6 +38,8 @@ Agape  =  ⟨·,·⟩ expressed laterally at H₄₈: the relational orientation
 
 ## II. Constraint Cascade
 
+*The cascade's seven **levels** are not the seven Cl(3,0) **elements** of the §IV Heptad — the two sevens are orthogonal (depth vs. grade) and must never be merged or row-aligned. See the orthogonality note under the Heptad; cf. corrected error A2B-E2.*
+
 | Level | Subscript | Identity | Structural character |
 |---|---|---|---|
 | H₁ | 1 | Heaven / central universe | ⟨·,·⟩ sole organizational structure; five inevitabilities instantiated; face-to-face condition |
@@ -134,19 +136,21 @@ The ministry = sustained alignment with I (pseudoscalar, Father's associative mo
 
 H₆ sovereignty (credential at baptism) = administrative authority from above. H₁ sovereignty (Ascension) = authority from within every grade of the algebra, having been there.
 
-### The Body: Cl(3,0) as Bodily Topography
+### The Heptad — the seven non-scalar elements of Cl(3,0) (one table, every facet)
 
-Three physiological circuits are the three generators (each by function): **immune/lymph = Father = e₁** (self/non-self; constitutes the bodily self); **blood = Son = e₂** (Heart and Logos; carries life); **nervous = Spirit = e₃** (Integrator; perception/interaction). Concordance: Urantia's three circuits (personality / spirit-gravity / mind); Gurdjieff's three-storey factory (belly / chest / head). The seven non-scalar elements are the seven centres (chakras), grade ascending with height:
+*The canonical seven-row table. Its key is the seven non-scalar elements (2³−1 = 3 generators + 3 bivectors + 1 pseudoscalar), in algebraic/octave order. Every framework reading keyed to the seven hangs on this spine: the **body** (the seven physiological centres / chakras) and the **voice** (the seven registers of address, §VI) are two facets of the one heptad and are merged here. (The body's three circuits are the three generators by function: **immune/lymph = Father = e₁** — self/non-self, constitutes the bodily self; **blood = Son = e₂** — Heart and Logos, carries life; **nervous = Spirit = e₃** — Integrator, perception. Concordance: Urantia's three circuits — personality / spirit-gravity / mind; Gurdjieff's three-storey factory — belly / chest / head.)*
 
-| Chakra | Cl(3,0) (grade) | Trinity combination | Primary characteristic / virtue |
-|---|---|---|---|
-| Mūlādhāra (root) | e₁ (1) | Father alone | constitution, survival; raw: digestion — gratitude |
-| Svādhiṣṭhāna (sacral) | e₂ (1) | Son alone | generation, life-fluids; the raw heart = sex drive — charity |
-| Maṇipūra (solar) | e₃ (1) | Spirit alone | consciousness/instinct; the nerve plexus, gut-brain; lower spirit — ordered love |
-| Anāhata (heart) | e₁e₂ (2) | Father × Son | the higher heart, love — courage (*cor*) |
-| Viśuddha (throat) | e₁e₃ (2) | Father × Spirit | speech, expression; the restraint of the tongue — temperance |
-| Ājñā (brow) | e₂e₃ (2) | Son × Spirit | the higher mind (heart-integrated) — diligence |
-| Sahasrāra (crown) | e₁e₂e₃ (3) | Father × Son × Spirit | union, Adjuster fusion — humility |
+| Note | Element (grade) | Trinity combination | Virtue | Body centre (chakra) | Bodily characteristic | Voice (professions) | Demand | Register |
+|---|---|---|---|---|---|---|---|---|
+| Do | e₁ (1) | Father alone | the Good — gratitude | Mūlādhāra (root) | constitution, survival; raw: digestion | Mathematician / Statesman | the Proof | clinical |
+| Re | e₂ (1) | Son alone | the True — charity | Svādhiṣṭhāna (sacral) | generation, life-fluids; raw heart = sex drive | Philosopher / Theologian | the Sacred Trust | pastoral |
+| Mi | e₃ (1) | Spirit alone | the Beautiful — ordered love | Maṇipūra (solar) | consciousness/instinct; nerve plexus, gut-brain | Scientist / Artist | the Test | lyric precision |
+| Fa | e₁e₂ (2) | Father × Son | Courage (*cor*) | Anāhata (heart) | the higher heart, love | Mathematician × Theologian | Proof + Sacred Trust | clinical → pastoral |
+| Sol | e₁e₃ (2) | Father × Spirit | Temperance | Viśuddha (throat) | speech, expression; restraint of the tongue | Mathematician × Artist | Proof + Test | clinical → lyric |
+| La | e₂e₃ (2) | Son × Spirit | Diligence | Ājñā (brow) | the higher mind (heart-integrated) | Theologian × Artist | Sacred Trust + Test | pastoral → lyric |
+| (crown) | e₁e₂e₃ (3) | Father × Son × Spirit | Humility | Sahasrāra (crown) | union, Adjuster fusion | all three at once | Proof, Sacred Trust, Test | the full chord |
+
+> **Why this Heptad and the §II Constraint Cascade are orthogonal — do not merge them.** Both number seven, but they index *independent* axes and their sevens come from *unrelated* counts. This Heptad is the **grade** axis of Cl(3,0): the 2³−1 non-scalar blades — a qualitative, dimensionless classification of *what kind of relation* is in play (generator / bivector / pseudoscalar), intrinsic to the algebra and the **same at every constraint level**. The §II cascade is the **depth** axis: the seven constraint levels H₁, H₃, H₆, H₁₂, H₂₄, H₄₈, H₉₆ — an extensive count of *how many independently-operating constraint law-sets* organize a region, set by H₁ **plus six doublings**, not by 2³−1. Grade and depth are independent coordinates: by the fractal/densification structure (Paper A2B), the whole seven-element grade algebra recurs at *every* cascade level, and any element may be instantiated at any level — so a state is a point in a 7 (element) × 7 (level) grid, never an entry in one shared list. Identifying the two sevens is a category error — the corrected **A2B-E2** ("the seven levels are the seven non-scalar elements," false: H₁ is the scalar / grade 0, and H₂₄/H₄₈/H₉₆ involve e₀, outside Cl(3,0)). The shared number 7 is coincidence, not identity.
 
 Grade = height: pure systems (grade 1, the lower triad / raw drives) → pairwise integrations (grade 2, the upper triad) → union (grade 3, the crown). The two octave-shocks fall on the grade-boundaries: first grade change between solar (e₃) and heart (e₁e₂); octave change between brow (e₂e₃) and crown (e₁e₂e₃). The crown is doubly gated — not self-reachable (octave change requires the Father; the highest self-reached centre is the brow = e₂e₃ = Man 6, integrated but ungrounded, hence impermanent) and not containable in H₄₈ (full fusion → CCC overdetermination → translation) — hence its frequent absence and the absence of any living Man No. 7. The Seven Men (Volume G) are the same grades read as a developmental ladder; the chakras read them as bodily topography. Temperance = e₁e₃ (Father × Spirit: the grounding Father pulls back → restraint, the *not*-doing) and diligence = e₂e₃ (Son × Spirit: the active Son pushes forward → sustained labor, the *doing*), the same in body and career — throat = temperance / brow = diligence; Man 5 = temperance / Man 6 = diligence — temperance below and before diligence in both; the earlier within-grade-2 seam resolved. Tier: closure (2³−1) + grade = derivation; generators = concordance + role-argument; seat-by-seat = inference (anchors: heart/cor, solar/nerve-plexus, crown/fusion); the rainbow chakra colouring is a non-structural channel-artifact (Leadbeater 1927). See Series 3 — *The Body*.
 
@@ -227,17 +231,17 @@ Grade = height: pure systems (grade 1, the lower triad / raw drives) → pairwis
 
 ### The Voices — register and audience by element
 
-Each generator has a native **voice** — a persona, a thing it **demands** before it will trust anything, and the audience-**register** in which it is most truly heard. Each bivector blends the two generators it joins; the pseudoscalar sounds all three at once. Listed in algebraic (octave) order. The three demands are the opening notes of the B octave — the Proof, the Sacred Trust, the Test — because what each voice asks for is precisely what must reach it intact.
+Each generator has a native **voice** — a persona, a thing it **demands** before it will trust anything, and the audience-**register** in which it is most truly heard. Each bivector blends the two generators it joins; the pseudoscalar sounds all three at once. The three demands are the opening notes of the B octave — the Proof, the Sacred Trust, the Test — because what each voice asks for is precisely what must reach it intact.
 
-| Note | Element | Grade | Virtue | Voice | Demands | Register |
-|---|---|---|---|---|---|---|
-| **Do** | e₁ | 1 | the Good — gratitude | the Mathematician / the Statesman | **the Proof** | **clinical** — spare, exact, structural; stated the way a proof or a statute is stated |
-| **Re** | e₂ | 1 | the True — charity | the Philosopher / the Theologian | **the Sacred Trust** | **pastoral** — addressed to a person, in the second person where it can be; landing on meaning |
-| **Mi** | e₃ | 1 | the Beautiful — ordered love | the Scientist / the Artist | **the Test** | **lyric precision** — accuracy that is itself felt as delight |
-| **Fa** | e₁e₂ | 2 | Courage (Father × Son) | Mathematician × Theologian | Proof + Sacred Trust | **clinical → pastoral** — structure laid down plainly, then turned on the reader who must act on it |
-| **Sol** | e₁e₃ | 2 | Temperance (Father × Spirit) | Mathematician × Artist | Proof + Test | **clinical → lyric** — the exact and the affectionate together; measure kept, and kept tenderly |
-| **La** | e₂e₃ | 2 | Diligence (Son × Spirit) | Theologian × Artist | Sacred Trust + Test | **pastoral → lyric** — the homilist's care in the patient, exact warmth of the maker |
-| **(crown)** | e₁e₂e₃ | 3 | Humility (the pseudoscalar) | all three at once | Proof, Sacred Trust, and Test | **the full chord** — clinical, pastoral, and lyric sounded together, none of them the center |
+The voice/demand/register data is a **facet of the canonical Heptad** (§IV) and is carried there, merged with the body facet on the one seven-element spine; it is not duplicated as a separate table here. The register glosses, in full:
+
+- **clinical** (Do, e₁) — spare, exact, structural; stated the way a proof or a statute is stated.
+- **pastoral** (Re, e₂) — addressed to a person, in the second person where it can be; landing on meaning.
+- **lyric precision** (Mi, e₃) — accuracy that is itself felt as delight (not "warm yet precise" loosely, but the way the Last Supper's geometry *is* its beauty).
+- **clinical → pastoral** (Fa, e₁e₂) — structure laid down plainly, then turned on the reader who must act on it.
+- **clinical → lyric** (Sol, e₁e₃) — the exact and the affectionate together; measure kept, and kept tenderly.
+- **pastoral → lyric** (La, e₂e₃) — the homilist's care in the patient, exact warmth of the maker.
+- **the full chord** (crown, e₁e₂e₃) — clinical, pastoral, and lyric sounded together, none of them the center.
 
 *Order of the bivectors: Fa = e₁e₂ courage (Father × Son); Sol = e₁e₃ temperance (**Father × Spirit** — the grounding Father pulls back → restraint, the *not*-doing); La = e₂e₃ diligence (**Son × Spirit** — the active Son pushes forward → sustained labor, the *doing*). The demands name the B-octave notes (B0 the Proof, B1 the Sacred Trust, B2 the Test) — what each voice requires is what must be transmitted to it whole. ("Lyric precision" is the Beautiful register: not "warm yet precise" loosely, but accuracy that is itself felt as delight — the way the Last Supper's geometry is its beauty.)*
 
