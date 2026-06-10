@@ -115,4 +115,206 @@ The body lives the Laws in **flesh**. It is not arranged for viewing; it is inha
 
 ---
 
+## Placed: the sky — the sifting field and the Chaldean order (not yet woven)
+
+*Placed 2026-06-09 from the pre-binding Paper 6 salvage (Structural-Candidates), §§5–12, per the Volume C expansion — the algebra in the Universe itself: people, things, ideas. This is the macrocosm to the Body block above: the same seven Cl(3,0) elements read overhead that the spine wears within. To be woven in a later pass; the Confidence block is updated at weaving, not before. Tiers as in the source: the grade partition and the Chaldean order are each independently fixed — one by the algebra, one by astronomy — and their alignment is a structural result; the element-by-element planetary assignments are concordance with the astrological tradition — a strong concordance on a derived skeleton, not a derivation of astrology. The source's §§2–4 (the cogito threshold, the Thought Adjuster, catching) remain in Structural-Candidates for their own placement.*
+
+### The Norm as Gravitational Principle
+
+*(Derived. Follows from the norm–gravity identification in [[Paper A2B: The Constraint Cascade|the Constraint Cascade]].)*
+
+The catching being does not exist in a neutral eigenvalue environment. Every massive body in the created order instantiates the norm locally, functioning as a weighting operator on the eigenvalue probability distribution. Understanding what the catching being is up against requires understanding what that sifting field is.
+
+The Constraint Cascade established the three constitutional constraints: the GNST (time), Paradise/norm (gravity), and Heaven/nuclear topology (spacetime). The norm ‖·‖ is not merely a mathematical convenience — it is the physical principle by which the Hilbert space H is constituted as a metric space. Gravity is what the norm does when matter moves through the creative field.
+
+Every massive body in the created order instantiates the norm locally. The gravitational field of a body at a given point is the local expression of the norm's sifting function at that location. Paradise does not govern gravity through a separate mechanism; its governance is instantiated through every gravitational source that participates in the creative field.
+
+The sifting mechanism: the eigenvalue spectrum λ of the GNST is continuous. The norm, instantiated locally, functions as a weighting operator on this spectrum. A body with gravitational sifting signature W_B shifts the probability measure dμ(λ) → W_B(λ) dμ(λ), preferentially raising or lowering the actualization probability for eigenstates in different spectral ranges. The GNST still selects; the norm weights the selection. The result is probabilistic influence, not determination.
+
+*(Mathematical formalization target: define the sifting operator W_B for a body B with gravitational field g_B; characterize its action on dμ(λ); show that the overall measure remains normalizable; state conditions under which sifting is negligible vs. significant.)*
+
+**The cross-level consequence: dark matter.** The norm is not H₄₈-specific. It is defined for any state at any constraint level — it is the non-relational face of the constitutive inner product ⟨·,·⟩, which operates across the full triple. This has a direct consequence.
+
+Lower-constraint eigenvalue content — H₂₄-organized, H₁₂-organized, H₆-organized, or H₃-organized — distributed within H₄₈ space has a norm and therefore gravitates. The H₄₈-specific forces — electromagnetic, strong, and weak — are products of the 48-law fixed-geometry constraint structure. They do not operate on content whose organizational principle is H₂₄ or below. The predicted observational signature of lower-constraint eigenvalue content distributed throughout H₄₈ space is therefore:
+
+- Gravitationally active (it has a norm)
+- Electromagnetically invisible (electromagnetism is H₄₈-specific)
+- Not subject to the strong or weak nuclear forces (same reason)
+- Distributed differently from baryonic matter — organized by ⟨·,·⟩-generated geometry rather than fixed-geometry force, it does not clump into stars or emit radiation; it forms halos along gravitational contours
+
+This is the observational signature of dark matter. Dark matter constitutes approximately 27% of the total energy content of the observable universe; it has been confirmed gravitationally through galaxy rotation curves, gravitational lensing, and large-scale structure formation; it does not interact electromagnetically. The framework provides a structural candidate: lower-constraint eigenvalue content distributed throughout H₄₈ space, gravitationally active by virtue of the cross-level norm, electromagnetically invisible by virtue of its constraint level.
+
+The invisibility is not a coincidence or a stipulation. It is structural: the reason lower-constraint content does not interact electromagnetically is that the electromagnetic force is a product of the 48-law constraint structure, and lower-constraint content is constitutively outside its reach. The darkness of dark matter, in this reading, is not a property the content happens to have — it is a consequence of what constraint level it is organized at.
+
+The density ratio — dark matter constituting roughly 5× baryonic matter by mass-energy — is not yet derived from the framework. Whether the grade structure of Cl(3,0) and the constraint doubling sequence produce a coefficient in this range is an open structural question. The qualitative match is structural and follows from first principles; the quantitative account requires development.
+
+*Confidence tier: The structural candidate identification follows directly from the cross-level character of the norm (derived, the Constraint Cascade) and the H₄₈-specificity of the electromagnetic force (derived). The identification with observed dark matter is a concordance-level claim. The density ratio, halo profiles, and Bullet Cluster behavior require independent structural analysis.*
+
+---
+
+### The Eigenvalue Spectrum and Spectral Ranges
+
+*(Derived in structure; testimony-tier in specific assignment.)*
+
+The eigenvalue spectrum of the GNST encodes the full range of possible actualizations — from the most mechanical (highest-density, lowest-order, 96-constraint) to the most developed (highest-order, most structure-preserving). The Constraint Cascade identified the constraint hierarchy: 3 → 6 → 12 → 24 → 48 → 96 — each step a doubling of constraint density, a narrowing of accessible eigenspace.
+
+The spectrum can be partitioned informally into characteristic ranges by the level at which the corresponding eigenstates are most naturally resident:
+
+- **Mechanical range**: eigenstates primarily actualized at the 96-constraint level. Densest, most automatic. Planetary material, organic chemistry below the threshold of morontial coupling.
+- **Vital range**: eigenstates at the 48-constraint level. The physical-life band. Biological processes, instinctive function.
+- **Developmental range**: eigenstates at the 24-constraint level. The morontial-contact band. Emotional development, relational function, ascending potential.
+- **Spiritual range**: eigenstates at the 12-constraint and above. The band in which the ascending soul participates.
+
+These are not sharp cutoffs. The spectrum is continuous. The ranges name the regions where characteristic sifting operates, not discrete bins.
+
+---
+
+### The Moon as Primary Sifting Body
+
+*(Derived from the framework; empirically supported.)*
+
+The Moon is the gravitational body most directly relevant to the catching being's eigenvalue environment. Its sifting signature is not one influence among many — it is the dominant mechanical-range sifting body in the catching being's immediate environment, and its role is structurally predictable from the framework.
+
+The Sun's gravitational sifting field preferentially couples to the developmental range — the band in which ascending potential is actualized, consistent with the Sun's structural position as the local source of energy driving biological and developmental processes.
+
+The Moon's gravitational sifting field preferentially couples to the mechanical range — the band in which automatic, lowest-order eigenstate selection dominates. This coupling is consistent with the Moon's structural position as the nearest massive body and with its role in the material circuit (described in the account of the ascending sequence). The Moon weights the probability distribution of catching beings toward what requires the least catching.
+
+The lunar phase geometry makes this visible:
+
+**New moon**: Moon between Earth and Sun. Moon's mechanical sifting and Sun's developmental sifting act from the same direction. Minimal differentiation; the two fields partially cancel at the opposing spectral ranges. Moon is least conspicuous as a distinct sifting source.
+
+**Full moon**: Earth between Moon and Sun. Moon and Sun at maximum opposition — 180° separation. Moon's mechanical sifting and Sun's developmental sifting now act from opposite directions on the Earth's eigenvalue field. Maximum differentiation of the two spectral ranges. The Moon is most conspicuous as a distinct sifting source, operating in maximum contrast to the Sun.
+
+**Blood moon (lunar eclipse at full moon)**: The Earth's shadow falls on the Moon. The Sun's developmental sifting is occluded from the point of opposition. The Moon's mechanical sifting operates at full moon position without the Sun's counterweight. Maximum uncontested mechanical sifting.
+
+The ancient association of blood moons with war, death, and catastrophe is the empirical record of this mechanism. War produces concentrated mechanical detritus — high-density actualization at the mechanical end of the spectrum. Blood moons coincide with conditions of maximum Moon sifting: the period when the Moon's sifting is both strongest (opposition geometry) and most uncontested (solar occlusion). The traditions are not superstition. They are observational record.
+
+---
+
+### The Chaldean Order Derivation: Assigning Planets to Clifford Elements
+
+*(Mixed tier — read carefully. The grade partition (3+1+3) and the Chaldean order are each fixed independently — one by the algebra, one by astronomy — and their alignment, the Sun falling at the center, is a genuine structural result. But mapping Chaldean *position* onto Clifford *grade* is an interpretive identification, not a theorem; and the element-by-element assignments, with their match to the planets' traditional qualities, are concordance with the astrological tradition. Read this as a strong concordance on a derived skeleton — not as a derivation of astrology.)*
+
+The skeleton of the assignment is the framework's to claim: the grade partition and the Chaldean order are fixed independently of each other and of astrology, and their alignment is not borrowed from the tradition. The flesh — which element goes to which body, and why each body's character matches the tradition's — is concordance. The account below marks, step by step, where the structure does the work and where the tradition does.
+
+**Step one: the Chaldean order as independent variable.**
+
+The ancient astronomers — Babylonian, Greek, Arabic — ordered the seven traditional bodies by their apparent angular speed as observed from Earth, fastest to slowest:
+
+Moon — Mercury — Venus — Sun — Mars — Jupiter — Saturn
+
+This is a purely observational, astronomical ordering. It carries no astrological attribution. It is the rate of change of each body's gravitational sifting field as experienced by a being at the 48-constraint level of the hierarchy.
+
+**Step two: the grade partition.**
+
+The Clifford algebra Cl(3,0) partitions its seven non-null elements as 3 (grade 1) + 1 (grade 3) + 3 (grade 2). Apply this partition to the Chaldean order by position:
+
+| Chaldean position | Body | Clifford grade |
+|---|---|---|
+| 1–3 (fastest) | Moon, Mercury, Venus | Grade 1 (single expressions) |
+| 4 (center) | Sun | Grade 3 (complete expression) |
+| 5–7 (slowest) | Mars, Jupiter, Saturn | Grade 2 (paired expressions) |
+
+The Sun lands at grade 3 — the Father-Son-Spirit complete expression, central, commuting with all. This is structurally correct: the Sun is the gravitational sovereign of the system, the local instantiation of the complete Trinity expression at the solar scale. It is not one body among seven. It is the center of the seven.
+
+The partition Moon-Mercury-Venus / Sun / Mars-Jupiter-Saturn is precisely the three-group distinction the astrological tradition has always maintained: personal planets, the luminary, outer planets. That distinction is not imported from the tradition; it emerges from the grade structure applied to the Chaldean order.
+
+**Step three: element assignment within each grade.**
+
+Within grade 1 (Moon, Mercury, Venus = Father-alone, Son-alone, Spirit-alone), the assignment follows from the algebraic character of each element:
+
+- **Moon = Father-alone (e₁)**: The Father is the constitutive ground, the norm, the bare substrate. Father-alone squares to +1 — self-returning, the primordial single-mode expression. The Moon is the most immediately local body; in the Concordius framework it is already identified as the mechanical eigenvalue range. The Father-alone element independently predicts exactly this: the most mechanical, most automatic, most ground-level spectral coupling.
+
+- **Mercury = Son-alone (e₂)**: The Eternal Son is both Heart and Logos — not in tension but in unity. "Out of the heart the mouth speaks" (Matthew 12:34): the Word is what the heart says. The Son is the origin of love and mercy (Urantia) and the Logos, the self-consistent structure through which all things are made (John 1:1). These are the same characterization from two angles: the nuclear space Φ is the maximal expression of the Father's love (⟨·,·⟩), articulated as structure. Mercury as information conductor in the tradition is exactly right: Mercury carries what the heart speaks. Son-alone couples to the range where love is articulated as information — the affective-informational range, neither purely mechanical nor purely developmental.
+
+- **Venus = Spirit-alone (e₃)**: The Infinite Spirit is the origin of mind and intelligence — the source of the mind circuits (Urantia). Spirit-alone squares to +1. The Conjoint Actor, the executive intelligence, the administrator of mind. Venus coupling to the intellectual-developmental range is initially counterintuitive against the tradition's affective quality for Venus. The resolution: the Infinite Spirit as the minister of mind produces in the space a quality of *harmony* — the experience of mind well-ordered, of proportion, of things fitting together. Beauty, in the structural sense, is what mind does when it is fully operating in the created field. The traditional Venus qualities (love, beauty, harmony, proportion) are the experiential signature of the Spirit's mind-organizing principle when it operates beneficently. *(This requires systematic concordance with the tradition as a test.)*
+
+Within grade 2 (Mars, Jupiter, Saturn = three paired expressions), the element assignments follow from the algebraic products and their spectral characters:
+
+- **Mars = Father-Son (e₁e₂)**: Father (ground, substrate, mechanical) conjoined with Son (structure, organization). Their product squares to −1 — rotational, dynamic. The conjunction of the constitutive ground with organized expression produces raw creative tension: force, will, the collision of substrate with form. Mars couples to the vital-mechanical boundary, where instinctive force meets organized structure.
+
+- **Jupiter = Son-Spirit (e₂e₃)**: Son (Logos, meaning, structure) conjoined with Spirit (relational circuit). Their product squares to −1 — dynamic, rotational. The conjunction of the information-bearing Logos with the relational circuit produces meaning-in-relation: expansion, teaching, development, the Logos fulfilling itself through connection. Jupiter couples to the developmental range.
+
+- **Saturn = Father-Spirit (e₁e₃)**: Father (ground, norm, time, constraint) conjoined with Spirit (relational circuit). Their product squares to −1 — but the Father's ground encountered through the relational circuit produces constraint as experienced in relation: limitation, obligation, the boundary that love sets. Saturn couples to the constrained-mechanical range — the Father's substrate made manifest as structure and limitation through the circuit of relation.
+
+**The convergence.**
+
+Two paths arrive at the same result, but they are not fully independent, and the claim is held at that tier. The first uses only the Chaldean order (astronomical observation) and the grade partition (Clifford algebra); it fixes the structure — three, one, three, the Sun at the center. The second reads each element's algebraic character against its spectral coupling — but "the coupling an element naturally has" is itself read partly through the qualities the tradition assigns, so this path leans on the very concordance it is being checked against. What can honestly be said: the skeleton is forced, the fleshing-out is a strong concordance, and the two were not arranged to agree.
+
+The Urantia identification of the Trinity persons (Son = Heart, Spirit = Mind) produces a further structural confirmation: the developmental sequence across the seven grade positions (the Seven Men, Volume G) follows the Chaldean order exactly throughout all seven positions — Moon → Mercury → Venus → Mars → Jupiter → Saturn → Sun — without transposition at any position. The Urantia correction removes the only internal inconsistency in the correspondence, which is itself evidence that the assignment is correct.
+
+Where the structure fixes a feature independently — the grade skeleton, the Sun at the center — the traditional qualities function as a test of it. Where the assignment was itself read through those qualities, the match is concordance confirming concordance and carries no independent weight. That division is the point: the skeleton predicts; the element-by-element character is checked against the tradition, not derived ahead of it.
+
+---
+
+### Planetary Spectral Ranges: Predictions
+
+*(Concordance tier. The grade and ordering behind the list are derived (above, in the Chaldean order derivation); the planet-by-planet qualities below are the tradition's, set beside each element's structural character to be checked — not derived from it. A systematic failure of the qualities to match would count against the assignment.)*
+
+**Moon (Father-alone, e₁)**: Mechanical range. The bare substrate level — automatic, instinctive, body-governed actualization. Traditional qualities: body, instinct, habit, the lunar cycles of organic life, the automatic layer of emotional response. The Concordius framework adds: the Moon's sifting preferentially weights the catching being toward the mechanical end of the accessible spectrum.
+
+**Mercury (Son-alone, e₂)**: Informational-vital boundary. The range where biological process meets structured information — the seam at which meaning is conducted between levels. Traditional qualities: communication, intellect, language, transmission, the nervous system's conducting function. Mercury preferentially actualizes at the boundary between the mechanical and the developmental ranges.
+
+**Venus (Spirit-alone, e₃)**: Developmental-relational range. The band where the angle between states — their relational structure — most directly drives actualization. Traditional qualities: love, beauty, desire, the experience of connection as constitutive. Venus weighted: what actualizes tends toward what coheres with another, what has relational structure, what is beautiful in the sense of being well-proportioned in its inner-product angle.
+
+**Sun (Father-Son-Spirit, e₁e₂e₃)**: The complete expression. Grade-3, central, commutes with all. The Sun does not couple to one spectral range — it couples to all of them, as the complete expression of the Trinity's sifting at the solar scale. Traditional qualities: vitality, sovereignty, the organizing principle of the life, the self that integrates rather than specializes. The Sun's influence is not a sifting toward one range but a presence that orients the entire spectrum.
+
+**Mars (Father-Son, e₁e₂)**: Vital-mechanical boundary. The raw collision of ground with structure. Traditional qualities: force, will, aggression, courage, the raw energy of the descending creative act. Mars accelerates eigenstate selection at the vital-mechanical interface — fast, decisive, the collapse of the probability distribution at the densest available level of the vital band.
+
+**Jupiter (Son-Spirit, e₂e₃)**: Developmental range. Meaning-in-relation: the Logos fulfilling itself through the relational circuit. Traditional qualities: expansion, higher meaning, teaching, beneficence, the experience of development as gift rather than effort. Jupiter shifts the probability distribution toward higher-order eigenstates — not by removing constraint but by making the developmental range more accessible.
+
+**Saturn (Father-Spirit, e₁e₃)**: Constrained-mechanical range. The Father's ground encountered through the relational circuit as limitation. Traditional qualities: constraint, time, obligation, karma, the experience of the Father's authority as boundary in relation. Saturn weights selection toward the most constrained eigenstates — not the bare mechanical ground (Moon) but the mechanical ground as it is encountered by a being in relation.
+
+---
+
+### Aspect Geometry
+
+*(Mixed tier. The combination geometry of two directional sifting fields is structural; the identification of its special angles with the astrological aspects, and their traditional meanings, is concordance. The formalization below is a target, not a result.)*
+
+An aspect is the angular relationship between two bodies as observed from a point in the creative field (Earth). Since each body's gravitational sifting field has a direction — it acts on the eigenvalue spectrum from the direction of the body relative to the point of observation — the combined sifting effect of two bodies depends on their vector relationship.
+
+The primary aspects:
+
+**Conjunction (0°)**: Two bodies at the same position. Their sifting fields act from the same direction. The two spectral couplings combine. If the bodies couple to compatible spectral ranges, the effect is amplification; if to opposing ranges, the combination produces internal tension in the probability distribution.
+
+**Opposition (180°)**: Two bodies at maximum separation, as in the full moon configuration. The sifting fields act from opposite directions. Maximum differentiation of the two spectral influences. The most visible expression of both simultaneously.
+
+**Square (90°)**: Two bodies at right angles. The sifting fields are orthogonal — they do not amplify or cancel, they create tension. Neither influence dominates; both act simultaneously without resolution. The experience of a square is the experience of two spectral weights pulling in incommensurable directions at once.
+
+**Trine (120°)**: Two bodies at 120° separation. The grade-1 elements (e₁, e₂, e₃) are mutually orthogonal; the grade-2 elements lie in the planes between them. The trine's harmonic quality in the tradition corresponds to the structural property: the two sifting fields reinforce without collapsing into identity.
+
+*(Mathematical formalization target: define the combined sifting operator W_{AB}(θ) for two bodies A and B at angular separation θ; characterize how the spectral coupling varies with θ; derive the special properties at 0°, 90°, 120°, 180° from the operator geometry. The aspect types should emerge from the mathematics, not be posited ad hoc.)*
+
+---
+
+### Probabilistic Structure and Free Will
+
+*(The probabilistic core is derived from the GNST; the astrological application is concordance — see the close of the section.)*
+
+The central epistemological claim of this material: the gravitational sifting field is real as a shift in probability distributions; it is not determination of outcomes. This follows directly from the structure established by the Thought Adjuster and the catching act.
+
+The GNST selects eigenstates: ψ = ∫ ⟨eλ, ψ⟩ eλ dμ(λ). The measure dμ(λ) is what the gravitational sifting fields modify. The selection operator — the inner product, the Father — still selects. The sifting fields bias the selection; they do not perform it. Three forces bear on the probability distribution simultaneously: the sifting field (mechanical-range bias from without), the Adjuster's signal (Φ-proximate bias from within), and the being's catching act (volitional amplification or suppression of the Adjuster's signal).
+
+The consequence: a being under strong Saturnine sifting encounters a probability field weighted toward constrained, densely mechanical actualization. It does not mechanically actualize there. A being with developed catching capacity — higher-order eigenspace accessible, morontial coupling active — can actualize in the developmental range even under Saturnine weighting. The effort required is greater; the field is tilted; the free act remains.
+
+The probabilistic structure itself — that the sifting biases the measure without determining the outcome — is derived from the GNST. Its application to astrological influence is concordance: *if* the planetary sifting is real, it should be most determinative for beings with the least developed catching capacity and least for the most developed. The tradition's differential treatment of nativity charts for ordinary people versus adepts is consistent with this — but it is anecdotal, a record compatible with the prediction, not a controlled test of it.
+
+---
+
+### The Blood Moon and the Empirical Record
+
+*(Concordance tier — and, as stated here, the most exposed empirical claim in the material. It is offered as testable and, as yet, untested; it is not offered as established.)*
+
+The full-moon / blood-moon analysis above yields the most directly checkable prediction here: periods of maximum lunar sifting should show a measurable elevation in mechanical-range outcomes — concretely, in the incidence of violent conflict and death — relative to a matched baseline. Because the mechanism is a shift in a probability measure, the prediction is statistical: an elevated rate across many events, not a one-to-one trigger on any single one.
+
+The historical record is suggestive — blood moons recur across the oldest astronomical and astrological traditions as markers of war, famine, and death — but that record is anecdotal and selection-biased: the memorable conjunctions of eclipse and catastrophe are exactly the ones preserved, and the chronicle of all the blood moons followed by nothing was never written. It does not establish the claim.
+
+*(What would make it wrong, stated plainly: a properly controlled survey — blood-moon periods against matched control periods, outcome measures fixed in advance, correction for reporting bias — that finds no elevation would count against the lunar sifting mechanism at this scale. The framework does not get to retreat to an unobservable common cause if the correlation fails; here the correlation is the test. Until such a study exists, this is a concordance with a long anecdotal record and no controlled confirmation, and should be read at exactly that weight.)*
+
+---
+
+*Two further readings the sifting mechanism invites — Gurdjieff's claim that human beings "feed the Moon," read as a structural consequence of the death-and-sifting account above; and a speculative origin for the sifting Moon itself, tying current lunar science to the rebellion the tradition names Lucifer — are concordance- and speculative-tier, and belong with the wide reading rather than the constitutive argument. They are developed in Book 3, [[The Sifting Moon|The Sifting Moon — Gurdjieff's Observation and a Speculative Origin]].*
+
+---
+
 *[[Paper C6½: The Crossing|Paper C6½: The Crossing]] →*
