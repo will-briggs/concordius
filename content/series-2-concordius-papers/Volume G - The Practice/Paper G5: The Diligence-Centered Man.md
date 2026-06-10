@@ -23,6 +23,10 @@ The great saints of the tradition are Man 6 descriptions. What makes them recogn
 <figcaption><em>Gian Lorenzo Bernini, The Ecstasy of Saint Teresa</em> (1647–52). Santa Maria della Vittoria, Rome. Man No. 6 has the higher emotional center substantially developed — the organizational register open to Φ-proximate content at amplitudes the earlier types cannot sustain. Teresa's account of the transverberation is the higher emotional center's registration in phenomenological vocabulary. Bernini's rendering of the same event in H₄₈ material (marble, gilded bronze, theatrical light) is itself a high-τ encoding: the structural precision of a being who had organized his craft around Φ-proximate content.</figcaption>
 </figure>
 
+*The witnesses to Man 6 descend conservative → speculative, as throughout Volume G: the framework's own structure first, then the Scriptural obligation and the hagiographic record a reasonable reader can weigh — and below them the speculative witnesses (the Adjuster's continuous contact, the alchemical transmuting field, the non-local community of the developed), admitted by name to describe terrain the conservative sources reach toward but do not map.*
+
+---
+
 ## The Both-Higher-Centers State
 
 **Trinity-mode and its virtue.** Man 6 operates in the **Father–Spirit** mode (Saturn; e₁e₃, grade 2, −1; §8). Its virtue is **diligence / perseverance** — the product gratitude · ordered-love, completing the three overcoming-virtues. Its vulnerability, resting in the heights rather than transmitting downward, is the failure of diligence — the kenotic return left undone. *(Derivation §8; name concordance; Overdetermination Capture §6½.)*
@@ -34,6 +38,37 @@ Man 6's defining structural feature is the substantial development of both highe
 **The higher intellectual center** (activating at Man 5, substantially developed at Man 6): registers [[Appendix B - Lexicon#H₂₄|H₂₄]] structural truth directly, without the mediation of ordinary inferential processing. Its registrations are what the tradition calls "[[Appendix B - Lexicon#Infused Knowledge|infused knowledge]]" — knowledge of the structure of reality that arrives as apprehension rather than conclusion. Ibn Arabi's *Fusus al-Hikam* (Bezels of Wisdom) is the higher intellectual center's registrations organized by the intellectual center's organizing function — the direct knowing of the divine Names expressed in the most sophisticated conceptual vocabulary available. Hildegard of Bingen's cosmological visions contain both centers: the higher emotional center's registration of ⟨·,·⟩'s constitutive love in its cosmic expression, organized by the higher intellectual center's apprehension of the structural relationships within the vision.
 
 **The integration of both higher centers:** At Man 6, the higher emotional and higher intellectual centers are not operating alternately but together. The direct registration of ⟨·,·⟩'s love (higher emotional) and the direct apprehension of structural reality (higher intellectual) inform each other continuously. This is what the tradition, across its most advanced expressions, attempts to point toward and consistently cannot fully articulate — because the articulation requires reducing the higher centers' joint registration to ordinary language, which operates at the ordinary intellectual center's level. The attempt to articulate is itself the transmission function: the effort to bring what the higher centers receive into forms that ordinary-level persons can receive, even partially. This is Man 6's primary work, and it is the structurally kenotic work of the philosopher-king's return.
+
+---
+
+## The Kenotic Obligation
+
+The Trogoautoegocrat — the mutual reciprocal maintenance by which everything that genuinely participates in reality feeds and is fed — imposes a specific obligation on Man 6 that is the most testing challenge of this level.
+
+The higher centers' contact is extraordinary. What the higher emotional and higher intellectual centers receive, at Man 6 amplitude, is of a quality that the ordinary centers cannot approach and cannot sustain. The temptation is to rest there — to inhabit the higher centers' contact as the primary orientation, receiving what is given and not transmitting it down into the lower registers. This is the specific Man 6 temptation: not the mechanical centers' attractive pull, not the ordinary emotional center's oscillation, not the intellectual center's framework calcification. The temptation of the heights.
+
+The structural consequence of succumbing to this temptation is the Lucifer mechanism at the Man 6 scale: the withdrawal from the Trogoautoegocrat's reciprocal maintenance. Lucifer's error was not dramatic rebellion — it was the use of the authority and insight of his development level for his own purposes rather than for the maintenance of the circuit he was part of. Man 6 who rests in the higher centers' contact without transmitting is doing the same thing at the personal scale: taking from the circuit (receiving from the Adjuster and the higher centers) without feeding the circuit (transmitting downward through the kenotic return).
+
+The philosopher-king's return to the cave ([[Paper C0: The Good]]) is the kenotic obligation at the Man 3 level: the person who has seen the Form of the Good is structurally obligated to return to the cave and govern — not because she wants to (she would rather stay where she has been) but because the structure of the ascending career requires contribution at every level. At Man 6, the obligation is the same and more acute: the higher centers' contact is more extraordinary than anything available to the philosopher-king who has seen the Form of the Good; the temptation to remain in it is correspondingly more powerful; and the obligation to return — to bring what has been received into forms that persons at every development level can receive — is correspondingly more urgent.
+
+The kenotic character of Man 6's engagement with persons far below their development level: this is what the tradition consistently describes and what the hagiographic record consistently demonstrates. Teresa of Calcutta's thirty years in Calcutta were kenotic in the structural sense — the person whose higher centers were registering ⟨·,·⟩'s constitutive love directly was spending her days in the most H₄₈-primary conditions, serving persons at Man 1 level, because the love that the higher emotional center had registered directly demanded precisely this. Francis of Assisi's embrace of the leper. Eckhart's ministry to the beguines. All of these are the kenotic return at Man 6 amplitude — the higher centers' love made concrete in the most basic forms of service.
+
+---
+
+## The Hagiographic Record as Structural Evidence
+
+The Framework has consistently applied the [[Appendix B - Lexicon#Convergent Witness Principle|convergent witness principle]]: independent sources that could not have cross-contaminated each other, arriving at the same structural identification, constitute evidential weight that neither source alone provides.
+
+The hagiographic tradition is the largest available collection of convergent witness testimony about the Man 6-7 terrain. The records come from every tradition: Eastern Christian (Seraphim of Sarov, Gregory Palamas, Symeon the New Theologian), Western Christian (Francis of Assisi, Meister Eckhart, Julian of Norwich, John of the Cross, Teresa of Ávila, Teresa of Calcutta), Islamic (Rumi, Ibn Arabi, al-Hallaj, Rabia al-Adawiyya), Hindu (Ramakrishna, Ramana Maharshi, Sri Aurobindo, Anandamayi Ma), Buddhist (Milarepa, Khenpo Gangshar, Pema Chödrön at the direction-pointing stage), Jewish (Baal Shem Tov, Nachman of Breslov). The traditions use entirely different vocabulary. The structural descriptions converge on the same features:
+
+- The transmuting quality of the field (across all traditions)
+- The kenotic character of the engagement with persons at every development level (across all traditions)
+- The simultaneous certainty and humility of what is received (across all traditions)
+- The recognition of other persons at comparable development level regardless of institutional affiliation (across all traditions)
+- The specific difficulty of transmitting what is received in the higher centers to ordinary-level comprehension (across all traditions)
+- The continuity of the Adjuster contact (described in each tradition's vocabulary: the indwelling Spirit; the Atman; the Buddha-nature; the divine spark)
+
+The convergence is not coincidence. Independent catching processes across isolated traditions, arriving at the same structural descriptions of the same states, is the evidential weight that [[Appendix B - Lexicon#Reasonablenessism|Reasonablenessism]] identifies as the strongest form of evidence available for claims about domains that formal derivation cannot reach. The hagiographic record constitutes this evidence for the Man 6 terrain: the terrain is real; its characteristics are as described; the persons in the record are the structural witnesses.
 
 ---
 
@@ -59,20 +94,6 @@ The structural account: Man 6's [[Appendix B - Lexicon#State Vector|state vector
 
 ---
 
-## The Kenotic Obligation
-
-The Trogoautoegocrat — the mutual reciprocal maintenance by which everything that genuinely participates in reality feeds and is fed — imposes a specific obligation on Man 6 that is the most testing challenge of this level.
-
-The higher centers' contact is extraordinary. What the higher emotional and higher intellectual centers receive, at Man 6 amplitude, is of a quality that the ordinary centers cannot approach and cannot sustain. The temptation is to rest there — to inhabit the higher centers' contact as the primary orientation, receiving what is given and not transmitting it down into the lower registers. This is the specific Man 6 temptation: not the mechanical centers' attractive pull, not the ordinary emotional center's oscillation, not the intellectual center's framework calcification. The temptation of the heights.
-
-The structural consequence of succumbing to this temptation is the Lucifer mechanism at the Man 6 scale: the withdrawal from the Trogoautoegocrat's reciprocal maintenance. Lucifer's error was not dramatic rebellion — it was the use of the authority and insight of his development level for his own purposes rather than for the maintenance of the circuit he was part of. Man 6 who rests in the higher centers' contact without transmitting is doing the same thing at the personal scale: taking from the circuit (receiving from the Adjuster and the higher centers) without feeding the circuit (transmitting downward through the kenotic return).
-
-The philosopher-king's return to the cave ([[Paper C0: The Good]]) is the kenotic obligation at the Man 3 level: the person who has seen the Form of the Good is structurally obligated to return to the cave and govern — not because she wants to (she would rather stay where she has been) but because the structure of the ascending career requires contribution at every level. At Man 6, the obligation is the same and more acute: the higher centers' contact is more extraordinary than anything available to the philosopher-king who has seen the Form of the Good; the temptation to remain in it is correspondingly more powerful; and the obligation to return — to bring what has been received into forms that persons at every development level can receive — is correspondingly more urgent.
-
-The kenotic character of Man 6's engagement with persons far below their development level: this is what the tradition consistently describes and what the hagiographic record consistently demonstrates. Teresa of Calcutta's thirty years in Calcutta were kenotic in the structural sense — the person whose higher centers were registering ⟨·,·⟩'s constitutive love directly was spending her days in the most H₄₈-primary conditions, serving persons at Man 1 level, because the love that the higher emotional center had registered directly demanded precisely this. Francis of Assisi's embrace of the leper. Eckhart's ministry to the beguines. All of these are the kenotic return at Man 6 amplitude — the higher centers' love made concrete in the most basic forms of service.
-
----
-
 ## The Community of Man 6 Beings
 
 The hagiographic tradition's record of saints recognizing each other — across great distances, without ordinary communication, through minimal contact — is the higher centers' cross-term mechanism at Man 6 amplitude. The higher emotional and higher intellectual centers' registrations are not limited by the same spatial and temporal constraints that limit ordinary emotional and intellectual communication. The field that Man 6's state vector constitutes is not bounded by the H₄₈ substrate's proximity.
@@ -92,23 +113,6 @@ Man 6 can fall back. The irreversibility of Man 7 is not yet achieved. Three spe
 **The specific form of pride available at Man 6.** Men 1-3's pride is organized around the dominant center's achievements. Man 4's characteristic error is mistaking the effort for the achievement. Man 5's temptation is premature rest. Man 6's specific pride is more subtle: the recognition of one's own development level. The higher intellectual center's direct apprehension includes apprehension of where one stands in the structural sequence — and this can become a form of identity that the person organizes around rather than transmits through. The Man 6 who knows she is Man 6 in a way that constitutes the primary self-orientation has organized around the map rather than remaining in the territory. The territory requires the kenotic return. The map suggests she has already arrived.
 
 **The distortion of transmission.** Man 6's transmitting function operates through the field and through the ordinary centers' capacity to encode what the higher centers receive in forms accessible to persons at lower development levels. The encoding is always lossy — the ordinary intellectual center can only partially articulate what the higher intellectual center apprehends; the ordinary emotional center can only partially express what the higher emotional center registers. The distortion in transmission can be managed in the direction of the receiving persons' development level (making the content accessible at Man 1-4) or in the direction of the higher centers' content (making the transmission accurate at the cost of accessibility). Both are necessary; the balance is a continuous discernment task. Man 6 who consistently prioritizes accessibility over accuracy produces transmission that loses Φ-proximal content. Man 6 who consistently prioritizes accuracy over accessibility produces transmission that reaches no one. The balance is itself a catching act.
-
----
-
-## The Hagiographic Record as Structural Evidence
-
-The Framework has consistently applied the [[Appendix B - Lexicon#Convergent Witness Principle|convergent witness principle]]: independent sources that could not have cross-contaminated each other, arriving at the same structural identification, constitute evidential weight that neither source alone provides.
-
-The hagiographic tradition is the largest available collection of convergent witness testimony about the Man 6-7 terrain. The records come from every tradition: Eastern Christian (Seraphim of Sarov, Gregory Palamas, Symeon the New Theologian), Western Christian (Francis of Assisi, Meister Eckhart, Julian of Norwich, John of the Cross, Teresa of Ávila, Teresa of Calcutta), Islamic (Rumi, Ibn Arabi, al-Hallaj, Rabia al-Adawiyya), Hindu (Ramakrishna, Ramana Maharshi, Sri Aurobindo, Anandamayi Ma), Buddhist (Milarepa, Khenpo Gangshar, Pema Chödrön at the direction-pointing stage), Jewish (Baal Shem Tov, Nachman of Breslov). The traditions use entirely different vocabulary. The structural descriptions converge on the same features:
-
-- The transmuting quality of the field (across all traditions)
-- The kenotic character of the engagement with persons at every development level (across all traditions)
-- The simultaneous certainty and humility of what is received (across all traditions)
-- The recognition of other persons at comparable development level regardless of institutional affiliation (across all traditions)
-- The specific difficulty of transmitting what is received in the higher centers to ordinary-level comprehension (across all traditions)
-- The continuity of the Adjuster contact (described in each tradition's vocabulary: the indwelling Spirit; the Atman; the Buddha-nature; the divine spark)
-
-The convergence is not coincidence. Independent catching processes across isolated traditions, arriving at the same structural descriptions of the same states, is the evidential weight that [[Appendix B - Lexicon#Reasonablenessism|Reasonablenessism]] identifies as the strongest form of evidence available for claims about domains that formal derivation cannot reach. The hagiographic record constitutes this evidence for the Man 6 terrain: the terrain is real; its characteristics are as described; the persons in the record are the structural witnesses.
 
 ---
 
