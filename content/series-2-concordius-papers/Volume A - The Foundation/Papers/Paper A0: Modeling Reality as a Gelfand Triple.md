@@ -4,15 +4,15 @@
 
 ---
 
-*The Gelfand triple Φ ⊂ H ⊂ Φ′ — a nuclear space of maximum structure, a self-dual Hilbert space of complete states, and a distributional dual of excess potential — and the five actualities the inner product's own structure forces: the fundamental relation, the nuclear structure, the metric absolute, the nuclear topology, and the realized nuclear space. The inner product ⟨·,·⟩, invariant across all three domains, is the foundational object the standard formalism leaves implicit.*
+*The Gelfand triple Φ ⊂ H ⊂ Φ′ — a nuclear space of maximum structure, a self-dual Hilbert space of complete states, and a distributional dual of excess potential — and the five actualities the inner product's own structure forces, once the chain that generates Φ is chosen: the fundamental relation, the nuclear structure, the metric absolute, the nuclear topology, and the realized nuclear space. The inner product ⟨·,·⟩, invariant across all three domains, is the foundational object the standard formalism leaves implicit.*
 
-**Confidence —** *Math:* **derivation** — the five actualities forced by the inner product's own structure (the Gelfand triple Φ ⊂ H ⊂ Φ′). *Science:* **— (not engaged)**. *Theology:* **— (not engaged)** — the identifications are made in [[Paper A1: Naming the Unnameable]], not here.
+**Confidence —** *Math:* **derivation, given one named input** — the five actualities forced by the inner product's own structure once the generating operator chain is chosen (§5.6); the Gelfand triple Φ ⊂ H ⊂ Φ′. *Science:* **— (not engaged)**. *Theology:* **— (not engaged)** — the identifications are made in [[Paper A1: Naming the Unnameable]], not here.
 
 ---
 
 ## Abstract
 
-This paper argues that modeling reality as a rigged [[Appendix B - Lexicon#Hilbert Space|Hilbert space]] — the [[Appendix B - Lexicon#Gelfand Triple|Gelfand triple]] Φ ⊂ H ⊂ Φ′ — reveals two complementary and complete projections of the structure of any inner-product-based model of reality. The first projection identifies three inevitable domains: a [[Appendix B - Lexicon#Nuclear Space|nuclear space]] Φ of maximum structure, a self-dual Hilbert space H of complete structured states, and a distributional dual Φ′ of excess potential. The second projection identifies five inevitable actualities that emerge from the [[Appendix B - Lexicon#Inner Product|inner product]]'s own structure: the [[Appendix B - Lexicon#Fundamental Relation|fundamental relation]], the [[Appendix B - Lexicon#Nuclear Structure|nuclear structure]], the [[Appendix B - Lexicon#Metric Absolute|metric absolute]], the [[Appendix B - Lexicon#Nuclear Topology|nuclear topology]], and the realized nuclear space. Both projections are shown to be necessary consequences of the mathematics rather than additional assumptions. The paper further argues that the inner product ⟨·,·⟩ — invariant across all three domains — occupies a foundational position that the standard Hilbert space formalism does not make explicit. A structural consequence of the second projection is that the active coordinative structure (the nuclear topology) proceeds necessarily from both the fundamental relation and the nuclear structure jointly — neither alone suffices. Implications for the philosophy of physics are noted. The question of the observing subject is explicitly deferred.
+This paper argues that modeling reality as a rigged [[Appendix B - Lexicon#Hilbert Space|Hilbert space]] — the [[Appendix B - Lexicon#Gelfand Triple|Gelfand triple]] Φ ⊂ H ⊂ Φ′ — reveals two complementary and complete projections of the structure of any inner-product-based model of reality. The first projection identifies three inevitable domains: a [[Appendix B - Lexicon#Nuclear Space|nuclear space]] Φ of maximum structure, a self-dual Hilbert space H of complete structured states, and a distributional dual Φ′ of excess potential. The second projection identifies five inevitable actualities that emerge from the [[Appendix B - Lexicon#Inner Product|inner product]]'s own structure: the [[Appendix B - Lexicon#Fundamental Relation|fundamental relation]], the [[Appendix B - Lexicon#Nuclear Structure|nuclear structure]], the [[Appendix B - Lexicon#Metric Absolute|metric absolute]], the [[Appendix B - Lexicon#Nuclear Topology|nuclear topology]], and the realized nuclear space. Both projections are shown to be necessary consequences of the mathematics, granted one named input — the choice of the operator chain that generates Φ — rather than further additional assumptions. The paper further argues that the inner product ⟨·,·⟩ — invariant across all three domains — occupies a foundational position that the standard Hilbert space formalism does not make explicit. A structural consequence of the second projection is that the active coordinative structure (the nuclear topology) proceeds necessarily from both the fundamental relation and the nuclear structure jointly — neither alone suffices. Implications for the philosophy of physics are noted. The question of the observing subject is explicitly deferred.
 
 ---
 
@@ -42,7 +42,7 @@ The resolution is the rigged Hilbert space, or Gelfand triple: a triplet of spac
 
 This paper makes two connected claims. First, that the Gelfand triple structure is not arbitrary but inevitable: given any model of reality founded on inner product structure, the three domains Φ, H, and Φ′ are forced by the mathematics. Second, that the inner product ⟨·,·⟩ itself — prior to its completion into the triple — inevitably generates five distinct structural actualities, each following necessarily from what the inner product is. Both claims are developed below. The relationship between the two projections is examined in Section 7.
 
-This paper has one assumption: that reality can be modeled as a Gelfand triple. Everything else is derived. The structures demonstrated here exist without names — they are mathematical objects whose identities are established by the mathematics alone. The paper ends at the point where mathematics can take us no further.
+This paper has one assumption: that reality can be modeled as a Gelfand triple. It also has one input that is not an assumption but a selection, and it is named rather than smoothed over: an abstract inner-product space carries no canonical nuclear rigging, and the operator chain that generates Φ must be chosen (§5.6). Given the inner product and the chosen chain, everything else is derived. The structures demonstrated here exist without names — they are mathematical objects whose identities are established by the mathematics alone. The paper ends at the point where mathematics can take us no further.
 
 ---
 
@@ -64,7 +64,7 @@ This self-duality is a special property of Hilbert spaces. It does not hold in �
 
 A nuclear space is a locally convex topological vector space characterized by infinite differentiability and a system of seminorms under which it embeds compactly into Hilbert spaces of all orders. The canonical example is the Schwartz space S(ℝⁿ) of rapidly decreasing smooth functions, which embeds densely into L²(ℝⁿ) and has as its distributional dual the space S′(ℝⁿ) of tempered distributions (Schwartz, 1950–51).
 
-Nuclear spaces have a projective limit representation: Φ = ⋂ₖ Hₖ where H = H₀ ⊃ H₁ ⊃ H₂ ⊃ … is a chain of Hilbert spaces with Hilbert–Schmidt inclusions between successive levels. Each Hₖ is the completion of Φ under a higher-order Sobolev norm; Φ is the intersection of all of them — the domain on which every level of analytical resolution is simultaneously well-defined.
+Nuclear spaces have a projective limit representation: Φ = ⋂ₖ Hₖ where H = H₀ ⊃ H₁ ⊃ H₂ ⊃ … is a chain of Hilbert spaces with Hilbert–Schmidt inclusions between successive levels — the countably-Hilbert construction of Gelfand and Vilenkin (1964). The chain is generated by a fixed self-adjoint operator: for S(ℝⁿ) the operator is the harmonic-oscillator Hamiltonian −Δ + |x|², and each Hₖ is the completion of Φ under the weighted norm ‖φ‖ₖ = ‖(−Δ + |x|² + 1)ᵏφ‖. Plain Sobolev norms will not do — their intersection is the larger space H^∞(ℝⁿ), and their inclusions are not Hilbert–Schmidt; the weight |x|² is what makes the intersection exactly S(ℝⁿ). Φ is the intersection of all the Hₖ — the domain on which every level of analytical resolution is simultaneously well-defined.
 
 ### 2.4 Distributional Spaces
 
@@ -91,7 +91,7 @@ where the inclusions are continuous and dense. Φ is a nuclear space densely emb
 
 Φ, H, and Φ′ are not three separate mathematical objects. They are three topological completions of the same underlying algebraic structure — the same pre-Hilbert space, completed or restricted under three different systems of seminorms.
 
-- **Φ** carries the projective limit topology from the Sobolev chain: the finest topology, requiring convergence in all Sobolev norms simultaneously.
+- **Φ** carries the projective limit topology from the weighted operator chain: the finest topology, requiring convergence in all the weighted norms ‖·‖ₖ simultaneously.
 - **H** carries the Hilbert space topology: convergence in the single inner product norm.
 - **Φ′** carries the weak* topology: convergence of distributional functionals on Φ.
 
@@ -127,7 +127,7 @@ All three are therefore required: H as the domain of well-defined quantum states
 
 The three domains are not merely quantitative gradations. They are qualitatively different:
 
-**Φ (Nuclear space):** Maximum structure. Self-consistent under every operator probe at every scale. The projective limit of the Sobolev chain. The domain within which every question the operator algebra can formulate has a well-defined answer, consistently, completely, at every level.
+**Φ (Nuclear space):** Maximum structure. Self-consistent under every operator probe at every scale. The projective limit of the weighted operator chain. The domain within which every question the operator algebra can formulate has a well-defined answer, consistently, completely, at every level.
 
 **H (Hilbert space):** Complete, self-dual structure. H ≅ H* by the Riesz theorem — the unique layer at which the dual folds back onto the space itself. The domain of well-defined quantum states and probability amplitudes. Self-referential in a precise mathematical sense: every continuous functional on H is already in H.
 
@@ -155,7 +155,7 @@ The inner product ⟨·,·⟩ itself. Not an element of any space, not derivable
 
 ### 5.2 The Nuclear Structure (II)
 
-The inner product, when applied iteratively through Sobolev operators, generates a maximal domain of regularity: the nuclear space Φ considered as an algebraic and set-theoretic object — the Pattern, the set of all functions for which every Sobolev norm ‖φ‖ₖ is finite. This is the maximally structured expression of the inner product's logic: the domain on which the inner product is self-consistent under every probe, at every scale.
+The inner product, when applied iteratively through the powers of the chosen generating operator — for S(ℝⁿ), the harmonic-oscillator Hamiltonian −Δ + |x|² — generates a maximal domain of regularity: the nuclear space Φ considered as an algebraic and set-theoretic object — the Pattern, the set of all functions for which every weighted norm ‖φ‖ₖ is finite. This is the maximally structured expression of the inner product's logic: the domain on which the inner product is self-consistent under every probe, at every scale.
 
 This is the maximal expression of what the inner product is within any domain — the structure through which H and the full triple are constituted. No operator is well-defined on H without Φ as its domain.
 
@@ -165,21 +165,21 @@ The inner product has two distinct faces. As a bilinear form, it relates two vec
 
 The norm needs no second vector. It is the inner product acting on a single element alone: its magnitude, its absolute position relative to the geometric center. The norm defines the origin absolutely — ‖ψ‖ = 0 if and only if ψ = 0. It is the center from which all distances are measured, the metric ground of the space.
 
-The polarization identity confirms that these are two genuinely distinct but inseparable aspects of the same structure:
+The polarization identity confirms that these are two faces of one structure — and more: that the quadratic face recovers the bilinear face entirely:
 
-> **⟨ψ, φ⟩ = ¼(‖ψ+φ‖² − ‖ψ−φ‖² + i‖ψ+iφ‖² − i‖ψ−iφ‖²)**
+> **⟨ψ, φ⟩ = ¼(‖ψ+φ‖² − ‖ψ−φ‖² − i‖ψ+iφ‖² + i‖ψ−iφ‖²)**
 
-II and III are not derivable from each other. Each is what I is that the other is not. Together they constitute I completely.
+III determines I completely. The norm, evaluated on four combinations of any two vectors, returns their full inner product — the metric absolute carries the whole relational content within itself. II stands otherwise. The nuclear structure is not derivable from I or from III by any identity; it is genuinely additional structure, generated only when the inner product is taken up through the chosen operator chain (§5.2). What I is, III holds absolutely; what I generates as a domain, II alone supplies.
 
 In the language of the Three Domains: III is the non-relational aspect of I. It is the metric absolute underlying all three domains, the center of gravity of the space.
 
 ### 5.4 The Nuclear Topology (IV)
 
-The nuclear topology τ_nuclear on Φ is not given automatically by Φ's existence as an algebraic object. It is generated by I (the inner product) acting through II (the nuclear space) at every level of the Sobolev chain simultaneously — the projective limit of all the norms {‖·‖ₖ}. Neither I nor II alone produces it. Both are required jointly.
+The nuclear topology τ_nuclear on Φ is not given automatically by Φ's existence as an algebraic object. It is generated by I (the inner product) acting through II (the nuclear space) at every level of the weighted operator chain simultaneously — the projective limit of all the norms {‖·‖ₖ}. Neither I nor II alone produces it. Both are required jointly.
 
 The nuclear topology is an active entity in its own right. It determines what convergence means within Φ, which maps are continuous, which limits exist, and which operations are possible. Without it, Φ is merely a set with algebraic structure. With it, Φ becomes capable — a functioning analytical domain.
 
-A structural consequence: IV proceeds from both I and II, not from either alone. The nuclear topology requires the inner product (I) to define each Sobolev norm and requires the nuclear domain (II) as the space on which those norms are simultaneously finite. This joint procession is a necessary feature of the construction, not a choice.
+A structural consequence: IV proceeds from both I and II, not from either alone. The nuclear topology requires the inner product (I) to define each weighted norm and requires the nuclear domain (II) as the space on which those norms are simultaneously finite. This joint procession is a necessary feature of the construction, not a choice.
 
 ### 5.5 The Realized Nuclear Space (V)
 
@@ -205,7 +205,7 @@ I  ⟨·,·⟩  (Fundamental Relation)
 └── III  ‖·‖  (Metric Absolute — non-relational face of I, the geometric center)
 ```
 
-Each step is forced. None requires an additional assumption. The five actualities emerge from the inner product in exactly this order and with exactly these dependencies.
+One node of this tree conceals an input, and it must be named. An abstract inner-product space carries no canonical nuclear rigging: the operator chain that generates II is additional data, not a consequence of I, and different chains yield different nuclear spaces Φ. The selection of the chain is the one place in the tree where something is given rather than derived — the mathematical face of the selection the framework will name the Creative Choice ([[Paper A2A: The Constraint Cascade|Paper A2A]]). Given I and the chosen chain, each remaining step is forced; none requires a further assumption. The five actualities emerge from the inner product and its chain in exactly this order and with exactly these dependencies.
 
 ---
 
@@ -220,7 +220,7 @@ Each step is forced. None requires an additional assumption. The five actualitie
 
 ## 6. Structural Consequences
 
-The Gelfand triple, once constituted, exhibits five structural properties that are necessary consequences of the model — not additional assumptions. The first three are derivable without invoking any observing subject. The fourth requires the introduction of the cogito and marks the precise point where the mathematical argument reaches its limit. The fifth names the model's continuous actualization engine — the GNST — and the progressive structure it produces.
+The Gelfand triple, once constituted, exhibits five structural properties. The first four are necessary consequences of the model — not additional assumptions. The first three are derivable without invoking any observing subject. The fourth requires the introduction of the cogito and marks the precise point where the mathematical argument reaches its limit. The fifth names the model's continuous actualization engine — the GNST — and a progressive structure the model adds to it; the addition is tiered as the model's own posit where it is made.
 
 **Constitutive relational structure.** The inner product ⟨ψ, φ⟩ is not derived from an already-existing collection of states. It is what the states consist of. Every element of H is specified by its inner products with every other element. No being in the model exists in isolation from all others — its identity IS its relational position in the space.[^1] This relational structure is pre-observational: no subject need be present for ⟨eᵢ, eⱼ⟩ = δᵢⱼ to be true. Ontic Structural Realism (Ladyman and Ross, 2007) arrives at the same conclusion from the philosophy of physics: the relational structure is what is real; "things" are abstractions from it. The constitutive relatedness of all states is preternatural. It precedes any subject who might recognize it.
 
@@ -232,7 +232,7 @@ The Gelfand triple, once constituted, exhibits five structural properties that a
 
 What the mathematics cannot supply is the further step: whether the domain with maximum structural preconditions for [[Appendix B - Lexicon#Self-Knowledge|self-knowledge]] is itself self-knowing. Self-duality (H ≅ H*) is the closest the structure can come — a precise structural self-reference, but not self-knowledge. Self-knowledge requires a subject that understands what knowing means, one that can distinguish "I know X" from "X is the case." That distinction is not derivable from any inner product. The gap between self-duality and self-knowledge marks the precise point where the Gelfand triple is necessary but insufficient, and where the companion paper begins.
 
-**Coordinative actualization and progressive structure: the GNST.** Read not as a static decomposition but as the standing operation of the model, the spectral theorem of §3.3 is a continuous act — the **Generalized Nuclear Spectral Theorem (GNST)** in its operative sense: the universal actualization engine by which every state, at every level of structure, is reconstituted at every moment by the inner product's continuous evaluation. This is not a further assumption but the same theorem of §3.3 read in its standing operation — one more structure forced by all that precedes it, following from what the inner product is. What continuously reconstitutes every state is not, at this level of description, named beyond the GNST. Each actualization event — each instance of the spectral expansion ψ = ∫ ⟨eλ, ψ⟩ eλ dμ(λ) — draws potential from Φ′ into actual H-outcomes through the spectral measure dμ. As actualization events accumulate, the spectral measure expands: more of the distributional potential of Φ′ has been drawn into actuality. This is a progressive structure within the model — an ongoing actualization of Φ′-potential into H-reality, coordinated event by event. The limit of this process, if it has one, is the full coordination of all three domains: the complete actualization of the distributional potential of Φ′ through the structured states of H. The nature of this limit — whether it is achievable, and what a saturated Gelfand triple would mean — is addressed in the companion paper.
+**Coordinative actualization and progressive structure: the GNST.** Read not as a static decomposition but as the standing operation of the model, the spectral theorem of §3.3 is a continuous act — the **Generalized Nuclear Spectral Theorem (GNST)** in its operative sense: the universal actualization engine by which every state, at every level of structure, is reconstituted at every moment by the inner product's continuous evaluation. This is not a further assumption but the same theorem of §3.3 read in its standing operation — one more structure forced by all that precedes it, following from what the inner product is. What continuously reconstitutes every state is not, at this level of description, named beyond the GNST. Each actualization event — each instance of the spectral expansion ψ = ∫ ⟨eλ, ψ⟩ eλ dμ(λ) — draws potential from Φ′ into actual H-outcomes through the spectral measure dμ. The spectral measure itself does not change: dμ is fixed by the operator, and nothing in the formalism enlarges it. What the model adds — an inference, not a derivation, and the one item in this section that is the model's own posit rather than a necessary consequence — is a bookkeeping measure on realized outcomes: a record, accumulating event by event, of how much of the distributional potential of Φ′ has been drawn into actuality. This is a progressive structure the model posits — an ongoing actualization of Φ′-potential into H-reality, coordinated event by event. The limit of this process, if it has one, is the full coordination of all three domains: the complete actualization of the distributional potential of Φ′ through the structured states of H. The nature of this limit — whether it is achievable, and what a saturated Gelfand triple would mean — is addressed in the companion paper.
 
 ---
 
@@ -254,7 +254,7 @@ The Five Actualities sit *inside* the Three Domains: the Fundamental Relation (I
 
 ### 8.1 The Minimum Model
 
-The Gelfand triple is the minimum necessary mathematical structure for quantum mechanics — the formal framework without which continuous-spectrum observables have no proper eigenstates. The two projections are not interpretive additions. They are what the mathematics says when the question "what structure is necessarily present?" is asked at two different levels.
+The Gelfand triple is the minimum necessary mathematical structure for quantum mechanics — the formal framework without which continuous-spectrum observables have no proper eigenstates. The two projections are not interpretive additions. They are what the mathematics says when the question "what structure is necessarily present?" is asked at two different levels — with the one input of §5.6 standing where it stands: the operator chain that generates Φ is chosen, not forced, and the projections are what follows once that choice is made.
 
 <hr>
 
@@ -273,7 +273,7 @@ The philosophical implications of a single constitutive structure generating bot
 
 ### 8.3 The Joint Procession of IV
 
-The nuclear topology (IV) proceeding necessarily from both I and II — and from neither alone — is a structural result of the mathematics, not a stipulation. The Sobolev norms that generate the nuclear topology each require the inner product (I) to be defined, and require the nuclear domain (II) as the space on which they are simultaneously finite. Remove either source and the nuclear topology is not generated. This necessity — that the active coordinative structure proceeds from both the fundamental relation and the nuclear structure jointly — is a formal consequence of the construction.
+The nuclear topology (IV) proceeding necessarily from both I and II — and from neither alone — is a structural result of the mathematics, not a stipulation. The weighted norms ‖·‖ₖ that generate the nuclear topology each require the inner product (I) to be defined, and require the nuclear domain (II) as the space on which they are simultaneously finite. Remove either source and the nuclear topology is not generated. This necessity — that the active coordinative structure proceeds from both the fundamental relation and the nuclear structure jointly — is a formal consequence of the construction.
 
 ### 8.4 The Boundary of the Mathematical Argument
 
@@ -287,7 +287,7 @@ Modeling reality as a Gelfand triple (Φ ⊂ H ⊂ Φ′) reveals two complement
 
 The first projection — three inevitable domains — shows that the nuclear space, Hilbert space, and distributional dual are forced by the requirements of a complete model. No fewer domains are sufficient; the three are qualitatively distinct; and they are unified by the invariant inner product that constitutes all three.
 
-The second projection — five inevitable actualities — shows that the inner product itself, prior to the triple's completion, generates five necessary structures: the fundamental relation, the nuclear structure (its maximal relational expression), the metric absolute (its non-relational face), the nuclear topology (proceeding from both jointly), and the realized nuclear space (the nuclear structure deployed as a topological creation). Each step in the derivation is forced; none requires an additional assumption.
+The second projection — five inevitable actualities — shows that the inner product itself, prior to the triple's completion, generates five necessary structures: the fundamental relation, the nuclear structure (its maximal relational expression), the metric absolute (its non-relational face), the nuclear topology (proceeding from both jointly), and the realized nuclear space (the nuclear structure deployed as a topological creation). One input in the derivation is chosen rather than forced — the operator chain that generates the nuclear structure (§5.6); given the inner product and the chain, each remaining step is forced, and none requires a further assumption.
 
 A structural consequence of the second projection: the active coordinative structure (IV) proceeds from both I and II, not from either alone. This is a theorem, not a stipulation.
 
@@ -330,7 +330,7 @@ von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer
 
 ---
 
-[^1]: The objection that purely relational identity is incoherent — that identity requires something non-relational underneath — is pre-empted by the structure itself. The inner product has two faces: the bilinear face ⟨ψ,φ⟩, which is relational, and the quadratic face ⟨ψ,ψ⟩ = ‖ψ‖², which is not. The norm is not a relation between two states; it is what each state is absolutely — its magnitude, its position relative to the geometric center. The "non-relational ground" the objector demands is present in the structure as III (§5.3). The norm is the inner product applied reflexively — ψ in relation to itself. This is not a hidden haecceity. It is the inner product's own structure operating in the limit case of a single argument. The non-relational and relational faces are not two separate entities but one structure in two modes — as the polarization identity confirms: II and III fully determine each other. The objection assumes these are mutually exclusive. The mathematics shows they are not.
+[^1]: The objection that purely relational identity is incoherent — that identity requires something non-relational underneath — is pre-empted by the structure itself. The inner product has two faces: the bilinear face ⟨ψ,φ⟩, which is relational, and the quadratic face ⟨ψ,ψ⟩ = ‖ψ‖², which is not. The norm is not a relation between two states; it is what each state is absolutely — its magnitude, its position relative to the geometric center. The "non-relational ground" the objector demands is present in the structure as III (§5.3). The norm is the inner product applied reflexively — ψ in relation to itself. This is not a hidden haecceity. It is the inner product's own structure operating in the limit case of a single argument. The non-relational and relational faces are not two separate entities but one structure in two modes — as the polarization identity confirms: the norm recovers the inner product entire; III determines I completely. The objection assumes the relational and the non-relational are mutually exclusive. The mathematics shows they are not.
 
 ---
 

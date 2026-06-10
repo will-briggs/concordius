@@ -21,7 +21,8 @@ Spirit  =  τ_nuclear     nuclear topology on Φ; collection of all seminorms; c
 
 H  =  abstract inner-product space (not a constraint level; the structural ground prior to all instantiation)
 
-Clifford algebra at H₄₈:  Cl(3,0)
+Clifford algebra:  Cl(3,0)   spatial/structural algebra; extended to Cl(3,1) (e₀ adjoined)
+                             at the temporal levels (H₂₄ and below), fully at H₄₈ (§III, Time)
   grade 0  =  scalar {1}             constitutional ground; Father's constitutive base
   grade 1  =  vectors {e₁,e₂,e₃}    material constraint; the H₄₈ content field
   grade 2  =  bivectors {e₁e₂,e₁e₃,e₂e₃}  relational/morontial operations
@@ -47,7 +48,7 @@ Agape  =  ⟨·,·⟩ expressed laterally at H₄₈: the relational orientation
 | H₄₈ | 48 | Earth / material | Geometry fixed independently of content; ⟨·,·⟩ operates within geometry |
 | H₉₆ | 96 | Moon / sub-material | Gravitational sifting endpoint; consciousness structurally impossible |
 
-Subscript = number of independently operating constraint law-sets. More constraints = denser, more fixed, higher Time (aging) rate — and Time operates only at H₂₄ and below; the GNST runs at every level but ages only where Cl(3,1)'s e₀ is present. H₉₆ is not a waypoint on the ascending career; it is where catching-failed content drains.
+Subscript = number of independently operating constraint law-sets. The level-to-level doubling is graded structural inference, not derivation (the fractal mechanism — each constraint generates its local counterpart; Paper A2B §8). More constraints = denser, more fixed, higher Time (aging) rate — and Time operates only at H₂₄ and below; the GNST runs at every level but ages only where Cl(3,1)'s e₀ is present. H₉₆ is not a waypoint on the ascending career; it is where catching-failed content drains.
 
 ---
 
@@ -104,14 +105,15 @@ The Spirit has no crossing. τ_nuclear is the ongoing topological condition that
 ### Interval Structure
 
 **Mi/Fa interval** (grade 1 → grade 2)
-- Cannot be crossed from within the grade-1 mode by grade-1 means
-- Requires external input from a source already operating at grade-2
+- Cannot be crossed from within a single-generator subprocess: eᵢ² = +1 returns the scalar
+- Bridged by a second grade-1 generator — external to the subprocess, already within the algebra (Paper A2A §2)
 - The ascending being must be receiving, not asserting
 - Post-Pentecost: τ_nuclear universalized; grade-2 provision available to all catching beings regardless of local access
 - Dark Night of the Senses (John of the Cross) = Mi/Fa interval approached correctly
 
-**Si/Do interval** (grade 2 → grade 3)
-- Cannot be crossed from below at all
+**Si/Do interval** (the octave change; in-algebra shadow: grade 2 → grade 3)
+- In-algebra step (grade 2 → grade 3): closed to grade-2 means — even-subalgebra closure, products and sums of bivectors never leave Cl⁰(3,0) ≅ ℍ — though its resource, a third generator, is within the algebra (Paper A2A §2)
+- Octave change proper: cannot be crossed from below at all; requires a generator from outside the algebra (e₀; Paper A2A §2)
 - Requires the Father's constitutive completion: Adjuster fusion
 - The ascending being holds the prepared state and does not force the crossing
 - The Father's completing act cannot be self-administered

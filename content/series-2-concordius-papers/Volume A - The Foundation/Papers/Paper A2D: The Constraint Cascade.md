@@ -56,11 +56,11 @@ The algebra is forced; the name is received; the world points home. Held apart, 
 
 3. **Dirac, P.A.M.** (1930). *The Principles of Quantum Mechanics.* Oxford University Press. [The distributional eigenstates; the position eigenstate as Dirac delta; the physical necessity of the Φ′ domain.]
 
-4. **Hestenes, D.** (1966). *Space-Time Algebra.* Gordon and Breach. [The Dirac equation rewritten in Cl(3,1) as a statement about the geometric algebra of spacetime — the result that makes the Dirac equation a consequence of the grade-1→grade-2 crossing rather than an independent derivation. See also Hestenes, D. (2003). "Spacetime Physics with Geometric Algebra." *American Journal of Physics,* 71(7), 691–714.]
+4. **Hestenes, D.** (1966). *Space-Time Algebra.* Gordon and Breach. [The Dirac equation rewritten in Cl(1,3) as a statement about the geometric algebra of spacetime — the opposite signature convention from the framework's Cl(3,1), whose real (Majorana) form the Dirac theory also admits — the result that makes the Dirac equation a consequence of e₀'s entry at the octave change H₁₂ → H₂₄ rather than an independent derivation. See also Hestenes, D. (2003). "Spacetime Physics with Geometric Algebra." *American Journal of Physics,* 71(7), 691–714.]
 
 5. **Gospel accounts of the resurrection appearances.** Matthew 28; Luke 24; John 20–21; Acts 1. [Treated as historical testimony to the post-mortem manifestation of a being operating under 24 constraints within a 48-constraint physical space.]
 
-6. **Einstein, A.** (1905). "Zur Elektrodynamik bewegter Körper." *Annalen der Physik,* 17, 891–921. [Special relativity's second postulate: the constancy of c stipulated as an axiom rather than derived — the postulate the grade-1→grade-2 crossing replaces with a structural consequence.]
+6. **Einstein, A.** (1905). "Zur Elektrodynamik bewegter Körper." *Annalen der Physik,* 17, 891–921. [Special relativity's second postulate: the constancy of c stipulated as an axiom rather than derived — the postulate the octave change H₁₂ → H₂₄ replaces with a structural consequence.]
 
 7. **Birge, R.T.** (1929). "Probable Values of the General Physical Constants." *Reviews of Modern Physics,* 1(1), 1–73. [The systematic review of early 20th-century c measurements — successive campaigns not mutually consistent within claimed uncertainties, the scatter subsequently attributed to improving technique rather than real variation.]
 
@@ -74,7 +74,7 @@ The algebra is forced; the name is received; the world points home. Held apart, 
 
 12. **Magueijo, J.** (2003). *Faster Than the Speed of Light: The Story of a Scientific Speculation.* Perseus Books. [Accessible account of VSL theory and the institutional resistance it encountered; relevant to the sociology of how c's constancy became entrenched as a postulate.]
 
-[^hydro]: The Framework's Hₙ subscripts denote the Hilbert space indexed by the number of constraints operating at each level; the subscript numbers — H₃, H₆, H₁₂, H₂₄, H₄₈, H₉₆ — appear in order with a doubling between each step. These subscripts are derived from the mathematics of eigenstate selection, not assigned from observation: the constraint doubling follows from the information-theoretic structure of binary spectral collapse. The notation describes only between-level structure; it does not attempt to name within-level refinements.
+[^hydro]: The Framework's Hₙ subscripts denote the Hilbert space indexed by the number of constraints operating at each level; the subscript numbers — H₃, H₆, H₁₂, H₂₄, H₄₈, H₉₆ — appear in order with a doubling between each step. These subscripts come from the cascade's structure, not from observation: the constraint doubling is carried by the fractal mechanism — each operating constraint generating its local counterpart (Paper A2B §8) — a structural inference, not an information-theoretic derivation. The notation describes only between-level structure; it does not attempt to name within-level refinements.
 
 ---
 
