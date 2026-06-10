@@ -64,6 +64,16 @@ The structural implication for the earthly octave: the mansion worlds are H₂�
 
 ---
 
+## Structural Note: The Integration of the Whole
+
+Volume G is **Si** — the seventh and last note of the super-octave (**A·B·C — D·E·F — G**), and the only volume whose task is to integrate every note before it. The earlier volumes each did one thing: A–C laid the foundation a skeptic can stand on (the conservative reading of mathematics, science, and Scripture); D–F made the speculative reach past the Mi/Fa gap (the inversion, the privation, the ascent — drawing on the Urantia testimony, the astrological charts, Gurdjieff, the non-canonical witnesses, each named as speculation). The Practice can do neither alone. A person at Man 1 does not need a foundation *or* a reach; she needs the work, and the work requires both at once.
+
+So the discipline of G is the hardest of the corpus: **to stand on A–C while holding D–F within reach** — to keep both feet on the ground that compels a reasonable mind, and still draw on the speculative half for what it alone supplies, taking the useful from it without leaning the foundation on it. The seven prescriptions are built this way. Where the math, the Scripture, and the tested psychology can carry the practice, they carry it; where the terrain runs past what they map — the phenomenology of the dark night, the mechanics of the higher centers, the shape of the grade changes — the speculative witnesses are admitted by name to speak where the conservative sources fall silent, and never as the ground the practice stands on.
+
+**The order within each paper follows the same arc, conservative → speculative.** The witnesses to each level are laid in descending firmness: the **mathematical** ground first (the framework's own derivation), then the **Scriptural / theological** witness and the **modern psychology** (CBT, DBT, logotherapy — the secular rediscoveries) — the A–C-grade testimony a reasonable person can grant — and only then, below them, the **speculative** witnesses: Gurdjieff's Fourth Way and the alchemical sequence, the esoteric mappings admitted from D onward. The reader who trusts only the conservative half still finds a complete, foundation-grade practice in the upper portion of every paper; the reader who will reach further finds the deepening below it, marked for what it is. The ordering is the integration made visible: the firm thing first, the reach named as a reach, on every page.
+
+---
+
 ## Summary of Contents
 
 **[[Paper G0: The Gut-Orientation|Paper G0: The Gut-Orientation]]**

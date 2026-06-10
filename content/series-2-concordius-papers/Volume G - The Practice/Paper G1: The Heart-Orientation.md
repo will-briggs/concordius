@@ -116,20 +116,6 @@ The catching condition (Paper A4) requires: noise floor reduction × volitional 
 
 The dark night is the condition in which the automatic component is removed, forcing the volitional component to carry the entire catching act. The volitional component has not been developed to that capacity. The dark night is the structural pressure that develops it — not by demanding the impossible immediately, but by removing the automatic support that made the volitional requirement undetectable. When the emotional center's H₂₄ flow stops, Man 2 discovers for the first time that she has been mostly riding it rather than rowing it.
 
-### Gurdjieff
-Man 2 corresponds to the "emotional type" in Gurdjieff's typology — the person who works best and most naturally through feeling, music, religious emotion, and devotion. Gurdjieff was characteristically unsentimental about Man 2's gifts: the emotional center's H₂₄ contact, however real, does not produce the crystallized soul ([[Appendix B - Lexicon#Morontia|morontia]] body) required for ascent beyond the threshold, because the catching is not under sufficient volitional control. "Emotional man knows as long as he feels. When he stops feeling, he forgets."
-
-This formulation is harsh and precisely correct. Man 2's soul deposit is real. It is also largely state-dependent: accessible when the emotional state is aligned, inaccessible when it is not. The transition to Man 3 is the development of an Φ-proximal deposit that remains accessible regardless of emotional state — because it is carried in the intellectual center's organized understanding rather than solely in the emotional center's felt contact.
-
-Gurdjieff's practices for Man 2 specifically: self-observation applied to the emotional center's automatic machinery — not suppressing the emotions but watching them with the beginning of the observer function; distinguishing genuine H₂₄ registrations from H₄₈-colored emotional reactions; the requirement to not express negative emotions externally (not suppress internally, but not express outwardly) as a practice of volitional management of the emotional center's automatic expression.
-
-### Alchemical Tradition
-Man 2's condition is [[Appendix B - Lexicon#Alchemical Stages|Albedo]]: the whitening, the lunar phase, the stage of reflection and receptivity. The Albedo follows the Nigredo of Man 1: the H₄₈ primary structure has dissolved sufficiently to allow the Φ-proximal content to emerge, but the Albedo has not yet consolidated into the Citrinitas (dawn) and Rubedo (solar, active, generative) of Man 3 and beyond.
-
-The Albedo is inherently lunarsymbol: it reflects rather than generates; it receives rather than initiates; its light is borrowed light. This is not a flaw — it is a stage. The Albedo's receptivity is the emotional center's greatest gift. The Citrinitas toward which Man 2 moves is the moment the emotional center's reflected light begins to generate its own warmth. The transition from lunar (received, reflected) to solar (generated, organized, active) is the transition from Man 2 to Man 3.
-
-The alchemical warning: the Albedo can be mistaken for the final state. Its beauty and its clarity can convince the practitioner that the Great Work is complete. The practitioner in the Albedo who stops working, having mistaken the moon for the sun, will discover that the Albedo's light disappears when the source that illuminated it rotates away. The dark night is that rotation: the moment the Albedo's borrowed light is withdrawn so that the practitioner discovers whether she can generate her own.
-
 ### Theological Tradition
 **John of the Cross** is the primary theological witness for Man 2. *The Dark Night of the Soul* is a structural manual for Man 2's primary challenge. His two dark nights — the [[Appendix B - Lexicon#Dark Night of the Senses|dark night of the senses]] (the purification of the emotional center's dependence on consolations) and the [[Appendix B - Lexicon#Dark Night of the Spirit|dark night of the spirit]] (the purification of the intellectual center's dependence on its own formulations) — map directly onto the Man 2→3 and Man 3→4 transitions respectively.
 
@@ -157,6 +143,20 @@ His prescription for the dark night of the senses is precisely the catching-thro
 **ACT (Acceptance and Commitment Therapy)** provides the defusion skills that Man 2 specifically needs: the capacity to hold thoughts and feelings as mental events rather than literal reality. For Man 2, emotional states feel like truth — when she feels unloved, she is certain she is unloved; when she feels the Presence, she is certain the Presence is there. Defusion does not dismiss either state as false. It teaches Man 2 to hold each state as a state, neither dismissing it nor identifying with it — precisely the observer function that the transition to Man 3 requires.
 
 ---
+
+### Gurdjieff
+Man 2 corresponds to the "emotional type" in Gurdjieff's typology — the person who works best and most naturally through feeling, music, religious emotion, and devotion. Gurdjieff was characteristically unsentimental about Man 2's gifts: the emotional center's H₂₄ contact, however real, does not produce the crystallized soul ([[Appendix B - Lexicon#Morontia|morontia]] body) required for ascent beyond the threshold, because the catching is not under sufficient volitional control. "Emotional man knows as long as he feels. When he stops feeling, he forgets."
+
+This formulation is harsh and precisely correct. Man 2's soul deposit is real. It is also largely state-dependent: accessible when the emotional state is aligned, inaccessible when it is not. The transition to Man 3 is the development of an Φ-proximal deposit that remains accessible regardless of emotional state — because it is carried in the intellectual center's organized understanding rather than solely in the emotional center's felt contact.
+
+Gurdjieff's practices for Man 2 specifically: self-observation applied to the emotional center's automatic machinery — not suppressing the emotions but watching them with the beginning of the observer function; distinguishing genuine H₂₄ registrations from H₄₈-colored emotional reactions; the requirement to not express negative emotions externally (not suppress internally, but not express outwardly) as a practice of volitional management of the emotional center's automatic expression.
+
+### Alchemical Tradition
+Man 2's condition is [[Appendix B - Lexicon#Alchemical Stages|Albedo]]: the whitening, the lunar phase, the stage of reflection and receptivity. The Albedo follows the Nigredo of Man 1: the H₄₈ primary structure has dissolved sufficiently to allow the Φ-proximal content to emerge, but the Albedo has not yet consolidated into the Citrinitas (dawn) and Rubedo (solar, active, generative) of Man 3 and beyond.
+
+The Albedo is inherently lunarsymbol: it reflects rather than generates; it receives rather than initiates; its light is borrowed light. This is not a flaw — it is a stage. The Albedo's receptivity is the emotional center's greatest gift. The Citrinitas toward which Man 2 moves is the moment the emotional center's reflected light begins to generate its own warmth. The transition from lunar (received, reflected) to solar (generated, organized, active) is the transition from Man 2 to Man 3.
+
+The alchemical warning: the Albedo can be mistaken for the final state. Its beauty and its clarity can convince the practitioner that the Great Work is complete. The practitioner in the Albedo who stops working, having mistaken the moon for the sun, will discover that the Albedo's light disappears when the source that illuminated it rotates away. The dark night is that rotation: the moment the Albedo's borrowed light is withdrawn so that the practitioner discovers whether she can generate her own.
 
 ## What Does Not Work for Man No. 2
 

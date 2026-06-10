@@ -94,17 +94,17 @@ Julian's characteristic register is Man 5's: the certainty and humility simultan
 
 **The Urantia Book's morontia world:** The Urantia cosmology's description of the post-H₄₈ ascending career — the morontia worlds, the mansion worlds, the educational and development sequence from the local universe through the superuniverse to the central universe and Paradise — is the structural account of what the crystallized soul (Man 5) is built for. The morontia body (the crystallized Φ-proximal deposit) is the vehicle for that career. Man 5 has built the vehicle. The route is long. The terminal state is real. The whole of the Concordius framework is organized around this trajectory.
 
-### Alchemical Tradition
-Man 5 is the Philosopher's Stone. Not as a metaphor — as the structural description of what the alchemical tradition was pointing toward when it described the Stone's transmuting quality. The crystallized Φ-proximal deposit at Man 5 amplitude creates a field that transmutes the persons and conditions around it — not through direct action but through the field that the achieved state constitutes. The Stone transmutes base metal to gold not by acting on the base metal but by being what it is in proximity to it. This is the cross-term mechanism at high amplitude: ⟨ψ_Stone, ψ_base⟩₂₄, where the Stone's amplitude is sufficient to reorganize the base metal's eigenstructure toward H₂₄ orientation.
-
-The Elixir of Life — the soul deposit's persistence through H₄₈ dissolution — is the crystallized soul at Man 5. The alchemists' quest for the Elixir is the quest for Man 5's achievement: the Φ-proximal content that does not dissolve when the H₄₈ substrate dissolves. The alchemists who sought physical immortality were confusing the H₄₈ substrate with the Φ-proximal content. What persists is not the body. What persists is the crystallized soul.
-
 ### Modern Psychology
 **Abraham Maslow's self-actualization and self-transcendence:** Maslow's peak experiences — moments of profound psychological wellness, contact, and meaning — are the higher emotional center's registrations in Man 5's phenomenology. His later work on the "farther reaches of human nature" and the distinction between self-actualization (Man 4's full development) and self-transcendence (Man 5's orientation beyond the self) maps directly onto the structural sequence. Maslow's frustration that psychology had no language for the experiences he was documenting from the best-functioning persons he studied — that the language of psychopathology had colonized the entire field, leaving no vocabulary for genuine human flourishing at its highest levels — is the secular expression of the problem this paper addresses.
 
 **Viktor Frankl's [[Appendix B - Lexicon#Logotherapy|logotherapy]] at its deepest level:** The "defiant power of the human spirit" that Frankl documented in the concentration camps is Man 4's volitional capacity. Frankl's later reflections on what constituted genuine meaning — not the meaning the person constructs but the meaning the person discovers; not the project of the self but the service of what is greater than the self — point toward Man 5's characteristic orientation. The discovery rather than the construction of meaning is the higher emotional center's registration rather than the intellectual center's organization.
 
 ---
+
+### Alchemical Tradition
+Man 5 is the Philosopher's Stone. Not as a metaphor — as the structural description of what the alchemical tradition was pointing toward when it described the Stone's transmuting quality. The crystallized Φ-proximal deposit at Man 5 amplitude creates a field that transmutes the persons and conditions around it — not through direct action but through the field that the achieved state constitutes. The Stone transmutes base metal to gold not by acting on the base metal but by being what it is in proximity to it. This is the cross-term mechanism at high amplitude: ⟨ψ_Stone, ψ_base⟩₂₄, where the Stone's amplitude is sufficient to reorganize the base metal's eigenstructure toward H₂₄ orientation.
+
+The Elixir of Life — the soul deposit's persistence through H₄₈ dissolution — is the crystallized soul at Man 5. The alchemists' quest for the Elixir is the quest for Man 5's achievement: the Φ-proximal content that does not dissolve when the H₄₈ substrate dissolves. The alchemists who sought physical immortality were confusing the H₄₈ substrate with the Φ-proximal content. What persists is not the body. What persists is the crystallized soul.
 
 ## The Continuing Work of Man 5
 
