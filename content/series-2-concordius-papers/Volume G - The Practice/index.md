@@ -74,6 +74,16 @@ So the discipline of G is the hardest of the corpus: **to stand on A–C while h
 
 ---
 
+## Structural Note: The Modes Accumulate
+
+The seven modes are not a ladder whose lower rungs are left behind. They **accumulate**, and the volume is best read the way one reads a hierarchy of need. Everyone is born running one of the three generator-modes by default — gut, heart, or brain first. The ascending career never trades that default away to reach the next; it keeps it running and adds to it. You cannot drop the gut to pick up the heart: a person who lets go of gratitude to chase charity has lost the floor the second mode stands on. First one runs; then both; then all three.
+
+This is why each generator-mode is titled by the virtue that *is* its satisfaction, not by the appetite it answers. **Gratitude is how the gut is fed — and everything else is empty calories**, consumption shaped like nourishment that leaves the hunger exactly where it found it. **Charity is how the heart is fed; its counterfeit is lust** — taking dressed as the giving that alone would fill it. **Ordered love is how the brain is fed; its counterfeit is disordered chaos.** In every case the counterfeit is not a smaller meal but a *privation* — the hollow cast of the real food, the inversion read in full in Volume E. The hunger is real and good; only the virtue answers it.
+
+The combinatorics of Cl(3,0) then *is* the developmental sequence. Modes 1–3 are the three generators run **singly** (one of three — the default). Getting all three running at once and consistently — bare, reliable contribution from each — is the first grade change, the Mi/Fa interval ([[Paper G2½: The First Grade Change|Paper G2½]]). Modes 4–6 are the generators run **two at a time**, each pair held together against the friction that would tear it apart — courage (gratitude × charity, under fire), temperance (gratitude × ordered love, through resistance), diligence (charity × ordered love, over time). Mode 7, humility, is all three **at once, all the time** — the full integration, reached only across the octave change ([[Paper G6½: The Octave Change|Paper G6½]]), the one move no climb supplies. One running, then two, then three, all the way up.
+
+---
+
 ## Summary of Contents
 
 **[[Paper G0 - Gratitude|Paper G0 - Gratitude]]**
