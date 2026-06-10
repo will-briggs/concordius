@@ -48,6 +48,13 @@ sys.exit(0 if (m[:3]==b'\xff\xd8\xff' or m[:4]==b'\x89PNG' or m[:6] in (b'GIF87a
   fi
 }
 
+dlc() {
+  # Usage: dlc <output-filename> <Commons File-page title> <label>
+  # Builds the Special:FilePath URL from the Commons title, then downloads via dl().
+  local enc; enc=$(python3 -c "import urllib.parse,sys;print(urllib.parse.quote(sys.argv[1]))" "$2")
+  dl "$1" "https://commons.wikimedia.org/wiki/Special:FilePath/$enc" "$3"
+}
+
 check_image() {
   local filename="$1"
   local path="$DIR/$filename"
@@ -382,7 +389,24 @@ dl kupka-neanderthal.jpg \
   "http://www.yorku.ca/kdenning/images/kupka.jpg" \
   "Paper A4 sec17: Kupka - La Chapelle Neanderthal (1909)"
 
+# ─── Adam interlude frontispieces (Book 2, Volume A → Interludes; title-keyed, all public domain) ───
+dlc vermeer-letter.jpg           "Jan Vermeer van Delft 002.jpg"                                                 "A0 — Vermeer, Girl Reading a Letter at an Open Window (c.1657-59)"
+dlc repin-unexpected-visitor.jpg "Ilya Repin Unexpected visitors.jpg"                                            "A1 — Repin, They Did Not Expect Him (1884-88)"
+dlc hoogstraten-letter-rack.jpg  "Samuel van Hoogstraten - Trompe l'oeil.jpg"                                    "A2 — van Hoogstraten, Trompe-l'oeil Letter Rack (c.1664)"
+dlc bruegel-blind.jpg            "Pieter Bruegel the Elder - The Parable of the Blind Leading the Blind - WGA3511.jpg" "A2A — Bruegel, The Blind Leading the Blind (1568)"
+dlc bronzino-allegory.jpg        "Angelo Bronzino - Venus, Cupid, Folly and Time - National Gallery, London.jpg" "A2B — Bronzino, Venus, Cupid, Folly and Time (c.1545)"
+dlc duchamp-nude-descending.jpg  "Marcel Duchamp, 1912, Nu descendant un escalier no 2 (Nude Descending a Staircase No. 2), oil on canvas, 147 x 89.2 cm, Philadelphia Museum of Art.jpg" "A2C — Duchamp, Nude Descending a Staircase No.2 (1912)"
+dlc champaigne-vanitas.jpg       "StillLifeWithASkull.jpg"                                                       "A2D — de Champaigne, Vanitas (c.1671)"
+dlc van-gogh-shoes.jpg           "Vincent Willem van Gogh 138.jpg"                                               "A3 — Van Gogh, Shoes (1886)"
+dlc spitzweg-bookworm.jpg        "Carl Spitzweg - Der Bücherwurm.jpg"                                            "A4 — Carl Spitzweg, The Bookworm (c.1850)"
+dlc wright-alchemist.jpg         "JosephWright-Alchemist.jpg"                                                    "A5 — Wright of Derby, The Alchemist (1771)"
+dlc hammershoi-open-doors.jpg    "Vilhelm Hammershøi - A Room in the Artist's Home in Strandgade, Copenhagen, with the Artist's Wife - Google Art Project.jpg" "A6 — Hammershøi, A Room in the Artist's Home in Strandgade (1901)"
+dlc friedrich-sea-of-ice.jpg     "Caspar David Friedrich - Das Eismeer - Hamburger Kunsthalle - 02.jpg"          "A6½ — Friedrich, The Sea of Ice (1823-24)"
+# best-guess Commons title — verify on run; if it 404s, paste a working Commons file name/link and I'll fix
+dlc hammershoi-dust-motes.jpg    "Sunbeams or sunshine. Dust motes dancing in the sunbeams - Vilhelm Hammershøi.jpg" "A7A — Hammershøi, Dust Motes Dancing in the Sunbeams (1900)"
+
 for f in \
+  vermeer-letter.jpg repin-unexpected-visitor.jpg hoogstraten-letter-rack.jpg bruegel-blind.jpg bronzino-allegory.jpg duchamp-nude-descending.jpg champaigne-vanitas.jpg van-gogh-shoes.jpg spitzweg-bookworm.jpg wright-alchemist.jpg hammershoi-open-doors.jpg friedrich-sea-of-ice.jpg hammershoi-dust-motes.jpg \
   antonello-jerome-study.jpg \
   masaccio-trinity.jpg ladder-of-divine-ascent.jpg \
   bonaiuto-triumph-aquinas.jpg blake-glad-day.jpg \
