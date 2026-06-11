@@ -128,4 +128,4 @@ von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik.* Springer
 
 ---
 
-*[[Paper B1: The Sacred Trust|Paper B1: The Sacred Trust]] →*
+*[[Adam B1: The Wrong Proof]] →*

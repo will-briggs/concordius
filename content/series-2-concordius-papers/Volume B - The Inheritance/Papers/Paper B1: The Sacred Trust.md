@@ -1,4 +1,4 @@
-*← [[Paper B0: The Proof|Paper B0: The Proof]]*
+*← [[Adam B1: The Wrong Proof]]*
 
 # Paper B1: The Sacred Trust (Draft)
 
