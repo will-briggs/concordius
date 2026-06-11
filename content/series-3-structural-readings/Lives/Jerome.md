@@ -12,4 +12,4 @@ Jerome the man was famously difficult — irascible, vain about his learning, sa
 
 *Confidence: concordance — the Vulgate-from-Hebrew read as the messenger discipline of going to the least-filtered source; the difficult temperament named as the honest filter. Messenger: Jerome survives in his own large output (the translation, the letters, the commentaries), so the filter is light, though self-presenting.*
 
-*(Cross-reference: [[Lives/Cicero|Cicero]] (the other great Latin transmitter); [[Paper A5: The Breath of Life]] on Scripture carried across languages; [[Paper E0: The Derivation and the Testimony]] on the messenger filter.)*
+*(Cross-reference: [[Lives/Cicero|Cicero]] (the other great Latin transmitter); [[Paper A5: The Breath of Life]] on Scripture carried across languages; [[Paper D0: Adolf Hitler]] on the messenger filter (the inverter as a filter on truth).)*

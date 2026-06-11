@@ -6,7 +6,7 @@
 
 *The Ascension Career sounded as polyphony: the ascending melody sounded by four instruments at once, the same climb voiced four times in four vocabularies. One of the four is the score — the mathematics, the ascent as the space itself defines it. The other three are concordances, three independent witnesses who never compared notes and play, nonetheless, the same rising line: the Christian, the Gurdjieffian, and — the most precise of all — the Urantian. The point of sounding all four is the point already proved in [[Paper E0: The Derivation and the Testimony]]: when witnesses that could not have colluded agree, in detail, on a structure one of them derived from first principles, the agreement is evidence. The climb is real, and four hands are on it.*
 
-**Confidence —** *Math:* **— (not engaged)** here beyond naming the score (the bivector arc) as one of the four instruments. *Science:* **— (not engaged)**. *Theology:* **concordance** — four uncolludable witnesses on one rising line, weighed as convergent evidence per Face C1 ([[Paper E0: The Derivation and the Testimony]]).
+**Confidence —** *Math:* **— (not engaged)** here beyond naming the score (the bivector arc) as one of the four instruments. *Science:* **— (not engaged)**. *Theology:* **concordance** — four uncolludable witnesses on one rising line, weighed as convergent evidence per Face C1 ([[Paper D0: Adolf Hitler]] on the messenger filter).
 
 ---
 

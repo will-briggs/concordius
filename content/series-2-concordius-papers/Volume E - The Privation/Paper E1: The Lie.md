@@ -1,4 +1,4 @@
-*← [[Paper E0: The Derivation and the Testimony|Paper E0: The Derivation and the Testimony]]*
+*← [[Paper E0: The Derivation and the Testimony|Paper E0: The Turn Inward]]*
 
 # Paper E1: The Lie (Draft)
 

@@ -28,14 +28,14 @@ tags:
 
 ---
 
-The inverters named, now the thing itself. Evil read as *privation* — not a substance but a good lost, not a power but the absence of one — traced from the first lie and the vessel that must hold it, through the three inverted virtues, to pride at the root, and across the single crossing that reverses it. Here the mathematics carries the most, and the testimony is, for the first time and under guard, admitted to fill a silence the system's own incompleteness opens.
+The inverters named, now the thing itself. Evil read as *privation* — not a substance but a good lost, not a power but the absence of one — traced from the first lie and the vessel that must hold it, through the three inverted virtues, to pride at the root, and across the single crossing that reverses it. Here the mathematics carries the most; the one outside witness the volume needs was already admitted and bounded at the climax of the Inversion ([[Paper D6: Lucifer|D6]]), and is only referred back to where a silence is left.
 
 ---
 
 ## Summary of Contents
 
-**[[Paper E0: The Derivation and the Testimony|Paper E0 — The Derivation and the Testimony]]**
-*Two things set side by side. The first is a warrant — the incompleteness established in D0 (where it accounted for how the inversion enters H₄₈ from another subspace), turned now to truth's side: a system that cannot reach from within what it needs must admit a witness from outside, at a stated tier. The second is a testimony — pure assertion, uncertain, let in through the gate the warrant opens. The apparatus that holds them in one frame is the truth measure, with one rule fixed: where the mathematics, the Scripture, and the testimony disagree, the mathematics governs first, the Scripture second, the testimony last.*
+**[[Paper E0: The Derivation and the Testimony|Paper E0 — The Turn Inward]]**
+*The turn inward. The Inversion read evil in the world; the Privation reads the same turning in your own heart, at the scale it lives at in most lives. No new apparatus — the incompleteness that lets the turning enter ([[Paper D0: Adolf Hitler|D0]]), the filter by which a witness is weighed (D0), and the one outside testimony admitted under guard ([[Paper D6: Lucifer|D6]]) are all in hand; the volume leans on the mathematics and the Scripture, and reaches for the third only where a silence is left open.*
 
 **[[Paper E1: The Lie|Paper E1 — The Lie]]**
 *The first substantive question put to the three witnesses in their fixed order: what, exactly, was the first lie? Stated in the framework's own terms, refuted by the mathematics, confirmed by the Scripture, and filled in — at the lowest tier, under the guard the opening note set — by the testimony. The precedence holds at every junction: mathematics first, then Scripture, then the testimony.*
@@ -66,6 +66,6 @@ The inverters named, now the thing itself. Evil read as *privation* — not a su
 
 ---
 
-*Begin the Privation: [[Paper E0: The Derivation and the Testimony|Paper E0 — The Derivation and the Testimony]] →*
+*Begin the Privation: [[Paper E0: The Derivation and the Testimony|Paper E0 — The Turn Inward]] →*
 
 *[[Volume F - The Ascension/index|Volume F → The Ascension]] →*

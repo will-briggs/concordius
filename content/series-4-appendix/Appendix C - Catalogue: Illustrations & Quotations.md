@@ -328,7 +328,7 @@ title: "Appendix C - Catalogue: Illustrations & Quotations"
 **1 Corinthians 13:12** · *Paper F7: Face to Face*
 > For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.
 
-**1 Corinthians 13:9**, *12* · *Paper E0: The Derivation and the Testimony*
+**Matthew 15:19** · *Paper E0 — The Turn Inward*
 > We know in part, and we prophesy in part... For now we see through a glass, darkly.
 
 **1 Corinthians 4:5** · *Paper E6: Pride*
