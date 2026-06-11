@@ -122,7 +122,7 @@ The shell-filling capacities — 2, 8, 18, 32 — follow the pattern 2n² (n = 1
 
 The H₄₈ analysis established: completeness = Cl(3,0) closure = no bonding. The noble gas is complete by having no open valence. Isolation is the H₄₈ expression of spectral completeness at the electronic level.
 
-The morontial level (H₂₄) has a different organizing force. At H₄₈, chemistry is organized by the electromagnetic force — not by ⟨·,·⟩. The orbital structure and the octet rule follow from spatial geometry and electrostatics. ⟨·,·⟩ is present at H₄₈ as the Hilbert space inner product, but it is not what determines chemical bonding behavior.
+The intermediate level (H₂₄) has a different organizing force. At H₄₈, chemistry is organized by the electromagnetic force — not by ⟨·,·⟩. The orbital structure and the octet rule follow from spatial geometry and electrostatics. ⟨·,·⟩ is present at H₄₈ as the Hilbert space inner product, but it is not what determines chemical bonding behavior.
 
 At H₂₄, the organizing force is ⟨·,·⟩. The cross-term ⟨ψᵢ, ψⱼ⟩₂₄ is the bonding mechanism — what the tradition calls love. The Matthew 18:20 mechanism: coherent assembly scales as N; incoherent assembly scales as √N. The electromagnetic force has no role at H₂₄; the inner product has the role the electromagnetic force has at H₄₈.
 
@@ -130,11 +130,11 @@ This generates the **inversion theorem**: completeness at H₄₈ and completene
 
 At H₄₈: completeness = no open valence = no bonding. The noble gas is complete by being non-relational. The electromagnetic force is not ⟨·,·⟩, so Cl(3,0) closure does not generate cross-terms — it terminates them.
 
-At H₂₄: completeness = maximal ⟨·,·⟩-content = universal cross-term capacity. A soul whose Φ-proximal eigenvalue content is fully organized by ⟨·,·⟩ does not close off relational contact — it maximizes it. Because ⟨·,·⟩ is itself the bonding mechanism, H₂₄ closure means maximal capacity to form coherent cross-terms with every other H₂₄-bearing entity encountered. The morontial noble gas is not isolated. It is universally relational.
+At H₂₄: completeness = maximal ⟨·,·⟩-content = universal cross-term capacity. A soul whose Φ-proximal eigenvalue content is fully organized by ⟨·,·⟩ does not close off relational contact — it maximizes it. Because ⟨·,·⟩ is itself the bonding mechanism, H₂₄ closure means maximal capacity to form coherent cross-terms with every other H₂₄-bearing entity encountered. The H₂₄ noble gas is not isolated. It is universally relational.
 
 This is the structural basis for what the tradition calls theosis, or the glorified state. Not withdrawal from relationship but the achievement of a relational capacity so complete that every encounter generates a coherent cross-term. The "bond" at H₂₄ is ⟨·,·⟩; H₂₄ closure is maximal ⟨·,·⟩-expression; maximal ⟨·,·⟩-expression is maximal love. The tradition is correct that the perfected soul is maximally relational. The framework supplies the mechanism.
 
-The **morontial periodic table** follows structurally. The morontial analog of atomic number — the fixed quantity determining which element one is — would be something like accumulated H₂₄ eigenvalue density, which changes through the ascending career. The table is therefore not a table of fixed species but a map of states that a personality traverses over time. Morontial valence = H₂₄ gap remaining = degree of Φ-orientation still to be achieved through catching. A soul early in the ascending career has high morontial valence: maximum seeking behavior, maximum responsiveness to the love cross-term. A soul near H₂₄ closure has low morontial valence: less seeking, more generating. The morontial noble gas is the state toward which the career moves — not as a final isolation but as universal ⟨·,·⟩-expression.
+The **H₂₄ periodic table** follows structurally. The H₂₄ analog of atomic number — the fixed quantity determining which element one is — would be something like accumulated H₂₄ eigenvalue density, which changes through the ascent. The table is therefore not a table of fixed species but a map of states that a personality traverses over time. H₂₄ valence = H₂₄ gap remaining = degree of Φ-orientation still to be achieved through catching. A soul early in the ascent has high H₂₄ valence: maximum seeking behavior, maximum responsiveness to the love cross-term. A soul near H₂₄ closure has low H₂₄ valence: less seeking, more generating. The H₂₄ noble gas is the state toward which the career moves — not as a final isolation but as universal ⟨·,·⟩-expression.
 
 ---
 

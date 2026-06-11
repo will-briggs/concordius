@@ -66,6 +66,6 @@ The foundation, once laid, becomes a thing handed on — the corpus itself an oc
 
 ---
 
-*Begin the Inheritance: [[Paper B0: The Proof|Paper B0 — The Proof]] →*
+*Begin the Inheritance: [[Adam B0: The Next Letter Arrives]] →*
 
 *[[Volume C - The Company/index|Volume C → The Company]] →*

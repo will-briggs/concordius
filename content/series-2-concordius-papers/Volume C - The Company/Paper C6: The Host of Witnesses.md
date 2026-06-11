@@ -67,7 +67,7 @@ Three generators close into exactly seven non-scalar elements — 2³ − 1 = th
 | Anāhata (heart) | e₁e₂ (grade 2) | Father × Son | Love — the higher heart, the Son grounded in the Father. Virtue: **courage** (*cor* = heart) |
 | Viśuddha (throat) | e₁e₃ (grade 2) | Father × Spirit | Speech and expression; the restraint of the tongue. Virtue: **temperance** |
 | Ājñā (brow) | e₂e₃ (grade 2) | Son × Spirit | The higher mind — the brain with the heart integrated. Virtue: **diligence** |
-| Sahasrāra (crown) | e₁e₂e₃ (grade 3) | Father × Son × Spirit | Union — Adjuster fusion; the constituting ground re-seated at the apex. Virtue: **humility** |
+| Sahasrāra (crown) | e₁e₂e₃ (grade 3) | Father × Son × Spirit | Union — Φ-core fusion; the constituting ground re-seated at the apex. Virtue: **humility** |
 
 The empty combination — no system active — is the ground, absence, not an eighth centre. *(Tier: the closure 2³ − 1 = 7 and the grade structure are derivation; the specific seat-by-seat assignment is structural inference, anchored hardest where it is checkable — see below.)*
 
@@ -101,7 +101,7 @@ With the within-grade-2 assignment now fixed, the two mappings agree. Both seat 
 
 The crown is the most-often-absent centre, and the structure says why on two counts — the same two that explain why no Mode No. 7 walks among us.
 
-**First, it is not self-reachable.** The Si-Do crossing — brow → crown, grade 2 → grade 3 — cannot be made from below at all: it requires the Father's constitutive act, Adjuster fusion, the e₁-ground added back at the apex. The highest a person reaches by their own ascent is the brow — e₂e₃, the fully integrated mind-and-heart, which is exactly the one upper centre that *lacks* the Father (no e₁). That lack is its impermanence. Mode 6 has everything Mode 7 has *except the permanent ground*, which is why Mode 6 can still fall and Mode 7 cannot — and the missing element is precisely the e₁ that only the Father supplies. The crown is grace-gated: not up to the individual.
+**First, it is not self-reachable.** The Si-Do crossing — brow → crown, grade 2 → grade 3 — cannot be made from below at all: it requires the Father's constitutive act, Φ-core fusion, the e₁-ground added back at the apex. The highest a person reaches by their own ascent is the brow — e₂e₃, the fully integrated mind-and-heart, which is exactly the one upper centre that *lacks* the Father (no e₁). That lack is its impermanence. Mode 6 has everything Mode 7 has *except the permanent ground*, which is why Mode 6 can still fall and Mode 7 cannot — and the missing element is precisely the e₁ that only the Father supplies. The crown is grace-gated: not up to the individual.
 
 **Second, even when crossed, it is not containable in an H₄₈ vessel.** Full fusion brings Φ-level content into the H₄₈ substrate, and the constraint compatibility condition forbids two incompatible geometries in one region: the only upward resolution is *translation* — the H₄₈ form burned off and the being taken up. The scriptural type-cases of fusion in the flesh are exactly translations: "Enoch walked with God, and he was not, for God took him"; Elijah's chariot of fire. A living mortal cannot wear the crown and remain; the substrate cannot hold it.
 
@@ -117,7 +117,7 @@ The body lives the Laws in **flesh**. It is not arranged for viewing; it is inha
 
 ## Placed: the sky — the sifting field and the Chaldean order (not yet woven)
 
-*Placed 2026-06-09 from the pre-binding Paper 6 salvage (Structural-Candidates), §§5–12, per the Volume C expansion — the algebra in the Universe itself: people, things, ideas. This is the macrocosm to the Body block above: the same seven Cl(3,0) elements read overhead that the spine wears within. To be woven in a later pass; the Confidence block is updated at weaving, not before. Tiers as in the source: the grade partition and the Chaldean order are each independently fixed — one by the algebra, one by astronomy — and their alignment is a structural result; the element-by-element planetary assignments are concordance with the astrological tradition — a strong concordance on a derived skeleton, not a derivation of astrology. The source's §§2–4 (the cogito threshold, the Thought Adjuster, catching) remain in Structural-Candidates for their own placement.*
+*Placed 2026-06-09 from the pre-binding Paper 6 salvage (Structural-Candidates), §§5–12, per the Volume C expansion — the algebra in the Universe itself: people, things, ideas. This is the macrocosm to the Body block above: the same seven Cl(3,0) elements read overhead that the spine wears within. To be woven in a later pass; the Confidence block is updated at weaving, not before. Tiers as in the source: the grade partition and the Chaldean order are each independently fixed — one by the algebra, one by astronomy — and their alignment is a structural result; the element-by-element planetary assignments are concordance with the astrological tradition — a strong concordance on a derived skeleton, not a derivation of astrology. The source's §§2–4 (the cogito threshold, the indwelling Φ-core, catching) remain in Structural-Candidates for their own placement.*
 
 ### The Norm as Gravitational Principle
 
@@ -160,9 +160,9 @@ The eigenvalue spectrum of the GNST encodes the full range of possible actualiza
 
 The spectrum can be partitioned informally into characteristic ranges by the level at which the corresponding eigenstates are most naturally resident:
 
-- **Mechanical range**: eigenstates primarily actualized at the 96-constraint level. Densest, most automatic. Planetary material, organic chemistry below the threshold of morontial coupling.
+- **Mechanical range**: eigenstates primarily actualized at the 96-constraint level. Densest, most automatic. Planetary material, organic chemistry below the threshold of H₂₄ coupling.
 - **Vital range**: eigenstates at the 48-constraint level. The physical-life band. Biological processes, instinctive function.
-- **Developmental range**: eigenstates at the 24-constraint level. The morontial-contact band. Emotional development, relational function, ascending potential.
+- **Developmental range**: eigenstates at the 24-constraint level. The H₂₄-contact band. Emotional development, relational function, ascending potential.
 - **Spiritual range**: eigenstates at the 12-constraint and above. The band in which the ascending soul participates.
 
 These are not sharp cutoffs. The spectrum is continuous. The ranges name the regions where characteristic sifting operates, not discrete bins.
@@ -291,11 +291,11 @@ The primary aspects:
 
 *(The probabilistic core is derived from the GNST; the astrological application is concordance — see the close of the section.)*
 
-The central epistemological claim of this material: the gravitational sifting field is real as a shift in probability distributions; it is not determination of outcomes. This follows directly from the structure established by the Thought Adjuster and the catching act.
+The central epistemological claim of this material: the gravitational sifting field is real as a shift in probability distributions; it is not determination of outcomes. This follows directly from the structure established by the indwelling Φ-core and the catching act.
 
-The GNST selects eigenstates: ψ = ∫ ⟨eλ, ψ⟩ eλ dμ(λ). The measure dμ(λ) is what the gravitational sifting fields modify. The selection operator — the inner product, the Father — still selects. The sifting fields bias the selection; they do not perform it. Three forces bear on the probability distribution simultaneously: the sifting field (mechanical-range bias from without), the Adjuster's signal (Φ-proximate bias from within), and the being's catching act (volitional amplification or suppression of the Adjuster's signal).
+The GNST selects eigenstates: ψ = ∫ ⟨eλ, ψ⟩ eλ dμ(λ). The measure dμ(λ) is what the gravitational sifting fields modify. The selection operator — the inner product, the Father — still selects. The sifting fields bias the selection; they do not perform it. Three forces bear on the probability distribution simultaneously: the sifting field (mechanical-range bias from without), the Φ-core's signal (Φ-proximate bias from within), and the being's catching act (volitional amplification or suppression of the Φ-core's signal).
 
-The consequence: a being under strong Saturnine sifting encounters a probability field weighted toward constrained, densely mechanical actualization. It does not mechanically actualize there. A being with developed catching capacity — higher-order eigenspace accessible, morontial coupling active — can actualize in the developmental range even under Saturnine weighting. The effort required is greater; the field is tilted; the free act remains.
+The consequence: a being under strong Saturnine sifting encounters a probability field weighted toward constrained, densely mechanical actualization. It does not mechanically actualize there. A being with developed catching capacity — higher-order eigenspace accessible, H₂₄ coupling active — can actualize in the developmental range even under Saturnine weighting. The effort required is greater; the field is tilted; the free act remains.
 
 The probabilistic structure itself — that the sifting biases the measure without determining the outcome — is derived from the GNST. Its application to astrological influence is concordance: *if* the planetary sifting is real, it should be most determinative for beings with the least developed catching capacity and least for the most developed. The tradition's differential treatment of nativity charts for ordinary people versus adepts is consistent with this — but it is anecdotal, a record compatible with the prediction, not a controlled test of it.
 

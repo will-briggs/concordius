@@ -215,11 +215,11 @@ The Mi-Fa shock is structurally required. A document that does not have a genuin
 - In philosophy: the commitment to the conclusion — the acceptance that the argument is complete and the proposition established, even though further objection is always possible
 - In spiritual practice: the act of catching — the volitional retention of the content that the preceding practice has generated; the content is there, but retaining it requires the free act
 
-The Si-Do gap is the place of free will in the structure of truth-work. It is where the automatic is definitively insufficient and the volitional is required. In the ascending career this is the catching moment. In the mathematical proof it is the recognition of completion. In the fugue it is the composer's decision to resolve. In each domain: the same structural position, the same requirement.
+The Si-Do gap is the place of free will in the structure of truth-work. It is where the automatic is definitively insufficient and the volitional is required. In the ascent this is the catching moment. In the mathematical proof it is the recognition of completion. In the fugue it is the composer's decision to resolve. In each domain: the same structural position, the same requirement.
 
 **The interval positions as falsifiability criterion:** If the Laws hold as organizational signatures, then any document recognized across time as genuinely truth-bearing should have identifiable Mi-Fa and Si-Do positions — places where something new entered (Mi-Fa) and where completion required an act rather than a calculation (Si-Do). The inability to identify these positions in a given text is evidence of low τ(D): the development did not reach the interval, which means it did not descend deep enough into the constraint hierarchy to encounter the places where automatic continuation fails.
 
-These two interval positions are not local to documents. They are the two qualitative transitions of the grade structure of Cl(3,0) itself, and they appear wherever that structure is instantiated — in the constraint cascade, in the ascending career, in metabolism, in music, in the development of any genuine truth-work.
+These two interval positions are not local to documents. They are the two qualitative transitions of the grade structure of Cl(3,0) itself, and they appear wherever that structure is instantiated — in the constraint cascade, in the ascent, in metabolism, in music, in the development of any genuine truth-work.
 
 ---
 

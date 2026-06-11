@@ -4,9 +4,9 @@
 
 ---
 
-*The scientific case that the universe had a beginning — the recession of the galaxies, the cosmic microwave background, and the abundances of the light elements converging on a hot, dense start 13.8 billion years ago — the physics of the first fraction of a second, and the point where known methods run out; and the close, where that beginning is read as the Creative Choice, the selection of one ordered world out of the distributional potential.*
+*The scientific case that the universe had a beginning — the recession of the galaxies, the cosmic microwave background, and the abundances of the light elements converging on a hot, dense start 13.8 billion years ago — the physics of the first fraction of a second, and the point where known methods run out.*
 
-**Confidence —** *Math:* **— (not engaged)** here beyond the framework's own apparatus. *Science:* **concordance** — three independent lines (the recession of the galaxies, the cosmic microwave background, the light-element abundances) converging on a hot dense beginning ≈ 13.8 Gyr, to current cosmology. *Theology:* **— (not engaged)** — the science is followed to its limit, and no theological claim is made here.
+**Confidence —** *Math:* **— (not engaged)**. *Science:* **concordance** — three independent lines (the recession of the galaxies, the cosmic microwave background, the light-element abundances) converging on a hot dense beginning ≈ 13.8 Gyr, to current cosmology. *Theology:* **— (not engaged)**.
 
 ---
 
@@ -38,7 +38,7 @@ Nothing in this paper was witnessed, and the earliest part of it was not even il
 
 The claim is specific and worth stating carefully, because it is often stated loosely. The Big Bang is **not** a theory of an explosion *in* space, set off at a point, scattering matter into a pre-existing void. It is a theory of the expansion *of* space — the steady increase, everywhere at once, of the distances between things that are not themselves moving — run backwards to a time when those distances were arbitrarily small and the contents arbitrarily hot. Extrapolated far enough, the classical equations reach a moment of formally infinite density and temperature: the **initial singularity**, conventionally labelled t = 0. Whether that label denotes a real first instant or merely the place where the theory breaks down is the central question of the early universe, and §3 takes it up directly. What the evidence establishes without controversy is the part that comes after: that the universe has a finite age, that it began in a state hot and dense beyond any since, and that it has been expanding and cooling, by understood physics, ever since.
 
-A word on method and confidence, in the manner of Paper A4. The framework of this paper — general relativity for the expansion, the Standard Model for the contents — is firm, and its quantitative successes are extraordinary. But the subject reaches, at its earliest edge, into regimes where that framework is known to be incomplete, and it touches, at its present frontier, several measurements that do not yet agree. Where the science is settled it is stated plainly; where it is live, the debate is named.
+A word on method and confidence. The framework of this paper — general relativity for the expansion, the Standard Model for the contents — is firm, and its quantitative successes are extraordinary. But the subject reaches, at its earliest edge, into regimes where that framework is known to be incomplete, and it touches, at its present frontier, several measurements that do not yet agree. Where the science is settled it is stated plainly; where it is live, the debate is named.
 
 ---
 
@@ -93,9 +93,7 @@ The defining event of this stretch — the one that turns a hot bath of massless
 
 One particle does not acquire mass. The **photon** is the gauge boson of the combination of symmetries the Higgs vacuum leaves unbroken — electromagnetism, U(1)_EM, survives the breaking — so it has nothing to couple to and stays massless: the carrier of the electromagnetic field, the connective structure of the entire later universe, released into a world of newly massive matter as the one thing the symmetry-breaking cannot weigh down.
 
-After this, the universe is recognizable. There is matter with mass; there are the four forces — gravity, electromagnetism, the strong and weak nuclear interactions — in their distinct strengths; there is light. Nucleosynthesis (§2), recombination, the first stars and galaxies, the forging of carbon and the heavier elements, and at length the Earth and life all follow from this substrate by understood physics — the long material story Paper A4 takes up from exactly this point. This is where the chronological account of the present paper ends: at the Higgs vacuum, the electroweak crossover that confers mass and leaves the universe the physical world we actually inhabit.
-
-*(One framework note, flagged as such and separable from the physics above. The structural side of this Framework reads the conferral of mass — the giving of determinate specificity to what had none — as a single articulating act, developed in Paper A3; and it offers one falsifiable numerical claim about the spectrum just described. On the framework's mapping the fermion that couples most strongly to the Higgs field should be the one corresponding to the algebra's complete, top element, and its coupling should sit near unity. The top quark's Yukawa coupling is ≈ 0.99, and no other fermion's is close to 1. The prediction covers the direction and that single value; the full six-order-of-magnitude spread of fermion masses — the flavour puzzle — it does not explain. This is framework reading at the speculative tier, not established physics, and the account above stands entirely without it.)*
+After this, the universe is recognizable. There is matter with mass; there are the four forces — gravity, electromagnetism, the strong and weak nuclear interactions — in their distinct strengths; there is light. Nucleosynthesis (§2), recombination, the first stars and galaxies, the forging of carbon and the heavier elements, and at length the Earth and life all follow from this substrate by understood physics — the long material story that unfolds from exactly this point. This is where the chronological account of the present paper ends: at the Higgs vacuum, the electroweak crossover that confers mass and leaves the universe the physical world we actually inhabit.
 
 The bridge from the first instant to this familiar world is, after inflation, continuous and lawful. The mystery, as the next sections take up, is concentrated not here at the end but at the start.
 
@@ -109,7 +107,7 @@ It would be false to present modern cosmology as a closed book. The standard mod
 
 **Dark energy that may not be constant.** The Dark Energy Spectroscopic Instrument's second data release (DESI DR2, 2025), combined with supernova samples, prefers an *evolving* dark energy over a true cosmological constant at up to about 4σ — a direct challenge to the Λ of ΛCDM. The preference depends on which supernova sample is used and is actively contested; it may yet be a systematic. But it is a serious crack in the simplest model, and it concerns the very energy that dominates the universe's present and future.
 
-**The early galaxies.** The James Webb Space Telescope has found galaxies in the first few hundred million years that are brighter, more massive, and more numerous than pre-launch models predicted (and has spectroscopically confirmed galaxies within ~280 million years of the beginning). The mainstream reading is unusually efficient early star formation rather than a failure of the cosmology; whether it is more than that is, as of this writing, openly debated (Paper A4, §5).
+**The early galaxies.** The James Webb Space Telescope has found galaxies in the first few hundred million years that are brighter, more massive, and more numerous than pre-launch models predicted (and has spectroscopically confirmed galaxies within ~280 million years of the beginning). The mainstream reading is unusually efficient early star formation rather than a failure of the cosmology; whether it is more than that is, as of this writing, openly debated.
 
 None of these unsettles the central result — the hot, expanding, 13.8-billion-year beginning — but each is a reminder that the model is an approximation under active revision, and that the universe's largest-scale story is not finished being written.
 
@@ -155,9 +153,7 @@ The universe had a beginning, hot and dense and finite in the past, and the fact
 
 ## References
 
-1. **Companion papers**: *Modeling Reality as a Gelfand Triple* (Paper A0); *From the Cogito to the Logos* (Paper A1); *The Constraint Cascade* (Papers A2A–A2D); *The Long Ascent* (Paper A4).
-
-2. **Planck Collaboration** (2020). "Planck 2018 results. VI. Cosmological parameters." *Astronomy & Astrophysics,* 641, A6. [Age 13.787 ± 0.020 Gyr; spatial flatness; the six-parameter ΛCDM model.]
+1. **Planck Collaboration** (2020). "Planck 2018 results. VI. Cosmological parameters." *Astronomy & Astrophysics,* 641, A6. [Age 13.787 ± 0.020 Gyr; spatial flatness; the six-parameter ΛCDM model.]
 
 3. **Hubble, E.** (1929). "A relation between distance and radial velocity among extra-galactic nebulae." *PNAS,* 15(3), 168–173. [The expansion of space.] See also **Lemaître, G.** (1927), *Annales de la Société Scientifique de Bruxelles,* A47, 49.
 
@@ -180,10 +176,6 @@ The universe had a beginning, hot and dense and finite in the past, and the fact
 12. **Ashtekar, A., et al.** Loop quantum cosmology and the Planck regime; reviews of the resolution of the cosmological singularity in candidate quantum-gravity frameworks (2013–2024). [Speculative; none established.]
 
 13. **Lemaître, G.** (1946). *The Primeval Atom: An Essay on Cosmogony.* [The originator of the expanding-universe beginning, cautioning against conflating the physical beginning with creation.]
-
----
-
-*Cross-reference: [[Paper A0: Modeling Reality as a Gelfand Triple]]; [[Paper A1: Naming the Unnameable]]; [[Paper A2A: The Constraint Cascade|Paper A2A: The Constraint Cascade]] (the structural descent the beginning initiates, and the three readings gathered); [[Paper A4: The Ascent of Man|Paper A4: The Ascent of Man]] (the material trail from the electroweak vacuum to us)*
 
 ---
 
