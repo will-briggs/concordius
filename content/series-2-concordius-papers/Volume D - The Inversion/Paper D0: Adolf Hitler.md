@@ -105,4 +105,4 @@ It would be the easiest thing to read this and feel clean by the contrast — to
 
 ---
 
-*[[Paper D1: Joseph Stalin|Paper D1: Joseph Stalin]] →*
+*[[Adam D1: Diabolical]] →*

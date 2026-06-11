@@ -1,4 +1,4 @@
-*← [[Paper D0: Adolf Hitler|Paper D0: Adolf Hitler]]*
+*← [[Adam D1: Diabolical]]*
 
 # Paper D1: Joseph Stalin: The Complete Inversion of the True (Draft)
 
