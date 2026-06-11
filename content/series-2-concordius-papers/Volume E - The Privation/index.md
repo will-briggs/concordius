@@ -28,14 +28,14 @@ tags:
 
 ---
 
-The inverters named, now the thing itself. Evil read as *privation* — not a substance but a good lost, not a power but the absence of one — traced from the first lie and the vessel that must hold it, through the three inverted virtues, to pride at the root, and across the single crossing that reverses it. Here the mathematics carries the most, and the testimony is, for the first time and under guard, admitted to fill a silence the derivation opens.
+The inverters named, now the thing itself. Evil read as *privation* — not a substance but a good lost, not a power but the absence of one — traced from the first lie and the vessel that must hold it, through the three inverted virtues, to pride at the root, and across the single crossing that reverses it. Here the mathematics carries the most, and the testimony is, for the first time and under guard, admitted to fill a silence the system's own incompleteness opens.
 
 ---
 
 ## Summary of Contents
 
 **[[Paper E0: The Derivation and the Testimony|Paper E0 — The Derivation and the Testimony]]**
-*Two parts set side by side. The first is a derivation — pure mathematics, certain, already in hand; the second a testimony — pure assertion, uncertain, admitted from outside the system through the gate the first opens. The apparatus that lets them be read in one frame is the truth measure, with one rule fixed over everything that follows: where the mathematics, the Scripture, and the testimony disagree, the mathematics governs first, the Scripture second, the testimony last.*
+*Two things set side by side. The first is a warrant — the incompleteness established in D0 (where it accounted for how the inversion enters H₄₈ from another subspace), turned now to truth's side: a system that cannot reach from within what it needs must admit a witness from outside, at a stated tier. The second is a testimony — pure assertion, uncertain, let in through the gate the warrant opens. The apparatus that holds them in one frame is the truth measure, with one rule fixed: where the mathematics, the Scripture, and the testimony disagree, the mathematics governs first, the Scripture second, the testimony last.*
 
 **[[Paper E1: The Lie|Paper E1 — The Lie]]**
 *The first substantive question put to the three witnesses in their fixed order: what, exactly, was the first lie? Stated in the framework's own terms, refuted by the mathematics, confirmed by the Scripture, and filled in — at the lowest tier, under the guard the opening note set — by the testimony. The precedence holds at every junction: mathematics first, then Scripture, then the testimony.*
