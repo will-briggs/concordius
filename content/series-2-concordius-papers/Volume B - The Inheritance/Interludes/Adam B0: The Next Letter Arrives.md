@@ -4,11 +4,9 @@
 
 ---
 
-Joe collected the post on his way in and carried it through to the study. Adam was in his usual spot — pencil in hand, the margins already black with it, a cup of coffee gone cold and forgotten at the corner of the desk.
+Joe collected the post on his way in and carried it through to the study. It was a raw grey morning, the lamp lit against it; Adam was in his usual spot, pencil in hand, the margins already black with it, a cup of coffee gone cold and forgotten at the corner of the desk.
 
-He looked up, and his whole face opened. "Joe!" — as though it hadn't been last week. Adam got up and shook his hand.
-
-Joe handed him the post. He had noticed that Adam had stopped mentioning the letters some while back, and had taken the silence to mean the business was done with. He'd never asked; it wasn't his place, and anyway the hunt had plainly run its course — though to this day he couldn't have said which of them, in the end, had got the other.
+He looked up, and his whole face opened. "Joe!" — as though a week were a year. He got up and shook his hand, and Joe gave him the post. He had noticed that Adam had stopped mentioning the letters some while back, and had taken the silence to mean the business was done with. He'd never asked; it wasn't his place, and anyway the hunt had plainly run its course — though to this day he couldn't have said which of them, in the end, had got the other.
 
 Adam thumbed through the stack with a sentence half-begun — and stopped.
 
